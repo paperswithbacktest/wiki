@@ -1,6 +1,8 @@
 ---
-title: "Weighted Average Market Capitalization: Overview and Alternatives (Algo Trading)"
-description: "Explore the role of Weighted Average Market Capitalization in algorithmic trading learn about its impact on index funds and portfolio management strategies."
+category: trading_strategy
+description: Explore the role of Weighted Average Market Capitalization in algorithmic
+  trading learn about its impact on index funds and portfolio management strategies.
+title: 'Weighted Average Market Capitalization: Overview and Alternatives (Algo Trading)'
 ---
 
 Algorithmic trading has transformed the way financial markets operate, offering a robust mechanism for executing investment strategies with precision and speed. Among the various strategies that leverage this technological advancement is the Weighted Average Market Capitalization (WAMC). This technique prioritizes investment in larger market entities based on their market capitalization, providing a balanced approach that mirrors economic reality.

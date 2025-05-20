@@ -1,6 +1,8 @@
 ---
-title: "Strategies for Copycat Investing (Algo Trading)"
-description: "Explore copycat investing and algorithmic trading strategies to emulate top investors and automate trades for enhanced performance and decision-making efficiency."
+category: trading_strategy
+description: Explore copycat investing and algorithmic trading strategies to emulate
+  top investors and automate trades for enhanced performance and decision-making efficiency.
+title: Strategies for Copycat Investing (Algo Trading)
 ---
 
 Investment strategies have evolved significantly over the years, leading to the rise of innovative approaches such as mimic investing, copycat investing, and algorithmic trading. These strategies, rooted in the advancements of technology and behavioral finance, have gained traction among various investor profiles, offering unique advantages and challenges.

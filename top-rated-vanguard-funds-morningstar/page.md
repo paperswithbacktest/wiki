@@ -1,6 +1,12 @@
 ---
-title: "Top-Rated Vanguard Funds by Morningstar (Algo Trading)"
-description: "Explore the top-rated Vanguard funds by Morningstar and discover how their low-cost, diversified investment options can enhance your portfolio. Learn about Vanguard's commitment to investor-centric policies and cost efficiency, and how high Morningstar ratings can guide your investment decisions. Understand the influence of algorithmic trading on financial strategies to maximize returns and manage risks in today's market landscape."
+category: dataset
+description: Explore the top-rated Vanguard funds by Morningstar and discover how
+  their low-cost, diversified investment options can enhance your portfolio. Learn
+  about Vanguard's commitment to investor-centric policies and cost efficiency, and
+  how high Morningstar ratings can guide your investment decisions. Understand the
+  influence of algorithmic trading on financial strategies to maximize returns and
+  manage risks in today's market landscape.
+title: Top-Rated Vanguard Funds by Morningstar (Algo Trading)
 ---
 
 Vanguard funds have been a pivotal force in the investment world, particularly known for pioneering low-cost index funds and exchange-traded funds (ETFs). Established by John C. Bogle in 1975, Vanguard has consistently emphasized cost efficiency, transparency, and investor-centric policies, which have propelled them to be one of the largest global investment management companies. The firm's expansive range of products includes both actively managed and passive index funds that cater to various investor needs, offering diversified exposure across different asset classes and geographic markets.

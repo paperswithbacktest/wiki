@@ -1,6 +1,8 @@
 ---
-title: "Yellow Sheets: Overview and Functionality (Algo Trading)"
-description: "Explore how Yellow Sheets and algorithmic trading are transforming financial markets by enhancing transparency and automating trade execution for investors."
+category: quant_concept
+description: Explore how Yellow Sheets and algorithmic trading are transforming financial
+  markets by enhancing transparency and automating trade execution for investors.
+title: 'Yellow Sheets: Overview and Functionality (Algo Trading)'
 ---
 
 Financial markets are undergoing constant transformation as technology continues to advance, ushering in new methods and opportunities for traders and investors worldwide. In this dynamic landscape, Yellow Sheets and algorithmic trading emerge as two pivotal elements that reflect the ongoing evolution of these markets.

@@ -1,6 +1,8 @@
 ---
-title: "Unbundling: Mechanism, Benefits, and Examples (Algo Trading)"
-description: "Explore the benefits and mechanisms of unbundling in business strategy Discover how it enhances consumer choice and its application in algorithmic trading"
+category: quant_concept
+description: Explore the benefits and mechanisms of unbundling in business strategy
+  Discover how it enhances consumer choice and its application in algorithmic trading
+title: 'Unbundling: Mechanism, Benefits, and Examples (Algo Trading)'
 ---
 
 In the dynamic landscape of business strategy, the concept of unbundling has gained significant traction. Unbundling involves breaking down bundled products or services to meet consumer needs more effectively. This approach allows companies to offer individual components of a product or service separately, thereby granting consumers the flexibility to purchase only what they require. As consumer expectations shift towards more personalized and tailored experiences, unbundling has emerged as a formidable strategy to fulfill these demands.

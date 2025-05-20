@@ -1,7 +1,8 @@
 ---
-title: Understanding Spatial Pooling in Convolutional Neural Networks
+category: quant_concept
 description: Spatial pooling reduces feature map size while preserving critical image
   patterns so CNNs run faster and handle variations with ease Discover more inside
+title: Understanding Spatial Pooling in Convolutional Neural Networks
 ---
 
 ![Image](images/1.png)

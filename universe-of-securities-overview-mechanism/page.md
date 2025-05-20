@@ -1,6 +1,8 @@
 ---
-title: "Universe of Securities: Overview and Mechanism (Algo Trading)"
-description: "Explore how investment securities, finance, and algorithmic trading combine to create efficient market transactions with advanced strategies and AI technology."
+category: trading_strategy
+description: Explore how investment securities, finance, and algorithmic trading combine
+  to create efficient market transactions with advanced strategies and AI technology.
+title: 'Universe of Securities: Overview and Mechanism (Algo Trading)'
 ---
 
 In the finance world, 'investment securities finance algo trading' represents a sophisticated synergy between technology and investing, where precision and efficiency drive market transactions. Algorithmic trading has emerged as a cornerstone strategy, particularly among institutional investors who benefit from its capacity to execute trades at speeds and frequencies that far exceed human capabilities. By utilizing complex computer algorithms, this trading approach allows for the automatic buying and selling of securities based on predefined criteria, optimizing transaction timing to capitalize on market inefficiencies.

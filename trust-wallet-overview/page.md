@@ -1,6 +1,8 @@
 ---
-title: "Trust Wallet Overview (Algo Trading)"
-description: "Explore the comprehensive features and security measures of Trust Wallet a non-custodial cryptocurrency wallet ideal for enhancing algo trading strategies "
+category: quant_concept
+description: 'Explore the comprehensive features and security measures of Trust Wallet
+  a non-custodial cryptocurrency wallet ideal for enhancing algo trading strategies '
+title: Trust Wallet Overview (Algo Trading)
 ---
 
 Trust Wallet is a prominent non-custodial cryptocurrency wallet that provides users with full control over their digital assets. Unlike custodial wallets, where a third party holds the private keys and, consequently, control over assets, Trust Wallet ensures that only the user has access to their private keys. This autonomy aligns with the core ethos of decentralization inherent in blockchain technology, granting users the power to manage their finances independently and securely.

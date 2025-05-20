@@ -1,6 +1,8 @@
 ---
-title: "World Equity Benchmark Series (Algo Trading)"
-description: "Explore the World Equity Benchmark Series WEBS and its evolution into iShares MSCI ETFs. Discover how algorithmic trading enhances global investment strategies."
+category: dataset
+description: Explore the World Equity Benchmark Series WEBS and its evolution into
+  iShares MSCI ETFs. Discover how algorithmic trading enhances global investment strategies.
+title: World Equity Benchmark Series (Algo Trading)
 ---
 
 The financial markets have undergone significant transformations with the introduction of innovative instruments. Among these, financial index equity benchmarks, such as the World Equity Benchmark Series (WEBS), have been instrumental in shaping global investment strategies. WEBS originally aimed to provide investors with diversified exposure across international markets, allowing them to participate in global economic growth while minimizing the complexities involved in picking individual stocks. These benchmarks were initially introduced by Morgan Stanley in 1996 and later evolved into the iShares MSCI ETFs, now managed by BlackRock, tracking various MSCI indices.

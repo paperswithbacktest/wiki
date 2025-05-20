@@ -1,6 +1,8 @@
 ---
-title: "Value Line Investment Survey (Algo Trading)"
-description: "Explore how the Value Line Investment Survey and algo trading can be integrated for enhanced stock market analysis and smarter investment decisions."
+category: dataset
+description: Explore how the Value Line Investment Survey and algo trading can be
+  integrated for enhanced stock market analysis and smarter investment decisions.
+title: Value Line Investment Survey (Algo Trading)
 ---
 
 The Value Line Investment Survey is a widely respected tool in the world of financial analysis. It offers comprehensive data, insights, and stock recommendations that have been aiding investors for decades. The survey's data-driven approach provides invaluable information for assessing stock performance, making it a cornerstone resource for financial analysts and investors alike. By examining various metrics such as company financials, market trends, and expert analysis, the Value Line Investment Survey empowers investors to make informed decisions in an often unpredictable stock market.

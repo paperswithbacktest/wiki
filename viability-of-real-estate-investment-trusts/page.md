@@ -1,6 +1,8 @@
 ---
-title: "Viability of Real Estate Investment Trusts (Algo Trading)"
-description: "Explore the synergy of Real Estate Investment Trusts and algorithmic trading to optimize portfolios with data-driven strategies for income and diversification."
+category: trading_strategy
+description: Explore the synergy of Real Estate Investment Trusts and algorithmic
+  trading to optimize portfolios with data-driven strategies for income and diversification.
+title: Viability of Real Estate Investment Trusts (Algo Trading)
 ---
 
 Real Estate Investment Trusts (REITs) have become a vital component in modern investment portfolios, offering distinct advantages such as diversification and income generation. These entities allow investors to partake in the ownership and profit from real estate assets without requiring direct property investment. Primarily, REITs design their structure to distribute at least 90% of taxable income as dividends, making them appealing for income-focused investors seeking regular returns.

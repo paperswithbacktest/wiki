@@ -1,6 +1,8 @@
 ---
-title: "Shareholder Equity Ratio Calculation (Algo Trading)"
-description: "Learn how to calculate the equity ratio for evaluating financial leverage and risk in algo trading, and integrate it with shareholder equity for better decision-making."
+category: quant_concept
+description: Learn how to calculate the equity ratio for evaluating financial leverage
+  and risk in algo trading, and integrate it with shareholder equity for better decision-making.
+title: Shareholder Equity Ratio Calculation (Algo Trading)
 ---
 
 In today's rapidly evolving financial world, understanding key financial metrics is essential for investors and traders alike. These metrics provide critical insights into the financial health and operational effectiveness of companies, guiding investment strategies and trading decisions. Among these, the equity ratio and shareholder equity stand out as vital components in financial management and algorithmic trading.

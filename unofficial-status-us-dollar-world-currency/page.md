@@ -1,6 +1,9 @@
 ---
-title: "Unofficial Status of the U.S. Dollar as the World Currency (Algo Trading)"
-description: "Explore the unofficial status of the U.S. dollar as the world's currency and its interaction with the evolving landscape of algorithmic trading, impacting global finance."
+category: quant_concept
+description: Explore the unofficial status of the U.S. dollar as the world's currency
+  and its interaction with the evolving landscape of algorithmic trading, impacting
+  global finance.
+title: Unofficial Status of the U.S. Dollar as the World Currency (Algo Trading)
 ---
 
 The U.S. Dollar (USD) occupies a unique and influential position in the global economy, underscoring its reputation as the world’s primary currency. This status arises from its widespread acceptance across international markets, facilitating global trade, investment, and financial transactions. As a global reserve currency, the USD underpins a significant portion of international economic activities, providing stability and liquidity which are critical for the smooth functioning of global markets.

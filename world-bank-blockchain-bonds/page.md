@@ -1,6 +1,9 @@
 ---
-title: "World Bank Blockchain Bonds (Algo Trading)"
-description: "Explore the groundbreaking integration of blockchain in bond issuance, led by the World Bank. Discover how blockchain enhances transparency and efficiency in finance."
+category: trading_strategy
+description: Explore the groundbreaking integration of blockchain in bond issuance,
+  led by the World Bank. Discover how blockchain enhances transparency and efficiency
+  in finance.
+title: World Bank Blockchain Bonds (Algo Trading)
 ---
 
 The financial landscape has been undergoing significant changes with the advent of new technologies, reshaping traditional systems and introducing novel mechanisms for efficiency and security. One of the most impressive innovations in this ever-evolving financial ecosystem is the integration of blockchain technology, specifically in the segment of bond issuance. As a decentralized digital ledger, blockchain offers the potential to enhance transparency and streamline operations across various financial transactions.

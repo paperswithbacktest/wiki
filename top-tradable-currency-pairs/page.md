@@ -1,6 +1,12 @@
 ---
-title: "Top Tradable Currency Pairs (Algo Trading)"
-description: "Explore the dynamic world of Forex and algorithmic trading in this insightful article. Learn about major currency pairs like EUR/USD and GBP/USD as well as the impact of algorithmic trading in today's markets. Discover the unique characteristics of popular trading pairs while understanding the benefits and challenges of automated trading strategies. Gain valuable knowledge to help you navigate Forex markets effectively and develop robust trading techniques in an evolving financial landscape."
+category: trading_strategy
+description: Explore the dynamic world of Forex and algorithmic trading in this insightful
+  article. Learn about major currency pairs like EUR/USD and GBP/USD as well as the
+  impact of algorithmic trading in today's markets. Discover the unique characteristics
+  of popular trading pairs while understanding the benefits and challenges of automated
+  trading strategies. Gain valuable knowledge to help you navigate Forex markets effectively
+  and develop robust trading techniques in an evolving financial landscape.
+title: Top Tradable Currency Pairs (Algo Trading)
 ---
 
 The financial markets present a diverse array of trading opportunities, with Forex trading and algorithmic trading emerging as prominent fields attracting substantial interest. Forex, the largest and most liquid financial market globally, facilitates the exchange of currencies, thereby generating a daily trading volume exceeding $6 trillion. This enormous liquidity is a significant factor contributing to its attractiveness among traders seeking potential profits across various currency pairs, such as EUR/USD or GBP/USD.

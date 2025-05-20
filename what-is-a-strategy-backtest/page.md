@@ -1,6 +1,11 @@
 ---
-title: "What is a strategy backtest?"
-description: "Discover the concept of a strategy backtest and its importance in assessing a trading strategy's viability using historical data. Learn the steps involved in conducting a backtest, including strategy definition, data acquisition, simulation, evaluation, analysis, and potential risks. Explore resources for further study and datasets to get started in quantitative trading."
+category: trading_strategy
+description: Discover the concept of a strategy backtest and its importance in assessing
+  a trading strategy's viability using historical data. Learn the steps involved in
+  conducting a backtest, including strategy definition, data acquisition, simulation,
+  evaluation, analysis, and potential risks. Explore resources for further study and
+  datasets to get started in quantitative trading.
+title: What is a strategy backtest?
 ---
 
 A strategy backtest is a method of evaluating the effectiveness and potential success of a specific strategy by applying it to historical data. This approach is integral to data-driven decision-making processes, allowing analysts to assess potential outcomes and optimize strategies before actual deployment. By simulating how a strategy would have performed in the past, backtesting offers insights into the strategy's viability and potential profitability.

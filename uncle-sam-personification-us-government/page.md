@@ -1,6 +1,12 @@
 ---
-title: "Uncle Sam as a Personification of the U.S. Government (Algo Trading)"
-description: "Explore the personification of Uncle Sam as it intersects with the evolution of algorithmic trading in the U.S. financial markets. This article investigates into how this iconic symbol represents governmental oversight and regulation, addressing the complexities and responsibilities emerging from technological advancements in trading. Discover Uncle Sam's historical significance and modern implications in balancing innovation with financial security."
+category: quant_concept
+description: Explore the personification of Uncle Sam as it intersects with the evolution
+  of algorithmic trading in the U.S. financial markets. This article investigates
+  into how this iconic symbol represents governmental oversight and regulation, addressing
+  the complexities and responsibilities emerging from technological advancements in
+  trading. Discover Uncle Sam's historical significance and modern implications in
+  balancing innovation with financial security.
+title: Uncle Sam as a Personification of the U.S. Government (Algo Trading)
 ---
 
 The iconic figure of Uncle Sam has long represented the U.S. government in various capacities, serving as a cultural emblem that resonates with American identity. Originating during the War of 1812, Uncle Sam has transformed over the years, becoming synonymous with patriotism and government authority. This personification extends to diverse areas including military recruitment, where the imagery became especially prominent during World War I with the famous "I Want You" poster. Beyond its role in national defense and propaganda, Uncle Sam symbolizes financial oversight, epitomizing the federal government's role in taxation and economic regulation.

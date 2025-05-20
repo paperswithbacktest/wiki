@@ -1,6 +1,14 @@
 ---
-title: "Standard Error and Standard Deviation in Statistics (Algo Trading)"
-description: "Explore the significance of standard error and standard deviation in statistics and algorithmic trading. Delve into how these measures are crucial for understanding market volatility and managing financial risk. Standard error provides insights into the accuracy of sample means, essential for testing trading algorithms, while standard deviation helps assess risk and volatility, critical for strategy development. This article highlights the application of these statistical concepts in creating robust trading strategies, enhancing prediction accuracy, and optimizing risk management within algorithmic trading."
+category: quant_concept
+description: Explore the significance of standard error and standard deviation in
+  statistics and algorithmic trading. Delve into how these measures are crucial for
+  understanding market volatility and managing financial risk. Standard error provides
+  insights into the accuracy of sample means, essential for testing trading algorithms,
+  while standard deviation helps assess risk and volatility, critical for strategy
+  development. This article highlights the application of these statistical concepts
+  in creating robust trading strategies, enhancing prediction accuracy, and optimizing
+  risk management within algorithmic trading.
+title: Standard Error and Standard Deviation in Statistics (Algo Trading)
 ---
 
 In statistics and algorithmic trading, understanding core concepts such as standard error and standard deviation is essential. These statistical measures are fundamental to many trading strategies, offering insight into market volatility and risk management. Standard error provides an estimate of the variability of the sample mean relative to the true population mean, playing a critical role in inferential statistics. On the other hand, standard deviation quantifies the dispersion of data points from their mean, serving as a key metric for assessing market volatility.
@@ -220,4 +228,3 @@ Using a combination of statistical measures allows traders to circumvent the lim
 3. In "Evidence-Based Technical Analysis: Applying the Scientific Method and Statistical Inference to Trading Signals," David Aronson explores the application of statistical inference in creating reliable trading signals. The book underscores the importance of evidence-based approaches in developing technical analysis strategies, highlighting tools like standard deviation and standard error.
 
 These references provide foundational knowledge and cutting-edge techniques for leveraging statistical measures in the development of algorithmic trading strategies. They advocate for a scientific approach to trading, emphasizing the role of statistical tools in risk management and decision-making processes.
-

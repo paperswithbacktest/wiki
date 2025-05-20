@@ -1,6 +1,9 @@
 ---
-title: "Xetra Trading System Comparison (Algo Trading)"
-description: "Explore the benefits of combining Xetra's electronic trading platform with algorithmic strategies to enhance trading efficiency and performance in financial markets."
+category: trading_strategy
+description: Explore the benefits of combining Xetra's electronic trading platform
+  with algorithmic strategies to enhance trading efficiency and performance in financial
+  markets.
+title: Xetra Trading System Comparison (Algo Trading)
 ---
 
 The trading systems landscape is constantly evolving, characterized by rapid technological advancements and increased market complexity. Trading systems are essential tools within financial markets, enabling participants to execute trades efficiently and effectively. They range from traditional trading floors to sophisticated electronic platforms, which offer greater speed, transparency, and accessibility.

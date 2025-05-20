@@ -1,7 +1,8 @@
 ---
-title: User Matrix Fundamentals and Applications in Machine Learning
+category: quant_concept
 description: User Matrix analysis shows how to build and optimize data tables for
   personalized recommendations and user behavior insights Discover more inside.
+title: User Matrix Fundamentals and Applications in Machine Learning
 ---
 
 ![Image](images/1.png)

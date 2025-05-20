@@ -1,6 +1,11 @@
 ---
-title: "Volatility Calculation in Excel (Algo Trading)"
-description: "Explore how Excel empowers traders with tools for calculating financial volatility crucial for algorithmic trading. Discover the significance of historical and implied volatility in risk management and investment strategy optimization. Learn step-by-step calculations to harness volatility insights to enhance decision-making and develop robust trading algorithms for thriving in ever-changing markets."
+category: quant_concept
+description: Explore how Excel empowers traders with tools for calculating financial
+  volatility crucial for algorithmic trading. Discover the significance of historical
+  and implied volatility in risk management and investment strategy optimization.
+  Learn step-by-step calculations to harness volatility insights to enhance decision-making
+  and develop robust trading algorithms for thriving in ever-changing markets.
+title: Volatility Calculation in Excel (Algo Trading)
 ---
 
 In finance, volatility stands as a crucial element influencing both investment decisions and risk management. It represents the degree of variation in asset prices over time, providing a quantitative measure that is essential for assessing market risk and identifying potential opportunities. By analyzing volatility, investors and traders gain insights into price fluctuations, enabling informed decision-making that aligns with their risk appetite and financial goals.

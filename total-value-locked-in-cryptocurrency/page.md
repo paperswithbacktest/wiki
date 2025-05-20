@@ -1,6 +1,9 @@
 ---
-title: "Total Value Locked in Cryptocurrency (Algo Trading)"
-description: "Discover how Total Value Locked (TVL) impacts cryptocurrency and algorithmic trading by providing vital insights into DeFi project health liquidity and investor confidence."
+category: quant_concept
+description: Discover how Total Value Locked (TVL) impacts cryptocurrency and algorithmic
+  trading by providing vital insights into DeFi project health liquidity and investor
+  confidence.
+title: Total Value Locked in Cryptocurrency (Algo Trading)
 ---
 
 The cryptocurrency world has undergone significant changes, with Total Value Locked (TVL) emerging as a crucial metric in evaluating the health and potential of decentralized finance (DeFi) projects. TVL measures the overall value of cryptocurrencies deposited in DeFi protocols, providing a snapshot of the capital tied up in these decentralized ecosystems. As a result, it has become an essential indicator for assessing the stability and attractiveness of blockchain projects.

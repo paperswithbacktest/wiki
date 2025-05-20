@@ -1,7 +1,8 @@
 ---
-title: Ternarization in Machine Learning for Efficient Neural Networks
+category: quant_concept
 description: Ternarization in machine learning reduces neural network weights to three
   values improving memory and speed for edge devices Discover more inside.
+title: Ternarization in Machine Learning for Efficient Neural Networks
 ---
 
 ![Image](images/1.png)

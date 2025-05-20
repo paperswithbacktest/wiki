@@ -1,6 +1,9 @@
 ---
-title: "Short Squeeze in Financial Markets (Algo Trading)"
-description: "Explore the relationship between short squeezes and algorithmic trading in financial markets Discover strategies to leverage these phenomena for smarter investments"
+category: trading_strategy
+description: Explore the relationship between short squeezes and algorithmic trading
+  in financial markets Discover strategies to leverage these phenomena for smarter
+  investments
+title: Short Squeeze in Financial Markets (Algo Trading)
 ---
 
 In the ever-evolving landscape of financial markets, investment strategies must adapt swiftly to new trends and technologies. A notable phenomenon that has garnered substantial attention in recent times is the short squeeze. This market event occurs when a heavily shorted stock experiences a rapid increase in price, compelling short sellers to purchase shares to cover their positions, thereby driving prices further up. The GameStop incident in early 2021 is a prime example, showcasing how retail investors, leveraging platforms like social media, can induce such dramatic market movements.

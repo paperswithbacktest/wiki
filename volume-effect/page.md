@@ -1,6 +1,10 @@
 ---
-title: "Volume Effect (Algo Trading)"
-description: Discover the importance and role of volume in algo trading, a fundamental yet often overlooked indicator. Learn how high volume can indicate market strength and predict momentum shifts. Explore strategies for using volume to enhance trading signals and confirm trend reversals or breakouts.
+category: trading_strategy
+description: Discover the importance and role of volume in algo trading, a fundamental
+  yet often overlooked indicator. Learn how high volume can indicate market strength
+  and predict momentum shifts. Explore strategies for using volume to enhance trading
+  signals and confirm trend reversals or breakouts.
+title: Volume Effect (Algo Trading)
 ---
 
 Algorithmic trading involves the use of computer programs to execute trades based on predefined strategies. These strategies are often designed to leverage historical and real-time data to optimize trade execution and minimize human intervention. In the context of modern financial markets, algorithmic trading has become essential due to its speed, efficiency, and ability to process vast amounts of data, enabling traders to capitalize on short-lived market opportunities that are often inaccessible through manual trading methods.

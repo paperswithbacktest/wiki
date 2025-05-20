@@ -1,6 +1,9 @@
 ---
-title: "Unrestricted Net Assets (Algo Trading)"
-description: "Explore how unrestricted net assets enhance financial flexibility in algorithmic trading offering organizations a strategic edge to thrive in dynamic markets."
+category: quant_concept
+description: Explore how unrestricted net assets enhance financial flexibility in
+  algorithmic trading offering organizations a strategic edge to thrive in dynamic
+  markets.
+title: Unrestricted Net Assets (Algo Trading)
 ---
 
 In recent years, the financial landscape has dramatically transformed with advancements in algorithmic trading and the implementation of more sophisticated financial accounting measures. Algorithmic trading, which utilizes computers programmed to follow a defined set of instructions for placing trades to generate profits at a speed and frequency that a human trader cannot achieve, has revolutionized market dynamics. These algorithms can scan multiple markets and exchanges instantly, enabling rapid execution of trading strategies. The increasing complexity and speed of market transactions require organizations to possess a high degree of financial flexibility, which often hinges on their net assets.

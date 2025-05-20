@@ -1,6 +1,9 @@
 ---
-title: "Standard Deviation in Risk Assessment (Algo Trading)"
-description: "Explore the pivotal role of standard deviation in risk assessment within algorithmic trading This statistical tool measures volatility aiding informed financial decisions"
+category: quant_concept
+description: Explore the pivotal role of standard deviation in risk assessment within
+  algorithmic trading This statistical tool measures volatility aiding informed financial
+  decisions
+title: Standard Deviation in Risk Assessment (Algo Trading)
 ---
 
 Financial risk assessment, standard deviation, and algorithmic trading form an intricate trio essential to modern investment and trading environments. In finance, risk measurement is crucial for informed decision-making. It helps investors and traders understand potential losses and enables them to devise strategies that align with their risk tolerance and investment goals. The objective of financial risk assessment is to quantify the uncertainty associated with different financial instruments and markets, which guides investors in allocating assets and managing portfolios effectively.
@@ -236,4 +239,3 @@ Emphasizing ongoing education in risk assessment techniques and staying informed
    This book introduces various risk management concepts and practices. It's a useful resource for gaining a broader understanding of risk measurement tools, including the application of statistical metrics like standard deviation in insurance and trading. 
 
 These resources offer a thorough foundation for understanding and applying financial risk management techniques. They also provide guidance on advancing one's knowledge in quantitative finance and algorithmic trading strategies.
-

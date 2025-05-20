@@ -1,6 +1,9 @@
 ---
-title: "Stochastic Optimal Control in Trading (Algo Trading)"
-description: "Explore the crucial role of stochastic optimal control in algorithmic trading strategies to enhance profit while managing risk in unpredictable financial markets."
+category: quant_concept
+description: Explore the crucial role of stochastic optimal control in algorithmic
+  trading strategies to enhance profit while managing risk in unpredictable financial
+  markets.
+title: Stochastic Optimal Control in Trading (Algo Trading)
 ---
 
 In the world of algorithmic trading, stochastic optimal control plays a crucial role in developing strategies that aim to optimize profit margins while minimizing associated risks. Stochastic optimal control is a mathematical framework used for decision-making under uncertainty, a feature intrinsic to financial markets. By applying these controls, traders can craft more effective and efficient trading strategies.

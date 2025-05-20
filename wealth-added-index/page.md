@@ -1,6 +1,9 @@
 ---
-title: "Wealth Added Index (Algo Trading)"
-description: "Discover the Wealth Added Index for a comprehensive understanding of economic profitability This metric evaluates investment performance by considering cost of equity"
+category: quant_concept
+description: Discover the Wealth Added Index for a comprehensive understanding of
+  economic profitability This metric evaluates investment performance by considering
+  cost of equity
+title: Wealth Added Index (Algo Trading)
 ---
 
 In today's fast-paced financial world, evaluating investment performance accurately is crucial for investors and companies alike. Investors seek to optimize returns, while companies aim to demonstrate their value to attract capital. Traditional financial metrics often fall short in capturing the complete picture of a company's economic profitability. This gap has led to the development of the Wealth Added Index (WAI), an innovative metric designed to measure the true economic profitability of a company. Unlike conventional metrics, WAI provides a broader perspective by accounting for both past performance and future potential, thus offering a more comprehensive evaluation of a company's value creation.

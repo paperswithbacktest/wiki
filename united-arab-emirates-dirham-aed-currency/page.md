@@ -1,6 +1,14 @@
 ---
-title: "United Arab Emirates Dirham (AED) Currency (Algo Trading)"
-description: "Explore the role of the United Arab Emirates Dirham (AED) in the global economy, highlighting its stable peg to the U.S. dollar and significance in algorithmic trading. The AED's steadfast value fosters economic stability and investor confidence, particularly in the UAE's primary oil and gas sectors. As algorithmic trading gains momentum, the UAE's robust fintech landscape presents a promising environment for leveraging data-driven financial strategies utilizing the AED. This comprehensive overview underscores the integral relationship between the AED, UAE's economic growth, and innovative trading practices."
+category: quant_concept
+description: Explore the role of the United Arab Emirates Dirham (AED) in the global
+  economy, highlighting its stable peg to the U.S. dollar and significance in algorithmic
+  trading. The AED's steadfast value fosters economic stability and investor confidence,
+  particularly in the UAE's primary oil and gas sectors. As algorithmic trading gains
+  momentum, the UAE's robust fintech landscape presents a promising environment for
+  leveraging data-driven financial strategies utilizing the AED. This comprehensive
+  overview underscores the integral relationship between the AED, UAE's economic growth,
+  and innovative trading practices.
+title: United Arab Emirates Dirham (AED) Currency (Algo Trading)
 ---
 
 The United Arab Emirates (UAE) dirham, abbreviated as AED, is the official currency used throughout the UAE, encompassing significant cities such as Dubai and Abu Dhabi. Introduced in 1973, the AED quickly established itself as a symbol of economic stability within the region. This stability is largely attributed to its stable exchange rate, as the AED is pegged to the U.S. dollar at a rate of 3.6725 AED per USD. This fixed exchange rate enhances its reliability and significance in global markets, providing predictability and security for international investors and businesses dealing in the UAE.

@@ -1,6 +1,8 @@
 ---
-title: "Yield to Maturity and Yield to Call Comparison (Algo Trading)"
-description: "Explore the key differences between Yield to Maturity and Yield to Call for bonds in algorithmic trading Gain insights to optimize fixed income investments"
+category: quant_concept
+description: Explore the key differences between Yield to Maturity and Yield to Call
+  for bonds in algorithmic trading Gain insights to optimize fixed income investments
+title: Yield to Maturity and Yield to Call Comparison (Algo Trading)
 ---
 
 In fixed income investing, understanding bond yields is essential for assessing potential returns on investment. Yield to Maturity (YTM) and Yield to Call (YTC) are two pivotal metrics, especially significant for investors dealing with callable bonds. Yield to Maturity evaluates the total expected return of a bond if it is kept until its maturity date, providing a complete picture of profitability. Alternatively, Yield to Call measures the expected yield if the bond is redeemed before reaching maturity. Callable bonds, which issuers can redeem before their maturity date, often come with a heightened YTM to compensate for the inherent call risk. 

@@ -1,6 +1,9 @@
 ---
-title: "United States Agency for International Development (Algo Trading)"
-description: "Explore how the United States, through USAID and algorithmic trading, influences global economic stability and development. Discover the pivotal roles they play."
+category: quant_concept
+description: Explore how the United States, through USAID and algorithmic trading,
+  influences global economic stability and development. Discover the pivotal roles
+  they play.
+title: United States Agency for International Development (Algo Trading)
 ---
 
 In today's interconnected world, international development and economic advancement are deeply intertwined. The United States plays a crucial role in fostering these developments through its foreign aid initiatives, primarily driven by the United States Agency for International Development (USAID). This agency's efforts have become integral to promoting peace, security, and economic prosperity globally. By aiding countries in building robust health, education, and economic systems, foreign aid serves as a catalyst for global stability and growth.

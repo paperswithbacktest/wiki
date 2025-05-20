@@ -1,6 +1,8 @@
 ---
-title: "Value Deflation (Algo Trading)"
-description: "Explore how value deflation and algorithmic trading impact market dynamics and economic realities essential for informed investment strategies and policymaking."
+category: quant_concept
+description: Explore how value deflation and algorithmic trading impact market dynamics
+  and economic realities essential for informed investment strategies and policymaking.
+title: Value Deflation (Algo Trading)
 ---
 
 Value deflation, economic deflation, and algorithmic trading are pivotal concepts in understanding contemporary finance and economics. Their convergence offers insights into market dynamics, shaping consumer behavior and guiding investment strategies. This article aims to examine each of these aspects comprehensively, highlighting their individual and collective impact on economic realities. Identifying the nuances of these factors is crucial for investors, policymakers, and economists who seek to navigate and influence financial landscapes effectively.

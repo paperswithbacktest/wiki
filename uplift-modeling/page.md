@@ -1,7 +1,8 @@
 ---
-title: Uplift Modeling in Machine Learning for Marketing Optimization
+category: quant_concept
 description: Uplift modeling predicts how promotions change customer behavior so you
   can target campaigns more effectively with causal insights Discover more inside
+title: Uplift Modeling in Machine Learning for Marketing Optimization
 ---
 
 ![Image](images/1.png)

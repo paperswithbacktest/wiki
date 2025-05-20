@@ -1,6 +1,9 @@
 ---
-title: "Style: Meaning, Classification, and Evaluation (Algo Trading)"
-description: "Explore how machine learning classification models transform algorithmic trading by predicting market trends analyzing data preparation and evaluating model performance."
+category: trading_strategy
+description: Explore how machine learning classification models transform algorithmic
+  trading by predicting market trends analyzing data preparation and evaluating model
+  performance.
+title: 'Style: Meaning, Classification, and Evaluation (Algo Trading)'
 ---
 
 Algorithmic trading refers to the use of computer algorithms to automate trading decisions in financial markets. Traditionally, these algorithms relied on predefined rules and systematic strategies to exploit inefficiencies and trends within the market. As technology has advanced and data availability has proliferated, the integration of machine learning techniques has significantly transformed algorithmic trading. Machine learning provides tools that allow algorithms to adaptively learn patterns from vast datasets, which are essential in sophisticated financial markets where rapid decision-making and adaptability are crucial.

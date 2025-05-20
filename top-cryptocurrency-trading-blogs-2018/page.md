@@ -1,6 +1,14 @@
 ---
-title: "Top Cryptocurrency Trading Blogs in 2018 (Algo Trading)"
-description: Explore the evolution of cryptocurrency trading in 2018 with a focus on algorithmic trading as it revolutionized market strategies offering speed and precision. Discover how algorithmic approaches enabled automated decision-making enhanced analysis of large datasets and adaptation to volatile market conditions. Gain insights into the broader acceptance of cryptocurrencies by financial institutions and how this period set the stage for ongoing innovation in the crypto space. Ideal for those seeking to understand past trends and anticipate future developments in cryptocurrency trading and technology integration.
+category: trading_strategy
+description: Explore the evolution of cryptocurrency trading in 2018 with a focus
+  on algorithmic trading as it revolutionized market strategies offering speed and
+  precision. Discover how algorithmic approaches enabled automated decision-making
+  enhanced analysis of large datasets and adaptation to volatile market conditions.
+  Gain insights into the broader acceptance of cryptocurrencies by financial institutions
+  and how this period set the stage for ongoing innovation in the crypto space. Ideal
+  for those seeking to understand past trends and anticipate future developments in
+  cryptocurrency trading and technology integration.
+title: Top Cryptocurrency Trading Blogs in 2018 (Algo Trading)
 ---
 
 The year 2018 marked a significant period in the evolution of cryptocurrency trading, characterized by the integration of algorithmic trading into the burgeoning crypto markets. This year witnessed a transformation where algorithmic strategies began to redefine how trading was conducted. Algorithmic trading, known for its speed and precision, allowed traders to automate decision-making processes, making crypto trading more accessible and efficient for both novice and seasoned investors.

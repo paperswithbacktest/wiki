@@ -1,6 +1,14 @@
 ---
-title: "Web Traffic Alternative Data (Algo Trading)"
-description: Web traffic alternative data is revolutionizing algorithmic trading by providing insights into consumer behavior and emerging market trends. It encompasses metrics like site visits and user engagement, allowing traders to infer potential demand shifts and market sentiment. By integrating web traffic data with traditional financial metrics, traders enhance prediction accuracy and make informed decisions, potentially achieving superior returns. The article highlights the significance of web traffic data in trading, alongside popular providers offering detailed analytics that help in forecasting stock movements and developing sophisticated trading strategies.
+category: dataset
+description: Web traffic alternative data is revolutionizing algorithmic trading by
+  providing insights into consumer behavior and emerging market trends. It encompasses
+  metrics like site visits and user engagement, allowing traders to infer potential
+  demand shifts and market sentiment. By integrating web traffic data with traditional
+  financial metrics, traders enhance prediction accuracy and make informed decisions,
+  potentially achieving superior returns. The article highlights the significance
+  of web traffic data in trading, alongside popular providers offering detailed analytics
+  that help in forecasting stock movements and developing sophisticated trading strategies.
+title: Web Traffic Alternative Data (Algo Trading)
 ---
 
 Algorithmic trading, a domain once dominated by traditional market data and financial indicators, is witnessing substantial transformation with the integration of alternative data sources. Among these sources, web traffic data stands out as a critical asset, offering nuanced insights into consumer behavior and illuminating emerging market trends in unprecedented ways. By harnessing web traffic data, traders gain access to a broader spectrum of information that complements conventional data, facilitating a more comprehensive understanding of the factors influencing stock performance and market movements.

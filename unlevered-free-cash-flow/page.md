@@ -1,6 +1,12 @@
 ---
-title: "Unlevered Free Cash Flow (Algo Trading)"
-description: "Discover how Unlevered Free Cash Flow (UFCF) is used to evaluate a company's financial health and enhance trading strategies. Explore its importance in financial analysis, particularly in the Discounted Cash Flow (DCF) model, and its application in algorithmic trading for identifying undervalued stocks. Understand the comparison between Levered and Unlevered Free Cash Flow metrics, offering insights into operational performance and investment potential."
+category: quant_concept
+description: Discover how Unlevered Free Cash Flow (UFCF) is used to evaluate a company's
+  financial health and enhance trading strategies. Explore its importance in financial
+  analysis, particularly in the Discounted Cash Flow (DCF) model, and its application
+  in algorithmic trading for identifying undervalued stocks. Understand the comparison
+  between Levered and Unlevered Free Cash Flow metrics, offering insights into operational
+  performance and investment potential.
+title: Unlevered Free Cash Flow (Algo Trading)
 ---
 
 Understanding cash flow is essential for evaluating a company's financial health. Cash flow analysis provides crucial insights into how efficiently a company generates and uses cash, which ultimately determines its ability to sustain operations and invest in future growth. Among the various cash flow metrics, Unlevered Free Cash Flow (UFCF) emerges as a pivotal indicator. UFCF reveals the cash available to a company before taking into account its financial obligations, such as interest payments and debt repayments. This metric offers a clearer view of the company's operational performance and is instrumental in financial valuation methodologies like Discounted Cash Flow (DCF) analysis.

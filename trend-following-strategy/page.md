@@ -1,6 +1,14 @@
 ---
-title: "Trend-Following Strategy Explained (Algo Trading)"
-description: Discover the trend-following strategy in algorithmic trading, renowned for its simplicity and effectiveness in capitalizing on market momentum. This approach focuses on identifying existing trends to maximize profit opportunities without predicting market turning points. The integration of automation enhances execution efficiency, providing traders with a robust framework for improved profitability and decision-making. Explore the fundamentals, benefits, techniques, and challenges of trend following to refine your trading strategies and navigate dynamic markets effectively.
+category: trading_strategy
+description: Discover the trend-following strategy in algorithmic trading, renowned
+  for its simplicity and effectiveness in capitalizing on market momentum. This approach
+  focuses on identifying existing trends to maximize profit opportunities without
+  predicting market turning points. The integration of automation enhances execution
+  efficiency, providing traders with a robust framework for improved profitability
+  and decision-making. Explore the fundamentals, benefits, techniques, and challenges
+  of trend following to refine your trading strategies and navigate dynamic markets
+  effectively.
+title: Trend-Following Strategy Explained (Algo Trading)
 ---
 
 Trend following is a central strategy in algorithmic trading, appreciated for both its simplicity and effectiveness. This strategy capitalizes on the principle of momentum, where traders aim to identify and engage in prevailing market trends. Instead of attempting to predict market turning points, trend following focuses on detecting and joining existing market movements, either upward or downward, allowing traders to benefit from substantial portions of these trends' duration.

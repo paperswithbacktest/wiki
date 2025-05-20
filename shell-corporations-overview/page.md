@@ -1,6 +1,9 @@
 ---
-title: "Shell Corporations Overview (Algo Trading)"
-description: "Explore the essential role of shell corporations in modern finance and how algorithmic trading impacts financial markets. Gain insights into strategic corporate structuring."
+category: quant_concept
+description: Explore the essential role of shell corporations in modern finance and
+  how algorithmic trading impacts financial markets. Gain insights into strategic
+  corporate structuring.
+title: Shell Corporations Overview (Algo Trading)
 ---
 
 In today's globalized economy, acquiring a comprehensive understanding of corporate structures and investment strategies is indispensable for professionals navigating the financial landscape. The modern business environment is characterized by complex corporate architectures that frequently involve sophisticated business entities such as shell corporations. These entities, often misunderstood, play crucial roles in facilitating business operations, managing tax liabilities, and structuring corporate control.

@@ -1,6 +1,8 @@
 ---
-title: "Turnover Ratio in Mutual Funds (Algo Trading)"
-description: "Discover how turnover ratios in mutual funds are impacted by algorithmic trading and learn to leverage this knowledge for more efficient investment strategies."
+category: quant_concept
+description: Discover how turnover ratios in mutual funds are impacted by algorithmic
+  trading and learn to leverage this knowledge for more efficient investment strategies.
+title: Turnover Ratio in Mutual Funds (Algo Trading)
 ---
 
 In recent years, there has been a significant surge in interest regarding mutual funds and algorithmic trading, driven largely by advancements in technology and an increasing need for diversified investment strategies. Investment mutual funds are pooled financial vehicles that collect capital from multiple investors to invest in a diversified asset portfolio. They provide individuals with access to professionally managed investment opportunities without requiring extensive market knowledge or significant capital.

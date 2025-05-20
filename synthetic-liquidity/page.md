@@ -1,6 +1,9 @@
 ---
-title: "Synthetic liquidity (Algo Trading)"
-description: "Explore the integral role of synthetic liquidity in algorithmic trading, where advanced algorithms create artificial market environments for strategy testing and innovation."
+category: quant_concept
+description: Explore the integral role of synthetic liquidity in algorithmic trading,
+  where advanced algorithms create artificial market environments for strategy testing
+  and innovation.
+title: Synthetic liquidity (Algo Trading)
 ---
 
 Synthetic liquidity is a concept integral to the functioning of algorithmic trading systems. It involves the artificial creation of liquidity in financial markets, facilitating the simulation of trading environments and hypotheses. This is particularly relevant within synthetic markets, where traders and institutions leverage algorithmic strategies to replicate real-world market conditions, thus enabling the testing and development of trading theories without direct exposure to actual market risks.

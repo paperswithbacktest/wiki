@@ -1,6 +1,13 @@
 ---
-title: "Systematic Investment Strategies Explained (Algo Trading)"
-description: Explore the structured and rule-based approach of systematic investment strategies in algorithmic trading. By using quantitative models, these methods aim to deliver consistent long-term returns, minimizing human emotion and bias. Learn about the fundamental principles, advantages, and potential challenges of employing these strategies to enhance portfolio performance and risk management in dynamic market conditions. Discover how Python and other tools aid in developing and backtesting effective trading algorithms.
+category: trading_strategy
+description: Explore the structured and rule-based approach of systematic investment
+  strategies in algorithmic trading. By using quantitative models, these methods aim
+  to deliver consistent long-term returns, minimizing human emotion and bias. Learn
+  about the fundamental principles, advantages, and potential challenges of employing
+  these strategies to enhance portfolio performance and risk management in dynamic
+  market conditions. Discover how Python and other tools aid in developing and backtesting
+  effective trading algorithms.
+title: Systematic Investment Strategies Explained (Algo Trading)
 ---
 
 Systematic investment strategies in algorithmic trading utilize a structured and rule-based approach for making investment decisions, focusing on the reduction of human emotion in trading activities. By adhering to predefined rules and leveraging quantitative models, these strategies aim to deliver consistent and reliable long-term returns, offering a disciplined methodology that mitigates biases often present in manual trading.

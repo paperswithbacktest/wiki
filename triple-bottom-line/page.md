@@ -1,6 +1,9 @@
 ---
-title: "Triple Bottom Line (Algo Trading)"
-description: "Explore the intersection of CSR, sustainability, business ethics, and algorithmic trading to understand modern strategies for competitive and responsible practices."
+category: quant_concept
+description: Explore the intersection of CSR, sustainability, business ethics, and
+  algorithmic trading to understand modern strategies for competitive and responsible
+  practices.
+title: Triple Bottom Line (Algo Trading)
 ---
 
 In today's rapidly evolving business landscape, the concepts of corporate social responsibility (CSR), sustainability, business ethics, and algorithmic trading have become significant topics of interest and discussion. These elements are not just independent considerations; rather, they intersect in complex ways that influence business operations and impact broader societal goals. As businesses navigate an increasingly interconnected and transparent world, understanding these themes and their interrelations is essential for remaining competitive and socially responsible.

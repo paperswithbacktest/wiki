@@ -1,6 +1,9 @@
 ---
-title: "Trend Trading and Profit Strategies (Algo Trading)"
-description: "Explore effective trend trading and algorithmic strategies, capturing market trends for improved trading performance and informed decision-making in the financial markets."
+category: trading_strategy
+description: Explore effective trend trading and algorithmic strategies, capturing
+  market trends for improved trading performance and informed decision-making in the
+  financial markets.
+title: Trend Trading and Profit Strategies (Algo Trading)
 ---
 
 Welcome to the world of trading strategies, where we explore various methods to profit from market movements. Trading strategies are systematic plans designed to achieve profitable returns by analyzing historical data and trading signals. Whether you're a novice starting with the basics or a seasoned trader refining your techniques, understanding diverse trading strategies is crucial. Knowledge of these strategies can provide the foundation necessary for developing a disciplined approach to trading.

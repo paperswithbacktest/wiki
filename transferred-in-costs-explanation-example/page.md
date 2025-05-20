@@ -1,6 +1,9 @@
 ---
-title: "Transferred-In Costs: Explanation and Example (Algo Trading)"
-description: "Explore the intricacies of transferred-in costs in manufacturing and how algorithmic trading can enhance cost control and operational efficiency for businesses."
+category: quant_concept
+description: Explore the intricacies of transferred-in costs in manufacturing and
+  how algorithmic trading can enhance cost control and operational efficiency for
+  businesses.
+title: 'Transferred-In Costs: Explanation and Example (Algo Trading)'
 ---
 
 Understanding manufacturing costs is critical for businesses aiming to optimize profitability and operational efficiency. Manufacturing costs refer to expenses associated with producing goods, including direct materials, direct labor, and manufacturing overhead. By identifying and analyzing these costs, companies can improve their budget planning, pricing strategies, and overall financial performance. 

@@ -1,6 +1,9 @@
 ---
-title: "Zero-Proof Bookkeeping (Algo Trading)"
-description: "Explore the synergy between bookkeeping and algorithmic trading with zero-proof bookkeeping ensuring data integrity. Enhance precision and efficiency in financial management."
+category: trading_strategy
+description: Explore the synergy between bookkeeping and algorithmic trading with
+  zero-proof bookkeeping ensuring data integrity. Enhance precision and efficiency
+  in financial management.
+title: Zero-Proof Bookkeeping (Algo Trading)
 ---
 
 In the modern financial landscape, integrating traditional accounting methods with innovative trading strategies is becoming increasingly critical for businesses. As companies seek to enhance accuracy and efficiency in their operations, a robust understanding of accounting systems and algorithmic trading can significantly bolster strategic decision-making and management processes.

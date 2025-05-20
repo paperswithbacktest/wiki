@@ -1,6 +1,9 @@
 ---
-title: "Terminal Elevator (Algo Trading)"
-description: "Explore how terminal elevators and algorithmic trading innovate the agricultural commodities market enhancing logistics, storage, and trading efficiency in grain markets."
+category: quant_concept
+description: Explore how terminal elevators and algorithmic trading innovate the agricultural
+  commodities market enhancing logistics, storage, and trading efficiency in grain
+  markets.
+title: Terminal Elevator (Algo Trading)
 ---
 
 The agricultural commodities market is an essential sector of the global economy, with terminal elevators serving as a fundamental component in the supply and distribution network. Terminal elevators facilitate the storage, transfer, and management of bulk agricultural commodities, predominantly grains, by functioning as pivotal hubs that connect producers with markets. These facilities are strategically located near agricultural production areas or major transportation channels, such as railways and ports, to optimize logistics and the movement of goods. 

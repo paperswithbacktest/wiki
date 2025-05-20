@@ -1,6 +1,8 @@
 ---
-title: "SPDR ETFs: Functionality, Origin, and Examples (Algo Trading)"
-description: "Explore how SPDR ETFs and algorithmic trading enhance investment strategies by providing diversification, efficiency, and precision in dynamic financial markets."
+category: quant_concept
+description: Explore how SPDR ETFs and algorithmic trading enhance investment strategies
+  by providing diversification, efficiency, and precision in dynamic financial markets.
+title: 'SPDR ETFs: Functionality, Origin, and Examples (Algo Trading)'
 ---
 
 Exchange-traded funds (ETFs) are investment funds traded on stock exchanges, much like stocks. They have gained significant popularity in the financial markets due to their ability to offer diversified exposure to various asset classes, sectors, or indices. ETFs enable investors to gain access to a broad range of investments, from stocks and bonds to commodities and currencies, without needing to buy each asset individually. This efficiency, combined with features such as cost-effectiveness, liquidity, and transparency, has made ETFs a preferred choice for both institutional and retail investors.

@@ -1,6 +1,9 @@
 ---
-title: "Sunshine Trade (Algo Trading)"
-description: "Explore sunshine trades an emerging strategy in financial markets prioritizing transparency by publicly disclosing transactions to reduce market speculation and lower costs."
+category: trading_strategy
+description: Explore sunshine trades an emerging strategy in financial markets prioritizing
+  transparency by publicly disclosing transactions to reduce market speculation and
+  lower costs.
+title: Sunshine Trade (Algo Trading)
 ---
 
 In the rapidly evolving landscape of financial markets, trading mechanisms and strategies are continually being refined to maximize efficiency and profitability. Investors and traders are constantly seeking innovative approaches that can offer a competitive edge while adhering to regulatory standards. This ongoing transformation has paved the way for the introduction of new trading methodologies, one of which is the sunshine trade. Sunshine trading is an emerging strategy that focuses on transparency and openness, distinguishing itself from other more opaque methods.

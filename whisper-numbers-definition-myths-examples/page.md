@@ -1,6 +1,9 @@
 ---
-title: "Whisper Numbers: Definition, Myths, and Examples (Algo Trading)"
-description: "Explore the myths and realities of whisper numbers and automated trading in investing. Understand how these concepts influence market expectations and investor behavior."
+category: quant_concept
+description: Explore the myths and realities of whisper numbers and automated trading
+  in investing. Understand how these concepts influence market expectations and investor
+  behavior.
+title: 'Whisper Numbers: Definition, Myths, and Examples (Algo Trading)'
 ---
 
 In the world of finance, myths and misconceptions are prevalent, especially when it comes to investing. These misunderstandings can significantly impact both new and seasoned investors, affecting their strategies and decisions. Two areas frequently clouded by misconceptions are automated trading and the concept of 'whisper numbers'. Automated trading, often intertwined with high-frequency algorithmic trades, is sometimes inaccurately perceived as a guaranteed path to profit. Similarly, 'whisper numbers', or the unofficial earnings forecasts circulating among traders, can mislead investors if not approached with caution.

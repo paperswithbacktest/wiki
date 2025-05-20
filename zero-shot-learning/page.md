@@ -1,6 +1,10 @@
 ---
-title: "Zero-shot Learning (Algo Trading)"
-description: Discover how Zero-shot Learning, a form of artificial intelligence, is revolutionizing algo trading by enabling rapid adaptation, cost-efficiency, and expanded market opportunities. Learn about its benefits and challenges in this comprehensive guide. Explore related resources for systematic trading, datasets, and strategies.
+category: quant_concept
+description: Discover how Zero-shot Learning, a form of artificial intelligence, is
+  revolutionizing algo trading by enabling rapid adaptation, cost-efficiency, and
+  expanded market opportunities. Learn about its benefits and challenges in this comprehensive
+  guide. Explore related resources for systematic trading, datasets, and strategies.
+title: Zero-shot Learning (Algo Trading)
 ---
 
 Zero-shot learning (ZSL) is a transformative approach in machine learning that allows models to make predictions about classes they have not been explicitly trained on. This capability sidesteps the traditional machine learning limitation that requires extensive labeled data for each class a model is supposed to identify. By leveraging semantic similarities or descriptions between known and unknown classes, zero-shot learning equips models to generalize their understanding to entirely new scenarios, refining their decision-making processes with minimal human intervention. 

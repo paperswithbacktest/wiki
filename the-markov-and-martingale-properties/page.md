@@ -1,9 +1,17 @@
 ---
-title: "The Markov and Martingale Properties Explained (Algo Trading)"
-description: Understand the Markov and Martingale properties in algorithmic trading with this comprehensive guide. Explore how the memoryless Markov property simplifies financial modeling by focusing on present states, reducing the complexity of predicting market trends. Delve into its applications in trading algorithms, highlighting advantages, limitations, and real-world examples. Learn about the integration of Markov-based models for enhanced algorithmic accuracy and the challenges faced when assumptions do not hold. Discover emerging trends and future developments in algorithmic trading to optimize your strategies and gain a competitive edge in financial markets.
+category: quant_concept
+description: Understand the Markov and Martingale properties in algorithmic trading
+  with this comprehensive guide. Explore how the memoryless Markov property simplifies
+  financial modeling by focusing on present states, reducing the complexity of predicting
+  market trends. Delve into its applications in trading algorithms, highlighting advantages,
+  limitations, and real-world examples. Learn about the integration of Markov-based
+  models for enhanced algorithmic accuracy and the challenges faced when assumptions
+  do not hold. Discover emerging trends and future developments in algorithmic trading
+  to optimize your strategies and gain a competitive edge in financial markets.
+title: The Markov and Martingale Properties Explained (Algo Trading)
 ---
 
- to Markov Property in Algorithmic Trading
+to Markov Property in Algorithmic Trading
 
 The Markov property is a fundamental concept in the study of stochastic processes, playing a pivotal role in financial modeling, particularly in the domain of algorithmic trading. It is characterized by the idea that future states of a process depend only on the present state, not on the sequence of events that preceded it. Mathematically, for a stochastic process $X_t$, the Markov property can be expressed as:
 

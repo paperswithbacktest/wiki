@@ -1,6 +1,9 @@
 ---
-title: "Tick size analysis (Algo Trading)"
-description: "Discover how tick size impacts algorithmic trading strategies by influencing market liquidity and transaction costs Gain insights into optimizing your trading performance"
+category: quant_concept
+description: Discover how tick size impacts algorithmic trading strategies by influencing
+  market liquidity and transaction costs Gain insights into optimizing your trading
+  performance
+title: Tick size analysis (Algo Trading)
 ---
 
 Algorithmic trading, often referred to as algo trading, has revolutionized financial markets by employing sophisticated algorithms capable of executing trades with velocity and frequency that surpass human abilities. This innovation leverages technology to automate trading decisions and execution, significantly increasing the efficiency of the trading process. Algorithms process vast amounts of market data rapidly, identifying trading opportunities based on predefined criteria and strategies.

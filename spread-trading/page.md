@@ -1,9 +1,13 @@
 ---
-title: "Spread Trading (Algo Trading)"
-description: Discover the power of Spread Trading in the world of Algo Trading. Learn about this diversified strategy's benefits, variations, and examples, as well as its integration into algo trading systems for maximized profit potential and risk reduction. Explore resources for further study and become a successful quant trader.
+category: trading_strategy
+description: Discover the power of Spread Trading in the world of Algo Trading. Learn
+  about this diversified strategy's benefits, variations, and examples, as well as
+  its integration into algo trading systems for maximized profit potential and risk
+  reduction. Explore resources for further study and become a successful quant trader.
+title: Spread Trading (Algo Trading)
 ---
 
- to Spread Trading and Algo Trading
+to Spread Trading and Algo Trading
 
 Spread trading is a prominent strategy in financial markets that involves simultaneously buying and selling two related assets to capitalize on the price difference between them. This approach is significant because it allows traders to profit from the relative movement of asset prices rather than the direction of the market itself. There are several types of spread trading, including intermarket spreads, which involve different markets or exchanges, and intramarket spreads, which involve contracts within the same market differing in delivery or settlement dates.
 

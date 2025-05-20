@@ -1,6 +1,8 @@
 ---
-title: "Tips for Joining an Investment Club (Algo Trading)"
-description: "Explore investment clubs for collaborative investing learning, leverage algorithmic trading for speed and precision, and enjoy financial group benefits."
+category: trading_strategy
+description: Explore investment clubs for collaborative investing learning, leverage
+  algorithmic trading for speed and precision, and enjoy financial group benefits.
+title: Tips for Joining an Investment Club (Algo Trading)
 ---
 
 Investment strategies have evolved significantly, influenced by emerging technologies and collective investment platforms. Central to this evolution are investment clubs, financial groups, and algorithmic trading, each offering unique advantages and opportunities for investors.

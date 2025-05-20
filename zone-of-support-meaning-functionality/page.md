@@ -1,6 +1,8 @@
 ---
-title: "Zone of Support: Meaning and Functionality (Algo Trading)"
-description: "Explore the importance of support zones in algorithmic trading and how traders utilize these zones to make informed decisions for optimizing trade strategies."
+category: quant_concept
+description: Explore the importance of support zones in algorithmic trading and how
+  traders utilize these zones to make informed decisions for optimizing trade strategies.
+title: 'Zone of Support: Meaning and Functionality (Algo Trading)'
 ---
 
 In today's fast-paced financial markets, algorithmic trading has emerged as a pivotal tool for traders seeking a competitive advantage. Central to the success of algorithmic trading is the effective identification and utilization of support and resistance zones. These zones are critical price levels where significant buying or selling can occur, influencing market trends.

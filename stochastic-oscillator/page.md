@@ -1,6 +1,11 @@
 ---
-title: "Stochastic oscillator (Algo Trading)"
-description: Explore the stochastic oscillator, a key momentum indicator in technical analysis, to gain insights into market turning points and improve trading strategies. This guide examines its use in algorithmic trading, detailing its calculation, interpretation, and application in predicting market reversals. Discover how to employ the %K and %D lines effectively for optimized trading outcomes.
+category: quant_concept
+description: Explore the stochastic oscillator, a key momentum indicator in technical
+  analysis, to gain insights into market turning points and improve trading strategies.
+  This guide examines its use in algorithmic trading, detailing its calculation, interpretation,
+  and application in predicting market reversals. Discover how to employ the %K and
+  %D lines effectively for optimized trading outcomes.
+title: Stochastic oscillator (Algo Trading)
 ---
 
 The stochastic oscillator is a widely-used momentum indicator in technical analysis, renowned for its ability to provide traders with insights into potential market turning points. Developed by George Lane in the late 1950s, this indicator evaluates the closing prices of a security relative to its price range over a predetermined period, allowing traders to anticipate possible reversals in market trends. 

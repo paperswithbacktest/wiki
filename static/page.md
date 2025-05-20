@@ -1,7 +1,8 @@
 ---
-title: Understanding Static Machine Learning Models and Applications
+category: quant_concept
 description: Static machine learning models deliver reliable predictions on fixed
   datasets to simplify deployment and cut maintenance overhead. Discover more inside
+title: Understanding Static Machine Learning Models and Applications
 ---
 
 ![Image](images/1.jpeg)

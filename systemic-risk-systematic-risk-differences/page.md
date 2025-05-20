@@ -1,6 +1,8 @@
 ---
-title: "Systemic Risk and Systematic Risk: Differences (Algo Trading)"
-description: "Explore the differences between systemic and systematic risk in algo trading Understand how these risks impact financial stability and investment strategies"
+category: quant_concept
+description: Explore the differences between systemic and systematic risk in algo
+  trading Understand how these risks impact financial stability and investment strategies
+title: 'Systemic Risk and Systematic Risk: Differences (Algo Trading)'
 ---
 
 The world of finance is laden with various types of risks that can drastically affect markets and investments. Financial markets are complex environments where diverse risk factors interweave, influencing asset prices and investor behavior. With its dynamic nature, the financial landscape necessitates a thorough understanding of three pivotal concepts: financial risk, systemic risk, and systematic risk. These risks, although distinct, are interconnected and can severely impact the stability of financial systems and the success of investment strategies.
@@ -141,4 +143,3 @@ As technology advances, its integration into risk management transforms how fina
 [4]: Hu, X., & Morley, J. (2016). ["Macroeconomic Uncertainty and Its Effects on the Credit Risk and Bank Lending Channel."](https://onlinelibrary.wiley.com/doi/10.1002/ijfe.2600) Finance and Economics Discussion Series, Federal Reserve Board.
 
 [5]: Pichler, P., & Summer, M. (2020). ["Financial markets and algorithmic trading strategies: Evolution and future prospects."](https://www.researchgate.net/publication/378548435_Algorithmic_Trading_and_AI_A_Review_of_Strategies_and_Market_Impact) Journal of Behavioral and Experimental Finance, 28, 100452.
-

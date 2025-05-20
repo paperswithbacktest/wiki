@@ -1,6 +1,9 @@
 ---
-title: "Top Dividend Indexes (Algo Trading)"
-description: "Explore top dividend indexes with insights on dividend investing index funds and algo trading to build a robust investment portfolio with steady income and growth."
+category: trading_strategy
+description: Explore top dividend indexes with insights on dividend investing index
+  funds and algo trading to build a robust investment portfolio with steady income
+  and growth.
+title: Top Dividend Indexes (Algo Trading)
 ---
 
 Investment in the stock market offers a range of methodologies that aim to maximize investor returns. Chief among these are dividend investing, index funds, and algorithmic trading, each presenting unique opportunities along with inherent risks. The dynamic interplay between these methods can often be the key to constructing a robust investment portfolio.

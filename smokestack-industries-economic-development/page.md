@@ -1,6 +1,9 @@
 ---
-title: "Smokestack Industries and Economic Development (Algo Trading)"
-description: "Explore the dynamic relationship between smokestack industries and economic development amid technological advances such as algorithmic trading revolutionizing investment landscapes."
+category: quant_concept
+description: Explore the dynamic relationship between smokestack industries and economic
+  development amid technological advances such as algorithmic trading revolutionizing
+  investment landscapes.
+title: Smokestack Industries and Economic Development (Algo Trading)
 ---
 
 The complex interplay between industrial investment, economic development, and the smokestack industry has profoundly shaped global economies for centuries. These traditional industries, which encompass heavy manufacturing sectors such as steel, automobile, and machinery production, serve as the backbone of economic development. Their historical impact during the phases of industrialization is indisputable, having significantly contributed to the economic advancement of both developed and emerging markets through the creation of essential goods and employment opportunities.

@@ -1,6 +1,9 @@
 ---
-title: "Treasury Secretary: Role, Responsibilities, and Historical Overview (Algo Trading)"
-description: "Explore the role and responsibilities of the Treasury Secretary in shaping fiscal policies and managing economic strategies amidst algorithmic trading advancements."
+category: quant_concept
+description: Explore the role and responsibilities of the Treasury Secretary in shaping
+  fiscal policies and managing economic strategies amidst algorithmic trading advancements.
+title: 'Treasury Secretary: Role, Responsibilities, and Historical Overview (Algo
+  Trading)'
 ---
 
 The ever-evolving landscape of financial markets has brought algorithmic trading to the forefront, transforming how trading operations are conducted. Algorithmic trading involves the use of complex mathematical models and sophisticated software to make high-speed trading decisions, which are virtually impossible for humans to achieve manually. It relies on pre-set instructions and large datasets to execute trades at speeds and frequencies that are magnitudes greater than any human trader can achieve, thereby fundamentally altering market operations.

@@ -1,9 +1,13 @@
 ---
-title: "Way of the turtle"
-description: Discover the profound impact of "The Turtle Experiment" on modern trading through this pivotal chapter in trading history. Learn how a group of novices, with no prior experience, turned into successful traders by following systematic, rule-based approaches. Gain insights into key lessons like the importance of discipline, risk management, and trend following. Understand why this experiment continues to inspire generations of traders.
+category: trading_strategy
+description: Discover the profound impact of "The Turtle Experiment" on modern trading
+  through this pivotal chapter in trading history. Learn how a group of novices, with
+  no prior experience, turned into successful traders by following systematic, rule-based
+  approaches. Gain insights into key lessons like the importance of discipline, risk
+  management, and trend following. Understand why this experiment continues to inspire
+  generations of traders.
+title: Way of the turtle
 ---
-
-
 
 "The Way of the Turtle", penned by Curtis Faith, stands as a pivotal read in the trading community, shedding light on the intriguing world of professional trading. This book investigates into the famous Turtle Trading Experiment, conceived by Richard Dennis, a prominent commodities trader. Dennis aimed to prove that successful trading could be taught to anyone, regardless of their background or experience. Curtis Faith, one of the most successful graduates of this experiment, distills the essence of this unique trading education into a comprehensive guide that has since become a cornerstone for traders globally[1].
 

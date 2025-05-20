@@ -1,6 +1,9 @@
 ---
-title: "Xenocurrency (Algo Trading)"
-description: "Explore the pivotal role of xenocurrency and algorithmic trading in global finance Discover how tech reshapes foreign exchange markets for optimal trading strategies"
+category: quant_concept
+description: Explore the pivotal role of xenocurrency and algorithmic trading in global
+  finance Discover how tech reshapes foreign exchange markets for optimal trading
+  strategies
+title: Xenocurrency (Algo Trading)
 ---
 
 The intricate world of international finance comprises various elements, each contributing to its complexity and dynamism. Among these, foreign currency, xenocurrency, and algorithmic trading stand out as pivotal components influencing global economic activities. Foreign exchange markets are rapidly evolving, driven in large part by technological advancements that are reshaping traditional practices. Algorithmic trading, often referred to as algo trading, is at the forefront of this transformation, revolutionizing the mechanisms through which foreign currencies are traded on a global scale.

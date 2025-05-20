@@ -1,7 +1,8 @@
 ---
-title: Comprehensive Guide to Vision Transformers and Key Variants
+category: quant_concept
 description: Vision Transformers improve image recognition with scalable self attention
   and modern variants like Swin DeiT and MobileViT Discover more inside.
+title: Comprehensive Guide to Vision Transformers and Key Variants
 ---
 
 ![Image](images/1.png)
@@ -101,4 +102,3 @@ CrossViT, in particular, uses this cross-attention to mix information from image
 [9]: Yang, S., Wang, B., Chen, S., & Tao, D. (2021). ["Focal Self-attention for Local-Global Interactions in Vision Transformers."](https://arxiv.org/abs/2107.00641) arXiv preprint arXiv:2107.00641.
 
 [10]: Xu, Y., Zhang, Y., Zhang, T., Cui, W., Yang, G., Shi, B., ... & Lin, L. (2021). ["Long-Short Transformer: Efficient Transformers for Language and Vision."](https://www.sciencedirect.com/science/article/pii/S1535610825001175) arXiv preprint arXiv:2107.02192.
-

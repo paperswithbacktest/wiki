@@ -1,6 +1,8 @@
 ---
-title: "Unsterilized Foreign Exchange Intervention (Algo Trading)"
-description: "Explore how unsterilized foreign exchange interventions and algorithmic trading influence currency markets and economic stability in today's digital economy."
+category: quant_concept
+description: Explore how unsterilized foreign exchange interventions and algorithmic
+  trading influence currency markets and economic stability in today's digital economy.
+title: Unsterilized Foreign Exchange Intervention (Algo Trading)
 ---
 
 In this article, we explore the intricate interplay between foreign exchange interventions, monetary policy, and algorithmic trading in the currency market. Foreign exchange interventions are strategic tools employed by central banks to influence the value of their national currencies. These interventions, which can be either sterilized or unsterilized, play a crucial role in shaping economic stability and currency valuation. Unsterilized interventions, in particular, directly impact the money supply, leading to broader economic implications.

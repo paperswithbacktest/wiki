@@ -1,6 +1,13 @@
 ---
-title: "Trade Liberalization and Its Mechanisms (Algo Trading)"
-description: "Explore the complexities of international trade transformations through economic policies, technological advancements, and global shifts. Dive into the roles of trade liberalization and algorithmic trading, understanding their influence on market dynamics, economic growth, and resource allocation. This comprehensive overview highlights both opportunities and challenges in today's interconnected global economy, equipped for businesses, policymakers, and investors aiming for sustainable growth."
+category: quant_concept
+description: Explore the complexities of international trade transformations through
+  economic policies, technological advancements, and global shifts. Dive into the
+  roles of trade liberalization and algorithmic trading, understanding their influence
+  on market dynamics, economic growth, and resource allocation. This comprehensive
+  overview highlights both opportunities and challenges in today's interconnected
+  global economy, equipped for businesses, policymakers, and investors aiming for
+  sustainable growth.
+title: Trade Liberalization and Its Mechanisms (Algo Trading)
 ---
 
 International trade has undergone profound transformations over the decades, driven by a convergence of economic policies, technological breakthroughs, and global shifts in economic power. These changes have influenced how countries engage in trade, shaping the economic landscapes of nations worldwide. At the forefront of these transformations are economic policies that dictate trade agreements, tariffs, and international collaborations. Policymakers worldwide grapple with decisions that impact global markets, such as setting tariffs and negotiating trade agreements that can either foster economic growth or lead to protectionist stances.

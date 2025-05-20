@@ -1,6 +1,8 @@
 ---
-title: "Sunk Cost Fallacy: Explanation and Avoidance Strategies (Algo Trading)"
-description: "Explore the sunk cost fallacy in algorithmic trading and discover strategies to mitigate its impact on decision-making. Enhance your trading strategies today."
+category: quant_concept
+description: Explore the sunk cost fallacy in algorithmic trading and discover strategies
+  to mitigate its impact on decision-making. Enhance your trading strategies today.
+title: 'Sunk Cost Fallacy: Explanation and Avoidance Strategies (Algo Trading)'
 ---
 
 The sunk cost fallacy is a well-documented cognitive bias influencing decision-making by compelling individuals to factor in irrecoverable past investments over prospective advantages. Originating from the field of behavioral economics, the fallacy plays a role in numerous everyday scenarios. Whether it's persisting with an investment or refusing to abandon an endeavor despite evidence of potential future losses, the sunk cost fallacy challenges rational evaluation.

@@ -1,6 +1,10 @@
 ---
-title: "Third Market Maker (Algo Trading)"
-description: "Explore the crucial interplay between third market makers and algorithmic trading within financial markets. Understand how these elements synergize to enhance trading efficiency, liquidity, and cost management. Ideal for those seeking to optimize trading strategies amidst evolving market dynamics."
+category: quant_concept
+description: Explore the crucial interplay between third market makers and algorithmic
+  trading within financial markets. Understand how these elements synergize to enhance
+  trading efficiency, liquidity, and cost management. Ideal for those seeking to optimize
+  trading strategies amidst evolving market dynamics.
+title: Third Market Maker (Algo Trading)
 ---
 
 Financial markets are vital components of the global economy, serving as platforms where securities, commodities, and other financial instruments are bought and sold. These markets facilitate the allocation of resources, provide liquidity, and enable price discovery, playing a pivotal role in economic growth and financial stability. The trading mechanisms within these markets are continuously evolving, driven by technological advancements and the increasing complexity of financial instruments.

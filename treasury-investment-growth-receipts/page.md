@@ -1,6 +1,8 @@
 ---
-title: "Treasury Investment Growth Receipts (Algo Trading)"
-description: "Discover the fusion of historical and modern strategies with Treasury Investment Growth Receipts Learn about zero-coupon bonds and algo trading in finance"
+category: quant_concept
+description: Discover the fusion of historical and modern strategies with Treasury
+  Investment Growth Receipts Learn about zero-coupon bonds and algo trading in finance
+title: Treasury Investment Growth Receipts (Algo Trading)
 ---
 
 In the intricate world of finance, many investment options are both legacy and innovative. The concept of 'Growth Receipts Treasury Investment' combines historical and modern financial strategies, offering savvy investors a unique position within the bond market. This article examines the concept and significance of Treasury Investment Growth Receipts (TIGRs), which are zero-coupon bond securities rooted in a bygone era but still relevant in today's markets. 

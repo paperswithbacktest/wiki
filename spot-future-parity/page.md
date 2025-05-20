@@ -1,6 +1,15 @@
 ---
-title: "Spot–future parity (Algo Trading)"
-description: Spot-future parity is a key concept in financial markets that highlights the relationship between an asset's spot price and its futures price, crucial for algorithmic trading. This concept ensures that spot and futures prices remain aligned, factoring in carrying costs and expected future valuation changes. Understanding this parity is essential for traders aiming to identify arbitrage opportunities created by price discrepancies. By exploiting these inefficiencies, traders contribute to market efficiency. Algorithmic trading leverages quick execution to capitalize on these opportunities, enhancing market liquidity and stability. Mastering spot-future parity is vital for informed trading and investment strategies.
+category: quant_concept
+description: Spot-future parity is a key concept in financial markets that highlights
+  the relationship between an asset's spot price and its futures price, crucial for
+  algorithmic trading. This concept ensures that spot and futures prices remain aligned,
+  factoring in carrying costs and expected future valuation changes. Understanding
+  this parity is essential for traders aiming to identify arbitrage opportunities
+  created by price discrepancies. By exploiting these inefficiencies, traders contribute
+  to market efficiency. Algorithmic trading leverages quick execution to capitalize
+  on these opportunities, enhancing market liquidity and stability. Mastering spot-future
+  parity is vital for informed trading and investment strategies.
+title: Spot–future parity (Algo Trading)
 ---
 
 Spot-future parity is a fundamental concept in financial markets and particularly important in algorithmic trading. It refers to the relationship between the spot price of an asset (the current market price you would pay to purchase the asset for immediate delivery) and its corresponding futures price (the agreed-upon price for delivery at a later date). This relationship is crucial for ensuring that the prices of spot and futures contracts remain aligned, reflecting the carrying costs and expected future valuation changes of the underlying asset.

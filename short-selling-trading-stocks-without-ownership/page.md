@@ -1,6 +1,8 @@
 ---
-title: "Short Selling: Trading Stocks Without Ownership (Algo Trading)"
-description: "Explore short selling and algorithmic trading to understand how investors capitalize on stock price movements while navigating the associated risks and rewards."
+category: trading_strategy
+description: Explore short selling and algorithmic trading to understand how investors
+  capitalize on stock price movements while navigating the associated risks and rewards.
+title: 'Short Selling: Trading Stocks Without Ownership (Algo Trading)'
 ---
 
 In today's ever-evolving financial markets, investors are continuously exploring sophisticated strategies to maximize their returns. Among the various approaches, short selling and algorithmic trading have emerged as prominent strategies in the stock market. These advanced techniques are transforming how market participants capitalize on price movements and enhance portfolio performance.

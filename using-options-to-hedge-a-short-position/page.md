@@ -1,6 +1,8 @@
 ---
-title: "Using Options to Hedge a Short Position (Algo Trading)"
-description: "Learn how to hedge a short position using options within algorithmic trading to minimize risk and enhance trading performance in volatile markets."
+category: trading_strategy
+description: Learn how to hedge a short position using options within algorithmic
+  trading to minimize risk and enhance trading performance in volatile markets.
+title: Using Options to Hedge a Short Position (Algo Trading)
 ---
 
 Understanding the landscape of modern trading requires awareness of the various strategies and tools available to investors and traders. Among these, the concept of hedging is critical as it plays a vital role in managing and mitigating risk. Hedging involves using financial instruments, such as options, to protect portfolios from adverse market movements. Specifically, in options trading, hedging can be applied through short positions where traders aim to offset potential losses in their investments by selling options contracts.

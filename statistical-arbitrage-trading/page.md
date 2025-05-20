@@ -1,6 +1,14 @@
 ---
-title: "Statistical arbitrage trading (Algo Trading)"
-description: Explore statistical arbitrage trading, an algorithmic strategy that leverages quantitative models to exploit pricing inefficiencies across markets. Discover how traders use mean reversion and advanced algorithms to identify and act on profit opportunities with relatively low risk. From pure arbitrage to pair trading, learn about various strategies that maximize profit while adapting to dynamic market conditions. Delve into the role of technology and automation in enhancing the efficiency of statistical arbitrage within the fast-paced realm of algorithmic trading and the evolving scope in financial markets.
+category: trading_strategy
+description: Explore statistical arbitrage trading, an algorithmic strategy that leverages
+  quantitative models to exploit pricing inefficiencies across markets. Discover how
+  traders use mean reversion and advanced algorithms to identify and act on profit
+  opportunities with relatively low risk. From pure arbitrage to pair trading, learn
+  about various strategies that maximize profit while adapting to dynamic market conditions.
+  Delve into the role of technology and automation in enhancing the efficiency of
+  statistical arbitrage within the fast-paced realm of algorithmic trading and the
+  evolving scope in financial markets.
+title: Statistical arbitrage trading (Algo Trading)
 ---
 
 Statistical arbitrage trading is an algorithmic strategy utilized to identify and exploit pricing inefficiencies across markets. Functioning at the intersection of finance and technology, this form of trading is primarily driven by quantitative models that analyze the relationships between prices of correlated securities. By recognizing and capitalizing on temporary discrepancies in these relationships, traders can seize opportunities for profit with relatively low risk.

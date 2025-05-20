@@ -1,6 +1,9 @@
 ---
-title: "Swap Curve and Yield Curve Comparison (Algo Trading)"
-description: "Explore the critical differences between swap curves and yield curves in algo trading. Understand market implications for risk management and derivative pricing."
+category: quant_concept
+description: Explore the critical differences between swap curves and yield curves
+  in algo trading. Understand market implications for risk management and derivative
+  pricing.
+title: Swap Curve and Yield Curve Comparison (Algo Trading)
 ---
 
 Swap curves are fundamental components in financial analysis and algorithmic trading, offering critical insights into interest rate dynamics and risk management. These curves serve as graphical representations of the fixed interest rates associated with interest rate swaps for various maturities—financial contracts where two parties exchange cash flows based on specified notional amounts. For financial analysts and traders, understanding these curves is essential, particularly in optimizing bond portfolios and managing interest rate risks.

@@ -1,6 +1,8 @@
 ---
-title: "Soft Money: Definition, Function, and Historical Context (Algo Trading)"
-description: "Explore the complexities of soft money in political campaigns, its historical context, and its intersection with algorithmic trading in shaping campaign finance."
+category: quant_concept
+description: Explore the complexities of soft money in political campaigns, its historical
+  context, and its intersection with algorithmic trading in shaping campaign finance.
+title: 'Soft Money: Definition, Function, and Historical Context (Algo Trading)'
 ---
 
 The intersection between campaign finance and modern financial technologies is transforming the landscape of political funding and democratic processes. Political funding mechanisms have evolved significantly over time, with traditional methods now coexisting alongside innovative financial technologies. Initially, political campaigns relied heavily on direct contributions from individuals and interest groups. Over time, mechanisms such as Political Action Committees (PACs) and Super PACs emerged, facilitating larger flows of money into the political system.

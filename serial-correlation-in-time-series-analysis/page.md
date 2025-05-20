@@ -1,6 +1,11 @@
 ---
-title: "Serial Correlation in Time Series Analysis (Algo Trading)"
-description: Explore the critical role of time series correlation in algorithmic trading as it helps traders understand the relationships between time-dependent datasets, enhancing trading strategies and risk management. By leveraging correlation analysis, traders can develop data-driven approaches, optimize diversification, and manage risks more effectively to achieve sustained success in dynamic financial markets.
+category: quant_concept
+description: Explore the critical role of time series correlation in algorithmic trading
+  as it helps traders understand the relationships between time-dependent datasets,
+  enhancing trading strategies and risk management. By leveraging correlation analysis,
+  traders can develop data-driven approaches, optimize diversification, and manage
+  risks more effectively to achieve sustained success in dynamic financial markets.
+title: Serial Correlation in Time Series Analysis (Algo Trading)
 ---
 
 In the fast-paced world of algorithmic trading, understanding and leveraging data is crucial for success. One of the key analytical tools that traders and quantitative analysts frequently utilize is time series correlation. Time series correlation is significant due to its ability to quantify the degree of relationship between two or more time-dependent datasets, such as stock prices or interest rates. This statistical measure is vital in identifying patterns and connections that can form the basis of trading strategies.

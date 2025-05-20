@@ -1,6 +1,8 @@
 ---
-title: "Take a Flier: Meaning, Function, and Examples (Algo Trading)"
-description: "Explore the meaning of "take a flier" in investing focusing on high-risk high-reward strategies, with insights into algorithmic trading's role in this landscape."
+category: trading_strategy
+description: Explore the meaning of "take a flier" in investing focusing on high-risk
+  high-reward strategies, with insights into algorithmic trading's role in this landscape.
+title: 'Take a Flier: Meaning, Function, and Examples (Algo Trading)'
 ---
 
 Understanding the risks and rewards in investing is fundamental for making informed financial decisions. Investors face a multitude of choices, many involving varying degrees of risk and potential returns. One term often encountered within the investing community is "take a flier", which denotes engaging in investments characterized by high risk but also potentially high rewards. These types of investments demand a keen awareness of their volatile nature and require a strategic approach to manage the possibility of substantial losses.

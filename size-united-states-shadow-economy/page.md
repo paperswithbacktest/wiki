@@ -1,6 +1,8 @@
 ---
-title: "Size Of The United States Shadow Economy (Algo Trading)"
-description: "Explore the influence of the U.S. shadow economy with insights into its size, effects on the formal market, and the role of algorithmic trading within it."
+category: quant_concept
+description: Explore the influence of the U.S. shadow economy with insights into its
+  size, effects on the formal market, and the role of algorithmic trading within it.
+title: Size Of The United States Shadow Economy (Algo Trading)
 ---
 
 The U.S. economy operates as a multifaceted network that extends beyond the formal market to encompass a significant underground or shadow economy. This hidden segment, comprising unreported and often illicit activities, poses a complex challenge to policymakers and economists alike. In this article, we aim to unravel the U.S. underground economy by examining its size, the impact it exerts on the broader economic landscape, and the emerging role of technology, particularly algorithmic trading, within these informal markets.

@@ -1,6 +1,8 @@
 ---
-title: "Sources of Business Risk (Algo Trading)"
-description: "Explore the business risks of algorithmic trading with insights on mitigating potential pitfalls through effective risk management strategies in dynamic markets."
+category: quant_concept
+description: Explore the business risks of algorithmic trading with insights on mitigating
+  potential pitfalls through effective risk management strategies in dynamic markets.
+title: Sources of Business Risk (Algo Trading)
 ---
 
 In today's fast-paced business environment, companies face a multitude of challenges that can impede growth and success. One critical area that organizations must address is risk management, particularly concerning the business risk associated with algorithmic trading. Algorithmic trading, commonly known as algo trading, has revolutionized financial markets by transforming how trades are executed and offering unprecedented speed and efficiency. This innovative approach uses automated systems and sophisticated algorithms to execute a large number of trades at speeds impossible for humans to achieve manually.

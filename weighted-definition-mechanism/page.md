@@ -1,6 +1,8 @@
 ---
-title: "Weighted: Definition and Mechanism (Algo Trading)"
-description: "Discover how weighted mechanisms in algorithmic trading optimize decisions by prioritizing key market indicators and datasets, enhancing strategy precision."
+category: quant_concept
+description: Discover how weighted mechanisms in algorithmic trading optimize decisions
+  by prioritizing key market indicators and datasets, enhancing strategy precision.
+title: 'Weighted: Definition and Mechanism (Algo Trading)'
 ---
 
 Algorithmic trading, commonly known as algo trading, is an essential technique in modern financial markets, leveraging computer algorithms to execute the buying and selling of financial instruments. By automating trading processes, algorithmic trading enhances efficiency through the application of predefined rules. A critical component of this method is the utilization of weighted mechanisms, which prioritize certain inputs in the trading model over others. These weights influence trading decisions by assessing the importance and relevance of various market indicators and datasets.

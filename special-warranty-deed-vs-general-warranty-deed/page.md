@@ -1,6 +1,9 @@
 ---
-title: "Special Warranty Deed vs. General Warranty Deed (Algo Trading)"
-description: "Understand the nuances of special and general warranty deeds for real estate transactions Discover how algorithmic trading influences property investments and strategies."
+category: quant_concept
+description: Understand the nuances of special and general warranty deeds for real
+  estate transactions Discover how algorithmic trading influences property investments
+  and strategies.
+title: Special Warranty Deed vs. General Warranty Deed (Algo Trading)
 ---
 
 Understanding the different types of property deeds is essential for navigating real estate transactions. Property deeds are legal documents that signify the ownership transfer from a seller, or grantor, to a buyer, or grantee. This article focuses on two primary types of deeds: special warranty deeds and general warranty deeds, each providing varying levels of protection and obligations. Special warranty deeds guarantee the title only during the seller’s period of ownership, while general warranty deeds extend back to the property's history, offering comprehensive assurances to buyers against any potential claims.

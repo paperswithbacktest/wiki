@@ -1,6 +1,8 @@
 ---
-title: "Three Sigma Limits: Statistical Calculation and Example (Algo Trading)"
-description: "Explore the significance of three sigma limits in algo trading to assess market risks identify anomalies and enhance decision-making with statistical precision."
+category: quant_concept
+description: Explore the significance of three sigma limits in algo trading to assess
+  market risks identify anomalies and enhance decision-making with statistical precision.
+title: 'Three Sigma Limits: Statistical Calculation and Example (Algo Trading)'
 ---
 
 In today's fast-paced financial markets, quantitative analysis is crucial for the success of algorithmic trading. Among the key statistical tools employed in this domain, three sigma limits hold significant importance. These limits help traders in understanding and reacting to market fluctuations by providing a framework to assess risks and make informed decisions. 

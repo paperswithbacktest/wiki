@@ -1,6 +1,10 @@
 ---
-title: "Why are so many people doing quantitative trading now?"
-description: "Discover why quantitative trading is on the rise with advanced technology, data availability, academic research, and dissatisfaction with traditional methods. Learn about the benefits and risks of this data-driven approach to finance. Dive deeper into quantitative strategies through our curated resources."
+category: quant_concept
+description: Discover why quantitative trading is on the rise with advanced technology,
+  data availability, academic research, and dissatisfaction with traditional methods.
+  Learn about the benefits and risks of this data-driven approach to finance. Dive
+  deeper into quantitative strategies through our curated resources.
+title: Why are so many people doing quantitative trading now?
 ---
 
 Quantitative trading has witnessed significant growth in popularity over recent years, capturing the attention of both seasoned investors and newcomers to the financial markets. This surge can be attributed to its scientific and systematic approach to trading, which stands in stark contrast to traditional, intuition-driven methods. 

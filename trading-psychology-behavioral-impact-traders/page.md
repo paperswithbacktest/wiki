@@ -1,6 +1,8 @@
 ---
-title: "Trading Psychology and Behavioral Impact on Traders (Algo Trading)"
-description: "Explore the interplay between trading psychology and algorithmic trading. Understand how emotions like fear and greed impact market behavior and trading strategies."
+category: quant_concept
+description: Explore the interplay between trading psychology and algorithmic trading.
+  Understand how emotions like fear and greed impact market behavior and trading strategies.
+title: Trading Psychology and Behavioral Impact on Traders (Algo Trading)
 ---
 
 Trader behavior encompasses the actions and decision-making processes of individuals or entities engaged in buying and selling financial instruments. It is a field closely linked with behavioral finance, which merges insights from psychology and economics to understand deviations from traditional financial theory based on rational decision-making. Trading psychology focuses specifically on the mental and emotional factors that influence traders' decisions, such as stress, fear, and confidence levels. Algorithmic trading, on the other hand, refers to the use of computer programs and algorithms to execute trades at speeds and complexities beyond human capacity.

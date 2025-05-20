@@ -1,6 +1,9 @@
 ---
-title: "List of Small-Cap Value Index Funds in the United States (Algo Trading)"
-description: "Explore the potential of small-cap value index funds for diversified investment strategies in the US using algorithmic trading to optimize risk and reward dynamics."
+category: trading_strategy
+description: Explore the potential of small-cap value index funds for diversified
+  investment strategies in the US using algorithmic trading to optimize risk and reward
+  dynamics.
+title: List of Small-Cap Value Index Funds in the United States (Algo Trading)
 ---
 
 Investment strategies in the financial world are as diverse as the economic landscape itself. Among these approaches, small-cap value funds, U.S. index funds, and algorithmic trading have each established a unique presence. These strategies, though distinct, offer complementary benefits when used together, providing investors with diverse tools to navigate the complex market environment.

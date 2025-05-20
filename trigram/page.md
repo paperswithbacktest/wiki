@@ -1,7 +1,8 @@
 ---
-title: Understanding Trigram Models in Natural Language Processing
+category: quant_concept
 description: Trigram models leverage three-word sequences to boost text prediction
   accuracy and enhance language modeling with smoothing Discover more inside
+title: Understanding Trigram Models in Natural Language Processing
 ---
 
 ![Image](images/1.png)

@@ -1,6 +1,8 @@
 ---
-title: "Two-moment decision model (Algo Trading)"
-description: "Explore the two-moment decision model in algorithmic trading focusing on mean and variance to optimize investment strategies by balancing risk and reward."
+category: quant_concept
+description: Explore the two-moment decision model in algorithmic trading focusing
+  on mean and variance to optimize investment strategies by balancing risk and reward.
+title: Two-moment decision model (Algo Trading)
 ---
 
 The two-moment decision model is a foundational concept in finance and algorithmic trading that focuses on two critical statistical metrics: mean and variance, to evaluate investment opportunities. By concentrating on these two moments, the model simplifies the decision-making process, emphasizing the estimation of expected returns and the assessment of associated risks. The mean serves as an indicator of the expected value of returns, representing an average outcome that investors might anticipate from a particular asset or portfolio. Meanwhile, variance quantifies the dispersion of possible return outcomes, providing a measure of risk associated with the investment.

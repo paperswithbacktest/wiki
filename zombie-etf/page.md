@@ -1,6 +1,8 @@
 ---
-title: "Zombie ETF (Algo Trading)"
-description: "Explore the phenomenon of Zombie ETFs, their market implications, and the impact of algorithmic trading on their outcomes for informed investment decisions."
+category: quant_concept
+description: Explore the phenomenon of Zombie ETFs, their market implications, and
+  the impact of algorithmic trading on their outcomes for informed investment decisions.
+title: Zombie ETF (Algo Trading)
 ---
 
 In recent years, financial markets have seen the rising phenomenon of the Zombie ETF, a unique investment asset that demands attention from both seasoned and novice investors. Originating from the broader category of Exchange Traded Funds (ETFs), Zombie ETFs present a challenging yet fascinating aspect of financial securities. These funds are characterized by dwindling investor interest and minimal trading activities, leading them to continue existing in the financial ecosystem without significant growth or profitability.

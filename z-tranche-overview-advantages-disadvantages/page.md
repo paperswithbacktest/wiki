@@ -1,6 +1,9 @@
 ---
-title: "Z Tranche: Overview, Advantages, and Disadvantages (Algo Trading)"
-description: "Explore Z tranche investments in algorithmic trading with insights into their financial benefits and risks Learn how they optimize portfolios and boost returns"
+category: trading_strategy
+description: Explore Z tranche investments in algorithmic trading with insights into
+  their financial benefits and risks Learn how they optimize portfolios and boost
+  returns
+title: 'Z Tranche: Overview, Advantages, and Disadvantages (Algo Trading)'
 ---
 
 In the evolving world of finance, investment strategies are continually being refined and adapted to meet the diverse needs of investors. One such strategy that stands out is investment in Z tranche finance, particularly within algorithmic trading. This approach represents a sophisticated intersection of structured finance and cutting-edge technology, offering new avenues for optimizing investment portfolios.

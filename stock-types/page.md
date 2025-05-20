@@ -1,6 +1,8 @@
 ---
-title: "Stock Types (Algo Trading)"
-description: "Discover the essentials of investment categories stock types and algorithmic trading to make informed decisions and optimize your portfolio for financial success."
+category: quant_concept
+description: Discover the essentials of investment categories stock types and algorithmic
+  trading to make informed decisions and optimize your portfolio for financial success.
+title: Stock Types (Algo Trading)
 ---
 
 In finance, understanding investment categories, stock types, and trading strategies is crucial for success. This article examines the intricate landscape of equity classes, the diversity of stock types, broader investment categories, and the innovative realm of algorithmic trading. By exploring these concepts, investors can make more informed decisions and optimize their portfolios effectively.

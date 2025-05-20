@@ -1,6 +1,9 @@
 ---
-title: "Sub-Advised Fund (Algo Trading)"
-description: "Discover the world of sub-advised funds and algorithmic trading in a rapidly evolving financial landscape offering innovative investment strategies and opportunities."
+category: quant_concept
+description: Discover the world of sub-advised funds and algorithmic trading in a
+  rapidly evolving financial landscape offering innovative investment strategies and
+  opportunities.
+title: Sub-Advised Fund (Algo Trading)
 ---
 
 The financial landscape is undergoing rapid changes, driven by emerging investment vehicles and innovative strategies. In this dynamic environment, understanding the foundations of investment management financial services, sub-advised funds, and algorithmic trading becomes essential for investors seeking to capitalize on new opportunities.

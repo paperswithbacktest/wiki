@@ -1,6 +1,11 @@
 ---
-title: "Supply Shock and Its Causes (Algo Trading)"
-description: "Explore the intricate relationship between supply shocks and algorithmic trading in modern financial markets. Understand how unexpected events impact product supply and price volatility while assessing the role of automated trading systems in stabilizing or exacerbating market conditions. Gain insights into navigating economic disruptions for sustained resilience and informed decision-making."
+category: quant_concept
+description: Explore the intricate relationship between supply shocks and algorithmic
+  trading in modern financial markets. Understand how unexpected events impact product
+  supply and price volatility while assessing the role of automated trading systems
+  in stabilizing or exacerbating market conditions. Gain insights into navigating
+  economic disruptions for sustained resilience and informed decision-making.
+title: Supply Shock and Its Causes (Algo Trading)
 ---
 
 In recent years, the interaction between economic disruption, supply shocks, market dynamics, and algorithmic trading has become a focal point for economists and investors. Supply shocks, which are unexpected events affecting the supply of products or commodities, have profound impacts on economic markets. They can cause significant fluctuations in prices and create ripple effects throughout the global economy. Such shocks may stem from natural disasters, geopolitical events, or pandemics, each posing challenges to economic stability.

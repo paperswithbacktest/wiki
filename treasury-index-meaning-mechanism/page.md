@@ -1,6 +1,9 @@
 ---
-title: "Treasury Index: Meaning and Mechanism (Algo Trading)"
-description: "Explore the mechanism and significance of treasury indexes in algorithmic trading. Learn how tech-driven strategies use benchmarks to optimize investment decisions."
+category: quant_concept
+description: Explore the mechanism and significance of treasury indexes in algorithmic
+  trading. Learn how tech-driven strategies use benchmarks to optimize investment
+  decisions.
+title: 'Treasury Index: Meaning and Mechanism (Algo Trading)'
 ---
 
 The financial landscape is continuously transforming as technology becomes an integral part of investment strategies. This transformation has led to significant advancements, particularly in the use of financial indexes in investment strategies and algorithmic trading. Over recent years, financial indexes have emerged as crucial tools for investors, serving as benchmarks that help track the performance of various asset classes. These indexes provide insights into market trends, with widely recognized examples including the S&P 500 and Nasdaq 100, which serve as indicators for overall stock market performance.

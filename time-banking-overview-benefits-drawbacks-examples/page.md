@@ -1,6 +1,8 @@
 ---
-title: "Time Banking: Overview, Benefits and Drawbacks, Examples (Algo Trading)"
-description: "Explore the evolution of trading systems from barter to time banking and algorithmic trading Discover the benefits and challenges of these diverse methods"
+category: quant_concept
+description: Explore the evolution of trading systems from barter to time banking
+  and algorithmic trading Discover the benefits and challenges of these diverse methods
+title: 'Time Banking: Overview, Benefits and Drawbacks, Examples (Algo Trading)'
 ---
 
 Trading systems have undergone a significant evolution, transitioning from ancient barter systems to complex contemporary methodologies. The barter system, as one of the earliest forms of trade, involved the direct exchange of goods and services without a standardized medium. This system, while foundational in human economic history, presented challenges such as the necessity of a "double coincidence of wants," where traders needed to have mutually beneficial goods for an exchange to proceed.

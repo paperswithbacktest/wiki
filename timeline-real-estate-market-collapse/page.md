@@ -1,6 +1,8 @@
 ---
-title: "Timeline of the Real Estate Market Collapse (Algo Trading)"
-description: "Explore the timeline of real estate market collapse due to factors like housing crises and algo trading Learn about bubbles impacts and historical lessons"
+category: quant_concept
+description: Explore the timeline of real estate market collapse due to factors like
+  housing crises and algo trading Learn about bubbles impacts and historical lessons
+title: Timeline of the Real Estate Market Collapse (Algo Trading)
 ---
 
 The housing market has always been a pivotal component of the global economy, influencing both microeconomic conditions and broader financial stability. In recent years, growing discussions have centered around the possibility of an impending housing crisis and the potential for a market collapse. These conversations have been driven by factors including, but not limited to, real estate bubbles and algorithmic trading.

@@ -1,6 +1,8 @@
 ---
-title: "Top Short-Term Bond Funds of 2020 (Algo Trading)"
-description: "Discover the top short-term bond funds of 2020, exploring their safety, liquidity, and the impact of algorithmic trading on enhancing returns and stability."
+category: trading_strategy
+description: Discover the top short-term bond funds of 2020, exploring their safety,
+  liquidity, and the impact of algorithmic trading on enhancing returns and stability.
+title: Top Short-Term Bond Funds of 2020 (Algo Trading)
 ---
 
 In the volatile world of investing, short-term bond funds gained significant attention in 2020. These investment vehicles are known for offering a combination of safety, liquidity, and potential returns, which makes them an attractive option for a wide range of investors. Short-term bond funds typically invest in high-quality bonds with maturities ranging from a few months to a couple of years, providing a stable choice for those seeking capital preservation and reduced volatility in uncertain economic conditions.

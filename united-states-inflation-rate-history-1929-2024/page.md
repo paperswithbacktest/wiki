@@ -1,6 +1,13 @@
 ---
-title: "United States Inflation Rate History: 1929–2024 (Algo Trading)"
-description: "Explore the historical United States inflation rate from 1929 to 2024 to understand its influence on economic decision-making. Discover how inflation impacts monetary policy, investment strategies, and algorithmic trading. This comprehensive analysis highlights key inflationary periods such as the Great Depression, stagflation of the 1970s, and recent post-COVID-19 trends. Gain insights into the critical role inflation plays in shaping economic policies and market dynamics, assisting investors and policymakers in future forecasting and achieving stable economic growth."
+category: dataset
+description: Explore the historical United States inflation rate from 1929 to 2024
+  to understand its influence on economic decision-making. Discover how inflation
+  impacts monetary policy, investment strategies, and algorithmic trading. This comprehensive
+  analysis highlights key inflationary periods such as the Great Depression, stagflation
+  of the 1970s, and recent post-COVID-19 trends. Gain insights into the critical role
+  inflation plays in shaping economic policies and market dynamics, assisting investors
+  and policymakers in future forecasting and achieving stable economic growth.
+title: 'United States Inflation Rate History: 1929–2024 (Algo Trading)'
 ---
 
 Understanding historical U.S. inflation rates is critical for informed economic decision-making. Inflation, the rate at which the general level of prices for goods and services rises, eroding purchasing power, is a key factor that influences economic policies and individual financial strategies. For economists and policymakers, inflation data is fundamental. It helps to assess the economic environment, guide monetary policy, and develop fiscal strategies aimed at achieving stable growth and employment.

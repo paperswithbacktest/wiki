@@ -1,6 +1,9 @@
 ---
-title: "TMX Group: Overview of History, Holdings, and Services (Algo Trading)"
-description: "Explore TMX Group's pivotal role in Canadian financial markets, its major exchanges, and how it leverages algorithmic trading to innovate and bolster market operations."
+category: quant_concept
+description: Explore TMX Group's pivotal role in Canadian financial markets, its major
+  exchanges, and how it leverages algorithmic trading to innovate and bolster market
+  operations.
+title: 'TMX Group: Overview of History, Holdings, and Services (Algo Trading)'
 ---
 
 TMX Group is a premier financial services provider and one of the principal operators of stock exchanges in Canada. As the owner of notable institutions such as the Toronto Stock Exchange (TSX) and TSX Venture Exchange, TMX Group plays a crucial role in the Canadian financial landscape. The company's robust infrastructure supports not just local markets, but also extends its reach to the global financial community, solidifying its standing as a major influence in the industry.

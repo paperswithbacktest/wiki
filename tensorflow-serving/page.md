@@ -1,7 +1,8 @@
 ---
-title: TensorFlow Serving Guide for Deploying and Managing Models
+category: quant_concept
 description: TensorFlow Serving simplifies managing and scaling production ML models
   with seamless versioning using APIs and monitoring Discover more inside
+title: TensorFlow Serving Guide for Deploying and Managing Models
 ---
 
 ![Image](images/1.png)

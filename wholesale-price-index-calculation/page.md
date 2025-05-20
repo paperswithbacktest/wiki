@@ -1,6 +1,8 @@
 ---
-title: "Wholesale Price Index and Its Calculation (Algo Trading)"
-description: "Explore the significance of the Wholesale Price Index in gauging economic health and its role in enhancing algorithmic trading strategies with informed insights."
+category: quant_concept
+description: Explore the significance of the Wholesale Price Index in gauging economic
+  health and its role in enhancing algorithmic trading strategies with informed insights.
+title: Wholesale Price Index and Its Calculation (Algo Trading)
 ---
 
 The Wholesale Price Index (WPI) is a significant economic indicator that plays a pivotal role in understanding inflation and the overall economic health of a nation. By measuring the average change in prices at the wholesale level, the WPI provides essential insights into price movements relative to producers, commodities, and intermediate goods. This information is crucial for economists and policymakers who utilize these insights to shape monetary and fiscal policies effectively. Businesses also rely on WPI data to make strategic decisions regarding pricing and forecasting input costs, thus allowing them to anticipate economic trends and respond accordingly.

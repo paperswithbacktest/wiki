@@ -1,6 +1,8 @@
 ---
-title: "Value of Silver Certificate Dollar Bills (Algo Trading)"
-description: "Explore the historical and collectible value of Silver Certificate Dollar Bills, and discover how algorithmic trading can influence this niche market."
+category: quant_concept
+description: Explore the historical and collectible value of Silver Certificate Dollar
+  Bills, and discover how algorithmic trading can influence this niche market.
+title: Value of Silver Certificate Dollar Bills (Algo Trading)
 ---
 
 Silver Certificate Dollar Bills are a notable part of American monetary history. First introduced in 1878, these bills were originally issued by the U.S. government as legal tender, backed by silver. This meant that holders could exchange them for a specified amount of silver bullion. Over time, their function changed, and they were eventually phased out of circulation by the late 20th century. Today, silver certificates are no longer redeemable for silver, yet they retain significant interest among collectors due to their historical value and the nostalgia associated with a bygone era of U.S. currency.

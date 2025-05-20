@@ -1,6 +1,9 @@
 ---
-title: "Smart Contracts on Blockchain (Algo Trading)"
-description: "Discover how smart contracts revolutionize algorithmic trading by providing automation and security in blockchain transactions for a decentralized financial future."
+category: quant_concept
+description: Discover how smart contracts revolutionize algorithmic trading by providing
+  automation and security in blockchain transactions for a decentralized financial
+  future.
+title: Smart Contracts on Blockchain (Algo Trading)
 ---
 
 The integration of blockchain technology with smart contracts has catalyzed a significant transformation in cryptocurrency and algorithmic trading. By enhancing the technological infrastructure of financial systems, these innovations support a more secure and efficient trading environment. Blockchain serves as a decentralized ledger, providing transparency and security, while smart contracts introduce automated execution of agreements without needing intermediaries. This automation is instrumental in achieving swift and accurate transactions, helping to eliminate traditional bottlenecks and enhancing trust among trading parties.

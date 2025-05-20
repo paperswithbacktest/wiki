@@ -1,6 +1,8 @@
 ---
-title: "Short Tender: Overview and Mechanisms (Algo Trading)"
-description: "Explore the nuances of short tender and algorithmic trading to enhance your stock market strategies. Learn how these methods optimize trading efficiency."
+category: quant_concept
+description: Explore the nuances of short tender and algorithmic trading to enhance
+  your stock market strategies. Learn how these methods optimize trading efficiency.
+title: 'Short Tender: Overview and Mechanisms (Algo Trading)'
 ---
 
 The stock market represents a dynamic and intricate ecosystem where investors and traders operate with the goal of optimizing their returns. As market participants engage in this complex environment, they employ a range of strategies to exploit market opportunities. Among these strategies, short tender and algorithmic trading have garnered notable attention for their effectiveness and technical appeal. Short tender refers to the practice of selling borrowed shares to respond to a tender offer, aiming for advantageous buy-back conditions, while algorithmic trading uses computerized systems to execute trades based on predefined criteria, thus offering efficiency and speed beyond human capability.

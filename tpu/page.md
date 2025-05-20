@@ -1,7 +1,8 @@
 ---
-title: TPU Architecture and Machine Learning Performance Benefits
+category: quant_concept
 description: TPU accelerates neural network training with matrix multiply units and
   fast memory buffers for energy efficient AI workloads Discover more inside
+title: TPU Architecture and Machine Learning Performance Benefits
 ---
 
 ![Image](images/1.jpeg)

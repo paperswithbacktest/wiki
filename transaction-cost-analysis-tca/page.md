@@ -1,6 +1,8 @@
 ---
-title: "Transaction Cost Analysis (TCA) (Algo Trading)"
-description: "Explore the crucial role of Transaction Cost Analysis in algorithmic trading to optimize trade execution efficiency and maximize profits in complex markets."
+category: quant_concept
+description: Explore the crucial role of Transaction Cost Analysis in algorithmic
+  trading to optimize trade execution efficiency and maximize profits in complex markets.
+title: Transaction Cost Analysis (TCA) (Algo Trading)
 ---
 
 Transaction Cost Analysis (TCA) is a pivotal aspect of algorithmic trading, a field that has become increasingly sophisticated as financial markets evolve. In today's complex trading environment, understanding and managing transaction costs are essential for traders and investment firms aiming to maximize profitability and efficiency.

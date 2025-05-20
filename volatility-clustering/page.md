@@ -1,6 +1,8 @@
 ---
-title: "Volatility clustering (Algo Trading)"
-description: "Explore the significance of volatility clustering in algorithmic trading and how it helps optimize strategies using models like GARCH for market predictions."
+category: quant_concept
+description: Explore the significance of volatility clustering in algorithmic trading
+  and how it helps optimize strategies using models like GARCH for market predictions.
+title: Volatility clustering (Algo Trading)
 ---
 
 Volatility clustering is a fundamental concept in financial markets, describing the phenomenon where periods of large price changes tend to follow other periods of large price changes, while periods of small price changes follow periods of small price changes. This pattern has been widely observed in various financial instruments, where volatility, the measure of price variability, does not occur randomly but rather in clusters. Understanding this behavior is critical, especially in algorithmic trading, where accurate predictions of market movements can enhance trading strategies for better efficiency and profitability. 

@@ -1,6 +1,9 @@
 ---
-title: "Special Economic Zones and Their Impact on Foreign Direct Investment (Algo Trading)"
-description: "Explore the transformative role of Special Economic Zones in boosting Foreign Direct Investment through algorithmic trading and innovative financial strategies."
+category: quant_concept
+description: Explore the transformative role of Special Economic Zones in boosting
+  Foreign Direct Investment through algorithmic trading and innovative financial strategies.
+title: Special Economic Zones and Their Impact on Foreign Direct Investment (Algo
+  Trading)
 ---
 
 Special Economic Zones (SEZs) are pivotal in promoting economic growth and attracting Foreign Direct Investment (FDI) by creating environments conducive to business and investment. These geographically defined areas offer preferential treatment in terms of regulations and tax incentives, making them attractive to domestic and international investors. SEZs aim to boost trade balances, increase investment, create jobs, and facilitate better administration.

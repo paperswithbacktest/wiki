@@ -1,6 +1,8 @@
 ---
-title: "Usefulness of ROCE as a Performance Indicator (Algo Trading)"
-description: "Explore the importance of Return on Capital Employed in algorithmic trading by understanding how this financial indicator enhances trading strategies and decision-making."
+category: trading_strategy
+description: Explore the importance of Return on Capital Employed in algorithmic trading
+  by understanding how this financial indicator enhances trading strategies and decision-making.
+title: Usefulness of ROCE as a Performance Indicator (Algo Trading)
 ---
 
 Evaluating company performance effectively requires a thorough understanding of various financial indicators. These indicators are crucial tools that assist investors and traders in making informed decisions by assessing a company's financial health and potential for future growth. Among these indicators, Return on Capital Employed (ROCE) stands out as a significant measure of a company's profitability and efficiency in using its capital.

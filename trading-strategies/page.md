@@ -1,6 +1,14 @@
 ---
-title: "Trading Strategies Explained (Algo Trading)"
-description: Explore a comprehensive guide to algorithmic trading strategies, where computer algorithms enhance trading accuracy and speed in financial markets. Discover diverse strategies like swing trading, mean reversion, and trend following that cater to various market conditions. Learn about specialized approaches such as volatility trading and sentiment indicators, offering risk mitigation and profit opportunities. This article provides insights backed by data to help traders implement innovative and disciplined trading plans, optimize portfolios, and achieve financial goals in dynamic markets.
+category: trading_strategy
+description: Explore a comprehensive guide to algorithmic trading strategies, where
+  computer algorithms enhance trading accuracy and speed in financial markets. Discover
+  diverse strategies like swing trading, mean reversion, and trend following that
+  cater to various market conditions. Learn about specialized approaches such as volatility
+  trading and sentiment indicators, offering risk mitigation and profit opportunities.
+  This article provides insights backed by data to help traders implement innovative
+  and disciplined trading plans, optimize portfolios, and achieve financial goals
+  in dynamic markets.
+title: Trading Strategies Explained (Algo Trading)
 ---
 
 Algorithmic trading, known as algo trading, employs complex computer algorithms to execute trades based on pre-established strategies, enabling rapid and data-driven decision-making in financial markets. This approach capitalizes on the computational power and efficiency of modern technology to enhance trading accuracy and speed, minimizing human error and emotional biases that can impact traditional trading methods.

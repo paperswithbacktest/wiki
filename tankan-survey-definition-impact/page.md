@@ -1,6 +1,8 @@
 ---
-title: "Tankan Survey: Definition and Impact (Algo Trading)"
-description: "Explore the Tankan Survey's impact on Japan's economy and how it informs monetary policy and algorithmic trading strategies amidst global economic shifts."
+category: quant_concept
+description: Explore the Tankan Survey's impact on Japan's economy and how it informs
+  monetary policy and algorithmic trading strategies amidst global economic shifts.
+title: 'Tankan Survey: Definition and Impact (Algo Trading)'
 ---
 
 The Japanese economy stands as one of the most formidable structures globally, owing much of its stature to its prowess in manufacturing and a culture of relentless innovation. As an economic powerhouse, Japan's fiscal health and business sentiment are of paramount interest to both local and international stakeholders. Central to understanding this complex landscape is the Tankan Survey, a quarterly inquiry conducted by the Bank of Japan. This survey acts as a barometer, measuring business sentiment and confidence across numerous sectors within the Japanese economy.

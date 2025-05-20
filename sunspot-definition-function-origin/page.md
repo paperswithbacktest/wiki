@@ -1,6 +1,9 @@
 ---
-title: "Sunspot: Definition, Function, and Origin (Algo Trading)"
-description: "Discover the intriguing connection between sunspots and financial markets Explore how solar activity may influence algorithmic trading strategies in this article"
+category: quant_concept
+description: Discover the intriguing connection between sunspots and financial markets
+  Explore how solar activity may influence algorithmic trading strategies in this
+  article
+title: 'Sunspot: Definition, Function, and Origin (Algo Trading)'
 ---
 
 The intersection of astronomy and finance manifests in the intriguing link between solar phenomena and algorithmic trading. A specific focus has been placed on sunspots, temporary dark spots on the Sun's surface, and their potential impact on market behavior. Traditionally, sunspots have been categorized as extrinsic variables, perceived to have no direct effect on economic fundamentals. However, their influence on market sentiment and psychology continues to pique interest. This prompts an exploration into how sunspot activity might influence trading strategies. 

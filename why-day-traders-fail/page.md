@@ -1,6 +1,11 @@
 ---
-title: "Why Day Traders Fail Explained (Algo Trading)"
-description: Discover the key reasons why day traders fail, particularly when using algorithmic trading strategies. Learn about common psychological and strategic pitfalls that can undermine success in the competitive and complex world of financial markets. This article provides valuable insights into avoiding mistakes and developing sound trading plans.
+category: trading_strategy
+description: Discover the key reasons why day traders fail, particularly when using
+  algorithmic trading strategies. Learn about common psychological and strategic pitfalls
+  that can undermine success in the competitive and complex world of financial markets.
+  This article provides valuable insights into avoiding mistakes and developing sound
+  trading plans.
+title: Why Day Traders Fail Explained (Algo Trading)
 ---
 
 Day trading, particularly through algorithmic trading, is often perceived as a career path filled with the potential for quick financial gains and dynamic engagement. Despite this allure, the stark reality is that the success rate among day traders remains low. This can be attributed to a myriad of challenges and pitfalls that traders face when attempting to navigate the financial markets.

@@ -1,6 +1,9 @@
 ---
-title: "Share Allotment, Share Increases, and Initial Public Offerings (Algo Trading)"
-description: "Explore the complexities of IPO share allotment, share increase dynamics, and algorithmic trading impacts to make informed investment decisions in evolving markets."
+category: quant_concept
+description: Explore the complexities of IPO share allotment, share increase dynamics,
+  and algorithmic trading impacts to make informed investment decisions in evolving
+  markets.
+title: Share Allotment, Share Increases, and Initial Public Offerings (Algo Trading)
 ---
 
 The world of stock trading and investment is constantly evolving, offering various opportunities for both corporations and investors. Initial Public Offerings (IPOs) serve as one of the key methods for a private company to raise capital by offering shares to the public for the first time. This transformation from a privately held entity to a publicly traded company marks a significant milestone, enabling businesses to access a broader pool of capital. For investors, IPOs present a chance to participate in the early growth stages of promising companies, potentially leading to substantial returns.

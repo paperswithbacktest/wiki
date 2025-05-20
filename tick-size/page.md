@@ -1,6 +1,14 @@
 ---
-title: "Tick size (Algo Trading)"
-description: Discover the pivotal role of tick size in algorithmic trading, where it determines the smallest price movements in securities trading. From stocks to bonds and futures, understanding tick size is crucial for optimizing trading strategies and enhancing market efficiency. Explore how different tick size structures, whether fixed or variable, impact order execution and liquidity, providing insights essential for algorithmic traders seeking precision and market opportunities. Dive into the nuances of tick size across global markets and regulatory influences shaping trading environments.
+category: quant_concept
+description: Discover the pivotal role of tick size in algorithmic trading, where
+  it determines the smallest price movements in securities trading. From stocks to
+  bonds and futures, understanding tick size is crucial for optimizing trading strategies
+  and enhancing market efficiency. Explore how different tick size structures, whether
+  fixed or variable, impact order execution and liquidity, providing insights essential
+  for algorithmic traders seeking precision and market opportunities. Dive into the
+  nuances of tick size across global markets and regulatory influences shaping trading
+  environments.
+title: Tick size (Algo Trading)
 ---
 
 In financial markets, 'tick size' defines the smallest price increment at which securities are quoted. It functions as a foundational element across various trading instruments, including stocks, bonds, and futures. This concept influences trading dynamics by dictating the minimal price changes that can occur. Understanding tick size is particularly crucial for algorithmic traders. These traders devise strategies that depend on accurate and minute price movements to capitalize on market opportunities. By leveraging the precise nature of tick size, algorithmic trading systems can enhance order execution, optimize entry and exit strategies, and improve overall trading efficiency. Knowing the role of tick size helps traders develop methodologies that align with market microstructures, ultimately leading to more effective trading strategies.

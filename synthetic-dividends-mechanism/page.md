@@ -1,6 +1,8 @@
 ---
-title: "Synthetic Dividends and Their Mechanism (Algo Trading)"
-description: "Explore synthetic dividends and algorithmic trading to enhance portfolio returns in dynamic markets using advanced financial mechanisms and technologies."
+category: trading_strategy
+description: Explore synthetic dividends and algorithmic trading to enhance portfolio
+  returns in dynamic markets using advanced financial mechanisms and technologies.
+title: Synthetic Dividends and Their Mechanism (Algo Trading)
 ---
 
 In today's dynamic financial markets, investors are continually seeking innovative strategies to enhance their portfolio returns. With the rapid evolution of technology and the increasing complexity of financial instruments, traditional investment approaches often fall short of meeting modern demands. This article focuses on exploring cutting-edge investment strategies, particularly through the use of sophisticated financial mechanisms such as synthetic dividends and algorithmic trading.

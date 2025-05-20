@@ -1,6 +1,9 @@
 ---
-title: "Variable Coupon Renewable Note (Algo Trading)"
-description: "Explore the innovative world of Variable Coupon Renewable Notes and algorithmic trading which offer flexible interest rates aligning with market conditions and renewable finance goals"
+category: quant_concept
+description: Explore the innovative world of Variable Coupon Renewable Notes and algorithmic
+  trading which offer flexible interest rates aligning with market conditions and
+  renewable finance goals
+title: Variable Coupon Renewable Note (Algo Trading)
 ---
 
 In the rapidly evolving landscape of finance, innovative investment instruments continue to emerge, capturing the attention of investors seeking flexibility and new opportunities. One such instrument is the Variable Coupon Renewable Note (VCR), a unique type of fixed-income security that offers dynamic interest rates. Unlike traditional bonds that typically have fixed interest rates over their entire life span, VCRs adjust their rates periodically. This feature provides an added layer of flexibility, allowing VCRs to align more closely with prevailing market conditions.

@@ -1,8 +1,9 @@
 ---
-title: Understanding Temporal Data in Machine Learning Applications
+category: quant_concept
 description: Temporal data in machine learning reveals patterns across time to boost
   prediction accuracy and insights in finance weather and healthcare Discover more
   inside.
+title: Understanding Temporal Data in Machine Learning Applications
 ---
 
 ![Image](images/1.png)

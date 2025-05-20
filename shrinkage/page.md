@@ -1,7 +1,8 @@
 ---
-title: Shrinkage Methods for Machine Learning Model Improvement
+category: quant_concept
 description: Shrinkage methods improve model accuracy by reducing feature impact and
   preventing overfitting through penalized regression techniques Discover more inside.
+title: Shrinkage Methods for Machine Learning Model Improvement
 ---
 
 ![Image](images/1.png)

@@ -1,7 +1,8 @@
 ---
-title: Subword Segmentation Strategies to Enhance NLP Model Efficiency
+category: quant_concept
 description: Subword segmentation breaks words into smaller units to improve model
   adaptability reduce vocabulary size and handle new terms Discover more inside.
+title: Subword Segmentation Strategies to Enhance NLP Model Efficiency
 ---
 
 ![Image](images/1.png)

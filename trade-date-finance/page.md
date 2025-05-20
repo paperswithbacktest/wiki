@@ -1,6 +1,9 @@
 ---
-title: "Trade Date in Finance (Algo Trading)"
-description: "Explore the synergy of trade date investing and algorithmic trading. Learn how these strategies optimize investments, maximize returns, and mitigate risks in finance."
+category: quant_concept
+description: Explore the synergy of trade date investing and algorithmic trading.
+  Learn how these strategies optimize investments, maximize returns, and mitigate
+  risks in finance.
+title: Trade Date in Finance (Algo Trading)
 ---
 
 Understanding the dynamics of trade date investing is crucial for navigating the financial markets effectively. Trade date investing refers to the practice of recognizing and recording a trade on the date it is executed, rather than when it is settled. This approach holds significant importance as it aligns closely with market movements and investor strategies, providing timely insight into market positions. This method allows investors to make informed decisions based on the most current data available, optimizing their investment strategies accordingly.

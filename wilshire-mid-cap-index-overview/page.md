@@ -1,6 +1,8 @@
 ---
-title: "Wilshire Mid-Cap Index Overview (Algo Trading)"
-description: "Explore the Wilshire Mid-Cap Index a key benchmark for mid-sized companies between $2B-$10B emphasizing growth and stability optimal for algorithmic trading."
+category: dataset
+description: Explore the Wilshire Mid-Cap Index a key benchmark for mid-sized companies
+  between $2B-$10B emphasizing growth and stability optimal for algorithmic trading.
+title: Wilshire Mid-Cap Index Overview (Algo Trading)
 ---
 
 The Wilshire Mid-Cap Index is a prominent benchmark in the stock market that captures the performance of mid-sized companies, known as mid-caps. These companies often have a market capitalization that falls between $2 billion and $10 billion. Their unique characteristics position them between larger, more established firms and smaller, high-growth potential entities, offering a balanced investment opportunity. Mid-cap companies are typically in a growth phase, providing investors with the potential for significant appreciation while maintaining a degree of stability. They have usually passed the initial volatility associated with small-cap companies yet retain room for expansion and increased market influence, unlike their large-cap counterparts.
@@ -150,4 +152,3 @@ In summary, the Wilshire Mid-Cap Index provides a comprehensive platform for und
 9. **Khan Academy** - For a more basic introduction or refresher on investment terminology and general market dynamics, consider Khan Academy's finance and capital markets section. It provides educational content that's accessible and easy to understand. Access their [finance courses](https://www.khanacademy.org/economics-finance-domain/core-finance).
 
 These resources offer various perspectives and depths of information, catering to both novice and experienced investors interested in mid-cap investments and algorithmic trading.
-

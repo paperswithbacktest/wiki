@@ -1,6 +1,9 @@
 ---
-title: "Sequential Pay Collateralized Mortgage Obligation (Algo Trading)"
-description: "Explore the intricacies of Sequential Pay CMOs and their integration with algorithmic trading Expect insights on structured payment methods and trading strategies"
+category: quant_concept
+description: Explore the intricacies of Sequential Pay CMOs and their integration
+  with algorithmic trading Expect insights on structured payment methods and trading
+  strategies
+title: Sequential Pay Collateralized Mortgage Obligation (Algo Trading)
 ---
 
 Understanding complex debt instruments, such as CMO mortgage securities, is crucial for investors aiming to diversify their portfolios effectively. Collateralized Mortgage Obligations (CMOs) represent a type of financial product derived from mortgage payments, offering structured investment opportunities. At the heart of CMOs lies a methodical payment structure known as sequential pay, which dictates the order in which different tranches receive payments, thereby tailoring the risk and return profiles for investors.

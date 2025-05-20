@@ -1,6 +1,8 @@
 ---
-title: "Variance and Covariance (Algo Trading)"
-description: "Explore how variance and covariance optimize strategies and manage risk in algorithmic trading Gain insight into portfolio management and trading outcomes"
+category: quant_concept
+description: Explore how variance and covariance optimize strategies and manage risk
+  in algorithmic trading Gain insight into portfolio management and trading outcomes
+title: Variance and Covariance (Algo Trading)
 ---
 
 Algorithmic trading, a form of trading that leverages computers programmed to follow a defined set of instructions for placing trades, plays a pivotal role in modern financial markets. This method of trading capitalizes on speed, precision, and the ability to analyze vast quantities of data in real-time. As technology has evolved, algorithmic trading has gained popularity among institutional investors, hedge funds, and even retail traders due to its capacity to execute complex strategies at scale.

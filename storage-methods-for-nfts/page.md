@@ -1,6 +1,9 @@
 ---
-title: "Storage Methods for NFTs (Algo Trading)"
-description: "Discover effective methods for securely storing NFTs and explore the integration with algorithmic trading. Protect your investments and maximize NFT potential."
+category: quant_concept
+description: Discover effective methods for securely storing NFTs and explore the
+  integration with algorithmic trading. Protect your investments and maximize NFT
+  potential.
+title: Storage Methods for NFTs (Algo Trading)
 ---
 
 The emergence of Non-Fungible Tokens (NFTs) has significantly altered our perception of digital assets, offering new dimensions and opportunities for investment portfolios globally. Characterized by their unique and indivisible properties, NFTs differ fundamentally from traditional cryptocurrencies like Bitcoin and Ethereum, which are fungible and interchangeable. This distinctiveness has sparked a global interest, resulting in an unprecedented surge in the popularity and value of NFT-based assets across various sectors, including digital art, music, and virtual real estate.

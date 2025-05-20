@@ -1,6 +1,14 @@
 ---
-title: "Social Good: Overview and Benefits (Algo Trading)"
-description: "Explore the transformative impact of algorithmic trading in financial markets, highlighting its potential to integrate social good by aligning investment strategies with societal objectives like sustainability and equality. Learn how advanced technologies like AI and machine learning enable traders to make informed decisions, enhancing transparency and accountability while promoting socially responsible investing. Discover the growing trend of blending financial returns with ethical considerations to foster community development and sustainable economic growth through innovative trading practices."
+category: quant_concept
+description: Explore the transformative impact of algorithmic trading in financial
+  markets, highlighting its potential to integrate social good by aligning investment
+  strategies with societal objectives like sustainability and equality. Learn how
+  advanced technologies like AI and machine learning enable traders to make informed
+  decisions, enhancing transparency and accountability while promoting socially responsible
+  investing. Discover the growing trend of blending financial returns with ethical
+  considerations to foster community development and sustainable economic growth through
+  innovative trading practices.
+title: 'Social Good: Overview and Benefits (Algo Trading)'
 ---
 
 Algorithmic trading, an automated process that employs intricate algorithms to execute financial transactions, has fundamentally transformed the financial markets by enhancing efficiency, speed, and precision. With the surge in computational power and data availability, algorithmic trading accounts for a substantial portion of the trading activities, contributing to better liquidity and reduced transaction costs. However, as this practice continues to evolve, there is an increasing emphasis on incorporating social good into trading strategies, aiming not only for financial returns but also for positive societal outcomes.

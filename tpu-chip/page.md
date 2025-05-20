@@ -1,7 +1,8 @@
 ---
-title: TPU Chips Accelerate Machine Learning Performance and Efficiency
+category: quant_concept
 description: TPU chips use efficient matrix operations to speed deep learning while
   cutting energy use and costs for AI model training Discover more inside
+title: TPU Chips Accelerate Machine Learning Performance and Efficiency
 ---
 
 ![Image](images/1.jpeg)

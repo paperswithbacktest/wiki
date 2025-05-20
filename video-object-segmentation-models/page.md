@@ -1,7 +1,8 @@
 ---
-title: Video Object Segmentation Guide for Machine Learning
+category: quant_concept
 description: Video Object Segmentation equips ML models to track objects with memory-driven
   consistency across frames for real-time video analysis Discover more inside.
+title: Video Object Segmentation Guide for Machine Learning
 ---
 
 ![Image](images/1.png)

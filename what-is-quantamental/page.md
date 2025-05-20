@@ -1,6 +1,15 @@
 ---
-title: "What is Quantamental? (Algo Trading)"
-description: Discover the innovative world of quantamental trading where sophisticated algorithms meet qualitative insights for unparalleled decision-making power. By integrating quantitative and fundamental analyses this hybrid strategy enhances the effectiveness of algorithmic trading offering an adaptable and comprehensive approach to market dynamics and investment potential. Quantamental strategies leverage the precision of data-driven models combined with the contextual depth of traditional analysis to provide robust investment frameworks that optimize returns while effectively managing risks. As such, they are transforming the landscape of modern finance by bridging the gap between numerical rigor and insightful judgment.
+category: trading_strategy
+description: Discover the innovative world of quantamental trading where sophisticated
+  algorithms meet qualitative insights for unparalleled decision-making power. By
+  integrating quantitative and fundamental analyses this hybrid strategy enhances
+  the effectiveness of algorithmic trading offering an adaptable and comprehensive
+  approach to market dynamics and investment potential. Quantamental strategies leverage
+  the precision of data-driven models combined with the contextual depth of traditional
+  analysis to provide robust investment frameworks that optimize returns while effectively
+  managing risks. As such, they are transforming the landscape of modern finance by
+  bridging the gap between numerical rigor and insightful judgment.
+title: What is Quantamental? (Algo Trading)
 ---
 
 In the ever-evolving world of finance, trading strategies are constantly being reshaped by new technologies and methodologies. One such innovation is algorithmic trading, commonly referred to as algo trading, which has become a cornerstone in transforming how trades are executed. Algo trading leverages computer algorithms to automate trading processes, allowing traders to execute orders with unparalleled speed and precision.

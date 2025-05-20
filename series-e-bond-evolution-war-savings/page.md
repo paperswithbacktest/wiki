@@ -1,6 +1,9 @@
 ---
-title: "Series E Bond: Evolution from War Bond to Savings Instrument (Algo Trading)"
-description: "Explore the transformation of Series E Bonds from WWII financial tools to modern savings instruments and their ongoing relevance in today's investment landscape."
+category: quant_concept
+description: Explore the transformation of Series E Bonds from WWII financial tools
+  to modern savings instruments and their ongoing relevance in today's investment
+  landscape.
+title: 'Series E Bond: Evolution from War Bond to Savings Instrument (Algo Trading)'
 ---
 
 The world of bonds is intricate and encompasses a wide array of financial instruments, yet Series E Bonds hold a special place due to their historical legacy and contribution to national efforts. Introduced during a critical period in history, Series E Bonds were initially launched by the U.S. government in 1941 as a means to support military operations during World War II. These bonds were not just financial instruments but also a patriotic venture wherein citizens could directly contribute to the war effort. The purchase of these bonds allowed average Americans to support their country, fostering a unique sense of unity and national pride.

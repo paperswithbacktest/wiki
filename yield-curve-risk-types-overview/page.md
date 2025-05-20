@@ -1,6 +1,9 @@
 ---
-title: "Yield Curve Risk: Types and Overview (Algo Trading)"
-description: "Explore the dynamics of yield curve risk within algorithmic trading, and learn how integrating yield curve analysis enhances risk management and strategic investment."
+category: quant_concept
+description: Explore the dynamics of yield curve risk within algorithmic trading,
+  and learn how integrating yield curve analysis enhances risk management and strategic
+  investment.
+title: 'Yield Curve Risk: Types and Overview (Algo Trading)'
 ---
 
 Managing risk holds paramount importance in the world of finance, given its persistent evolution. This article addresses the interplay between financial risk management, yield curve theory, and algorithmic trading. These components collectively present investors and traders with substantial opportunities to enhance their strategies and manage risks effectively.

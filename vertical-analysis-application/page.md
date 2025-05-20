@@ -1,6 +1,8 @@
 ---
-title: "Vertical Analysis and Its Application (Algo Trading)"
-description: "Discover the application of vertical analysis in algo trading to gain insights into financial strategies and enhance decision-making in modern markets."
+category: quant_concept
+description: Discover the application of vertical analysis in algo trading to gain
+  insights into financial strategies and enhance decision-making in modern markets.
+title: Vertical Analysis and Its Application (Algo Trading)
 ---
 
 Financial analysis is a critical tool used by investors, business managers, and financial analysts to assess a company's performance and determine its financial health. By scrutinizing financial statements, stakeholders can evaluate a company's profitability, liquidity, solvency, and operational efficiency, ultimately guiding strategic decisions and investment opportunities. Financial analysis encompasses various techniques, each offering unique insights into a company's operations. Among these techniques is vertical analysis, a method that involves expressing each item in a financial statement as a percentage of a base figure. This approach differs from other forms of analysis, such as horizontal analysis, which compares financial data across periods, and ratio analysis, which evaluates relationships between different financial statement items.

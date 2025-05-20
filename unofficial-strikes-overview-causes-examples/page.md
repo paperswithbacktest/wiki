@@ -1,6 +1,8 @@
 ---
-title: "Unofficial Strikes: Overview, Causes, and Examples (Algo Trading)"
-description: "Explore how unofficial strikes and algorithmic trading influence today's financial markets. Discover their roles, implications, and potential industry impacts."
+category: quant_concept
+description: Explore how unofficial strikes and algorithmic trading influence today's
+  financial markets. Discover their roles, implications, and potential industry impacts.
+title: 'Unofficial Strikes: Overview, Causes, and Examples (Algo Trading)'
 ---
 
 The economic landscape is shaped by the dynamic interactions between labor movements and technological advancements. A critical aspect of this landscape is unofficial strikes, also known as wildcat strikes, which occur without formal union endorsement. These strikes represent a method through which workers voice their dissatisfaction with labor conditions, often bypassing traditional union channels and established labor laws. Despite the risks involved, such as lack of legal protection and the potential for job loss, unofficial strikes can effectively highlight urgent worker issues and prompt necessary changes.

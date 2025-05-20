@@ -1,6 +1,9 @@
 ---
-title: "Third Market: Definition and Functionality (Algo Trading)"
-description: "Explore the intricacies of third market and algorithmic trading and learn how they reshape financial markets by offering reduced costs and increased trading efficiency."
+category: quant_concept
+description: Explore the intricacies of third market and algorithmic trading and learn
+  how they reshape financial markets by offering reduced costs and increased trading
+  efficiency.
+title: 'Third Market: Definition and Functionality (Algo Trading)'
 ---
 
 In today's rapidly evolving financial landscape, understanding the different types of markets and trading strategies is crucial. This article explores the concepts of third market securities trading and algorithmic (algo) trading, examining how they interconnect and impact the financial markets.

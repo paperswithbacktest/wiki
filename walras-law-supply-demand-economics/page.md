@@ -1,6 +1,9 @@
 ---
-title: "Walras's Law and Its Role in Supply and Demand Economics (Algo Trading)"
-description: "Explore Walras's Law its implications in supply and demand economics and its relevance in algorithmic trading where market equilibrium drives trading efficiency."
+category: quant_concept
+description: Explore Walras's Law its implications in supply and demand economics
+  and its relevance in algorithmic trading where market equilibrium drives trading
+  efficiency.
+title: Walras's Law and Its Role in Supply and Demand Economics (Algo Trading)
 ---
 
 Walras's Law is a foundational principle in economics, asserting the inherent interdependence of markets and the pursuit of equilibrium within an economic system. Formulated by Léon Walras, a pioneer of general equilibrium theory, this concept underscores the idea that excess supply in one market must be mirrored by excess demand in another, ensuring that these imbalances collectively maintain an equilibrium across the entire economy. This interplay is crucial in understanding the behavior of complex market systems and presents significant implications for both theoretical and practical economic frameworks.

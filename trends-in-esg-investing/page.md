@@ -1,6 +1,9 @@
 ---
-title: "Trends in ESG Investing (Algo Trading)"
-description: "Explore the growing synergy between ESG investing and algorithmic trading Discover how integrating sustainability into trading strategies is reshaping investment trends"
+category: quant_concept
+description: Explore the growing synergy between ESG investing and algorithmic trading
+  Discover how integrating sustainability into trading strategies is reshaping investment
+  trends
+title: Trends in ESG Investing (Algo Trading)
 ---
 
 Investing guided by Environmental, Social, and Corporate Governance (ESG) criteria is rapidly gaining traction among both individual and institutional investors. This trend reflects a growing recognition of the importance of sustainable and ethical business practices, with an increasing number of stakeholders prioritizing factors such as climate change mitigation, social equity, and robust corporate governance in their investment decisions. These criteria are becoming integral to evaluating a company's long-term financial performance and overall impact on society.

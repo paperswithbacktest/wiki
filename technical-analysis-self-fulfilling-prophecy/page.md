@@ -1,6 +1,9 @@
 ---
-title: "Technical Analysis as a Self-Fulfilling Prophecy (Algo Trading)"
-description: "Explore how technical analysis can act as a self-fulfilling prophecy in algorithmic trading shaping market trends through collective trader behaviors and automated strategies."
+category: trading_strategy
+description: Explore how technical analysis can act as a self-fulfilling prophecy
+  in algorithmic trading shaping market trends through collective trader behaviors
+  and automated strategies.
+title: Technical Analysis as a Self-Fulfilling Prophecy (Algo Trading)
 ---
 
 The stock market is a multifaceted environment where technical analysis and algorithmic trading have significant influence. Technical analysis is a method used by traders to evaluate and predict future market trends based on past price movements and trading volumes. This approach operates on the assumption that historical patterns and behaviors in a security's price movements can repeat over time, enabling traders to anticipate future changes.

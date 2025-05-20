@@ -1,6 +1,10 @@
 ---
-title: "Settlement Date Accounting: Overview, Advantages, and Disadvantages (Algo Trading)"
-description: "Explore the nuances of settlement date accounting in algorithmic trading its impact on financial accuracy and risk management and how firms can leverage this method."
+category: quant_concept
+description: Explore the nuances of settlement date accounting in algorithmic trading
+  its impact on financial accuracy and risk management and how firms can leverage
+  this method.
+title: 'Settlement Date Accounting: Overview, Advantages, and Disadvantages (Algo
+  Trading)'
 ---
 
 The finance sector is inherently complex, characterized by a myriad of accounting methods that dictate the recording of financial transactions. Among these methods, settlement date accounting holds a significant position, particularly in the environment of algorithmic trading. This method focuses on recording transactions at the time when all service or transaction obligations are fulfilled rather than when they are initiated. This distinction is crucial in maintaining accurate financial records in a high-velocity trading context.

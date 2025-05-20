@@ -1,6 +1,11 @@
 ---
-title: "Stratified Random Sampling: Methods and Examples (Algo Trading)"
-description: "Explore the benefits of stratified random sampling in algorithmic trading to enhance data accuracy and model reliability. Learn how these sampling methods ensure more robust trading algorithms by capturing diverse market data effectively. Discover strategies to apply stratified and random sampling techniques for optimizing trading performance in financial markets."
+category: quant_concept
+description: Explore the benefits of stratified random sampling in algorithmic trading
+  to enhance data accuracy and model reliability. Learn how these sampling methods
+  ensure more robust trading algorithms by capturing diverse market data effectively.
+  Discover strategies to apply stratified and random sampling techniques for optimizing
+  trading performance in financial markets.
+title: 'Stratified Random Sampling: Methods and Examples (Algo Trading)'
 ---
 
 Algorithmic trading, often referred to as algo trading, is a method of executing orders using automated pre-programmed trading instructions. These instructions consider a variety of factors including timing, price, and volume, and are designed to make swift, effective trades to capitalize on opportunities in financial markets. The foundation of successful algorithmic trading lies in the data employed during the decision-making processes. Reliable and accurate data are essential to optimize trading algorithms and enhance their ability to make profitable trades.

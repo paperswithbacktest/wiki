@@ -1,6 +1,9 @@
 ---
-title: "Term Bonds: Overview, Mechanisms, and Variations (Algo Trading)"
-description: "Explore the intricacies of term bonds influenced by algorithmic trading to enhance your investment strategy. Understand bond types, mechanisms, and technological impacts."
+category: quant_concept
+description: Explore the intricacies of term bonds influenced by algorithmic trading
+  to enhance your investment strategy. Understand bond types, mechanisms, and technological
+  impacts.
+title: 'Term Bonds: Overview, Mechanisms, and Variations (Algo Trading)'
 ---
 
 In the rapidly evolving financial landscape, understanding different financial instruments is crucial for optimizing your investment strategy. This article focuses on term bonds, bond types, and the impact of algorithmic trading on these financial securities. Term bonds, like other bonds, represent a loan made by an investor to a borrower, with the distinction of having a fixed maturity date at which the principal amount is repaid in one lump sum. Recognizing the specific role these bonds play within an investment portfolio is essential for achieving targeted financial outcomes.
@@ -170,4 +173,3 @@ For more information and detailed studies on financial instruments, bond types, 
 - Chan, E. P., *Quantitative Trading: How to Build Your Own Algorithmic Trading Business*: This book is a practical guide for developing quantitative trading strategies. It covers everything from idea generation to risk management and execution, providing insights into creating a successful trading business.
 
 These resources offer valuable insights and methodologies for investors and traders interested in leveraging technology to optimize trading strategies in the context of financial instruments.
-

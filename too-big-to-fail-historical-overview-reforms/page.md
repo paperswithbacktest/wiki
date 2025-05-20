@@ -1,6 +1,8 @@
 ---
-title: "Too Big to Fail: Historical Overview and Reforms (Algo Trading)"
-description: "Explore the history and reforms related to 'Too Big to Fail' in the financial sector and understand the impact of algorithmic trading on modern economies."
+category: quant_concept
+description: Explore the history and reforms related to 'Too Big to Fail' in the financial
+  sector and understand the impact of algorithmic trading on modern economies.
+title: 'Too Big to Fail: Historical Overview and Reforms (Algo Trading)'
 ---
 
 The concept of 'Too Big to Fail' (TBTF) gained significant attention during the global financial crisis of 2007-2008, underscoring the profound impact that large financial institutions can have on the global economy. The TBTF theory posits that certain businesses are so integral to the economic framework that their failure would instigate a catastrophic collapse, necessitating government intervention to prevent economic disruption. During the 2007-2008 financial collapse, the failure of major institutions such as Lehman Brothers illuminated these vulnerabilities, leading to a reevaluation of financial systems worldwide.

@@ -1,6 +1,8 @@
 ---
-title: "Transformers in Finance (Algo Trading)"
-description: "Discover the transformative role of AI and transformer models in finance, enhancing algorithmic trading and forecasting, offering groundbreaking insights."
+category: quant_concept
+description: Discover the transformative role of AI and transformer models in finance,
+  enhancing algorithmic trading and forecasting, offering groundbreaking insights.
+title: Transformers in Finance (Algo Trading)
 ---
 
 The transformative potential of artificial intelligence (AI) within the financial sector has emerged as a powerful force, with transformer models leading advancements. Initially devised for natural language processing (NLP) tasks, transformers have rapidly extended their applications to the intricacies of financial markets. This article seeks to elucidate the evolving role of transformers in algorithmic trading and financial forecasting. By examining these facets, we aspire to construct a detailed guide regarding how these sophisticated models are reshaping the financial landscape.
@@ -128,4 +130,3 @@ However, the successful implementation of transformers in financial contexts nec
 [6]: Kingma, D. P., & Ba, J. (2015). ["Adam: A Method for Stochastic Optimization."](https://arxiv.org/abs/1412.6980) International Conference on Learning Representations.
 
 [7]: Choromanska, A., Henaff, M., Mathieu, M., Arous, G. B., & LeCun, Y. (2015). ["The Loss Surfaces of Multilayer Networks."](https://arxiv.org/abs/1412.0233) Proceedings of the 18th International Conference on Artificial Intelligence and Statistics.
-

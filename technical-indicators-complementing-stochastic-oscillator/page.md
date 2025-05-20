@@ -1,6 +1,9 @@
 ---
-title: "Technical Indicators Complementing the Stochastic Oscillator (Algo Trading)"
-description: "Enhance your trading strategies by combining the stochastic oscillator with other technical indicators to improve market analysis and increase profitable opportunities."
+category: trading_strategy
+description: Enhance your trading strategies by combining the stochastic oscillator
+  with other technical indicators to improve market analysis and increase profitable
+  opportunities.
+title: Technical Indicators Complementing the Stochastic Oscillator (Algo Trading)
 ---
 
 In financial trading, analyzing market trends and making informed decisions are fundamental skills required to achieve success. A valuable tool that traders globally utilize is the stochastic oscillator, which is a widely recognized technical indicator applied in both manual and algorithmic trading settings. This momentum indicator assists traders in identifying potential trend reversals and gauging market conditions by comparing a specific asset's closing price to its price range over a given period. The versatile nature of the stochastic oscillator allows it to serve various trading strategies effectively.

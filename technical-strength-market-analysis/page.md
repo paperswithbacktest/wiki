@@ -1,6 +1,8 @@
 ---
-title: "Technical Strength in Market Analysis (Algo Trading)"
-description: "Explore how algorithmic trading combines economic assessments and technical analysis to develop optimized, efficient trading strategies in dynamic market conditions."
+category: trading_strategy
+description: Explore how algorithmic trading combines economic assessments and technical
+  analysis to develop optimized, efficient trading strategies in dynamic market conditions.
+title: Technical Strength in Market Analysis (Algo Trading)
 ---
 
 In the rapidly evolving world of financial markets, algorithmic trading has become a significant component, capitalizing on the strengths of economic assessment and technical analysis. Algorithmic trading, often referred to as automated trading, involves using computer programs to execute trades based on predefined criteria, often encompassing both economic indicators and technical analysis metrics.

@@ -1,6 +1,8 @@
 ---
-title: "Supply and Demand in Economics (Algo Trading)"
-description: "Explore how supply-demand economics enhances algorithmic trading strategies, leveraging economic insights to predict market movements and improve trading outcomes."
+category: quant_concept
+description: Explore how supply-demand economics enhances algorithmic trading strategies,
+  leveraging economic insights to predict market movements and improve trading outcomes.
+title: Supply and Demand in Economics (Algo Trading)
 ---
 
 In the evolving landscape of financial markets, algorithmic trading has emerged as a powerful tool for investors looking to optimize their trading strategies. This practice leverages computer programs to make trading decisions at speeds and frequencies that far surpass human capabilities. As markets grow increasingly complex, understanding supply and demand economics becomes crucial for the development of these sophisticated trading algorithms.

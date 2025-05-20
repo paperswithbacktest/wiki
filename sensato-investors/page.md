@@ -1,6 +1,8 @@
 ---
-title: "Sensato Investors (Algo Trading)"
-description: "Discover how Sensato Investors combines cutting-edge algorithms and traditional investment strategies in algorithmic trading to optimize returns and efficiency."
+category: trading_strategy
+description: Discover how Sensato Investors combines cutting-edge algorithms and traditional
+  investment strategies in algorithmic trading to optimize returns and efficiency.
+title: Sensato Investors (Algo Trading)
 ---
 
 Sensato Investors is a prominent entity in the trading sector, known for integrating cutting-edge technology with investment strategies. Founded on principles of innovation, Sensato Investors has significantly influenced how modern trading is conducted, particularly through the use of algorithmic trading systems. Algorithmic trading, which involves executing trades using automated pre-programmed instructions accounting for variables such as time, price, and volume, has become increasingly essential in today’s financial markets. This technique has revolutionized how financial transactions are performed due to its ability to process large volumes of data at speeds impossible for human traders.

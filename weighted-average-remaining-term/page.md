@@ -1,6 +1,9 @@
 ---
-title: "Weighted Average Remaining Term (Algo Trading)"
-description: "Explore the significance of Weighted Average Remaining Term in algorithmic trading to optimize strategies by assessing portfolio maturity profiles and interest rate risks."
+category: quant_concept
+description: Explore the significance of Weighted Average Remaining Term in algorithmic
+  trading to optimize strategies by assessing portfolio maturity profiles and interest
+  rate risks.
+title: Weighted Average Remaining Term (Algo Trading)
 ---
 
 Algorithmic trading has significantly reshaped the landscape of financial markets, primarily due to its ability to execute trades with increased speed and efficiency. As trading algorithms evolve, the integration of sophisticated financial metrics becomes crucial for optimizing performance and managing risk. One such critical metric is the weighted average term finance, specifically the Weighted Average Remaining Term (WART).
@@ -166,4 +169,3 @@ In conclusion, WART holds an essential role in ensuring robust and adaptive trad
 6. **Exploration of AI and Machine Learning:**
    - *Deep Learning for Finance: A Guide to Modern Data-Driven Strategies* by Antoniya Georgieva and Jakob G. Andersen discusses how AI and machine learning technologies can impact financial strategies involving metrics like WART.
    - Online courses from platforms like Coursera or edX often include modules that discuss AI in finance, potentially covering advanced applications linked to WART.
-

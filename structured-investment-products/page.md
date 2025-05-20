@@ -1,6 +1,8 @@
 ---
-title: "Structured Investment Products (Algo Trading)"
-description: "Explore structured investment products and algorithmic trading in modern finance Uncover their benefits risks and strategies for optimizing financial outcomes"
+category: trading_strategy
+description: Explore structured investment products and algorithmic trading in modern
+  finance Uncover their benefits risks and strategies for optimizing financial outcomes
+title: Structured Investment Products (Algo Trading)
 ---
 
 The modern financial landscape is characterized by a diverse array of investment opportunities, each offering unique potential for growth and portfolio diversification. Investors now have access to a range of financial instruments, including equities, bonds, structured products, and algorithmic trading. Each of these instruments plays a crucial role in facilitating investment strategies aligned with individual financial goals and risk appetites.
@@ -147,4 +149,3 @@ Jansen, S.'s 'Machine Learning for Algorithmic Trading' explores how machine lea
 Chan, E.P.'s 'Quantitative Trading: How to Build Your Own Algorithmic Trading Business' serves as a practical manual for aspiring algorithmic traders. It focuses on the technical and business aspects of starting a trading business, offering insights into strategy development, testing, and execution.
 
 For further exploration of these topics, consult these resources to enhance your understanding of structured products and algorithmic trading, and their applications in the modern financial landscape.
-

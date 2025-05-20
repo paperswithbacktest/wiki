@@ -1,6 +1,9 @@
 ---
-title: "UN Principles for Responsible Investment (Algo Trading)"
-description: "Explore the integration of UN Principles for Responsible Investment in algorithmic trading emphasizing ESG factors for sustainable and responsible financial strategies."
+category: quant_concept
+description: Explore the integration of UN Principles for Responsible Investment in
+  algorithmic trading emphasizing ESG factors for sustainable and responsible financial
+  strategies.
+title: UN Principles for Responsible Investment (Algo Trading)
 ---
 
 The financial industry is undergoing significant transformation as investor priorities increasingly shift towards sustainability and responsibility. This shift is catalyzed by considerations of environmental, social, and governance (ESG) factors, as well as the influence of initiatives like the United Nations Principles for Responsible Investment (UN PRI). Sustainable finance and responsible investment have emerged as pivotal components of this new investment paradigm, reflecting a growing demand for financial strategies that align with ethical and environmental values.

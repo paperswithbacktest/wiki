@@ -1,6 +1,8 @@
 ---
-title: "Types of REITs and Investment Strategies (Algo Trading)"
-description: "Explore the benefits of investing in REITs and algorithmic trading to enhance portfolio diversification and performance with modern real estate strategies."
+category: trading_strategy
+description: Explore the benefits of investing in REITs and algorithmic trading to
+  enhance portfolio diversification and performance with modern real estate strategies.
+title: Types of REITs and Investment Strategies (Algo Trading)
 ---
 
 Investing in real estate has long been recognized as a reliable means of building wealth and diversifying an investment portfolio. Traditional methods have typically involved direct ownership and management of physical properties, which require substantial capital, knowledge, and time commitment. However, with the evolution of financial markets and technology, modern approaches have emerged that democratize access to real estate investments and enhance portfolio performance.

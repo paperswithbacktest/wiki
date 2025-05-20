@@ -1,6 +1,9 @@
 ---
-title: "Stock Buybacks: Mechanisms and Impacts (Algo Trading)"
-description: "Explore the mechanisms and impacts of stock buybacks and algorithmic trading to enhance investment performance by strategically timing buybacks and optimizing trades."
+category: trading_strategy
+description: Explore the mechanisms and impacts of stock buybacks and algorithmic
+  trading to enhance investment performance by strategically timing buybacks and optimizing
+  trades.
+title: 'Stock Buybacks: Mechanisms and Impacts (Algo Trading)'
 ---
 
 In investing, adopting innovative strategies is crucial for maximizing returns and managing risks. Two of the most significant strategies that have transformed modern financial markets are stock buybacks and algorithmic trading.

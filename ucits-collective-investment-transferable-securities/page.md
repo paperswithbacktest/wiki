@@ -1,6 +1,10 @@
 ---
-title: "UCITS: Undertakings for Collective Investment in Transferable Securities (Algo Trading)"
-description: "Explore the UCITS framework which standardizes European funds markets ensuring investor protection and efficiency while integrating algorithmic trading for precision."
+category: quant_concept
+description: Explore the UCITS framework which standardizes European funds markets
+  ensuring investor protection and efficiency while integrating algorithmic trading
+  for precision.
+title: 'UCITS: Undertakings for Collective Investment in Transferable Securities (Algo
+  Trading)'
 ---
 
 The financial landscape is constantly evolving, creating new opportunities and frameworks for investors. One noteworthy framework is the Undertakings for Collective Investment in Transferable Securities (UCITS), a cornerstone of the European funds market. UCITS establishes a standardized regulatory environment across the European Union, ensuring high levels of investor protection and market efficiency. It serves as a benchmark for mutual funds in Europe, allowing them to be marketed and traded across EU borders under a unified set of regulations.

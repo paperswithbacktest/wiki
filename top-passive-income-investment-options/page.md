@@ -1,6 +1,8 @@
 ---
-title: "Top Passive Income Investment Options (Algo Trading)"
-description: "Explore top passive income investment options with a focus on algorithmic trading to boost earnings automatically while diversifying your financial strategy."
+category: trading_strategy
+description: Explore top passive income investment options with a focus on algorithmic
+  trading to boost earnings automatically while diversifying your financial strategy.
+title: Top Passive Income Investment Options (Algo Trading)
 ---
 
 Passive income has emerged as an increasingly attractive financial strategy for individuals seeking to diversify and stabilize their income streams. This approach allows for the generation of earnings with minimal active involvement, a quality that many find appealing in a world that increasingly values time freedom and financial independence.

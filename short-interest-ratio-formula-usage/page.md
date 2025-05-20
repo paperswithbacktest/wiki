@@ -1,6 +1,8 @@
 ---
-title: "Short Interest Ratio: Formula and Usage (Algo Trading)"
-description: "Explore the key elements of short interest ratio in algorithmic trading, learn how it influences market sentiment, and enhances investment strategies."
+category: quant_concept
+description: Explore the key elements of short interest ratio in algorithmic trading,
+  learn how it influences market sentiment, and enhances investment strategies.
+title: 'Short Interest Ratio: Formula and Usage (Algo Trading)'
 ---
 
 In the rapidly evolving world of finance, understanding investment metrics is essential for making informed decisions. These metrics serve as vital tools for evaluating the financial health and market potential of various stocks, guiding investors through the complexities of market dynamics. This article focuses on key elements such as stock market analysis, short interest ratio, and algorithmic trading, each playing a significant role in shaping modern investment strategies.

@@ -1,6 +1,8 @@
 ---
-title: "Tick Index in Financial Markets (Algo Trading)"
-description: "Explore how the Tick Index enhances algorithmic trading by offering real-time market sentiment insights for better decision-making and strategy optimization."
+category: trading_strategy
+description: Explore how the Tick Index enhances algorithmic trading by offering real-time
+  market sentiment insights for better decision-making and strategy optimization.
+title: Tick Index in Financial Markets (Algo Trading)
 ---
 
 In today's fast-paced financial markets, choosing the right trading strategy can make all the difference. As traders increasingly embrace algorithmic solutions, the Tick Index has emerged as an essential tool for understanding market sentiments. This index measures the net number of stocks ticking up versus those ticking down on major exchanges like the New York Stock Exchange (NYSE). By providing real-time insights into market breadth and sentiment, the Tick Index helps traders identify potential turning points in stock prices.

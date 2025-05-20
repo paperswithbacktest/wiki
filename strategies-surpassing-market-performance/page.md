@@ -1,6 +1,8 @@
 ---
-title: "Strategies for Surpassing Market Performance (Algo Trading)"
-description: "Explore how algorithmic trading strategies can outperform market averages with speed and precision. Learn essential metrics for evaluating success."
+category: trading_strategy
+description: Explore how algorithmic trading strategies can outperform market averages
+  with speed and precision. Learn essential metrics for evaluating success.
+title: Strategies for Surpassing Market Performance (Algo Trading)
 ---
 
 In today's complex financial markets, investors continually seek strategies to surpass average market returns. Understanding investment strategies and their performance is essential for achieving this ambition. Among the various methodologies available, algorithmic trading has emerged as a formidable tool, harnessing cutting-edge technologies to execute trades with speed and precision far surpassing traditional methods.

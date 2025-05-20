@@ -1,8 +1,9 @@
 ---
-title: Understanding Vectors in Machine Learning Data Representation
+category: quant_concept
 description: Vectors in machine learning explain how data features are transformed
   into numeric representations for accurate pattern recognition and prediction Discover
   more inside
+title: Understanding Vectors in Machine Learning Data Representation
 ---
 
 ![Image](images/1.png)

@@ -1,6 +1,9 @@
 ---
-title: "Utilizing Ex-Dividend Strategies (Algo Trading)"
-description: "Explore the benefits of ex-dividend investing and algorithmic trading with strategies that combine dividend capture and automated trading for optimized returns."
+category: trading_strategy
+description: Explore the benefits of ex-dividend investing and algorithmic trading
+  with strategies that combine dividend capture and automated trading for optimized
+  returns.
+title: Utilizing Ex-Dividend Strategies (Algo Trading)
 ---
 
 Investment strategies encompass a myriad of tactics and methods employed by individuals and institutions aiming to maximize returns and realize financial goals. These strategies require a deep understanding of market dynamics, financial instruments, and investor objectives. Among these strategies, ex-dividend dividend investing and algorithmic trading stand out for their distinct approaches and potential benefits.

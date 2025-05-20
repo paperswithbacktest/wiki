@@ -1,6 +1,9 @@
 ---
-title: "Trading Psychology in Investing (Algo Trading)"
-description: "Explore the critical role of trading psychology and algorithmic trading in investing. Learn how emotion management and data-driven strategies can enhance success."
+category: quant_concept
+description: Explore the critical role of trading psychology and algorithmic trading
+  in investing. Learn how emotion management and data-driven strategies can enhance
+  success.
+title: Trading Psychology in Investing (Algo Trading)
 ---
 
 In the complex world of investing, emotional trading, trading psychology, and algorithmic trading are crucial components that significantly influence traders' success. Understanding these elements can empower investors to improve their decision-making processes and achieve superior investment outcomes. Emotional trading encompasses the impact of human emotions on investment choices, often leading to impulsive and suboptimal decisions. Trading psychology highlights the mental and emotional factors that shape these decisions, such as fear, greed, and cognitive biases. Recognizing and managing these psychological influences is essential for traders aiming to enhance their strategies and performance.

@@ -1,6 +1,13 @@
 ---
-title: "Wassily Leontief and the Leontief Paradox (Algo Trading)"
-description: "Explore the impact of Wassily Leontief and his Leontief Paradox on modern economics and algorithmic trading in this insightful article. Discover how Leontief's findings challenged traditional trade theories and continue to influence contemporary economic analysis. Learn about the significance of human capital, technological advancements, and complex economic dynamics in shaping international trade and financial markets. Uncover why understanding these foundational economic concepts is vital for traders and policymakers navigating today's global economy."
+category: quant_concept
+description: Explore the impact of Wassily Leontief and his Leontief Paradox on modern
+  economics and algorithmic trading in this insightful article. Discover how Leontief's
+  findings challenged traditional trade theories and continue to influence contemporary
+  economic analysis. Learn about the significance of human capital, technological
+  advancements, and complex economic dynamics in shaping international trade and financial
+  markets. Uncover why understanding these foundational economic concepts is vital
+  for traders and policymakers navigating today's global economy.
+title: Wassily Leontief and the Leontief Paradox (Algo Trading)
 ---
 
 Wassily Leontief, a renowned economist whose theoretical advancements continue to influence economic discourse, was awarded the Nobel Prize in Economics in 1973. His contributions significantly impacted the field, particularly his development of the Leontief Paradox, which fundamentally challenged existing theories of international trade. Traditionally, the Heckscher-Ohlin Theorem suggested that countries would export goods requiring factors of production that were abundantly available locally. However, Leontief's analysis contradicted this expectation by demonstrating that the United States, a capital-abundant nation, exported labor-intensive goods while importing capital-intensive ones.

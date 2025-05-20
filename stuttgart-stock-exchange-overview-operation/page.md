@@ -1,6 +1,9 @@
 ---
-title: "Stuttgart Stock Exchange: Overview and Operation (Algo Trading)"
-description: "Explore how the Stuttgart Stock Exchange integrates algorithmic trading to transform market dynamics and efficiency in Germany's second-largest securities exchange."
+category: quant_concept
+description: Explore how the Stuttgart Stock Exchange integrates algorithmic trading
+  to transform market dynamics and efficiency in Germany's second-largest securities
+  exchange.
+title: 'Stuttgart Stock Exchange: Overview and Operation (Algo Trading)'
 ---
 
 The Stuttgart Stock Exchange (STU), established in 1861, has grown to become a prominent institution in the German and European financial markets. As Germany's second-largest securities exchange, it plays a vital role in trading equities, bonds, derivatives, and digital assets. The STU's focus on innovation and its commitment to providing efficient trading solutions have made it a key player in the financial sector.

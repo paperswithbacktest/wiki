@@ -1,6 +1,9 @@
 ---
-title: "Social Sciences and Their Five Major Branches (Algo Trading)"
-description: "Explore the intersection of social sciences and algorithmic trading Discover how sociology psychology economics political science and anthropology enhance trading strategies"
+category: quant_concept
+description: Explore the intersection of social sciences and algorithmic trading Discover
+  how sociology psychology economics political science and anthropology enhance trading
+  strategies
+title: Social Sciences and Their Five Major Branches (Algo Trading)
 ---
 
 Social sciences are essential disciplines that help us comprehend human behavior and the complexities of societal interactions. These fields include sociology, psychology, economics, political science, and anthropology, each offering unique insights into the way individuals and groups act, communicate, and make decisions. The significance of social sciences lies in their ability to provide frameworks for understanding patterns of social behavior, contributing significantly to areas like public policy formation, socioeconomic system analysis, and technological advancements.

@@ -1,6 +1,9 @@
 ---
-title: "Zig Zag Indicator in Forex Trading Strategies (Algo Trading)"
-description: "Enhance your forex trading strategies with the Zig Zag indicator which filters market noise to highlight key trends helping you identify potential reversals and optimize trading decisions."
+category: trading_strategy
+description: Enhance your forex trading strategies with the Zig Zag indicator which
+  filters market noise to highlight key trends helping you identify potential reversals
+  and optimize trading decisions.
+title: Zig Zag Indicator in Forex Trading Strategies (Algo Trading)
 ---
 
 The Zig Zag indicator serves as a robust analytical tool in the domain of forex trading, primarily utilized to eliminate what is commonly referred to as 'market noise'. By accentuating significant trends and price movements, the indicator allows traders a clearer perspective on market dynamics, assisting them in effectively identifying potential trend reversals. This capability is important in the formulation of trading strategies and algorithmic trading models, as precision in capturing market shifts is key to optimizing trading decisions and outcomes.

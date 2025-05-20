@@ -1,7 +1,8 @@
 ---
-title: Guide to Tensor Processing Units for Machine Learning
+category: quant_concept
 description: Tensor Processing Unit accelerates machine learning tasks by optimizing
   matrix operations memory throughput and scalability Discover more inside.
+title: Guide to Tensor Processing Units for Machine Learning
 ---
 
 ![Image](images/1.jpeg)

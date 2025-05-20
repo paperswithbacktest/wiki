@@ -1,6 +1,8 @@
 ---
-title: "S&P Global Broad Market Index Overview (Algo Trading)"
-description: "Explore how algorithmic trading enhances investment strategies with the S&P Global Broad Market Index a vital benchmark for global stock performance insights."
+category: dataset
+description: Explore how algorithmic trading enhances investment strategies with the
+  S&P Global Broad Market Index a vital benchmark for global stock performance insights.
+title: S&P Global Broad Market Index Overview (Algo Trading)
 ---
 
 The financial markets have undergone substantial transformation with the integration of algorithmic trading, a method that utilizes computer algorithms to execute trades based on pre-defined criteria. This technological innovation has revolutionized trading activities, offering enhanced speed, precision, and the capability to manage complex transactions. In parallel, indices such as the S&P Global Broad Market Index (BMI) have emerged as essential benchmarks for assessing global stock market performance. These indices are a vital component for investors seeking to navigate the extensive and varied landscape of international financial markets.

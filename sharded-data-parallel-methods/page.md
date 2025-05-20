@@ -1,7 +1,8 @@
 ---
-title: Sharded Data Parallel Methods for Efficient Model Training
+category: quant_concept
 description: Sharded Data Parallel splits model parameters and data across GPUs to
   train larger models efficiently optimizing resources Discover more inside
+title: Sharded Data Parallel Methods for Efficient Model Training
 ---
 
 ![Image](images/1.png)

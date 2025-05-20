@@ -1,6 +1,9 @@
 ---
-title: "Value at Risk and Tail of Loss Distribution (Algo Trading)"
-description: "Explore the value at risk (VaR) and tail value at risk (TVaR) in algorithmic trading Understanding how these metrics enhance risk management is essential for traders."
+category: quant_concept
+description: Explore the value at risk (VaR) and tail value at risk (TVaR) in algorithmic
+  trading Understanding how these metrics enhance risk management is essential for
+  traders.
+title: Value at Risk and Tail of Loss Distribution (Algo Trading)
 ---
 
 Algorithmic trading has transformed the landscape of financial markets through the use of intricate algorithms to execute trading strategies with precision and speed. By leveraging computational power and advanced mathematical models, algorithmic trading systems can process vast amounts of market data in real-time, identifying trading opportunities that were previously inaccessible through manual trading methods. 

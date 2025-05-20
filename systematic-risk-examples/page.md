@@ -1,6 +1,13 @@
 ---
-title: "Systematic Risk and Examples (Algo Trading)"
-description: "Explore the intricacies of systematic risk and its impact on algorithmic trading in this insightful article. Delve into the world of finance and understand the different types of risks that investors face including financial risk market risk and systematic risk. Discover how algorithmic trading interacts with these risks offering both opportunities and challenges. Learn about strategies to manage and mitigate risks effectively enhancing your trading decisions in today’s fast-paced financial environment."
+category: quant_concept
+description: Explore the intricacies of systematic risk and its impact on algorithmic
+  trading in this insightful article. Delve into the world of finance and understand
+  the different types of risks that investors face including financial risk market
+  risk and systematic risk. Discover how algorithmic trading interacts with these
+  risks offering both opportunities and challenges. Learn about strategies to manage
+  and mitigate risks effectively enhancing your trading decisions in today’s fast-paced
+  financial environment.
+title: Systematic Risk and Examples (Algo Trading)
 ---
 
 In the intricate world of finance, understanding the various types of risks is crucial for both new and seasoned investors. Effective investment strategies hinge on recognizing and managing these risks to safeguard portfolios and enhance returns. Among the most discussed risks in financial circles are financial risk, market risk, and systematic risk. Financial risk concerns the potential loss of investment capital due to factors such as credit defaults and liquidity obstacles. Market risk, on the other hand, involves possible losses resulting from unfavorable market fluctuations. Systematic risk encompasses widespread economic or geopolitical events that affect the entire market, such as inflation or political instability.

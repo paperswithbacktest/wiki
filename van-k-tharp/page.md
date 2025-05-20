@@ -1,6 +1,12 @@
 ---
-title: "Van K. Tharp: A Trading Legend (Algo Trading)"
-description: Explore the influential trading psychology and strategy development work of Van K. Tharp, a renowned American investor and coach. Discover how Tharp's focus on psychological aspects and risk management methodologies enhances algorithmic trading performance. Uncover insights into refining trading systems to align with individual psychology and risk tolerance, optimizing effectiveness in financial markets.
+category: trading_strategy
+description: Explore the influential trading psychology and strategy development work
+  of Van K. Tharp, a renowned American investor and coach. Discover how Tharp's focus
+  on psychological aspects and risk management methodologies enhances algorithmic
+  trading performance. Uncover insights into refining trading systems to align with
+  individual psychology and risk tolerance, optimizing effectiveness in financial
+  markets.
+title: 'Van K. Tharp: A Trading Legend (Algo Trading)'
 ---
 
 The financial markets have long been a dynamic arena for diverse trading strategies, each characterized by its distinct approach and underlying philosophy. A significant figure in the domain of trading psychology and strategy development is Van K. Tharp, an American investor and coach, whose contributions have profoundly influenced the landscape of risk management and trader psychology. Van K. Tharp's innovative methodologies, particularly his emphasis on the psychological aspects of trading and meticulous risk management, offer invaluable insights into enhancing trading performance.

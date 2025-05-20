@@ -1,7 +1,8 @@
 ---
-title: Text Augmentation Techniques for Robust Natural Language Models
+category: quant_concept
 description: Text augmentation creates diverse training examples that boost model
   accuracy and flexibility in natural language processing tasks. Discover more inside.
+title: Text Augmentation Techniques for Robust Natural Language Models
 ---
 
 ![Image](images/1.png)

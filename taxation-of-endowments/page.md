@@ -1,6 +1,8 @@
 ---
-title: "Taxation of Endowments (Algo Trading)"
-description: "Explore the complexities of taxation and algorithmic trading in endowment management, enhancing financial strategies for non-profits to sustain their missions."
+category: quant_concept
+description: Explore the complexities of taxation and algorithmic trading in endowment
+  management, enhancing financial strategies for non-profits to sustain their missions.
+title: Taxation of Endowments (Algo Trading)
 ---
 
 The intersection of endowments, taxation, charitable organizations, and algorithmic trading has increasingly become a focal point for financial management within the nonprofit sector. Endowments serve as a vital source of income for non-profit entities, providing them with the financial stability necessary to fulfill their missions. By investing these funds strategically, organizations can generate returns that support their activities while preserving the principal for long-term sustainability. 

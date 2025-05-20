@@ -1,6 +1,8 @@
 ---
-title: "Yield Basis and Its Function (Algo Trading)"
-description: "Explore how yield basis strategies and algorithmic trading transform investment portfolios by leveraging yield differentials and optimizing trade execution."
+category: trading_strategy
+description: Explore how yield basis strategies and algorithmic trading transform
+  investment portfolios by leveraging yield differentials and optimizing trade execution.
+title: Yield Basis and Its Function (Algo Trading)
 ---
 
 Understanding the dynamics and opportunities within financial markets is essential for investors aiming to maximize their returns. Over the decades, investment strategies have transformed, adopting complex methodologies and advanced technologies to adapt to the ever-evolving market landscape. This shift has opened up new avenues for investors to optimize their portfolios effectively. Key among these developments are yield basis strategies and algorithmic trading, two significant approaches that have gained prominence in recent years.

@@ -1,6 +1,9 @@
 ---
-title: "Valuation of Companies with Negative Earnings (Algo Trading)"
-description: "Explore the complexities of valuing companies with negative earnings Learn alternative methodologies and strategies for analyzing high-risk investment opportunities"
+category: trading_strategy
+description: Explore the complexities of valuing companies with negative earnings
+  Learn alternative methodologies and strategies for analyzing high-risk investment
+  opportunities
+title: Valuation of Companies with Negative Earnings (Algo Trading)
 ---
 
 Investing in companies with negative earnings presents both challenges and opportunities for investors. These entities often carry the promise of substantial returns alongside significant risks, attracting investors willing to speculate on the fast-paced growth potential of sectors like emerging technology, biotechnology, or resource extraction. Unlike traditional profit-making enterprises, businesses running at a loss might be at various developmental stages, including the expansion or intensive research and development phases, which can temporarily suppress earnings.

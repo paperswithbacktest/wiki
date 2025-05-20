@@ -1,6 +1,14 @@
 ---
-title: "White Noise and Random Walks in Time Series Analysis (Algo Trading)"
-description: Explore the significance of white noise in time series analysis for algorithmic trading to enhance your trading strategies. Understand how white noise, a sequence of random data with zero mean and no pattern, plays a crucial role in identifying legitimate market trends versus random fluctuations. Learn to distinguish between noise and genuine signals to prevent model overfitting, thereby optimizing predictive accuracy and financial outcomes. Discover statistical methods and advanced techniques to handle white noise effectively, ensuring robust, resilient trading models that adapt to market dynamics.
+category: quant_concept
+description: Explore the significance of white noise in time series analysis for algorithmic
+  trading to enhance your trading strategies. Understand how white noise, a sequence
+  of random data with zero mean and no pattern, plays a crucial role in identifying
+  legitimate market trends versus random fluctuations. Learn to distinguish between
+  noise and genuine signals to prevent model overfitting, thereby optimizing predictive
+  accuracy and financial outcomes. Discover statistical methods and advanced techniques
+  to handle white noise effectively, ensuring robust, resilient trading models that
+  adapt to market dynamics.
+title: White Noise and Random Walks in Time Series Analysis (Algo Trading)
 ---
 
 In the rapidly evolving world of algorithmic trading, understanding the nuances of data analysis is crucial for success. One of the key concepts that traders need to grapple with is white noise in time series data. White noise refers to a sequence of random data points characterized by having a mean of zero and no predictable pattern. This randomness is fundamental in distinguishing genuine market trends from random fluctuations that can lead to inaccuracies in trading models.

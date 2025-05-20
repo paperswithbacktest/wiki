@@ -1,6 +1,8 @@
 ---
-title: "size discovery (Algo Trading)"
-description: "Discover the critical role of size discovery in algorithmic trading optimizing order sizes to minimize market impact and enhance trading strategy efficiency."
+category: quant_concept
+description: Discover the critical role of size discovery in algorithmic trading optimizing
+  order sizes to minimize market impact and enhance trading strategy efficiency.
+title: size discovery (Algo Trading)
 ---
 
 In the ever-evolving world of finance, algorithmic trading has revolutionized the way investments are managed. This approach to trading uses automated, pre-defined rules that allow for high-speed and high-volume transactions. At the heart of successful algorithmic trading lies the principle of size discovery, an essential element in determining the optimal order size for executing trades. Size discovery is integral to the process, playing a critical role in minimizing market impact and maximizing potential profit. By carefully determining the right trade size, traders can ensure that they are not inadvertently altering market conditions with their activities.

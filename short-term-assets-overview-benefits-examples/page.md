@@ -1,6 +1,9 @@
 ---
-title: "Short-Term Assets: Overview, Benefits, and Examples (Algo Trading)"
-description: "Explore the benefits of short-term assets in algorithmic trading Learn how these assets aid liquidity management and how algo trading optimizes financial strategies"
+category: quant_concept
+description: Explore the benefits of short-term assets in algorithmic trading Learn
+  how these assets aid liquidity management and how algo trading optimizes financial
+  strategies
+title: 'Short-Term Assets: Overview, Benefits, and Examples (Algo Trading)'
 ---
 
 In the modern financial landscape, understanding the interplay between different types of financial assets, particularly short-term assets, is crucial for achieving effective asset management. Financial assets such as stocks, bonds, and commodities form the foundation of investment portfolios, while short-term assets, commonly referred to as current assets, include cash, marketable securities, and receivables that are expected to be converted into cash within a year. These short-term assets are vital for liquidity management, providing the necessary flexibility to meet immediate financial obligations and facilitating operational efficiency.

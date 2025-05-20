@@ -1,6 +1,8 @@
 ---
-title: "Trade-Or-Fade Rule Overview and Limitations (Algo Trading)"
-description: "Explore the Trade-Or-Fade Rule in algo trading with its origins, operations, and limitations affecting modern trading strategies and market integrity."
+category: trading_strategy
+description: Explore the Trade-Or-Fade Rule in algo trading with its origins, operations,
+  and limitations affecting modern trading strategies and market integrity.
+title: Trade-Or-Fade Rule Overview and Limitations (Algo Trading)
 ---
 
 The world of trading and investment is rich with strategies crafted to enhance returns while mitigating risks. Among these methodologies, the 'Trade-Or-Fade Rule' has piqued the interest of numerous traders and investors. This rule, originating in the mid-1990s, focuses on maintaining market integrity by preventing trade-throughs in options markets. Trade-throughs occur when transactions are executed at prices inferior to the optimal available price, potentially disadvantaging investors.

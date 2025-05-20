@@ -1,6 +1,8 @@
 ---
-title: "Voleon Group (Algo Trading)"
-description: "Discover how Voleon Group leads the field in algorithmic trading through advanced machine learning and data-driven strategies for optimized market performance."
+category: quant_concept
+description: Discover how Voleon Group leads the field in algorithmic trading through
+  advanced machine learning and data-driven strategies for optimized market performance.
+title: Voleon Group (Algo Trading)
 ---
 
 The Voleon Group stands as a prominent figure in the rapidly evolving domain of algorithmic trading, where speed and data-driven decision-making reign supreme. Founded on the principle of harnessing advanced technologies to enhance trading efficacy, Voleon Group has carved a unique niche for itself by focusing on sophisticated quantitative research and machine learning techniques. This positions the firm at the forefront of a broader shift in financial markets towards algorithm-based strategies.

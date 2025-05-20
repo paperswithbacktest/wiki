@@ -1,6 +1,11 @@
 ---
-title: "Understanding FDI and FPI (Algo Trading)"
-description: "Discover the key differences and benefits of Foreign Direct Investment and Foreign Portfolio Investment. Learn how FDI aims for long-term growth through substantial stakes in foreign enterprises, while FPI focuses on liquidity and short-term gains in stocks and bonds. Understand how algorithmic trading enhances these strategies in a global economy."
+category: quant_concept
+description: Discover the key differences and benefits of Foreign Direct Investment
+  and Foreign Portfolio Investment. Learn how FDI aims for long-term growth through
+  substantial stakes in foreign enterprises, while FPI focuses on liquidity and short-term
+  gains in stocks and bonds. Understand how algorithmic trading enhances these strategies
+  in a global economy.
+title: Understanding FDI and FPI (Algo Trading)
 ---
 
 Foreign Direct Investment (FDI) and Foreign Portfolio Investment (FPI) are key components in international finance, providing investors with avenues to access global opportunities. While both serve the purpose of cross-border investments, they exhibit considerable differences in their structure, impact, and objectives. FDI involves establishing a lasting interest in a foreign enterprise, with significant managerial influence, often through direct ownership or substantial stakes in companies. This investment type is generally more targeted at fostering long-term growth, enhancing economic collaboration, and increasing the physical and intellectual capital in the host nation.

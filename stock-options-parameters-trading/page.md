@@ -1,6 +1,8 @@
 ---
-title: "Stock Options: Parameters and Trading (Algo Trading)"
-description: "Explore essential trading parameters for optimizing stock options algorithmic trading strategies. Enhance precision, manage risk, and maximize returns."
+category: trading_strategy
+description: Explore essential trading parameters for optimizing stock options algorithmic
+  trading strategies. Enhance precision, manage risk, and maximize returns.
+title: 'Stock Options: Parameters and Trading (Algo Trading)'
 ---
 
 Algorithmic trading stands at the forefront of modern financial markets, delivering unparalleled precision and speed to traders aiming to maximize returns. As markets have evolved, the prevalence of stock options has introduced additional layers of complexity and opportunity that require a comprehensive understanding of trading parameters. These parameters serve as the building blocks for successful algorithmic trading strategies, particularly in the context of stock options.

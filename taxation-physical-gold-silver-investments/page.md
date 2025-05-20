@@ -1,6 +1,8 @@
 ---
-title: "Taxation of Physical Gold and Silver Investments (Algo Trading)"
-description: "Explore the tax implications of investing in physical gold and silver with algorithmic trading Learn to optimize strategies and minimize tax liabilities"
+category: trading_strategy
+description: Explore the tax implications of investing in physical gold and silver
+  with algorithmic trading Learn to optimize strategies and minimize tax liabilities
+title: Taxation of Physical Gold and Silver Investments (Algo Trading)
 ---
 
 Investing in precious metals such as gold and silver has long been considered a stable strategy for portfolio diversification, offering a protective hedge against economic fluctuations and currency devaluation. Additionally, the rise of algorithmic trading has provided investors with powerful tools to capitalize on market opportunities in real time. However, navigating the landscape of precious metal investments is incomplete without a comprehensive understanding of the applicable tax regulations.

@@ -1,7 +1,8 @@
 ---
-title: Understanding Text Span Identification In Machine Learning
+category: quant_concept
 description: Text span identification enables machine learning models to highlight
   key phrases for tasks like NER sentiment analysis and QA Discover more inside
+title: Understanding Text Span Identification In Machine Learning
 ---
 
 ![Image](images/1.png)

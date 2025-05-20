@@ -1,6 +1,8 @@
 ---
-title: "Tiger Cub Economies: Significance and Mechanisms (Algo Trading)"
-description: "Discover the rise of Tiger Cub economies like Indonesia and Malaysia reshaping Southeast Asia through industrial growth and algorithmic trading innovations."
+category: quant_concept
+description: Discover the rise of Tiger Cub economies like Indonesia and Malaysia
+  reshaping Southeast Asia through industrial growth and algorithmic trading innovations.
+title: 'Tiger Cub Economies: Significance and Mechanisms (Algo Trading)'
 ---
 
 The economic landscape of Southeast Asia is experiencing a notable shift with the advent of the Tiger Cub economies. These dynamic and expanding markets—comprising Indonesia, Malaysia, the Philippines, Thailand, and Vietnam—are charting a path reminiscent of the acclaimed Asian Tigers: South Korea, Taiwan, Hong Kong, and Singapore. By adopting a similar approach focused on industrialization and export-led growth, these countries are positioning themselves as key players on the global economic stage.

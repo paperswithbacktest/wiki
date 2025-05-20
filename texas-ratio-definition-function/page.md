@@ -1,6 +1,8 @@
 ---
-title: "Texas Ratio: Definition and Function (Algo Trading)"
-description: "Discover how the Texas Ratio evaluates bank risk and financial stability by analyzing non-performing assets in relation to equity and reserves."
+category: quant_concept
+description: Discover how the Texas Ratio evaluates bank risk and financial stability
+  by analyzing non-performing assets in relation to equity and reserves.
+title: 'Texas Ratio: Definition and Function (Algo Trading)'
 ---
 
 The Texas Ratio is an essential metric for evaluating the financial health of banks, primarily by assessing the risk inherent in their loan portfolios. Developed in the 1980s to address the banking crises in Texas, this ratio has proven instrumental in predicting bank failures, hence its enduring relevance. By focusing on the proportion of non-performing assets relative to a bank's tangible common equity and loan loss reserves, the Texas Ratio provides a clear indication of potential solvency issues. It acts as a critical indicator for investors and regulators aiming to gauge a bank's financial stability. As this article will explore, understanding how to calculate and interpret the Texas Ratio is crucial. Furthermore, its implications extend beyond basic financial analysis, being utilized in algorithmic trading for assessing risk levels in banking stocks. Additionally, by comparing the Texas Ratio to other liquidity metrics, stakeholders can obtain a comprehensive evaluation of a bank's capacity to manage financial disruptions effectively. Consequently, a solid grasp of the Texas Ratio empowers investors and regulators to better navigate the financial landscape, assessing risks and identifying early signs of distress in banking institutions.

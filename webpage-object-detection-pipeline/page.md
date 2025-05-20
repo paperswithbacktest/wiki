@@ -1,7 +1,8 @@
 ---
-title: Improving Webpage Object Detection Pipelines for Developers
+category: quant_concept
 description: Webpage object detection ensures accurate identification and placement
   of elements on your site to boost usability and accessibility Discover more inside.
+title: Improving Webpage Object Detection Pipelines for Developers
 ---
 
 ![Image](images/1.jpeg)

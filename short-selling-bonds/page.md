@@ -1,6 +1,8 @@
 ---
-title: "Short Selling Bonds (Algo Trading)"
-description: "Explore short selling bonds with algorithmic trading in investment portfolios. Learn the nuances of bond strategies, risks, and benefits for market diversity."
+category: trading_strategy
+description: Explore short selling bonds with algorithmic trading in investment portfolios.
+  Learn the nuances of bond strategies, risks, and benefits for market diversity.
+title: Short Selling Bonds (Algo Trading)
 ---
 
 Investment strategies are inherently complex and multidimensional, encapsulating a variety of asset classes and techniques. Among these, bonds, short selling, and algorithmic trading stand out for their distinctive properties and their inherent risks. Each of these strategies brings something unique to the table, and understanding them is crucial for investors striving to diversify their portfolios and manage risk effectively.

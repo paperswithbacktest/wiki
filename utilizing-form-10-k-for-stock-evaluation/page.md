@@ -1,6 +1,8 @@
 ---
-title: "Utilizing Form 10-K for Stock Evaluation (Algo Trading)"
-description: "Explore how Form 10-K filings enhance stock evaluation in algorithmic trading by providing key financial insights aiding data-driven investment strategies."
+category: trading_strategy
+description: Explore how Form 10-K filings enhance stock evaluation in algorithmic
+  trading by providing key financial insights aiding data-driven investment strategies.
+title: Utilizing Form 10-K for Stock Evaluation (Algo Trading)
 ---
 
 The financial markets are becoming increasingly sophisticated, with a pronounced shift towards data-driven decision-making processes. Algorithmic trading has emerged at the forefront of this evolution, capturing the interest and investment of numerous market participants. This automated trading methodology employs complex algorithms to analyze vast datasets, execute trades, and optimize portfolios with unprecedented speed and accuracy. This paradigm shift has enabled investors to gain a competitive advantage by leveraging cutting-edge technologies and advanced data analysis techniques.
@@ -157,4 +159,3 @@ Ernest P. Chan provides insights into building a successful algorithmic trading 
 
 A Forecast Comparison of Volatility Models by Peter R. Hansen and Allan Lunde  
 This research paper compares various models for forecasting volatility, which is a crucial component in the development of trading strategies. Understanding volatility can enhance risk management and profitability in trading models, forming an integral part of the decision-making process in algorithmic trading.
-

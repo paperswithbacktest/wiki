@@ -1,7 +1,8 @@
 ---
-title: Video Instance Segmentation Using VisTR Transformer Architecture
+category: quant_concept
 description: Video Instance Segmentation tracks and segments objects across frames
   using VisTR Transformer architecture for robust video analysis Discover more
+title: Video Instance Segmentation Using VisTR Transformer Architecture
 ---
 
 ![Image](images/1.png)

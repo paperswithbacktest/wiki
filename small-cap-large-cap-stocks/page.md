@@ -1,6 +1,8 @@
 ---
-title: "Small-Cap and Large-Cap Stocks (Algo Trading)"
-description: "Explore the world of small-cap and large-cap stocks in algo trading and discover their unique roles in investment strategies for today’s investors."
+category: trading_strategy
+description: Explore the world of small-cap and large-cap stocks in algo trading and
+  discover their unique roles in investment strategies for today’s investors.
+title: Small-Cap and Large-Cap Stocks (Algo Trading)
 ---
 
 The stock market is a complex domain where various categories of stocks represent diverse opportunities and risks for investors. Among the multitude of options, large-cap and small-cap stocks stand out due to their distinct characteristics and roles within investment strategies. Large-cap stocks, characterized by their substantial market capitalization and established presence, provide a sense of stability and are often favored by investors seeking consistent performance and dividends. In contrast, small-cap stocks are distinguished by their higher growth potential, offering opportunities for significant gains, albeit accompanied by heightened volatility and risk.

@@ -1,6 +1,8 @@
 ---
-title: "S&P 500 Historical Return Analysis (Algo Trading)"
-description: "Explore the S&P 500's historical performance and its influence on algorithmic trading strategies to enhance investment decisions and assess market trends."
+category: trading_strategy
+description: Explore the S&P 500's historical performance and its influence on algorithmic
+  trading strategies to enhance investment decisions and assess market trends.
+title: S&P 500 Historical Return Analysis (Algo Trading)
 ---
 
 The S&P 500, or Standard & Poor's 500, is widely considered a key benchmark for the U.S. equity markets. It is composed of 500 of the largest publicly traded companies in the United States and represents about 80% of the market capitalization of U.S. equities. This index provides a broad snapshot of the corporate sector's performance and is frequently used as a gauge for the overall health of the economy. Investors and financial professionals often look to the S&P 500 to inform decisions about market trends and portfolio management.

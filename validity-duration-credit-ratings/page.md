@@ -1,6 +1,9 @@
 ---
-title: "Validity Duration of Credit Ratings (Algo Trading)"
-description: "Explore how credit ratings and financial assessments influence algorithmic trading strategies enhancing decision-making with insights into creditworthiness and market conditions."
+category: trading_strategy
+description: Explore how credit ratings and financial assessments influence algorithmic
+  trading strategies enhancing decision-making with insights into creditworthiness
+  and market conditions.
+title: Validity Duration of Credit Ratings (Algo Trading)
 ---
 
 In the evolving landscape of finance, understanding the interplay between credit ratings, financial assessment, and algorithmic trading is vital. These elements form the backbone of decision-making in trading financial instruments. Financial assessments involve a thorough analysis of a company's financial statements, helping to gauge its stability, growth potential, and competitive position in the market. This understanding is crucial, particularly in algorithmic trading where vast amounts of data are utilized to automate and optimize trading strategies.

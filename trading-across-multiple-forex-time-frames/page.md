@@ -1,6 +1,9 @@
 ---
-title: "Trading Across Multiple Forex Time Frames (Algo Trading)"
-description: "Explore the interplay between algorithmic trading and forex time frames to enhance your trading strategies Learn how adapting to various time frames improves outcomes"
+category: trading_strategy
+description: Explore the interplay between algorithmic trading and forex time frames
+  to enhance your trading strategies Learn how adapting to various time frames improves
+  outcomes
+title: Trading Across Multiple Forex Time Frames (Algo Trading)
 ---
 
 Forex trading, or foreign exchange trading, involves buying and selling currencies on the global market. It has gained considerable popularity due to its accessibility and the potential for significant financial returns. Unlike stock markets that operate for limited hours, the forex market is open 24 hours a day, five days a week, allowing traders from around the world to participate at any time. This constant availability has been a strong driver in attracting a varied group of participants, ranging from large financial institutions to individual traders.

@@ -1,6 +1,9 @@
 ---
-title: "Universal Service Fund: Overview and Future (Algo Trading)"
-description: "Explore the Universal Service Fund's role in telecommunications ensuring equitable access, while addressing funding challenges and the potential of algorithmic trading."
+category: quant_concept
+description: Explore the Universal Service Fund's role in telecommunications ensuring
+  equitable access, while addressing funding challenges and the potential of algorithmic
+  trading.
+title: 'Universal Service Fund: Overview and Future (Algo Trading)'
 ---
 
 The Universal Service Fund (USF) holds a vital position within the U.S. telecommunications framework, established to ensure that all American citizens, irrespective of geographical location, have access to essential telecommunications services. This initiative is a part of broader efforts to facilitate equitable communication access across the nation and was instituted as a core component of the Telecommunications Act of 1996. By subsidizing service provision, the USF aims to maintain reasonable service charges and bridge the digital divide that persists between urban and rural, or economically disadvantaged, areas.

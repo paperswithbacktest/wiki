@@ -1,6 +1,9 @@
 ---
-title: "Weak Hands in Financial Markets (Algo Trading)"
-description: "Explore the concept of 'weak hands' in financial markets and discover how algorithmic trading helps investors overcome emotional biases to make disciplined decisions."
+category: quant_concept
+description: Explore the concept of 'weak hands' in financial markets and discover
+  how algorithmic trading helps investors overcome emotional biases to make disciplined
+  decisions.
+title: Weak Hands in Financial Markets (Algo Trading)
 ---
 
 In today's fast-paced financial markets, terms like 'weak hands' have gained prominence as traders and investors navigate volatile environments. This term specifically refers to traders and investors who lack the stability and conviction to maintain their investment positions amid market fluctuations. These individuals often react impulsively, allowing their decisions to be driven by emotions such as fear or greed, which can lead to a pattern of buying high and selling low. Understanding the concept of 'weak hands' is crucial for anyone looking to succeed in investing, especially with the rise of algorithmic trading.

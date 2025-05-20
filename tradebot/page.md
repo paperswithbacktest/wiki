@@ -1,6 +1,9 @@
 ---
-title: "Tradebot (Algo Trading)"
-description: "Discover the transformative world of algorithmic trading with Tradebots that execute trades with precision. Learn about types, benefits, and challenges of algo trading."
+category: trading_strategy
+description: Discover the transformative world of algorithmic trading with Tradebots
+  that execute trades with precision. Learn about types, benefits, and challenges
+  of algo trading.
+title: Tradebot (Algo Trading)
 ---
 
 Algorithmic trading is a method of executing trades using pre-programmed and automatically executable trading instructions that take into account various variables such as time, price, and volume of orders. It represents a transformative advancement in modern financial markets by enabling swift execution of complex trading strategies, reducing transaction costs, and enhancing market efficiency. This approach to trading capitalizes on technology to make precise and calculated trades much faster than human capabilities allow, minimizing manual intervention and thereby the potential for human error.

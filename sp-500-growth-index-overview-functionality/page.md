@@ -1,6 +1,8 @@
 ---
-title: "S&P 500 Growth Index: Overview and Functionality (Algo Trading)"
-description: "Explore the S&P 500 Growth Index and the role of algorithmic trading in today's market. Discover how these tools aid in optimizing investment strategies."
+category: dataset
+description: Explore the S&P 500 Growth Index and the role of algorithmic trading
+  in today's market. Discover how these tools aid in optimizing investment strategies.
+title: 'S&P 500 Growth Index: Overview and Functionality (Algo Trading)'
 ---
 
 Understanding indices like the S&P 500 Growth Index is essential for making informed investment decisions. This index and algorithmic trading are significant factors in today's economic environment. The S&P 500 Growth Index tracks the performance of companies within the broader S&P 500 that exhibit higher growth potential. It primarily includes dynamic sectors, predominantly technology, which attracts investors looking for capital appreciation.

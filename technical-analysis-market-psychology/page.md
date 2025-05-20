@@ -1,6 +1,8 @@
 ---
-title: "Technical Analysis and Market Psychology (Algo Trading)"
-description: "Explore the synergy of technical analysis, market psychology, and algorithmic trading to enhance trading strategies and anticipate financial market trends."
+category: quant_concept
+description: Explore the synergy of technical analysis, market psychology, and algorithmic
+  trading to enhance trading strategies and anticipate financial market trends.
+title: Technical Analysis and Market Psychology (Algo Trading)
 ---
 
 Financial markets operate through a complex interplay of various elements, including psychology, technical analysis, and algorithmic trading. Each component contributes significantly to the fluctuations and movements observed within these markets.

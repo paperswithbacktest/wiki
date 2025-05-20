@@ -1,6 +1,8 @@
 ---
-title: "Taxation of Mutual Fund Sales Within an IRA (Algo Trading)"
-description: "Explore how mutual fund sales within IRAs are taxed and the impact of algorithmic trading Learn strategies to optimize after-tax retirement outcomes"
+category: trading_strategy
+description: Explore how mutual fund sales within IRAs are taxed and the impact of
+  algorithmic trading Learn strategies to optimize after-tax retirement outcomes
+title: Taxation of Mutual Fund Sales Within an IRA (Algo Trading)
 ---
 
 Individual Retirement Accounts (IRAs) represent a significant component of retirement planning in the United States, designed to facilitate savings and investment accumulation with advantageous tax treatments. The two primary types of IRAs—Traditional and Roth—offer distinct taxation mechanisms, which can be leveraged to optimize retirement outcomes based on an individual's financial strategy.

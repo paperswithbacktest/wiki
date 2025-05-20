@@ -1,6 +1,13 @@
 ---
-title: "Zweig Breadth Thrust Indicator Strategy Explained (Algo Trading)"
-description: Explore the intricacies of the Zweig Breadth Thrust Indicator in algorithmic trading. This article provides an in-depth analysis of the Zweig Breadth Ratio, highlighting its role in evaluating market sentiment and predicting market conditions. It explains the indicator's calculation, application, and impact on trading strategies, equipping traders with insights for more informed decisions and effective strategy development. Dive into the mechanics of this crucial trading tool to enhance your market analysis capabilities and optimize trading performance.
+category: trading_strategy
+description: Explore the intricacies of the Zweig Breadth Thrust Indicator in algorithmic
+  trading. This article provides an in-depth analysis of the Zweig Breadth Ratio,
+  highlighting its role in evaluating market sentiment and predicting market conditions.
+  It explains the indicator's calculation, application, and impact on trading strategies,
+  equipping traders with insights for more informed decisions and effective strategy
+  development. Dive into the mechanics of this crucial trading tool to enhance your
+  market analysis capabilities and optimize trading performance.
+title: Zweig Breadth Thrust Indicator Strategy Explained (Algo Trading)
 ---
 
 In the complex world of algorithmic trading, understanding the underlying market sentiment is crucial for success. The Zweig Breadth Ratio is an indicator employed to gauge market breadth, thus assisting traders in predicting bullish or bearish conditions. This article investigates into the significance of the Zweig Breadth Ratio in algorithmic trading, examining its calculation, application, and effectiveness. By analyzing the mechanics of this indicator, traders can develop more reliable strategies to enhance their trading performance. 

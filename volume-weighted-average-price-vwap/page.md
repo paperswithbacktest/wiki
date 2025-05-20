@@ -1,6 +1,8 @@
 ---
-title: "Volume-Weighted Average Price (VWAP) (Algo Trading)"
-description: "Discover the power of VWAP in trading Learn how this essential metric influences market strategy enhances execution quality and aids large-volume trades"
+category: quant_concept
+description: Discover the power of VWAP in trading Learn how this essential metric
+  influences market strategy enhances execution quality and aids large-volume trades
+title: Volume-Weighted Average Price (VWAP) (Algo Trading)
 ---
 
 The Volume-Weighted Average Price (VWAP) is a critical algorithmic tool employed within the trading sphere to evaluate the average price at which a security is traded over a specified time frame. This average is calculated by weighing the price of the security by the volume of shares traded. The formula for VWAP is as follows:

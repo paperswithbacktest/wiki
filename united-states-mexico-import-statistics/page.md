@@ -1,6 +1,8 @@
 ---
-title: "United States-Mexico Import Statistics (Algo Trading)"
-description: "Explore key insights on U.S. and Mexico trade ties with statistics highlighting economic impacts and benefits. Discover how algorithmic trading enhances efficiency."
+category: dataset
+description: Explore key insights on U.S. and Mexico trade ties with statistics highlighting
+  economic impacts and benefits. Discover how algorithmic trading enhances efficiency.
+title: United States-Mexico Import Statistics (Algo Trading)
 ---
 
 The international trade landscape is dynamic and multifaceted, characterized by the flow of goods and services across borders. Within this landscape, the trade relationship between the United States and Mexico stands out as particularly significant due to the nations' proximity and closely linked economic partnerships. This connection is underscored by Mexico's status as the United States' second-largest trading partner in 2022. That year, the bilateral trade between the two countries amounted to approximately $863.4 billion, reflecting the substantial economic interaction and integration of markets that benefit both nations.

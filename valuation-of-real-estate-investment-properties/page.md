@@ -1,6 +1,8 @@
 ---
-title: "Valuation of Real Estate Investment Properties (Algo Trading)"
-description: "Dive into the impact of algorithmic trading on real estate investments and uncover how technology revolutionizes property valuation and investment strategies."
+category: quant_concept
+description: Dive into the impact of algorithmic trading on real estate investments
+  and uncover how technology revolutionizes property valuation and investment strategies.
+title: Valuation of Real Estate Investment Properties (Algo Trading)
 ---
 
 The real estate market stands as a pivotal component of wealth creation, having undergone significant transformations due to technological advancements. In recent years, the fusion of technology and real estate has introduced new methodologies, profoundly altering investment landscapes. A core part of these changes is the comprehensive understanding of property value, which remains essential for making informed investment decisions and engaging in successful trading. Knowing the precise value of properties enables investors to maximize returns while minimizing risks.

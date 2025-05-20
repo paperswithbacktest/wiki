@@ -1,6 +1,15 @@
 ---
-title: "Walk-forward (WF) method (Algo Trading)"
-description: Walk-forward analysis is a crucial methodology in algorithmic trading designed to enhance the reliability of trading strategies by simulating real-world trading conditions. Unlike traditional backtesting, this method uses distinct in-sample and out-of-sample data segments to continuously optimize and evaluate strategies, reducing overfitting and improving predictive accuracy. By testing strategies on unseen data, walk-forward analysis provides insights into long-term performance under changing market scenarios. This article investigates into the walk-forward process, detailing its execution, benefits, and potential challenges, and explores the differences between Anchored and Rolling Walk-Forward Testing.
+category: trading_strategy
+description: Walk-forward analysis is a crucial methodology in algorithmic trading
+  designed to enhance the reliability of trading strategies by simulating real-world
+  trading conditions. Unlike traditional backtesting, this method uses distinct in-sample
+  and out-of-sample data segments to continuously optimize and evaluate strategies,
+  reducing overfitting and improving predictive accuracy. By testing strategies on
+  unseen data, walk-forward analysis provides insights into long-term performance
+  under changing market scenarios. This article investigates into the walk-forward
+  process, detailing its execution, benefits, and potential challenges, and explores
+  the differences between Anchored and Rolling Walk-Forward Testing.
+title: Walk-forward (WF) method (Algo Trading)
 ---
 
 Walk-forward analysis (WFA) is an advanced testing methodology pivotal in algorithmic trading, where the goal is to boost the robustness and reliability of trading strategies. Unlike traditional backtesting, which might not always predict future performance with high accuracy due to overfitting, WFA aims to mitigate such risks by employing distinct data segments known as in-sample and out-of-sample periods.

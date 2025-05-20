@@ -1,6 +1,10 @@
 ---
-title: "Which Time Frame Is Best in Trading? (Algo Trading)"
-description: Explore the best time frames for swing trading within the context of algorithmic trading. Learn how differing durations can influence strategy, risk, and returns while capturing market trends and optimizing trade execution through automation and multi-time frame analysis for improved trading outcomes.
+category: trading_strategy
+description: Explore the best time frames for swing trading within the context of
+  algorithmic trading. Learn how differing durations can influence strategy, risk,
+  and returns while capturing market trends and optimizing trade execution through
+  automation and multi-time frame analysis for improved trading outcomes.
+title: Which Time Frame Is Best in Trading? (Algo Trading)
 ---
 
 Swing trading is a widely adopted trading strategy that focuses on capturing short- to medium-term gains in financial markets. This strategy involves holding positions for a few days to several weeks, aiming to profit from market 'swings'—the natural oscillations in asset prices during a market trend. Such a trading style is appealing due to its balanced approach between the fast pace of day trading and the prolonged commitments of long-term investing.

@@ -1,6 +1,8 @@
 ---
-title: "Supply and Demand in the Housing Market (Algo Trading)"
-description: "Explore how the dynamics of supply and demand shape the housing market and how algorithmic trading strategies could redefine real estate investments."
+category: quant_concept
+description: Explore how the dynamics of supply and demand shape the housing market
+  and how algorithmic trading strategies could redefine real estate investments.
+title: Supply and Demand in the Housing Market (Algo Trading)
 ---
 
 The real estate market is characterized by its complex and ever-changing nature, driven by an array of economic, social, and political factors. This dynamic environment is predominantly shaped by the principles of supply and demand. On the supply side, factors such as land availability, construction costs, and government regulations heavily influence the number of properties available in the market. Conversely, demand is often dictated by population growth, economic conditions, and interest rates, among other elements. The intricate interplay between these supply and demand forces determines property prices, which can fluctuate significantly with changing macroeconomic trends.

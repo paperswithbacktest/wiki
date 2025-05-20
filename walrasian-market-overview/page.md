@@ -1,6 +1,9 @@
 ---
-title: "Walrasian Market Overview (Algo Trading)"
-description: "Explore the Walrasian Equilibrium and its significance in modern financial markets with a focus on its mathematical foundations and applications in algorithmic trading."
+category: quant_concept
+description: Explore the Walrasian Equilibrium and its significance in modern financial
+  markets with a focus on its mathematical foundations and applications in algorithmic
+  trading.
+title: Walrasian Market Overview (Algo Trading)
 ---
 
 The Walrasian Equilibrium is a cornerstone in economic theory, playing a crucial role in understanding how markets reach a state of balance where supply equals demand. Named after the French economist Léon Walras, this concept is often referred to as a general equilibrium, representing an idealized state in perfectly competitive markets. The essential idea is that through a series of price adjustments, markets will naturally gravitate toward an equilibrium where all agents—consumers and producers—are maximizing their utility and profit respectively, given their budget constraints.

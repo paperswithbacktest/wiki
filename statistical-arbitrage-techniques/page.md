@@ -1,6 +1,8 @@
 ---
-title: "Statistical Arbitrage Techniques (Algo Trading)"
-description: "Explore the dynamic world of statistical arbitrage a high-frequency trading strategy using quantitative models to exploit temporary market inefficiencies effectively."
+category: trading_strategy
+description: Explore the dynamic world of statistical arbitrage a high-frequency trading
+  strategy using quantitative models to exploit temporary market inefficiencies effectively.
+title: Statistical Arbitrage Techniques (Algo Trading)
 ---
 
 Statistical arbitrage, often referred to as 'stat arb,' represents a sophisticated investment strategy that integrates quantitative analysis with thorough market insight. This technique is grounded in the use of mathematical models to pinpoint and exploit transient price inefficiencies occurring between related financial instruments. At its core, statistical arbitrage is marked by high-frequency trading, necessitating a robust understanding of both statistical methods and market mechanics. By employing these quantitative strategies, traders are able to gain a competitive advantage by taking advantage of small, temporary discrepancies in security pricing.

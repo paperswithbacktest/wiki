@@ -1,6 +1,8 @@
 ---
-title: "Unrecorded Deeds in Real Estate Investment (Algo Trading)"
-description: "Explore how algorithmic trading enhances real estate investment strategies and addresses risks associated with unrecorded deeds, ensuring smooth transactions."
+category: quant_concept
+description: Explore how algorithmic trading enhances real estate investment strategies
+  and addresses risks associated with unrecorded deeds, ensuring smooth transactions.
+title: Unrecorded Deeds in Real Estate Investment (Algo Trading)
 ---
 
 The world of real estate investing is full of complexities and nuances that can greatly impact a transaction's success. One critical aspect of any real estate transaction is the deed, which serves as the legal document evidencing ownership of a property. However, issues can arise when deeds go unrecorded. An unrecorded deed refers to a property transaction document that hasn't been formally registered with the public records department. While these deeds are valid between the involved parties, their unregistered status can lead to significant complications due to the absence of public notice. This can result in challenges such as proving ownership, affecting future property sales, insurance claims, and loan processes.

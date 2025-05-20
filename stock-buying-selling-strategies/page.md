@@ -1,6 +1,8 @@
 ---
-title: "Stock Buying and Selling Strategies (Algo Trading)"
-description: "Explore stock buying and selling strategies with insights on algorithmic trading to boost your investment performance and align with financial goals."
+category: trading_strategy
+description: Explore stock buying and selling strategies with insights on algorithmic
+  trading to boost your investment performance and align with financial goals.
+title: Stock Buying and Selling Strategies (Algo Trading)
 ---
 
 Investing in the stock market is a dynamic process requiring keen insights and strategic decision-making. Navigating this financial landscape involves understanding and implementing a range of investment strategies, each tailored to various risk tolerances and financial goals. This article will explore various investment strategies, stock trading methods, and the impact of algorithmic trading on buying and selling stocks. 

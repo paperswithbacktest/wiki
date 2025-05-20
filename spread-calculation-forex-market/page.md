@@ -1,6 +1,11 @@
 ---
-title: "Spread Calculation in the Forex Market (Algo Trading)"
-description: "Discover how forex spreads impact trading strategies, particularly in algorithmic trading. Learn why understanding the spread, the difference between bid and ask prices, is crucial for optimizing trade executions and minimizing costs. Explore how these fluctuations in spread size influence decision-making and potential profits in the dynamic forex market."
+category: quant_concept
+description: Discover how forex spreads impact trading strategies, particularly in
+  algorithmic trading. Learn why understanding the spread, the difference between
+  bid and ask prices, is crucial for optimizing trade executions and minimizing costs.
+  Explore how these fluctuations in spread size influence decision-making and potential
+  profits in the dynamic forex market.
+title: Spread Calculation in the Forex Market (Algo Trading)
 ---
 
 Forex trading, also known as foreign exchange trading, involves the buying and selling of currencies. As a decentralized global market, it boasts a daily trading volume exceeding $6 trillion, making it one of the most actively traded financial markets worldwide. Participants range from large banks and financial institutions to individual retail traders, all seeking to profit from the fluctuations in exchange rates.

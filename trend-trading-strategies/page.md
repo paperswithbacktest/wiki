@@ -1,6 +1,9 @@
 ---
-title: "Trend Trading Strategies (Algo Trading)"
-description: "Explore trend trading and algorithmic strategies in finance to capitalize on market movements Procedural insights enable informed and disciplined trading decisions"
+category: trading_strategy
+description: Explore trend trading and algorithmic strategies in finance to capitalize
+  on market movements Procedural insights enable informed and disciplined trading
+  decisions
+title: Trend Trading Strategies (Algo Trading)
 ---
 
 The financial markets are a dynamic environment where trading strategies play a crucial role in achieving success. Investors and traders constantly seek ways to gain an edge in the market, making strategy development essential. Among the myriad of strategies, trend trading and algorithmic trading (algo trading) have gained significant popularity, especially in today's technologically-advanced trading landscape.

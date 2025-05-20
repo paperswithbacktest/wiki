@@ -1,6 +1,9 @@
 ---
-title: "Types of Investment Portfolios (Algo Trading)"
-description: "Explore the synergy between investment portfolio management and algorithmic trading to optimize returns with balanced risk. Learn key strategies for modern investors."
+category: trading_strategy
+description: Explore the synergy between investment portfolio management and algorithmic
+  trading to optimize returns with balanced risk. Learn key strategies for modern
+  investors.
+title: Types of Investment Portfolios (Algo Trading)
 ---
 
 Investment portfolio management strategies encompass a wide array of approaches aimed at optimizing the allocation and performance of assets to achieve specific financial objectives. These strategies typically involve asset selection, diversification, risk assessment, and periodic rebalancing to align with an investor’s goals and risk tolerance. As financial markets continue to evolve and grow in complexity, the emphasis on innovative and efficient portfolio management techniques has become increasingly significant.

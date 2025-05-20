@@ -1,6 +1,12 @@
 ---
-title: "What technologies are used in algorithmic trading?"
-description: "Discover the technologies powering algorithmic trading, from programming languages like Python and C++ to trading platforms such as MetaTrader and databases including SQL and NoSQL. Explore backtesting tools, APIs, infrastructure solutions, and analysis & modeling tools that enable traders to create, test, and execute complex strategies. Dive deeper into resources for trading strategies, libraries, datasets, and tutorials to help you become a successful quant trader."
+category: quant_concept
+description: Discover the technologies powering algorithmic trading, from programming
+  languages like Python and C++ to trading platforms such as MetaTrader and databases
+  including SQL and NoSQL. Explore backtesting tools, APIs, infrastructure solutions,
+  and analysis & modeling tools that enable traders to create, test, and execute complex
+  strategies. Dive deeper into resources for trading strategies, libraries, datasets,
+  and tutorials to help you become a successful quant trader.
+title: What technologies are used in algorithmic trading?
 ---
 
 Algorithmic trading, a cornerstone of modern financial markets, uses computer algorithms to automate trading decisions, executing orders far quicker than human traders. This technology-driven trading strategy relies on complex algorithms to make buy or sell decisions based on varying factors such as price, timing, and volume, significantly enhancing market efficiency and liquidity. The rapid expansion of algorithmic trading is primarily fueled by technological advancements, enabling the analysis of large datasets and execution of transactions at unprecedented speeds.

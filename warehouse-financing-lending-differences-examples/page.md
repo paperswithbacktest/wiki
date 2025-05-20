@@ -1,6 +1,9 @@
 ---
-title: "Warehouse Financing and Lending: Differences and Examples (Algo Trading)"
-description: "Discover the distinctions between warehouse financing and lending with examples from algo trading. Learn how these tools enhance business liquidity and strategy."
+category: quant_concept
+description: Discover the distinctions between warehouse financing and lending with
+  examples from algo trading. Learn how these tools enhance business liquidity and
+  strategy.
+title: 'Warehouse Financing and Lending: Differences and Examples (Algo Trading)'
 ---
 
 Warehouse financing plays a pivotal role in the financial world, particularly for businesses that rely heavily on inventory management. It involves the process whereby businesses use their inventories as collateral to secure loans from financial institutions. This concept is critical for understanding how businesses with substantial inventories, such as those in manufacturing, retail, or agriculture, can optimize their capital structure and liquidity without necessarily seeking traditional bank loans or equity financing.

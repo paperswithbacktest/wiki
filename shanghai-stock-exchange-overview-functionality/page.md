@@ -1,6 +1,9 @@
 ---
-title: "Shanghai Stock Exchange: Overview and Functionality (Algo Trading)"
-description: "Explore the Shanghai Stock Exchange's influence in China's financial market and the rise of algorithmic trading. Understand recent regulatory changes and their implications."
+category: quant_concept
+description: Explore the Shanghai Stock Exchange's influence in China's financial
+  market and the rise of algorithmic trading. Understand recent regulatory changes
+  and their implications.
+title: 'Shanghai Stock Exchange: Overview and Functionality (Algo Trading)'
 ---
 
 The Shanghai Stock Exchange (SSE) stands as a key component of China's financial ecosystem, being the largest stock exchange within mainland China. With its significant position in the Asian financial markets, the SSE attracts both domestic and international investors, necessitating a robust understanding of its operations. This article will examine the trading dynamics on the SSE, focusing on the rise and impact of algorithmic trading, a domain that has evolved to play a critical role in the modern trading landscape.

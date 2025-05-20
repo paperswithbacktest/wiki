@@ -1,6 +1,8 @@
 ---
-title: "Solar Energy: Advantages and Disadvantages (Algo Trading)"
-description: "Explore the transformative potential of combining solar energy and algorithmic trading to enhance market efficiency and sustainability in energy systems."
+category: quant_concept
+description: Explore the transformative potential of combining solar energy and algorithmic
+  trading to enhance market efficiency and sustainability in energy systems.
+title: 'Solar Energy: Advantages and Disadvantages (Algo Trading)'
 ---
 
 Renewable energy sources, particularly solar power, have emerged as pivotal elements in addressing climate change. These energy solutions offer an efficient and sustainable alternative to the traditional, environmentally detrimental fossil fuels. Solar energy, derived from the sun's rays, presents a vast potential that is both inexhaustible and capable of being harnessed in a manner that minimizes the ecological footprint. As technology progresses, solar power has become increasingly cost-effective, driving its adoption at various scales—from individual households to large-scale solar farms.

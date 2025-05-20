@@ -1,6 +1,8 @@
 ---
-title: "Stock Selection for Day Trading (Algo Trading)"
-description: "Explore strategies and tools for successful day trading and stock selection Enhance your algorithmic trading skills in a fast-paced stock market environment"
+category: trading_strategy
+description: Explore strategies and tools for successful day trading and stock selection
+  Enhance your algorithmic trading skills in a fast-paced stock market environment
+title: Stock Selection for Day Trading (Algo Trading)
 ---
 
 In the dynamic and ever-evolving landscape of stock markets, investors continually seek effective strategies to enhance their returns. The intersection of investment strategies, stock selection, day trading, and algorithmic trading represents a comprehensive approach to navigating these markets. Understanding and leveraging these elements can significantly improve the potential for financial success.

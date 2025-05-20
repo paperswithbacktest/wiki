@@ -1,6 +1,8 @@
 ---
-title: "S&P/ASX 200 Index: Overview and Significance (Algo Trading)"
-description: "Explore the significance of the S&P/ASX 200 index as a benchmark for Australia's economy and how algorithmic trading enhances strategy and execution."
+category: quant_concept
+description: Explore the significance of the S&P/ASX 200 index as a benchmark for
+  Australia's economy and how algorithmic trading enhances strategy and execution.
+title: 'S&P/ASX 200 Index: Overview and Significance (Algo Trading)'
 ---
 
 The Australian stock market, with the S&P/ASX 200 index prominently at its helm, serves as a pivotal benchmark reflecting the nation’s economic vitality and investment environment. Comprising the top 200 stocks listed on the Australian Securities Exchange (ASX) by market capitalization, this index is instrumental for both institutional and individual investors seeking to gauge the performance and trends of the Australian equities market. Its liquidity and index composition make it an attractive reference point for a diversified portfolio, spanning sectors such as financials, materials, and more.

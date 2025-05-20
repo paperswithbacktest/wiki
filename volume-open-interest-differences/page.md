@@ -1,6 +1,10 @@
 ---
-title: "Volume and Open Interest: Differences (Algo Trading)"
-description: "Discover the key differences between volume and open interest in trading and understand how these metrics help traders gauge market activity sentiment and liquidity. Explore how advancements in algorithmic trading leverage these indicators to optimize performance and manage risk effectively."
+category: quant_concept
+description: Discover the key differences between volume and open interest in trading
+  and understand how these metrics help traders gauge market activity sentiment and
+  liquidity. Explore how advancements in algorithmic trading leverage these indicators
+  to optimize performance and manage risk effectively.
+title: 'Volume and Open Interest: Differences (Algo Trading)'
 ---
 
 Understanding key metrics such as open interest and volume is crucial for successful trading in financial markets. These indicators provide vital insights into market activity, sentiment, and liquidity, helping traders make more informed decisions. Open interest refers to the total number of open contracts in the options and futures markets that have not yet been settled, reflecting the strength of market trends. Volume, on the other hand, measures the total number of contracts traded within a specific period, serving as an indicator of market liquidity and interest.

@@ -1,6 +1,8 @@
 ---
-title: "Yield to Maturity and Holding Period Return Comparison (Algo Trading)"
-description: "Explore the key differences and benefits of Yield to Maturity and Holding Period Return in algorithmic trading to maximize investment efficiency and returns."
+category: quant_concept
+description: Explore the key differences and benefits of Yield to Maturity and Holding
+  Period Return in algorithmic trading to maximize investment efficiency and returns.
+title: Yield to Maturity and Holding Period Return Comparison (Algo Trading)
 ---
 
 In the ever-evolving world of finance, understanding key investment metrics is crucial for investors aiming to maximize profitability and manage risks efficiently. This article examines three fundamental concepts: investment returns, holding period return (HPR), and yield to maturity (YTM), discussing their definitions, calculations, and applications in both traditional and algorithmic trading.

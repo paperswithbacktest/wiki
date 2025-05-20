@@ -1,7 +1,8 @@
 ---
-title: Effective Undersampling Techniques for Machine Learning Models
+category: dataset
 description: Undersampling in machine learning balances datasets by trimming majority
   class data to improve model fairness and generalization Discover more inside
+title: Effective Undersampling Techniques for Machine Learning Models
 ---
 
 ![Image](images/1.jpeg)

@@ -1,6 +1,8 @@
 ---
-title: "Tactical Asset Allocation: Example Portfolio (Algo Trading)"
-description: "Enhance portfolio performance with tactical asset allocation (TAA) by leveraging algorithmic trading to optimize investment decisions in dynamic markets."
+category: trading_strategy
+description: Enhance portfolio performance with tactical asset allocation (TAA) by
+  leveraging algorithmic trading to optimize investment decisions in dynamic markets.
+title: 'Tactical Asset Allocation: Example Portfolio (Algo Trading)'
 ---
 
 Tactical asset allocation (TAA) represents a dynamic investment strategy that involves periodic adjustments to the asset mix of an investment portfolio, leveraging short-term market opportunities to enhance returns. TAA holds significant value in investment strategy as it allows investors to react flexibly to market conditions, contrasting with the long-term approach of strategic asset allocation (SAA). While SAA involves a static allocation based on predefined risk tolerance and investment objectives, TAA introduces a layer of active management by reallocating assets in response to anticipated changes in market performance.

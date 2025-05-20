@@ -1,6 +1,8 @@
 ---
-title: "Termination Date (Algo Trading)"
-description: "Explore the crucial aspects of contract termination in finance and employment and delve into the complexities of algorithmic trading for informed decision-making."
+category: quant_concept
+description: Explore the crucial aspects of contract termination in finance and employment
+  and delve into the complexities of algorithmic trading for informed decision-making.
+title: Termination Date (Algo Trading)
 ---
 
 In the fast-paced world of financial markets and employment, understanding the nuances of contract terminations can have significant implications for both individuals and organizations. Employment contracts and financial agreements play vital roles in defining the parameters of professional and financial relationships, and their termination marks critical transitions affecting future prospects.

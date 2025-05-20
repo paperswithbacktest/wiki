@@ -1,6 +1,12 @@
 ---
-title: "Uncorrelated Assets and Strategies Explained (Algo Trading)"
-description: Discover the transformative power of uncorrelated assets in algorithmic trading, offering diversification and enhanced risk management in volatile markets. Explore strategic implementation to achieve consistent returns and mitigate portfolio drawdowns through low correlation investments. Uncover practical insights, empirical findings, and how traders leverage these assets for refined trading algorithms and optimized market performance.
+category: trading_strategy
+description: Discover the transformative power of uncorrelated assets in algorithmic
+  trading, offering diversification and enhanced risk management in volatile markets.
+  Explore strategic implementation to achieve consistent returns and mitigate portfolio
+  drawdowns through low correlation investments. Uncover practical insights, empirical
+  findings, and how traders leverage these assets for refined trading algorithms and
+  optimized market performance.
+title: Uncorrelated Assets and Strategies Explained (Algo Trading)
 ---
 
 In today's rapidly evolving financial markets, algorithmic trading has emerged as a dominant force, fundamentally altering the landscape of investment strategies and execution. A vital element that underpins successful algorithmic trading is the concept of uncorrelated assets. These assets are characterized by their lack of synchronization in movement, which means their price changes do not mirror one another or the broader market trends systematically. This attribute is central to achieving diversification, a principle that seeks to spread investment risk across various assets to potentially enhance returns while minimizing exposure to volatility.

@@ -1,6 +1,14 @@
 ---
-title: "Stationarity (Algo Trading)"
-description: Discover how the concept of stationarity impacts algorithmic trading through this comprehensive exploration of its role in simplifying market predictions. Learn about statistical methods for achieving stationarity in time series data, understand its importance in enhancing the accuracy of trading algorithms, and uncover practical applications that can bolster predictive models by ensuring data consistency. Gain insight into the transformation techniques that turn volatile markets into stable series, making strategic trading decisions more reliable in the fast-paced financial world.
+category: quant_concept
+description: Discover how the concept of stationarity impacts algorithmic trading
+  through this comprehensive exploration of its role in simplifying market predictions.
+  Learn about statistical methods for achieving stationarity in time series data,
+  understand its importance in enhancing the accuracy of trading algorithms, and uncover
+  practical applications that can bolster predictive models by ensuring data consistency.
+  Gain insight into the transformation techniques that turn volatile markets into
+  stable series, making strategic trading decisions more reliable in the fast-paced
+  financial world.
+title: Stationarity (Algo Trading)
 ---
 
 In the fast-paced world of algorithmic trading, where decisions are made in microseconds, understanding the nature of market data is paramount. Market data, often represented as time series, captures changes in prices, volumes, and other trading metrics over time. These data series exhibit complex patterns influenced by myriad factors—economic indicators, geopolitical events, and trader psychology, among others. As such, predicting these movements accurately remains a formidable challenge.

@@ -1,6 +1,9 @@
 ---
-title: "Style Box: Overview, Parameters, and Limitations (Algo Trading)"
-description: "Explore the investment landscape with our guide on style box mutual funds and algorithmic trading Understand their benefits and how they optimize investor strategies"
+category: quant_concept
+description: Explore the investment landscape with our guide on style box mutual funds
+  and algorithmic trading Understand their benefits and how they optimize investor
+  strategies
+title: 'Style Box: Overview, Parameters, and Limitations (Algo Trading)'
 ---
 
 The world of investments is constantly evolving as new tools and strategies are introduced to optimize returns and manage risks. Within this dynamic landscape, two innovative strategies have emerged as particularly noteworthy: style box mutual funds and algorithmic trading. These strategies offer distinctive benefits while addressing the diverse needs of modern investors.

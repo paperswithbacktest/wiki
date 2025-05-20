@@ -1,6 +1,14 @@
 ---
-title: "Treasury Bills: Overview and Investment Methods (Algo Trading)"
-description: "Discover the intricacies of Treasury Bills (T-Bills) and investment methods with a focus on algo trading. This comprehensive guide explores T-Bills as a secure, short-term investment option, their role in government financing, and their status as a benchmark for risk-free rates. Learn how algorithmic trading enhances T-Bill investment strategies by leveraging technology for efficient trading and risk mitigation. Discover methods to invest in T-Bills via TreasuryDirect or brokerage firms, and understand the auction process including competitive and non-competitive bidding options, to optimize your investment returns in modern financial markets."
+category: quant_concept
+description: Discover the intricacies of Treasury Bills (T-Bills) and investment methods
+  with a focus on algo trading. This comprehensive guide explores T-Bills as a secure,
+  short-term investment option, their role in government financing, and their status
+  as a benchmark for risk-free rates. Learn how algorithmic trading enhances T-Bill
+  investment strategies by leveraging technology for efficient trading and risk mitigation.
+  Discover methods to invest in T-Bills via TreasuryDirect or brokerage firms, and
+  understand the auction process including competitive and non-competitive bidding
+  options, to optimize your investment returns in modern financial markets.
+title: 'Treasury Bills: Overview and Investment Methods (Algo Trading)'
 ---
 
 Treasury Bills (T-Bills) represent a critical component of government securities, offering investors a secure, short-term investment option with minimal risk. Issued by the U.S. Department of the Treasury, T-Bills are essential for the government's short-term funding needs and provide a reliable investment instrument that supports the financial markets' stability. In today's dynamic financial landscape, where market volatility and uncertainty are prevalent, T-Bills serve as a foundational element for portfolios seeking preservation of capital and liquidity.

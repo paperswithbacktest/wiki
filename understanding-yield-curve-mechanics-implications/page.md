@@ -1,6 +1,8 @@
 ---
-title: "Understanding the Yield Curve: Mechanics and Implications (Algo Trading)"
-description: "Explore the mechanics and implications of the yield curve in fixed income and algorithmic trading and learn how it impacts investment strategies."
+category: quant_concept
+description: Explore the mechanics and implications of the yield curve in fixed income
+  and algorithmic trading and learn how it impacts investment strategies.
+title: 'Understanding the Yield Curve: Mechanics and Implications (Algo Trading)'
 ---
 
 Fixed income investments and algorithmic trading play crucial roles in modern financial systems. Fixed income investments are financial instruments that offer predictable returns, such as bonds, certificates of deposit (CDs), and treasuries. These instruments are favored by investors seeking stability and consistent income streams. Central to the valuation and performance of fixed income investments is the concept of the yield curve, which is a graphical representation of interest rates on bonds with varying maturity dates.

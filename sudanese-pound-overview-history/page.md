@@ -1,6 +1,8 @@
 ---
-title: "Sudanese Pound: Overview and History (Algo Trading)"
-description: "Explore the complex history and current role of the Sudanese Pound which is crucial in Sudan's economic landscape amidst algorithmic trading impacts."
+category: dataset
+description: Explore the complex history and current role of the Sudanese Pound which
+  is crucial in Sudan's economic landscape amidst algorithmic trading impacts.
+title: 'Sudanese Pound: Overview and History (Algo Trading)'
 ---
 
 The geopolitical and economic landscape of Sudan is both intricate and fluid, shaped by a multitude of historical and contemporary factors. Sudan has undergone significant political changes, economic challenges, and social transformations, all of which have contributed to its current state. A central aspect of Sudan's economic framework is the Sudanese Pound (SDG), which plays an indispensable role in the nation's financial system. Introduced as legal tender in 2007, the Sudanese Pound is managed by the Central Bank of Sudan and serves as a crucial component for both local and international economic interactions.

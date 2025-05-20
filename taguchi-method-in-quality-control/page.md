@@ -1,6 +1,9 @@
 ---
-title: "Taguchi Method in Quality Control (Algo Trading)"
-description: "Explore the transformative power of the Taguchi Method in quality control and algorithmic trading, where design-centric approaches reduce variation and enhance system robustness against market noise for optimized performance and risk management."
+category: quant_concept
+description: Explore the transformative power of the Taguchi Method in quality control
+  and algorithmic trading, where design-centric approaches reduce variation and enhance
+  system robustness against market noise for optimized performance and risk management.
+title: Taguchi Method in Quality Control (Algo Trading)
 ---
 
 The Taguchi Method is a significant innovation in quality control engineering, with broad applicability in various disciplines, including the burgeoning field of algorithmic trading. Originally conceived by Genichi Taguchi in the 1950s, this method focuses on enhancing design processes rather than solely concentrating on the manufacturing phase. This design-centric approach is instrumental in minimizing variations and improving consistency in both products and processes.

@@ -1,6 +1,12 @@
 ---
-title: "Tangible Net Worth (Algo Trading)"
-description: "Discover the vital role of tangible net worth, balance sheet analysis, and algorithmic trading in today's financial landscape. Learn how these key metrics provide a comprehensive framework for evaluating a company's financial health, offering insights crucial to investment strategies and risk management. Uncover the significance of tangible net worth in assessing a company's asset-backed value and its impact on informed decision-making in modern finance."
+category: quant_concept
+description: Discover the vital role of tangible net worth, balance sheet analysis,
+  and algorithmic trading in today's financial landscape. Learn how these key metrics
+  provide a comprehensive framework for evaluating a company's financial health, offering
+  insights crucial to investment strategies and risk management. Uncover the significance
+  of tangible net worth in assessing a company's asset-backed value and its impact
+  on informed decision-making in modern finance.
+title: Tangible Net Worth (Algo Trading)
 ---
 
 In the intricate world of finance, understanding different metrics is crucial for making informed decisions. Tangible net worth, balance sheet analysis, and algorithmic trading are key components that shape the financial landscape. These metrics offer a comprehensive framework for evaluating a company's financial health and operational efficiency, providing insights integral to investment strategies and financial planning.

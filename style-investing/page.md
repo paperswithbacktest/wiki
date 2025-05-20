@@ -1,6 +1,9 @@
 ---
-title: "Style investing (Algo Trading)"
-description: "Explore style investing and algorithmic trading to enhance investment strategies with systematic, bias-free decision-making across asset classes for better returns."
+category: trading_strategy
+description: Explore style investing and algorithmic trading to enhance investment
+  strategies with systematic, bias-free decision-making across asset classes for better
+  returns.
+title: Style investing (Algo Trading)
 ---
 
 Style investing, often synonymous with algorithmic trading, involves utilizing a set of predefined rules and algorithms to guide investment decisions. This strategic method capitalizes on the dual benefits of systematic strategies and algorithmic execution, ensuring both consistency and efficiency in trading activities. As technology marches forward, the incorporation of algorithms into trading and investment decision-making becomes ever more pivotal, fundamentally transforming the way markets operate. Through the precise application of algorithms, traders can enhance their decision-making processes, minimizing human error and emotional biases.

@@ -1,6 +1,9 @@
 ---
-title: "Types of Forex Traders (Algo Trading)"
-description: "Explore the diverse strategies of forex traders and the impact of algorithmic trading. Learn how different types integrate traditional and automated methods for success."
+category: trading_strategy
+description: Explore the diverse strategies of forex traders and the impact of algorithmic
+  trading. Learn how different types integrate traditional and automated methods for
+  success.
+title: Types of Forex Traders (Algo Trading)
 ---
 
 Forex trading, a vast and decentralized market, attracts a diverse range of traders who adopt various strategies based on their specific goals and prevailing market conditions. This complex market structure facilitates the exchange of currencies across different regions and operates continuously, presenting opportunities for both individual and institutional participants. The diversity of traders in the forex market is largely categorized by their trading strategies and time frames, leading to roles such as day traders, swing traders, and position traders. Each trader type tailors their approach to align with their risk tolerance, market perception, and desired liquidity, ultimately forming a spectrum of strategies from short-term, rapid transactions to long-term economic forecasting.

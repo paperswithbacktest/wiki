@@ -1,6 +1,8 @@
 ---
-title: "Smart beta strategies (Algo Trading)"
-description: "Explore the benefits and intricacies of smart beta strategies in algo trading from capturing market inefficiencies to cost-efficiency and rapid execution."
+category: trading_strategy
+description: Explore the benefits and intricacies of smart beta strategies in algo
+  trading from capturing market inefficiencies to cost-efficiency and rapid execution.
+title: Smart beta strategies (Algo Trading)
 ---
 
 Smart beta strategies have rapidly gained attention in the investment world due to their innovative combination of passive and active management styles. By capitalizing on specific market factors, these strategies aim to enhance portfolio performance while maintaining cost-efficiency. They differ from traditional investment approaches by focusing on capturing market inefficiencies or factor exposures such as momentum, value, or liquidity rather than solely relying on market-capitalization indices.
@@ -123,4 +125,3 @@ Ang, A. (2014). "Asset Management: A Systematic Approach to Factor Investing". O
 Blitz, D., & van Vliet, P. (2007). "The Volatility Effect: Lower Risk without Lower Return". Journal of Portfolio Management. This paper explores the volatility effect in equity markets, demonstrating how lower-risk stocks can generate returns comparable to higher-risk stocks, challenging traditional risk-return assumptions.
 
 Arnott, R. D., Hsu, J. C., & Moore, P. (2005). "Fundamental Indexation". Financial Analysts Journal. This article introduces the concept of fundamental indexation, arguing for an alternative to market-cap-weighted indices by emphasizing economic size and fundamentals, offering insights relevant to smart beta strategy implementation.
-

@@ -1,6 +1,9 @@
 ---
-title: "Short Selling Regulations in India (Algo Trading)"
-description: "Explore the intricacies of short selling regulations and algorithmic trading in India, focusing on SEBI's role in ensuring market integrity and investor confidence."
+category: quant_concept
+description: Explore the intricacies of short selling regulations and algorithmic
+  trading in India, focusing on SEBI's role in ensuring market integrity and investor
+  confidence.
+title: Short Selling Regulations in India (Algo Trading)
 ---
 
 Stock market regulations in India are crucial for ensuring the integrity, transparency, and efficiency of market operations. The Securities and Exchange Board of India (SEBI) acts as the primary regulatory authority, diligently overseeing these aspects. Established in 1992, SEBI was created to protect investor interests and promote fair trading practices within the securities markets. These regulations are indispensable as they maintain market integrity by curbing malpractices, enhancing corporate governance, and reducing systemic risks that could disrupt financial stability.

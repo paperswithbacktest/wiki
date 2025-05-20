@@ -1,6 +1,12 @@
 ---
-title: "What is multi-frequency trading and how does it work?"
-description: "Discover the concept of multi-frequency trading, a less common yet effective approach in finance that combines trading signals from various time horizons or data frequencies. Learn how this strategy works through the example of using long-term trends with short-term optimizations for entry and exit points. Explore benefits such as risk reduction and diversification, while addressing challenges like complexity and costs."
+category: quant_concept
+description: Discover the concept of multi-frequency trading, a less common yet effective
+  approach in finance that combines trading signals from various time horizons or
+  data frequencies. Learn how this strategy works through the example of using long-term
+  trends with short-term optimizations for entry and exit points. Explore benefits
+  such as risk reduction and diversification, while addressing challenges like complexity
+  and costs.
+title: What is multi-frequency trading and how does it work?
 ---
 
 Trading in financial markets involves the buying and selling of financial instruments, such as stocks, bonds, commodities, and currencies, to achieve profit. It's a highly dynamic environment where traders analyze market trends, economic indicators, and numerous other variables to make informed decisions. In recent years, the landscape of trading has been significantly transformed by technological advancements, particularly in the form of algorithmic trading.

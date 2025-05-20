@@ -1,6 +1,9 @@
 ---
-title: "Vela Constellation (Algo Trading)"
-description: "Explore the intriguing parallels between Southern Hemisphere constellations and algorithmic trading Techniques in data analysis and prediction models reveal unique insights"
+category: trading_strategy
+description: Explore the intriguing parallels between Southern Hemisphere constellations
+  and algorithmic trading Techniques in data analysis and prediction models reveal
+  unique insights
+title: Vela Constellation (Algo Trading)
 ---
 
 The Southern Hemisphere provides an unparalleled perspective, bridging the gap between celestial observations and advanced financial technologies. Unique constellations only visible in these skies offer stargazers and astronomers distinct opportunities to study phenomena not observable from the Northern Hemisphere. Among these celestial features, constellations such as Crux, Carina, and Vela stand out, each providing cultural and navigational significance that has captivated human curiosity for ages.

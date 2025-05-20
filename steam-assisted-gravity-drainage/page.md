@@ -1,6 +1,8 @@
 ---
-title: "Steam-Assisted Gravity Drainage (Algo Trading)"
-description: "Explore how Steam-Assisted Gravity Drainage revolutionizes heavy oil recovery, and discover its synergy with algorithmic trading in modern energy markets."
+category: quant_concept
+description: Explore how Steam-Assisted Gravity Drainage revolutionizes heavy oil
+  recovery, and discover its synergy with algorithmic trading in modern energy markets.
+title: Steam-Assisted Gravity Drainage (Algo Trading)
 ---
 
 Steam-Assisted Gravity Drainage (SAGD) represents a cutting-edge approach in the field of oil recovery, specifically targeting the extraction of heavy crude oil and bitumen. This innovative technology has transformed the oil industry by enabling the efficient and economically viable extraction of oil from deposits that are otherwise challenging to exploit through conventional methods. SAGD employs steam injection to enhance the recovery of oil, relying on gravity and thermal energy to mobilize viscous hydrocarbons and facilitate their flow towards production wells.

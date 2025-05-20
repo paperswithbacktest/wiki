@@ -1,6 +1,12 @@
 ---
-title: "Triple-barrier labeling method (Algo Trading)"
-description: Explore the integration of AI in trading through the Triple Barrier Labeling Method tailored for cryptocurrency markets This approach utilizes three barriers to enhance trading strategies by optimizing the capture of profit and effective risk management Learn about AI's classification strengths and how they are leveraged to adapt to the volatility of cryptocurrencies enhancing pairing trading strategies for stable returns
+category: trading_strategy
+description: Explore the integration of AI in trading through the Triple Barrier Labeling
+  Method tailored for cryptocurrency markets This approach utilizes three barriers
+  to enhance trading strategies by optimizing the capture of profit and effective
+  risk management Learn about AI's classification strengths and how they are leveraged
+  to adapt to the volatility of cryptocurrencies enhancing pairing trading strategies
+  for stable returns
+title: Triple-barrier labeling method (Algo Trading)
 ---
 
 The integration of Artificial Intelligence (AI) into the trading sector has led to substantial advancements, particularly in enhancing pair trading strategies. These strategies are rooted in the mean reversion theory, which posits that prices will eventually return to their historical mean. Pair trading, therefore, capitalizes on pricing discrepancies between two correlated assets, allowing traders to earn stable returns by buying the undervalued asset while short-selling the overvalued one. The mean reversion assumption is pivotal, as it essentially dictates that price deviations are temporary and that equilibrium will be restored, thereby presenting opportunities for profit.

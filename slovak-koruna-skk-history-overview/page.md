@@ -1,6 +1,9 @@
 ---
-title: "Slovak Koruna (SKK): History and Overview (Algo Trading)"
-description: "Explore the history and significance of the Slovak Koruna SKK from its role as Slovakia's currency to its replacement by the Euro in 2009. Discover insights for traders."
+category: quant_concept
+description: Explore the history and significance of the Slovak Koruna SKK from its
+  role as Slovakia's currency to its replacement by the Euro in 2009. Discover insights
+  for traders.
+title: 'Slovak Koruna (SKK): History and Overview (Algo Trading)'
 ---
 
 The Slovak Koruna (SKK) served as the official currency of Slovakia from its establishment in 1993 until its replacement by the Euro in 2009. Understanding the history and evolution of the SKK is crucial for both economists and forex traders seeking insights into Slovakia's economic history and the dynamics of currency transitions. Economists can benefit from examining the monetary policies and economic conditions that influenced the SKK, including its response to domestic and international economic events. Forex traders, on the other hand, can learn valuable lessons from the volatility and trading patterns of the SKK during its years of circulation.

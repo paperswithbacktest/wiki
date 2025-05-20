@@ -1,6 +1,8 @@
 ---
-title: "Sudden Economic Stop: Implications and Mechanisms (Algo Trading)"
-description: "Explore the complexities of algorithmic trading during economic crises and sudden stops analyzing impacts on market stability and proposing strategic solutions."
+category: quant_concept
+description: Explore the complexities of algorithmic trading during economic crises
+  and sudden stops analyzing impacts on market stability and proposing strategic solutions.
+title: 'Sudden Economic Stop: Implications and Mechanisms (Algo Trading)'
 ---
 
 Algorithmic trading has become a pivotal force within the modern financial landscape, fundamentally altering how financial markets operate. By utilizing advanced algorithms to automate trading processes, this technology offers unparalleled speed and efficiency, far surpassing the capabilities of human traders. This automation allows for rapid execution of trades, potentially capitalizing on fleeting market opportunities with precision and minimal latency.

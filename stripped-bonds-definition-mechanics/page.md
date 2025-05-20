@@ -1,6 +1,9 @@
 ---
-title: "Stripped Bonds: Definition and Mechanics (Algo Trading)"
-description: "Explore stripped bonds as unique investments that separate a bond's principal and interest. Understand their mechanics and the role of algorithmic trading in this market."
+category: quant_concept
+description: Explore stripped bonds as unique investments that separate a bond's principal
+  and interest. Understand their mechanics and the role of algorithmic trading in
+  this market.
+title: 'Stripped Bonds: Definition and Mechanics (Algo Trading)'
 ---
 
 Bonds are financial instruments representing a loan made by an investor to a borrower, typically a corporation or a governmental entity. These debt securities obligate the issuer to pay the holder a designated interest (coupon) over a predetermined period and return the principal at the bond's maturity. The components of a conventional bond include the face value, coupon rate, maturity date, and interest payments. In contrast, stripped bonds, also known as zero-coupon bonds, involve separating these components to trade separately. Stripped bonds do not make periodic interest payments; instead, they are sold at a discount and mature to their full face value, offering potential arbitrage opportunities.

@@ -1,6 +1,9 @@
 ---
-title: "Smith Barney Corporation (Algo Trading)"
-description: "Discover the evolution of Smith Barney Corporation from its origins in 1873 to its pivotal merger with Morgan Stanley, highlighting its role in algorithmic trading."
+category: quant_concept
+description: Discover the evolution of Smith Barney Corporation from its origins in
+  1873 to its pivotal merger with Morgan Stanley, highlighting its role in algorithmic
+  trading.
+title: Smith Barney Corporation (Algo Trading)
 ---
 
 Smith Barney, with its roots tracing back to 1873 in Philadelphia, has played a crucial role in shaping the landscape of financial services. Originally established as a standalone brokerage firm, Smith Barney gained recognition for its proficient handling of investments, catering to an array of clients that included individuals, corporations, and governments. Its trajectory over the years has been marked by strategic mergers and acquisitions, with the most significant transformation occurring in 2009 when it merged with Morgan Stanley, evolving into Morgan Stanley Wealth Management. This alliance marked a pivotal point in Smith Barney's history, enhancing its capacity to offer comprehensive financial services on a global scale.

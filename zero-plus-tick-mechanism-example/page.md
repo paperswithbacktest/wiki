@@ -1,6 +1,13 @@
 ---
-title: "Zero Plus Tick: Mechanism and Example (Algo Trading)"
-description: "Explore the intricacies of zero plus tick in stock market terminology and its significance for traders. This article investigates into the mechanics of trading, highlighting the role of algorithmic trading in modern markets and its impact on liquidity and price movements. Gain essential insights to navigate financial markets, enhancing your trading strategies with a robust understanding of critical concepts and technologies. Whether you're a novice or seasoned trader, mastering these elements can significantly improve your trading outcomes."
+category: quant_concept
+description: Explore the intricacies of zero plus tick in stock market terminology
+  and its significance for traders. This article investigates into the mechanics of
+  trading, highlighting the role of algorithmic trading in modern markets and its
+  impact on liquidity and price movements. Gain essential insights to navigate financial
+  markets, enhancing your trading strategies with a robust understanding of critical
+  concepts and technologies. Whether you're a novice or seasoned trader, mastering
+  these elements can significantly improve your trading outcomes.
+title: 'Zero Plus Tick: Mechanism and Example (Algo Trading)'
 ---
 
 Understanding stock market terminology is crucial for both novice and seasoned investors. In the fast-paced environment of financial markets, the ability to interpret and act on complex terms and signals is vital for making effective trading decisions. This article explores the concept of 'zero plus tick' and its implications in the trading world. A 'zero plus tick' is a term used to describe a specific type of price movement in the stock market, which provides insights into market trends and trading opportunities. This is essential knowledge for traders aiming to understand the nuances of price movements and market sentiment.

@@ -1,6 +1,10 @@
 ---
-title: "TMT & Entertainment Alternative Data (Algo Trading)"
-description: Explore the transformative impact of alternative data from the TMT and Entertainment sectors in algorithmic trading. Discover how traders leverage non-conventional datasets for unique insights and early trend detection to enhance predictive models and gain a competitive edge.
+category: dataset
+description: Explore the transformative impact of alternative data from the TMT and
+  Entertainment sectors in algorithmic trading. Discover how traders leverage non-conventional
+  datasets for unique insights and early trend detection to enhance predictive models
+  and gain a competitive edge.
+title: TMT & Entertainment Alternative Data (Algo Trading)
 ---
 
 In today's fast-paced financial markets, algorithmic trading has emerged as a pivotal force, prompting an increased demand for innovative data solutions. Traditional financial data sources, though integral, are often limited due to their widespread availability and rapid integration into market prices, which can dilute their usefulness for securing a competitive edge. Consequently, traders are turning towards alternative data to enhance their strategies, with the TMT (Technology, Media, and Telecom) and Entertainment sectors being particularly promising avenues.

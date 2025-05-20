@@ -1,6 +1,9 @@
 ---
-title: "Short Selling Stocks of Bankrupt Companies (Algo Trading)"
-description: "Explore the synergy between short selling stocks of bankrupt companies and algorithmic trading Find out how investors can optimize strategies amidst market downturns"
+category: trading_strategy
+description: Explore the synergy between short selling stocks of bankrupt companies
+  and algorithmic trading Find out how investors can optimize strategies amidst market
+  downturns
+title: Short Selling Stocks of Bankrupt Companies (Algo Trading)
 ---
 
 In today's fast-paced financial markets, understanding sophisticated strategies like short selling and algorithmic trading is crucial for investors aiming to diversify their portfolios or hedge against risks. Short selling involves an investor borrowing shares and selling them at the current market price, with the goal of repurchasing the shares later at a lower price. This approach is particularly effective in a declining market, where investors can profit from the decreasing value of stocks. However, short selling isn't without its risks. The primary risk arises if the stock price increases instead of decreasing, leading to potentially unlimited losses since theoretically, a stock's price can rise indefinitely.

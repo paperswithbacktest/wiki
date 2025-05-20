@@ -1,6 +1,9 @@
 ---
-title: "transaction flow analysis (Algo Trading)"
-description: "Optimize algorithmic trading systems with transaction flow analysis by understanding market behaviors and developing strategies to maximize efficiency and compliance."
+category: quant_concept
+description: Optimize algorithmic trading systems with transaction flow analysis by
+  understanding market behaviors and developing strategies to maximize efficiency
+  and compliance.
+title: transaction flow analysis (Algo Trading)
 ---
 
 Algorithmic trading has significantly changed the landscape of financial markets by automating the execution of trades, thereby introducing efficiency and speed. As algorithmic processes become more sophisticated, the demand for robust analytical tools capable of dissecting transaction flows has intensified. Transaction flow analysis has thus emerged as an essential component for enhancing the efficiency and effectiveness of these trading systems.

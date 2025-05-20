@@ -1,6 +1,8 @@
 ---
-title: "Suitability: Meaning and Types (Algo Trading)"
-description: "Explore the meaning and types of algorithmic trading which revolutionize markets by automating trading processes This guide helps traders leverage algo strategies"
+category: quant_concept
+description: Explore the meaning and types of algorithmic trading which revolutionize
+  markets by automating trading processes This guide helps traders leverage algo strategies
+title: 'Suitability: Meaning and Types (Algo Trading)'
 ---
 
 Algorithmic trading, commonly referred to as algo trading, has dramatically transformed the financial markets by enabling faster and more precise transactions. This technological advancement leverages computer algorithms to automate trading operations, thus eliminating human error and emotional decision-making from the trading process. The shift from traditional floor trading to electronic markets in recent decades has accelerated the adoption of algorithmic strategies, making them an integral part of modern financial markets.

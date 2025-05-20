@@ -1,6 +1,8 @@
 ---
-title: "Trade Price Response: Analysis and Examples (Algo Trading)"
-description: "Explore trade price and components like bid, ask, and spread in algo trading. Learn how market response price affects trading strategies and decisions."
+category: quant_concept
+description: Explore trade price and components like bid, ask, and spread in algo
+  trading. Learn how market response price affects trading strategies and decisions.
+title: 'Trade Price Response: Analysis and Examples (Algo Trading)'
 ---
 
 In the rapidly evolving world of finance, grasping the concept of trade price and its components is vital for market participants aiming to enhance their trading performance. Trade price, essentially the value at which a security is bought or sold, plays a fundamental role in the trading ecosystem. Its components, such as bid price, ask price, and spread, are instrumental in determining trading outcomes, reflecting the dynamic nature of supply and demand forces in financial markets.

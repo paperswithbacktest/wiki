@@ -1,6 +1,8 @@
 ---
-title: "Special Tax Bonds: Overview and Functionality (Algo Trading)"
-description: "Explore the role of special tax bonds in funding municipal projects and the impact of algorithmic trading on their market dynamics and investment strategies."
+category: quant_concept
+description: Explore the role of special tax bonds in funding municipal projects and
+  the impact of algorithmic trading on their market dynamics and investment strategies.
+title: 'Special Tax Bonds: Overview and Functionality (Algo Trading)'
 ---
 
 Bonds serve as a cornerstone in the financial markets, bridging the gap between those who need capital and those who have it to invest. They provide a mechanism for governments, corporations, and other entities to raise funds by borrowing from investors. Investors, in turn, receive periodic interest payments and the promise of repayment upon maturity. Bonds offer a relatively stable investment compared to stocks, making them a crucial component of diversified portfolios. 

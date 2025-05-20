@@ -1,6 +1,14 @@
 ---
-title: "Volatility trading strategies"
-description: Volatility trading strategies leverage fluctuations in asset prices to generate profits, focusing on the extent of price movements rather than their direction. The VIX index, often referred to as the "fear index," is central to volatility trading, indicating market expectations of future volatility. Strategies such as the Iron Condor, Straddles, and Strangles exploit different volatility environments—ranging from high to low volatility. Volatility trading provides unique opportunities, especially in options markets, where traders use sophisticated tools like the 200-day moving average and Average True Range (ATR) to measure volatility and inform trading decisions.
+category: trading_strategy
+description: Volatility trading strategies leverage fluctuations in asset prices to
+  generate profits, focusing on the extent of price movements rather than their direction.
+  The VIX index, often referred to as the "fear index," is central to volatility trading,
+  indicating market expectations of future volatility. Strategies such as the Iron
+  Condor, Straddles, and Strangles exploit different volatility environments—ranging
+  from high to low volatility. Volatility trading provides unique opportunities, especially
+  in options markets, where traders use sophisticated tools like the 200-day moving
+  average and Average True Range (ATR) to measure volatility and inform trading decisions.
+title: Volatility trading strategies
 ---
 
 Volatility represents the degree of variation of a trading price series over time as measured by the standard deviation of logarithmic returns. It's a statistical measure of the dispersion of returns for a given security or market index. In simpler terms, volatility gauges the rate and extent at which the price of an asset moves. If an asset's price fluctuates rapidly within a short time frame, it's termed volatile; if the price rarely changes, it's deemed stable.

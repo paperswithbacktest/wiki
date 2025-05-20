@@ -1,6 +1,8 @@
 ---
-title: "Treynor-Black Model: Overview and Applications (Algo Trading)"
-description: "Explore the Treynor-Black Model's benefits in portfolio management integrating active and passive strategies for optimized returns in today's markets."
+category: quant_concept
+description: Explore the Treynor-Black Model's benefits in portfolio management integrating
+  active and passive strategies for optimized returns in today's markets.
+title: 'Treynor-Black Model: Overview and Applications (Algo Trading)'
 ---
 
 In an era characterized by rapid technological advancement and increasingly complex financial markets, the importance of strategic investment has never been more pronounced for both institutional and individual investors. The Treynor-Black Model emerges as a pivotal framework in navigating this landscape, articulating a sophisticated approach to portfolio management by amalgamating active and passive investment strategies.

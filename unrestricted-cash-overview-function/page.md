@@ -1,6 +1,8 @@
 ---
-title: "Unrestricted Cash: Overview and Function (Algo Trading)"
-description: "Discover how unrestricted cash and cash flow analysis drive financial management and enhance algorithmic trading strategies for improved market engagement."
+category: quant_concept
+description: Discover how unrestricted cash and cash flow analysis drive financial
+  management and enhance algorithmic trading strategies for improved market engagement.
+title: 'Unrestricted Cash: Overview and Function (Algo Trading)'
 ---
 
 The interconnected domains of unrestricted cash, cash flow analysis, financial management, and algorithmic trading are integral components of contemporary financial practices. These elements are critical in shaping a company's ability to maintain liquidity, optimize resource allocation, and effectively engage with financial markets. Unrestricted cash serves as a readily available resource, allowing businesses the flexibility needed to capitalize on investment opportunities and mitigate financial risks.

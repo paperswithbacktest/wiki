@@ -1,6 +1,13 @@
 ---
-title: "Supertrend Indicator: Features and Functionality (Algo Trading)"
-description: "Explore the features and functionality of the Supertrend Indicator, a key tool in algorithmic trading that simplifies market trend analysis for traders. This comprehensive guide discusses its components, calculation methods, and practical applications, highlighting how it can provide clear buy and sell signals. Ideal for both novice and experienced traders, the Supertrend Indicator leverages the Average True Range to dynamically adapt to market volatility, offering strategic advantages in diverse trading scenarios."
+category: trading_strategy
+description: Explore the features and functionality of the Supertrend Indicator, a
+  key tool in algorithmic trading that simplifies market trend analysis for traders.
+  This comprehensive guide discusses its components, calculation methods, and practical
+  applications, highlighting how it can provide clear buy and sell signals. Ideal
+  for both novice and experienced traders, the Supertrend Indicator leverages the
+  Average True Range to dynamically adapt to market volatility, offering strategic
+  advantages in diverse trading scenarios.
+title: 'Supertrend Indicator: Features and Functionality (Algo Trading)'
 ---
 
 In the world of financial markets, traders rely on various tools to make informed decisions. The Supertrend Indicator stands out among the myriad of trading tools for its simplicity and effectiveness. It is a prominent technical analysis tool used in algorithmic trading to identify market trends and assist in decision-making processes. By understanding its components and applications, traders can harness the power of this indicator to make strategic trading decisions.

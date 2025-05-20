@@ -1,6 +1,8 @@
 ---
-title: "Unlisted Trading Privileges (Algo Trading)"
-description: "Discover the role of Unlisted Trading Privileges and algorithmic trading in enhancing financial market accessibility agility and liquidity for unlisted securities."
+category: quant_concept
+description: Discover the role of Unlisted Trading Privileges and algorithmic trading
+  in enhancing financial market accessibility agility and liquidity for unlisted securities.
+title: Unlisted Trading Privileges (Algo Trading)
 ---
 
 Unlisted Trading Privileges (UTP) represent a distinctive facet of the financial markets, allowing for the trading of certain securities on an exchange without the securities being listed on that exchange. This mechanism expands market accessibility and enhances the liquidity of financial instruments that might not meet the rigorous listing criteria of major exchanges. UTP plays a crucial role in facilitating a vibrant and competitive trading environment by enabling various exchanges to offer trading in securities that are listed elsewhere, thereby increasing investor access and market depth.

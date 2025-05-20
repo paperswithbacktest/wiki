@@ -1,6 +1,9 @@
 ---
-title: "Worthless Securities (Algo Trading)"
-description: "Explore key concepts of algorithmic trading and worthless securities in investments Learn about risks strategies and the dynamic nature of financial assets"
+category: quant_concept
+description: Explore key concepts of algorithmic trading and worthless securities
+  in investments Learn about risks strategies and the dynamic nature of financial
+  assets
+title: Worthless Securities (Algo Trading)
 ---
 
 In the complex world of investments, understanding the intricacies and risks associated with financial assets is crucial. Financial markets are dynamic systems influenced by numerous factors, including economic trends, geopolitical events, and technological advancements. Navigating this landscape requires a thorough comprehension of various investment vehicles, such as stocks, bonds, and derivatives, each presenting its unique challenges and opportunities.

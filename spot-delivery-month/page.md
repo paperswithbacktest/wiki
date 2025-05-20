@@ -1,6 +1,9 @@
 ---
-title: "Spot Delivery Month (Algo Trading)"
-description: "Spot delivery in algo trading ensures immediate settlement of contracts, enhancing liquidity and market efficiency. Explore its mechanics and role in the financial ecosystem."
+category: trading_strategy
+description: Spot delivery in algo trading ensures immediate settlement of contracts,
+  enhancing liquidity and market efficiency. Explore its mechanics and role in the
+  financial ecosystem.
+title: Spot Delivery Month (Algo Trading)
 ---
 
 The financial market operates as a complex network where various assets, including equities, bonds, commodities, and currencies, are exchanged through a wide range of contracts. This ecosystem heavily relies on contract settlement, a critical process that ensures the obligations of these agreements are met effectively. In essence, contract settlement is the mechanism by which transactions are finalized, involving the delivery of the traded asset or the equivalent cash value within specified time frames. 

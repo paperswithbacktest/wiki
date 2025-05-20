@@ -1,6 +1,8 @@
 ---
-title: "South African Reserve Bank: Structure, Financials, and Ownership (Algo Trading)"
-description: "Explore the role of the South African Reserve Bank in financial stability, its unique ownership, and the impact of algorithmic trading on global markets."
+category: quant_concept
+description: Explore the role of the South African Reserve Bank in financial stability,
+  its unique ownership, and the impact of algorithmic trading on global markets.
+title: 'South African Reserve Bank: Structure, Financials, and Ownership (Algo Trading)'
 ---
 
 Algorithmic trading, a cornerstone of modern financial markets, employs complex algorithms to automate trading strategies. By processing vast datasets at speeds unattainable by human traders, algorithmic trading facilitates rapid execution of trades, portfolio management, and risk assessment. Its significance is underscored by its ability to enhance market liquidity, improve pricing efficiency, and reduce transaction costs. Notably, algorithmic trading dominates high-frequency trading niches, where minute price shifts are exploited for profit. According to a report by the International Organization of Securities Commissions, algorithmic trading constitutes a significant proportion of trades in major markets, reflecting its transformative impact on global finance [1].

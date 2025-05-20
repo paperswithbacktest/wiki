@@ -1,6 +1,8 @@
 ---
-title: "S&P/Case-Shiller Home Price Indices (Algo Trading)"
-description: "Explore the intersection of S&P Case-Shiller Home Price Indices and algorithmic trading for insights into US real estate trends and investment strategies."
+category: dataset
+description: Explore the intersection of S&P Case-Shiller Home Price Indices and algorithmic
+  trading for insights into US real estate trends and investment strategies.
+title: S&P/Case-Shiller Home Price Indices (Algo Trading)
 ---
 
 The real estate market serves as a dynamic component of the global economy, mirroring broader financial trends and offering a window into overall economic health. This sector exhibits significant impacts on various facets of life, from individual wealth and consumption patterns to broader policy and investment strategies. Home price indices are crucial tools in this domain, providing vital insights into the pricing trends of residential properties over time. Among these, the S&P CoreLogic Case-Shiller Home Price Indices stand out for their comprehensive coverage and reliability in the United States. 

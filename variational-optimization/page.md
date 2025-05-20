@@ -1,7 +1,8 @@
 ---
-title: Understanding Variational Optimization in Machine Learning
+category: quant_concept
 description: Variational Optimization speeds up deep learning by using a simpler distribution
   to approximate parameters and reduce KL divergence Discover more inside.
+title: Understanding Variational Optimization in Machine Learning
 ---
 
 ![Image](images/1.jpeg)

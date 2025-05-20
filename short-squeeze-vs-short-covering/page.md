@@ -1,6 +1,9 @@
 ---
-title: "Short Squeeze vs. Short Covering (Algo Trading)"
-description: "Explore the crucial differences between short squeezes and short covering in algorithmic trading. Learn how these phenomena impact market dynamics and trading strategies."
+category: quant_concept
+description: Explore the crucial differences between short squeezes and short covering
+  in algorithmic trading. Learn how these phenomena impact market dynamics and trading
+  strategies.
+title: Short Squeeze vs. Short Covering (Algo Trading)
 ---
 
 In the complex world of stock markets, the terms "short covering" and "short squeeze" are pivotal for traders and investors who deal with short positions. These phenomena are critical for understanding market dynamics, as they can significantly influence price movements and trading strategies.
@@ -177,4 +180,3 @@ In conclusion, traders must remain adaptive and vigilant in the volatile market 
 8. **Fung, B., & Hsieh, D. A. (2001).** *"The Risk in Hedge Fund Strategies: Theory and Evidence from Trend Followers"*. Offers perspective on how hedge funds might employ trends in short selling and covering to optimize their strategies. (Review of Financial Studies, 14(2), 313-341)
 
 These references provide a foundation for understanding the complexities of short covering and short squeezes, as well as the technological and strategic tools employed in modern trading environments.
-

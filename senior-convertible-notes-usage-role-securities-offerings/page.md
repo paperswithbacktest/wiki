@@ -1,6 +1,9 @@
 ---
-title: "Senior Convertible Notes: Usage and Role in Securities Offerings (Algo Trading)"
-description: "Explore the dual nature of senior convertible notes as a mix of debt and equity providing issuers with strategic financing solutions and investors with potential equity gains."
+category: quant_concept
+description: Explore the dual nature of senior convertible notes as a mix of debt
+  and equity providing issuers with strategic financing solutions and investors with
+  potential equity gains.
+title: 'Senior Convertible Notes: Usage and Role in Securities Offerings (Algo Trading)'
 ---
 
 The world of finance offers a rich tapestry of investment options, each with its own set of characteristics, risks, and rewards. Among these, senior convertible notes represent a distinct category, combining aspects of both debt and equity. These financial instruments provide unique advantages to both issuers and investors, contributing to their popularity in various market conditions.

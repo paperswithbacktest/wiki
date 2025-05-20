@@ -1,6 +1,8 @@
 ---
-title: "Spread Indicator: Functionality and Mechanics (Algo Trading)"
-description: "Explore algorithmic trading's intricacies and learn how market metrics spread indicators and financial analysis can enhance strategic decisions in trading."
+category: quant_concept
+description: Explore algorithmic trading's intricacies and learn how market metrics
+  spread indicators and financial analysis can enhance strategic decisions in trading.
+title: 'Spread Indicator: Functionality and Mechanics (Algo Trading)'
 ---
 
 The world of financial trading is rapidly evolving, with technology playing a central role. Algorithmic trading, or 'algo trading', utilizes computer algorithms to automate trading decisions, offering efficiency and precision. As financial markets become more complex and volatile, understanding the mechanics of algo trading is increasingly crucial for traders aiming to stay competitive.

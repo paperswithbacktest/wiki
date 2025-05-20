@@ -1,6 +1,12 @@
 ---
-title: "What Percentage of Traders Fail? (Algo Trading)"
-description: Discover the challenges and realities in algorithmic trading where a significant percentage of traders incur losses despite advanced technological tools. Gain critical insights into why many algo traders face financial setbacks compared to manual trading. Understand the complexities, market dynamics, and cost factors affecting trading success, helping traders to set realistic goals and develop informed strategies for improved outcomes.
+category: trading_strategy
+description: Discover the challenges and realities in algorithmic trading where a
+  significant percentage of traders incur losses despite advanced technological tools.
+  Gain critical insights into why many algo traders face financial setbacks compared
+  to manual trading. Understand the complexities, market dynamics, and cost factors
+  affecting trading success, helping traders to set realistic goals and develop informed
+  strategies for improved outcomes.
+title: What Percentage of Traders Fail? (Algo Trading)
 ---
 
 Algorithmic trading, commonly referred to as "algo trading," has significantly transformed the financial markets over recent years. This method employs complex algorithms to execute trades at high velocities and frequencies that surpass human capabilities. The appeal of this technology-driven approach lies in its potential to capitalize on market opportunities more efficiently and accurately than manual trading methods. However, an often overlooked aspect is the financial outcome for many participants engaged in algorithmic trading.

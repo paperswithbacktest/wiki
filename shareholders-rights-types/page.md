@@ -1,6 +1,9 @@
 ---
-title: "Shareholders: Rights and Types (Algo Trading)"
-description: "Explore the roles and types of investors and shareholders, understand algorithmic trading's impact on modern markets, and gain insights into corporate governance."
+category: quant_concept
+description: Explore the roles and types of investors and shareholders, understand
+  algorithmic trading's impact on modern markets, and gain insights into corporate
+  governance.
+title: 'Shareholders: Rights and Types (Algo Trading)'
 ---
 
 In today's fast-paced financial market, understanding the roles of investors, shareholders, and stockholders is crucial for anyone looking to venture into trading or finance. These roles form the backbone of financial systems, influencing decision-making processes and driving market trends. This article will explore the nuances distinguishing investors, shareholders, and stockholders, offering a clearer understanding of their respective significance.

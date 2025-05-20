@@ -1,6 +1,8 @@
 ---
-title: "Surplus Spending Units (Algo Trading)"
-description: "Discover how surplus spending units and algorithmic trading shape modern financial markets by efficiently allocating excess funds to drive growth and stability."
+category: quant_concept
+description: Discover how surplus spending units and algorithmic trading shape modern
+  financial markets by efficiently allocating excess funds to drive growth and stability.
+title: Surplus Spending Units (Algo Trading)
 ---
 
 The financial world is rapidly evolving with the integration of advanced technologies and innovative economic concepts. In recent times, terms like 'financial units', 'surplus spending', and 'economic overflow' have increasingly become pivotal in understanding modern financial markets and economic structures. Financial units include individuals, corporations, and even countries with the power to influence economic outcomes by their spending and investment decisions. Surplus spending units, those with excess earnings, provide the capital necessary for economic growth, thereby highlighting the crucial role of these entities in global finance.

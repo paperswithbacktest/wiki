@@ -1,6 +1,8 @@
 ---
-title: "Stock Appreciation Rights (Algo Trading)"
-description: "Explore the synergy between Stock Appreciation Rights and algorithmic trading to optimize equity compensation and align employee and shareholder interests."
+category: quant_concept
+description: Explore the synergy between Stock Appreciation Rights and algorithmic
+  trading to optimize equity compensation and align employee and shareholder interests.
+title: Stock Appreciation Rights (Algo Trading)
 ---
 
 Stock Appreciation Rights (SARs) are a form of equity compensation often employed by companies to reward their employees. Unlike traditional stock options, which give employees an option to purchase company shares at a predetermined price, SARs entitle employees to receive a cash or stock award equivalent to the appreciation in stock value over a set period. The primary purpose of SARs is to align the interests of employees with those of the company shareholders, incentivizing employees to contribute to the company's success by granting a stake in the company's growth, without requiring them to pay an exercise price to gain access to the shares.

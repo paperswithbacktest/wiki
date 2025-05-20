@@ -1,6 +1,8 @@
 ---
-title: "Statement of Financial Accounting Concepts Overview (Algo Trading)"
-description: "Explore how foundational accounting concepts and the Statement of Financial Accounting Concepts (SFAC) intersect with algorithmic trading in modern finance."
+category: quant_concept
+description: Explore how foundational accounting concepts and the Statement of Financial
+  Accounting Concepts (SFAC) intersect with algorithmic trading in modern finance.
+title: Statement of Financial Accounting Concepts Overview (Algo Trading)
 ---
 
 In the rapidly evolving world of finance, understanding fundamental accounting concepts is crucial for professionals seeking to gain a competitive edge. This article explores the intersection of accounting concepts, financial accounting, the Statement of Financial Accounting Concepts (SFAC), and algorithmic trading, highlighting their significance in modern financial practices.

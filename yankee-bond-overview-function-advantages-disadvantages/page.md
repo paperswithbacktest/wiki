@@ -1,6 +1,8 @@
 ---
-title: "Yankee Bond: Overview, Function, Advantages and Disadvantages (Algo Trading)"
-description: "Explore Yankee Bonds and their role in global finance along with the impact of algorithmic trading. Discover benefits, risks, and investment strategies."
+category: quant_concept
+description: Explore Yankee Bonds and their role in global finance along with the
+  impact of algorithmic trading. Discover benefits, risks, and investment strategies.
+title: 'Yankee Bond: Overview, Function, Advantages and Disadvantages (Algo Trading)'
 ---
 
 Yankee Bonds are debt securities issued by foreign entities in the United States and denominated in U.S. dollars. These instruments play a crucial role in the global financial market by providing foreign issuers access to the extensive U.S. capital market. This allows them to tap into a broad investor base, which can be beneficial for both borrowing and diversification. For issuers, Yankee Bonds often offer an opportunity to secure lower interest rates compared to their domestic markets due to the perceived stability and liquidity of the U.S. financial system.

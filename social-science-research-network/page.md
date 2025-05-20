@@ -1,6 +1,12 @@
 ---
-title: "Social Science Research Network (Algo Trading)"
-description: Discover valuable insights into the intersection of social science research and algorithmic trading through SSRN. This platform provides access to research that elucidates the complexities of algorithmic trading, enhancing both academic discourse and real-world trading practices. Explore the role of machine learning and AI in transforming trading systems and stay informed of the latest developments, challenges, and innovations within this compelling domain.
+category: dataset
+description: Discover valuable insights into the intersection of social science research
+  and algorithmic trading through SSRN. This platform provides access to research
+  that elucidates the complexities of algorithmic trading, enhancing both academic
+  discourse and real-world trading practices. Explore the role of machine learning
+  and AI in transforming trading systems and stay informed of the latest developments,
+  challenges, and innovations within this compelling domain.
+title: Social Science Research Network (Algo Trading)
 ---
 
 The intersection of social science research and algorithmic trading is a compelling domain that combines the rigor of data-driven methodologies with the nuanced understanding of human behavior and market dynamics. As algorithmic trading continues to evolve, propelled by advances in machine learning and artificial intelligence, the need for comprehensive academic research becomes ever more critical. The Social Science Research Network (SSRN) stands out as a quintessential resource for scholars and practitioners seeking in-depth studies and papers that elucidate the complexities of algorithmic trading. This repository offers invaluable insights into the mechanisms and strategies that drive modern trading systems.

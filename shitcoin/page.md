@@ -1,6 +1,9 @@
 ---
-title: "Shitcoin (Algo Trading)"
-description: "Explore the intersection of shitcoin volatility and algorithmic trading to gain insights into potential high-risk, high-reward strategies in the dynamic crypto market."
+category: quant_concept
+description: Explore the intersection of shitcoin volatility and algorithmic trading
+  to gain insights into potential high-risk, high-reward strategies in the dynamic
+  crypto market.
+title: Shitcoin (Algo Trading)
 ---
 
 In the cryptocurrency landscape, the term "shitcoin" is informally used to describe digital coins that have little to no value, often lacking a credible purpose or backing technology. Shitcoins are typically issued through initial coin offerings (ICOs) without significant utility or transparent development goals, making them a highly speculative and risky investment. Despite these characteristics, many investors still engage with shitcoins, driven by the lure of substantial short-term gains due to their volatile price fluctuations.

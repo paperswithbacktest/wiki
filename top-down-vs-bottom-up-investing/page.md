@@ -1,6 +1,8 @@
 ---
-title: "Top-Down vs. Bottom-Up Investing (Algo Trading)"
-description: "Explore how top-down and bottom-up investing strategies differ and how algorithmic trading is revolutionizing investment practices for better decision-making."
+category: trading_strategy
+description: Explore how top-down and bottom-up investing strategies differ and how
+  algorithmic trading is revolutionizing investment practices for better decision-making.
+title: Top-Down vs. Bottom-Up Investing (Algo Trading)
 ---
 
 Investing in the financial markets requires a strategic approach to maximize returns while effectively managing risks. Investors have a variety of strategies to consider, each with its own methodology and focus. Two widely adopted techniques are top-down and bottom-up investing. Top-down investing emphasizes a macroeconomic perspective, starting with broader economic indicators to identify promising sectors before narrowing down to individual companies. In contrast, bottom-up investing prioritizes a microeconomic viewpoint, concentrating on the financial health and potential of individual companies regardless of industry trends.

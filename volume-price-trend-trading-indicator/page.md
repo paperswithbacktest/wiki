@@ -1,6 +1,8 @@
 ---
-title: "Volume Price Trend Trading Indicator (Algo Trading)"
-description: "Unlock trading potential with the Volume Price Trend Indicator which combines volume and price data to forecast trends and predict market reversals."
+category: trading_strategy
+description: Unlock trading potential with the Volume Price Trend Indicator which
+  combines volume and price data to forecast trends and predict market reversals.
+title: Volume Price Trend Trading Indicator (Algo Trading)
 ---
 
 In the world of trading, indicators play a crucial role in helping traders make informed decisions. Among these, the Volume Price Trend (VPT) Indicator stands out by blending volume and price data to forecast market trends. The VPT Indicator is designed to provide traders with insights into the balance between a security's demand and supply. This balance is crucial for predicting potential price reversals and comprehending market dynamics.

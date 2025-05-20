@@ -1,6 +1,8 @@
 ---
-title: "Social Choice Theory: Overview and Examples (Algo Trading)"
-description: "Discover how social choice theory and algorithmic trading intersect to enhance decision-making in financial markets through economic models and strategies."
+category: quant_concept
+description: Discover how social choice theory and algorithmic trading intersect to
+  enhance decision-making in financial markets through economic models and strategies.
+title: 'Social Choice Theory: Overview and Examples (Algo Trading)'
 ---
 
 In recent years, the confluence of economic theories and technological advancements has gained unprecedented importance, reshaping how we perceive and interact with financial markets. Core to this transformation are social choice theory, decision-making models, economic models, and algorithmic trading. Social choice theory, initially conceptualized by economist Kenneth Arrow, provides a framework for aggregating individual preferences into collective decisions, thereby offering a lens to view fairness and representation in societal choices.

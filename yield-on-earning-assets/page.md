@@ -1,6 +1,9 @@
 ---
-title: "Yield on Earning Assets (Algo Trading)"
-description: "Explore the synergy between yield financial metrics, earning assets, and algorithmic trading to enhance investment returns through data-driven strategies in finance."
+category: trading_strategy
+description: Explore the synergy between yield financial metrics, earning assets,
+  and algorithmic trading to enhance investment returns through data-driven strategies
+  in finance.
+title: Yield on Earning Assets (Algo Trading)
 ---
 
 The world of finance is evolving rapidly, with various innovative strategies emerging to optimize investment returns. This fast-paced environment has made it essential for investors and financial institutions to leverage key financial metrics, which offer valuable insights into the performance and efficiency of financial assets and strategies. Among these strategies, algorithmic trading has stood out as a revolutionary approach, transforming the way financial metrics are utilized by enabling precise and data-driven decision-making.

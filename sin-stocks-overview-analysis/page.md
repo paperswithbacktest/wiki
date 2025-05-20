@@ -1,6 +1,8 @@
 ---
-title: "Sin Stocks: Overview and Analysis (Algo Trading)"
-description: "Explore the dynamics of sin stocks versus ethical investing and how algorithmic trading influences both, balancing values with financial goals in modern markets."
+category: trading_strategy
+description: Explore the dynamics of sin stocks versus ethical investing and how algorithmic
+  trading influences both, balancing values with financial goals in modern markets.
+title: 'Sin Stocks: Overview and Analysis (Algo Trading)'
 ---
 
 Ethical investing has become increasingly popular as investors aim to align their financial activities with their personal values. This practice involves allocating capital to companies and sectors that demonstrate a commitment to positive social, environmental, and governance practices. Ethical investing is often synonymous with socially responsible investing (SRI) and is guided by Environmental, Social, and Governance (ESG) criteria. Investors focusing on these areas tend to channel funds into sectors such as renewable energy, healthcare, and education, while consciously avoiding industries considered harmful to society or the environment.

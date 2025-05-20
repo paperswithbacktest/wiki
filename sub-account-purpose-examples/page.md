@@ -1,6 +1,8 @@
 ---
-title: "Sub Account: Purpose and Examples (Algo Trading)"
-description: "Explore the integration of sub account accounting with algorithmic trading to enhance financial management by improving transparency and strategic efficiency."
+category: trading_strategy
+description: Explore the integration of sub account accounting with algorithmic trading
+  to enhance financial management by improving transparency and strategic efficiency.
+title: 'Sub Account: Purpose and Examples (Algo Trading)'
 ---
 
 The integration of sub account accounting and algorithmic trading represents a significant advancement in the field of financial management. This fusion brings together the meticulous tracking and organization associated with accounting processes and the speed and precision enabled by algorithmic trading technologies. The combination of these domains offers numerous opportunities for businesses to refine their strategies and optimize financial operations.

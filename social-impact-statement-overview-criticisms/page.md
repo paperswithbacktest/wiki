@@ -1,6 +1,9 @@
 ---
-title: "Social Impact Statement: Overview and Criticisms (Algo Trading)"
-description: "Discover how CSR and social impact statements intersect with algorithmic trading highlighting both the positive impacts and ethical challenges in modern finance."
+category: quant_concept
+description: Discover how CSR and social impact statements intersect with algorithmic
+  trading highlighting both the positive impacts and ethical challenges in modern
+  finance.
+title: 'Social Impact Statement: Overview and Criticisms (Algo Trading)'
 ---
 
 Corporate Social Responsibility (CSR) and social impact statements have undeniably become central components of corporate strategies in today's business environment. CSR focuses on a company's commitment to operating in an economically, socially, and environmentally sustainable manner while acknowledging the interests of stakeholders. It encourages organizations to take responsibility for the impacts of their activities on employees, customers, communities, and the environment. Social impact statements, on the other hand, provide transparency to these commitments, acting as tangible documents that communicate a company's efforts and outcomes in addressing social and environmental challenges. They offer a structured way for companies to showcase their contributions to societal welfare, helping build trust with stakeholders and promoting a positive public image. 
@@ -147,4 +150,3 @@ Through responsible business strategies, the financial sector, including algorit
 10. Fisher, C. (2013). Business Ethics and Values: Individual, Corporate and International Perspectives. Pearson Education. This book provides an in-depth analysis of ethics within corporate strategy, relevant to algo trading and CSR.
 
 Each of these resources can offer diverse perspectives and further elaborate on the intersections of CSR, social impact assessments, and algorithmic trading.
-

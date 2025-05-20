@@ -1,6 +1,8 @@
 ---
-title: "Stock Fundamentals (Algo Trading)"
-description: "Explore stock market insights by understanding financial metrics and investment fundamentals and how algorithmic trading impacts investment strategies."
+category: quant_concept
+description: Explore stock market insights by understanding financial metrics and
+  investment fundamentals and how algorithmic trading impacts investment strategies.
+title: Stock Fundamentals (Algo Trading)
 ---
 
 Understanding the stock market requires a comprehensive understanding of financial metrics, investment fundamentals, and the role of algorithmic trading. Financial metrics serve as the foundation for evaluating a company's financial health and growth prospects, guiding investors in stock analysis. These metrics, such as earnings per share (EPS) and the price-to-earnings (P/E) ratio, help identify valuable investment opportunities by offering insights into profitability and efficiency.

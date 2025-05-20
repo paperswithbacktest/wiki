@@ -1,6 +1,9 @@
 ---
-title: "USD Short Positions in Currency Trading (Algo Trading)"
-description: "Explore the integration of USD short strategies with forex algo trading for enhanced efficiency and precision, uncovering unique opportunities in currency markets."
+category: trading_strategy
+description: Explore the integration of USD short strategies with forex algo trading
+  for enhanced efficiency and precision, uncovering unique opportunities in currency
+  markets.
+title: USD Short Positions in Currency Trading (Algo Trading)
 ---
 
 Foreign exchange currency trading, commonly referred to as forex trading, is the act of buying and selling currencies within a highly dynamic, global marketplace that remains decentralized and functions continuously, 24 hours a day. This vast market, where currencies are priced relative to one another, plays a crucial role in global economics by determining exchange rates and enabling international trade and investment.

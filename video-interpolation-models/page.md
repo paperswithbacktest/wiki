@@ -1,7 +1,8 @@
 ---
-title: Understanding Video Interpolation and FLAVR Deep Learning Models
+category: quant_concept
 description: Video interpolation creates smooth intermediate frames with deep learning
   models like FLAVR to refine motion and enhance video quality Discover more inside
+title: Understanding Video Interpolation and FLAVR Deep Learning Models
 ---
 
 ![Image](images/1.png)

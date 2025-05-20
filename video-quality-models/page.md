@@ -1,7 +1,8 @@
 ---
-title: Video Quality Models in Machine Learning Explained Clearly
+category: quant_concept
 description: Video Quality Model tools measure and predict video clarity motion smoothness
   and distortions using metrics like PSNR SSIM and VMAF Discover more inside
+title: Video Quality Models in Machine Learning Explained Clearly
 ---
 
 ![Image](images/1.png)

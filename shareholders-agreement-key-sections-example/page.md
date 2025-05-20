@@ -1,6 +1,8 @@
 ---
-title: "Shareholders' Agreement: Key Sections and Example (Algo Trading)"
-description: "Explore the critical components of shareholders' agreements in the context of corporate governance and algorithmic trading for stable business operations."
+category: quant_concept
+description: Explore the critical components of shareholders' agreements in the context
+  of corporate governance and algorithmic trading for stable business operations.
+title: 'Shareholders'' Agreement: Key Sections and Example (Algo Trading)'
 ---
 
 In the intricate world of business, ensuring smooth operations and safeguarding stakeholders' interests are paramount. This dynamic environment necessitates a blend of financial solutions, legal agreements, and cutting-edge technologies. Understanding the key components that contribute to this endeavor is essential for navigating the complexities of modern business.

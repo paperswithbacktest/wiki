@@ -1,6 +1,8 @@
 ---
-title: "Trillion Cubic Feet: Definition and Applications (Algo Trading)"
-description: "Discover the crucial role of Trillion Cubic Feet in natural gas trading and algorithmic strategies Explore Tcf's significance in global energy markets"
+category: quant_concept
+description: Discover the crucial role of Trillion Cubic Feet in natural gas trading
+  and algorithmic strategies Explore Tcf's significance in global energy markets
+title: 'Trillion Cubic Feet: Definition and Applications (Algo Trading)'
 ---
 
 Natural gas plays a crucial role in the global energy landscape as it is recognized for its efficiency, cost-effectiveness, and relatively lower carbon emissions compared to other fossil fuels. As an essential component of the global energy mix, natural gas fuels power generation, industrial processes, and residential heating, making it a key player in energy security and economic stability [1]. The measurement and trade of natural gas are pivotal as they influence market dynamics, pricing, and strategic planning across various economic sectors.

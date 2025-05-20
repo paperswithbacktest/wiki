@@ -1,7 +1,8 @@
 ---
-title: Wide Models in Machine Learning Concepts and Applications
+category: quant_concept
 description: Wide Models leverage extensive feature interactions to capture specific
   patterns and improve recommendation and prediction accuracy Discover more inside.
+title: Wide Models in Machine Learning Concepts and Applications
 ---
 
 ![Image](images/1.png)

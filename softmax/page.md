@@ -1,7 +1,8 @@
 ---
-title: Understanding the Softmax Function in Machine Learning
+category: quant_concept
 description: Softmax Function converts model scores into probabilities that sum to
   one for reliable classification with numerical stability. Discover more inside.
+title: Understanding the Softmax Function in Machine Learning
 ---
 
 ![Image](images/1.png)

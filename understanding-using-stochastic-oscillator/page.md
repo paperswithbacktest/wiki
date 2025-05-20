@@ -1,6 +1,8 @@
 ---
-title: "Understanding and Using a Stochastic Oscillator (Algo Trading)"
-description: "Explore the stochastic oscillator's role in algorithmic trading to identify market trends and reversals Learn calculation methods and practical trading insights"
+category: trading_strategy
+description: Explore the stochastic oscillator's role in algorithmic trading to identify
+  market trends and reversals Learn calculation methods and practical trading insights
+title: Understanding and Using a Stochastic Oscillator (Algo Trading)
 ---
 
 The world of trading is vast and complex, comprising a multitude of tools and strategies designed to enhance decision-making and optimize outcomes in financial markets. Among these numerous tools, the stochastic oscillator is a prominent momentum indicator, widely recognized for its capacity to anticipate potential market reversals. Developed by George C. Lane in the 1950s, the stochastic oscillator remains a favorite among traders due to its ability to signal overbought and oversold conditions, which can indicate probable points of reversal in a market's trend.

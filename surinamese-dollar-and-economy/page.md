@@ -1,6 +1,8 @@
 ---
-title: "Surinamese Dollar and Economy (Algo Trading)"
-description: "Explore the impact of the Surinamese Dollar on Suriname's economy and the potential of algorithmic trading to enhance market efficiency and attract investments."
+category: quant_concept
+description: Explore the impact of the Surinamese Dollar on Suriname's economy and
+  the potential of algorithmic trading to enhance market efficiency and attract investments.
+title: Surinamese Dollar and Economy (Algo Trading)
 ---
 
 The global economy is continuously evolving, shaped by fluctuating currencies and dynamic financial markets. In this complex landscape, Suriname emerges as a small yet economically significant nation in South America, equipped with its own distinct currency, the Suriname Dollar (SRD). The SRD plays a vital role in the Surinamese economy, influencing not only domestic transactions but also international trade dynamics. To understand Suriname's economic milieu, it is crucial to analyze the SRD's interaction with the country's economic policies and international market conditions.

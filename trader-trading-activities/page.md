@@ -1,6 +1,8 @@
 ---
-title: "Trader and Trading Activities (Algo Trading)"
-description: "Explore the role of traders in financial markets and the rise of algorithmic trading. Understand how algo trading optimizes strategies for automated efficiency."
+category: trading_strategy
+description: Explore the role of traders in financial markets and the rise of algorithmic
+  trading. Understand how algo trading optimizes strategies for automated efficiency.
+title: Trader and Trading Activities (Algo Trading)
 ---
 
 Financial markets are complex systems where assets are bought and sold, facilitating the transfer of funds between investors and institutions. These markets play a crucial role in allocating resources in an economy, determining prices for securities, and enabling companies to raise capital. There are several types of financial markets including stock markets, bond markets, forex markets, and commodities markets, each serving distinct purposes and catering to different types of assets.

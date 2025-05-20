@@ -1,9 +1,12 @@
 ---
-title: "Value at Risk (VaR) in Python and Algo Trading"
-description: Discover the essential role of Value at Risk (VaR) in modern finance and its calculation methods through Python. Learn about VaR's benefits, limitations, and the importance of using Conditional VaR for more accurate risk assessment. Explore the Variance-Covariance method for calculating VaR and deep dive deeper into its applications and implications.
+category: quant_concept
+description: Discover the essential role of Value at Risk (VaR) in modern finance
+  and its calculation methods through Python. Learn about VaR's benefits, limitations,
+  and the importance of using Conditional VaR for more accurate risk assessment. Explore
+  the Variance-Covariance method for calculating VaR and deep dive deeper into its
+  applications and implications.
+title: Value at Risk (VaR) in Python and Algo Trading
 ---
-
-
 
 Financial markets are characterized by swift movements. Understanding and quantifying potential losses is imperative. Enter Value at Risk (VaR) – a statistical measure designed to predict the maximum potential loss an investment portfolio might face for a given confidence interval under normal market conditions.
 

@@ -1,6 +1,8 @@
 ---
-title: "Unamortized Bond Premium (Algo Trading)"
-description: "Explore the impact of unamortized bond premiums on investment strategies and financial reporting. Learn about its role in modern algorithmic trading."
+category: quant_concept
+description: Explore the impact of unamortized bond premiums on investment strategies
+  and financial reporting. Learn about its role in modern algorithmic trading.
+title: Unamortized Bond Premium (Algo Trading)
 ---
 
 Understanding bond premium is crucial for investors and financial professionals because it significantly influences investment strategies, taxation compliance, and financial reporting accuracy. A bond premium occurs when a bond's purchase price exceeds its face value, typically due to market interest rates falling below the bond’s coupon rate. Consequently, bondholders pay this premium in exchange for the higher yield offered by the existing bond compared to newly issued bonds at lower rates.

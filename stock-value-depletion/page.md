@@ -1,6 +1,8 @@
 ---
-title: "Stock Value Depletion (Algo Trading)"
-description: "Explore components of financial loss and investment risk types in algo trading. Understand stock value determinants and strategies for managing risks effectively."
+category: trading_strategy
+description: Explore components of financial loss and investment risk types in algo
+  trading. Understand stock value determinants and strategies for managing risks effectively.
+title: Stock Value Depletion (Algo Trading)
 ---
 
 In the fast-paced world of finance, investors are always on the lookout for opportunities that maximize returns while minimizing risk. Financial markets operate under complex and dynamic conditions where both opportunities and threats present themselves, often simultaneously. One of the fundamental truths of investing is the inevitability of financial loss. This occurs when an asset's market value declines, resulting in a loss when the asset is sold for less than its purchase price.

@@ -1,6 +1,9 @@
 ---
-title: "Stock Ahead: Definition and Functionality (Algo Trading)"
-description: "Explore the integration of algorithmic trading in supply chains for enhanced efficiency and predictability Discover the benefits of applying algo trading in logistics"
+category: quant_concept
+description: Explore the integration of algorithmic trading in supply chains for enhanced
+  efficiency and predictability Discover the benefits of applying algo trading in
+  logistics
+title: 'Stock Ahead: Definition and Functionality (Algo Trading)'
 ---
 
 The rapidly transforming landscape of global trade necessitates advanced solutions to manage the intricate complexities inherent in supply chain logistics. As businesses operate in increasingly competitive environments, leveraging technology becomes crucial to maintaining an edge in operational efficiency. One such technological advancement making significant strides in enhancing efficiency and predictability in stock operations is algorithmic trading, commonly known as algo trading.

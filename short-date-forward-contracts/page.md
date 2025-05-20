@@ -1,6 +1,9 @@
 ---
-title: "Short Date Forward Contracts (Algo Trading)"
-description: "Explore short date forward contracts and their integration with algorithmic trading Learn how these financial instruments enhance market efficiency and risk management"
+category: trading_strategy
+description: Explore short date forward contracts and their integration with algorithmic
+  trading Learn how these financial instruments enhance market efficiency and risk
+  management
+title: Short Date Forward Contracts (Algo Trading)
 ---
 
 Financial markets are integral components of the global economy, facilitating the exchange of capital, credit, and investment opportunities among participants. They provide platforms where securities, commodities, and financial instruments are traded, enabling the allocation of resources, risk management, and price determination across different economies. These markets underpin economic growth by providing companies the ability to raise capital and offering investors opportunities to gain returns on their investments.

@@ -1,6 +1,8 @@
 ---
-title: "Usury Laws and Regulations (Algo Trading)"
-description: "Explore the interplay of usury laws, interest rates, and algorithmic trading. Understand how regulations protect borrowers while affecting trading strategies."
+category: quant_concept
+description: Explore the interplay of usury laws, interest rates, and algorithmic
+  trading. Understand how regulations protect borrowers while affecting trading strategies.
+title: Usury Laws and Regulations (Algo Trading)
 ---
 
 Usury lending laws have historically been significant in shaping the frameworks of lending and borrowing within financial systems. These laws establish a legal ceiling on the interest rates lenders can charge, aiming to protect borrowers from predatory lending practices and ensuring that interest rates remain within reasonable bounds. Historically, usury laws date back to ancient civilizations, where excessive interest was deemed morally and ethically wrong, and they have evolved alongside economic systems to maintain consumer protection and fairness in financial transactions.

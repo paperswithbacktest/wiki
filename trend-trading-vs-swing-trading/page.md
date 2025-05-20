@@ -1,6 +1,8 @@
 ---
-title: "Trend Trading vs. Swing Trading (Algo Trading)"
-description: "Explore the key differences between swing trading and trend trading in algorithmic trading to optimize your financial strategies and maximize market opportunities."
+category: trading_strategy
+description: Explore the key differences between swing trading and trend trading in
+  algorithmic trading to optimize your financial strategies and maximize market opportunities.
+title: Trend Trading vs. Swing Trading (Algo Trading)
 ---
 
 In financial markets, traders employ various strategies to capitalize on market movements. Among the myriad of approaches, three popular trading strategies stand out: swing trading, trend trading, and algorithmic (algo) trading. Each of these strategies is distinct, offering unique advantages and demanding different skills and tools from the trader.

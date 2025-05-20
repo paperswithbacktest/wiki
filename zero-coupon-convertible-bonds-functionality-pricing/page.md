@@ -1,6 +1,8 @@
 ---
-title: "Zero-Coupon Convertible Bonds: Functionality and Pricing (Algo Trading)"
-description: "Explore zero-coupon convertible bonds and their pricing in algorithmic trading. Uncover their hybrid nature, complexities, and investment opportunities."
+category: quant_concept
+description: Explore zero-coupon convertible bonds and their pricing in algorithmic
+  trading. Uncover their hybrid nature, complexities, and investment opportunities.
+title: 'Zero-Coupon Convertible Bonds: Functionality and Pricing (Algo Trading)'
 ---
 
 Convertible bonds are financial instruments that possess characteristics of both debt and equity, making them a popular choice for investors seeking fixed income security alongside potential equity gains. Essentially, they serve as bonds with an embedded option, allowing the holder to convert the bond into a predetermined number of shares of the issuer's common stock. Convertible bonds thus provide the dual benefit of income generation from bond coupons and the flexibility to convert into equities should the issuer's stock performance prove favorable.

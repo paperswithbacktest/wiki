@@ -1,6 +1,11 @@
 ---
-title: "Wealth Effect in Economics (Algo Trading)"
-description: "Explore the intricate relationship between consumer behavior, the wealth effect, and algorithmic trading in the economic landscape. Learn how changes in asset values influence consumer spending and confidence, while algorithmic trading reshapes market dynamics. Discover the impact of these elements on economic stability and growth crucial for policymakers and investors navigating today's market trends."
+category: quant_concept
+description: Explore the intricate relationship between consumer behavior, the wealth
+  effect, and algorithmic trading in the economic landscape. Learn how changes in
+  asset values influence consumer spending and confidence, while algorithmic trading
+  reshapes market dynamics. Discover the impact of these elements on economic stability
+  and growth crucial for policymakers and investors navigating today's market trends.
+title: Wealth Effect in Economics (Algo Trading)
 ---
 
 The intersection of consumer behavior, the wealth effect, and algorithmic trading creates a complex landscape in the modern economic environment. Consumer behavior is significantly swayed by variations in asset values, a shift that often results in a phenomenon known as the wealth effect. This concept suggests that as the value of an individual's assets, whether real estate, stocks, or other investments, increases, so too does their propensity to spend more. This perceived augmentation in wealth often leads to enhanced consumer confidence and escalated spending patterns, even when disposable income remains static.

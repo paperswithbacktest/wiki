@@ -1,6 +1,9 @@
 ---
-title: "Sub-Sovereign Obligation (Algo Trading)"
-description: "Explore municipal bonds and the impact of algorithmic trading on local government finance. Understand risks, advantages, and strategic significance of sub-sovereign debt."
+category: trading_strategy
+description: Explore municipal bonds and the impact of algorithmic trading on local
+  government finance. Understand risks, advantages, and strategic significance of
+  sub-sovereign debt.
+title: Sub-Sovereign Obligation (Algo Trading)
 ---
 
 Municipal bonds, commonly referred to as 'munis,' are debt securities issued by local governments, such as states, cities, or counties, to raise funds for public projects. These projects often include initiatives aimed at improving infrastructure, public schools, and various community services. Owing to their tax-exempt status, municipal bonds generally appeal to investors seeking relatively low-risk investments with favorable tax implications.

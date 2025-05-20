@@ -1,8 +1,9 @@
 ---
-title: Subsampling Techniques in Machine Learning for Efficient Training
+category: quant_concept
 description: Subsampling in machine learning accelerates model training by selecting
   representative data subsets and balancing classes to reduce overfitting Discover
   more inside.
+title: Subsampling Techniques in Machine Learning for Efficient Training
 ---
 
 ![Image](images/1.gif)

@@ -1,6 +1,9 @@
 ---
-title: "Weighted Alpha: Significance and Calculation (Algo Trading)"
-description: "Weighted alpha provides critical insight into securities' performance by emphasizing recent price movements making it invaluable for algorithmic traders seeking short-term gains."
+category: quant_concept
+description: Weighted alpha provides critical insight into securities' performance
+  by emphasizing recent price movements making it invaluable for algorithmic traders
+  seeking short-term gains.
+title: 'Weighted Alpha: Significance and Calculation (Algo Trading)'
 ---
 
 Weighted alpha is a critical concept in financial analysis and algorithmic trading, serving as a tool to assess a security's performance. It emphasizes recent price movements, thereby offering a more timely evaluation than traditional metrics. This characteristic makes it especially valuable for traders and investors who seek to understand market trends and make informed trading decisions.

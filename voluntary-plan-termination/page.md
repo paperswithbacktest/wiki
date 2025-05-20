@@ -1,6 +1,9 @@
 ---
-title: "Voluntary Plan Termination (Algo Trading)"
-description: "Explore the complexities of retirement plan terminations and the impact of algorithmic trading on investments. Discover strategies to navigate financial change."
+category: quant_concept
+description: Explore the complexities of retirement plan terminations and the impact
+  of algorithmic trading on investments. Discover strategies to navigate financial
+  change.
+title: Voluntary Plan Termination (Algo Trading)
 ---
 
 In today's fast-paced financial environment, individuals and businesses must remain aware of the various factors affecting their financial planning and investment strategies. Among these factors, retirement planning has emerged as a fundamental aspect of personal finance management. With an increasing focus on securing financial stability during post-employment years, comprehending the potential implications of retirement plan shutdowns and terminations is crucial.

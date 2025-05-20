@@ -1,6 +1,9 @@
 ---
-title: "Utility Function: Examples and Calculations (Algo Trading)"
-description: "Explore the role of utility functions in economic theory and algorithmic trading Learn how they measure satisfaction optimize portfolios and predict consumer behavior"
+category: quant_concept
+description: Explore the role of utility functions in economic theory and algorithmic
+  trading Learn how they measure satisfaction optimize portfolios and predict consumer
+  behavior
+title: 'Utility Function: Examples and Calculations (Algo Trading)'
 ---
 
 Utility functions are a fundamental concept in economic theory, serving as a quantitative measure of consumer satisfaction derived from the consumption of goods and services. These functions represent consumer preferences and allow economists to analyze choice behavior under various constraints. Mathematically, a utility function assigns a numerical value to different bundles of goods, reflecting the level of satisfaction or happiness a consumer derives from each bundle. The higher the utility, the greater the consumer's satisfaction.

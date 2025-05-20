@@ -1,8 +1,9 @@
 ---
-title: Fundamentals of Tensors in Machine Learning and Deep Learning
+category: quant_concept
 description: Tensors in machine learning efficiently handle complex data structures
   and speed up model computations with operations like convolution and gradient descent
   Discover more inside
+title: Fundamentals of Tensors in Machine Learning and Deep Learning
 ---
 
 ![Image](images/1.jpeg)

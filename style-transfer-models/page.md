@@ -1,7 +1,8 @@
 ---
-title: Understanding LapStyle Style Transfer Models for Sharp Details
+category: quant_concept
 description: Style transfer with LapStyle uses Laplacian pyramids to blend content
   and style for sharp detailed images in neural networks Discover more inside
+title: Understanding LapStyle Style Transfer Models for Sharp Details
 ---
 
 ![Image](images/1.jpeg)

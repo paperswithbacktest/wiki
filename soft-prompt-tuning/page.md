@@ -1,7 +1,8 @@
 ---
-title: Soft Prompt Tuning for Efficient Language Model Adaptation
+category: quant_concept
 description: Soft Prompt Tuning optimizes language models by adjusting input vectors
   to boost task performance with minimal compute resources Discover more inside.
+title: Soft Prompt Tuning for Efficient Language Model Adaptation
 ---
 
 ![Image](images/1.jpeg)

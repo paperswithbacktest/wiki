@@ -1,6 +1,14 @@
 ---
-title: "Swing Trading Strategies Explained (Algo Trading)"
-description: Discover the key aspects of swing trading strategies in the context of algorithmic trading. This page outlines how swing trading captures short- to medium-term price movements by leveraging market volatility. Learn how algorithmic trading enhances this approach by providing speed, efficiency, and reduced emotional biases, enabling traders to make swift and rational decisions. With a focus on selecting suitable strategies, this resource helps traders optimize their performance and achieve financial goals. Explore the synergy between swing and algorithmic trading for effective market participation.
+category: trading_strategy
+description: Discover the key aspects of swing trading strategies in the context of
+  algorithmic trading. This page outlines how swing trading captures short- to medium-term
+  price movements by leveraging market volatility. Learn how algorithmic trading enhances
+  this approach by providing speed, efficiency, and reduced emotional biases, enabling
+  traders to make swift and rational decisions. With a focus on selecting suitable
+  strategies, this resource helps traders optimize their performance and achieve financial
+  goals. Explore the synergy between swing and algorithmic trading for effective market
+  participation.
+title: Swing Trading Strategies Explained (Algo Trading)
 ---
 
 Swing trading is a prominent approach in financial markets that focuses on capturing price movements over short- to medium-term periods. It distinguishes itself from other trading styles, such as day trading and position trading, by holding stocks or commodities for several days or weeks. This strategy capitalizes on market volatility, seeking to profit from upward and downward price 'swings' driven by supply and demand dynamics.

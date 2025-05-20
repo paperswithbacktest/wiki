@@ -1,6 +1,8 @@
 ---
-title: "Stochastic Volatility: Description and Functionality (Algo Trading)"
-description: "Explore the role of stochastic volatility in quantitative finance and algorithmic trading Discover key models like Heston GARCH and SABR and their applications"
+category: quant_concept
+description: Explore the role of stochastic volatility in quantitative finance and
+  algorithmic trading Discover key models like Heston GARCH and SABR and their applications
+title: 'Stochastic Volatility: Description and Functionality (Algo Trading)'
 ---
 
 Volatility modeling plays a pivotal role in quantitative finance, particularly concerning stochastic volatility and algorithmic trading. In financial markets, volatility is not merely a measure of risk; it is a dynamic factor that influences pricing, trading strategies, and risk management processes. Understanding the nuanced behavior of volatility allows traders, portfolio managers, and quantitative analysts (quants) to craft sophisticated trading strategies that account for changing market dynamics.

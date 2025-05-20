@@ -1,6 +1,8 @@
 ---
-title: "Share Volume and Stock Liquidity (Algo Trading)"
-description: "Explore stock liquidity and share volume in algo trading Discover how these dynamics enhance market efficiency and inform smarter investment strategies"
+category: quant_concept
+description: Explore stock liquidity and share volume in algo trading Discover how
+  these dynamics enhance market efficiency and inform smarter investment strategies
+title: Share Volume and Stock Liquidity (Algo Trading)
 ---
 
 The dynamics of the stock market are shaped by various factors, one of them being stock liquidity. Stock liquidity is crucial for investors as it determines how easily they can buy or sell shares without affecting the stock’s price. This article explores the interconnected themes of stock liquidity, share volume, market trading, and algorithmic trading, providing insights into how these elements contribute to an efficient marketplace.

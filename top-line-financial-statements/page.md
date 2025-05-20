@@ -1,6 +1,8 @@
 ---
-title: "Top Line in Financial Statements (Algo Trading)"
-description: "Discover key financial concepts such as financial statements and algorithmic trading to enhance trading strategies and make informed investment decisions."
+category: quant_concept
+description: Discover key financial concepts such as financial statements and algorithmic
+  trading to enhance trading strategies and make informed investment decisions.
+title: Top Line in Financial Statements (Algo Trading)
 ---
 
 The financial world is intricate, and understanding its core components such as financial statements, financial metrics, the top line, and algorithmic trading is crucial for making informed decisions. These elements form the backbone of strategic financial analysis and trading, enabling investors and traders to decode the complexities of market dynamics.
@@ -257,4 +259,3 @@ print(data[['Date', 'Close', 'SMA_50', 'SMA_200', 'Signal', 'Position']])
 Stay informed with financial news and market analyses provided by established outlets like Bloomberg, Reuters, or The Wall Street Journal. These sources deliver timely updates on market trends, economic policies, and other factors affecting financial markets.
 
 Finally, cultivating an inquisitive approach towards learning is crucial for thriving in fast-paced markets. Engaging actively with forums such as Stack Exchange or Reddit’s trading communities can offer anecdotal insights and practical tips from seasoned traders, enhancing one's ability to respond to evolving market conditions effectively.
-

@@ -1,6 +1,9 @@
 ---
-title: "Turnover Ratio: Explanation and Importance (Algo Trading)"
-description: "Explore the significance of turnover ratios in algorithmic trading and financial analysis Learn how these metrics assess asset efficiency and strategic decision-making"
+category: quant_concept
+description: Explore the significance of turnover ratios in algorithmic trading and
+  financial analysis Learn how these metrics assess asset efficiency and strategic
+  decision-making
+title: 'Turnover Ratio: Explanation and Importance (Algo Trading)'
 ---
 
 In today's fast-paced financial world, understanding key performance indicators is crucial for businesses looking to maintain a competitive edge. Business metrics, financial analysis, turnover ratios, and algorithmic trading are all integral components in the toolkit of modern financial analysts. These elements are essential for assessing a company's financial health and operational efficiency, providing a structured approach to navigating complex market environments.

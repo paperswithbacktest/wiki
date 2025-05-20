@@ -1,6 +1,9 @@
 ---
-title: "Technology Bubble: Overview and Examples (Algo Trading)"
-description: "Explore technology bubbles through historical examples like the Dotcom Bubble and Bitcoin Bubble Learn how algorithmic trading influences these economic phenomena"
+category: quant_concept
+description: Explore technology bubbles through historical examples like the Dotcom
+  Bubble and Bitcoin Bubble Learn how algorithmic trading influences these economic
+  phenomena
+title: 'Technology Bubble: Overview and Examples (Algo Trading)'
 ---
 
 In the modern economic landscape, grasping the intricacies of economic and technology bubbles is essential for investors, analysts, and policymakers. Economic bubbles are marked by swift surges in asset prices, eventually followed by sharp contractions, which can have significant global repercussions on markets and economies. Technology bubbles, in particular, display distinct characteristics attributable to the rapid pace of innovation and market speculation. This article explores various facets of these bubbles, utilizing historical examples to underscore key characteristics and warning signs. Additionally, it highlights the role of algorithmic trading, an increasingly influential factor in these market phenomena.

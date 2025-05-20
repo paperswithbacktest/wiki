@@ -1,6 +1,9 @@
 ---
-title: "Vanilla Strategy: Overview and Functionality with Example (Algo Trading)"
-description: "Explore the simplicity and reliability of vanilla strategies in business and algorithmic trading. Learn their benefits and limitations in dynamic market conditions."
+category: trading_strategy
+description: Explore the simplicity and reliability of vanilla strategies in business
+  and algorithmic trading. Learn their benefits and limitations in dynamic market
+  conditions.
+title: 'Vanilla Strategy: Overview and Functionality with Example (Algo Trading)'
 ---
 
 Understanding the competitive landscape of business strategies is essential to any informed investor or business manager. In both business and trading, the concept of a 'vanilla strategy' embodies straightforward and simplistic approaches that eschew complexity for clarity and manageability. This article will explore how vanilla strategies operate across the domains of business, market analysis, and algorithmic trading, highlighting their effectiveness and limitations within various market contexts.

@@ -1,6 +1,8 @@
 ---
-title: "Senior Note Bonds: Definition and Functionality (Algo Trading)"
-description: "Discover the intricacies of senior note bonds and their role in financial markets with algorithmic trading Learn about their priority status risk and returns"
+category: quant_concept
+description: Discover the intricacies of senior note bonds and their role in financial
+  markets with algorithmic trading Learn about their priority status risk and returns
+title: 'Senior Note Bonds: Definition and Functionality (Algo Trading)'
 ---
 
 Bonds are a fundamental component of the financial markets, serving as one of the primary fixed-income securities that offer investors regular interest payments over a specified period. This function of bonds is critical for both individual and institutional investors who seek stable and predictable returns as part of a diversified investment portfolio. The significance of bonds lies not only in their historical role as a tool for capital preservation but also in their capacity to generate income, especially in times of economic uncertainty.

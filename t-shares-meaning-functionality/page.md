@@ -1,6 +1,8 @@
 ---
-title: "T Shares: Meaning and Functionality (Algo Trading)"
-description: "Explore T Shares and algorithmic trading innovations transforming finance through cost efficiency and speed Discover how to navigate these key developments"
+category: quant_concept
+description: Explore T Shares and algorithmic trading innovations transforming finance
+  through cost efficiency and speed Discover how to navigate these key developments
+title: 'T Shares: Meaning and Functionality (Algo Trading)'
 ---
 
 The world of finance is continuously evolving, driven significantly by advancements in technology that reshape traditional investment strategies. Two concepts, T Shares and algorithmic trading, stand out as key drivers in this transformation, influencing both investors and financial markets. This article provides an in-depth exploration of these two facets, aiming to equip investors with the insights needed for more informed decision-making in a dynamic financial environment.

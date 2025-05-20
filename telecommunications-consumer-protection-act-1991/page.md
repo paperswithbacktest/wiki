@@ -1,6 +1,9 @@
 ---
-title: "Telecommunications Consumer Protection Act of 1991 (Algo Trading)"
-description: "Explore the impact of the Telecommunications Consumer Protection Act of 1991 on telemarketing and its intersection with modern challenges like algorithmic trading."
+category: quant_concept
+description: Explore the impact of the Telecommunications Consumer Protection Act
+  of 1991 on telemarketing and its intersection with modern challenges like algorithmic
+  trading.
+title: Telecommunications Consumer Protection Act of 1991 (Algo Trading)
 ---
 
 The rapid development of telecommunication and digital services has significantly increased the demand for consumer protection laws that can effectively address new challenges. Since its inception, the Telecommunications Consumer Protection Act (TCPA) of 1991 has served as a fundamental legal framework dedicated to protecting consumer rights by regulating telemarketing practices. This legislation emerged as a response to growing consumer frustrations over invasive telemarketing calls and spam, aiming to restore consumer privacy and control over personal communications.

@@ -1,6 +1,9 @@
 ---
-title: "Short Selling: Rules and Strategies (Algo Trading)"
-description: "Explore the intricacies of short selling and algorithmic trading to enhance portfolio performance. Learn strategies to mitigate risks and maximize returns in dynamic markets."
+category: trading_strategy
+description: Explore the intricacies of short selling and algorithmic trading to enhance
+  portfolio performance. Learn strategies to mitigate risks and maximize returns in
+  dynamic markets.
+title: 'Short Selling: Rules and Strategies (Algo Trading)'
 ---
 
 In the fast-paced world of financial markets, investors constantly seek ways to maximize returns and manage risks. The complexity and unpredictability inherent in these markets have led to the development and adoption of sophisticated investment strategies, notably short selling and algorithmic trading. Short selling allows investors to capitalize on declining stock prices by borrowing shares and selling them, with the expectation of repurchasing them at a lower price. Meanwhile, algorithmic trading leverages computer algorithms to execute trades based on predefined criteria, providing speed and efficiency unmatched by traditional trading methods.

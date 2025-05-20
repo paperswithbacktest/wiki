@@ -1,6 +1,13 @@
 ---
-title: "Web Data Alternative Data (Algo Trading)"
-description: Explore the transformative potential of web data in algorithmic trading strategies as it offers real-time insights from online interactions such as social media and ecommerce trends. Uncover how alternative data—encompassing unconventional information like web traffic and social media sentiment—provides competitive advantages by revealing emerging market movements. Discover methodologies for leveraging web data effectively to enhance decision-making and achieve superior financial performance in increasingly competitive markets.
+category: dataset
+description: Explore the transformative potential of web data in algorithmic trading
+  strategies as it offers real-time insights from online interactions such as social
+  media and ecommerce trends. Uncover how alternative data—encompassing unconventional
+  information like web traffic and social media sentiment—provides competitive advantages
+  by revealing emerging market movements. Discover methodologies for leveraging web
+  data effectively to enhance decision-making and achieve superior financial performance
+  in increasingly competitive markets.
+title: Web Data Alternative Data (Algo Trading)
 ---
 
 Algorithmic trading has revolutionized financial markets by allowing traders to execute vast numbers of orders at speeds and frequencies unattainable by human hands. This shift towards automation not only reduces transaction costs but also enhances market efficiency through rapid information assimilation and response. 

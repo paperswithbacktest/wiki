@@ -1,6 +1,8 @@
 ---
-title: "Tokenized Equity and Stock: Mechanisms and Examples (Algo Trading)"
-description: "Explore how tokenized equity and blockchain revolutionize financial instruments by enhancing accessibility and efficiency while algo trading optimizes transactions."
+category: quant_concept
+description: Explore how tokenized equity and blockchain revolutionize financial instruments
+  by enhancing accessibility and efficiency while algo trading optimizes transactions.
+title: 'Tokenized Equity and Stock: Mechanisms and Examples (Algo Trading)'
 ---
 
 Blockchain technology is increasingly capturing the attention of the financial sector, transforming how financial instruments are created, managed, and traded. At its core, blockchain is a decentralized digital ledger that records transactions in a secure and transparent manner, offering an immutable record of operations. This innovation is prompting significant shifts in the financial landscape by enhancing the efficiency, security, and accessibility of financial services.

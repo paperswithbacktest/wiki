@@ -1,6 +1,9 @@
 ---
-title: "Shakeout in Stock Trading (Algo Trading)"
-description: "Explore the impact of market volatility and shakeout events on stock trading with a focus on algorithmic trading as a tool to manage risks and improve strategies."
+category: quant_concept
+description: Explore the impact of market volatility and shakeout events on stock
+  trading with a focus on algorithmic trading as a tool to manage risks and improve
+  strategies.
+title: Shakeout in Stock Trading (Algo Trading)
 ---
 
 The stock market is inherently volatile, with prices fluctuating due to a myriad of factors including economic indicators, investor sentiment, and external events. Volatility is a measure of the risk associated with the magnitude of price changes in financial markets. This characteristic of the stock market can be represented by the standard deviation of returns or more dynamically by the Volatility Index (VIX), which measures market expectations of near-term volatility based on S&P 500 index options.

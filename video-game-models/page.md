@@ -1,7 +1,8 @@
 ---
-title: Machine Learning Video Game Models Enhancing Game AI and Design
+category: quant_concept
 description: Video game models harness machine learning to create adaptive AI opponents
   generate dynamic content and enhance gameplay immersion Discover more inside.
+title: Machine Learning Video Game Models Enhancing Game AI and Design
 ---
 
 ![Image](images/1.png)

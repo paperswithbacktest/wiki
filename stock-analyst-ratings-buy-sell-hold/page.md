@@ -1,6 +1,9 @@
 ---
-title: "Stock Analyst Ratings: Buy, Sell, and Hold (Algo Trading)"
-description: "Unlock investment potential by understanding stock analyst ratings and their impact on trading strategies. Learn how algorithmic trading utilizes these insights."
+category: trading_strategy
+description: Unlock investment potential by understanding stock analyst ratings and
+  their impact on trading strategies. Learn how algorithmic trading utilizes these
+  insights.
+title: 'Stock Analyst Ratings: Buy, Sell, and Hold (Algo Trading)'
 ---
 
 In the world of investing, understanding the insights provided by stock analysts can be pivotal. These professionals assess company performance, industry trends, and economic factors to provide informed opinions on stock performance. Analyst recommendations often come with terms like 'buy', 'sell', and 'hold', which can guide investment decisions. 'Buy' suggests the belief that a stock will outperform the market, 'sell' indicates potential underperformance, and 'hold' suggests aligning performance with the market. However, the interpretation of these ratings is not always straightforward, with each firm having unique rating scales and terminologies.

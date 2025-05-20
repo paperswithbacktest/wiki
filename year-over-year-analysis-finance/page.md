@@ -1,6 +1,9 @@
 ---
-title: "Year-Over-Year Analysis in Finance (Algo Trading)"
-description: "Explore key insights into how algorithmic trading is reshaping finance through year-over-year analysis, revealing trends and advancements in modern trading strategies."
+category: trading_strategy
+description: Explore key insights into how algorithmic trading is reshaping finance
+  through year-over-year analysis, revealing trends and advancements in modern trading
+  strategies.
+title: Year-Over-Year Analysis in Finance (Algo Trading)
 ---
 
 With the rapid advancement of technology in finance, algorithmic trading has become a pivotal component in the financial markets. In recent years, evaluating its performance year-over-year (YOY) offers insights into both its evolution and its impact.

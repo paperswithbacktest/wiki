@@ -1,7 +1,8 @@
 ---
-title: Understanding Machine Learning Tasks And Their Types
+category: quant_concept
 description: Machine Learning Tasks cover classification regression clustering and
   more guiding model selection and improving workflow efficiency Discover more inside.
+title: Understanding Machine Learning Tasks And Their Types
 ---
 
 ![Image](images/1.png)

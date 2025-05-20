@@ -1,6 +1,9 @@
 ---
-title: "Shanghai Futures Exchange Overview (Algo Trading)"
-description: "Explore the Shanghai Futures Exchange to understand its pivotal role in China's commodities markets, focusing on metals and energy trading plus algo trading advancements."
+category: quant_concept
+description: Explore the Shanghai Futures Exchange to understand its pivotal role
+  in China's commodities markets, focusing on metals and energy trading plus algo
+  trading advancements.
+title: Shanghai Futures Exchange Overview (Algo Trading)
 ---
 
 The Shanghai Futures Exchange (SHFE) holds a significant position within China's financial landscape as one of the key platforms for trading commodity futures. Since its establishment in 1998, SHFE has become a central hub for trading a variety of commodities, including metals, energy resources, and agricultural products. This prominence reflects the exchange's capacity to meet the demands of both domestic and international markets.

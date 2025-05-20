@@ -1,7 +1,8 @@
 ---
-title: Understanding Visual Question Answering Models and Techniques
+category: quant_concept
 description: Visual Question Answering guides you through VQA components models and
   metrics while exploring advanced techniques and challenges Discover more inside.
+title: Understanding Visual Question Answering Models and Techniques
 ---
 
 ![Image](images/1.jpeg)

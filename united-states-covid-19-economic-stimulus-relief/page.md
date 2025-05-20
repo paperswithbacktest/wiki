@@ -1,6 +1,8 @@
 ---
-title: "United States COVID-19 Economic Stimulus and Relief (Algo Trading)"
-description: "Explore how US COVID-19 economic stimulus efforts intersected with algorithmic trading as traders adapted strategies in a volatile, liquidity-rich environment."
+category: quant_concept
+description: Explore how US COVID-19 economic stimulus efforts intersected with algorithmic
+  trading as traders adapted strategies in a volatile, liquidity-rich environment.
+title: United States COVID-19 Economic Stimulus and Relief (Algo Trading)
 ---
 
 The COVID-19 pandemic triggered unprecedented disruptions in global economies, leading to drastic falls in GDP, surges in unemployment, and shocks to financial markets. In an effort to mitigate the economic fallout, governments worldwide implemented massive economic stimulus measures. The United States, in particular, initiated several aggressive fiscal and monetary policies aimed at countering the adverse effects of the pandemic. Notable among these were the legislative measures under the Coronavirus Aid, Relief, and Economic Security (CARES) Act which provided direct financial support to citizens, businesses, and healthcare providers. The Federal Reserve also employed monetary interventions such as interest rate reduction and quantitative easing to sustain liquidity within the financial system and stabilize markets.

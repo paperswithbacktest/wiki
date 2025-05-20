@@ -1,6 +1,9 @@
 ---
-title: "Sideways Market and Sideways Drift in Trading (Algo Trading)"
-description: "Explore sideways markets in trading where prices move within a range without trend offering unique strategies including algorithmic trading for effective navigation."
+category: trading_strategy
+description: Explore sideways markets in trading where prices move within a range
+  without trend offering unique strategies including algorithmic trading for effective
+  navigation.
+title: Sideways Market and Sideways Drift in Trading (Algo Trading)
 ---
 
 Markets are often characterized by upward or downward trends, but a sideways market, or sideways drift, presents a unique challenge and opportunity for traders. In a sideways market, asset prices fluctuate within a tight range for an extended period without a clear trend. These markets are marked by stagnation where neither bullish nor bearish sentiments dominate, resulting in prices oscillating between defined support and resistance levels. This type of market environment can be perplexing for traders who rely on trend-following strategies; however, it also presents unique opportunities for those able to identify and capitalize on these patterns.

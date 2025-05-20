@@ -1,7 +1,8 @@
 ---
-title: Understanding Sequence Models in Machine Learning Architectures
+category: quant_concept
 description: Sequence models in machine learning handle ordered data to improve language
   translation speech recognition and time series forecasting Discover more inside
+title: Understanding Sequence Models in Machine Learning Architectures
 ---
 
 ![Image](images/1.png)

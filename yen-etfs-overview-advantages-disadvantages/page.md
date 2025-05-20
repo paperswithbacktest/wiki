@@ -1,6 +1,8 @@
 ---
-title: "Yen ETFs: Overview, Advantages, and Disadvantages (Algo Trading)"
-description: "Explore the pros and cons of investing in Yen ETFs and discover how algorithmic trading enhances strategic decisions for currency exposure and risk management."
+category: trading_strategy
+description: Explore the pros and cons of investing in Yen ETFs and discover how algorithmic
+  trading enhances strategic decisions for currency exposure and risk management.
+title: 'Yen ETFs: Overview, Advantages, and Disadvantages (Algo Trading)'
 ---
 
 Currency Exchange-Traded Funds (ETFs) have become an increasingly popular investment tool among a diverse range of investors due to their flexibility, transparent structure, and cost-effectiveness. These ETFs are designed to track the performance of currency pairs, allowing investors to gain exposure to foreign currency movements without directly trading in the forex market. Yen ETFs, a subset of currency ETFs, specifically focus on the Japanese Yen, providing investors an avenue to access and potentially benefit from fluctuations in the yen relative to other currencies.

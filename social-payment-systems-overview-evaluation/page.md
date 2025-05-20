@@ -1,6 +1,8 @@
 ---
-title: "Social Payment Systems: Overview and Evaluation (Algo Trading)"
-description: "Explore social payment systems and algorithmic trading in finance Discover how these technologies empower transactions and optimize trading efficiencies"
+category: quant_concept
+description: Explore social payment systems and algorithmic trading in finance Discover
+  how these technologies empower transactions and optimize trading efficiencies
+title: 'Social Payment Systems: Overview and Evaluation (Algo Trading)'
 ---
 
 The integration of cutting-edge technology in the financial sector has led to the emergence of innovative trading and payment systems that accommodate both experienced professionals and beginners. Among these, social payment systems and algorithmic trading stand out as pivotal advancements. Social payment systems leverage mobile apps and social media platforms to facilitate peer-to-peer financial transactions, enhancing user convenience and connectivity. On the other hand, algorithmic trading employs sophisticated computer algorithms to execute trades at high velocity, minimizing the impact of human error and emotion.

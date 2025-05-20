@@ -1,6 +1,8 @@
 ---
-title: "Synthetic Lease Versus Traditional Lease (Algo Trading)"
-description: "Explore the differences between synthetic and traditional leases in algo trading Highlight their benefits challenges and implications for financial strategies"
+category: quant_concept
+description: Explore the differences between synthetic and traditional leases in algo
+  trading Highlight their benefits challenges and implications for financial strategies
+title: Synthetic Lease Versus Traditional Lease (Algo Trading)
 ---
 
 The financial landscape provides a multitude of leasing structures, tailored to meet a variety of business requirements. Among the most prominent are traditional leases and synthetic leases, each offering unique benefits and challenges. Traditional leases involve a straightforward arrangement where a lessee gains the right to use an asset from a lessor for a predetermined period. This setup keeps the asset on the lessor’s balance sheet, while the lessee records lease payments as an expense. This simplicity often manifests in reduced complexity in accounting and taxation, making traditional leases favorable for businesses seeking clear ownership delineations without elaborate financial obligations. These leases are frequently applied to vehicles, real estate, and significant equipment acquisitions.

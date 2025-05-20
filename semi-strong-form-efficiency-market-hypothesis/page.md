@@ -1,6 +1,8 @@
 ---
-title: "Semi-Strong Form Efficiency and Market Hypothesis (Algo Trading)"
-description: "Explore the semi-strong form of the Efficient Market Hypothesis and its impact on algorithmic trading Discover how public information shapes market efficiency"
+category: quant_concept
+description: Explore the semi-strong form of the Efficient Market Hypothesis and its
+  impact on algorithmic trading Discover how public information shapes market efficiency
+title: Semi-Strong Form Efficiency and Market Hypothesis (Algo Trading)
 ---
 
 The Efficient Market Hypothesis (EMH) stands as a pivotal theory in finance, fundamentally asserting that the prices of assets fully incorporate all available information. This theoretical framework suggests that financial markets are highly efficient in reflecting public information within asset prices. Among the interpretations of EMH, the semi-strong form is particularly significant, positing that all publicly accessible information, such as corporate announcements and macroeconomic data, is already accounted for in the existing market prices.

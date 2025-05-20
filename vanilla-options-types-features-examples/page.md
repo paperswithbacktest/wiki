@@ -1,6 +1,8 @@
 ---
-title: "Vanilla Options: Types, Features, and Examples (Algo Trading)"
-description: "Discover how vanilla options and algorithmic trading synergize to optimize financial strategies Learn about essential types features and practical examples"
+category: quant_concept
+description: Discover how vanilla options and algorithmic trading synergize to optimize
+  financial strategies Learn about essential types features and practical examples
+title: 'Vanilla Options: Types, Features, and Examples (Algo Trading)'
 ---
 
 Financial derivatives, particularly options, are integral components of modern financial markets, serving as vital instruments for hedging, speculation, and risk management. These derivatives derive their value from underlying assets such as stocks, commodities, or currencies. Vanilla options, a fundamental type of options contract, provide traders a straightforward entry into this complex environment. They grant the holder the right, but not the obligation, to buy or sell the underlying asset at a predetermined price before a specified expiration date. The simplicity of vanilla options makes them accessible to a wide range of investors, including those new to options trading.

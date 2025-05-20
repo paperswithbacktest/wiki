@@ -1,6 +1,10 @@
 ---
-title: "Translation Exposure in Finance (Algo Trading)"
-description: "Discover how multinational companies navigate translation exposure in finance, where exchange rate fluctuations impact financial statements. This article explores translation risk, balance sheet effects, and the role of algorithmic trading in managing currency risks effectively amidst global market volatility."
+category: quant_concept
+description: Discover how multinational companies navigate translation exposure in
+  finance, where exchange rate fluctuations impact financial statements. This article
+  explores translation risk, balance sheet effects, and the role of algorithmic trading
+  in managing currency risks effectively amidst global market volatility.
+title: Translation Exposure in Finance (Algo Trading)
 ---
 
 In the increasingly globalized business world, companies face numerous financial risks, one of which is translation exposure. Translation exposure, commonly known as translation risk, arises when fluctuations in exchange rates affect the financial statements of companies operating across multiple currencies. This type of risk becomes evident when businesses convert the financial results of foreign subsidiaries into their home country's currency, potentially leading to significant changes in reported earnings and asset values.

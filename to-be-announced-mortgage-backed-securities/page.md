@@ -1,6 +1,8 @@
 ---
-title: "To Be Announced in Mortgage-Backed Securities (Algo Trading)"
-description: "Discover how algorithmic trading is transforming TBA mortgage-backed securities by enhancing liquidity speed and precision in a volatile market landscape."
+category: trading_strategy
+description: Discover how algorithmic trading is transforming TBA mortgage-backed
+  securities by enhancing liquidity speed and precision in a volatile market landscape.
+title: To Be Announced in Mortgage-Backed Securities (Algo Trading)
 ---
 
 In the rapidly evolving landscape of financial trading, TBA mortgage-backed securities (MBS) have emerged as a popular asset class among investors and financial institutions. These instruments play a crucial role in providing liquidity and standardization in the housing finance market. As the market becomes increasingly complex, the need for advanced trading methodologies, such as algorithmic trading, becomes apparent.

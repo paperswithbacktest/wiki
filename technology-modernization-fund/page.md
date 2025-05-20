@@ -1,6 +1,8 @@
 ---
-title: "Technology Modernization Fund (Algo Trading)"
-description: "Explore how the Technology Modernization Fund (TMF) boosts federal IT and impacts algo trading with enhanced infrastructure, speed, and security."
+category: quant_concept
+description: Explore how the Technology Modernization Fund (TMF) boosts federal IT
+  and impacts algo trading with enhanced infrastructure, speed, and security.
+title: Technology Modernization Fund (Algo Trading)
 ---
 
 The Federal Technology Modernization Fund (TMF) is central to the U.S. government's strategy to update and optimize outdated information technology infrastructure. This initiative was launched under the Modernizing Government Technology Act of 2017, which marked a significant step forward in advancing federal IT capabilities. By providing financial resources for critical IT projects, the TMF aims to improve efficiency, enhance security, and reduce costs across government agencies.

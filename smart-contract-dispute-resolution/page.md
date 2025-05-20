@@ -1,6 +1,8 @@
 ---
-title: "Smart Contract Dispute Resolution (Algo Trading)"
-description: "Explore how blockchain and smart contracts intersect with dispute resolution in algo trading Essential insights into managing disagreements in crypto transactions"
+category: quant_concept
+description: Explore how blockchain and smart contracts intersect with dispute resolution
+  in algo trading Essential insights into managing disagreements in crypto transactions
+title: Smart Contract Dispute Resolution (Algo Trading)
 ---
 
 Blockchain technology, originally conceived as the backbone for Bitcoin, is a decentralized digital ledger that records transactions across multiple computers in a way that ensures the security, transparency, and immutability of data. Its distributed nature eliminates the need for intermediaries, making transactions faster, more cost-effective, and less susceptible to manipulation. As such, blockchain technology is transforming numerous sectors by providing a secure, tamper-proof infrastructure on which applications can be built.

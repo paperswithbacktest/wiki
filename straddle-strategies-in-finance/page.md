@@ -1,6 +1,11 @@
 ---
-title: "Straddle Strategies in Finance (Algo Trading)"
-description: "Explore the world of straddle strategies in options trading, designed to capitalize on market volatility without predicting price direction. Learn about the mechanics of long and short straddles, their benefits, and how algorithmic trading enhances execution precision. Perfect for traders seeking to leverage advanced techniques amidst financial market fluctuations."
+category: trading_strategy
+description: Explore the world of straddle strategies in options trading, designed
+  to capitalize on market volatility without predicting price direction. Learn about
+  the mechanics of long and short straddles, their benefits, and how algorithmic trading
+  enhances execution precision. Perfect for traders seeking to leverage advanced techniques
+  amidst financial market fluctuations.
+title: Straddle Strategies in Finance (Algo Trading)
 ---
 
 Options trading is a pivotal component of modern financial markets, offering numerous strategies to maximize returns and manage risks. Among these strategies, straddle options have gained attention for their unique ability to exploit price movements without requiring traders to predict the market's directional shifts. Straddle strategies involve the simultaneous purchase of a call option and a put option with the same strike price and expiration date, providing a robust framework for capturing profits amidst market volatility.

@@ -1,9 +1,11 @@
 ---
-title: "Wall Street Cheat Sheet: Market Psychology for Algo Trading"
-description: Unravel the emotional journey of traders and investors through the Wall Street Cheat Sheet - a visual representation of market psychology for Algo Trading. From disbelief to optimism, grasp recurring patterns of human behavior during bull and bear markets, making informed decisions with greater acuity.
+category: quant_concept
+description: Unravel the emotional journey of traders and investors through the Wall
+  Street Cheat Sheet - a visual representation of market psychology for Algo Trading.
+  From disbelief to optimism, grasp recurring patterns of human behavior during bull
+  and bear markets, making informed decisions with greater acuity.
+title: 'Wall Street Cheat Sheet: Market Psychology for Algo Trading'
 ---
-
-
 
 The Wall Street Cheat Sheet is an iconic representation that encapsulates the rollercoaster of emotions and psychological states traders and investors undergo during market cycles. From the peaks of euphoria to the troughs of despair, it captures the progression of sentiments as market conditions evolve. Conceived as a way to chart human reactions during a typical market cycle, it delineates both the bullish ascent of optimism and confidence and the bearish descent into doubt and pessimism.
 

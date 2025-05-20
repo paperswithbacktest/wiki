@@ -1,6 +1,8 @@
 ---
-title: "Separate Account: Functionality and Types (Algo Trading)"
-description: "Explore the benefits of separate account investment options and the transformative role of algorithmic trading in enhancing investment efficiency and customization."
+category: quant_concept
+description: Explore the benefits of separate account investment options and the transformative
+  role of algorithmic trading in enhancing investment efficiency and customization.
+title: 'Separate Account: Functionality and Types (Algo Trading)'
 ---
 
 In today's rapidly evolving financial landscape, investors are presented with an array of options to grow their wealth, ranging from traditional assets such as stocks and bonds to complex financial instruments like derivatives and exchange-traded funds (ETFs). Among this diverse assortment of financial products, separate account investment accounts have gained significant popularity, particularly among high-net-worth individuals seeking tailored and direct investment solutions. Separate accounts offer personalized portfolio management and the flexibility to tailor strategies in alignment with unique financial goals and risk tolerance levels.

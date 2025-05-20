@@ -1,6 +1,9 @@
 ---
-title: "Size of the Global Derivatives Market (Algo Trading)"
-description: "Explore the expansive global derivatives market and the transformative impact of algorithmic trading, highlighting market growth, key players, and emerging trends."
+category: quant_concept
+description: Explore the expansive global derivatives market and the transformative
+  impact of algorithmic trading, highlighting market growth, key players, and emerging
+  trends.
+title: Size of the Global Derivatives Market (Algo Trading)
 ---
 
 Financial derivatives are financial instruments whose value is derived from an underlying asset, index, or rate. These instruments include futures, options, swaps, and forwards. They play a crucial role in financial markets by allowing participants to hedge risk, speculate on asset price movements, and engage in arbitrage opportunities. Derivatives facilitate risk management and price discovery, thereby contributing to market efficiency and liquidity.

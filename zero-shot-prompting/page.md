@@ -1,7 +1,8 @@
 ---
-title: Zero-Shot Prompting Explained in Machine Learning Workflows
+category: quant_concept
 description: Zero-Shot Prompting enables versatile AI task execution without retraining
   by crafting clear instructions for large language models Discover more inside.
+title: Zero-Shot Prompting Explained in Machine Learning Workflows
 ---
 
 ![Image](images/1.png)

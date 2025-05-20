@@ -1,7 +1,8 @@
 ---
-title: Efficient Use Of Sparse Vectors In Machine Learning Models
+category: quant_concept
 description: Sparse vectors boost memory efficiency and speed up computations in high
   dimensional data tasks from NLP to recommender systems Discover more inside
+title: Efficient Use Of Sparse Vectors In Machine Learning Models
 ---
 
 ![Image](images/1.png)

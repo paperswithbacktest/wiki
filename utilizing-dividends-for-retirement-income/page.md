@@ -1,6 +1,8 @@
 ---
-title: "Utilizing Dividends for Retirement Income (Algo Trading)"
-description: "Discover how dividend-paying stocks can be a strong foundation for retirement income. Learn how algorithmic trading can optimize portfolios and enhance returns."
+category: trading_strategy
+description: Discover how dividend-paying stocks can be a strong foundation for retirement
+  income. Learn how algorithmic trading can optimize portfolios and enhance returns.
+title: Utilizing Dividends for Retirement Income (Algo Trading)
 ---
 
 Investing for retirement is a crucial step toward achieving financial independence, and dividend-paying stocks present a unique opportunity to generate a reliable income stream. Dividends are distributions of a portion of a company's earnings, paid regularly to shareholders, often on a quarterly basis. These payments can contribute significantly to a retiree's income, providing a measure of financial security against the uncertainties of market fluctuations and inflation.

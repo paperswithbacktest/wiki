@@ -1,6 +1,9 @@
 ---
-title: "Understanding Market Anomalies (Algo Trading)"
-description: "Explore the intriguing world of market anomalies in algo trading where traders leverage inconsistencies that challenge the efficient market hypothesis for strategic gains."
+category: quant_concept
+description: Explore the intriguing world of market anomalies in algo trading where
+  traders leverage inconsistencies that challenge the efficient market hypothesis
+  for strategic gains.
+title: Understanding Market Anomalies (Algo Trading)
 ---
 
 In the world of finance, market anomalies present intriguing challenges and opportunities. These anomalies, which defy the efficient market hypothesis, offer potential for traders and economists alike to study and exploit for gains. The efficient market hypothesis (EMH) posits that asset prices fully reflect all available information, suggesting that it is impossible to consistently achieve returns in excess of average market returns on a risk-adjusted basis, given the available information. However, market anomalies highlight instances where this does not hold, often resulting in predictable price patterns that can be advantageous for traders.

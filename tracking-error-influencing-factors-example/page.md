@@ -1,6 +1,12 @@
 ---
-title: "Tracking Error, Influencing Factors, and Example (Algo Trading)"
-description: "Discover the essentials of tracking error in algorithmic trading and portfolio management. Learn how this critical measure of investment performance evaluates the alignment between a portfolio and its benchmark index. Understand the factors influencing tracking error and its impact on active vs passive management strategies. Explore how both ex-post and ex-ante tracking error assessments can guide fund managers and investors in optimizing returns while managing risks effectively."
+category: trading_strategy
+description: Discover the essentials of tracking error in algorithmic trading and
+  portfolio management. Learn how this critical measure of investment performance
+  evaluates the alignment between a portfolio and its benchmark index. Understand
+  the factors influencing tracking error and its impact on active vs passive management
+  strategies. Explore how both ex-post and ex-ante tracking error assessments can
+  guide fund managers and investors in optimizing returns while managing risks effectively.
+title: Tracking Error, Influencing Factors, and Example (Algo Trading)
 ---
 
 Understanding investment performance is pivotal for successful portfolio management and the development of algorithmic trading strategies. Tracking error, defined as the standard deviation of the difference in returns between a portfolio and its benchmark index, serves as a fundamental measure in this context. It provides a quantifiable assessment of how closely a portfolio follows its chosen benchmark, thereby offering insights into the effectiveness of active management.

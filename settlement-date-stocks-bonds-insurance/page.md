@@ -1,6 +1,9 @@
 ---
-title: "Settlement Date in Stocks, Bonds, and Insurance (Algo Trading)"
-description: "Explore the importance of settlement dates in stocks, bonds, and insurance and their impact on liquidity, ownership, and trading strategies in modern financial markets."
+category: quant_concept
+description: Explore the importance of settlement dates in stocks, bonds, and insurance
+  and their impact on liquidity, ownership, and trading strategies in modern financial
+  markets.
+title: Settlement Date in Stocks, Bonds, and Insurance (Algo Trading)
 ---
 
 In today's fast-paced financial markets, understanding key concepts such as settlement dates, bonds, stocks, and insurance can be pivotal for investors. Settlement dates represent the finalization of transactions, determining when ownership is legally transferred, and impacting liquidity and risk management. Bonds and stocks, as primary financial instruments, vary in their settlement processes, each influencing cash flows and market positioning in distinct ways. 

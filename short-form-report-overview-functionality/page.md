@@ -1,6 +1,8 @@
 ---
-title: "Short-Form Report: Overview and Functionality (Algo Trading)"
-description: "Discover key methodologies of document summarization and short-form reporting in algorithmic trading A must-read for finance professionals seeking swift insights"
+category: quant_concept
+description: Discover key methodologies of document summarization and short-form reporting
+  in algorithmic trading A must-read for finance professionals seeking swift insights
+title: 'Short-Form Report: Overview and Functionality (Algo Trading)'
 ---
 
 In the rapidly evolving world of finance, the ability to succinctly summarize complex data and provide actionable insights is critical. As financial markets become more intricate, professionals require tools that can distill vast amounts of information into manageable and insightful reports. Document summary techniques play a crucial role in financial reporting, particularly in automated trading environments where swift decision-making is paramount. This involves the transformation of extensive datasets into condensed versions without losing essential details, thereby facilitating a better understanding of financial positions and trends.

@@ -1,6 +1,13 @@
 ---
-title: "Trading with Python in Indian Markets (Algo Trading)"
-description: Explore the transformative impact of algorithmic trading in Indian financial markets driven by Python's powerful capabilities. This accessible language opens trading to a wider audience with its extensive libraries for data analysis and automation. Discover how Python integrates with Indian trading platforms like Zerodha’s Kite Connect offering tools for real-time market data access and automated trade execution. Delve into the evolution of trading in India supported by educational resources and how Python’s adaptability is influencing this dynamic landscape.
+category: trading_strategy
+description: Explore the transformative impact of algorithmic trading in Indian financial
+  markets driven by Python's powerful capabilities. This accessible language opens
+  trading to a wider audience with its extensive libraries for data analysis and automation.
+  Discover how Python integrates with Indian trading platforms like Zerodha’s Kite
+  Connect offering tools for real-time market data access and automated trade execution.
+  Delve into the evolution of trading in India supported by educational resources
+  and how Python’s adaptability is influencing this dynamic landscape.
+title: Trading with Python in Indian Markets (Algo Trading)
 ---
 
 In recent years, financial markets in India have undergone a significant transformation with the growing adoption of algorithmic trading. This shift is largely driven by advancements in technology and the increasing availability of sophisticated tools that allow both institutional and individual traders to automate and optimize their trading processes. Algorithmic trading utilizes complex computational models to execute trades with speed and precision, enhancing the capacity to process vast amounts of market data efficiently.

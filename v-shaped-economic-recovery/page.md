@@ -1,6 +1,9 @@
 ---
-title: "V-Shaped Economic Recovery (Algo Trading)"
-description: "Explore the dynamics of V-shaped economic recoveries and their link with algorithmic trading Discover how swift rebounds influence market strategies and technology's role"
+category: trading_strategy
+description: Explore the dynamics of V-shaped economic recoveries and their link with
+  algorithmic trading Discover how swift rebounds influence market strategies and
+  technology's role
+title: V-Shaped Economic Recovery (Algo Trading)
 ---
 
 Economic recovery refers to a period of increasing economic activity that follows a recession or downturn. It signifies a return to a state of growth and stability after economic contraction, crucial for restoring consumer and business confidence. In the global economy, economic recovery is significant because it can lead to job creation, increased production, and improved living standards, ultimately contributing to global economic stability and development.

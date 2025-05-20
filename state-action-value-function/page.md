@@ -1,7 +1,8 @@
 ---
-title: State-Action Value Function Explained for Reinforcement Learning
+category: quant_concept
 description: State-Action Value Function estimates future rewards for actions in reinforcement
   learning guiding agents to choose optimal actions Discover more inside
+title: State-Action Value Function Explained for Reinforcement Learning
 ---
 
 ![Image](images/1.jpeg)

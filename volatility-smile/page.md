@@ -1,6 +1,13 @@
 ---
-title: "Volatility smile (Algo Trading)"
-description: Explore the essential concept of volatility smiles in options trading, where deviations from the Black-Scholes model's constant volatility assumption are addressed. Learn how algorithmic traders leverage these patterns to optimize trading strategies by identifying options pricing anomalies. Understand the factors influencing volatility smiles, such as market imperfections and investor behavior, and discover advanced techniques beyond Black-Scholes for more accurate market predictions and risk management.
+category: quant_concept
+description: Explore the essential concept of volatility smiles in options trading,
+  where deviations from the Black-Scholes model's constant volatility assumption are
+  addressed. Learn how algorithmic traders leverage these patterns to optimize trading
+  strategies by identifying options pricing anomalies. Understand the factors influencing
+  volatility smiles, such as market imperfections and investor behavior, and discover
+  advanced techniques beyond Black-Scholes for more accurate market predictions and
+  risk management.
+title: Volatility smile (Algo Trading)
 ---
 
 Volatility smiles are a crucial concept in the pricing of financial options, revealing variations in implied volatility across different option strike prices. Unlike the Black-Scholes model's assumption of constant volatility, real-world markets often display a curved pattern when implied volatilities are plotted against strike prices. This pattern, known as the volatility smile, indicates higher implied volatilities for options that are deep in-the-money or out-of-the-money compared to at-the-money options. 

@@ -1,6 +1,8 @@
 ---
-title: "Top Investment Courses of 2024 (Algo Trading)"
-description: "Explore top investment courses in 2024 focusing on algorithmic trading and advanced techniques to enhance your investment strategies and financial success."
+category: trading_strategy
+description: Explore top investment courses in 2024 focusing on algorithmic trading
+  and advanced techniques to enhance your investment strategies and financial success.
+title: Top Investment Courses of 2024 (Algo Trading)
 ---
 
 In the fast-paced and ever-changing world of finance, staying updated with the latest knowledge and skills is crucial for success. Continuous education in investment strategies and financial principles is no longer optional but essential for both novice and experienced investors. Investment courses provide a structured and comprehensive way to gain this crucial knowledge, acting as a stepping stone towards informed decision-making and strategic investment planning.

@@ -1,6 +1,8 @@
 ---
-title: "Types of Consumer Goods Demonstrating Price Elasticity of Demand (Algo Trading)"
-description: "Explore the relationship between price elasticity of demand and algorithmic trading in influencing market dynamics and investment strategies."
+category: quant_concept
+description: Explore the relationship between price elasticity of demand and algorithmic
+  trading in influencing market dynamics and investment strategies.
+title: Types of Consumer Goods Demonstrating Price Elasticity of Demand (Algo Trading)
 ---
 
 Price elasticity of demand and algorithmic trading represent fundamental principles within economics and finance, each playing a critical role in shaping market dynamics and investment strategies. At their intersection lies the understanding of how consumer behavior informs both pricing strategies and algorithmic trading decisions.

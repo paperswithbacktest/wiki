@@ -1,6 +1,8 @@
 ---
-title: "Share Purchase Costs and Fees (Algo Trading)"
-description: "Discover how share purchase costs and fees impact your trading strategy Understand broker commissions transaction fees and the impact of algo trading expenses"
+category: trading_strategy
+description: Discover how share purchase costs and fees impact your trading strategy
+  Understand broker commissions transaction fees and the impact of algo trading expenses
+title: Share Purchase Costs and Fees (Algo Trading)
 ---
 
 Investing in the stock market presents a complex landscape of costs that investors must navigate to optimize their returns. At the forefront of these costs are investment fees, which encompass broker commissions, transaction fees, and other expenses related to stock trading and share purchases. These fees can vary significantly based on the choice of brokerage services, impacting the overall cost of investment activities.

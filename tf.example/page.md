@@ -1,8 +1,9 @@
 ---
-title: Organizing Machine Learning Data with Tf.Example Format
+category: dataset
 description: Tf.Example format provides a structured way to store and label diverse
   data types for TensorFlow models improving organization and accuracy Discover more
   inside
+title: Organizing Machine Learning Data with Tf.Example Format
 ---
 
 ![Image](images/1.jpeg)

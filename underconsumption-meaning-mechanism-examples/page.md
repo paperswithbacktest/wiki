@@ -1,6 +1,8 @@
 ---
-title: "Underconsumption: Meaning, Mechanism, and Examples (Algo Trading)"
-description: "Explore the link between economic theories of demand and underconsumption with algorithmic trading to optimize market strategies and boost trading efficacy."
+category: quant_concept
+description: Explore the link between economic theories of demand and underconsumption
+  with algorithmic trading to optimize market strategies and boost trading efficacy.
+title: 'Underconsumption: Meaning, Mechanism, and Examples (Algo Trading)'
 ---
 
 Understanding market dynamics is essential in economics and finance for anticipating and navigating economic shifts. In recent years, the integration of economic theories with advanced trading technologies has facilitated the development of innovative strategies aimed at addressing market complexities. This article examines the intersection of economic theory, specifically focusing on demand and underconsumption, with algorithmic trading.

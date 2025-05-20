@@ -1,6 +1,11 @@
 ---
-title: "Weighted Average: Calculation and Applications (Algo Trading)"
-description: "Discover the crucial role of weighted average calculations in algorithmic trading. This article explores their application in refining trading strategies, enhancing decision-making, and optimizing performance. Learn how weighted averages transform vast financial datasets into actionable insights, aiding traders in navigating complex market conditions with precision."
+category: quant_concept
+description: Discover the crucial role of weighted average calculations in algorithmic
+  trading. This article explores their application in refining trading strategies,
+  enhancing decision-making, and optimizing performance. Learn how weighted averages
+  transform vast financial datasets into actionable insights, aiding traders in navigating
+  complex market conditions with precision.
+title: 'Weighted Average: Calculation and Applications (Algo Trading)'
 ---
 
 In recent years, algorithmic trading has revolutionized the financial markets by significantly enhancing the speed and operational efficiency of trades. A central element within these algorithms is the application of mathematical and statistical methods, among which weighted average calculations are particularly crucial. These calculations are vital as they distill vast datasets into actionable insights, helping traders optimize execution strategies effectively.

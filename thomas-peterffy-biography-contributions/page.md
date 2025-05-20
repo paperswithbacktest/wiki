@@ -1,6 +1,8 @@
 ---
-title: "Thomas Peterffy: Biography and Contributions (Algo Trading)"
-description: "Discover Thomas Peterffy's journey from Hungary to the forefront of electronic trading as the founder of Interactive Brokers revolutionizing Wall Street technology."
+category: quant_concept
+description: Discover Thomas Peterffy's journey from Hungary to the forefront of electronic
+  trading as the founder of Interactive Brokers revolutionizing Wall Street technology.
+title: 'Thomas Peterffy: Biography and Contributions (Algo Trading)'
 ---
 
 Thomas Peterffy, a transformative figure in the financial industry, is celebrated for his groundbreaking contributions to electronic trading and as the founder of Interactive Brokers. Born in 1944 in Budapest, Hungary, during a time of significant political upheaval, Peterffy's early life was shaped by the challenges of living under a communist regime. Emigrating to the United States in 1965 with little knowledge of English and limited financial resources, he embarked on a journey that would lead him to become one of the most influential innovators in trading technology.

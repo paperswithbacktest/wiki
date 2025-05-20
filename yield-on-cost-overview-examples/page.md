@@ -1,6 +1,8 @@
 ---
-title: "Yield on Cost: Overview and Examples (Algo Trading)"
-description: "Explore the essentials of Yield on Cost and algorithmic trading. Understand how these metrics optimize investment strategies and enhance portfolio performance."
+category: quant_concept
+description: Explore the essentials of Yield on Cost and algorithmic trading. Understand
+  how these metrics optimize investment strategies and enhance portfolio performance.
+title: 'Yield on Cost: Overview and Examples (Algo Trading)'
 ---
 
 Investing encompasses a wide range of metrics and strategies that help evaluate performance and optimize returns. Among these, Yield on Cost (YOC), dividend yield, and algorithmic trading stand out as fundamental concepts for investors. Each plays a unique role in understanding investment performance and enhancing strategic decisions.

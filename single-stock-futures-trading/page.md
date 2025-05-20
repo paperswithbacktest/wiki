@@ -1,6 +1,8 @@
 ---
-title: "Single Stock Futures Trading (Algo Trading)"
-description: "Explore the strategic advantages and risks of single stock futures and algorithmic trading Gain insights on leveraging these financial derivatives effectively"
+category: trading_strategy
+description: Explore the strategic advantages and risks of single stock futures and
+  algorithmic trading Gain insights on leveraging these financial derivatives effectively
+title: Single Stock Futures Trading (Algo Trading)
 ---
 
 Financial derivatives have become essential instruments in the modern financial landscape, providing investors with mechanisms to manage risks or pursue profit avenues. Among these derivatives, single stock futures (SSFs) stand out as contracts that allow the buying or selling of futures on specific stocks. They provide traders with the flexibility to gain exposure to individual equities without owning the underlying asset, appealing to those seeking leverage and hedging benefits. Unlike stock options, which offer the right but not the obligation to carry out the transaction, SSFs entail the obligation to settle the contract, often culminating in the delivery of the underlying stock or its cash value at a set future date.

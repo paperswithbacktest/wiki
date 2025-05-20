@@ -1,6 +1,8 @@
 ---
-title: "Rewritten title (Algo Trading)"
-description: "Discover the impact of automated trading systems on financial markets and explore how algorithms drive efficiency speed and precision in trade execution."
+category: quant_concept
+description: Discover the impact of automated trading systems on financial markets
+  and explore how algorithms drive efficiency speed and precision in trade execution.
+title: Rewritten title (Algo Trading)
 ---
 
 In recent years, automated trading systems have reshaped financial markets by streamlining trade execution and reducing human errors. These systems leverage sophisticated algorithms and cutting-edge technology to execute trades based on predefined criteria, requiring minimal to no human intervention. Automated trading facilitates the rapid and efficient processing of large volumes of market data, enabling traders to capitalize on market opportunities with increased precision and speed. 

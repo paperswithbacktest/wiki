@@ -1,6 +1,8 @@
 ---
-title: "Tugrik: Functionality and Historical Overview (Algo Trading)"
-description: "Explore the Mongolian Tugrik's significance in Mongolia's economy and investments, focusing on its historical context and relevance in algorithmic trading."
+category: dataset
+description: Explore the Mongolian Tugrik's significance in Mongolia's economy and
+  investments, focusing on its historical context and relevance in algorithmic trading.
+title: 'Tugrik: Functionality and Historical Overview (Algo Trading)'
 ---
 
 The Mongolian Tugrik, abbreviated as MNT, is the official currency of Mongolia, initially introduced to the nation in 1925. It symbolizes Mongolia's economic autonomy following its independence and monetary reform efforts in the early 20th century. The Tugrik comes in a range of denominations, with the banknotes extending from ₮1 to ₮20,000, facilitating everyday transactions and larger financial exchanges among the populace.

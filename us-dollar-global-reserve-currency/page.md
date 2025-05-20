@@ -1,6 +1,8 @@
 ---
-title: "History of the U.S. Dollar as the Global Reserve Currency (Algo Trading)"
-description: "Explore the history of the U.S. Dollar as the global reserve currency and its influence on algorithmic trading, a transformative force in modern finance."
+category: quant_concept
+description: Explore the history of the U.S. Dollar as the global reserve currency
+  and its influence on algorithmic trading, a transformative force in modern finance.
+title: History of the U.S. Dollar as the Global Reserve Currency (Algo Trading)
 ---
 
 The U.S. Dollar (USD) has long stood as the world's predominant reserve currency, a position solidified by historical, economic, and geopolitical factors. This status is largely attributed to the Bretton Woods Agreement of 1944, which established the dollar as the central currency for international trade and fixed it to the gold standard. Today, the USD accounts for nearly 60% of global foreign exchange reserves, underscoring its significance in global economics. This prevalence facilitates international trade, stabilizes global markets, and provides the U.S. with significant economic leverage.

@@ -1,6 +1,9 @@
 ---
-title: "Trading with Limit Order Books (Algo Trading)"
-description: "Explore the pivotal role of limit order books in algorithmic trading Learn how they facilitate precise trade execution and enhance market transparency and efficiency"
+category: quant_concept
+description: Explore the pivotal role of limit order books in algorithmic trading
+  Learn how they facilitate precise trade execution and enhance market transparency
+  and efficiency
+title: Trading with Limit Order Books (Algo Trading)
 ---
 
 Understanding limit order books (LOBs) represents a pivotal aspect of algorithmic trading, providing a structured mechanism for matching buy and sell orders in financial markets. At its core, the limit order book serves as an electronic ledger, maintaining an organized list of open limit orders, which encompasses both buy and sell instructions at specified prices. These order books are critical for facilitating the price discovery process, ensuring transactions occur at market-reflective prices while maintaining liquidity and market efficiency.
@@ -147,4 +150,3 @@ In conclusion, while LOBs are indispensable to algorithmic trading, enabling tra
 8. **Lehalle, C.-A., & Laruelle, S. (Eds.). (2013).** *Market Microstructure in Practice*. World Scientific Publishing. The book offers practical insights into using limit order books for algorithmic trading, complete with case studies and real-world applications.
 
 These resources provide a significant foundation for understanding the complexities of limit order books and their pivotal role in algorithmic trading. From foundational theories to practical implementations, these references encompass a holistic view, enabling further exploration of market microstructure concepts.
-

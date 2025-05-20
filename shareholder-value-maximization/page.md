@@ -1,6 +1,8 @@
 ---
-title: "Shareholder Value and Its Maximization (Algo Trading)"
-description: "Explore the impact of maximizing shareholder value through algorithmic trading and strategic management. Learn how financial strategies enhance profitability."
+category: quant_concept
+description: Explore the impact of maximizing shareholder value through algorithmic
+  trading and strategic management. Learn how financial strategies enhance profitability.
+title: Shareholder Value and Its Maximization (Algo Trading)
 ---
 
 The concept of shareholder value has played a pivotal role in shaping financial strategy and corporate management for decades. Shareholder value refers to the worth delivered to shareholders as a result of an increase in stock prices, dividends, and improved financial performance metrics. The central goal of maximizing shareholder value has influenced various strategic decisions and operational approaches companies adopt. This article aims to explore the influence of various value maximization strategies, including algorithmic trading, on shareholder value.

@@ -1,6 +1,9 @@
 ---
-title: "Synthetic Assets in Finance (Algo Trading)"
-description: "Discover how synthetic finance and algorithmic trading are revolutionizing investing. Explore innovative tools and strategies for managing risk and maximizing returns."
+category: quant_concept
+description: Discover how synthetic finance and algorithmic trading are revolutionizing
+  investing. Explore innovative tools and strategies for managing risk and maximizing
+  returns.
+title: Synthetic Assets in Finance (Algo Trading)
 ---
 
 In the modern financial landscape, understanding the diverse array of investment types is crucial for investors aiming to maximize returns while managing risks. This article explores the intersection of synthetic finance, financial assets, and algorithmic trading, providing a comprehensive overview of how these elements are transforming the investment environment. 

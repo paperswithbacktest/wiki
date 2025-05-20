@@ -1,6 +1,16 @@
 ---
-title: "United States House Committee on Financial Services (Algo Trading)"
-description: "Explore the pivotal role of the U.S. House Financial Services Committee in overseeing and regulating the rapidly evolving financial sector with a focus on algorithmic trading. This article investigates into the Committee's legislative responsibilities and its efforts to ensure market regulation keeps pace with the advancements in financial technology. Gain insights into how the Committee works to balance innovation with maintaining market integrity and investor protection, addressing challenges such as market manipulation and systemic risk associated with high-frequency trading. Discover how this congressional entity influences the financial landscape by crafting policies over sectors like banking, securities, and housing finance while adapting to new technological imperatives."
+category: quant_concept
+description: Explore the pivotal role of the U.S. House Financial Services Committee
+  in overseeing and regulating the rapidly evolving financial sector with a focus
+  on algorithmic trading. This article investigates into the Committee's legislative
+  responsibilities and its efforts to ensure market regulation keeps pace with the
+  advancements in financial technology. Gain insights into how the Committee works
+  to balance innovation with maintaining market integrity and investor protection,
+  addressing challenges such as market manipulation and systemic risk associated with
+  high-frequency trading. Discover how this congressional entity influences the financial
+  landscape by crafting policies over sectors like banking, securities, and housing
+  finance while adapting to new technological imperatives.
+title: United States House Committee on Financial Services (Algo Trading)
 ---
 
 Algorithmic trading has fundamentally reshaped the landscape of financial markets around the world. Utilizing sophisticated computer algorithms to execute trades at speeds and frequencies beyond human capability, it has introduced both remarkable efficiencies and significant regulatory challenges. In the United States, managing the implications of this high-speed trading environment falls significantly within the purview of the financial regulatory framework. At the heart of this framework is the U.S. House Financial Services Committee, a crucial entity in overseeing and legislating developments within the financial services sector.

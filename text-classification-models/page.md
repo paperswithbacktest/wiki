@@ -1,7 +1,8 @@
 ---
-title: Text Classification in Machine Learning Methods and Applications
+category: quant_concept
 description: Text classification uses Naive Bayes SVM and deep learning to sort text
   accurately while overcoming limited data and class imbalance Discover more inside
+title: Text Classification in Machine Learning Methods and Applications
 ---
 
 ![Image](images/1.png)

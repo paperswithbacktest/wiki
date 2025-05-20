@@ -1,6 +1,11 @@
 ---
-title: "Velocity of Money: Overview and Examples (Algo Trading)"
-description: "Explore how the velocity of money interacts with algorithmic trading in this comprehensive guide. Learn about the significant role of money velocity in economic activity and its mathematical representation. Discover how algorithmic trading leverages financial metrics for enhanced trading strategies, offering practical insights and examples to enrich your understanding."
+category: quant_concept
+description: Explore how the velocity of money interacts with algorithmic trading
+  in this comprehensive guide. Learn about the significant role of money velocity
+  in economic activity and its mathematical representation. Discover how algorithmic
+  trading leverages financial metrics for enhanced trading strategies, offering practical
+  insights and examples to enrich your understanding.
+title: 'Velocity of Money: Overview and Examples (Algo Trading)'
 ---
 
 Understanding the intersection of financial theory and practical application is crucial for success in today's fast-paced economic landscape. This article aims to connect the intricate concept of the velocity of money with the cutting-edge world of algorithmic trading. By examining these ideas, we will illustrate their impact on modern finance, enriched with examples and formulae for a clearer understanding.

@@ -1,6 +1,8 @@
 ---
-title: "Shareholder Register (Algo Trading)"
-description: "Explore the intricate dynamics of shareholder registers, corporate governance, and algorithmic trading to navigate modern financial markets with strategic insights."
+category: quant_concept
+description: Explore the intricate dynamics of shareholder registers, corporate governance,
+  and algorithmic trading to navigate modern financial markets with strategic insights.
+title: Shareholder Register (Algo Trading)
 ---
 
 In the current financial landscape, key concepts such as shareholder registers, corporate governance, and algorithmic trading are crucial for understanding modern market dynamics. These elements are essential as they influence how companies operate and interact with investors, regulators, and the larger market environment.

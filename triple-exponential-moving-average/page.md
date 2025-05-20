@@ -1,6 +1,9 @@
 ---
-title: "Triple Exponential Moving Average (Algo Trading)"
-description: "Explore the Triple Exponential Moving Average (TRIX) indicator, a powerful tool in technical analysis that minimizes market noise, aiding traders in trend identification."
+category: trading_strategy
+description: Explore the Triple Exponential Moving Average (TRIX) indicator, a powerful
+  tool in technical analysis that minimizes market noise, aiding traders in trend
+  identification.
+title: Triple Exponential Moving Average (Algo Trading)
 ---
 
 The financial markets offer a dynamic environment where both investors and traders strive to profit by predicting price movements. Technical analysis is a critical practice within these markets, employing statistical tools to evaluate investment opportunities and identify strategic trading moments. Among the tools available, the Triple Exponential Average (TRIX) is particularly noteworthy for its distinctive ability to minimize market noise, allowing for clearer analysis of market trends.

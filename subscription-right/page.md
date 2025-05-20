@@ -1,6 +1,8 @@
 ---
-title: "Subscription Right (Algo Trading)"
-description: "Explore key financial concepts like subscription rights and algorithmic trading to enhance your investment strategies in the evolving financial markets."
+category: quant_concept
+description: Explore key financial concepts like subscription rights and algorithmic
+  trading to enhance your investment strategies in the evolving financial markets.
+title: Subscription Right (Algo Trading)
 ---
 
 In the dynamic landscape of financial markets, understanding various concepts such as equity financing, stock investment, subscription rights, and algorithmic trading is crucial. These elements are fundamental to how companies raise capital and enable investors to make informed decisions. Equity financing allows companies to obtain necessary funds without increasing their debt burden, which is critical for maintaining financial stability and fostering growth. Stock investment offers individuals opportunities to become part-owners of companies, aiming to earn returns through dividends and capital appreciation.
@@ -153,4 +155,3 @@ In summary, an adept comprehension of equity financing, stock investments, subsc
    - Academic databases such as JSTOR and ScienceDirect can also offer additional papers and articles for further reading.
 
 Readers are encouraged to explore these resources to thoroughly understand the complexities and intricacies underlying each of these financial concepts. Learning from a diverse array of sources is critical to gaining a nuanced perspective of the ever-evolving financial markets.
-

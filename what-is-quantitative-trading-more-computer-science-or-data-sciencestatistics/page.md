@@ -1,9 +1,12 @@
 ---
-title: "What is quantitative trading more Computer Science or Data Science/Statistics?"
-description: "Explore the intersection of computer science, data science, statistics, and finance in quantitative trading. Discover roles, skills, and career paths for those interested in algorithm development, model building, and infrastructure systems. Learn about the importance of a blend of technical and statistical expertise. Access valuable resources for becoming a successful quant trader."
+category: quant_concept
+description: Explore the intersection of computer science, data science, statistics,
+  and finance in quantitative trading. Discover roles, skills, and career paths for
+  those interested in algorithm development, model building, and infrastructure systems.
+  Learn about the importance of a blend of technical and statistical expertise. Access
+  valuable resources for becoming a successful quant trader.
+title: What is quantitative trading more Computer Science or Data Science/Statistics?
 ---
-
-
 
 Quantitative trading is a sophisticated approach to investing that leverages mathematical models and algorithms to make trading decisions. Unlike traditional trading, which often relies on human judgment and intuition, quantitative trading employs computational methods to evaluate financial instruments. This method's significance in the financial markets is profound, as it enables traders to process vast amounts of data and execute trades with precision at high speeds, often faster than a human could react.
 

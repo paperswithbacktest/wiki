@@ -1,6 +1,14 @@
 ---
-title: "Tender Offer Process (Algo Trading)"
-description: "Explore the tender offer process in algo trading where investors propose purchasing a significant portion of a company's shares at a specified price. Understand how algorithmic trading influences tender offers by impacting market prices and identifying opportunities. Learn about the strategic role tender offers play in mergers and acquisitions and the efficiency that algorithmic trading brings to modern financial markets for improved decision-making and investment returns. Discover the intersection of these financial strategies and the importance of staying informed on technological advancements in trading."
+category: quant_concept
+description: Explore the tender offer process in algo trading where investors propose
+  purchasing a significant portion of a company's shares at a specified price. Understand
+  how algorithmic trading influences tender offers by impacting market prices and
+  identifying opportunities. Learn about the strategic role tender offers play in
+  mergers and acquisitions and the efficiency that algorithmic trading brings to modern
+  financial markets for improved decision-making and investment returns. Discover
+  the intersection of these financial strategies and the importance of staying informed
+  on technological advancements in trading.
+title: Tender Offer Process (Algo Trading)
 ---
 
 A tender offer is a proposal by an investor to purchase a substantial portion of a company's shares or bonds at a specified price and within a particular timeframe. Typically, this price is above the current market price, enticing shareholders to sell their holdings. Tender offers play a crucial role in investment finance as they can facilitate takeovers, allow companies to restructure, and serve as a strategy for influencing management or achieving investment returns. These offers are particularly significant in mergers and acquisitions, providing a mechanism to directly engage with shareholders.

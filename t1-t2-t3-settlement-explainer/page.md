@@ -1,6 +1,8 @@
 ---
-title: "T+1, T+2, and T+3 Settlement Explainer (Algo Trading)"
-description: "Explore T+1, T+2, and T+3 trade settlement cycles and their impact on algorithmic trading. Learn how they influence risk management and trading strategies."
+category: quant_concept
+description: Explore T+1, T+2, and T+3 trade settlement cycles and their impact on
+  algorithmic trading. Learn how they influence risk management and trading strategies.
+title: T+1, T+2, and T+3 Settlement Explainer (Algo Trading)
 ---
 
 In recent years, significant changes have been observed in the global financial landscape, particularly in trade settlement cycles. The abbreviations T+1, T+2, and T+3 denote different settlement cycles which specify the number of business days between the execution of a securities transaction and the completion or settlement of that transaction. For instance, a T+1 settlement cycle means that the settlement occurs one business day after the trade date. 

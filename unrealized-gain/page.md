@@ -1,6 +1,12 @@
 ---
-title: "Unrealized Gain (Algo Trading)"
-description: "Explore the complexities of unrealized gain in algorithmic trading in this insightful article. Understand how financial terms like unrealized gain and investment income influence investment strategies and market behavior. Discover the role of algorithmic trading in enhancing market efficiency through rapid trades and minimizing human error. Gain valuable insights into how these elements impact financial outcomes and strategic decisions within the dynamic financial markets."
+category: quant_concept
+description: Explore the complexities of unrealized gain in algorithmic trading in
+  this insightful article. Understand how financial terms like unrealized gain and
+  investment income influence investment strategies and market behavior. Discover
+  the role of algorithmic trading in enhancing market efficiency through rapid trades
+  and minimizing human error. Gain valuable insights into how these elements impact
+  financial outcomes and strategic decisions within the dynamic financial markets.
+title: Unrealized Gain (Algo Trading)
 ---
 
 The dynamics of financial markets are characterized by a diverse array of components that intersect to form a complex system. At the heart of this intricate ecosystem are key financial terms, such as unrealized gain, investment income, and algorithmic trading. Mastery of these concepts is essential for both veteran investors and newcomers aspiring to achieve success amidst the ever-changing landscape of modern investments.

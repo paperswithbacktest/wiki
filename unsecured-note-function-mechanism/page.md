@@ -1,6 +1,8 @@
 ---
-title: "Unsecured Note: Function and Mechanism (Algo Trading)"
-description: "Explore the benefits and risks of unsecured notes in algo trading with a focus on the critical importance of issuer creditworthiness and rapid market dynamics."
+category: quant_concept
+description: Explore the benefits and risks of unsecured notes in algo trading with
+  a focus on the critical importance of issuer creditworthiness and rapid market dynamics.
+title: 'Unsecured Note: Function and Mechanism (Algo Trading)'
 ---
 
 In today's financial landscape, understanding various financial instruments is crucial for effective investment strategies. As investors navigate a complex array of options, debt securities such as unsecured notes stand out for their unique benefits and risks. Unsecured notes are a type of debt security that differs from others due to their lack of collateral backing, making them inherently riskier but often providing higher yields as compensation. The issuer's creditworthiness becomes the key factor in assessing these instruments, emphasizing the need for careful evaluation and risk management.

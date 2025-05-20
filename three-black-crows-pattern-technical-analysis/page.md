@@ -1,6 +1,8 @@
 ---
-title: "Three Black Crows Pattern in Technical Analysis (Algo Trading)"
-description: "Explore the Three Black Crows candlestick pattern used in technical analysis and algo trading Learn how to identify it and apply it to optimize trades"
+category: trading_strategy
+description: Explore the Three Black Crows candlestick pattern used in technical analysis
+  and algo trading Learn how to identify it and apply it to optimize trades
+title: Three Black Crows Pattern in Technical Analysis (Algo Trading)
 ---
 
 In the world of trading, candlestick patterns offer valuable insights into market psychology and potential future price movements. Among these, the 'Three Black Crows' pattern stands out as a significant indicator for traders focused on technical analysis and algorithmic trading. This pattern, known for its bearish implications, provides a signal of potential trend reversals, making it an essential tool in the trader's toolkit.

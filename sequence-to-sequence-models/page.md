@@ -1,7 +1,8 @@
 ---
-title: Understanding Sequence to Sequence Models in Machine Learning
+category: quant_concept
 description: Sequence to Sequence models power translation summarization and speech
   recognition using encoder decoder attention for accurate output Discover more inside
+title: Understanding Sequence to Sequence Models in Machine Learning
 ---
 
 ![Image](images/1.png)

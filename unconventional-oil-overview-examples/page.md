@@ -1,6 +1,8 @@
 ---
-title: "Unconventional Oil: Overview and Examples (Algo Trading)"
-description: "Discover how unconventional oil extraction paired with algorithmic trading is transforming the oil industry with innovative techniques and strategic trading."
+category: quant_concept
+description: Discover how unconventional oil extraction paired with algorithmic trading
+  is transforming the oil industry with innovative techniques and strategic trading.
+title: 'Unconventional Oil: Overview and Examples (Algo Trading)'
 ---
 
 The intersection of unconventional oil extraction and algorithmic trading marks a significant evolution in the oil industry, reflecting a shift from traditional methods to technology-driven approaches. This evolution is shaped by advancements that have made previously inaccessible oil resources viable for extraction, as well as the increasing application of sophisticated trading techniques to oil markets.

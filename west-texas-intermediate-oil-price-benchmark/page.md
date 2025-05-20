@@ -1,6 +1,8 @@
 ---
-title: "West Texas Intermediate as an Oil Price Benchmark (Algo Trading)"
-description: "Discover how West Texas Intermediate crude oil serves as a vital benchmark in the oil market and the transformative impact of algorithmic trading strategies."
+category: quant_concept
+description: Discover how West Texas Intermediate crude oil serves as a vital benchmark
+  in the oil market and the transformative impact of algorithmic trading strategies.
+title: West Texas Intermediate as an Oil Price Benchmark (Algo Trading)
 ---
 
 The West Texas Intermediate (WTI) oil benchmark is a cornerstone of the global oil market, critical in establishing prices and guiding trading activities worldwide. One of its most notable roles is its presence as a pricing benchmark for oil futures and global trading, where it provides a standard measure against which different types and sources of oil are traded and valued. As trading practices evolve, the influence of algorithmic trading has surged, profoundly affecting traditional methodologies within the oil industry.

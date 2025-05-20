@@ -1,6 +1,8 @@
 ---
-title: "Value Added Monthly Index and Its Functionality (Algo Trading)"
-description: "Explore the Value Added Monthly Index VAMI a key tool for evaluating investment performance over time including its calculation and application in trading."
+category: trading_strategy
+description: Explore the Value Added Monthly Index VAMI a key tool for evaluating
+  investment performance over time including its calculation and application in trading.
+title: Value Added Monthly Index and Its Functionality (Algo Trading)
 ---
 
 The Value Added Monthly Index (VAMI) is a vital tool in financial analysis, providing a straightforward depiction of an investment's performance over time. VAMI begins by assuming a hypothetical starting investment, often $1,000, and tracks its growth on a monthly basis. This approach offers investors a clear and manageable way to assess the effectiveness of various investment strategies and fund performances.

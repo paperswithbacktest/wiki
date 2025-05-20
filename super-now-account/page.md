@@ -1,6 +1,9 @@
 ---
-title: "Super NOW Account (Algo Trading)"
-description: "Explore Super NOW accounts and algorithmic trading to boost your financial strategies. Learn about interest-bearing accounts and fast-paced trading efficiency today."
+category: quant_concept
+description: Explore Super NOW accounts and algorithmic trading to boost your financial
+  strategies. Learn about interest-bearing accounts and fast-paced trading efficiency
+  today.
+title: Super NOW Account (Algo Trading)
 ---
 
 The financial sector is a dynamic field that encompasses a variety of banking and investment options designed to meet diverse financial needs. Among the myriad choices available, Super NOW Accounts, Negotiable Order of Withdrawal (NOW) accounts, and algorithmic trading stand out as significant components. This article intends to shed light on the functionalities and benefits of these banking products and trading methods. By doing so, it aims to enhance your financial management and trading strategies.

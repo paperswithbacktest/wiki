@@ -1,7 +1,8 @@
 ---
-title: Understanding Test Loss Metrics for Machine Learning Models
+category: quant_concept
 description: Test loss shows how accurately your model predicts new data and helps
   prevent overfitting for better generalization to boost performance. Discover more.
+title: Understanding Test Loss Metrics for Machine Learning Models
 ---
 
 ![Image](images/1.png)

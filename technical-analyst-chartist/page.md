@@ -1,6 +1,8 @@
 ---
-title: "Technical Analyst and Chartist (Algo Trading)"
-description: "Unlock trading success by exploring how technical analysis, charting, and algorithmic trading converge to form advanced market strategies and insights."
+category: quant_concept
+description: Unlock trading success by exploring how technical analysis, charting,
+  and algorithmic trading converge to form advanced market strategies and insights.
+title: Technical Analyst and Chartist (Algo Trading)
 ---
 
 The stock market is a complex ecosystem where traders employ diverse strategies to maximize returns. Among the various methodologies, technical analysis stands out as a pivotal approach, providing critical insights into market behavior. This technique involves examining past market data, primarily prices and volume, to identify patterns and forecast future movements. Practitioners of technical analysis, often referred to as chartists, focus on visual representations of market data to interpret and predict price trends. They leverage historical patterns and statistical tools to identify trading signals and gauge market sentiment.

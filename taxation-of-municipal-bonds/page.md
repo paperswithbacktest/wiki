@@ -1,6 +1,9 @@
 ---
-title: "Taxation of Municipal Bonds (Algo Trading)"
-description: "Explore how municipal bonds' tax advantages and algorithmic trading insights intersect, providing strategies to maximize returns through optimized tax efficiency and trading approaches."
+category: quant_concept
+description: Explore how municipal bonds' tax advantages and algorithmic trading insights
+  intersect, providing strategies to maximize returns through optimized tax efficiency
+  and trading approaches.
+title: Taxation of Municipal Bonds (Algo Trading)
 ---
 
 Bonds play a crucial role in the global investment landscape, providing a stable and reliable income stream for investors. They are a key component of diversified portfolios, offering predictability and relatively lower risk compared to equities. Among the various types of bonds, municipal bonds (munis) stand out due to their unique offering of tax benefits. These debt securities are issued by state and local governments to finance public projects such as schools, roads, and infrastructure. One of the primary attractions of municipal bonds is their federal tax-exempt status, which can make them a particularly attractive investment for individuals in higher tax brackets seeking to minimize tax liabilities. In many cases, municipal bonds may also be exempt from state and local taxes if the investor resides in the state where the bond is issued, enhancing their appeal.

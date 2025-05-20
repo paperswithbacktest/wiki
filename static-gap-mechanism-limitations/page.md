@@ -1,6 +1,9 @@
 ---
-title: "Static Gap: Mechanism and Limitations (Algo Trading)"
-description: "Explore the static gap mechanism in algorithmic trading, its impact on interest rate exposure, and its limitations. Learn strategies to complement static gap analysis for better trading efficiency."
+category: trading_strategy
+description: Explore the static gap mechanism in algorithmic trading, its impact on
+  interest rate exposure, and its limitations. Learn strategies to complement static
+  gap analysis for better trading efficiency.
+title: 'Static Gap: Mechanism and Limitations (Algo Trading)'
 ---
 
 Algorithmic trading, or algo trading, has transformed the landscape of financial markets by enabling the execution of complex trades at speeds that were previously unimaginable. By employing sophisticated algorithms, traders and institutions can swiftly analyze market conditions and make trading decisions, optimizing their strategies for efficiency and profitability. Among the myriad strategies utilized in algorithmic trading, the static gap approach holds a prominent position. This method focuses on analyzing the difference between assets and liabilities over a specific period, typically under a year, to assess potential interest rate exposure.

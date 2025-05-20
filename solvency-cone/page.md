@@ -1,6 +1,8 @@
 ---
-title: "Solvency Cone (Algo Trading)"
-description: "Explore risk management and algorithmic trading with solvency cones a framework assessing transaction costs to refine strategies and optimize returns."
+category: quant_concept
+description: Explore risk management and algorithmic trading with solvency cones a
+  framework assessing transaction costs to refine strategies and optimize returns.
+title: Solvency Cone (Algo Trading)
 ---
 
 The financial world is rife with complexities, and managing these is crucial for success. In this article, we examine the intersection of risk management, finance, and algorithmic trading through the lens of the solvency cone.

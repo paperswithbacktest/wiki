@@ -1,6 +1,8 @@
 ---
-title: "Solvency Ratio Requirements under the Basel III Accord (Algo Trading)"
-description: "Explore how Basel III's solvency ratio requirements impact banks' operations and their algorithmic trading activities amidst tighter regulatory standards."
+category: quant_concept
+description: Explore how Basel III's solvency ratio requirements impact banks' operations
+  and their algorithmic trading activities amidst tighter regulatory standards.
+title: Solvency Ratio Requirements under the Basel III Accord (Algo Trading)
 ---
 
 Basel III is an international regulatory framework established by the Basel Committee on Banking Supervision in response to the financial crisis of 2007-09. The fallout from the crisis highlighted significant weaknesses in the global banking system, necessitating a revised set of regulations aimed at strengthening the sector's foundations. Basel III's primary objective is to enhance the regulation, supervision, and risk management within the banking sector, reflecting the need for greater resilience against financial and economic shocks.

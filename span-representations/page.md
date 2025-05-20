@@ -1,7 +1,8 @@
 ---
-title: Understanding Span Representations for NLP and Machine Learning
+category: quant_concept
 description: Span representations help focus on key text spans with attention mechanisms
   to enhance entity recognition and question answering Discover more inside.
+title: Understanding Span Representations for NLP and Machine Learning
 ---
 
 ![Image](images/1.jpeg)

@@ -1,6 +1,9 @@
 ---
-title: "Transferor: Functions and Technological Impact (Algo Trading)"
-description: "Explore how technological advancements, especially algo trading, impact financial markets and transferor roles, fostering efficiency, transparency, and market dynamics."
+category: quant_concept
+description: Explore how technological advancements, especially algo trading, impact
+  financial markets and transferor roles, fostering efficiency, transparency, and
+  market dynamics.
+title: 'Transferor: Functions and Technological Impact (Algo Trading)'
 ---
 
 The financial world is undergoing significant changes due to the integration of advanced technologies. Among these changes, algorithmic trading, or algo trading, has emerged as a transformative force, leveraging sophisticated algorithms and automation to enhance trading operations. This development represents a significant shift from traditional trading methods, relying on human intuition and manual execution. 

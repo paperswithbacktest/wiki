@@ -1,6 +1,8 @@
 ---
-title: "Trade in Finance: Benefits and Mechanisms (Algo Trading)"
-description: "Explore the benefits and mechanisms of algorithmic trading in finance Learn how automation enhances market efficiency accuracy and reduces risks in trading"
+category: quant_concept
+description: Explore the benefits and mechanisms of algorithmic trading in finance
+  Learn how automation enhances market efficiency accuracy and reduces risks in trading
+title: 'Trade in Finance: Benefits and Mechanisms (Algo Trading)'
 ---
 
 The financial trading landscape is consistently reshaped by rapid technological advancements, with algorithmic trading standing out as a pivotal development. Algorithmic trading, often referred to as algo trading, leverages sophisticated computer programs to automate trading activities. These systems execute trades based on predetermined criteria such as price, volume, and timing, aiming to maximize efficiency and accuracy. The automation inherent in algorithmic trading not only reduces human errors but also allows for the seamless execution of high-frequency trades that are otherwise untenable manually.

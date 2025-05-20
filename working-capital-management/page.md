@@ -1,6 +1,10 @@
 ---
-title: "Working Capital Management (Algo Trading)"
-description: "Explore the intersection of financial management working capital and algorithmic trading to develop an effective business strategy. Understand the importance of managing business finances covering strategic planning liquidity and optimization for competitive advantage."
+category: trading_strategy
+description: Explore the intersection of financial management working capital and
+  algorithmic trading to develop an effective business strategy. Understand the importance
+  of managing business finances covering strategic planning liquidity and optimization
+  for competitive advantage.
+title: Working Capital Management (Algo Trading)
 ---
 
 In the rapidly evolving business environment, understanding financial management and innovative trading practices is crucial. Businesses today operate in a landscape characterized by increasing complexity and competition, necessitating a comprehensive approach to financial strategy. This article explores the intersection of business finance, financial management, working capital, and algorithmic trading, which together form the foundation of an efficient and robust financial strategy for businesses.

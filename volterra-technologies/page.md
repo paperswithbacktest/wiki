@@ -1,6 +1,8 @@
 ---
-title: "Volterra Technologies (Algo Trading)"
-description: "Volterra Technologies pioneers algorithmic trading, enhancing market speed and accuracy with innovative solutions, driving financial efficiency and precision."
+category: quant_concept
+description: Volterra Technologies pioneers algorithmic trading, enhancing market
+  speed and accuracy with innovative solutions, driving financial efficiency and precision.
+title: Volterra Technologies (Algo Trading)
 ---
 
 Volterra Technologies stands out as a pioneering entity in the dynamic domain of algorithmic trading, heralding a new era of efficiency and precision in the financial markets. Algorithmic trading, the process of executing orders using automated and pre-programmed trading instructions accounting for variables such as price, timing, and volume, has revolutionized the landscape of financial trading. By utilizing complex algorithms and leveraging vast computational resources, this approach facilitates rapid and high-frequency trading, significantly enhancing the speed and efficiency of transactions.

@@ -1,6 +1,8 @@
 ---
-title: "TIPS ETFs: Definition and Functionality (Algo Trading)"
-description: "Explore TIPS ETFs to understand how they combine inflation protection with ETF benefits like liquidity and diversification for optimal investment strategies."
+category: quant_concept
+description: Explore TIPS ETFs to understand how they combine inflation protection
+  with ETF benefits like liquidity and diversification for optimal investment strategies.
+title: 'TIPS ETFs: Definition and Functionality (Algo Trading)'
 ---
 
 Treasury Inflation-Protected Securities (TIPS) are a unique category of U.S. Treasury bonds designed specifically to provide protection against inflation. Unlike traditional Treasury bonds, which offer fixed interest payments, TIPS adjust their principal value based on changes in the Consumer Price Index (CPI). This adjustment mechanism ensures that the purchasing power of the invested capital remains consistent, making TIPS an essential component of investment portfolios concerned with inflation risk.

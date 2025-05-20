@@ -1,6 +1,11 @@
 ---
-title: "Thorp, Edward (Algo Trading)"
-description: Discover the profound impact of Edward Thorp on algorithmic trading through his pioneering use of mathematics and probability theory. Explore how his groundbreaking strategies, born from revolutionizing blackjack approaches, influenced modern quantitative finance, highlighting the continued relevance and application of his innovative methods in today's financial markets.
+category: quant_concept
+description: Discover the profound impact of Edward Thorp on algorithmic trading through
+  his pioneering use of mathematics and probability theory. Explore how his groundbreaking
+  strategies, born from revolutionizing blackjack approaches, influenced modern quantitative
+  finance, highlighting the continued relevance and application of his innovative
+  methods in today's financial markets.
+title: Thorp, Edward (Algo Trading)
 ---
 
 Edward Thorp is a legendary figure known for his contributions to both the gambling and financial sectors. Celebrated for his groundbreaking use of mathematics and probability theory, Thorp revolutionized conventional gaming strategies and subsequently brought similar innovation to algorithmic trading. His methodical approach in analyzing and exploiting flawed systems allowed him to outsmart casinos, particularly through card counting in blackjack, a technique detailed in his pioneering book, "Beat the Dealer."

@@ -1,6 +1,9 @@
 ---
-title: "Stocks with Large Bid-Ask Spread (Algo Trading)"
-description: "Discover the significance of bid-ask spreads in stock trading and how algorithmic strategies like high-frequency trading improve market liquidity and efficiency."
+category: quant_concept
+description: Discover the significance of bid-ask spreads in stock trading and how
+  algorithmic strategies like high-frequency trading improve market liquidity and
+  efficiency.
+title: Stocks with Large Bid-Ask Spread (Algo Trading)
 ---
 
 The bid-ask spread is a fundamental concept in stock trading, representing the difference between the highest price a buyer is willing to pay for an asset (bid price) and the lowest price a seller is willing to accept (ask price). This spread is a critical indicator of a market's liquidity, where a narrow spread typically suggests higher liquidity and thus, enhanced ease of trading. Conversely, a wide spread often indicates less liquidity, signaling potential challenges in executing trades swiftly and at desired prices.
@@ -205,4 +208,3 @@ In summary, mastering the intricacies of the bid-ask spread is essential for tra
 
 7. **Academic and Industry Conferences**  
    Attending conferences such as the Quantitative Trading Conference or the Algorithmic Trading Symposium can provide valuable networking opportunities and insights into current trends and technologies affecting bid-ask spreads.
-

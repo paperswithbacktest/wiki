@@ -1,6 +1,8 @@
 ---
-title: "Smoot-Hawley Tariff Act: History, Effects, and Reactions (Algo Trading)"
-description: "Explore the history and impact of the Smoot-Hawley Tariff Act of 1930 on global trade and its lessons for today's algorithmic trading strategies."
+category: quant_concept
+description: Explore the history and impact of the Smoot-Hawley Tariff Act of 1930
+  on global trade and its lessons for today's algorithmic trading strategies.
+title: 'Smoot-Hawley Tariff Act: History, Effects, and Reactions (Algo Trading)'
 ---
 
 The Smoot-Hawley Tariff Act of 1930 represents a critical juncture in economic history, characterized by its profound effect on global trade dynamics. Introduced in a period marked by economic turmoil, the Act sought to protect American industries through imposing significant tariffs on imported goods. While the primary intent was to safeguard U.S. agricultural interests, its ambit extended to thousands of other products, reshaping trade relationships worldwide. As a consequence, the Act incited retaliatory measures from various countries, leading to a substantial contraction in international trade.
@@ -99,5 +101,4 @@ A balanced approach in policy-making and market strategies can help avert the pi
 
 [6]: DeLong, J. B. (1998). ["Fiscal Policy in the Shadow of the Great Depression."](https://www.nber.org/system/files/chapters/c6888/c6888.pdf) In Mickey, R., & Leffler, M. (Eds.), To Lead the World: American Strategy After the Bush Doctrine.
 
-[7]: ["Trade Wars are Class Wars: How Rising Inequality Distorts the Global Economy and Threatens International Peace."](https://www.jstor.org/stable/j.ctv10sm96m) by Matthew C. Klein and Michael Pettis.   
-
+[7]: ["Trade Wars are Class Wars: How Rising Inequality Distorts the Global Economy and Threatens International Peace."](https://www.jstor.org/stable/j.ctv10sm96m) by Matthew C. Klein and Michael Pettis.

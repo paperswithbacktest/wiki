@@ -1,6 +1,8 @@
 ---
-title: "Signal Processing in Trading (Algo Trading)"
-description: "Explore the role of signal processing in algorithmic trading, where advanced statistical models analyze data to generate trading signals for informed decision-making."
+category: quant_concept
+description: Explore the role of signal processing in algorithmic trading, where advanced
+  statistical models analyze data to generate trading signals for informed decision-making.
+title: Signal Processing in Trading (Algo Trading)
 ---
 
 Signal processing plays a fundamental role in the field of algorithmic trading, commonly referred to as algo trading. This discipline involves the application of advanced statistical and mathematical models to systematically analyze financial data and generate trading signals. These signals help market participants make informed decisions on buying or selling securities. 

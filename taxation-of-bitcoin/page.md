@@ -1,6 +1,8 @@
 ---
-title: "Taxation of Bitcoin (Algo Trading)"
-description: "Explore the complexities of Bitcoin taxation and regulations on algorithmic trading Discover key insights into managing tax obligations in cryptocurrency trading"
+category: quant_concept
+description: Explore the complexities of Bitcoin taxation and regulations on algorithmic
+  trading Discover key insights into managing tax obligations in cryptocurrency trading
+title: Taxation of Bitcoin (Algo Trading)
 ---
 
 The rise of Bitcoin and other cryptocurrencies has ushered in a new era in the financial landscape, characterized by innovative investment opportunities and decentralized financial activities. These digital assets have not only transformed traditional notions of currency but have also introduced a complex array of regulatory challenges and tax responsibilities. This transformation signifies a pivotal shift in the global financial system that demands careful navigation by investors and traders alike.

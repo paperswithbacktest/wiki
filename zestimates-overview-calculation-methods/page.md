@@ -1,6 +1,9 @@
 ---
-title: "Zestimates: Overview and Calculation Methods (Algo Trading)"
-description: "Explore how Zillow's Zestimates leverage advanced algorithms for property valuations and the impact of technology on real estate, including algorithmic trading insights."
+category: dataset
+description: Explore how Zillow's Zestimates leverage advanced algorithms for property
+  valuations and the impact of technology on real estate, including algorithmic trading
+  insights.
+title: 'Zestimates: Overview and Calculation Methods (Algo Trading)'
 ---
 
 In the age of digital transformation, many industries are leveraging technology to drive efficiency and innovation. The real estate sector is no exception, with Zillow's Zestimate model serving as a prominent example. Zestimates represent Zillow's attempt to harness technology for property valuation, offering a glimpse into the digital evolution of the real estate market. The application of sophisticated algorithms to estimate property values underscores the transformative role technology plays in the real estate industry.

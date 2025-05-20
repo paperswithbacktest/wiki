@@ -1,6 +1,8 @@
 ---
-title: "Unregistered Mutual Fund (Algo Trading)"
-description: "Explore the intricate world of unregistered mutual funds and their relationship with algorithmic trading. Discover how they impact investment strategies and risk."
+category: trading_strategy
+description: Explore the intricate world of unregistered mutual funds and their relationship
+  with algorithmic trading. Discover how they impact investment strategies and risk.
+title: Unregistered Mutual Fund (Algo Trading)
 ---
 
 The world of investing is both vast and intricate, offering numerous vehicles through which individuals can aspire to grow their wealth. Among these vehicles, mutual funds remain a staple choice for both seasoned investors and novices entering the financial markets. These investment pools offer diversification, professional management, and accessibility, appealing to a broad audience. However, mutual funds do not uniformly adhere to standardized regulatory practices, leading to the rise of unregistered mutual funds. Such funds operate beyond the established oversight mechanisms administered by regulatory bodies like the U.S. Securities and Exchange Commission (SEC).

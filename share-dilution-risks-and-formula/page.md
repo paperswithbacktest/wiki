@@ -1,6 +1,9 @@
 ---
-title: "Share Dilution Risks and Formula (Algo Trading)"
-description: "Understand the risks and formula associated with share dilution in algo trading Discover how share issuance impacts investments and the role of tech in trading systems"
+category: quant_concept
+description: Understand the risks and formula associated with share dilution in algo
+  trading Discover how share issuance impacts investments and the role of tech in
+  trading systems
+title: Share Dilution Risks and Formula (Algo Trading)
 ---
 
 The financial landscape is evolving rapidly, driven by advancements in technology, market globalization, and the emergence of new investment vehicles. Investors are increasingly required to navigate complex financial concepts to make informed decisions. This article discusses crucial components that significantly influence investment strategies: financial formulas, share dilution, investment risks, and algorithmic trading.

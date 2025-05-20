@@ -1,6 +1,9 @@
 ---
-title: "USD: Currency Abbreviation for the U.S. Dollar (Algo Trading)"
-description: "Discover how the U.S. Dollar plays a pivotal role in algorithmic trading, enhancing efficiency and precision in the global financial markets through advanced strategies."
+category: quant_concept
+description: Discover how the U.S. Dollar plays a pivotal role in algorithmic trading,
+  enhancing efficiency and precision in the global financial markets through advanced
+  strategies.
+title: 'USD: Currency Abbreviation for the U.S. Dollar (Algo Trading)'
 ---
 
 The U.S. Dollar, abbreviated as USD, serves as the official currency of the United States and is the most widely used currency in global trade and financial markets. Its dominance is underscored by its role as the primary reserve currency held by central banks around the world. The USD's widespread acceptance and liquidity make it a central player in the forex market, where it stands as the most traded currency, consistently maintaining a high trading volume.

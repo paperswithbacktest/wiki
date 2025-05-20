@@ -1,6 +1,9 @@
 ---
-title: "Tax Anticipation Bill (Algo Trading)"
-description: "Explore how Tax Anticipation Bills and Notes bridge municipal finance gaps and the role of algorithmic trading in optimizing these instruments. Discover their impact on liquidity."
+category: quant_concept
+description: Explore how Tax Anticipation Bills and Notes bridge municipal finance
+  gaps and the role of algorithmic trading in optimizing these instruments. Discover
+  their impact on liquidity.
+title: Tax Anticipation Bill (Algo Trading)
 ---
 
 In municipal finance and investment, short-term borrowing instruments such as Tax Anticipation Bills (TABs) and Tax Anticipation Notes (TANs) perform crucial functions. These financial tools provide municipalities with the liquidity needed to bridge the gap between the timing of income receipts and expenditure demands. This article aims to provide an understanding of how these instruments operate within the framework of automated trading systems, which are becoming increasingly integral in optimizing financial strategies for municipalities.

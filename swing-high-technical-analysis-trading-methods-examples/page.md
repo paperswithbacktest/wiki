@@ -1,6 +1,8 @@
 ---
-title: "Swing High in Technical Analysis: Trading Methods and Examples (Algo Trading)"
-description: "Explore the intricacies of swing high analysis in technical trading with strategies and algorithmic trading insights to optimize swing trading for profitability."
+category: trading_strategy
+description: Explore the intricacies of swing high analysis in technical trading with
+  strategies and algorithmic trading insights to optimize swing trading for profitability.
+title: 'Swing High in Technical Analysis: Trading Methods and Examples (Algo Trading)'
 ---
 
 Swing trading is a popular trading strategy among financial market participants, characterized by holding positions for a duration ranging from a single day to several weeks. The primary objective of swing traders is to capitalize on short to medium-term price movements or 'swings' within a larger trend. This strategy is distinct from day trading, which involves opening and closing positions within a single trading day, and long-term investing, where positions are held for several months or years.

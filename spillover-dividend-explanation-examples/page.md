@@ -1,6 +1,9 @@
 ---
-title: "Spillover Dividend: Explanation and Examples (Algo Trading)"
-description: "Explore the concept of spillover dividends in algo trading understand their impact on tax considerations and investment strategies. Optimize your trading approach."
+category: quant_concept
+description: Explore the concept of spillover dividends in algo trading understand
+  their impact on tax considerations and investment strategies. Optimize your trading
+  approach.
+title: 'Spillover Dividend: Explanation and Examples (Algo Trading)'
 ---
 
 The world of finance is in a state of perpetual evolution, consistently providing a multitude of opportunities for investors. Grasping the various facets of dividends, the intricacies of financial markets, and the underlying mechanisms of trading is crucial for making well-informed investment decisions. Dividends, as monetary distributions to shareholders, represent a key area of interest and can significantly influence investment strategies.

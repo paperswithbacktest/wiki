@@ -1,6 +1,8 @@
 ---
-title: "Statistical Significance and Its Application (Algo Trading)"
-description: "Explore the role of statistical significance in algorithmic trading and how hypothesis testing is used to validate strategies optimizing trading performance."
+category: quant_concept
+description: Explore the role of statistical significance in algorithmic trading and
+  how hypothesis testing is used to validate strategies optimizing trading performance.
+title: Statistical Significance and Its Application (Algo Trading)
 ---
 
 In algorithmic trading, statistical methods, such as hypothesis testing, are crucial for validating trading strategies and making data-driven decisions. Hypothesis testing helps traders determine whether their strategies are likely to be effective, or if observed patterns in historical data arose by chance. Understanding these statistical tools enables traders to evaluate their strategies rigorously and make informed adjustments to optimize performance.
@@ -265,4 +267,3 @@ For readers seeking a deeper understanding of hypothesis testing and statistical
    For those inclined towards practical application, exploring Python libraries such as NumPy, SciPy, and pandas is invaluable. These libraries provide functions for statistical analysis and hypothesis testing, enhanced by the extensive documentation and community support available online.
 
 By engaging with these resources, traders and researchers can deepen their knowledge of the statistical foundations crucial to algorithmic trading and develop more effective trading strategies based on empirical evidence.
-

@@ -1,6 +1,9 @@
 ---
-title: "Volatility Ratio: Concepts and Calculation (Algo Trading)"
-description: "Explore the significance of the volatility ratio in algorithmic trading and investment strategies Learn how to calculate and leverage it for optimizing trading outcomes"
+category: quant_concept
+description: Explore the significance of the volatility ratio in algorithmic trading
+  and investment strategies Learn how to calculate and leverage it for optimizing
+  trading outcomes
+title: 'Volatility Ratio: Concepts and Calculation (Algo Trading)'
 ---
 
 Understanding and managing volatility holds significant importance in the financial sector, particularly for developing successful investment strategies and executing algorithmic trading. Volatility refers to the degree of variation in the price of a financial instrument over time, and it serves as a crucial indicator of risk. The volatility ratio is a key financial metric that aids investors and traders in assessing and capitalizing on this price variability.

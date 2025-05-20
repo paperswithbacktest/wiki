@@ -1,6 +1,8 @@
 ---
-title: "Zambian Kwacha and Its Economic Role (Algo Trading)"
-description: "Explore the pivotal economic role of the Zambian Kwacha and how algorithmic trading strategies are transforming forex opportunities in Zambia's market."
+category: quant_concept
+description: Explore the pivotal economic role of the Zambian Kwacha and how algorithmic
+  trading strategies are transforming forex opportunities in Zambia's market.
+title: Zambian Kwacha and Its Economic Role (Algo Trading)
 ---
 
 The Zambian Kwacha (ZMK) is the official currency that plays a crucial role in Zambia's economic landscape. Introduced in 1967, the ZMK has undergone various transformations to stabilize its value and support the nation's trade and economic policies. With Zambia being a prominent copper producer, the ZMK's value is heavily influenced by global commodity prices, making its stability a matter of significant interest for economic stakeholders. 

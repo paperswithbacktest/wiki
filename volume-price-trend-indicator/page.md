@@ -1,6 +1,8 @@
 ---
-title: "Volume Price Trend Indicator (Algo Trading)"
-description: "Explore the Volume Price Trend indicator's role in algorithmic trading and how it integrates price and volume data to inform market trend analysis."
+category: trading_strategy
+description: Explore the Volume Price Trend indicator's role in algorithmic trading
+  and how it integrates price and volume data to inform market trend analysis.
+title: Volume Price Trend Indicator (Algo Trading)
 ---
 
 The Volume Price Trend (VPT) indicator is a significant instrument in technical analysis, used to evaluate the buying and selling pressure of a security through the integration of price and volume data. By correlating the percentage change in price with volume, VPT provides insights into market trends and potential reversals, making it a crucial component for traders and analysts alike.

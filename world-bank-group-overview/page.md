@@ -1,6 +1,8 @@
 ---
-title: "World Bank Group Overview (Algo Trading)"
-description: "Explore the synergy between the World Bank Group's mission to reduce poverty and the capabilities of algorithmic trading which enhances market efficiency."
+category: quant_concept
+description: Explore the synergy between the World Bank Group's mission to reduce
+  poverty and the capabilities of algorithmic trading which enhances market efficiency.
+title: World Bank Group Overview (Algo Trading)
 ---
 
 International finance is a dynamic and ever-changing sector that plays a crucial role in shaping global economic landscapes. Among its prominent participants are the World Bank Group, algorithmic trading firms, and various financial institutions. The World Bank Group is known for its dedication to reducing global poverty, a mission that interestingly meets the technologically advanced sphere of finance through the emergence and growth of algorithmic trading.
@@ -147,4 +149,3 @@ Despite the advantages, challenges such as regulatory compliance, technology int
 - **The World Bank: IBRD Background** — A comprehensive overview of the International Bank for Reconstruction and Development's role within the World Bank Group, highlighting its mission, historical context, and current objectives.
 
 - **Andrew W. Lo,** *Adaptive Markets* — Lo explores the Adaptive Markets Hypothesis, presenting a nuanced understanding of financial markets that blends both evolutionary principles and efficient market theories, useful for considering how algorithmic trading can adapt to market changes.
-

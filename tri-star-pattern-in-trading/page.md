@@ -1,6 +1,9 @@
 ---
-title: "Tri-Star Pattern in Trading (Algo Trading)"
-description: "Discover the Tri-Star pattern in trading a rare candlestick formation signaling potential market reversals Learn to identify and trade it with insights into algo strategies"
+category: trading_strategy
+description: Discover the Tri-Star pattern in trading a rare candlestick formation
+  signaling potential market reversals Learn to identify and trade it with insights
+  into algo strategies
+title: Tri-Star Pattern in Trading (Algo Trading)
 ---
 
 Candlestick patterns are vital elements of technical analysis, aiding traders and analysts in making informed market decisions. Among these, the Tri-Star pattern commands attention. This pattern is particularly notable for its rarity and its ability to signal potential reversals in market trends, making it a valuable tool in a trader's arsenal.

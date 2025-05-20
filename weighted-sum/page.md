@@ -1,7 +1,8 @@
 ---
-title: Understanding Weighted Sum Importance in Machine Learning
+category: quant_concept
 description: Weighted Sum shapes model predictions by assigning importance to inputs
   and refining weights through data driven learning Discover more inside
+title: Understanding Weighted Sum Importance in Machine Learning
 ---
 
 ![Image](images/1.png)

@@ -1,6 +1,8 @@
 ---
-title: "Strip Bonds: Function, Returns, and Example (Algo Trading)"
-description: "Explore the strategic advantages of strip bonds and algorithmic trading to enhance investment strategies by understanding returns, timing, and market dynamics."
+category: quant_concept
+description: Explore the strategic advantages of strip bonds and algorithmic trading
+  to enhance investment strategies by understanding returns, timing, and market dynamics.
+title: 'Strip Bonds: Function, Returns, and Example (Algo Trading)'
 ---
 
 In the world of finance, it is essential to understand various investment vehicles, as they can significantly impact overall returns. This article focuses on two pivotal elements in bond investments: strip bonds and algorithmic trading. Strip bonds, also known as zero-coupon bonds, present a unique investment opportunity by separating the principal from the interest components of traditional bonds. This separation allows investors to manage their investment strategies with greater precision, particularly in terms of timing and yield expectations.

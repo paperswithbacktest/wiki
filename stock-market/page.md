@@ -1,6 +1,8 @@
 ---
-title: "Stock Market (Algo Trading)"
-description: "Explore the essentials of stocks and algorithmic trading Dive into investment strategies and discover how technology is reshaping the financial markets"
+category: quant_concept
+description: Explore the essentials of stocks and algorithmic trading Dive into investment
+  strategies and discover how technology is reshaping the financial markets
+title: Stock Market (Algo Trading)
 ---
 
 Equities, commonly known as stocks, represent ownership interests in companies and are crucial components of the financial markets. They form the backbone of investment strategies, enabling individuals and institutions to partake in corporate profits and growth. Trading equities involves buying and selling these stocks on exchanges, where prices are determined by market dynamics, supply, and demand.

@@ -1,6 +1,12 @@
 ---
-title: "World’s Fastest Cloud Ticker Plant (Algo Trading)"
-description: Discover the world's fastest cloud ticker plant for algorithmic trading, offering unprecedented speed and precision without the traditional infrastructure costs. Databento's innovative solution leverages cutting-edge cloud technology to deliver real-time data processing, helping traders optimize their strategies and maintain a competitive edge in high-frequency trading. Experience seamless integration, cost efficiency, and enhanced scalability in a rapidly evolving financial landscape.
+category: dataset
+description: Discover the world's fastest cloud ticker plant for algorithmic trading,
+  offering unprecedented speed and precision without the traditional infrastructure
+  costs. Databento's innovative solution leverages cutting-edge cloud technology to
+  deliver real-time data processing, helping traders optimize their strategies and
+  maintain a competitive edge in high-frequency trading. Experience seamless integration,
+  cost efficiency, and enhanced scalability in a rapidly evolving financial landscape.
+title: World’s Fastest Cloud Ticker Plant (Algo Trading)
 ---
 
 The rise of algorithmic trading has significantly transformed market operations by enabling trades to be executed with speed and precision that surpasses human capabilities. This transformation requires traders and firms to have access to fast and accurate data to maintain a competitive edge. Real-time market data is crucial for implementing effective algorithmic strategies and making informed decisions.

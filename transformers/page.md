@@ -1,7 +1,8 @@
 ---
-title: Understanding Transformer Models in Machine Learning
+category: quant_concept
 description: Transformer models revolutionize language processing with attention mechanisms
   to boost accuracy and speed Discover more inside.
+title: Understanding Transformer Models in Machine Learning
 ---
 
 ![Image](images/1.png)

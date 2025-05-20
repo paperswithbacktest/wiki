@@ -1,6 +1,8 @@
 ---
-title: "Stop Hunting in Forex Markets (Algo Trading)"
-description: "Explore the dynamics of stop hunting in forex markets and the role of algorithmic trading in this strategy Learn how traders can mitigate associated risks"
+category: trading_strategy
+description: Explore the dynamics of stop hunting in forex markets and the role of
+  algorithmic trading in this strategy Learn how traders can mitigate associated risks
+title: Stop Hunting in Forex Markets (Algo Trading)
 ---
 
 The foreign exchange (forex) market stands as a cornerstone of global finance, characterized by its dynamic nature and the substantial leverage available to participants. This market attracts traders aiming for profitability by engaging in currency pairs trading across volatile and diverse economic landscapes. A distinctive practice within this arena is stop hunting, where sizable market entities endeavor to initiate a sequence of stop-loss orders, thereby causing profound price fluctuations. This strategy capitalizes on the cascading effect of stop-loss activations, which can lead to significant and rapid market movements.

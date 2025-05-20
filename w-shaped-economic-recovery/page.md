@@ -1,6 +1,8 @@
 ---
-title: "W-Shaped Economic Recovery (Algo Trading)"
-description: "Explore the complexities of a W-shaped economic recovery and its impact on algorithmic trading Learn how to adapt strategies amid volatile market shifts"
+category: quant_concept
+description: Explore the complexities of a W-shaped economic recovery and its impact
+  on algorithmic trading Learn how to adapt strategies amid volatile market shifts
+title: W-Shaped Economic Recovery (Algo Trading)
 ---
 
 The business cycle is an inherent feature of economic systems, reflecting the fluctuating periods of growth and contraction that economies naturally undergo. These cycles are not homogeneous, as recoveries can vary significantly in nature and duration. Among the various recovery shapes, the W-shaped recovery, often referred to as a double-dip recession, is particularly noteworthy. This pattern involves an economy initially rebounding from a downturn, giving an impression of recovery, only to plummet back into recession before eventually achieving stable growth. 

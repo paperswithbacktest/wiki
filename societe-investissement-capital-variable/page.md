@@ -1,6 +1,9 @@
 ---
-title: "Société d'Investissement à Capital Variable (Algo Trading)"
-description: "Explore the flexibility and innovative trading practices of SICAV funds including algorithmic trading and robust European regulatory oversight for dynamic investment."
+category: quant_concept
+description: Explore the flexibility and innovative trading practices of SICAV funds
+  including algorithmic trading and robust European regulatory oversight for dynamic
+  investment.
+title: Société d'Investissement à Capital Variable (Algo Trading)
 ---
 
 SICAV (Société d'Investissement à Capital Variable) funds represent a key innovation in the investment landscape, offering flexibility, European regulatory oversight, and the integration of contemporary trading practices such as algorithmic trading. These funds stand out due to their structure, which allows dynamic capitalization adjustment through the issuance of new shares in response to investor demand. This adaptability positions SICAV funds as attractive options for investors seeking a responsive and scalable investment vehicle.
@@ -193,4 +196,3 @@ Understanding the structure and strategic implementation of SICAV funds equips i
 [7]: ["Introduction to Algorithmic Trading Strategies"](https://onlinelibrary.wiley.com/doi/epdf/10.1002/9781119206033.fmatter) - Berkeley Haas School of Business
 
 [8]: Broby, D. (2010). ["A Guide to European UCITS Implementation"](https://www.collegesidekick.com/study-docs/6042782). Kogan Page Publishers.
-

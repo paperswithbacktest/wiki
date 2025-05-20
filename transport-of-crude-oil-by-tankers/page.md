@@ -1,6 +1,8 @@
 ---
-title: "Transport of Crude Oil by Tankers (Algo Trading)"
-description: "Discover how crude oil tankers play a vital role in global trade with insights into market dynamics, operational strategies, and algorithmic trading impacts."
+category: dataset
+description: Discover how crude oil tankers play a vital role in global trade with
+  insights into market dynamics, operational strategies, and algorithmic trading impacts.
+title: Transport of Crude Oil by Tankers (Algo Trading)
 ---
 
 Crude tankers are essential to the global oil transportation network, facilitating the movement of vast quantities of crude oil from production sites to refineries and ultimately to consumption markets. This logistical process ensures that energy demands are met across the globe, highlighting the critical importance of these vessels in bridging the geographic divide between oil-rich regions and countries reliant on imported energy resources.

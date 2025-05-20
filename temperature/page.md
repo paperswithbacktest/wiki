@@ -1,8 +1,9 @@
 ---
-title: Understanding Temperature in Neural Networks Softmax Calibration
+category: quant_concept
 description: Temperature in neural networks adjusts softmax probabilities to balance
   model confidence and randomness for improved calibration and performance Discover
   more inside.
+title: Understanding Temperature in Neural Networks Softmax Calibration
 ---
 
 ![Image](images/1.jpeg)

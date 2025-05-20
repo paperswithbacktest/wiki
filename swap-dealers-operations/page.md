@@ -1,6 +1,9 @@
 ---
-title: "Swap Dealers and Their Operations (Algo Trading)"
-description: "Explore the crucial roles of swap dealers in derivatives trading and the impact of algorithmic trading on financial markets including regulatory and risk management insights."
+category: quant_concept
+description: Explore the crucial roles of swap dealers in derivatives trading and
+  the impact of algorithmic trading on financial markets including regulatory and
+  risk management insights.
+title: Swap Dealers and Their Operations (Algo Trading)
 ---
 
 The financial markets are intricately structured systems where various participants engage to effectively manage financial risks and capture opportunities. Within this structure, swap dealers emerge as pivotal entities, facilitating the backbone of derivative transactions. By operating as market makers for swap contracts, these dealers provide essential liquidity and enhance risk management capabilities for their counterparties. 

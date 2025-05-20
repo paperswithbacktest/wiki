@@ -1,6 +1,8 @@
 ---
-title: "Social License to Operate and Industry Standards (Algo Trading)"
-description: "Explore the vital role of social license to operate and evolving industry standards in algorithmic trading to maintain trust and ethical practices."
+category: quant_concept
+description: Explore the vital role of social license to operate and evolving industry
+  standards in algorithmic trading to maintain trust and ethical practices.
+title: Social License to Operate and Industry Standards (Algo Trading)
 ---
 
 The dynamic financial industry is characterized by constant evolution, driven by technological advances, regulatory changes, and shifting market trends. Adherence to industry standards has become increasingly crucial to ensure sustainability, transparency, and efficiency within this landscape. These standards are designed to promote fair and transparent market practices, fostering trust among investors, stakeholders, and the general public.

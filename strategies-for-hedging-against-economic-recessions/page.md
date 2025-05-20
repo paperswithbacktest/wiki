@@ -1,6 +1,9 @@
 ---
-title: "Strategies for Hedging Against Economic Recessions (Algo Trading)"
-description: "Protect your investments from economic downturns with effective hedging strategies using algorithmic trading. Discover techniques to safeguard and optimize your portfolio."
+category: trading_strategy
+description: Protect your investments from economic downturns with effective hedging
+  strategies using algorithmic trading. Discover techniques to safeguard and optimize
+  your portfolio.
+title: Strategies for Hedging Against Economic Recessions (Algo Trading)
 ---
 
 Economic recessions are inevitable occurrences within the economic cycle, characterized by declines in economic activity, and they can severely impact financial markets and individual portfolios. During these periods, effective financial planning and adopting sound hedging strategies become essential. A well-structured approach helps protect investments and capital, minimizing losses during economic downturns.

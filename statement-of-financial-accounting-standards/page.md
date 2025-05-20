@@ -1,6 +1,9 @@
 ---
-title: "Statement of Financial Accounting Standards (Algo Trading)"
-description: "Explore the intersection of FASB accounting standards and algorithmic trading highlighting the importance of reliable financial data in optimizing trading strategies."
+category: quant_concept
+description: Explore the intersection of FASB accounting standards and algorithmic
+  trading highlighting the importance of reliable financial data in optimizing trading
+  strategies.
+title: Statement of Financial Accounting Standards (Algo Trading)
 ---
 
 This article examines the convergence between accounting standards set by the Financial Accounting Standards Board (FASB) and the rapidly evolving field of algorithmic trading. The FASB is instrumental in formulating accounting standards that underpin transparency and consistency in financial reporting. These standards are crucial for enabling stakeholders to make informed decisions based on trustworthy financial data. Algorithmic trading, on the other hand, capitalizes on advanced algorithms to execute trades with remarkable speed and precision, utilizing financial data as a strategic asset.

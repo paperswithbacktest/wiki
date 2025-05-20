@@ -1,6 +1,8 @@
 ---
-title: "Vega Neutrality in Finance (Algo Trading)"
-description: "Explore Vega neutral strategies in options trading to manage risk amid volatility. Learn how these approaches minimize Vega's impact to optimize returns."
+category: trading_strategy
+description: Explore Vega neutral strategies in options trading to manage risk amid
+  volatility. Learn how these approaches minimize Vega's impact to optimize returns.
+title: Vega Neutrality in Finance (Algo Trading)
 ---
 
 Options trading has emerged as a prominent strategy in the world of investments, providing traders with the tools to effectively balance risk and reward. As this sphere of trading has evolved, various methodologies have been developed to manage the myriad risks associated with options, among which Vega neutral strategies have gained notable recognition. These strategies are designed to tackle the challenges posed by volatility, which can greatly affect the pricing and performance of options.

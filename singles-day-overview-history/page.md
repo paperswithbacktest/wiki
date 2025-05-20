@@ -1,6 +1,9 @@
 ---
-title: "Singles' Day: Overview and History (Algo Trading)"
-description: "Discover the transformation of Singles' Day from a celebration of singlehood in China to the world's largest shopping festival enhanced by algorithmic trading technologies."
+category: quant_concept
+description: Discover the transformation of Singles' Day from a celebration of singlehood
+  in China to the world's largest shopping festival enhanced by algorithmic trading
+  technologies.
+title: 'Singles'' Day: Overview and History (Algo Trading)'
 ---
 
 Singles' Day, known as the world's largest shopping festival, originated in China as a day celebrating singlehood. Over the years, it has transcended its cultural roots to become a global retail phenomenon that rivals traditional shopping events like Black Friday and Cyber Monday. Initially focused on personal indulgence, Singles' Day has grown exponentially in size and scope, evolving from its humble beginnings at Nanjing University in the early 1990s to an international retail spectacle.

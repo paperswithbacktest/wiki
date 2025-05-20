@@ -1,6 +1,8 @@
 ---
-title: "Working Capital in Banks (Algo Trading)"
-description: "Explore how working capital, banks, and algorithmic trading intertwine to shape financial strategies, enhancing efficiency and competitive advantage."
+category: quant_concept
+description: Explore how working capital, banks, and algorithmic trading intertwine
+  to shape financial strategies, enhancing efficiency and competitive advantage.
+title: Working Capital in Banks (Algo Trading)
 ---
 
 In today's dynamic financial landscape, effective financial management is crucial for businesses to thrive. This article explores the interconnected facets of financial management including working capital, banks, and algorithmic trading. Each of these elements plays a vital role in shaping modern financial strategies, influencing how businesses and financial institutions operate and compete in a global market.
@@ -133,4 +135,3 @@ For those interested in technology's intersection with finance, further reading 
 Online learning platforms such as Coursera and edX offer courses and tutorials on algorithmic trading and financial management. For instance, courses like "Algorithmic Trading and Finance Models with Python, R, and Stata Essential Training" provide practical skills in developing data-driven trading algorithms.
 
 These resources collectively offer enriched knowledge and tools that are essential for adapting to and excelling in today's rapidly evolving financial markets.
-

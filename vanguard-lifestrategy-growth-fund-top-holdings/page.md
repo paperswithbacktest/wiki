@@ -1,6 +1,9 @@
 ---
-title: "Vanguard LifeStrategy Growth Fund: Top Holdings (Algo Trading)"
-description: "Explore the Vanguard LifeStrategy Growth Fund's top holdings and the role of algorithmic trading in optimizing investment strategies for growth and risk management."
+category: trading_strategy
+description: Explore the Vanguard LifeStrategy Growth Fund's top holdings and the
+  role of algorithmic trading in optimizing investment strategies for growth and risk
+  management.
+title: 'Vanguard LifeStrategy Growth Fund: Top Holdings (Algo Trading)'
 ---
 
 The Vanguard LifeStrategy Growth Fund is structured to provide investors with a cost-effective and diversified investment avenue, balancing the dual imperatives of risk management and growth realization. A thorough understanding of the fund's primary holdings is key for those seeking to maximize the benefits offered by this investment vehicle.

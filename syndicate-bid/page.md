@@ -1,6 +1,8 @@
 ---
-title: "Syndicate Bid (Algo Trading)"
-description: "Explore syndicate bids and algorithmic trading transforming modern finance by enhancing market stability and efficiency in stock and transaction processes."
+category: trading_strategy
+description: Explore syndicate bids and algorithmic trading transforming modern finance
+  by enhancing market stability and efficiency in stock and transaction processes.
+title: Syndicate Bid (Algo Trading)
 ---
 
 The world of finance has dramatically transformed with the introduction of advanced trading technologies. Innovations in financial technology have redefined how markets operate, and two concepts are central to this transformation: syndicate bids and algorithmic trading. These elements are at the forefront of the financial sector's modernization efforts, both playing pivotal roles in shaping contemporary trading landscapes.

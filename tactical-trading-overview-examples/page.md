@@ -1,6 +1,9 @@
 ---
-title: "Tactical Trading: Overview and Examples (Algo Trading)"
-description: "Explore tactical and algorithmic trading to understand short-term market strategies and high-frequency trading insights Learn how to maximize returns and reduce risk"
+category: trading_strategy
+description: Explore tactical and algorithmic trading to understand short-term market
+  strategies and high-frequency trading insights Learn how to maximize returns and
+  reduce risk
+title: 'Tactical Trading: Overview and Examples (Algo Trading)'
 ---
 
 In today's dynamic financial markets, tactical trading and algorithmic trading have become essential tools for investors looking to maximize returns. The rapid pace of market fluctuations demands that traders employ sophisticated strategies to effectively adapt to and capitalize on these changes. Tactical trading, known for its short-term focus on exploiting market trends or anomalies, and algorithmic trading, characterized by the use of computer algorithms for high-speed trade execution, offer pathways to enhance trading profitability.

@@ -1,6 +1,8 @@
 ---
-title: "Trade Act of 1974 (Algo Trading)"
-description: "Discover how the Trade Act of 1974 has shaped U.S. trade policy with provisions protecting industries while promoting international economic engagement."
+category: quant_concept
+description: Discover how the Trade Act of 1974 has shaped U.S. trade policy with
+  provisions protecting industries while promoting international economic engagement.
+title: Trade Act of 1974 (Algo Trading)
 ---
 
 The Trade Act of 1974 is a pivotal piece of U.S. legislation that has profoundly influenced the nation's trade policy over the decades. Enacted to address the complexities of international trade, the act provides a comprehensive framework for negotiating and implementing future trade agreements. Key elements of the act include mechanisms designed to protect U.S. industries and workers from the adverse effects of foreign competition. This protective aspect is crucial as it offers tools such as tariffs and quotas aimed at mitigating the economic dislocations caused by increased global trade exposure.

@@ -1,6 +1,13 @@
 ---
-title: "YFinance Guide (Algo Trading)"
-description: Discover how yfinance serves as a vital resource for algorithmic trading by providing easy access to comprehensive financial data from Yahoo Finance. This guide highlights its features, such as historical and real-time market data retrieval, corporate actions, and fundamental insights, which are crucial for optimizing trading strategies. Whether you're new to trading or a seasoned professional, learn how to incorporate yfinance effectively into your trading systems to make well-informed decisions.
+category: trading_strategy
+description: Discover how yfinance serves as a vital resource for algorithmic trading
+  by providing easy access to comprehensive financial data from Yahoo Finance. This
+  guide highlights its features, such as historical and real-time market data retrieval,
+  corporate actions, and fundamental insights, which are crucial for optimizing trading
+  strategies. Whether you're new to trading or a seasoned professional, learn how
+  to incorporate yfinance effectively into your trading systems to make well-informed
+  decisions.
+title: YFinance Guide (Algo Trading)
 ---
 
 Algorithmic trading, commonly known as algo trading, represents a transformative approach to executing trading strategies. By employing computer algorithms, traders can automatically conduct transactions with precision and at speeds and frequencies unachievable by human intervention. This technology enables the exploitation of market opportunities, optimizing trading efficiency and execution timeliness.

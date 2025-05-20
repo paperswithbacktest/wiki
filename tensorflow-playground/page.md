@@ -1,7 +1,8 @@
 ---
-title: Interactive Guide To Neural Networks Using TensorFlow Playground
+category: quant_concept
 description: TensorFlow Playground lets beginners experiment with neural networks
   in the browser and visualize learning dynamics in real time Discover more inside.
+title: Interactive Guide To Neural Networks Using TensorFlow Playground
 ---
 
 ![Image](images/1.png)

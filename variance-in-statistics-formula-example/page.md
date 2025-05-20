@@ -1,6 +1,11 @@
 ---
-title: "Variance in Statistics: Explanation, Formula, and Example (Algo Trading)"
-description: "Learn about the critical role of variance in algorithmic trading and its impact on financial strategies. This article explores variance calculation, its significance in risk assessment, and methods to manage variability in trading returns. Discover how understanding variance can enhance decision-making and optimize performance in the fast-paced world of algo trading."
+category: quant_concept
+description: Learn about the critical role of variance in algorithmic trading and
+  its impact on financial strategies. This article explores variance calculation,
+  its significance in risk assessment, and methods to manage variability in trading
+  returns. Discover how understanding variance can enhance decision-making and optimize
+  performance in the fast-paced world of algo trading.
+title: 'Variance in Statistics: Explanation, Formula, and Example (Algo Trading)'
 ---
 
 Algorithmic trading, commonly referred to as algo trading, has fundamentally transformed financial markets, leveraging the power of computers to execute trading decisions that were once handled manually. This transformation hinges significantly on the application of statistical measurements to develop strategies that balance risk and return. Variance, a core statistical metric, plays an indispensable role in this process by providing insights into the variability and risk associated with investment returns.

@@ -1,7 +1,8 @@
 ---
-title: Understanding Z-Score Normalization In Machine Learning
+category: quant_concept
 description: Z-Score Normalization transforms features to zero mean and unit variance
   for faster model convergence and equal feature contribution Discover more inside.
+title: Understanding Z-Score Normalization In Machine Learning
 ---
 
 ![Image](images/1.png)

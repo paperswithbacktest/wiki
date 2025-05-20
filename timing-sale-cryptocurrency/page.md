@@ -1,6 +1,9 @@
 ---
-title: "Timing the Sale of Cryptocurrency (Algo Trading)"
-description: "Explore the synergy between timing and algorithmic strategies in crypto investments Discover how these tools can enhance your investment approach in dynamic markets"
+category: trading_strategy
+description: Explore the synergy between timing and algorithmic strategies in crypto
+  investments Discover how these tools can enhance your investment approach in dynamic
+  markets
+title: Timing the Sale of Cryptocurrency (Algo Trading)
 ---
 
 The cryptocurrency market has experienced remarkable growth since the inception of Bitcoin in 2009. Initially viewed with skepticism, cryptocurrencies have evolved from a niche technological curiosity to a significant financial asset class. With the emergence of thousands of cryptocurrencies, the market capitalization of this sector has surged to over two trillion dollars at times, attracting institutional investors and retail participants alike.

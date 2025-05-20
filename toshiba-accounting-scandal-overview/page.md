@@ -1,6 +1,9 @@
 ---
-title: "Toshiba Accounting Scandal Overview (Algo Trading)"
-description: "Discover the Toshiba accounting scandal revealing corporate governance flaws and the impact of profit overstatement on financial markets and algorithmic trading."
+category: quant_concept
+description: Discover the Toshiba accounting scandal revealing corporate governance
+  flaws and the impact of profit overstatement on financial markets and algorithmic
+  trading.
+title: Toshiba Accounting Scandal Overview (Algo Trading)
 ---
 
 The Toshiba accounting scandal represents one of the most prominent examples of corporate financial misconduct in recent years. The scandal, which erupted when Toshiba admitted to overstating its profits by approximately $1.2 billion over several years, has had profound repercussions not only for the company but for the wider corporate environment. This event starkly exposed the flaws within corporate governance structures and underscored the intense pressure placed on companies to achieve ambitious financial targets.

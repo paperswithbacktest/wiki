@@ -1,6 +1,9 @@
 ---
-title: "Transaction Cost Optimization (Algo Trading)"
-description: "Optimize your algorithmic trading profits by understanding and managing transaction costs which can impact net returns through brokerage fees, spreads, and slippage."
+category: trading_strategy
+description: Optimize your algorithmic trading profits by understanding and managing
+  transaction costs which can impact net returns through brokerage fees, spreads,
+  and slippage.
+title: Transaction Cost Optimization (Algo Trading)
 ---
 
 Algorithmic trading, often referred to as algo trading, has fundamentally transformed the landscape of financial markets. It employs complex algorithms to make trading decisions at speeds and frequencies far beyond the capacity of human traders. A crucial element that can significantly impact the profitability of algorithmic trading is transaction costs. These costs, which include a variety of expenses such as brokerage commissions, market spreads, and slippage, can erode potential profits.

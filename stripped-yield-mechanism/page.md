@@ -1,6 +1,9 @@
 ---
-title: "Stripped Yield and Its Mechanism (Algo Trading)"
-description: "Explore the intricacies of stripped yield and algorithmic trading in finance to make informed investment decisions with enhanced bond assessments and automated strategies."
+category: quant_concept
+description: Explore the intricacies of stripped yield and algorithmic trading in
+  finance to make informed investment decisions with enhanced bond assessments and
+  automated strategies.
+title: Stripped Yield and Its Mechanism (Algo Trading)
 ---
 
 In the complex world of finance, understanding various investment concepts is crucial for making informed decisions. This article explores key financial terms including stripped yield and algorithmic trading (algo trading). Stripped yield provides insights into the true return of bonds by removing embedded options, such as call or put features, revealing the bond's pure interest rate without additional monetary incentives. This precise yield calculation aids investors in assessing the bond's inherent value with a focus on its credit quality.

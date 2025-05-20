@@ -1,7 +1,8 @@
 ---
-title: Tensor Processing Unit Guide for Accelerated Machine Learning
+category: quant_concept
 description: Tensor Processing Unit speeds machine learning with distributed matrix
   computation on custom hardware and optimizes cloud performance Discover more inside
+title: Tensor Processing Unit Guide for Accelerated Machine Learning
 ---
 
 ![Image](images/1.png)

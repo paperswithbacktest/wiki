@@ -1,6 +1,9 @@
 ---
-title: "Test: Meaning, Function, and Types (Algo Trading)"
-description: "Testing is crucial in algorithmic trading to refine strategies and enhance success rates. Different test types help assess and improve trading robots for market resilience."
+category: trading_strategy
+description: Testing is crucial in algorithmic trading to refine strategies and enhance
+  success rates. Different test types help assess and improve trading robots for market
+  resilience.
+title: 'Test: Meaning, Function, and Types (Algo Trading)'
 ---
 
 In algorithmic trading, testing is a pivotal aspect of strategy development and implementation. With markets being inherently unpredictable, the success of trading algorithms largely depends on their ability to adapt and handle various market scenarios. Testing serves as a critical tool in refining these algorithms to improve their success rates and ensure robustness.

@@ -1,6 +1,8 @@
 ---
-title: "United States Export Restrictions: Overview and Mechanisms (Algo Trading)"
-description: "Explore the intricacies of US trade policy focusing on export restrictions and their impact on global trade and algorithmic trading systems compliance."
+category: quant_concept
+description: Explore the intricacies of US trade policy focusing on export restrictions
+  and their impact on global trade and algorithmic trading systems compliance.
+title: 'United States Export Restrictions: Overview and Mechanisms (Algo Trading)'
 ---
 
 This article examines the intricacies of U.S. trade policy, focusing on export restrictions, their impact on international trade, and the role of algorithmic trading. U.S. trade policies are crucial components that shape global economic landscapes, involving intricate regulations intended to protect national interests. These trade regulations are not only pivotal in maintaining national security but also in fostering fair competition within the global market. 

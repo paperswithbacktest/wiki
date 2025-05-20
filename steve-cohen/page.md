@@ -1,6 +1,12 @@
 ---
-title: "Steve Cohen (Algo Trading)"
-description: Explore the dynamic journey of Steve Cohen, a pivotal figure in finance renowned for his mastery of algorithmic trading. His strategic use of complex algorithms revolutionized hedge fund operations, driving rapid, precise market transactions. This article investigates into Cohen's achievements, controversies, and his transformative role, offering insights into the enduring impact of his contributions to modern financial strategies.
+category: quant_concept
+description: Explore the dynamic journey of Steve Cohen, a pivotal figure in finance
+  renowned for his mastery of algorithmic trading. His strategic use of complex algorithms
+  revolutionized hedge fund operations, driving rapid, precise market transactions.
+  This article investigates into Cohen's achievements, controversies, and his transformative
+  role, offering insights into the enduring impact of his contributions to modern
+  financial strategies.
+title: Steve Cohen (Algo Trading)
 ---
 
 Steve Cohen has established himself as a formidable presence in the financial world, amassing significant wealth through his astute hedge fund ventures. His name is synonymous with algorithmic trading, an innovative approach that has revolutionized the way financial transactions are conducted. Algorithmic trading utilizes complex algorithms to enable rapid and efficient trading in stock markets, providing traders the speed and precision required in today's fast-paced financial environment.

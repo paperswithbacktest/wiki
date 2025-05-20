@@ -1,6 +1,8 @@
 ---
-title: "Top Coffee-Producing Countries (Algo Trading)"
-description: "Discover the top coffee-producing countries and explore how technological advances like algorithmic trading are reshaping the global coffee market."
+category: dataset
+description: Discover the top coffee-producing countries and explore how technological
+  advances like algorithmic trading are reshaping the global coffee market.
+title: Top Coffee-Producing Countries (Algo Trading)
 ---
 
 The world of coffee is both extensive and intricate, embodying a network of production and trading practices that fulfill a vast global demand. Ranked as one of the most consumed beverages worldwide, coffee serves as a powerful connector across diverse cultures and economies. Its influence is pervasive, extending from local coffee farms to international commodity markets. This article will examine the primary coffee-producing countries, investigate the dynamics within the coffee industry, and explore the intersection between coffee production and modern technologies such as algorithmic trading.

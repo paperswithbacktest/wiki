@@ -1,6 +1,8 @@
 ---
-title: "Unweighted Index: Functionality and Implications (Algo Trading)"
-description: "Explore the role and benefits of unweighted indexes in algorithmic trading and their impact on investment strategies, offering balanced market insights."
+category: quant_concept
+description: Explore the role and benefits of unweighted indexes in algorithmic trading
+  and their impact on investment strategies, offering balanced market insights.
+title: 'Unweighted Index: Functionality and Implications (Algo Trading)'
 ---
 
 The financial market is a complex and dynamic arena where investors utilize a variety of tools to enhance their investment outcomes. Indexes are among the most critical of these tools, serving as benchmarks that inform trading strategies and investment decisions. Within this vast ecosystem, the concept of financial indexes, particularly unweighted indexes, holds significant implications for trading strategies, including algorithmic trading. Understanding these indexes is crucial as they offer an equitable perspective on market performance, distinct from their weighted counterparts, which often prioritize larger, more dominant stocks.

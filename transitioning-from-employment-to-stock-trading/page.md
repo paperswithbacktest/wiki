@@ -1,6 +1,8 @@
 ---
-title: "Transitioning from Employment to Stock Trading (Algo Trading)"
-description: "Explore the path from employment to trading as a career with a focus on algorithmic trading Discover the tools skills and mindset needed for success"
+category: trading_strategy
+description: Explore the path from employment to trading as a career with a focus
+  on algorithmic trading Discover the tools skills and mindset needed for success
+title: Transitioning from Employment to Stock Trading (Algo Trading)
 ---
 
 In recent years, advancements in technology and unprecedented access to vast amounts of information have made stock trading an increasingly attractive career option for many professionals seeking a significant shift from traditional 9-to-5 jobs. This article aims to explore the feasibility and potential advantages of transitioning to a stock trading career, with a particular focus on algorithmic trading. Algorithmic trading, or algo trading, capitalizes on the power of computer programs to automate trading decisions, allowing traders to potentially achieve higher efficiency and accuracy.

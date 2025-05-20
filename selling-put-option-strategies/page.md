@@ -1,6 +1,11 @@
 ---
-title: "Selling put option strategies"
-description: Discover the intricacies of selling put options as an investment strategy. This approach allows investors to generate income or express a bullish sentiment while potentially acquiring underlying assets at a discount. Learn about ideal market conditions, essential steps for success, risks, and advanced techniques in this comprehensive guide.
+category: trading_strategy
+description: Discover the intricacies of selling put options as an investment strategy.
+  This approach allows investors to generate income or express a bullish sentiment
+  while potentially acquiring underlying assets at a discount. Learn about ideal market
+  conditions, essential steps for success, risks, and advanced techniques in this
+  comprehensive guide.
+title: Selling put option strategies
 ---
 
 Put options grant investors the right, but not the obligation, to sell a specified amount of an underlying security at a set price within a specified time. Selling put options, conversely, obligates the seller to purchase the underlying security at the strike price if the buyer exercises the option. This strategy is often employed by investors who wish to generate income through the premiums received from selling the puts or by those who are looking to acquire the underlying asset at a discount should the option be exercised.

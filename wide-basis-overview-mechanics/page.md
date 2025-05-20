@@ -1,6 +1,8 @@
 ---
-title: "Wide Basis: Overview and Mechanics (Algo Trading)"
-description: "Explore the evolution and mechanics of algorithmic trading and understand essential concepts like wide basis in futures trading for informed market decisions."
+category: quant_concept
+description: Explore the evolution and mechanics of algorithmic trading and understand
+  essential concepts like wide basis in futures trading for informed market decisions.
+title: 'Wide Basis: Overview and Mechanics (Algo Trading)'
 ---
 
 The financial trading market represents a sophisticated and dynamic ecosystem that has undergone significant transformation with the advancement of technology. One of the pivotal changes in this landscape is the rise of algorithmic trading, often referred to as algo trading. This approach harnesses the power of computer programs to execute trades based on pre-set parameters, allowing traders to operate with heightened precision and efficiency.

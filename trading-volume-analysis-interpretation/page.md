@@ -1,6 +1,9 @@
 ---
-title: "Trading Volume Analysis and Interpretation (Algo Trading)"
-description: "Explore the role of trading volume in financial markets analysis and its synergy with algorithmic trading strategies to enhance trade decisions and market insights."
+category: trading_strategy
+description: Explore the role of trading volume in financial markets analysis and
+  its synergy with algorithmic trading strategies to enhance trade decisions and market
+  insights.
+title: Trading Volume Analysis and Interpretation (Algo Trading)
 ---
 
 Understanding financial markets requires dissecting various indicators and metrics that influence trading decisions. Among these, trading volume emerges as a pivotal tool to gauge market sentiment. Trading volume, the number of shares or contracts traded over a certain period, acts as a key indicator of market activity, providing valuable insights into the degree of engagement among traders and investors.

@@ -1,6 +1,11 @@
 ---
-title: "Treasury Stock (Algo Trading)"
-description: "Explore the impact of treasury stock and algorithmic trading on corporate finance and market dynamics. Discover how share repurchases affect a company's financial health and perceived value, and understand the role of algorithmic trading in transforming investment strategies through technology-driven efficiencies. This article provides insights into key strategies for navigating today's financial environment."
+category: quant_concept
+description: Explore the impact of treasury stock and algorithmic trading on corporate
+  finance and market dynamics. Discover how share repurchases affect a company's financial
+  health and perceived value, and understand the role of algorithmic trading in transforming
+  investment strategies through technology-driven efficiencies. This article provides
+  insights into key strategies for navigating today's financial environment.
+title: Treasury Stock (Algo Trading)
 ---
 
 In finance, understanding the interplay between stocks, treasury stock, corporate finance, and algorithmic trading is vital for both new and seasoned investors. Stocks, representing ownership in a corporation, serve as a cornerstone of investment strategies, offering potential for growth and income. Meanwhile, treasury stock, which involves companies repurchasing their own shares, plays a pivotal role in shaping a firm's perceived market value and financial health. This maneuver can impact earnings per share and equity, underscoring its significance in corporate finance strategies.

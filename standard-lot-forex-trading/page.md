@@ -1,6 +1,11 @@
 ---
-title: "Standard Lot in Forex Trading (Algo Trading)"
-description: "Explore the essentials of standard lots in forex trading, highlighting their role in strategy and risk management. Learn how algorithmic trading enhances market engagement, emphasizing the importance of lot size in managing exposure and leveraging opportunities while understanding the pivotal balance between risk and reward in evolving trading environments."
+category: quant_concept
+description: Explore the essentials of standard lots in forex trading, highlighting
+  their role in strategy and risk management. Learn how algorithmic trading enhances
+  market engagement, emphasizing the importance of lot size in managing exposure and
+  leveraging opportunities while understanding the pivotal balance between risk and
+  reward in evolving trading environments.
+title: Standard Lot in Forex Trading (Algo Trading)
 ---
 
 Forex trading represents one of the largest and most liquid financial markets globally, enticing participants with the prospect of significant profits alongside its distinctive challenges. At its core, a vital concept that every trader should comprehend is the 'standard lot'. This unit serves as a benchmark for transaction sizes in forex trading, establishing a uniform framework for engaging with currency pairs.

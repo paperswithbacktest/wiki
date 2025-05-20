@@ -1,6 +1,8 @@
 ---
-title: "XRP Overview (Algo Trading)"
-description: "Discover the dynamic world of XRP crypto trading enhanced by algorithmic strategies speeding transactions ensuring efficiency and maximizing potential."
+category: quant_concept
+description: Discover the dynamic world of XRP crypto trading enhanced by algorithmic
+  strategies speeding transactions ensuring efficiency and maximizing potential.
+title: XRP Overview (Algo Trading)
 ---
 
 The world of cryptocurrency has witnessed immense growth over the past decade, with digital assets like XRP gaining widespread popularity among investors and traders. XRP, created by Ripple Labs, is particularly significant due to its role in enhancing cross-border payment solutions. Its protocol facilitates swift and cost-effective international transactions, distinguishing it from other digital currencies. This efficiency has enabled XRP to establish itself as a vital player within the cryptocurrency market landscape.

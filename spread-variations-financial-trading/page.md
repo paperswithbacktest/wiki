@@ -1,6 +1,12 @@
 ---
-title: "Spread Variations in Financial Trading (Algo Trading)"
-description: "Explore the complexity and importance of spreads in financial trading and algorithmic trading on this comprehensive page. Delve into the bid-ask spreads in stock markets, yield spreads in bonds, and the strategic use of options and forex spreads. Gain insight into how algorithmic trading utilizes spreads to optimize trading strategies and enhance decision-making. A must-read for those seeking to understand spreads' influence on market dynamics and trading performance."
+category: quant_concept
+description: Explore the complexity and importance of spreads in financial trading
+  and algorithmic trading on this comprehensive page. Delve into the bid-ask spreads
+  in stock markets, yield spreads in bonds, and the strategic use of options and forex
+  spreads. Gain insight into how algorithmic trading utilizes spreads to optimize
+  trading strategies and enhance decision-making. A must-read for those seeking to
+  understand spreads' influence on market dynamics and trading performance.
+title: Spread Variations in Financial Trading (Algo Trading)
 ---
 
 Financial trading is a fascinating and intricate domain, characterized by a myriad of opportunities and complexities. One of the pivotal elements in this world is the concept of spreads, which holds various interpretations within the finance sector. Essentially, a spread refers to the difference between two financial metrics, such as prices, rates, or yields. This concept is crucial in numerous financial contexts, including stock trading, bond markets, and foreign exchange, where it fundamentally influences trading decisions and market dynamics.

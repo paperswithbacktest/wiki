@@ -1,6 +1,11 @@
 ---
-title: "What fields are quant trading related to?"
-description: "Discover the multidisciplinary nature of quantitative trading and its connections to mathematics, statistics, computing, finance, econometrics, data science, machine learning, financial engineering, and physics. Successful quants often have expertise in several of these fields. Explore resources for trading strategies, libraries, datasets, and become a quant trader."
+category: quant_concept
+description: Discover the multidisciplinary nature of quantitative trading and its
+  connections to mathematics, statistics, computing, finance, econometrics, data science,
+  machine learning, financial engineering, and physics. Successful quants often have
+  expertise in several of these fields. Explore resources for trading strategies,
+  libraries, datasets, and become a quant trader.
+title: What fields are quant trading related to?
 ---
 
 Quantitative trading is a method of trading financial instruments derived from quantitative analysis. This approach involves using mathematical models to identify trading opportunities and make trading decisions based on statistical and numerical evaluations of the trading data. Unlike traditional trading, which may rely on human intuition and decision-making, quantitative trading hinges on computer-aided, data-driven decisions, thus accelerating the pace and precision of trades. This makes quantitative trading highly significant in financial markets, providing traders with a systematic methodology to exploit anomalies, inefficiencies, and patterns in market data that might not be evident from a qualitative perspective.

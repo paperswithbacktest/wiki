@@ -1,6 +1,9 @@
 ---
-title: "Terms of Trade: Indicator and Influencing Factors (Algo Trading)"
-description: "Explore the intricate dynamics of international trade through terms of trade indicators and algorithmic trading Discover how these factors shape global markets"
+category: quant_concept
+description: Explore the intricate dynamics of international trade through terms of
+  trade indicators and algorithmic trading Discover how these factors shape global
+  markets
+title: 'Terms of Trade: Indicator and Influencing Factors (Algo Trading)'
 ---
 
 Understanding the dynamics of international trade is essential in the modern global economy. It encompasses a myriad of concepts that drive the flow of goods, services, and capital across borders. Among these, terms of trade, economic indicators, trade factors, and algorithmic trading (algo trading) are pivotal. Each offers a unique perspective on how countries interact economically, shaping both policies and global market trends.

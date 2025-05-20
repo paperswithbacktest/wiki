@@ -1,6 +1,8 @@
 ---
-title: "Share Certificate (Algo Trading)"
-description: "Explore the essentials of share certificates stock ownership and algorithmic trading Discover how these elements intertwine in modern investment strategies"
+category: quant_concept
+description: Explore the essentials of share certificates stock ownership and algorithmic
+  trading Discover how these elements intertwine in modern investment strategies
+title: Share Certificate (Algo Trading)
 ---
 
 In modern investment strategies, understanding the fundamental concepts of investment documents, stock ownership, share certificates, and algorithmic trading (algo trading) is crucial. An investment document serves as a formal record detailing the terms, rights, and obligations associated with financial transactions, investments, and ownership interests. It is essential for investors to maintain accurate and up-to-date documentation to validate their financial activities, assess the performance of their investments, and comply with regulatory requirements.

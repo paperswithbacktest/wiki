@@ -1,6 +1,9 @@
 ---
-title: "Silver Thursday: Market Manipulation by Wealthy Traders (Algo Trading)"
-description: "Explore the impact of the Hunt brothers’ attempt to corner the silver market on Silver Thursday 1980 and understand how their actions inform today's market regulation against manipulation."
+category: quant_concept
+description: Explore the impact of the Hunt brothers’ attempt to corner the silver
+  market on Silver Thursday 1980 and understand how their actions inform today's market
+  regulation against manipulation.
+title: 'Silver Thursday: Market Manipulation by Wealthy Traders (Algo Trading)'
 ---
 
 Understanding market manipulation is essential for both investors and regulators to safeguard market integrity and maintain equitable trading environments. Market manipulation refers to the deliberate attempt to interfere with the free and fair operation of the financial markets, usually with the intent of creating artificial, false, or misleading appearances with respect to the price of, or market for, a security, commodity, or currency. Such practices can undermine investor confidence and lead to substantial financial losses.

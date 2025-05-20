@@ -1,6 +1,9 @@
 ---
-title: "Supply and Demand (Algo Trading)"
-description: "Explore price theory, market equilibrium, and algorithmic trading to understand their roles in economics and modern financial markets, enhancing trading efficiency."
+category: quant_concept
+description: Explore price theory, market equilibrium, and algorithmic trading to
+  understand their roles in economics and modern financial markets, enhancing trading
+  efficiency.
+title: Supply and Demand (Algo Trading)
 ---
 
 The concepts of price theory, market equilibrium, and algorithmic trading are fundamental to understanding modern economics and financial markets. Price theory serves as the backbone of economic thought, dissecting how prices are determined within a market economy through the forces of supply and demand. It sheds light on the behavior of consumers and producers, playing a crucial role in resource allocation across various economic levels. This theory forms the basis of microeconomic and macroeconomic analysis, influencing decisions that impact everyday life and strategic business planning.

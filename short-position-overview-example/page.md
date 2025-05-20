@@ -1,6 +1,8 @@
 ---
-title: "Short Position: Overview and Example (Algo Trading)"
-description: "Explore essential trading concepts like short positions and algorithmic trading that boost precision and risk management in today's financial markets."
+category: trading_strategy
+description: Explore essential trading concepts like short positions and algorithmic
+  trading that boost precision and risk management in today's financial markets.
+title: 'Short Position: Overview and Example (Algo Trading)'
 ---
 
 In the fast-evolving world of finance, trading strategies are becoming more complex and technology-driven. This article examines three fundamental components of financial markets: stock trading, short positions, and algorithmic trading. Understanding these concepts is vital for traders aiming to navigate the competitive landscape of modern financial markets effectively.

@@ -1,6 +1,8 @@
 ---
-title: "Variability in Statistics and Finance: Measurement Techniques (Algo Trading)"
-description: "Explore variability in statistics and finance with techniques on measuring risk through variance and standard deviation essential for algorithmic trading."
+category: quant_concept
+description: Explore variability in statistics and finance with techniques on measuring
+  risk through variance and standard deviation essential for algorithmic trading.
+title: 'Variability in Statistics and Finance: Measurement Techniques (Algo Trading)'
 ---
 
 Algorithmic trading has fundamentally transformed financial markets by utilizing advanced computational capabilities to execute trades swiftly and in large volumes. Central to the success of these trading strategies is the ability to accurately measure and manage risk, a process that is inherently linked to a thorough understanding of statistics and variability. Risk measurement in financial markets involves quantifying the uncertainty in investment returns, which can be addressed through statistical techniques that analyze data dispersion and volatility. 

@@ -1,6 +1,8 @@
 ---
-title: "Stock Ticker: Mechanism and History (Algo Trading)"
-description: "Explore the history and evolution of stock tickers and algorithmic trading Learn how these innovations revolutionized financial markets and trading strategies"
+category: quant_concept
+description: Explore the history and evolution of stock tickers and algorithmic trading
+  Learn how these innovations revolutionized financial markets and trading strategies
+title: 'Stock Ticker: Mechanism and History (Algo Trading)'
 ---
 
 Understanding the stock market is a fundamental aspect for investors, traders, and financial professionals. This intricate financial ecosystem serves as a barometer for global economic health, offering opportunities for wealth creation, risk management, and capital allocation. Central to navigating this complex environment is the stock ticker, which provides swift access to key market data. Stock tickers have long been indispensable tools, enabling the dissemination of real-time information necessary for making informed investment decisions.

@@ -1,6 +1,9 @@
 ---
-title: "Wells Fargo Intuitive Investor Evaluation 2024 (Algo Trading)"
-description: "Discover the benefits of Wells Fargo Intuitive Investor a robo-advisor platform combining algorithmic trading with professional financial guidance for efficient investing"
+category: trading_strategy
+description: Discover the benefits of Wells Fargo Intuitive Investor a robo-advisor
+  platform combining algorithmic trading with professional financial guidance for
+  efficient investing
+title: Wells Fargo Intuitive Investor Evaluation 2024 (Algo Trading)
 ---
 
 Wells Fargo Intuitive Investor is a robo-advisor platform that integrates automated investment management with professional financial advice. This service leverages technology to provide efficient, low-cost investment solutions, reflecting the growing trend towards automation in financial markets. Robo-advisors have become significant as they democratize access to investment strategies that were once exclusive to high net-worth individuals or institutional investors.

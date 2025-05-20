@@ -1,6 +1,8 @@
 ---
-title: "Time in Force in Financial Markets (Algo Trading)"
-description: "Explore the significance of Time in Force (TIF) in algorithmic trading to enhance order execution precision, mitigate risk, and optimize trading strategies."
+category: quant_concept
+description: Explore the significance of Time in Force (TIF) in algorithmic trading
+  to enhance order execution precision, mitigate risk, and optimize trading strategies.
+title: Time in Force in Financial Markets (Algo Trading)
 ---
 
 In the fast-paced financial markets, understanding the nuances of order execution is crucial for successful trading. A significant component in this domain is "Time in Force" (TIF), a parameter that determines the duration for which a trader's order stays active in the market before it is either executed or expires. Effectively utilizing TIF allows traders to tailor their approach to suit varying market conditions, optimize their trading strategies, and seek the best possible market execution outcomes.

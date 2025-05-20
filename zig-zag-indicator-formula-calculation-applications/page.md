@@ -1,6 +1,8 @@
 ---
-title: "Zig Zag Indicator: Formula, Calculation, and Applications (Algo Trading)"
-description: "Explore the Zig Zag Indicator a key tool in technical analysis for filtering market noise and identifying trend reversals critical for algorithmic trading success."
+category: trading_strategy
+description: Explore the Zig Zag Indicator a key tool in technical analysis for filtering
+  market noise and identifying trend reversals critical for algorithmic trading success.
+title: 'Zig Zag Indicator: Formula, Calculation, and Applications (Algo Trading)'
 ---
 
 The world of stock market trading is vast and intricate, with a multitude of tools available for investors and traders to gain insights. Among these tools, the Zig Zag Indicator stands out as a staple in the technical analysis arsenal. This tool is primarily used to filter out market noise and identify potential reversals in trends, aiding traders in understanding the underlying movements of the market.

@@ -1,7 +1,8 @@
 ---
-title: Understanding Sequence-to-Sequence Models in Machine Learning
+category: quant_concept
 description: Sequence-to-Sequence Models transform variable length inputs into accurate
   outputs by using encoder decoder and attention mechanisms Discover more inside.
+title: Understanding Sequence-to-Sequence Models in Machine Learning
 ---
 
 ![Image](images/1.png)

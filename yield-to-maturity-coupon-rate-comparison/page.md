@@ -1,6 +1,8 @@
 ---
-title: "Yield to Maturity and Coupon Rate Comparison (Algo Trading)"
-description: "Explore yield to maturity YTM vs coupon rates in bonds with insights on algorithmic trading strategies to optimize investment returns in financial markets."
+category: quant_concept
+description: Explore yield to maturity YTM vs coupon rates in bonds with insights
+  on algorithmic trading strategies to optimize investment returns in financial markets.
+title: Yield to Maturity and Coupon Rate Comparison (Algo Trading)
 ---
 
 In the complex world of bond markets, understanding key terms and processes is crucial for making informed investment decisions. Bonds, as fixed-income securities, represent a significant component of the global financial markets and offer investors various opportunities to achieve their financial goals. However, to successfully navigate this landscape, investors must familiarize themselves with certain financial metrics and strategies.

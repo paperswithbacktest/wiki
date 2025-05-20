@@ -1,6 +1,9 @@
 ---
-title: "Seven Eight Capital (Algo Trading)"
-description: "Explore Seven Eight Capital's pioneering role in algorithmic trading leveraging advanced techniques and data insights to enhance market efficiency and liquidity."
+category: quant_concept
+description: Explore Seven Eight Capital's pioneering role in algorithmic trading
+  leveraging advanced techniques and data insights to enhance market efficiency and
+  liquidity.
+title: Seven Eight Capital (Algo Trading)
 ---
 
 Algorithmic trading, the use of computer programs to automate the trading of financial instruments, plays a critical role in today's financial markets. It utilizes complex algorithms and high-speed data processing to make informed trading decisions far quicker than a human could. This form of trading enhances market efficiency and liquidity, minimizing transaction costs and eliminating the emotional impact that may affect human traders. As a prominent aspect of global finance, it has revolutionized the way trading is conducted, making it an essential tool for institutional and retail investors alike.

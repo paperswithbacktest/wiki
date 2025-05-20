@@ -1,6 +1,9 @@
 ---
-title: "Statistical Dispersion: Applications and Analysis (Algo Trading)"
-description: "Explore how statistical dispersion informs algorithmic trading strategies Optimize trading decisions by analyzing data variability and market volatility for enhanced returns"
+category: quant_concept
+description: Explore how statistical dispersion informs algorithmic trading strategies
+  Optimize trading decisions by analyzing data variability and market volatility for
+  enhanced returns
+title: 'Statistical Dispersion: Applications and Analysis (Algo Trading)'
 ---
 
 Algorithmic trading, commonly known as algo trading, is a method of executing trades using pre-programmed algorithms that account for various market variables. This sophisticated trading approach relies heavily on statistical measures to inform trading decisions and manage investment risks. Critical to this process are the concepts of data variability and statistical dispersion, which provide insight into the stability and predictability of financial markets.

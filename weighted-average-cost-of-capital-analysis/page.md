@@ -1,6 +1,9 @@
 ---
-title: "Weighted Average Cost of Capital Analysis (Algo Trading)"
-description: "Unlock insights into financial strategies with our comprehensive guide on Weighted Average Cost of Capital and its pivotal role in corporate finance and algo trading."
+category: quant_concept
+description: Unlock insights into financial strategies with our comprehensive guide
+  on Weighted Average Cost of Capital and its pivotal role in corporate finance and
+  algo trading.
+title: Weighted Average Cost of Capital Analysis (Algo Trading)
 ---
 
 Understanding financial metrics is essential for professionals in corporate finance and investment. Among the myriad of financial tools and concepts, the Weighted Average Cost of Capital (WACC) emerges as a fundamental metric that holds significant value in financial analysis and strategic decision-making. WACC represents the average rate of return required by both investors and debt holders for a company to justify its operations and grow sustainably.

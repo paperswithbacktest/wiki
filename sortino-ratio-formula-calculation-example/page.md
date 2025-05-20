@@ -1,6 +1,9 @@
 ---
-title: "Sortino Ratio: Formula, Calculation, and Example (Algo Trading)"
-description: "Explore the Sortino Ratio to understand its role in risk-adjusted returns, particularly for risk-averse investors in algorithmic trading focusing on downside risk."
+category: quant_concept
+description: Explore the Sortino Ratio to understand its role in risk-adjusted returns,
+  particularly for risk-averse investors in algorithmic trading focusing on downside
+  risk.
+title: 'Sortino Ratio: Formula, Calculation, and Example (Algo Trading)'
 ---
 
 Risk measurement is a cornerstone of investment analysis, playing a critical role in the development and implementation of trading strategies, particularly within algorithmic trading. As financial markets present a diverse array of uncertainties, accurately quantifying and managing risk can significantly influence the success and stability of investment outcomes. By employing various risk measurement tools, traders and investors can assess potential losses and devise strategies that align with their risk tolerance and investment objectives.

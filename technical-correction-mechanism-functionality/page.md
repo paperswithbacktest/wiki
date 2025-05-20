@@ -1,6 +1,8 @@
 ---
-title: "Technical Correction: Mechanism and Functionality (Algo Trading)"
-description: "Explore the impact of technical corrections on financial markets and the role of algorithmic trading in managing these adjustments for strategic gains."
+category: quant_concept
+description: Explore the impact of technical corrections on financial markets and
+  the role of algorithmic trading in managing these adjustments for strategic gains.
+title: 'Technical Correction: Mechanism and Functionality (Algo Trading)'
 ---
 
 Technical corrections are significant events in financial markets, impacting investor strategies and market trends. These adjustments, where stock or index prices typically fall between 10% and 20% from recent highs, are not indicators of long-term trend reversals but rather reflect necessary modifications prompted by various market dynamics. This article examines the concept of technical correction, its effects on financial markets, and the function of algorithmic trading in managing these corrections.

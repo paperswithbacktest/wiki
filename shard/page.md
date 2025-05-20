@@ -1,7 +1,8 @@
 ---
-title: Sharding Strategies to Enhance Machine Learning Performance
+category: dataset
 description: Machine learning sharding splits big datasets into shards for parallel
   processing and memory savings while speeding model training Discover more inside
+title: Sharding Strategies to Enhance Machine Learning Performance
 ---
 
 ![Image](images/1.png)

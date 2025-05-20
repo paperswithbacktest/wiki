@@ -1,6 +1,8 @@
 ---
-title: "Zero-Bound Interest Rate: History and Crisis Strategies (Algo Trading)"
-description: "Discover the impact of zero-bound interest rates on monetary policy and explore innovative strategies like quantitative easing and algorithmic trading adaptations."
+category: trading_strategy
+description: Discover the impact of zero-bound interest rates on monetary policy and
+  explore innovative strategies like quantitative easing and algorithmic trading adaptations.
+title: 'Zero-Bound Interest Rate: History and Crisis Strategies (Algo Trading)'
 ---
 
 In recent years, monetary policy has proven to be a decisive instrument in confronting economic crises, particularly when interest rates hover at or near zero. Such scenarios often limit the efficacy of traditional monetary approaches, urging central banks to adopt innovative strategies. The primary objective remains to sustain economic growth, stabilize markets, and guard against downturns.

@@ -1,6 +1,9 @@
 ---
-title: "United States Central Bank Digital Currency Design (Algo Trading)"
-description: "Explore the impact of US Central Bank Digital Currency on algorithmic trading and discover how digital currencies might transform financial markets and strategies."
+category: quant_concept
+description: Explore the impact of US Central Bank Digital Currency on algorithmic
+  trading and discover how digital currencies might transform financial markets and
+  strategies.
+title: United States Central Bank Digital Currency Design (Algo Trading)
 ---
 
 The digital economy is undergoing a significant transformation, placing digital currencies at the forefront of this evolution. In particular, the idea of a Central Bank Digital Currency (CBDC) in the United States has become a topic of substantial interest and debate. As technological advancements reshape financial systems, understanding the implications of a US CBDC is crucial. This digital currency innovation signifies a shift from conventional financial mechanisms, potentially affecting transaction processes, monetary policy, and economic stability.

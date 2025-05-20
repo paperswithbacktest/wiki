@@ -1,7 +1,8 @@
 ---
-title: Managing Sensitive Attributes In Machine Learning For Fairness
+category: quant_concept
 description: Sensitive attributes in machine learning models can introduce bias if
   misused. Use ethical methods to ensure fair outcomes. Discover more inside.
+title: Managing Sensitive Attributes In Machine Learning For Fairness
 ---
 
 ![Image](images/1.jpeg)

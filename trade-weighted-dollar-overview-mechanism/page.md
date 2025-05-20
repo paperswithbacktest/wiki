@@ -1,6 +1,8 @@
 ---
-title: "Trade-Weighted Dollar: Overview and Mechanism (Algo Trading)"
-description: "Explore the trade-weighted dollar's role in currency valuation and algorithmic trading for enhanced financial strategies and insights into global markets."
+category: quant_concept
+description: Explore the trade-weighted dollar's role in currency valuation and algorithmic
+  trading for enhanced financial strategies and insights into global markets.
+title: 'Trade-Weighted Dollar: Overview and Mechanism (Algo Trading)'
 ---
 
 In today's interconnected financial environment, understanding currency valuation is crucial for traders and investors. The trade-weighted dollar exchange rate is an essential tool in this regard, providing a comprehensive measure of the U.S. dollar's value relative to a basket of currencies from its major trading partners. This measurement offers insight into the competitiveness and purchasing power of the dollar in international markets.

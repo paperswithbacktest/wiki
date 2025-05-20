@@ -1,6 +1,9 @@
 ---
-title: "Soft Commodity Futures Trading (Algo Trading)"
-description: "Explore the role of algorithmic trading in soft commodity futures markets offering insights into trading strategies and regulatory frameworks for cocoa coffee and sugar."
+category: trading_strategy
+description: Explore the role of algorithmic trading in soft commodity futures markets
+  offering insights into trading strategies and regulatory frameworks for cocoa coffee
+  and sugar.
+title: Soft Commodity Futures Trading (Algo Trading)
 ---
 
 Futures trading in soft commodities plays a crucial role in the financial markets, encompassing both risk management and opportunities inherent in agricultural products such as cocoa, coffee, and sugar. Unlike hard commodities like metals or energy, which are extracted and non-perishable, soft commodities consist of agricultural goods that are cultivated and subject to perishability. This distinction significantly influences their trading dynamics.
@@ -169,4 +172,3 @@ In conclusion, while the futures market in soft commodities presents inherent ri
 [5]: ["Understanding the Regulatory Framework of Commodity Futures Trading"](https://www.investopedia.com/terms/c/cftc.asp) - Commodity Futures Trading Commission (CFTC)
 
 [6]: Irwin, S. H., & Sanders, D. R. (2011). ["Index Funds, Financialization, and Commodity Futures Markets"](https://www.jstor.org/stable/pdf/41237206.pdf). Annual Review of Resource Economics.
-

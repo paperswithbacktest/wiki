@@ -1,6 +1,9 @@
 ---
-title: "Upstairs Market: Overview, Functionality, and Benefits (Algo Trading)"
-description: "Discover the dynamics of upstairs market and algorithmic trading from execution to benefits Learn how these methods enhance liquidity privacy and market efficiency"
+category: quant_concept
+description: Discover the dynamics of upstairs market and algorithmic trading from
+  execution to benefits Learn how these methods enhance liquidity privacy and market
+  efficiency
+title: 'Upstairs Market: Overview, Functionality, and Benefits (Algo Trading)'
 ---
 
 The financial markets have always been a complex and ever-evolving ecosystem, characterized by a dynamic interplay of economic forces, technological advancements, and regulatory frameworks. Two significant segments that have gained prominence over recent years are upstairs market trading and algorithmic trading (algo trading). These segments are noteworthy for their substantial impact on trading strategies, market liquidity, and operational efficiencies.

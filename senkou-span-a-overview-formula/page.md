@@ -1,6 +1,9 @@
 ---
-title: "Senkou Span A: Overview and Formula (Algo Trading)"
-description: "Explore Senkou Span A within the Ichimoku Cloud to boost trading insights, utilizing its predictive analysis for assessing future market trends and support levels."
+category: quant_concept
+description: Explore Senkou Span A within the Ichimoku Cloud to boost trading insights,
+  utilizing its predictive analysis for assessing future market trends and support
+  levels.
+title: 'Senkou Span A: Overview and Formula (Algo Trading)'
 ---
 
 The Ichimoku Cloud, also known as Ichimoku Kinko Hyo, is a comprehensive technical analysis indicator used widely among traders to assess market trends and momentum. Developed by Japanese journalist Goichi Hosoda in the late 1930s, it was designed to provide a clearer picture of potential price action. At its core, the Ichimoku Cloud is a multi-faceted tool that combines several indicators to help traders identify potential support and resistance levels, gauge momentum, and determine the direction of trends.

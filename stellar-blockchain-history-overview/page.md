@@ -1,6 +1,9 @@
 ---
-title: "Stellar Blockchain: History and Overview (Algo Trading)"
-description: "Explore the Stellar blockchain its history and role in revolutionizing cross-border financial transactions with fast low-cost transfers using unique technologies like Lumens."
+category: quant_concept
+description: Explore the Stellar blockchain its history and role in revolutionizing
+  cross-border financial transactions with fast low-cost transfers using unique technologies
+  like Lumens.
+title: 'Stellar Blockchain: History and Overview (Algo Trading)'
 ---
 
 Stellar is a decentralized open-source blockchain platform founded in 2014 by Jed McCaleb and Joyce Kim. It is designed to facilitate fast and low-cost financial transactions across borders. The core mission of Stellar is to enhance financial access and promote inclusion globally by providing a seamless platform for transferring digital currencies and traditional assets. This protocol serves as an innovative bridge between traditional financial systems and the modern world of digital currencies, significantly reducing transactional friction and cost.

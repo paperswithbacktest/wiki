@@ -1,7 +1,8 @@
 ---
-title: Understanding Similarity Measures in Machine Learning
+category: quant_concept
 description: Similarity measures in machine learning reveal how algorithms compare
   data to enhance clustering classification and recommendations. Discover more inside.
+title: Understanding Similarity Measures in Machine Learning
 ---
 
 ![Image](images/1.png)

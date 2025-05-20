@@ -1,6 +1,8 @@
 ---
-title: "Supernormal Dividend Growth (Algo Trading)"
-description: "Explore strategies combining supernormal dividend investment, dividend growth, and algo trading to enhance returns while managing risks effectively."
+category: trading_strategy
+description: Explore strategies combining supernormal dividend investment, dividend
+  growth, and algo trading to enhance returns while managing risks effectively.
+title: Supernormal Dividend Growth (Algo Trading)
 ---
 
 In today's financial landscape, investors seek strategies that not only deliver solid returns but also manage risk effectively. This article explores a blend of three key strategies: investment in supernormal dividends, dividend growth, and algorithmic trading. These strategies offer different but complementary benefits, providing investors with tools to enhance portfolio performance. 
@@ -123,4 +125,3 @@ $$
 3. **Asness, C. S. (1994). "Variables that Explain Stock Returns."** The American Economic Review. Asness explores various factors influencing stock returns, offering insights that assist in crafting robust investment strategies. His analysis is valuable for understanding how dividend growth and other metrics can impact stock valuation, guiding investors in making informed decisions.
 
 4. **Algorithmic Trading & DMA: An Introduction to Direct Access Trading Strategies by Barry Johnson.** Johnson's work provides a comprehensive overview of algorithmic trading, detailing how automated processes can enhance decision-making and trade execution. This book is pivotal for investors interested in leveraging technology to improve the efficiency and effectiveness of their trading strategies.
-

@@ -1,6 +1,9 @@
 ---
-title: "S&P Phenomenon: Interpretation and Criteria (Algo Trading)"
-description: "Explore the impact of economic criteria, the S&P 500 phenomenon, and algorithmic trading on market dynamics and investment strategies in this insightful article."
+category: quant_concept
+description: Explore the impact of economic criteria, the S&P 500 phenomenon, and
+  algorithmic trading on market dynamics and investment strategies in this insightful
+  article.
+title: 'S&P Phenomenon: Interpretation and Criteria (Algo Trading)'
 ---
 
 The world of finance is a rich tapestry of interconnected elements that intricately influence market dynamics and investment decisions. This article focuses on three critical components that exemplify such influences: the economic criteria used in financial analysis, the phenomenon associated with the S&P 500 Index, and the transformative role of algorithmic trading. By examining these elements, we aim to shed light on their individual and collective impacts on the modern financial landscape.

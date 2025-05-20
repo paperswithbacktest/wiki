@@ -1,6 +1,9 @@
 ---
-title: "Structure and Powers of the Office of the Comptroller of the Currency (Algo Trading)"
-description: "Explore the OCC's role in regulating algorithmic trading ensuring banking sector stability by managing risks and adhering to robust compliance."
+category: quant_concept
+description: Explore the OCC's role in regulating algorithmic trading ensuring banking
+  sector stability by managing risks and adhering to robust compliance.
+title: Structure and Powers of the Office of the Comptroller of the Currency (Algo
+  Trading)
 ---
 
 Algorithmic trading is a sophisticated method employed in financial markets to execute orders using automated pre-programmed trading instructions. This approach leverages complex algorithms and rapid data processing to buy and sell securities at speeds and frequencies far exceeding human capability. The rise of algorithmic trading has transformed the financial landscape, introducing benefits such as reduced transaction costs, increased efficiency, and improved market liquidity. However, it also presents new challenges and risks, including potential market manipulation and systemic failures.

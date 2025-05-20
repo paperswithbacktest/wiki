@@ -1,6 +1,8 @@
 ---
-title: "Stop-Loss Orders on Mutual Funds (Algo Trading)"
-description: "Explore mutual funds stop-loss orders and algo trading for optimized investment strategies Minimize risk maximize returns and achieve financial goals"
+category: trading_strategy
+description: Explore mutual funds stop-loss orders and algo trading for optimized
+  investment strategies Minimize risk maximize returns and achieve financial goals
+title: Stop-Loss Orders on Mutual Funds (Algo Trading)
 ---
 
 Investment strategies are systematic plans devised to guide individuals or institutions in making decisions about their financial assets with the aim of achieving specific financial goals. These strategies are crucial as they help investors in allocating resources effectively, managing risk, and maximizing returns over time. A well-constructed investment strategy considers an investor's risk tolerance, time horizon, and financial objectives. Among the myriad of investment strategies available, mutual funds, stop-loss orders, and algorithmic trading are prominent components that have shaped modern investment practices.

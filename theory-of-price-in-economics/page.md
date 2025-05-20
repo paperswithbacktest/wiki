@@ -1,6 +1,8 @@
 ---
-title: "Theory of Price in Economics (Algo Trading)"
-description: "Explore how price theory interacts with economic theories and algorithmic trading to understand market dynamics and optimize trading strategies."
+category: quant_concept
+description: Explore how price theory interacts with economic theories and algorithmic
+  trading to understand market dynamics and optimize trading strategies.
+title: Theory of Price in Economics (Algo Trading)
 ---
 
 Price theory is a cornerstone concept in economics that focuses on understanding how prices are established and influenced by various determinants within markets. At its core, price theory arises from the interplay between supply and demand, which collectively shape the equilibrium price of goods and services. 

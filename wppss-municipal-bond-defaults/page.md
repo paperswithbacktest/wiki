@@ -1,6 +1,8 @@
 ---
-title: "WPPSS and Municipal Bond Defaults (Algo Trading)"
-description: "Explore the impact of the WPPSS default on municipal finance history and algorithmic trading's role in enhancing risk assessment in municipal bond markets."
+category: quant_concept
+description: Explore the impact of the WPPSS default on municipal finance history
+  and algorithmic trading's role in enhancing risk assessment in municipal bond markets.
+title: WPPSS and Municipal Bond Defaults (Algo Trading)
 ---
 
 The Washington Public Power Supply System (WPPSS), colloquially known by its nickname "Whoops," stands as a pivotal case in the history of municipal finance. Established as a consortium of public utility districts in the Pacific Northwest, WPPSS's original mission was to ensure a stable and reliable electrical power supply. However, it became infamous for its financial disaster that resulted in the largest municipal bond default in U.S. history. This default significantly disturbed the municipal bond market, leading to substantial losses for investors and prompting a reevaluation of risk and management practices across the financial sector.

@@ -1,6 +1,11 @@
 ---
-title: "TWAP Strategy (Algo Trading)"
-description: Learn about the Time-Weighted Average Price (TWAP) strategy in algorithmic trading designed to execute large orders efficiently by breaking them into smaller trades over a set timeframe. Discover how TWAP minimizes market impact, its advantages over strategies like VWAP, and explore its calculation, benefits, and implementation to enhance trading precision with reduced market disruption.
+category: trading_strategy
+description: Learn about the Time-Weighted Average Price (TWAP) strategy in algorithmic
+  trading designed to execute large orders efficiently by breaking them into smaller
+  trades over a set timeframe. Discover how TWAP minimizes market impact, its advantages
+  over strategies like VWAP, and explore its calculation, benefits, and implementation
+  to enhance trading precision with reduced market disruption.
+title: TWAP Strategy (Algo Trading)
 ---
 
 In algorithmic trading, executing large orders efficiently without affecting market prices is a challenge every trader faces. The Time-Weighted Average Price (TWAP) is a popular trading algorithm designed to address this challenge. It is an execution strategy that aims to break down large orders into smaller, equally-sized trades over a specified time period, reducing the market impact. TWAP is fundamentally a strategy focused on achieving an average execution price over that time frame.

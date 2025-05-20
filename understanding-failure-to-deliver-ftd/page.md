@@ -1,6 +1,9 @@
 ---
-title: "Understanding Failure to Deliver (FTD) (Algo Trading)"
-description: "Explore the implications of Failure to Deliver (FTD) in algo trading and global markets Understand causes impacts and regulatory measures to mitigate risks"
+category: quant_concept
+description: Explore the implications of Failure to Deliver (FTD) in algo trading
+  and global markets Understand causes impacts and regulatory measures to mitigate
+  risks
+title: Understanding Failure to Deliver (FTD) (Algo Trading)
 ---
 
 The securities market has undergone significant transformations in recent years, driven by technological advancements and changing regulatory environments. This evolution is characterized by increased automation, complex financial instruments, and a globalized trading ecosystem. The adoption of algorithmic trading, a dominant force in modern markets, exemplifies these changes. This practice involves the use of computer algorithms to manage trading activities by making decisions at speeds beyond human capability. Algorithms assess data, execute trades, and even manage risk, revolutionizing traditional trading methodologies. Algorithmic trading has led to enhanced market efficiency and liquidity but has also introduced new challenges, including systemic risks and market disruptions.

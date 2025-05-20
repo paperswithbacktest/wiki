@@ -1,6 +1,8 @@
 ---
-title: "Trade Trigger: Overview, Advantages, and Disadvantages (Algo Trading)"
-description: "Explore the advantages and disadvantages of trade triggers in algorithmic trading and their impact on trading efficiency and strategy execution."
+category: trading_strategy
+description: Explore the advantages and disadvantages of trade triggers in algorithmic
+  trading and their impact on trading efficiency and strategy execution.
+title: 'Trade Trigger: Overview, Advantages, and Disadvantages (Algo Trading)'
 ---
 
 Stock trading has undergone profound changes with the integration of technology, fundamentally shifting how trades are executed and strategies are devised. At the forefront of this transformation is algorithmic trading, a method that utilizes predefined sets of rules or instructions to automate trading processes. These algorithms can process vast amounts of data, analyze market conditions, and perform trades at speeds far exceeding human capability. This has not only increased the efficiency of stock trading but also provided new strategic opportunities for traders.

@@ -1,6 +1,14 @@
 ---
-title: "Time under water (TuW) (Algo Trading)"
-description: Time Under Water (TUW) is a crucial metric in algorithmic trading that quantifies the duration a trading strategy spends below a previous peak, offering insights into recovery times rather than just loss magnitudes. TUW highlights a strategy's resilience and informs traders about temporal risks, with implications for risk management and performance evaluation. It is vital for assessing strategy robustness, especially in high-frequency trading, where minimizing TUW can enhance liquidity management. Understanding and calculating TUW provides traders with an essential tool for refining strategies and maximizing sustainable returns over time.
+category: quant_concept
+description: Time Under Water (TUW) is a crucial metric in algorithmic trading that
+  quantifies the duration a trading strategy spends below a previous peak, offering
+  insights into recovery times rather than just loss magnitudes. TUW highlights a
+  strategy's resilience and informs traders about temporal risks, with implications
+  for risk management and performance evaluation. It is vital for assessing strategy
+  robustness, especially in high-frequency trading, where minimizing TUW can enhance
+  liquidity management. Understanding and calculating TUW provides traders with an
+  essential tool for refining strategies and maximizing sustainable returns over time.
+title: Time under water (TuW) (Algo Trading)
 ---
 
 Time Under Water (TUW) is a notable concept within algorithmic trading that captures the duration a trading strategy persists below a prior performance peak, commonly referred to as being "underwater." Unlike traditional metrics that focus primarily on the magnitude of loss, TUW provides insights into the temporal aspect of drawdowns, thereby offering a more nuanced view of a strategy's performance stability. The significance of TUW in assessing trading strategy performance lies in its ability to measure the resilience of the strategy over time, a critical factor in ensuring sustainable returns.

@@ -1,7 +1,8 @@
 ---
-title: Understanding Training Loss in Machine Learning Models
+category: quant_concept
 description: Training loss in machine learning measures errors and guides optimization
   with loss functions and strategies to improve predictions Discover more inside
+title: Understanding Training Loss in Machine Learning Models
 ---
 
 ![Image](images/1.png)

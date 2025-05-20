@@ -1,6 +1,13 @@
 ---
-title: "Which software is best for quant trading?"
-description: "Discover the best software for quantitative trading based on your needs, programming skills, and available resources. Explore seven reputable platforms: QuantConnect, Backtrader, MetaTrader, NinjaTrader, Zipline, Quantlib, and AlgoTrader. New users may prefer MetaTrader or NinjaTrader, while Python programmers should consider Backtrader or Zipline. Choose a cloud-based solution with QuantConnect for maximum flexibility or an integrated platform like AlgoTrader for machine learning strategies."
+category: quant_concept
+description: 'Discover the best software for quantitative trading based on your needs,
+  programming skills, and available resources. Explore seven reputable platforms:
+  QuantConnect, Backtrader, MetaTrader, NinjaTrader, Zipline, Quantlib, and AlgoTrader.
+  New users may prefer MetaTrader or NinjaTrader, while Python programmers should
+  consider Backtrader or Zipline. Choose a cloud-based solution with QuantConnect
+  for maximum flexibility or an integrated platform like AlgoTrader for machine learning
+  strategies.'
+title: Which software is best for quant trading?
 ---
 
 Quantitative trading is a sophisticated approach to trading in financial markets, distinguished by its reliance on mathematical models and algorithms to inform trading decisions. This method contrasts with traditional trading, which often depends on market sentiment or human intuition. By analyzing large sets of historical and real-time market data, quantitative trading aims to identify patterns and execute trades based on predefined criteria.

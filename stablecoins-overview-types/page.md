@@ -1,6 +1,9 @@
 ---
-title: "Stablecoins: Overview and Types (Algo Trading)"
-description: "Explore the role and types of stablecoins in the crypto space. Learn how these digital currencies offer stability to facilitate trades and hedge against volatility."
+category: quant_concept
+description: Explore the role and types of stablecoins in the crypto space. Learn
+  how these digital currencies offer stability to facilitate trades and hedge against
+  volatility.
+title: 'Stablecoins: Overview and Types (Algo Trading)'
 ---
 
 Stablecoins have emerged as a significant category in the cryptocurrency space, addressing some of the inherent challenges posed by traditional cryptocurrencies. These digital currencies are designed to maintain a stable value by pegging to stable assets such as fiat currencies, commodities, or utilizing other mechanisms to mitigate the volatility that characterizes many cryptocurrencies like Bitcoin (BTC) and Ethereum (ETH).

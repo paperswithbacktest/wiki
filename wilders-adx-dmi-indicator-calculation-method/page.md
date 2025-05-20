@@ -1,6 +1,8 @@
 ---
-title: "Wilder's ADX and DMI Indicator: Calculation Method (Algo Trading)"
-description: "Discover the essentials of Wilder's ADX and DMI system and their role in assessing trend strength and direction for effective algorithmic trading strategies."
+category: quant_concept
+description: Discover the essentials of Wilder's ADX and DMI system and their role
+  in assessing trend strength and direction for effective algorithmic trading strategies.
+title: 'Wilder''s ADX and DMI Indicator: Calculation Method (Algo Trading)'
 ---
 
 This article explores the fundamentals of Wilder's Average Directional Index (ADX), a pivotal component within the technical analysis domain, particularly within Wilder's Directional Movement Index (DMI) system. Developed by J. Welles Wilder Jr. in the late 1970s, the ADX indicator has become a crucial tool for traders seeking to assess market trends' strength and direction. The DMI system itself comprises three indicators: the ADX, the Positive Directional Indicator (DI+), and the Negative Directional Indicator (DI-). These components work in harmony to provide traders with insights into both trend strength and momentum.

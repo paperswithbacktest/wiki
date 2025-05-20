@@ -1,6 +1,14 @@
 ---
-title: "Substitution Effect: Concept and Causes (Algo Trading)"
-description: "Explore the concept of the substitution effect and its impact on consumer behavior and economic decision-making. Learn how changes in the relative prices of goods influence consumer choices as consumers opt for cheaper alternatives while maintaining satisfaction. Understand the significance of the substitution effect in algorithmic trading and its role in guiding automated trades in response to price changes, enhancing trading strategies in modern financial markets. Discover the difference between substitution and income effects through economic theories that illustrate consumer purchasing patterns and decision-making dynamics."
+category: quant_concept
+description: Explore the concept of the substitution effect and its impact on consumer
+  behavior and economic decision-making. Learn how changes in the relative prices
+  of goods influence consumer choices as consumers opt for cheaper alternatives while
+  maintaining satisfaction. Understand the significance of the substitution effect
+  in algorithmic trading and its role in guiding automated trades in response to price
+  changes, enhancing trading strategies in modern financial markets. Discover the
+  difference between substitution and income effects through economic theories that
+  illustrate consumer purchasing patterns and decision-making dynamics.
+title: 'Substitution Effect: Concept and Causes (Algo Trading)'
 ---
 
 The interplay between consumer behavior and economic theory provides a comprehensive understanding of market dynamics and decision-making processes. At its core, consumer behavior is driven by the decisions individuals and groups make regarding the acquisition, consumption, and disposal of goods and services. These decisions are heavily influenced by economic theories that seek to explain how and why consumers prioritize certain goods over others, particularly when there are changes in relative prices or their income levels. One of the fundamental concepts in this discourse is the substitution effect, which describes how consumers respond to changes in the price of a good relative to other goods. When the price of a good rises, consumers tend to substitute that good with a cheaper alternative, aiming to maintain their level of satisfaction or utility without increasing their spending.

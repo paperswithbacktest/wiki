@@ -1,6 +1,8 @@
 ---
-title: "Up-and-Out Option: Definition and Functionality (Algo Trading)"
-description: "Explore the advantages of up-and-out options in algo trading. Learn how these barrier options offer cost-effective risk management and profit potential."
+category: quant_concept
+description: Explore the advantages of up-and-out options in algo trading. Learn how
+  these barrier options offer cost-effective risk management and profit potential.
+title: 'Up-and-Out Option: Definition and Functionality (Algo Trading)'
 ---
 
 Financial derivatives are pivotal instruments in the landscape of modern finance, providing sophisticated mechanisms for managing risk and optimizing returns. These financial contracts derive their value from an underlying asset, which can range from stocks and bonds to currencies and interest rates. Derivatives are chiefly employed to hedge against price fluctuations, speculate on future movements, or access assets or markets that might otherwise be inaccessible. Among the various types of derivatives, barrier options, particularly up-and-out options, present unique opportunities and challenges.

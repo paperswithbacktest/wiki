@@ -1,6 +1,8 @@
 ---
-title: "Stock Trading for College Students: A Starter Guide (Algo Trading)"
-description: "Explore stock trading and algorithmic trading for college students with our guide offering essential tips to build a solid financial foundation early on."
+category: trading_strategy
+description: Explore stock trading and algorithmic trading for college students with
+  our guide offering essential tips to build a solid financial foundation early on.
+title: 'Stock Trading for College Students: A Starter Guide (Algo Trading)'
 ---
 
 Stock trading and investment present an enticing prospect for college students aiming to build a financial portfolio early in their lives. Engaging in the stock market provides not only the potential for financial gain but also an opportunity to develop a profound understanding of financial markets, risk assessment, and economic principles. With the emergence and growth of algorithmic trading, students equipped with the right technological skills and knowledge are well-placed to navigate the complexities of the stock market more effectively. 

@@ -1,6 +1,9 @@
 ---
-title: "Short Selling and the Implementation of Bans (Algo Trading)"
-description: "Explore the impact of short selling and algorithmic trading in finance. Discover regulations, their motivations, and how they shape market stability and risk."
+category: trading_strategy
+description: Explore the impact of short selling and algorithmic trading in finance.
+  Discover regulations, their motivations, and how they shape market stability and
+  risk.
+title: Short Selling and the Implementation of Bans (Algo Trading)
 ---
 
 The world of finance has undergone transformative changes over the years, significantly influenced by the emergence and adoption of various trading strategies. Two of the most prominent among these are short selling and algorithmic trading. These strategies have redefined trading practices, enabling market participants to adopt diverse approaches aimed at maximizing profit while managing risk. Short selling, which involves borrowing and selling assets with the intention of repurchasing them at a lower price, allows traders to capitalize on declining markets. Conversely, algorithmic trading utilizes computer algorithms to execute trades at speeds and frequencies challenging for human traders to match, enhancing market efficiency and liquidity.

@@ -1,6 +1,8 @@
 ---
-title: "Teaser Document (Algo Trading)"
-description: "Explore how teaser documents enhance algorithmic trading by providing concise investment insights that drive informed decisions and optimize market strategies."
+category: quant_concept
+description: Explore how teaser documents enhance algorithmic trading by providing
+  concise investment insights that drive informed decisions and optimize market strategies.
+title: Teaser Document (Algo Trading)
 ---
 
 In finance, efficient document management is essential, particularly in algorithmic trading and investments. Central to this process is the teaser document, a critical instrument used to communicate potential investment opportunities to prospective investors. These documents serve as introductory previews that highlight the investment potential of a given venture, enabling investors to quickly assess and respond to market prospects.

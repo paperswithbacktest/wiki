@@ -1,6 +1,8 @@
 ---
-title: "Universal Market Integrity Rules (Algo Trading)"
-description: "Explore the significance of Universal Market Integrity Rules in algorithmic trading to maintain financial stability and trust in rapidly evolving global markets."
+category: quant_concept
+description: Explore the significance of Universal Market Integrity Rules in algorithmic
+  trading to maintain financial stability and trust in rapidly evolving global markets.
+title: Universal Market Integrity Rules (Algo Trading)
 ---
 
 In today's rapidly evolving financial markets, achieving financial integrity through effective market regulation and trading rules is crucial to safeguarding the stability and reliability of global economies. Financial integrity fosters trust and confidence among investors, market participants, and regulatory bodies, which is essential for the smooth functioning of markets. The increasing complexity and speed of today's markets, driven largely by technological advancements, have introduced both opportunities and challenges in maintaining this integrity.

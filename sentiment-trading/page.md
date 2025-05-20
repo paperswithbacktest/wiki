@@ -1,6 +1,9 @@
 ---
-title: "Sentiment Trading (Algo Trading)"
-description: Discover the importance of Sentiment Trading in Algo Trading. Learn how sentiment indicators like VIX, High-Low Index, Bullish Percentage Index, and Moving Averages help predict market movements based on investor psychology.
+category: trading_strategy
+description: Discover the importance of Sentiment Trading in Algo Trading. Learn how
+  sentiment indicators like VIX, High-Low Index, Bullish Percentage Index, and Moving
+  Averages help predict market movements based on investor psychology.
+title: Sentiment Trading (Algo Trading)
 ---
 
 Sentiment trading is an innovative approach in financial markets that leverages sentiment analysis to make informed trading decisions. This method involves evaluating public sentiment from various sources like news articles, social media, and financial reports to assess market mood and predict price movements. The core idea behind sentiment trading is that emotions and opinions significantly influence investor behavior and, consequently, market dynamics. By harnessing sentiment data, traders aim to identify trends and patterns that might not be visible through traditional analysis.

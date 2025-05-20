@@ -1,6 +1,8 @@
 ---
-title: "Tax-Efficient Funds: Overview and Functionality (Algo Trading)"
-description: "Discover how tax-efficient funds and algorithmic trading can enhance your financial strategy by reducing tax liabilities and optimizing investment outcomes."
+category: trading_strategy
+description: Discover how tax-efficient funds and algorithmic trading can enhance
+  your financial strategy by reducing tax liabilities and optimizing investment outcomes.
+title: 'Tax-Efficient Funds: Overview and Functionality (Algo Trading)'
 ---
 
 Maximizing returns while minimizing tax liabilities is a critical strategy for investors in the complex landscape of financial planning. Tax-efficient funds and algorithmic trading present innovative solutions that can optimize investment strategies and contribute to a more effective financial plan. This article focuses on understanding the synergy between these tools and how they can be strategically aligned to improve financial outcomes.

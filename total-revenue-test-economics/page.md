@@ -1,6 +1,8 @@
 ---
-title: "Total Revenue Test in Economics (Algo Trading)"
-description: "Explore the role of the total revenue test in economics and algorithmic trading. Understand demand elasticity to enhance pricing strategies and boost profitability."
+category: quant_concept
+description: Explore the role of the total revenue test in economics and algorithmic
+  trading. Understand demand elasticity to enhance pricing strategies and boost profitability.
+title: Total Revenue Test in Economics (Algo Trading)
 ---
 
 Total revenue, a fundamental concept in economics, is critical for analyzing pricing strategies and understanding market dynamics. It serves as a key indicator of business performance, representing the total income a company generates from the sale of goods or services. Mathematically, total revenue (TR) is calculated as the product of the quantity sold (Q) and the price per unit (P), expressed as:

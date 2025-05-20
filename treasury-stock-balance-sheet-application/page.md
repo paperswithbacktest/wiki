@@ -1,6 +1,8 @@
 ---
-title: "Treasury Stock and Balance Sheet Application (Algo Trading)"
-description: "Explore how treasury stock and algorithmic trading shape corporate finance and strategies. Gain insights into financial metrics and decision-making dynamics."
+category: quant_concept
+description: Explore how treasury stock and algorithmic trading shape corporate finance
+  and strategies. Gain insights into financial metrics and decision-making dynamics.
+title: Treasury Stock and Balance Sheet Application (Algo Trading)
 ---
 
 In corporate finance, treasury shares and treasury stock play significant roles in influencing a company's financial structure and strategic operations. These elements are key for investors and stakeholders, offering vital insights into a company's fiscal health and strategic initiatives. Understanding treasury shares and treasury stock is essential, as these factors contribute to the evaluation of a firm’s performance and affect important financial metrics.

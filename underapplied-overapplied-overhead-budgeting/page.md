@@ -1,6 +1,9 @@
 ---
-title: "Underapplied and Overapplied Overhead in Budgeting (Algo Trading)"
-description: "Understanding underapplied and overapplied overhead is vital in budgeting for algorithmic trading to ensure precise cost management and optimize financial outcomes."
+category: quant_concept
+description: Understanding underapplied and overapplied overhead is vital in budgeting
+  for algorithmic trading to ensure precise cost management and optimize financial
+  outcomes.
+title: Underapplied and Overapplied Overhead in Budgeting (Algo Trading)
 ---
 
 In finance and accounting, understanding key concepts is crucial for business success. Among these principles, the notions of underapplied and overapplied overhead hold significant importance. These concepts are integral to effective budgeting, ensuring that financial operations reflect accurate cost management and resource allocation.

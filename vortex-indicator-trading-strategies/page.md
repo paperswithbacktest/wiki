@@ -1,6 +1,8 @@
 ---
-title: "Vortex Indicator Trading Strategies (Algo Trading)"
-description: "Explore the Vortex Indicator's role in algo trading discover strategies for identifying market trends and enhance efficiency by automating trading signals."
+category: trading_strategy
+description: Explore the Vortex Indicator's role in algo trading discover strategies
+  for identifying market trends and enhance efficiency by automating trading signals.
+title: Vortex Indicator Trading Strategies (Algo Trading)
 ---
 
 The Vortex Indicator, introduced by Etienne Botes and Douglas Siepman in 2010, is a popular tool in technical analysis used to identify the beginning of a new trend or the continuation of an existing trend. This indicator is based on the concept of a vortex in motion, which is analogous to the directional movement of prices. Technical indicators like the Vortex Indicator play a crucial role in forming robust trading strategies by providing insights into market trends and price movements.

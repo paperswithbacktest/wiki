@@ -1,6 +1,8 @@
 ---
-title: "Times Interest Earned Ratio: Overview and Calculation (Algo Trading)"
-description: "Explore how the Times Interest Earned (TIE) ratio is crucial in assessing a company's debt obligations and its integration into algorithmic trading strategies."
+category: quant_concept
+description: Explore how the Times Interest Earned (TIE) ratio is crucial in assessing
+  a company's debt obligations and its integration into algorithmic trading strategies.
+title: 'Times Interest Earned Ratio: Overview and Calculation (Algo Trading)'
 ---
 
 The Times Interest Earned (TIE) ratio is a crucial financial metric that assesses a company's capacity to meet its debt obligations, particularly interest payments on outstanding loans. It is calculated by dividing earnings before interest and taxes (EBIT) by the interest expense: 

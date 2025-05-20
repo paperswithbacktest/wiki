@@ -1,6 +1,9 @@
 ---
-title: "Unlimited Risk: Definition, Mechanism, and Example (Algo Trading)"
-description: "Explore unlimited risk in algorithmic trading learn its implications and discover risk management strategies to guard against potential limitless financial losses."
+category: quant_concept
+description: Explore unlimited risk in algorithmic trading learn its implications
+  and discover risk management strategies to guard against potential limitless financial
+  losses.
+title: 'Unlimited Risk: Definition, Mechanism, and Example (Algo Trading)'
 ---
 
 Risk management plays a pivotal role in formulating effective financial investment strategies, particularly in the intricate domain of algorithmic trading. The rapid evolution of trading technologies and increasing complexity of financial instruments necessitate a robust approach to managing risks. A significant aspect of these risks involves the concept of unlimited risk, where potential financial losses are uncapped. This scenario is most prevalent in certain trading activities, such as selling naked options or engaging in short selling, where losses could far exceed initial investments.

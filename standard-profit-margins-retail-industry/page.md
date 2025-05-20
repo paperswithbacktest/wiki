@@ -1,6 +1,8 @@
 ---
-title: "Standard Profit Margins in Retail Industry (Algo Trading)"
-description: "Explore the crucial role of profit margins in retail and how algorithmic trading can enhance profitability through strategic cost management and pricing."
+category: quant_concept
+description: Explore the crucial role of profit margins in retail and how algorithmic
+  trading can enhance profitability through strategic cost management and pricing.
+title: Standard Profit Margins in Retail Industry (Algo Trading)
 ---
 
 In retail, profit margins are a fundamental measure of a company's profitability. They serve as a critical metric to assess financial health, reflecting the efficiency with which a business converts sales into profits. A variety of factors can impact these profit margins, including market conditions, consumer behavior, operational efficiency, and pricing strategies. Understanding these factors is imperative for retailers seeking to make informed decisions that bolster their profitability.

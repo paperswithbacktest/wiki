@@ -1,6 +1,9 @@
 ---
-title: "Temporal Discounting and Future Reward Depreciation (Algo Trading)"
-description: "Explore how temporal discounting affects trading decisions, highlighting the preference for immediate rewards over long-term gains and its impact on trading strategies. Discover how algorithmic trading can help mitigate human biases."
+category: quant_concept
+description: Explore how temporal discounting affects trading decisions, highlighting
+  the preference for immediate rewards over long-term gains and its impact on trading
+  strategies. Discover how algorithmic trading can help mitigate human biases.
+title: Temporal Discounting and Future Reward Depreciation (Algo Trading)
 ---
 
 Temporal discounting refers to the tendency of individuals to prioritize smaller, immediate rewards over larger, delayed rewards. This psychological concept is significant because it illustrates how people evaluate the value of future events versus present ones. In decision-making, temporal discounting plays a crucial role; it affects judgment and choices across various contexts, from everyday decisions to complex financial strategies.

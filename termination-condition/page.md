@@ -1,7 +1,8 @@
 ---
-title: Termination Conditions in Machine Learning for Efficient Training
+category: quant_concept
 description: Termination conditions guide model training by stopping runs at optimal
   points to save resources and prevent overfitting. Discover more inside
+title: Termination Conditions in Machine Learning for Efficient Training
 ---
 
 ![Image](images/1.png)

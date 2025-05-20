@@ -1,7 +1,8 @@
 ---
-title: T5X Framework for Efficient Text-to-Text Model Training
+category: quant_concept
 description: T5X helps researchers train large language models faster and more efficiently
   for translation summarization and question answering Discover more inside.
+title: T5X Framework for Efficient Text-to-Text Model Training
 ---
 
 ![Image](images/1.jpeg)

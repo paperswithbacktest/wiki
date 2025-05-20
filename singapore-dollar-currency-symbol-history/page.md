@@ -1,6 +1,9 @@
 ---
-title: "Singapore Dollar: Currency Symbol and History (Algo Trading)"
-description: "Explore the Singapore Dollar's rich history and its critical role in algorithmic trading Discover why SGD stands out in global forex markets with its unique identity"
+category: quant_concept
+description: Explore the Singapore Dollar's rich history and its critical role in
+  algorithmic trading Discover why SGD stands out in global forex markets with its
+  unique identity
+title: 'Singapore Dollar: Currency Symbol and History (Algo Trading)'
 ---
 
 In global finance, currencies play a fundamental role in shaping economies and influencing trade relations. Among these currencies, the Singapore Dollar (SGD) is notable for its economic stability and strength in Southeast Asia. Established as a means to solidify the newly independent nation's economy, the SGD has evolved to become an integral component of trade and finance in the region. 

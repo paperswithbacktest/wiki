@@ -1,6 +1,8 @@
 ---
-title: "United States–European Union Trade Volume (Algo Trading)"
-description: "Explore the significant trading partnership between the US and EU focused on trade volume and algorithmic trading amidst challenges and technological advances."
+category: dataset
+description: Explore the significant trading partnership between the US and EU focused
+  on trade volume and algorithmic trading amidst challenges and technological advances.
+title: United States–European Union Trade Volume (Algo Trading)
 ---
 
 The landscape of international trade is constantly evolving, with major economic powers like the United States and the European Union playing pivotal roles. These two entities form one of the largest and most significant trading partnerships in the world. The bilateral trade flow between the US and the EU amounts to hundreds of billions of dollars annually, underpinning a critical component of the global economy. This dynamic partnership, while expansive, is also subject to various challenges and opportunities.

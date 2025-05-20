@@ -1,6 +1,8 @@
 ---
-title: "Spot Commodity: Definition and Functionality (Algo Trading)"
-description: "Explore the essentials of spot commodity trading and the impact of algorithmic trading in modern markets to understand their roles in price discovery and efficiency."
+category: quant_concept
+description: Explore the essentials of spot commodity trading and the impact of algorithmic
+  trading in modern markets to understand their roles in price discovery and efficiency.
+title: 'Spot Commodity: Definition and Functionality (Algo Trading)'
 ---
 
 Financial markets are integral components of the global economy, enabling the flow of capital, goods, and services. They encompass a wide range of assets, including equities, bonds, currencies, and commodities. Commodities, in particular, play a critical role in these markets, forming the foundation of trade and economic development. From agricultural products like wheat and corn to energy resources such as oil and natural gas, and precious metals like gold and silver, commodities are essential for consumption, production, and investment.

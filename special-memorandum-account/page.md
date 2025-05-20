@@ -1,6 +1,8 @@
 ---
-title: "Special Memorandum Account (Algo Trading)"
-description: "Explore key aspects of algorithmic trading integrate finance technology and data to enhance trading strategies and improve market efficiency with algo trading"
+category: quant_concept
+description: Explore key aspects of algorithmic trading integrate finance technology
+  and data to enhance trading strategies and improve market efficiency with algo trading
+title: Special Memorandum Account (Algo Trading)
 ---
 
 Understanding the complexities of the stock market can be daunting, especially with the advent of technology-driven trading methods. As the financial markets have grown more intricate over the years, algorithmic trading has emerged as a pivotal component in modern investment practices. Combining finance, technology, and data analytics, algorithmic trading, or "algo trading," uses computer programs and algorithms to execute trades at speeds and frequencies hard to match by human traders.

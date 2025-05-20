@@ -1,6 +1,8 @@
 ---
-title: "Theoretical Ex-Rights Price (Algo Trading)"
-description: "Optimize your trading strategy with insights into Theoretical Ex-Rights Price and its impact on rights issues. Gain knowledge to enhance investment decisions."
+category: quant_concept
+description: Optimize your trading strategy with insights into Theoretical Ex-Rights
+  Price and its impact on rights issues. Gain knowledge to enhance investment decisions.
+title: Theoretical Ex-Rights Price (Algo Trading)
 ---
 
 In today's rapidly evolving financial markets, investors and traders are constantly seeking ways to optimize their strategies and make informed decisions. As they navigate the complexities of corporate finance, one concept that emerges as particularly significant is the Theoretical Ex-Rights Price (TERP). TERP plays a pivotal role in understanding the impact of rights issues—financial events where existing shareholders are given the opportunity to purchase additional shares at a reduced price.

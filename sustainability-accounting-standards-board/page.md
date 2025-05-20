@@ -1,6 +1,9 @@
 ---
-title: "Sustainability Accounting Standards Board (Algo Trading)"
-description: "Explore the integration of SASB standards and algorithmic trading to enhance sustainable finance by aligning ESG factors with trading strategies for informed investments."
+category: quant_concept
+description: Explore the integration of SASB standards and algorithmic trading to
+  enhance sustainable finance by aligning ESG factors with trading strategies for
+  informed investments.
+title: Sustainability Accounting Standards Board (Algo Trading)
 ---
 
 Sustainability accounting is becoming increasingly important in the contemporary business landscape, driven by a heightened focus on environmental, social, and governance (ESG) considerations. As businesses strive to address stakeholder demands for responsible practices, sustainability accounting emerges as a vital tool to measure and report the impact of these practices. A major challenge, however, has been the lack of standardized guidelines that offer consistency and comparability across organizations, which is critical for investors and other stakeholders to make informed decisions.

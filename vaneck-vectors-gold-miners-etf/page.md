@@ -1,6 +1,8 @@
 ---
-title: "VanEck Vectors Gold Miners ETF (Algo Trading)"
-description: "Explore the VanEck Vectors Gold Miners ETF as it offers diversified exposure to major global gold mining companies with algorithmic trading insights."
+category: quant_concept
+description: Explore the VanEck Vectors Gold Miners ETF as it offers diversified exposure
+  to major global gold mining companies with algorithmic trading insights.
+title: VanEck Vectors Gold Miners ETF (Algo Trading)
 ---
 
 The VanEck Vectors Gold Miners ETF, commonly referred to as GDX, stands as a preeminent investment vehicle for those looking to gain exposure to the gold mining industry. Since its inception, GDX has been a favored option among investors due to its ability to combine the inherent liquidity of exchange-traded funds (ETFs) with the growth potential of gold mining equities.

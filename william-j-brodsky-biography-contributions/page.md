@@ -1,6 +1,9 @@
 ---
-title: "William J. Brodsky: Biography and Contributions (Algo Trading)"
-description: "Explore William J. Brodsky's influential career in finance and options trading, highlighting his roles in transforming financial markets and driving algorithmic trading advancements."
+category: quant_concept
+description: Explore William J. Brodsky's influential career in finance and options
+  trading, highlighting his roles in transforming financial markets and driving algorithmic
+  trading advancements.
+title: 'William J. Brodsky: Biography and Contributions (Algo Trading)'
 ---
 
 William J. Brodsky is a distinguished and influential figure in the world of finance and options trading. With a career spanning several decades, Brodsky has played crucial roles at two of the most significant financial exchanges: the Chicago Mercantile Exchange (CME) and the Chicago Board Options Exchange (CBOE). His tenure at these institutions has been marked by strategic leadership and innovation, contributing to the evolution and structural transformation of financial markets. 

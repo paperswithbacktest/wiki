@@ -1,6 +1,9 @@
 ---
-title: "Solvency Ratios and Calculation Methods (Algo Trading)"
-description: "Explore the critical role of solvency ratios in financial analysis and algorithmic trading Uncover insights on debt obligations and financial stability to enhance trading decisions"
+category: quant_concept
+description: Explore the critical role of solvency ratios in financial analysis and
+  algorithmic trading Uncover insights on debt obligations and financial stability
+  to enhance trading decisions
+title: Solvency Ratios and Calculation Methods (Algo Trading)
 ---
 
 Financial metrics are essential in assessing the health and performance of businesses, serving as indicators of a company's financial condition and operational efficiency. Among these metrics, solvency ratios hold particular significance for evaluating a company's ability to fulfill its long-term debt obligations. These ratios, such as the debt-to-equity ratio, debt-to-assets ratio, and interest coverage ratio, provide insights into the proportion of debt in a company's capital structure, its capacity to generate cash flow, and its risk of financial distress.

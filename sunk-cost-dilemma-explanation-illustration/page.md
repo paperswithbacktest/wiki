@@ -1,6 +1,8 @@
 ---
-title: "Sunk Cost Dilemma: Explanation and Illustration (Algo Trading)"
-description: "Discover how the sunk cost dilemma impacts algorithmic trading and explore strategies to overcome this bias for more rational and profitable trading decisions."
+category: quant_concept
+description: Discover how the sunk cost dilemma impacts algorithmic trading and explore
+  strategies to overcome this bias for more rational and profitable trading decisions.
+title: 'Sunk Cost Dilemma: Explanation and Illustration (Algo Trading)'
 ---
 
 Algorithmic trading combines finance and advanced computing to transform how financial markets operate. By utilizing algorithms to execute trades with high speed and minimal human intervention, it aims to maximize efficiency and profit. Despite its automation, algorithmic trading is not immune to human biases that can influence decision-making processes. One significant bias impacting traders is the sunk cost dilemma. This psychological phenomenon involves the urge to continue an endeavor due to the resources already committed, despite potential losses or setbacks.

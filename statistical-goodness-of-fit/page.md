@@ -1,6 +1,8 @@
 ---
-title: "Statistical Goodness of Fit (Algo Trading)"
-description: "Discover how statistical goodness-of-fit tests enhance algorithmic trading by validating and refining predictive models for more accurate market analysis."
+category: trading_strategy
+description: Discover how statistical goodness-of-fit tests enhance algorithmic trading
+  by validating and refining predictive models for more accurate market analysis.
+title: Statistical Goodness of Fit (Algo Trading)
 ---
 
 The integration of statistical analysis, goodness-of-fit tests, data fitting, and algorithmic trading is pivotal in crafting sophisticated trading strategies. These key concepts collectively contribute to the development and validation of trading models, ensuring that they can not only predict market movements but also adapt to them efficiently.

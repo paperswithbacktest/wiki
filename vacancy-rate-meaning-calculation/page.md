@@ -1,6 +1,8 @@
 ---
-title: "Vacancy Rate: Meaning and Calculation (Algo Trading)"
-description: "Explore how vacancy rates and algorithmic trading intersect in real estate investments providing insight into market dynamics and informing strategic decisions."
+category: quant_concept
+description: Explore how vacancy rates and algorithmic trading intersect in real estate
+  investments providing insight into market dynamics and informing strategic decisions.
+title: 'Vacancy Rate: Meaning and Calculation (Algo Trading)'
 ---
 
 Effective management and strategic investment are key components in real estate, essential for achieving maximum returns. This article explores how property management, real estate metrics, vacancy rates, and algorithmic trading converge to offer a comprehensive view of market dynamics. By understanding these elements, stakeholders can make informed decisions that improve investment outcomes.

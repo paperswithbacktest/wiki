@@ -1,6 +1,8 @@
 ---
-title: "Smart Beta ETFs (Algo Trading)"
-description: "Explore Smart Beta ETFs and algorithmic trading to enhance your investment strategy with innovative approaches delivering potential for improved returns."
+category: trading_strategy
+description: Explore Smart Beta ETFs and algorithmic trading to enhance your investment
+  strategy with innovative approaches delivering potential for improved returns.
+title: Smart Beta ETFs (Algo Trading)
 ---
 
 In the modern financial landscape, investment strategies have evolved significantly, largely driven by technological advancements and innovative financial instruments. Investors today have access to a wide range of strategies that were not available in the past, allowing for more tailored and efficient approaches to managing portfolios. Among these strategies, Exchange-Traded Funds (ETFs), Smart Beta, and algorithmic trading stand out as prominent choices, each offering distinct benefits for portfolio diversification and risk management.

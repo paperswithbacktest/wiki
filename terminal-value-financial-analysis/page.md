@@ -1,6 +1,14 @@
 ---
-title: "Terminal Value in Financial Analysis (Algo Trading)"
-description: "Terminal value is an essential concept in financial analysis, crucial for evaluating the long-term viability of businesses and investments. It represents the anticipated value of a business beyond an explicit forecast period within discounted cash flow analysis. Common calculation methods include the Perpetuity Growth Model and the Exit Multiple Method, each suited for different financial contexts. Understanding terminal value is vital for accurate business valuation, strategic decision-making, and informed investment choices, as it significantly influences the assessment of a business's future prospects and inherent worth."
+category: quant_concept
+description: Terminal value is an essential concept in financial analysis, crucial
+  for evaluating the long-term viability of businesses and investments. It represents
+  the anticipated value of a business beyond an explicit forecast period within discounted
+  cash flow analysis. Common calculation methods include the Perpetuity Growth Model
+  and the Exit Multiple Method, each suited for different financial contexts. Understanding
+  terminal value is vital for accurate business valuation, strategic decision-making,
+  and informed investment choices, as it significantly influences the assessment of
+  a business's future prospects and inherent worth.
+title: Terminal Value in Financial Analysis (Algo Trading)
 ---
 
 Terminal value is a key concept in financial analysis and valuation, particularly useful for assessing the long-term potential of a business or investment. It refers to the estimated value of a business beyond the explicit forecast period and is central to discounted cash flow (DCF) analysis. DCF models are employed to estimate the present value of a series of cash flows by discounting them using an appropriate discount rate, typically the weighted average cost of capital (WACC). Within this framework, terminal value represents the continuation value of these cash flows, assuming the business continues operations indefinitely.

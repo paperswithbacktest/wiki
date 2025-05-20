@@ -1,6 +1,14 @@
 ---
-title: "Survey Alternative Data (Algo Trading)"
-description: Explore the transformative role of alternative data in algorithmic trading with insights into unique datasets from sources like satellite imagery and social media sentiment. Understand how these data types enhance market strategies by providing real-time insights into consumer behavior and market trends. This in-depth analysis covers the benefits, challenges, and application examples of alternative data in trading, helping traders optimize strategies and assess its potential for lasting impact in the financial ecosystem. Discover whether alternative data is a fleeting trend or a significant evolution in achieving trading success.
+category: dataset
+description: Explore the transformative role of alternative data in algorithmic trading
+  with insights into unique datasets from sources like satellite imagery and social
+  media sentiment. Understand how these data types enhance market strategies by providing
+  real-time insights into consumer behavior and market trends. This in-depth analysis
+  covers the benefits, challenges, and application examples of alternative data in
+  trading, helping traders optimize strategies and assess its potential for lasting
+  impact in the financial ecosystem. Discover whether alternative data is a fleeting
+  trend or a significant evolution in achieving trading success.
+title: Survey Alternative Data (Algo Trading)
 ---
 
 In the rapidly evolving landscape of financial markets, algorithmic trading is increasingly surpassing traditional methods in terms of speed and efficiency. As traders strive to optimize their strategies, alternative data has emerged as a pivotal catalyst for potentially superior performance. Unlike conventional financial metrics typically derived from company reports and market data, alternative data encompasses unique datasets sourced from non-traditional channels such as satellite imagery, social media sentiment, and geo-location data. This infusion of diverse information into algorithmic trading is shifting market dynamics, offering traders fresh perspectives and untapped opportunities.

@@ -1,6 +1,8 @@
 ---
-title: "Speculative Company (Algo Trading)"
-description: "Explore the dynamic world of speculative companies and algorithmic trading Discover the risks and rewards of innovative investment strategies in modern finance"
+category: trading_strategy
+description: Explore the dynamic world of speculative companies and algorithmic trading
+  Discover the risks and rewards of innovative investment strategies in modern finance
+title: Speculative Company (Algo Trading)
 ---
 
 In today's fast-paced financial landscape, investment strategies are evolving rapidly. Among the various approaches, investment in speculative companies and the use of algorithmic trading in finance have gained considerable attention.

@@ -1,6 +1,8 @@
 ---
-title: "Top Seven Books on Investing (Algo Trading)"
-description: "Explore a selection of top investing books that cover value investing, algorithmic trading, and investment psychology to enhance your financial strategies."
+category: quant_concept
+description: Explore a selection of top investing books that cover value investing,
+  algorithmic trading, and investment psychology to enhance your financial strategies.
+title: Top Seven Books on Investing (Algo Trading)
 ---
 
 Investing books are indispensable tools for both novice and seasoned investors aiming to bolster their comprehension of financial markets. This article curates a selection of exemplary investing books across various domains such as value investing, algorithmic trading, and investment psychology. For individuals interested in stocks, bonds, cryptocurrencies, or trading strategies, selecting the appropriate book is crucial as it can provide valuable insights and practical advice.

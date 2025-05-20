@@ -1,6 +1,9 @@
 ---
-title: "Stock Ratings: A Comprehensive Overview (Algo Trading)"
-description: "Explore stock ratings and algorithmic trading as vital tools for making informed investment decisions. Gain insights into market evaluation and investment analysis."
+category: trading_strategy
+description: Explore stock ratings and algorithmic trading as vital tools for making
+  informed investment decisions. Gain insights into market evaluation and investment
+  analysis.
+title: 'Stock Ratings: A Comprehensive Overview (Algo Trading)'
 ---
 
 Financial markets are intricate systems driven by a multitude of factors that collectively influence investment dynamics. Understanding these systems is essential for individuals seeking to navigate the often-turbulent waters of financial investments. This understanding demands a comprehensive approach encompassing several key components: market evaluation, investment analysis, stock ratings, and algorithmic trading.

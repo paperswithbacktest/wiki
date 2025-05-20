@@ -1,6 +1,9 @@
 ---
-title: "Variance Swap Versus Volatility Swap (Algo Trading)"
-description: "Explore the distinctions between variance and volatility swaps in algo trading and understand how these derivatives offer unique opportunities in market volatility management."
+category: quant_concept
+description: Explore the distinctions between variance and volatility swaps in algo
+  trading and understand how these derivatives offer unique opportunities in market
+  volatility management.
+title: Variance Swap Versus Volatility Swap (Algo Trading)
 ---
 
 Derivatives serve as fundamental instruments within financial markets, playing a vital role in hedging, speculation, and risk management strategies. These contracts derive their value from underlying assets like stocks, bonds, commodities, or indexes, providing investors with opportunities to mitigate risks or capitalize on price movements. Among these instruments, variance swaps and volatility swaps are notable for their distinctive features, standing apart for their focus on market volatility.

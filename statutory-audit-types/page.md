@@ -1,6 +1,9 @@
 ---
-title: "Statutory Audit and Types (Algo Trading)"
-description: "Explore the essential aspects of statutory audits and various audit types, emphasizing their significance in financial transparency and algorithmic trading impacts."
+category: quant_concept
+description: Explore the essential aspects of statutory audits and various audit types,
+  emphasizing their significance in financial transparency and algorithmic trading
+  impacts.
+title: Statutory Audit and Types (Algo Trading)
 ---
 
 Audits are vital components of financial and business operations, ensuring transparency, accuracy, and accountability across various sectors. This article examines different types of audits, emphasizing the role and importance of statutory audits. Statutory audits are pivotal in confirming that organizations accurately represent their financial standing and comply with regulatory standards. Additionally, the article will address the modern trend of algorithmic trading, which involves executing trading strategies through automated and complex algorithms. As this trend grows, its impact on financial auditing processes becomes increasingly significant. Understanding these key elements provides valuable insights into the audit landscape, highlighting its essential role in governance and compliance frameworks. To begin, we will explore the fundamental principles underlying audits.

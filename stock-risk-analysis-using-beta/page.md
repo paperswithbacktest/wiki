@@ -1,6 +1,9 @@
 ---
-title: "Stock Risk Analysis Using Beta (Algo Trading)"
-description: "Explore the essential role of beta in stock risk analysis and algorithmic trading to enhance investment strategies and improve risk assessment in volatile markets."
+category: quant_concept
+description: Explore the essential role of beta in stock risk analysis and algorithmic
+  trading to enhance investment strategies and improve risk assessment in volatile
+  markets.
+title: Stock Risk Analysis Using Beta (Algo Trading)
 ---
 
 In today's financial markets, understanding investment risk is crucial for investors aiming to balance potential gains with potential losses. Stock risk, particularly through the metric of beta, is a key concept in portfolio assessment. Beta measures the volatility of a stock in relation to the overall market, providing insight into how much a stock's price might fluctuate compared to broader market movements. This volatility measurement is crucial for investors to evaluate how much risk they are taking on with a particular investment relative to the market.

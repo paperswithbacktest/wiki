@@ -1,6 +1,8 @@
 ---
-title: "Tick in Securities Trading (Algo Trading)"
-description: "Discover the crucial role of tick size in securities trading and how it impacts market dynamics, liquidity, costs, and algorithmic trading strategies."
+category: quant_concept
+description: Discover the crucial role of tick size in securities trading and how
+  it impacts market dynamics, liquidity, costs, and algorithmic trading strategies.
+title: Tick in Securities Trading (Algo Trading)
 ---
 
 Understanding the complex world of financial markets is crucial for both novice and experienced investors alike. In the fast-paced environment of trading, a multitude of factors contribute to market dynamics, yet one of the cornerstone elements influencing how securities are traded is the idea of 'tick size'. A tick size denotes the smallest increment by which the price of a trading instrument can move. As an integral component, it contributes to determining the bid-ask spread and governs market liquidity. 

@@ -1,7 +1,8 @@
 ---
-title: Preventing Training-Serving Skew in Machine Learning Models
+category: quant_concept
 description: Training-Serving Skew arises when models see different deployment data
   impacting accuracy We cover detection mitigation practices Discover more inside
+title: Preventing Training-Serving Skew in Machine Learning Models
 ---
 
 ![Image](images/1.png)

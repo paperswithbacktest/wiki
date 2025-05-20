@@ -1,6 +1,8 @@
 ---
-title: "Valuation of Non-Dividend Stocks (Algo Trading)"
-description: "Discover the benefits and challenges of non-dividend stocks Learn valuation strategies and the role of algo trading in unlocking growth potential"
+category: quant_concept
+description: Discover the benefits and challenges of non-dividend stocks Learn valuation
+  strategies and the role of algo trading in unlocking growth potential
+title: Valuation of Non-Dividend Stocks (Algo Trading)
 ---
 
 In the landscape of stock investment, non-dividend stocks present unique opportunities and challenges. Unlike their dividend-paying counterparts, non-dividend stocks do not provide regular income through dividend payouts. Instead, these stocks typically belong to companies that choose to reinvest their earnings back into the business to fuel growth and expansion. This decision is often seen in industries characterized by rapid innovation and growth potential, such as technology and biotechnology.

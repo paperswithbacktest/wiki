@@ -1,6 +1,8 @@
 ---
-title: "T-Distribution in Probability and Its Applications (Algo Trading)"
-description: "Explore how the t-distribution supports precise decision-making in algorithmic trading by evaluating strategies and managing risks with small data sets."
+category: quant_concept
+description: Explore how the t-distribution supports precise decision-making in algorithmic
+  trading by evaluating strategies and managing risks with small data sets.
+title: T-Distribution in Probability and Its Applications (Algo Trading)
 ---
 
 The integration of statistical principles in algorithmic trading has become increasingly important as traders strive for more precise and methodical approaches to decision-making. As financial markets have grown more complex, the need for sophisticated tools to manage and interpret data has intensified. Probability distributions play a pivotal role in this domain, providing the mathematical underpinnings necessary for evaluating potential outcomes and managing risk. Among these distributions, the t-distribution is of particular significance, especially when dealing with smaller data sets that feature unknown variances.

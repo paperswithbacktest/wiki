@@ -1,6 +1,12 @@
 ---
-title: "Zero-Coupon Bond (Algo Trading)"
-description: "Explore the unique investment opportunities of zero-coupon bonds, a fixed-income security offering predictable returns and compounded growth. This article examines their valuation and the expanding role of algorithmic trading in enhancing investment strategies. Gain insights into the advantages, risks, and mathematical methodologies related to these bonds and learn how technology improves trading efficiency and investment outcomes."
+category: quant_concept
+description: Explore the unique investment opportunities of zero-coupon bonds, a fixed-income
+  security offering predictable returns and compounded growth. This article examines
+  their valuation and the expanding role of algorithmic trading in enhancing investment
+  strategies. Gain insights into the advantages, risks, and mathematical methodologies
+  related to these bonds and learn how technology improves trading efficiency and
+  investment outcomes.
+title: Zero-Coupon Bond (Algo Trading)
 ---
 
 Zero-coupon bonds are a unique type of fixed-income security that offer certain advantages and challenges to investors. Unlike traditional bonds that pay periodic interest, zero-coupon bonds are issued at a discount to their face value and pay no interest during their term. Instead, the bondholder receives a lump sum payment at maturity that includes the initial investment and the accrued interest. This distinctive feature allows zero-coupon bonds to provide predictable returns and profit from compounded growth over time.

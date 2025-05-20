@@ -1,6 +1,9 @@
 ---
-title: "Smart Beta Strategies and Examples (Algo Trading)"
-description: "Explore the innovative world of smart beta strategies in algorithmic trading and learn how these methods can enhance investment returns by targeting specific market factors."
+category: trading_strategy
+description: Explore the innovative world of smart beta strategies in algorithmic
+  trading and learn how these methods can enhance investment returns by targeting
+  specific market factors.
+title: Smart Beta Strategies and Examples (Algo Trading)
 ---
 
 In today’s dynamic financial markets, investment strategies are continuously evolving to maximize returns and manage risks effectively. One strategy that has gained significant traction in recent years is the smart beta investment strategy. This approach represents an innovative blend of passive and active investing, providing a novel way to construct investment portfolios by capturing specific investment factors or exploiting market inefficiencies.

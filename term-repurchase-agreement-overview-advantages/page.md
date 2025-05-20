@@ -1,6 +1,9 @@
 ---
-title: "Term Repurchase Agreement: Overview and Advantages (Algo Trading)"
-description: "Explore how term repurchase agreements and algorithmic trading enhance financial strategies by optimizing liquidity, managing risk, and improving decision-making efficiency."
+category: quant_concept
+description: Explore how term repurchase agreements and algorithmic trading enhance
+  financial strategies by optimizing liquidity, managing risk, and improving decision-making
+  efficiency.
+title: 'Term Repurchase Agreement: Overview and Advantages (Algo Trading)'
 ---
 
 In finance, understanding the tools and strategies that enhance liquidity and manage risk is crucial for maintaining a competitive edge. Term repurchase agreements, commonly known as term repos, play a significant role in providing short-term funding solutions vital for managing cash flow in financial institutions. Unlike overnight repos, term repos offer extended maturities, typically lasting up to one year, making them an effective instrument for managing short-term investment strategies and liquidity needs.

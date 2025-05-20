@@ -1,6 +1,8 @@
 ---
-title: "Top-Down Investment Strategy (Algo Trading)"
-description: "Explore the top-down investment strategy and how it's integrated into algo trading analyzing economic indicators to guide investment decisions effectively."
+category: trading_strategy
+description: Explore the top-down investment strategy and how it's integrated into
+  algo trading analyzing economic indicators to guide investment decisions effectively.
+title: Top-Down Investment Strategy (Algo Trading)
 ---
 
 The landscape of investing is vast and varied, presenting a plethora of strategies that cater to diverse investment goals and risk appetites. Among these, the top-down approach stands out as a strategy that integrates financial analysis with macroeconomic perspectives. This methodology emphasizes the analysis of global and national economic indicators to guide investment decisions, gradually narrowing the focus from broad economic conditions to specific industries and individual securities. Unlike the bottom-up approach, which concentrates on company-specific factors first, the top-down approach prioritizes the larger economic picture as the initial filter for investment opportunities.

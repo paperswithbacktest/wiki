@@ -1,6 +1,9 @@
 ---
-title: "Trading Plan (Algo Trading)"
-description: "Explore the essentials of algo trading and investment planning in financial markets. Learn how strategies, market dynamics, and technology can optimize your trading and financial goals while understanding risk management and resource allocation."
+category: trading_strategy
+description: Explore the essentials of algo trading and investment planning in financial
+  markets. Learn how strategies, market dynamics, and technology can optimize your
+  trading and financial goals while understanding risk management and resource allocation.
+title: Trading Plan (Algo Trading)
 ---
 
 Financial markets have evolved immensely over the years, offering a plethora of investment opportunities for both individuals and institutions. These markets serve as platforms for trading a variety of financial instruments, including stocks, bonds, commodities, and currencies. As a crucial component of economic systems, financial markets facilitate the efficient allocation of resources and contribute to economic growth and stability.

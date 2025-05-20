@@ -1,6 +1,9 @@
 ---
-title: "Taxable Bonds: Overview and Examples (Algo Trading)"
-description: "Explore the significance of taxable bonds and the impact of algorithmic trading on bond markets. Discover their roles in modern investing and portfolio optimization."
+category: quant_concept
+description: Explore the significance of taxable bonds and the impact of algorithmic
+  trading on bond markets. Discover their roles in modern investing and portfolio
+  optimization.
+title: 'Taxable Bonds: Overview and Examples (Algo Trading)'
 ---
 
 In the evolving world of finance, understanding financial instruments such as bonds is crucial for successful investing. Bonds are a form of debt instrument that obligate the issuer to pay the bondholder a specified sum of interest over a set period, with the principal returned on the bond's maturity date. Among the various types of bonds, taxable bonds stand out due to the tax consequences they present to investors. These bonds generate interest income that is taxable at federal, state, or local levels, in contrast to municipal bonds, which might be exempt from certain taxes. Taxable bonds, including most corporate and some government bonds, are vital components of many portfolios, offering distinct opportunities and challenges due to their tax-impacted returns.
@@ -114,4 +117,3 @@ Understanding and adapting to these evolving dynamics, including both tax consid
 - Lopez de Prado, M. (2018). 'Advances in Financial Machine Learning.' Wiley. This book introduces machine learning techniques relevant to modern financial markets, with applications in algorithmic trading that are transforming approaches to bond investment.
 
 - Chan, E. P. (2009). 'Quantitative Trading: How to Build Your Own Algorithmic Trading Business.' Wiley. This text serves as a practical guide for building and managing algorithmic trading strategies, emphasizing their utility in enhancing trading efficiencies across different markets, including bonds.
-

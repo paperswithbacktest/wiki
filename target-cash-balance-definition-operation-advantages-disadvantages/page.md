@@ -1,6 +1,10 @@
 ---
-title: "Target Cash Balance: Definition, Operation, Advantages, and Disadvantages (Algo Trading)"
-description: "Explore how target cash balance and algorithmic trading enhance cash management strategies ensuring liquidity, optimizing investments, and minimizing financial risks."
+category: quant_concept
+description: Explore how target cash balance and algorithmic trading enhance cash
+  management strategies ensuring liquidity, optimizing investments, and minimizing
+  financial risks.
+title: 'Target Cash Balance: Definition, Operation, Advantages, and Disadvantages
+  (Algo Trading)'
 ---
 
 In today's fast-paced financial landscape, effective cash management is crucial for a company's survival and growth. A strategic approach to managing cash balances not only ensures liquidity but also helps optimize investment opportunities. Companies aiming to sustain their operations and fuel expansion must navigate the delicate balance between holding sufficient cash reserves and efficiently deploying idle funds to generate returns.

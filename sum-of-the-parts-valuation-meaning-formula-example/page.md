@@ -1,6 +1,8 @@
 ---
-title: "Sum-of-the-Parts Valuation: Meaning, Formula, and Example (Algo Trading)"
-description: "Explore the importance of Sum-of-the-Parts (SOTP) valuation in analyzing conglomerates and algorithmic trading. Learn its methodology and real-world impact."
+category: quant_concept
+description: Explore the importance of Sum-of-the-Parts (SOTP) valuation in analyzing
+  conglomerates and algorithmic trading. Learn its methodology and real-world impact.
+title: 'Sum-of-the-Parts Valuation: Meaning, Formula, and Example (Algo Trading)'
 ---
 
 Valuation in finance is the process of determining the present value of an asset or a company. It is a crucial aspect of investment analysis, corporate finance, and portfolio management. Various methodologies, such as Discounted Cash Flow (DCF), comparable company analysis, and precedent transactions, are utilized to ascertain a company’s worth. Among these, Sum-of-the-Parts (SOTP) valuation holds particular significance, especially when evaluating conglomerates or companies with multiple distinct business units.

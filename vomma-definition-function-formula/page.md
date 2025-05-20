@@ -1,6 +1,8 @@
 ---
-title: "Vomma: Definition, Function, and Formula (Algo Trading)"
-description: "Explore Vomma's role in options trading and algorithmic strategies Learn how this Greek helps optimize risk management and improve trading performance"
+category: quant_concept
+description: Explore Vomma's role in options trading and algorithmic strategies Learn
+  how this Greek helps optimize risk management and improve trading performance
+title: 'Vomma: Definition, Function, and Formula (Algo Trading)'
 ---
 
 Options trading has become increasingly popular among traders, primarily due to its inherent flexibility and the potential for high returns. It offers the possibility of leveraging small amounts of capital to control sizable amounts of an underlying asset, allowing traders to speculate on price movements with a defined risk limit. However, the complexities of options trading require traders to understand a variety of concepts that can significantly impact their strategies. Among these key concepts are the Greeks, a set of risk measures used to assess how different factors influence the pricing of options, and algorithmic trading, which automates trading decisions based on specific criteria.

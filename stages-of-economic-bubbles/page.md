@@ -1,6 +1,8 @@
 ---
-title: "Stages of Economic Bubbles (Algo Trading)"
-description: "Explore the stages of economic bubbles, their impact on trading, and how algorithmic strategies interact with market cycles to enhance investment decisions."
+category: quant_concept
+description: Explore the stages of economic bubbles, their impact on trading, and
+  how algorithmic strategies interact with market cycles to enhance investment decisions.
+title: Stages of Economic Bubbles (Algo Trading)
 ---
 
 Understanding financial cycles is crucial for investors seeking to navigate the complexities of modern economics. Financial crises, economic bubbles, market cycles, and algorithmic trading are all interconnected elements that significantly impact global markets and investment strategies. Mastery of these concepts is essential, as they determine the movement of asset prices and influence investment decisions.

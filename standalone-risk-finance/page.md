@@ -1,6 +1,9 @@
 ---
-title: "Standalone Risk in Finance (Algo Trading)"
-description: "Explore the distinctions between standalone risk and financial risk in algorithmic trading and gain essential insights for effective risk management in finance."
+category: quant_concept
+description: Explore the distinctions between standalone risk and financial risk in
+  algorithmic trading and gain essential insights for effective risk management in
+  finance.
+title: Standalone Risk in Finance (Algo Trading)
 ---
 
 In today's rapidly evolving financial markets, managing risk is paramount for successful investing and trading. With the increasing complexity of trading strategies and financial instruments, understanding and managing different types of risk is more crucial than ever. Two particularly important concepts in risk analysis are standalone risk and financial risk, especially within the context of algorithmic trading.

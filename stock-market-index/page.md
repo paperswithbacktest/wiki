@@ -1,6 +1,9 @@
 ---
-title: "Stock Market Index (Algo Trading)"
-description: "Unlock the potential of stock market indices and algorithmic trading to enhance investment strategies and stay ahead in the dynamic global financial markets"
+category: quant_concept
+description: Unlock the potential of stock market indices and algorithmic trading
+  to enhance investment strategies and stay ahead in the dynamic global financial
+  markets
+title: Stock Market Index (Algo Trading)
 ---
 
 As financial markets evolve, the fusion of stock indices, financial indicators, and algorithmic trading is fundamentally transforming global investment strategies. Stock indices serve as essential financial indicators, representing the collective performance of selected stocks within a market or sector. These indices provide snapshots of market trends and the economic environment, allowing investors to make informed decisions swiftly and efficiently.

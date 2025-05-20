@@ -1,7 +1,8 @@
 ---
-title: Statistical Inference Techniques for Machine Learning Models
+category: quant_concept
 description: Statistical inference in machine learning guides model predictions by
   quantifying uncertainty and improving decision making Discover more inside
+title: Statistical Inference Techniques for Machine Learning Models
 ---
 
 ![Image](images/1.jpeg)

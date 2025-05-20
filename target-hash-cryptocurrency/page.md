@@ -1,6 +1,9 @@
 ---
-title: "Target Hash in Cryptocurrency (Algo Trading)"
-description: "Explore the crucial role of target hash in cryptocurrency mining and algorithmic trading understanding its impact on blockchain networks and financial systems."
+category: quant_concept
+description: Explore the crucial role of target hash in cryptocurrency mining and
+  algorithmic trading understanding its impact on blockchain networks and financial
+  systems.
+title: Target Hash in Cryptocurrency (Algo Trading)
 ---
 
 The digital revolution has ushered in a wave of innovative technologies, profoundly altering the landscape of finance and investment. Central to these advancements are blockchain technology and cryptocurrencies, which have significantly influenced numerous sectors by introducing new paradigms for conducting transactions and storing value.

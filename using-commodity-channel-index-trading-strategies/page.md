@@ -1,6 +1,8 @@
 ---
-title: "Using the Commodity Channel Index for Trading Strategies (Algo Trading)"
-description: "Discover the benefits of the Commodity Channel Index for algorithmic trading Explore strategies to automate decisions and optimize market opportunities"
+category: trading_strategy
+description: Discover the benefits of the Commodity Channel Index for algorithmic
+  trading Explore strategies to automate decisions and optimize market opportunities
+title: Using the Commodity Channel Index for Trading Strategies (Algo Trading)
 ---
 
 The Commodity Channel Index (CCI) is a well-regarded technical indicator employed by traders to discern cyclical patterns within financial markets. Originally crafted by Donald Lambert in 1980, the CCI was initially intended to scope out trading opportunities in commodities by comparing current price levels with historical averages. Over time, its application has expanded significantly, and it is now routinely used across a broad spectrum of financial markets, including stocks, exchange-traded funds (ETFs), and currencies.
@@ -229,4 +231,3 @@ Pring, M. J. (2002). "Technical Analysis Explained". This book offers an in-dept
 Jansen, Stefan. (2021). "Machine Learning for Algorithmic Trading: Predictive models to extract signals from market and [alternative data](/wiki/best-alternative-data) for systematic trading strategies with Python". This resource bridges the gap between [machine learning](/wiki/machine-learning) and algorithmic trading. It includes techniques for implementing CCI-based strategies using Python, showcasing how machine learning can enhance traditional technical analysis methods.
 
 Kaufman, P. J. (2013). "Trading Systems and Methods", Wiley Trading. Kaufman's work is a comprehensive resource for developing and testing trading systems. It provides detailed explanations of various technical indicators, including the CCI, and offers guidance on integrating these tools into systematic trading strategies.
-

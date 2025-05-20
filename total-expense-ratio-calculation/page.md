@@ -1,6 +1,8 @@
 ---
-title: "Total Expense Ratio and Calculation (Algo Trading)"
-description: "Gain insights into the Total Expense Ratio TER and its crucial role in algorithmic trading Understand its calculation and impact on cost efficiency"
+category: quant_concept
+description: Gain insights into the Total Expense Ratio TER and its crucial role in
+  algorithmic trading Understand its calculation and impact on cost efficiency
+title: Total Expense Ratio and Calculation (Algo Trading)
 ---
 
 In the world of investing, understanding the costs associated with managing and operating funds is crucial for making informed decisions. Among these costs, the Total Expense Ratio (TER) stands out as a significant metric that provides insight into the overall expenses involved in managing an investment fund. As a comprehensive measure, TER encompasses various costs, including management fees, trading fees, legal fees, and other operational expenses, all expressed as a percentage of the fund’s assets. This metric is particularly relevant for investors engaged in algorithmic trading, where cost efficiency is paramount.

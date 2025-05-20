@@ -1,6 +1,9 @@
 ---
-title: "Summit Securities Group (Algo Trading)"
-description: "Summit Securities Group excels in algorithmic trading utilizing advanced technology and data to drive market interactions fostering speed precision and innovation in finance."
+category: trading_strategy
+description: Summit Securities Group excels in algorithmic trading utilizing advanced
+  technology and data to drive market interactions fostering speed precision and innovation
+  in finance.
+title: Summit Securities Group (Algo Trading)
 ---
 
 Summit Securities Group has established itself as a leader in the field of algorithmic trading, renowned for its cutting-edge approaches and significant impact on financial markets. As global markets have become increasingly complex and fast-paced, algorithmic trading has emerged as a vital component of modern finance, allowing firms to execute trades with speed and precision that were previously unattainable through traditional methods. This form of trading utilizes complex algorithms and high-frequency data analysis to identify trading opportunities, optimize execution, and manage risk effectively.
@@ -140,4 +143,3 @@ As algorithmic trading becomes more intertwined with financial markets, there is
 [5]: Vasan, K., & Surya, BG (2018). ["Algorithmic Trading: An Overview"](https://link.springer.com/chapter/10.1007/978-3-031-62843-6_8). ResearchGate.
 
 [6]: Chan, E. (2009). ["Quantitative Trading: How to Build Your Own Algorithmic Trading Business"](https://github.com/ftvision/quant_trading_echan_book). Wiley.
-

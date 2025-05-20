@@ -1,6 +1,14 @@
 ---
-title: "Supertrend Indicator Trading Strategy Explained (Algo Trading)"
-description: Discover the Supertrend indicator, a popular trading tool designed to identify market trends and signal entry and exit points with color-coded cues on price charts. By utilizing the Average True Range to calculate volatility, the Supertrend offers traders a straightforward method for interpreting trend reversals. This article explores the comprehensive strategy, backtests its efficacy on S&P 500 data, and highlights the benefits and implementation within algorithmic trading systems, making it a valuable component for traders seeking to optimize their market timing and maximize returns.
+category: trading_strategy
+description: Discover the Supertrend indicator, a popular trading tool designed to
+  identify market trends and signal entry and exit points with color-coded cues on
+  price charts. By utilizing the Average True Range to calculate volatility, the Supertrend
+  offers traders a straightforward method for interpreting trend reversals. This article
+  explores the comprehensive strategy, backtests its efficacy on S&P 500 data, and
+  highlights the benefits and implementation within algorithmic trading systems, making
+  it a valuable component for traders seeking to optimize their market timing and
+  maximize returns.
+title: Supertrend Indicator Trading Strategy Explained (Algo Trading)
 ---
 
 The Supertrend algorithm is a widely-used trading indicator renowned for its ability to effectively identify prevailing market trends and discern potential entry and exit points. It operates through a streamlined mechanism that leverages price action, providing traders with dynamic support and resistance levels. This functionality is achieved by plotting the Supertrend directly over the price chart where it visually represents ongoing trends: displaying in green during upward trends and shifting to red during downward trends. 

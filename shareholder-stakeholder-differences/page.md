@@ -1,6 +1,9 @@
 ---
-title: "Shareholder and Stakeholder Differences (Algo Trading)"
-description: "Explore the evolving dynamics between shareholders and stakeholders in the context of algorithmic trading and corporate governance for sustainable business practices."
+category: quant_concept
+description: Explore the evolving dynamics between shareholders and stakeholders in
+  the context of algorithmic trading and corporate governance for sustainable business
+  practices.
+title: Shareholder and Stakeholder Differences (Algo Trading)
 ---
 
 The financial world is undergoing a paradigm shift, driven by technological advancements such as algorithmic trading. This transformation has significant implications for corporate governance and the dynamic roles of shareholders and stakeholders. As companies navigated the complex landscape of global markets, understanding the distinct theories of shareholder versus stakeholder value becomes imperative in evaluating corporate governance models.

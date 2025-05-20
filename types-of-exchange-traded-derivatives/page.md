@@ -1,6 +1,9 @@
 ---
-title: "Types of Exchange-Traded Derivatives (Algo Trading)"
-description: "Explore types of exchange-traded derivatives including futures, options, and ETFs. Learn how these standardized instruments enhance liquidity and manage risk."
+category: quant_concept
+description: Explore types of exchange-traded derivatives including futures, options,
+  and ETFs. Learn how these standardized instruments enhance liquidity and manage
+  risk.
+title: Types of Exchange-Traded Derivatives (Algo Trading)
 ---
 
 Exchange-traded derivatives (ETDs) are standardized financial instruments traded on regulated exchanges. Their value is derived from underlying assets, which include stocks, commodities, currencies, or indices. ETDs serve as essential tools in modern financial markets by providing investors with mechanisms to manage and transfer risk efficiently. A key advantage of ETDs over their over-the-counter (OTC) counterparts is their standardization, which promotes uniformity in contract terms and enhances trade efficiency.

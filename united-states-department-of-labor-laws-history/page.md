@@ -1,6 +1,9 @@
 ---
-title: "United States Department of Labor: Laws and History (Algo Trading)"
-description: "Explore the pivotal role of the US Department of Labor amid traditional labor laws and modern algorithmic trading. Discover historical insights and future impact."
+category: quant_concept
+description: Explore the pivotal role of the US Department of Labor amid traditional
+  labor laws and modern algorithmic trading. Discover historical insights and future
+  impact.
+title: 'United States Department of Labor: Laws and History (Algo Trading)'
 ---
 
 The Department of Labor (DOL) plays a pivotal role in the legislative and regulatory landscape of the United States, primarily focusing on enforcing labor laws designed to protect workers' rights and ensure fair workplace practices. Established in 1913, the DOL has continuously adapted its focus to respond to the changing needs of the workforce and economy. Over the years, the department has overseen the implementation and enforcement of key labor laws, addressing issues such as wages, working hours, safety, and benefits. These efforts have been instrumental in securing basic rights and protections for workers across various industries.

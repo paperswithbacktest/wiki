@@ -1,6 +1,8 @@
 ---
-title: "Short Exempt in Trading (Algo Trading)"
-description: "Discover the essentials of short exempt trading regulations in the stock market. Learn how they shape trading strategies and impact algorithmic trading."
+category: quant_concept
+description: Discover the essentials of short exempt trading regulations in the stock
+  market. Learn how they shape trading strategies and impact algorithmic trading.
+title: Short Exempt in Trading (Algo Trading)
 ---
 
 Stock market trading is a complex system where securities such as stocks are bought and sold, providing companies with access to capital and investors with a stake in the economic world. As technology has advanced, the stock market has seen a significant transformation with the growth of algorithmic trading. This form of trading uses computer algorithms to execute transactions at high speeds and volumes, which has become an essential part of modern financial markets. Algorithmic trading now accounts for a substantial portion of trading volumes, leveraging speed and precision to capitalize on market movements.

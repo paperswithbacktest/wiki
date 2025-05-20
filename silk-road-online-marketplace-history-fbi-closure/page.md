@@ -1,6 +1,9 @@
 ---
-title: "Silk Road Online Marketplace: History and FBI Closure (Algo Trading)"
-description: "Explore the notorious history of the Silk Road online marketplace and its landmark FBI closure along with insights into algorithmic trading in today's digital economy."
+category: quant_concept
+description: Explore the notorious history of the Silk Road online marketplace and
+  its landmark FBI closure along with insights into algorithmic trading in today's
+  digital economy.
+title: 'Silk Road Online Marketplace: History and FBI Closure (Algo Trading)'
 ---
 
 The advent of online marketplaces has revolutionized the traditional commerce landscape, providing unmatched convenience and global accessibility. These platforms have facilitated the interaction between buyers and sellers beyond geographical boundaries, contributing significantly to the global digital economy. Among these platforms, Silk Road stood out as a notorious forerunner in enabling transactions for illicit goods. Launched in 2011 by Ross Ulbricht, Silk Road operated on the dark web, deploying anonymity-preserving technologies like Tor. This clandestine marketplace quickly gained international notoriety for its role in trafficking illegal substances and services, challenging law enforcement and regulatory frameworks worldwide.

@@ -1,6 +1,9 @@
 ---
-title: "SIFMA: Security Industry and Financial Markets Association Overview (Algo Trading)"
-description: "Explore the dynamic role of SIFMA in financial markets and the impact of algorithmic trading on efficiency and transparency within the securities industry."
+category: quant_concept
+description: Explore the dynamic role of SIFMA in financial markets and the impact
+  of algorithmic trading on efficiency and transparency within the securities industry.
+title: 'SIFMA: Security Industry and Financial Markets Association Overview (Algo
+  Trading)'
 ---
 
 The financial markets security industry is a dynamic and evolving field that plays a vital role in global economics, encompassing a range of activities and entities integral to the functioning of financial systems worldwide. A key player in this industry is the Securities Industry and Financial Markets Association (SIFMA), which serves as a significant advocate for the development and preservation of efficient and resilient capital markets. SIFMA is a non-profit trade association that represents American brokerage firms, investment banks, and asset managers, thereby providing a unified voice within the industry. Through its efforts, SIFMA aims to foster public trust and ensure that financial markets are well-informed and transparent.

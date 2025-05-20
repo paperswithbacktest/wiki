@@ -1,6 +1,8 @@
 ---
-title: "Stewardship Grades and Their Functionality (Algo Trading)"
-description: "Explore the interplay between stewardship grades and algorithmic trading to enhance investment strategies by optimizing governance insights and trading efficiency."
+category: quant_concept
+description: Explore the interplay between stewardship grades and algorithmic trading
+  to enhance investment strategies by optimizing governance insights and trading efficiency.
+title: Stewardship Grades and Their Functionality (Algo Trading)
 ---
 
 In investing, gaining proficiency in both stewardship grades and algorithmic trading is becoming increasingly crucial. As investors seek to optimize their portfolios, understanding these two elements can provide a competitive edge. Stewardship grades serve as a vital tool for assessing a company's governance practices. By examining how well a company manages its responsibilities towards stakeholders, investors can make more informed judgments about the future performance of their investments. A high stewardship grade typically indicates that a company is acting in the best interests of its shareholders, promoting transparency and good management practices.

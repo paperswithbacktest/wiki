@@ -1,6 +1,9 @@
 ---
-title: "Theoretical Dow Jones Index (Algo Trading)"
-description: "Explore the Theoretical Dow Jones Index as an innovative approach to market analysis using intraday highs and lows for enhanced trading insights and risk management."
+category: quant_concept
+description: Explore the Theoretical Dow Jones Index as an innovative approach to
+  market analysis using intraday highs and lows for enhanced trading insights and
+  risk management.
+title: Theoretical Dow Jones Index (Algo Trading)
 ---
 
 The Dow Jones Industrial Average (DJIA) is a prominent stock market index that tracks the performance of 30 major companies listed in the United States. Established in 1896 by Charles Dow and Edward Jones, it serves as a key indicator of the economic health and performance of the American stock market. The DJIA is a price-weighted index, meaning that its calculation is based on the stock prices of its constituent companies. As such, it is susceptible to the price movements of higher-priced stocks, which can have a more significant impact on the index's overall value.

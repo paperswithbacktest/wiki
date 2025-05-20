@@ -1,6 +1,8 @@
 ---
-title: "Tear Sheets in Finance and Their Comparison to a Prospectus (Algo Trading)"
-description: "Explore how tear sheets, prospectuses, and algorithmic trading tools transform financial decision-making by providing crucial data, insights, and automation."
+category: quant_concept
+description: Explore how tear sheets, prospectuses, and algorithmic trading tools
+  transform financial decision-making by providing crucial data, insights, and automation.
+title: Tear Sheets in Finance and Their Comparison to a Prospectus (Algo Trading)
 ---
 
 With the evolution of financial markets, various tools and documents have become essential for investors and financial professionals. These include tear sheets, prospectuses, and algorithmic trading, all of which have seen significant transformations driven by technological advancements and regulatory changes. Tear sheets provide succinct summaries of key financial metrics and performance indicators, making them indispensable for quick assessments and investment decisions. Traditionally used in their paper format, they have now been digitized, allowing for broader access and timely updates.

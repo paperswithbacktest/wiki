@@ -1,6 +1,9 @@
 ---
-title: "Sheep as a Pejorative for Herd-Like Investor Behavior (Algo Trading)"
-description: "Explore the psychological forces driving herd-like investor behavior and their impact on financial markets, and understand algorithmic trading's role in these dynamics."
+category: quant_concept
+description: Explore the psychological forces driving herd-like investor behavior
+  and their impact on financial markets, and understand algorithmic trading's role
+  in these dynamics.
+title: Sheep as a Pejorative for Herd-Like Investor Behavior (Algo Trading)
 ---
 
 Investing is not solely a game of numbers and data analytics; it is also deeply influenced by emotions and psychological trends. Crowd psychology and herd mentality are among the significant factors shaping investor behavior. These phenomena occur when individuals in a group make decisions collectively, often ignoring their own analysis and insights, leading to actions based on the perceptions and emotions of the majority rather than on factual data. 

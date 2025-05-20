@@ -1,6 +1,8 @@
 ---
-title: "Strategies for Active Stock Traders (Algo Trading)"
-description: "Discover effective strategies for active stock trading focusing on dynamic hands-on approaches and algorithmic trading to maximize your market returns."
+category: trading_strategy
+description: Discover effective strategies for active stock trading focusing on dynamic
+  hands-on approaches and algorithmic trading to maximize your market returns.
+title: Strategies for Active Stock Traders (Algo Trading)
 ---
 
 In the fast-paced world of trading, investors are constantly exploring avenues to refine their strategies and achieve higher returns. Among the many methods available, active trading and algorithmic trading have gained prominence due to their distinctive approaches and associated benefits. These two strategies offer unique pathways for participating in the stock market, each catering to varying preferences and goals among traders.

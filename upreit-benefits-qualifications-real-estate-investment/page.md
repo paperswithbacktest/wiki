@@ -1,6 +1,8 @@
 ---
-title: "UPREIT: Benefits and Qualifications in Real Estate Investment (Algo Trading)"
-description: "Discover how UPREITs can offer tax benefits and liquidity, coupled with the precision of algorithmic trading, for enhanced real estate investment strategies."
+category: quant_concept
+description: Discover how UPREITs can offer tax benefits and liquidity, coupled with
+  the precision of algorithmic trading, for enhanced real estate investment strategies.
+title: 'UPREIT: Benefits and Qualifications in Real Estate Investment (Algo Trading)'
 ---
 
 Umbrella Partnership Real Estate Investment Trusts (UPREITs) have emerged as a significant structure in real estate investing, offering unique advantages primarily related to tax efficiencies and capital flexibility. At their core, UPREITs provide property owners with a transformative way to transition their real estate assets into a publicly traded format without undergoing immediate capital gains taxation. This feature has proven crucial for those seeking to diversify their investment portfolios while maintaining continuity in property management.

@@ -1,6 +1,12 @@
 ---
-title: "What software allows us to test automated strategies with historical prices?"
-description: "Discover the top platforms for backtesting and automated trading, including MetaTrader 4 & 5, QuantConnect, NinjaTrader, and more. From popular Forex platforms to open-source libraries like Backtrader and Quantlib, each tool offers unique features for strategy development, real-time analysis, and backtesting. Learn about platforms tailored to both manual and algorithmic traders, with support for custom scripting, advanced analytics, and access to diverse markets such as equities and commodities."
+category: trading_strategy
+description: Discover the top platforms for backtesting and automated trading, including
+  MetaTrader 4 & 5, QuantConnect, NinjaTrader, and more. From popular Forex platforms
+  to open-source libraries like Backtrader and Quantlib, each tool offers unique features
+  for strategy development, real-time analysis, and backtesting. Learn about platforms
+  tailored to both manual and algorithmic traders, with support for custom scripting,
+  advanced analytics, and access to diverse markets such as equities and commodities.
+title: What software allows us to test automated strategies with historical prices?
 ---
 
 ## Table of Contents

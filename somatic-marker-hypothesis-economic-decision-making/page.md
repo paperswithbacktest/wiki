@@ -1,6 +1,9 @@
 ---
-title: "Somatic Marker Hypothesis in Economic Decision-Making (Algo Trading)"
-description: "Explore how the Somatic Marker Hypothesis enhances economic decision-making and algorithmic trading by utilizing emotions and physiological responses as essential guides."
+category: quant_concept
+description: Explore how the Somatic Marker Hypothesis enhances economic decision-making
+  and algorithmic trading by utilizing emotions and physiological responses as essential
+  guides.
+title: Somatic Marker Hypothesis in Economic Decision-Making (Algo Trading)
 ---
 
 In recent years, the intersection of neuroscience and economics has led to significant advancements in understanding the mechanisms underlying economic decision-making. The Somatic Marker Hypothesis (SMH), introduced by neuroscientist Antonio Damasio, is a pivotal framework that sheds light on the profound influence emotions have on these processes. This hypothesis holds that emotions and physiological responses—collectively termed "somatic markers"—act as essential guides in decision-making, especially under conditions of uncertainty.

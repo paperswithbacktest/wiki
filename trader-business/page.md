@@ -1,6 +1,8 @@
 ---
-title: "Trader (Business) (Algo Trading)"
-description: "Explore the dynamic world of trading where traditional methods meet modern algo trading Learn how technology shapes strategies and boosts market efficiency"
+category: quant_concept
+description: Explore the dynamic world of trading where traditional methods meet modern
+  algo trading Learn how technology shapes strategies and boosts market efficiency
+title: Trader (Business) (Algo Trading)
 ---
 
 The world of financial markets trading is a dynamic and intricate ecosystem where commercial traders employ both traditional strategies and modern technological advancements to navigate the complexities of global markets. Traditional methods, rooted in fundamental and technical analysis, have long been a staple for traders seeking to interpret market trends and patterns. However, the advent of technology and, more specifically, algorithmic trading has redefined how trading is conducted.

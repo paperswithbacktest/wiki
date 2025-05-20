@@ -1,6 +1,9 @@
 ---
-title: "Taxable Municipal Bonds: Types and Requirements (Algo Trading)"
-description: "Explore the world of municipal and taxable bonds, their types, and investment requirements Discover how algorithmic trading transforms bond markets for optimal outcomes"
+category: quant_concept
+description: Explore the world of municipal and taxable bonds, their types, and investment
+  requirements Discover how algorithmic trading transforms bond markets for optimal
+  outcomes
+title: 'Taxable Municipal Bonds: Types and Requirements (Algo Trading)'
 ---
 
 The bond market, a cornerstone of the financial world, presents a multitude of investment opportunities and challenges. At its core, two significant players—municipal bonds and taxable bonds—serve as essential instruments for both institutional and retail investors. Municipal bonds, typically issued by local governments, are primarily used to fund public projects, and often provide the benefit of tax-exempt income for investors. Conversely, taxable bonds, which include both corporate and certain municipal bond issues, tend to offer higher yields to compensate for their tax obligations.

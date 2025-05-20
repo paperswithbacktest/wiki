@@ -1,6 +1,9 @@
 ---
-title: "Short Selling Regulations in China (Algo Trading)"
-description: "Explore China's regulatory landscape on short selling and algorithmic trading uncovering the challenges and implications for investors navigating these financial practices."
+category: quant_concept
+description: Explore China's regulatory landscape on short selling and algorithmic
+  trading uncovering the challenges and implications for investors navigating these
+  financial practices.
+title: Short Selling Regulations in China (Algo Trading)
 ---
 
 In recent years, China's approach to financial regulations has garnered global attention, particularly concerning short selling and algorithmic trading. As a key player on the world economic stage, China's regulatory framework carries substantial implications for international financial systems, creating ripple effects that extend far beyond its borders.

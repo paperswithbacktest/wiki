@@ -1,6 +1,9 @@
 ---
-title: "Technical Analysis of Gold Miner ETFs (Algo Trading)"
-description: "Explore how technical analysis, ETFs, and algorithmic trading can enhance investment strategies in gold mining, offering insights into market trends and optimizing decisions."
+category: trading_strategy
+description: Explore how technical analysis, ETFs, and algorithmic trading can enhance
+  investment strategies in gold mining, offering insights into market trends and optimizing
+  decisions.
+title: Technical Analysis of Gold Miner ETFs (Algo Trading)
 ---
 
 Gold has long been regarded as a strategic asset within investment portfolios due to its unique properties and historical significance. As a tangible asset, gold possesses intrinsic value, serving as a safeguard against inflation and currency fluctuations. This intrinsic value, combined with its rarity, durability, and universal acceptance, cements gold's role as a reliable store of value, especially during periods of economic uncertainty.

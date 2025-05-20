@@ -1,6 +1,8 @@
 ---
-title: "Taxation of Cryptocurrencies (Algo Trading)"
-description: "Learn the essentials of cryptocurrency taxation for investors and algorithmic traders. Understand tax implications, regulations, and reporting to ensure compliance."
+category: quant_concept
+description: Learn the essentials of cryptocurrency taxation for investors and algorithmic
+  traders. Understand tax implications, regulations, and reporting to ensure compliance.
+title: Taxation of Cryptocurrencies (Algo Trading)
 ---
 
 Cryptocurrency has rapidly emerged as a popular investment and transaction medium, attracting both novice investors and seasoned traders. However, with this surge in popularity comes the intricate challenge of taxation. Cryptocurrencies are classified as property by authorities such as the Internal Revenue Service (IRS), leading to complex implications for tax reporting and compliance. Understanding the fundamentals of cryptocurrency taxation is crucial for individual investors and those utilizing algorithmic trading strategies to navigate this evolving landscape.

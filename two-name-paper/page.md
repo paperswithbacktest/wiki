@@ -1,6 +1,8 @@
 ---
-title: "Two Name Paper (Algo Trading)"
-description: "Explore the synergy between academic citation styles and algorithmic trading These domains share a focus on transparency credibility and data integrity"
+category: quant_concept
+description: Explore the synergy between academic citation styles and algorithmic
+  trading These domains share a focus on transparency credibility and data integrity
+title: Two Name Paper (Algo Trading)
 ---
 
 The convergence of academic citation styles and algorithmic trading represents a fascinating intersection of disciplines. Each domain has its own rigorous standards, and their intersection can bring about enhanced transparency, credibility, and trustworthiness in both academic and financial contexts.

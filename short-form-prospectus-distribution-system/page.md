@@ -1,6 +1,9 @@
 ---
-title: "Short-Form Prospectus Distribution System (Algo Trading)"
-description: "The Short-Form Prospectus Distribution System streamlines the update process for securities offerings in Canada enabling speed, transparency, and efficiency in algorithmic trading."
+category: quant_concept
+description: The Short-Form Prospectus Distribution System streamlines the update
+  process for securities offerings in Canada enabling speed, transparency, and efficiency
+  in algorithmic trading.
+title: Short-Form Prospectus Distribution System (Algo Trading)
 ---
 
 In the world of finance, the distribution of securities is a critical process that often involves complex documentation and regulatory compliance. As capital markets continue to expand globally, the need for efficient and transparent systems becomes paramount. Canada's regulatory environment has recognized this necessity, leading to the development of the Short-Form Prospectus Distribution System (SFPDS). This system serves as a streamlined method used by Canadian regulators to efficiently modify and distribute prospectuses. It addresses the challenges of frequent updates and diverse regulatory requirements, allowing issuers to communicate material changes in offerings without the cumbersome process of issuing new prospectuses for every adjustment.

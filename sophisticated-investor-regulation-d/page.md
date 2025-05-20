@@ -1,6 +1,14 @@
 ---
-title: "Sophisticated Investor and Regulation D (Algo Trading)"
-description: "Explore the world of sophisticated investors and their unique opportunities within Regulation D and algorithmic trading. Discover how these well-versed individuals engage in high-stakes investments, leveraging their financial expertise for private placements and exclusive terms. Gain insights into the advantages of Regulation D's exemptions for accessing private offerings with minimal regulatory constraints. Learn about the role algorithmic trading plays in optimizing decisions and returns for these investors. This article provides a thorough understanding of the qualities that define sophisticated investors and their strategic market interactions."
+category: quant_concept
+description: Explore the world of sophisticated investors and their unique opportunities
+  within Regulation D and algorithmic trading. Discover how these well-versed individuals
+  engage in high-stakes investments, leveraging their financial expertise for private
+  placements and exclusive terms. Gain insights into the advantages of Regulation
+  D's exemptions for accessing private offerings with minimal regulatory constraints.
+  Learn about the role algorithmic trading plays in optimizing decisions and returns
+  for these investors. This article provides a thorough understanding of the qualities
+  that define sophisticated investors and their strategic market interactions.
+title: Sophisticated Investor and Regulation D (Algo Trading)
 ---
 
 In the evolving landscape of investment opportunities, sophisticated investors are at the forefront. These individuals or entities possess not only significant financial resources but also a deep understanding of market dynamics and investment strategies. This article explores the characteristics of sophisticated investors, with a particular focus on Regulation D investments and algorithmic trading.

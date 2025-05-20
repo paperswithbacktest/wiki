@@ -1,6 +1,9 @@
 ---
-title: "United Nations: Purpose, Structure, and Membership (Algo Trading)"
-description: "Explore the intriguing intersection of technology and global collaboration as the United Nations considers incorporating algorithmic trading to enhance policy efficiency."
+category: quant_concept
+description: Explore the intriguing intersection of technology and global collaboration
+  as the United Nations considers incorporating algorithmic trading to enhance policy
+  efficiency.
+title: 'United Nations: Purpose, Structure, and Membership (Algo Trading)'
 ---
 
 The United Nations (UN) is a pivotal international organization, established in 1945, with the central mission of fostering global peace, security, and cooperation among its member states. Comprising 193 member countries, the UN plays a crucial role in addressing pressing global issues, including international security, humanitarian relief, economic development, and environmental sustainability. Over the decades, the UN has created numerous specialized agencies and programs aimed at achieving its overarching goals, thus solidifying its significance on a worldwide scale.

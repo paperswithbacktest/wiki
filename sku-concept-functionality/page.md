@@ -1,6 +1,8 @@
 ---
-title: "SKU: Concept and Functionality (Algo Trading)"
-description: "Discover how SKU functionality optimizes inventory, improves sales, and enhances customer satisfaction with the integration of algorithmic trading systems."
+category: quant_concept
+description: Discover how SKU functionality optimizes inventory, improves sales, and
+  enhances customer satisfaction with the integration of algorithmic trading systems.
+title: 'SKU: Concept and Functionality (Algo Trading)'
 ---
 
 In the modern business landscape, efficient product management is crucial to achieving success. Businesses are constantly seeking ways to enhance their operations, streamline processes, and meet consumer demands effectively. Stock Keeping Units (SKU) emerge as a pivotal tool in this regard, playing a vital role in tracking inventory, optimizing sales, and enhancing customer satisfaction. 

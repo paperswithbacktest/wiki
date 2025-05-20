@@ -1,6 +1,13 @@
 ---
-title: "Trumpflation: Concept, Mechanism, and Example (Algo Trading)"
-description: "Explore the concept of Trumpflation, highlighting its origins during Donald Trump's presidency and examining its influence on economic policies. Understand the anticipated versus actual inflationary outcomes under Trump's administration and the integral role of algorithmic trading in market dynamics during this period. Discover how proposed tax cuts, infrastructure spending, and tariff implementations intersected with inflation dynamics, providing insights into the multifaceted nature of economic growth strategies."
+category: quant_concept
+description: Explore the concept of Trumpflation, highlighting its origins during
+  Donald Trump's presidency and examining its influence on economic policies. Understand
+  the anticipated versus actual inflationary outcomes under Trump's administration
+  and the integral role of algorithmic trading in market dynamics during this period.
+  Discover how proposed tax cuts, infrastructure spending, and tariff implementations
+  intersected with inflation dynamics, providing insights into the multifaceted nature
+  of economic growth strategies.
+title: 'Trumpflation: Concept, Mechanism, and Example (Algo Trading)'
 ---
 
 The concept of "Trumpflation" emerged as a focal point of debate and speculation during Donald Trump's presidency, capturing the attention of economists, market analysts, and policymakers. Coined to describe the anticipated inflationary pressures associated with Trump's economic agenda, the term gained prominence amid discussions surrounding proposed tax cuts and substantial infrastructure spending announced during the 2016 presidential campaign and throughout Trump's term in office. These proposed policies, aimed at stimulating economic growth, were scrutinized for their potential impact on inflation, a critical economic indicator that measures the rate at which prices for goods and services rise and subsequently erodes purchasing power.

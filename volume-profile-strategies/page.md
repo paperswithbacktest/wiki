@@ -1,9 +1,12 @@
 ---
-title: "Volume profile strategies"
-description: Discover Volume Profile, a powerful trading analysis tool that reveals key price levels based on trading activity and volume. Learn about High Volume Nodes (HVN) and Low Volume Nodes (LVN), their significance, and how they can aid in making informed trading decisions. Understand the advantages of using Volume Profile over traditional volume analysis for a clearer picture of market sentiment.
+category: trading_strategy
+description: Discover Volume Profile, a powerful trading analysis tool that reveals
+  key price levels based on trading activity and volume. Learn about High Volume Nodes
+  (HVN) and Low Volume Nodes (LVN), their significance, and how they can aid in making
+  informed trading decisions. Understand the advantages of using Volume Profile over
+  traditional volume analysis for a clearer picture of market sentiment.
+title: Volume profile strategies
 ---
-
-
 
 Volume Profile is a sophisticated trading analysis tool that represents trading activity over a specified time period at certain price levels. This tool charts the amount of volume traded at different price points, helping traders to understand market participants' behavior and identify key trading levels. Unlike traditional volume indicators that display volume traded over time, volume profile provides insights into volume traded at specific price levels, offering a more profound understanding of supply and demand dynamics in the market.
 

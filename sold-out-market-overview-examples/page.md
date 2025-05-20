@@ -1,6 +1,8 @@
 ---
-title: "Sold-Out Market: Overview and Examples (Algo Trading)"
-description: "Explore the intricacies of sold-out markets in algo trading, including economic influences, market dynamics, and the role of technology in shaping liquidity."
+category: quant_concept
+description: Explore the intricacies of sold-out markets in algo trading, including
+  economic influences, market dynamics, and the role of technology in shaping liquidity.
+title: 'Sold-Out Market: Overview and Examples (Algo Trading)'
 ---
 
 The financial markets are dynamic ecosystems characterized by constant change and complexity, influenced by a myriad of factors that include investor behavior, economic indicators, and technological advancements. These markets function as vast networks where buying and selling transactions occur, forming a critical component of the global economy. Market participants, ranging from individual investors to large institutional entities, rely on various data inputs and analytical tools to make informed decisions that drive market activities.

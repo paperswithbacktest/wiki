@@ -1,6 +1,8 @@
 ---
-title: "Substitution Swap: Overview, Examples, and Risks (Algo Trading)"
-description: "Explore substitution swaps as a financial strategy in algorithmic trading Learn how these swaps enhance returns manage risks and navigate volatile markets"
+category: quant_concept
+description: Explore substitution swaps as a financial strategy in algorithmic trading
+  Learn how these swaps enhance returns manage risks and navigate volatile markets
+title: 'Substitution Swap: Overview, Examples, and Risks (Algo Trading)'
 ---
 
 In the intricate world of finance, financial derivatives stand out as pivotal instruments due to their ability to derive value from underlying assets such as stocks, bonds, or interest rates. These contracts offer investors opportunities for both hedging and speculation, thereby enhancing portfolio versatility. Among the array of derivative strategies, substitution swaps and algorithmic trading play critical roles in shaping modern financial markets.

@@ -1,9 +1,9 @@
 ---
-title: "Stan Uryasev (Algo Trading)"
-description: "Explore the remarkable journey of Stan Uryasev from Moscow to Stony Brook University as a leader in risk management and algorithmic trading research"
+category: quant_concept
+description: Explore the remarkable journey of Stan Uryasev from Moscow to Stony Brook
+  University as a leader in risk management and algorithmic trading research
+title: Stan Uryasev (Algo Trading)
 ---
-
-
 
 ## Table of Contents
 

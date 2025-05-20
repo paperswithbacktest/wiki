@@ -1,6 +1,8 @@
 ---
-title: "Soft Call Provision (Algo Trading)"
-description: "Explore the impact of soft call provisions in bonds and the role of algorithmic trading as they shape bond redemption strategies and investor decisions."
+category: quant_concept
+description: Explore the impact of soft call provisions in bonds and the role of algorithmic
+  trading as they shape bond redemption strategies and investor decisions.
+title: Soft Call Provision (Algo Trading)
 ---
 
 The bond market, a cornerstone of the global financial system, plays a crucial role in facilitating capital allocation and economic growth. Bonds are debt securities issued by governments, municipalities, and corporations to raise capital, promising to pay back the principal alongside interest. Within this market, call provisions are significant features that provide issuers the right, but not the obligation, to redeem a bond before its maturity. This flexibility allows issuers to manage debt efficiently, especially under favorable market conditions.

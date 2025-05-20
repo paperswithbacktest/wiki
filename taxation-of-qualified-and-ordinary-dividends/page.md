@@ -1,6 +1,9 @@
 ---
-title: "Taxation of Qualified and Ordinary Dividends (Algo Trading)"
-description: "Explore the tax implications of qualified and ordinary dividends and discover how algorithmic trading can enhance your investment strategy for optimal returns."
+category: quant_concept
+description: Explore the tax implications of qualified and ordinary dividends and
+  discover how algorithmic trading can enhance your investment strategy for optimal
+  returns.
+title: Taxation of Qualified and Ordinary Dividends (Algo Trading)
 ---
 
 Understanding the nuances of dividends is crucial for investors aiming to enhance their returns. Dividends represent a portion of a corporation’s earnings distributed to shareholders. They can be categorized principally into qualified and ordinary dividends, each with distinct tax implications. This article examines these classifications' intricacies and discusses how dividend taxation influences investment strategies.

@@ -1,6 +1,8 @@
 ---
-title: "Warehousing in Investment Banking (Algo Trading)"
-description: "Discover how warehousing in investment banking and algorithmic trading are transforming asset management and trade execution with cutting-edge technology."
+category: quant_concept
+description: Discover how warehousing in investment banking and algorithmic trading
+  are transforming asset management and trade execution with cutting-edge technology.
+title: Warehousing in Investment Banking (Algo Trading)
 ---
 
 The financial services industry is undergoing significant transformations due to the introduction of new technologies that are reshaping traditional processes. Key among these advancements are the concepts of warehousing in investment banking and algorithmic trading, both of which are revolutionizing how financial assets are managed and traded. 

@@ -1,6 +1,9 @@
 ---
-title: "Storj and Its Use Cases (Algo Trading)"
-description: "Storj offers decentralized data storage using blockchain technology, enhancing security and privacy compared to traditional cloud systems while enabling cryptocurrency trading."
+category: quant_concept
+description: Storj offers decentralized data storage using blockchain technology,
+  enhancing security and privacy compared to traditional cloud systems while enabling
+  cryptocurrency trading.
+title: Storj and Its Use Cases (Algo Trading)
 ---
 
 Storj is a cryptocurrency platform that integrates blockchain technology to deliver decentralized data storage solutions. Unlike traditional cloud services, which rely on centralized data centers managed by companies like Amazon, Google, or Microsoft, Storj leverages a global network of nodes. This network operates similarly to a peer-to-peer system, where users can rent out unused hard drive space to store encrypted file fragments. This decentralized structure offers improved security and privacy since no single entity controls the entire network. 

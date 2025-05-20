@@ -1,6 +1,9 @@
 ---
-title: "Spillover Effect and Economic Impact (Algo Trading)"
-description: "Explore the mechanics of algorithmic trading and its influence on global markets through spillover effects, impacting liquidity, volatility, and economic trends."
+category: quant_concept
+description: Explore the mechanics of algorithmic trading and its influence on global
+  markets through spillover effects, impacting liquidity, volatility, and economic
+  trends.
+title: Spillover Effect and Economic Impact (Algo Trading)
 ---
 
 Algorithmic trading, often abbreviated as algo trading, refers to the use of computer algorithms to automate trading activities, such as buying or selling financial instruments. These algorithms are programmed to follow a set of defined instructions, which can include timing, price, and volume metrics. Unlike traditional trading, where human decision-making is paramount, algorithmic trading relies on predefined parameters and sophisticated models to execute trades swiftly and accurately. The adoption of algo trading has surged globally, driven by its ability to process vast amounts of data, execute trades at high speeds, and minimize human errors.

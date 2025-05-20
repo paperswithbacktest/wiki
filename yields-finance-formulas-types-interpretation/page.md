@@ -1,6 +1,8 @@
 ---
-title: "Yields in Finance: Formulas, Types, and Interpretation (Algo Trading)"
-description: "Discover the key financial formulas and yield types essential for investors, explore the impact of algorithmic trading, and enhance your investment strategies."
+category: quant_concept
+description: Discover the key financial formulas and yield types essential for investors,
+  explore the impact of algorithmic trading, and enhance your investment strategies.
+title: 'Yields in Finance: Formulas, Types, and Interpretation (Algo Trading)'
 ---
 
 In finance, effective decision-making is crucial for achieving successful investment outcomes. Investors are constantly faced with the challenge of evaluating potential returns and risks associated with their financial choices. At the core of this analysis are financial formulas and yield types, which are essential tools in the investor's toolkit. Financial formulas, such as Net Present Value (NPV), Internal Rate of Return (IRR), and Return on Investment (ROI), offer quantitative insights that empower investors to make informed choices by assessing the profitability and potential risks of various investments.

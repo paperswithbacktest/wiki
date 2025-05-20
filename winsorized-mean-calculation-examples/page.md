@@ -1,6 +1,8 @@
 ---
-title: "Winsorized Mean: Calculation and Examples (Algo Trading)"
-description: "Discover how the winsorized mean can enhance algorithmic trading by mitigating data outliers to provide a stable measure of central tendency for robust analysis."
+category: quant_concept
+description: Discover how the winsorized mean can enhance algorithmic trading by mitigating
+  data outliers to provide a stable measure of central tendency for robust analysis.
+title: 'Winsorized Mean: Calculation and Examples (Algo Trading)'
 ---
 
 Algorithmic trading is a rapidly developing area that leverages data analysis to formulate and execute trading strategies. This practice involves using computer programs and algorithms to trade financial instruments faster and more efficiently than human traders. A crucial aspect of this process is the employment of statistical methods to analyze vast quantities of market data and devise strategies that can capitalize on trading opportunities.

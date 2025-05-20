@@ -1,6 +1,8 @@
 ---
-title: "Trading Arcades: Overview and Mechanics (Algo Trading)"
-description: "Explore trading arcades, operations, and algo trading in financial markets Dissect how these elements boost trading efficiency and aid profitability"
+category: quant_concept
+description: Explore trading arcades, operations, and algo trading in financial markets
+  Dissect how these elements boost trading efficiency and aid profitability
+title: 'Trading Arcades: Overview and Mechanics (Algo Trading)'
 ---
 
 Financial markets have undergone significant transformations due to technological advances, resulting in the emergence of new trading methodologies. This article examines the concepts of trading arcades, trading operations, and algorithmic trading within financial markets. Understanding these concepts is crucial for traders and investors who aim to enhance their trading efficiency and profitability.

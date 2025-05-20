@@ -1,6 +1,8 @@
 ---
-title: "Target Date Funds Investment Guide for Millennials (Algo Trading)"
-description: "Explore how target date funds can simplify retirement planning for millennials offering automatic asset allocation and integrating algorithmic trading strategies."
+category: trading_strategy
+description: Explore how target date funds can simplify retirement planning for millennials
+  offering automatic asset allocation and integrating algorithmic trading strategies.
+title: Target Date Funds Investment Guide for Millennials (Algo Trading)
 ---
 
 The financial landscape is evolving, and millennials, born between the early 1980s and mid-1990s, find themselves at a critical juncture as they enter middle age and their peak earning years. This generation has faced a series of economic challenges, having entered the workforce during pivotal periods such as the Great Recession and the COVID-19 pandemic. These events have significantly influenced their financial stability and planning strategies. Consequently, retirement planning remains a complex and often elusive goal for many millennials, with over a third expressing concerns about lagging in their savings journey.

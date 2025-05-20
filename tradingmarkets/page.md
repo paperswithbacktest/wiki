@@ -1,6 +1,14 @@
 ---
-title: "TradingMarkets (Algo Trading)"
-description: Explore the innovative world of algorithmic trading, a technology-driven approach transforming financial markets. This method leverages advanced computer algorithms for efficient trade execution, minimizing human errors and biases. The adaptability of algo trading offers institutional and retail traders strategic advantages by enhancing liquidity and improving price discovery. Discover the critical strategies, technical requirements, and market impact of algorithmic trading, which continues to evolve with emerging technologies and market dynamics. Stay informed and adaptable as you delve into how algo trading optimizes trading decisions and performance.
+category: quant_concept
+description: Explore the innovative world of algorithmic trading, a technology-driven
+  approach transforming financial markets. This method leverages advanced computer
+  algorithms for efficient trade execution, minimizing human errors and biases. The
+  adaptability of algo trading offers institutional and retail traders strategic advantages
+  by enhancing liquidity and improving price discovery. Discover the critical strategies,
+  technical requirements, and market impact of algorithmic trading, which continues
+  to evolve with emerging technologies and market dynamics. Stay informed and adaptable
+  as you delve into how algo trading optimizes trading decisions and performance.
+title: TradingMarkets (Algo Trading)
 ---
 
 Algorithmic trading, also known as algo trading, has revolutionized the financial markets by enabling rapid and efficient trade execution through automated processes. This technology leverages computer algorithms to monitor market conditions and execute trades at speeds and frequencies far beyond human capabilities. By reducing the influence of human emotion and bias, algo trading aims to optimize trading decisions and performance.

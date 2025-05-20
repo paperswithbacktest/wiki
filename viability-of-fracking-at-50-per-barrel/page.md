@@ -1,6 +1,9 @@
 ---
-title: "Viability of Fracking at $50 per Barrel (Algo Trading)"
-description: "Explore the complex interplay of oil prices, fracking, and algorithmic trading to assess the economic viability of fracking at $50 per barrel in the energy market."
+category: trading_strategy
+description: Explore the complex interplay of oil prices, fracking, and algorithmic
+  trading to assess the economic viability of fracking at $50 per barrel in the energy
+  market.
+title: Viability of Fracking at $50 per Barrel (Algo Trading)
 ---
 
 The global energy market operates as a multifaceted network where various factors such as oil prices, energy economics, fracking, and algorithmic trading play pivotal roles. These elements intertwine to form a dynamic system that significantly impacts not only the strategic planning of businesses and regulatory policies but also the daily lives of consumers around the world.

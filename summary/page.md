@@ -1,7 +1,8 @@
 ---
-title: Exploring Summary Machine Learning Concepts and Applications
+category: quant_concept
 description: Summary machine learning uses condensed datasets to accelerate model
   training and deliver accurate insights across industries Discover more inside.
+title: Exploring Summary Machine Learning Concepts and Applications
 ---
 
 ![Image](images/1.jpeg)

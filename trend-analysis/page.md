@@ -1,6 +1,11 @@
 ---
-title: "Trend Analysis (Algo Trading)"
-description: "Explore the transformative role of trend analysis in algorithmic trading, using data-driven strategies to predict market movements and optimize trade execution. Discover how historical data analysis, technical indicators, and machine learning models enhance forecasting precision, offering traders refined strategies to improve performance and capitalize on market opportunities."
+category: trading_strategy
+description: Explore the transformative role of trend analysis in algorithmic trading,
+  using data-driven strategies to predict market movements and optimize trade execution.
+  Discover how historical data analysis, technical indicators, and machine learning
+  models enhance forecasting precision, offering traders refined strategies to improve
+  performance and capitalize on market opportunities.
+title: Trend Analysis (Algo Trading)
 ---
 
 Algorithmic trading has fundamentally transformed financial markets by employing advanced technological methods to automate and optimize trading processes. At the heart of this transformative approach lies trend forecasting, a crucial component that provides insights into potential market movements by predicting future trends based on historical market data.

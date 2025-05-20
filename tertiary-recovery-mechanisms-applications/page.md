@@ -1,6 +1,8 @@
 ---
-title: "Tertiary Recovery: Mechanisms and Applications (Algo Trading)"
-description: "Explore enhanced oil recovery techniques thermal gas and chemical injections to maximize oil extraction efficiency and align with modern trading strategies."
+category: quant_concept
+description: Explore enhanced oil recovery techniques thermal gas and chemical injections
+  to maximize oil extraction efficiency and align with modern trading strategies.
+title: 'Tertiary Recovery: Mechanisms and Applications (Algo Trading)'
 ---
 
 Enhanced oil recovery (EOR), also known as tertiary recovery, is a crucial technique in the oil industry designed to optimize oil extraction processes once primary and secondary methods have reached their limits. Primary recovery typically relies on the natural pressure of the reservoir, while secondary recovery involves injecting water or gas to displace oil and drive it to the surface. However, these methods generally extract only about 30-40% of the oil in a reservoir. EOR techniques are implemented to target the remaining oil, often increasing the extraction rate by an additional 10% to 20%. 

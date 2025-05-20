@@ -1,6 +1,12 @@
 ---
-title: "Trade Confirmation Timeframe for Brokers (Algo Trading)"
-description: "Explore the complexities of the trade confirmation process in algo trading, highlighting crucial stages from order placement to settlement. Learn about brokers' vital roles in executing trades and ensuring precise confirmations. Discover how algorithmic trading has revolutionized the process, offering speed, efficiency, and reduced emotional biases, along with the benefits of modern digital platforms for enhancing trade confirmations."
+category: trading_strategy
+description: Explore the complexities of the trade confirmation process in algo trading,
+  highlighting crucial stages from order placement to settlement. Learn about brokers'
+  vital roles in executing trades and ensuring precise confirmations. Discover how
+  algorithmic trading has revolutionized the process, offering speed, efficiency,
+  and reduced emotional biases, along with the benefits of modern digital platforms
+  for enhancing trade confirmations.
+title: Trade Confirmation Timeframe for Brokers (Algo Trading)
 ---
 
 The trading process is inherently complex, comprising multiple critical stages that encompass the period before a trade is initiated, during its execution, and after it is completed. Each stage involves distinct activities and decisions that require careful consideration to ensure the success and accuracy of the trade.

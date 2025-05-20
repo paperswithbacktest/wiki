@@ -1,6 +1,8 @@
 ---
-title: "Tax Roll: Overview and Types (Algo Trading)"
-description: "Explore how tax rolls interact with algorithmic trading in finance. Understand their roles in taxation, trading strategies, and financial compliance."
+category: quant_concept
+description: Explore how tax rolls interact with algorithmic trading in finance. Understand
+  their roles in taxation, trading strategies, and financial compliance.
+title: 'Tax Roll: Overview and Types (Algo Trading)'
 ---
 
 In today's complex financial world, understanding taxation is crucial for individuals and businesses alike. Taxation serves as a fundamental mechanism by which governments generate revenue to finance public services and infrastructure, impacting nearly every aspect of economic activity. This article explores various types of taxation, with a special focus on tax rolls and their implications. Tax rolls are comprehensive records listing entities or properties subject to tax within a jurisdiction, playing a critical role in the administration and collection of property taxes.

@@ -1,6 +1,9 @@
 ---
-title: "Stochastic portfolio optimization (Algo Trading)"
-description: "Explore the role of stochastic portfolio optimization in algorithmic trading using statistical methods to enhance investment strategies while managing risk effectively."
+category: quant_concept
+description: Explore the role of stochastic portfolio optimization in algorithmic
+  trading using statistical methods to enhance investment strategies while managing
+  risk effectively.
+title: Stochastic portfolio optimization (Algo Trading)
 ---
 
 Stochastic portfolio optimization is an influential method in the financial industry, particularly relevant for algorithmic trading. This methodology combines statistical and mathematical techniques to enhance the management of investment portfolios, focusing on maximizing gains while mitigating risks. The core of this approach lies in its utilization of stochastic processes, which are mathematical frameworks for modeling randomness and uncertainty in market behaviors.

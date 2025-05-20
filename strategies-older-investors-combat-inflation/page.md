@@ -1,6 +1,8 @@
 ---
-title: "Strategies for Older Investors to Combat Inflation (Algo Trading)"
-description: "Discover strategies for older investors to combat inflation by incorporating diversified portfolios and algorithmic trading techniques to preserve wealth."
+category: trading_strategy
+description: Discover strategies for older investors to combat inflation by incorporating
+  diversified portfolios and algorithmic trading techniques to preserve wealth.
+title: Strategies for Older Investors to Combat Inflation (Algo Trading)
 ---
 
 Inflation poses significant challenges for older investors, primarily by eroding the purchasing power of their fixed income streams and savings. As the cost of living increases, the real value of money diminishes, which can severely impact an individual's ability to maintain their desired standard of living during retirement. This is particularly concerning given that older investors typically face a limited timeframe for their investment portfolios to recover from economic fluctuations, thus necessitating a strategic approach to investment.

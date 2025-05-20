@@ -1,6 +1,8 @@
 ---
-title: "Sudanese Pound (SDP) (Algo Trading)"
-description: "Explore the complex history and current financial dynamics of the Sudanese Pound and discover how algorithmic trading enhances trading accuracy and efficiency."
+category: quant_concept
+description: Explore the complex history and current financial dynamics of the Sudanese
+  Pound and discover how algorithmic trading enhances trading accuracy and efficiency.
+title: Sudanese Pound (SDP) (Algo Trading)
 ---
 
 In this article, we examine the history and current state of the Sudanese Pound (SDP), which serves as the national currency of Sudan. The Sudanese Pound has experienced a complex journey through Sudan's political and economic shifts, reflecting the nation's tumultuous landscape. From its inception to its current form, the SDP has undergone numerous transformations driven by political decisions, economic challenges, and technological advancements.

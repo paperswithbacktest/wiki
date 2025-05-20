@@ -1,6 +1,8 @@
 ---
-title: "Types of Brokerage Accounts (Algo Trading)"
-description: "Explore the essentials of brokerage and investment accounts alongside algorithmic trading strategies to optimize financial growth and secure your future."
+category: trading_strategy
+description: Explore the essentials of brokerage and investment accounts alongside
+  algorithmic trading strategies to optimize financial growth and secure your future.
+title: Types of Brokerage Accounts (Algo Trading)
 ---
 
 In the digital age, effectively managing finances is a necessity that demands a profound understanding of investment tools and strategies. The financial landscape is increasingly complex and requires individuals to be well-versed in various components integral to building a robust investment portfolio. Key among these are brokerage accounts, investment accounts, and algorithmic trading, which together form the pillars of modern financial planning. Each of these elements plays a critical role in facilitating financial growth and ensuring security.
@@ -124,4 +126,3 @@ Empowering oneself with financial knowledge is a vital step toward making strate
 
 5. **Algorithmic Trading and DMA by Weston J.**  
    This work covers the essential aspects of algorithmic trading and direct market access (DMA), detailing execution methods, algorithm designs, and market microstructure. Readers can explore strategies for trading automation and understand how advanced technologies can optimize trade executions and market analysis, making it a critical resource for grasping algorithmic trading fundamentals.
-

@@ -1,6 +1,10 @@
 ---
-title: "Tail Risk Hedging Strategies Explained (Algo Trading)"
-description: Discover how tail risk hedging strategies can protect algorithmic trading portfolios from extreme market events. This guide explores the methodologies, strategic approaches, and benefits of incorporating tail hedging to stabilize investments against unpredictable financial disruptions.
+category: trading_strategy
+description: Discover how tail risk hedging strategies can protect algorithmic trading
+  portfolios from extreme market events. This guide explores the methodologies, strategic
+  approaches, and benefits of incorporating tail hedging to stabilize investments
+  against unpredictable financial disruptions.
+title: Tail Risk Hedging Strategies Explained (Algo Trading)
 ---
 
 In the volatile world of financial markets, events classified as 'tail events' can induce severe disruptions. These occurrences, characterized by their rarity and unpredictability, have a profound impact on financial systems, often leading to significant financial losses. Such events are known for deviating from the normal distribution of market returns, where the tail end of the distribution represents these extreme, unpredictable occurrences.

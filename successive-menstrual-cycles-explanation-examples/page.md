@@ -1,6 +1,9 @@
 ---
-title: "Successive Menstrual Cycles: Explanation and Examples (Algo Trading)"
-description: "Explore the intersection of menstrual cycles and algorithmic trading cycles to uncover valuable insights into decision-making processes and optimize strategies."
+category: quant_concept
+description: Explore the intersection of menstrual cycles and algorithmic trading
+  cycles to uncover valuable insights into decision-making processes and optimize
+  strategies.
+title: 'Successive Menstrual Cycles: Explanation and Examples (Algo Trading)'
 ---
 
 Understanding the natural rhythms of both biological and financial cycles can reveal intriguing parallels that are not immediately evident to the casual observer. These parallels offer valuable insights into two seemingly disparate fields: the menstrual cycle in biology and algorithmic trading in finance. By exploring the successive periods inherent in each, we gain a deeper understanding of how regular intervals influence decision-making processes.

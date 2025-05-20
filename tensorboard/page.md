@@ -1,7 +1,8 @@
 ---
-title: TensorBoard Essentials for Visualizing and Optimizing ML Models
+category: quant_concept
 description: TensorBoard provides real time visualization of training metrics and
   model structures to optimize performance and debug effectively. Discover more inside.
+title: TensorBoard Essentials for Visualizing and Optimizing ML Models
 ---
 
 ![Image](images/1.gif)

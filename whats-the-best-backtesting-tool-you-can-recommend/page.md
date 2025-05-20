@@ -1,6 +1,10 @@
 ---
-title: "What's the best backtesting tool you can recommend?"
-description: "Discover the top backtesting tools for various markets and programming expertise. Learn about MetaTrader, QuantConnect, Backtrader, NinjaTrader, and Zipline, including their markets, benefits, and recommended use cases. Beginners and experts alike will find a tool to suit their needs."
+category: trading_strategy
+description: Discover the top backtesting tools for various markets and programming
+  expertise. Learn about MetaTrader, QuantConnect, Backtrader, NinjaTrader, and Zipline,
+  including their markets, benefits, and recommended use cases. Beginners and experts
+  alike will find a tool to suit their needs.
+title: What's the best backtesting tool you can recommend?
 ---
 
 Backtesting is a critical component in the development and validation of trading and investment strategies. It involves the simulation of a trading strategy on historical data to evaluate its effectiveness before utilizing it in real-world scenarios. The essence of backtesting is rooted in the principle that past market conditions may provide insights into future market behavior. By applying a strategy to historical data, traders can gauge how it would have performed and make informed decisions on whether to employ, modify, or discard it.

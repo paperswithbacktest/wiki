@@ -1,8 +1,9 @@
 ---
-title: Understanding True Positives in Machine Learning Models
+category: quant_concept
 description: True Positives in machine learning measure correct positive predictions
   to improve model accuracy and recall focusing on balanced performance Discover more
   inside.
+title: Understanding True Positives in Machine Learning Models
 ---
 
 ![Image](images/1.webp)

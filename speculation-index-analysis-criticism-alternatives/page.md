@@ -1,6 +1,9 @@
 ---
-title: "Speculation Index: Analysis, Criticism, and Alternatives (Algo Trading)"
-description: "Explore how the Speculation Index offers insights into market sentiment within algorithmic trading and guides investors in understanding speculative behavior in financial markets."
+category: trading_strategy
+description: Explore how the Speculation Index offers insights into market sentiment
+  within algorithmic trading and guides investors in understanding speculative behavior
+  in financial markets.
+title: 'Speculation Index: Analysis, Criticism, and Alternatives (Algo Trading)'
 ---
 
 In today's complex financial landscape, investors are required to navigate a multitude of tools and strategies to effectively manage portfolios. One of the key components in this decision-making process is the Speculation Index, a metric designed to assess trading activity and provide insights into market sentiment. This index plays a pivotal role in financial analysis by helping investors understand the underlying speculative behavior in the markets.

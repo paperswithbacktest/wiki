@@ -1,6 +1,9 @@
 ---
-title: "Tax-Exempt Commercial Paper (Algo Trading)"
-description: "Explore the intersection of tax-exempt commercial paper and algo trading as crucial tools in financial markets offering unique advantages for issuers and investors."
+category: quant_concept
+description: Explore the intersection of tax-exempt commercial paper and algo trading
+  as crucial tools in financial markets offering unique advantages for issuers and
+  investors.
+title: Tax-Exempt Commercial Paper (Algo Trading)
 ---
 
 The world of finance is often complex and filled with various instruments used for capital management and investment. Among these, tax-exempt commercial paper represents a unique tool for short-term financing. This instrument offers not only a means of raising capital but also provides significant tax efficiencies, making it an attractive choice for both issuers and investors. In this article, we will explore the intersection of tax-exempt commercial paper, short-term debt, and algo trading in the financial landscape. 

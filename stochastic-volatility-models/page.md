@@ -1,6 +1,8 @@
 ---
-title: "Stochastic Volatility Models (Algo Trading)"
-description: "Explore the intricacies of Stochastic Volatility models integral to capturing market dynamics and optimizing trading strategies in algorithmic finance."
+category: quant_concept
+description: Explore the intricacies of Stochastic Volatility models integral to capturing
+  market dynamics and optimizing trading strategies in algorithmic finance.
+title: Stochastic Volatility Models (Algo Trading)
 ---
 
 Stochastic Volatility (SV) models are integral tools in financial markets for capturing and describing the dynamic nature of market volatility. Volatility is a key metric, representing the degree of variation in the price of a financial instrument over time, and it plays a critical role in derivative valuation, risk management, and investment decisions. The inherent variability and unpredictability of financial market volatility necessitate sophisticated models, as traditional constant volatility models fail to capture the random and non-stationary patterns observed in real markets.

@@ -1,6 +1,8 @@
 ---
-title: "Trading on the Hong Kong Stock Exchange (Algo Trading)"
-description: "Discover how the Hong Kong Stock Exchange serves as a dynamic hub for global investors through algo trading harnessing speed and precision in stock markets."
+category: trading_strategy
+description: Discover how the Hong Kong Stock Exchange serves as a dynamic hub for
+  global investors through algo trading harnessing speed and precision in stock markets.
+title: Trading on the Hong Kong Stock Exchange (Algo Trading)
 ---
 
 The Hong Kong Stock Exchange (HKEX) is one of the largest and most influential financial markets globally, playing a pivotal role in the international exchange of capital. With its strategic location and status as a gateway to China, HKEX serves as a vital hub for connecting Asian economies with investors across the globe. Its diverse offerings, including stocks, derivatives, and commodities, attract a wide range of participants, from individual investors to multinational corporations.

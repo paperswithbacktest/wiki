@@ -1,7 +1,8 @@
 ---
-title: Essential Techniques for Machine Learning Model Validation
+category: quant_concept
 description: Machine learning validation uses holdout and cross validation to detect
   overfitting and tune hyperparameters for reliable predictions Discover more inside
+title: Essential Techniques for Machine Learning Model Validation
 ---
 
 ![Image](images/1.jpeg)

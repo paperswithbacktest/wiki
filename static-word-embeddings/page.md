@@ -1,7 +1,8 @@
 ---
-title: Understanding Static Word Embeddings For Improved NLP Performance
+category: quant_concept
 description: Static word embeddings enable efficient NLP by mapping words to fixed
   semantic vectors that improve text analysis speed and accuracy Discover more inside.
+title: Understanding Static Word Embeddings For Improved NLP Performance
 ---
 
 ![Image](images/1.png)

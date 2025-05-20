@@ -1,6 +1,13 @@
 ---
-title: "What Are the Different Types of Quantitative Analysts? (Algo Trading)"
-description: Discover the dynamic role of quantitative analysts or quants in algorithmic trading as they revolutionize financial markets. Combining expertise in mathematics finance and computer science quants create sophisticated models to automate trading decisions. Their work transforms vast datasets into actionable insights continuously refining algorithms for optimal market performance. This article explores their essential skills and responsibilities showcasing the profound impact quants have on modern trading ecosystems and future trading technologies.
+category: quant_concept
+description: Discover the dynamic role of quantitative analysts or quants in algorithmic
+  trading as they revolutionize financial markets. Combining expertise in mathematics
+  finance and computer science quants create sophisticated models to automate trading
+  decisions. Their work transforms vast datasets into actionable insights continuously
+  refining algorithms for optimal market performance. This article explores their
+  essential skills and responsibilities showcasing the profound impact quants have
+  on modern trading ecosystems and future trading technologies.
+title: What Are the Different Types of Quantitative Analysts? (Algo Trading)
 ---
 
 In the rapidly evolving world of finance, algorithmic trading has become a central component of investment strategies. This approach involves using computer algorithms to automate trading decisions, offering a more efficient and objective method of executing trades compared to traditional means. It allows market participants to process vast amounts of data swiftly, enabling them to capitalize on market opportunities with unprecedented speed and precision.

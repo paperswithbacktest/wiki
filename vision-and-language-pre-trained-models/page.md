@@ -1,7 +1,8 @@
 ---
-title: A Comprehensive Guide to Vision and Language Pre-Trained Models
+category: quant_concept
 description: Vision and Language Pre-Trained Models enable seamless integration of
   image and text data for captioning and visual question answering Discover more inside
+title: A Comprehensive Guide to Vision and Language Pre-Trained Models
 ---
 
 ![Image](images/1.png)

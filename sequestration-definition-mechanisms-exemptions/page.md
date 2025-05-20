@@ -1,6 +1,9 @@
 ---
-title: "Sequestration: Definition, Mechanisms, and Exemptions (Algo Trading)"
-description: "Explore sequestration mechanisms budget exemptions and the influence of fiscal policies on algorithmic trading in financial markets Discover key insights here"
+category: quant_concept
+description: Explore sequestration mechanisms budget exemptions and the influence
+  of fiscal policies on algorithmic trading in financial markets Discover key insights
+  here
+title: 'Sequestration: Definition, Mechanisms, and Exemptions (Algo Trading)'
 ---
 
 In today's complex economic landscape, understanding the intricacies of fiscal policies and financial innovations is crucial. The financial world is shaped by numerous elements, among which budget exemptions, sequestration, and algorithmic trading are particularly noteworthy. These components are not only essential for maintaining fiscal discipline and economic stability but also play a pivotal role in influencing market behaviors and trading strategies.

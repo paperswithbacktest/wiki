@@ -1,6 +1,10 @@
 ---
-title: "Using Python Lambda Functions in Trading (Algo Trading)"
-description: Discover how Python lambda functions enhance algorithmic trading by streamlining code and improving execution speed. Learn their key features, advantages, and practical applications, making trading strategies more efficient and maintainable for a competitive edge in financial markets.
+category: trading_strategy
+description: Discover how Python lambda functions enhance algorithmic trading by streamlining
+  code and improving execution speed. Learn their key features, advantages, and practical
+  applications, making trading strategies more efficient and maintainable for a competitive
+  edge in financial markets.
+title: Using Python Lambda Functions in Trading (Algo Trading)
 ---
 
 Algorithmic trading is transforming financial markets by automating trading strategies through programming languages such as Python. This automation allows for rapid decision-making and execution in financial markets. A fundamental feature of Python, lambda functions, offers significant advantages for traders and developers looking to improve their trading strategies.

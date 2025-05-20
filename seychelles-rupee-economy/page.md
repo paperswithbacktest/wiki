@@ -1,6 +1,9 @@
 ---
-title: "Seychelles Rupee and Economy (Algo Trading)"
-description: "Explore the Seychelles Rupee's vital role in economic resilience, its history, and impact. Learn how algo trading can transform Seychelles’ financial landscape."
+category: quant_concept
+description: Explore the Seychelles Rupee's vital role in economic resilience, its
+  history, and impact. Learn how algo trading can transform Seychelles’ financial
+  landscape.
+title: Seychelles Rupee and Economy (Algo Trading)
 ---
 
 The Seychelles, an archipelago located in the Indian Ocean, is renowned not only for its natural beauty but also for its vibrant economy. The economy of Seychelles is predominantly sustained by sectors such as tourism, fishing, and agriculture. These sectors contribute significantly to its Gross Domestic Product (GDP) and employment rates. As a small island nation, Seychelles grapples with unique economic challenges, including a limited land mass and susceptibility to external economic shocks. To bolster the island's economic resilience and development, the Seychelles Rupee (SCR) plays a central role as the nation's official currency.

@@ -1,6 +1,10 @@
 ---
-title: "Understanding and Analyzing Income Statements (Algo Trading)"
-description: "Discover how to read and analyze income statements and their importance in financial analysis and algorithmic trading. Uncover insights into revenues, expenses, and profitability to enhance trading strategies and financial decision-making. Explore how algorithmic trading optimizes these analyses for improved investment outcomes."
+category: quant_concept
+description: Discover how to read and analyze income statements and their importance
+  in financial analysis and algorithmic trading. Uncover insights into revenues, expenses,
+  and profitability to enhance trading strategies and financial decision-making. Explore
+  how algorithmic trading optimizes these analyses for improved investment outcomes.
+title: Understanding and Analyzing Income Statements (Algo Trading)
 ---
 
 Understanding financial statements is fundamental for evaluating a company's financial health. Among these documents, the income statement, also referred to as the profit and loss statement, holds significant importance. This article explains how to read and analyze an income statement, especially focusing on its role in financial analysis and algorithmic trading.

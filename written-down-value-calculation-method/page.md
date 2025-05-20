@@ -1,6 +1,9 @@
 ---
-title: "Written-Down Value and Calculation Method (Algo Trading)"
-description: "Explore the importance of Written-Down Value in asset management and algorithmic trading. Learn how accurate depreciation calculations enhance strategy and decision-making."
+category: quant_concept
+description: Explore the importance of Written-Down Value in asset management and
+  algorithmic trading. Learn how accurate depreciation calculations enhance strategy
+  and decision-making.
+title: Written-Down Value and Calculation Method (Algo Trading)
 ---
 
 In today's financial environment, asset management and trading strategies are crucial for maximizing value and returns. Understanding asset depreciation is a key component of effective asset management, as it has a direct impact on financial statements and investment decisions. Accurate depreciation calculations can influence how an asset appears in company books, affecting profitability assessments, tax liabilities, and investment attractiveness.

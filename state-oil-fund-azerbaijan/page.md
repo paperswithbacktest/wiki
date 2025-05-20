@@ -1,6 +1,9 @@
 ---
-title: "State Oil Fund of Azerbaijan (Algo Trading)"
-description: "Explore the State Oil Fund of Azerbaijan's innovative use of algorithmic trading to optimize investment returns and ensure economic stability for future generations."
+category: dataset
+description: Explore the State Oil Fund of Azerbaijan's innovative use of algorithmic
+  trading to optimize investment returns and ensure economic stability for future
+  generations.
+title: State Oil Fund of Azerbaijan (Algo Trading)
 ---
 
 The State Oil Fund of the Republic of Azerbaijan (SOFAZ) is instrumental in managing the revenues from Azerbaijan's oil and gas sectors in a manner that ensures economic prosperity for future generations. Established in December 1999, the fund has steadily grown in size and importance, reaching an impressive $53.4 billion in assets by 2023. Positioned as a sovereign wealth fund, SOFAZ's primary mission is to transform the nation’s oil and gas wealth into a lasting asset that can fund Azerbaijan’s developmental goals across multiple generations.

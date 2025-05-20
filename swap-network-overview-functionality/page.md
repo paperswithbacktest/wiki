@@ -1,6 +1,9 @@
 ---
-title: "Swap Network Overview and Functionality (Algo Trading)"
-description: "Discover how swap networks and algorithmic trading revolutionize risk management in the financial market enhancing efficiency, strategic positioning, and liquidity control."
+category: quant_concept
+description: Discover how swap networks and algorithmic trading revolutionize risk
+  management in the financial market enhancing efficiency, strategic positioning,
+  and liquidity control.
+title: Swap Network Overview and Functionality (Algo Trading)
 ---
 
 The financial world is constantly evolving, with sophisticated strategies being developed to enhance trading efficiency and risk management. One area where this is evident is the use of swap networks and their integration with algorithmic trading. As global financial systems become more interconnected, the demand for efficient and robust mechanisms to manage financial risks increases. Financial swaps and swap networks play a pivotal role in managing currency and interest rate risks, providing critical support to global financial markets.

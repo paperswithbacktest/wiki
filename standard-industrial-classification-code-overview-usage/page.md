@@ -1,6 +1,14 @@
 ---
-title: "Standard Industrial Classification Code Overview and Usage (Algo Trading)"
-description: "Discover the role of Standard Industrial Classification (SIC) codes in economic analysis and strategic marketing. Learn how these codes, established in the early 20th century, continue to aid businesses and regulatory bodies in data management and policy-making. Explore their significance in algorithmic trading, providing insights into sectoral trends, risk assessments, and investment strategy formulation. Understand the comparison with NAICS codes and the continuing relevance of SIC codes in industry classification for informed decision-making in a digitally-driven economy."
+category: dataset
+description: Discover the role of Standard Industrial Classification (SIC) codes in
+  economic analysis and strategic marketing. Learn how these codes, established in
+  the early 20th century, continue to aid businesses and regulatory bodies in data
+  management and policy-making. Explore their significance in algorithmic trading,
+  providing insights into sectoral trends, risk assessments, and investment strategy
+  formulation. Understand the comparison with NAICS codes and the continuing relevance
+  of SIC codes in industry classification for informed decision-making in a digitally-driven
+  economy.
+title: Standard Industrial Classification Code Overview and Usage (Algo Trading)
 ---
 
 In today's rapidly evolving business landscape, correctly classifying industries and businesses is crucial for economic analysis, regulation, and strategic marketing. The ability to categorize an economic entity into a coherent and universally recognized framework allows stakeholders to make informed decisions based on industry-specific data. The Standard Industrial Classification (SIC) system provides this categorization, serving as a foundational tool for systematically dividing industries into defined sectors. Established in the early 20th century, SIC codes have been instrumental in standardizing economic activities across various sectors, aiding government agencies, regulatory bodies, and corporations in effective data management and policy-making.

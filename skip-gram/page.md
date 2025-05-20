@@ -1,7 +1,8 @@
 ---
-title: Understanding Skip-Gram Word Embeddings in Machine Learning
+category: quant_concept
 description: Skip-Gram models create word embeddings by predicting context terms with
   neural networks and sampling methods to capture semantics Discover more inside.
+title: Understanding Skip-Gram Word Embeddings in Machine Learning
 ---
 
 ![Image](images/1.png)

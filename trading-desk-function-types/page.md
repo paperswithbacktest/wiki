@@ -1,6 +1,9 @@
 ---
-title: "Trading Desk: Function and Types (Algo Trading)"
-description: "Explore the dynamic world of trading desks and algo trading Discover how cutting-edge technologies are transforming financial markets for traders and investors"
+category: quant_concept
+description: Explore the dynamic world of trading desks and algo trading Discover
+  how cutting-edge technologies are transforming financial markets for traders and
+  investors
+title: 'Trading Desk: Function and Types (Algo Trading)'
 ---
 
 In today’s dynamic financial markets, the landscape for traders and investors is expanding at an unprecedented pace. Financial trading has seen a remarkable transformation, moving beyond traditional methods to embrace cutting-edge technologies and sophisticated strategies. The evolution of this domain is characterized by the involvement of various types of trading desks and the advent of algorithmic trading, commonly known as algo-trading.

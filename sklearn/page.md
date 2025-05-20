@@ -1,6 +1,11 @@
 ---
-title: "Sklearn (Algo Trading)"
-description: Explore how scikit-learn (sklearn), a powerful Python library, is transforming algo trading by providing efficient tools for data analysis and machine learning model implementation. Leveraging sklearn, traders can build, test, and optimize algorithms that predict market movements, enhancing trading strategies with increased speed and accuracy.
+category: trading_strategy
+description: Explore how scikit-learn (sklearn), a powerful Python library, is transforming
+  algo trading by providing efficient tools for data analysis and machine learning
+  model implementation. Leveraging sklearn, traders can build, test, and optimize
+  algorithms that predict market movements, enhancing trading strategies with increased
+  speed and accuracy.
+title: Sklearn (Algo Trading)
 ---
 
 Algorithmic trading, often referred to as algo trading, employs computer programs to execute trades at speeds and volumes beyond human capability. By leveraging pre-defined parameters and instructions, algorithms can respond to market conditions instantaneously, facilitating high-frequency trading and allowing for complex strategies to be executed consistently without human intervention. This approach significantly reduces the time between identifying a market opportunity and executing a trade, thereby increasing the potential for profit.

@@ -1,6 +1,8 @@
 ---
-title: "Uncovered Options: Overview and Functionality (Algo Trading)"
-description: "Explore the overview and functionality of uncovered options in algo trading. Learn how these financial derivatives aid in risk management and investment strategies."
+category: quant_concept
+description: Explore the overview and functionality of uncovered options in algo trading.
+  Learn how these financial derivatives aid in risk management and investment strategies.
+title: 'Uncovered Options: Overview and Functionality (Algo Trading)'
 ---
 
 Financial derivatives are intricate financial instruments that derive their value from underlying assets such as stocks, bonds, commodities, currencies, interest rates, and market indexes. These instruments have become pivotal in modern finance, offering tools for hedging risks, speculating on market movements, and enhancing investment portfolios. Among the various types of derivatives, options are particularly significant. An option is a contract that grants the holder the right, but not the obligation, to buy or sell an underlying asset at a predetermined price (known as the strike price) within a specified timeframe. Options trading thus enables market participants to capitalize on price movements in the underlying assets, providing opportunities for profit and risk management.

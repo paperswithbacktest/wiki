@@ -1,6 +1,12 @@
 ---
-title: "Target-Date Fund: Risk Tolerance and Example (Algo Trading)"
-description: "Discover how target-date funds and algorithmic trading offer unique strategies for aligning investment choices with risk tolerance and long-term financial goals. Explore the characteristics and advantages of these two approaches: target-date funds for hands-off management through various life stages and algorithmic trading for high-risk high-reward scenarios. This guide helps investors understand risk management in their portfolios to optimize growth and security."
+category: trading_strategy
+description: 'Discover how target-date funds and algorithmic trading offer unique
+  strategies for aligning investment choices with risk tolerance and long-term financial
+  goals. Explore the characteristics and advantages of these two approaches: target-date
+  funds for hands-off management through various life stages and algorithmic trading
+  for high-risk high-reward scenarios. This guide helps investors understand risk
+  management in their portfolios to optimize growth and security.'
+title: 'Target-Date Fund: Risk Tolerance and Example (Algo Trading)'
 ---
 
 Investing is a multifaceted field offering various strategies tailored to suit diverse risk preferences and investment timelines. Central to effective investment planning is the understanding and management of risk tolerance, which significantly influences the selection of investment vehicles and strategies. Among the well-regarded approaches in investment management are target-date funds and algorithmic trading—each possessing unique characteristics and potential rewards.

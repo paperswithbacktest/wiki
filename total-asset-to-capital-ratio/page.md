@@ -1,6 +1,9 @@
 ---
-title: "Total Asset-To-Capital Ratio (Algo Trading)"
-description: "Explore the crucial role of the Total Asset-To-Capital ratio in algorithmic trading to assess a company's financial leverage and stability, enhancing trading strategies."
+category: quant_concept
+description: Explore the crucial role of the Total Asset-To-Capital ratio in algorithmic
+  trading to assess a company's financial leverage and stability, enhancing trading
+  strategies.
+title: Total Asset-To-Capital Ratio (Algo Trading)
 ---
 
 Financial ratios are essential tools for gauging a company's financial health and operational efficiency. Among these, the Total Asset-to-Capital (TAC) ratio stands out as a critical measure of a company's financial leverage and stability. This ratio evaluates the proportion of a company's assets financed by its own capital, offering insights into how well a firm is managing its investment and funding strategies. The calculation of the TAC ratio is straightforward:
@@ -196,4 +199,3 @@ print(df)
 ```
 
 Exploring algorithm development with Python not only enriches your understanding of quantitative finance but also empowers the formulation of sophisticated trading models that integrate essential financial ratios like the TAC ratio.
-

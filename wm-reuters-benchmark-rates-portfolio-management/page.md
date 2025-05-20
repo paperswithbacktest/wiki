@@ -1,6 +1,8 @@
 ---
-title: "WM/Reuters Benchmark Rates in Portfolio Management (Algo Trading)"
-description: "Discover how WM/Reuters benchmark rates revolutionize algorithmic trading by providing essential benchmarks for portfolio managers in the forex market."
+category: dataset
+description: Discover how WM/Reuters benchmark rates revolutionize algorithmic trading
+  by providing essential benchmarks for portfolio managers in the forex market.
+title: WM/Reuters Benchmark Rates in Portfolio Management (Algo Trading)
 ---
 
 Algorithmic trading has seen a profound transformation in recent years, fundamentally altering how portfolio managers assess their performance. Central to this evaluation are reliable benchmarks, which offer a means to measure performance against a standard. Among these benchmarks, the WM/Reuters benchmark rates stand out as critical reference points within the foreign exchange (forex) market. Introduced to provide consistency and accuracy across diverse financial landscapes, these rates are indispensable for crafting effective trading strategies and ensuring precise portfolio valuation. 

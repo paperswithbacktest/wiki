@@ -1,6 +1,9 @@
 ---
-title: "Understanding Arbitrage Pricing Theory (Algo Trading)"
-description: "Explore the intricacies of Arbitrage Pricing Theory in algo trading. Learn how APT enhances asset valuation, risk management, and trading efficiency with multi-factor models."
+category: quant_concept
+description: Explore the intricacies of Arbitrage Pricing Theory in algo trading.
+  Learn how APT enhances asset valuation, risk management, and trading efficiency
+  with multi-factor models.
+title: Understanding Arbitrage Pricing Theory (Algo Trading)
 ---
 
 Financial models play a pivotal role in shaping investment strategies, serving as frameworks for understanding asset valuation, risk assessment, and portfolio management. At the heart of these models is the quest to predict future market behaviors and price assets accurately. Models like the Capital Asset Pricing Model (CAPM), Arbitrage Pricing Theory (APT), and various algorithmic trading strategies each contribute unique insights and tools to the investor’s arsenal.

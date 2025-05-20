@@ -1,6 +1,8 @@
 ---
-title: "Trade Resumption (Algo Trading)"
-description: "Discover how algorithmic trading and trade resumption are driving economic recovery post-pandemic by reshaping global trade dynamics and opportunities."
+category: quant_concept
+description: Discover how algorithmic trading and trade resumption are driving economic
+  recovery post-pandemic by reshaping global trade dynamics and opportunities.
+title: Trade Resumption (Algo Trading)
 ---
 
 As the global economy aims to stabilize post-pandemic, the resumption of trade emerges as a fundamental driver in the economic restart process. This phase marks a rebuilding of the economic structures temporarily hindered by global disruptions. International trade serves as the backbone of economic growth by enabling nations to access a diversity of goods, services, and markets beyond their geographical constraints. With economies increasingly interlinked, the rebound in global trade activities signifies not just a return to pre-crisis levels but an evolution in how countries engage economically with one another.

@@ -1,6 +1,8 @@
 ---
-title: "Simple Agreement for Future Equity (Algo Trading)"
-description: "Discover how startups can harness SAFE agreements and algorithmic trading for growth. Learn about simplified funding and strategic financial advancements."
+category: quant_concept
+description: Discover how startups can harness SAFE agreements and algorithmic trading
+  for growth. Learn about simplified funding and strategic financial advancements.
+title: Simple Agreement for Future Equity (Algo Trading)
 ---
 
 In startups, securing funding is a critical step towards growth and sustainability. Obtaining the necessary capital enables startups to develop their products, hire talent, and expand their operations. One prominent method of acquiring startup investment is through equity funding agreements, notably the Simple Agreement for Future Equity (SAFE) model. The SAFE investment model provides startups and investors with a simplified framework to negotiate future equity stakes, facilitating a more streamlined capital raising process.

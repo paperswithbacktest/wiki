@@ -1,6 +1,9 @@
 ---
-title: "Trickle-Down Economics: Theory, Policies, and Criticisms (Algo Trading)"
-description: "Explore the theory and impact of trickle-down economics including its principles policies and criticism while assessing the role of algorithmic trading in modern economic practices."
+category: quant_concept
+description: Explore the theory and impact of trickle-down economics including its
+  principles policies and criticism while assessing the role of algorithmic trading
+  in modern economic practices.
+title: 'Trickle-Down Economics: Theory, Policies, and Criticisms (Algo Trading)'
 ---
 
 Trickle-down economics, often intertwined with supply-side economics, operates on the principle that providing tax cuts and financial benefits to corporations and high-income individuals will eventually lead to advantages for the broader population. This theory suggests that affluent sectors of society will reinvest their gains into the economy, driving growth, creating jobs, and ultimately enhancing the standard of living for all economic strata. 

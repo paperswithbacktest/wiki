@@ -1,6 +1,8 @@
 ---
-title: "Subprime Credit Overview and Mechanism (Algo Trading)"
-description: "Explore how subprime credit, innovative lending mechanisms, and algorithmic trading are transforming the financial industry and shaping new market dynamics."
+category: quant_concept
+description: Explore how subprime credit, innovative lending mechanisms, and algorithmic
+  trading are transforming the financial industry and shaping new market dynamics.
+title: Subprime Credit Overview and Mechanism (Algo Trading)
 ---
 
 The financial industry is undergoing a profound transformation, characterized by significant advancements in technology and shifting market dynamics. Central to this evolution are key components such as subprime credit, innovative financial lending mechanisms, and algorithmic trading. These elements are reshaping the financial landscape and their integration marks a new era of financial operations. 

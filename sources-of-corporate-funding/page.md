@@ -1,6 +1,9 @@
 ---
-title: "Sources of Corporate Funding (Algo Trading)"
-description: "Explore the diverse sources of corporate funding crucial for business growth including retained earnings debt and equity capital enhanced by algorithmic trading trends."
+category: quant_concept
+description: Explore the diverse sources of corporate funding crucial for business
+  growth including retained earnings debt and equity capital enhanced by algorithmic
+  trading trends.
+title: Sources of Corporate Funding (Algo Trading)
 ---
 
 Business finance and corporate funding are vital in enhancing a company's development and facilitating its expansion. The ability to navigate various funding sources can profoundly affect a business's financial stability and growth potential. Businesses often strive to efficiently allocate resources, and choosing the right funding mechanism is paramount. Several pathways exist to secure the capital necessary for growth, each offering different benefits and challenges.

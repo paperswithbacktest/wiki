@@ -1,6 +1,9 @@
 ---
-title: "Statistical Significance and Its Calculation (Algo Trading)"
-description: "Discover how statistical significance aids algo traders in validating strategies, distinguishing genuine market trends from noise, and improving trading performance."
+category: quant_concept
+description: Discover how statistical significance aids algo traders in validating
+  strategies, distinguishing genuine market trends from noise, and improving trading
+  performance.
+title: Statistical Significance and Its Calculation (Algo Trading)
 ---
 
 In finance, algorithmic trading has become increasingly prevalent. Traders and finance professionals use algorithms to trade stocks, bonds, and other securities at milliseconds’ speeds. The ability to execute trades rapidly and in large volumes offers a competitive edge, yet it also introduces complexities in distinguishing between genuine market signals and random noise. Central to the success of any trading algorithm is understanding whether a particular strategy is genuinely effective or if it's just benefiting from random luck. This brings us to the concept of statistical significance.

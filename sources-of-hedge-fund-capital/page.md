@@ -1,6 +1,9 @@
 ---
-title: "Sources of Hedge Fund Capital (Algo Trading)"
-description: "Explore how hedge funds leverage algorithmic trading and diverse capital sources for superior investment strategies while navigating fee structures and regulatory challenges."
+category: trading_strategy
+description: Explore how hedge funds leverage algorithmic trading and diverse capital
+  sources for superior investment strategies while navigating fee structures and regulatory
+  challenges.
+title: Sources of Hedge Fund Capital (Algo Trading)
 ---
 
 The world of hedge funds represents a convergence of cutting-edge technology and sophisticated financial acumen. This article explores the main sources of capital that fuel hedge funds, the critical fee structures, and the pivotal role of algorithmic trading in driving investment strategies. Hedge funds attract funding from a diverse array of investors, primarily relying on high net worth individuals, corporations, and institutional investors. These funds utilize complex structures and strategies to ensure high returns, which in turn attract more investment. A vital component of this success is the 'Two and Twenty' fee structure, often motivating managers to maximize returns in alignment with both their objectives and those of their investors.

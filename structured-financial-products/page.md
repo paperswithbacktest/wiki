@@ -1,6 +1,9 @@
 ---
-title: "Structured Financial Products (Algo Trading)"
-description: "Explore the world of structured financial products and algorithmic trading Learn how these innovative tools can enhance portfolio diversification and investment success"
+category: trading_strategy
+description: Explore the world of structured financial products and algorithmic trading
+  Learn how these innovative tools can enhance portfolio diversification and investment
+  success
+title: Structured Financial Products (Algo Trading)
 ---
 
 Investment strategies in today's financial markets are manifold, showcasing a diverse array of instruments and technologies. Investors now have unprecedented choices ranging from traditional equities and bonds to more sophisticated options like structured products and algorithmic trading. These advancements reflect significant evolution in financial markets, offering a broad spectrum of opportunities and complexities.

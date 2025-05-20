@@ -1,6 +1,9 @@
 ---
-title: "Troy Ounce: Overview and Historical Context (Algo Trading)"
-description: "Explore the historical and strategic importance of the troy ounce in gold trading, crucial for algorithmic traders seeking precision in the precious metals market."
+category: quant_concept
+description: Explore the historical and strategic importance of the troy ounce in
+  gold trading, crucial for algorithmic traders seeking precision in the precious
+  metals market.
+title: 'Troy Ounce: Overview and Historical Context (Algo Trading)'
 ---
 
 The world of precious metals and gold trading is steeped in tradition, and these markets often utilize unique units of measurement. One such unit is the troy ounce, a measurement historically associated with precious metals like gold. Distinct from the standard ounce commonly used in everyday contexts, the troy ounce plays a pivotal role in the valuation, trading, and investment in gold and other precious metals. 

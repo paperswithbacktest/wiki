@@ -1,6 +1,8 @@
 ---
-title: "Stop-Loss Orders for Risk Management in Investments (Algo Trading)"
-description: "Explore the benefits and strategies of stop-loss orders in algorithmic trading Discover how these tools can safeguard investments and enhance risk management"
+category: trading_strategy
+description: Explore the benefits and strategies of stop-loss orders in algorithmic
+  trading Discover how these tools can safeguard investments and enhance risk management
+title: Stop-Loss Orders for Risk Management in Investments (Algo Trading)
 ---
 
 Algorithmic trading has made a significant impact on the financial markets by providing a systematic and quantitative method for executing trades. One of the core aspects of algorithmic trading is risk management, which involves various strategies to mitigate potential financial losses. Within this framework, stop-loss orders are a fundamental tool, offering traders the ability to protect their investments by automatically exiting a position when the price reaches a pre-determined threshold.

@@ -1,6 +1,9 @@
 ---
-title: "Valuation of Interest Rate Swaps (Algo Trading)"
-description: "Explore the critical role of interest rate swaps in financial markets Discover how these derivatives are valued and revolutionized by algorithmic trading for risk management"
+category: quant_concept
+description: Explore the critical role of interest rate swaps in financial markets
+  Discover how these derivatives are valued and revolutionized by algorithmic trading
+  for risk management
+title: Valuation of Interest Rate Swaps (Algo Trading)
 ---
 
 Financial derivatives are financial instruments whose value is derived from the performance of underlying assets, indices, or interest rates. These instruments are vital in modern financial markets, serving as essential tools for risk management, price discovery, and leveraging investment opportunities. Financial derivatives include futures, options, and swaps, each offering unique features for strategic financial management.

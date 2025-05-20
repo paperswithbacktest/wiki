@@ -1,6 +1,8 @@
 ---
-title: "Super Upside Note (Algo Trading)"
-description: "Discover how Super Upside Notes leverage existing stocks and algorithmic trading to maximize returns. Uncover strategies and risks for modern investors."
+category: quant_concept
+description: Discover how Super Upside Notes leverage existing stocks and algorithmic
+  trading to maximize returns. Uncover strategies and risks for modern investors.
+title: Super Upside Note (Algo Trading)
 ---
 
 Financial instruments form the backbone of investment portfolios, offering a wide array of options that cater to varying risk appetites, investment horizons, and financial goals. These instruments range from traditional assets such as equities and bonds to complex derivatives like futures, options, and structured products. Their significance lies in their ability to provide liquidity, diversification, and potential for capital appreciation, which are crucial for both individual and institutional investors seeking to optimize their returns.

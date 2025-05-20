@@ -1,6 +1,8 @@
 ---
-title: "Technical Indicators for Beginner Traders (Algo Trading)"
-description: "Learn the essentials of technical indicators and trading strategies for beginners. Discover how algorithmic trading can enhance decision-making and efficiency."
+category: quant_concept
+description: Learn the essentials of technical indicators and trading strategies for
+  beginners. Discover how algorithmic trading can enhance decision-making and efficiency.
+title: Technical Indicators for Beginner Traders (Algo Trading)
 ---
 
 The world of trading can be intimidating for beginners, but understanding key concepts can make the journey smoother. In modern trading, three core components play an essential role: technical indicators, trading strategies, and algorithmic trading. Technical indicators are mathematical tools used to analyze historical market data, helping traders forecast future price movements. Trading strategies offer predefined rules for making trading decisions, reducing uncertainty and emotional influence. Algorithmic trading automates these processes, enhancing speed and precision in trade execution.

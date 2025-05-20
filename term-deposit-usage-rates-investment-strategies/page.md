@@ -1,6 +1,8 @@
 ---
-title: "Term Deposit: Usage, Rates, and Investment Strategies (Algo Trading)"
-description: "Explore term deposits and algorithmic trading trends, comparing stable returns with tech-driven investing to optimize portfolio diversification and growth."
+category: trading_strategy
+description: Explore term deposits and algorithmic trading trends, comparing stable
+  returns with tech-driven investing to optimize portfolio diversification and growth.
+title: 'Term Deposit: Usage, Rates, and Investment Strategies (Algo Trading)'
 ---
 
 In the evolving landscape of investment opportunities, term deposits and algorithmic trading stand out as popular choices among investors. Term deposits are known for their stability and guaranteed returns, making them an attractive option for conservative investors who prioritize security and predictability. These financial instruments typically involve committing a sum of money for a fixed period, during which the deposit earns interest at a predetermined rate. Key to optimizing the benefits of term deposits is understanding how interest rates are set and the various factors that influence them, such as economic indicators and central bank policies.

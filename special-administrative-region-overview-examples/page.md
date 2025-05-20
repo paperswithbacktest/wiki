@@ -1,6 +1,8 @@
 ---
-title: "Special Administrative Region: Overview and Examples (Algo Trading)"
-description: "Explore the unique governance of Special Administrative Regions and their impact on algorithmic trading through autonomy and economic diversity."
+category: quant_concept
+description: Explore the unique governance of Special Administrative Regions and their
+  impact on algorithmic trading through autonomy and economic diversity.
+title: 'Special Administrative Region: Overview and Examples (Algo Trading)'
 ---
 
 Special Administrative Regions (SARs) represent unique governance structures that operate under the sovereignty of a country while enjoying a high degree of autonomy in certain areas. These regions are established to maintain distinct socio-political systems, often inherited from colonial administrations or as a part of transitional political agreements. The concept of SARs is significant in both global politics and economics due to their unique ability to straddle different governmental frameworks. This uniqueness presents opportunities for varied economic and legal systems to coexist under a unified national identity.

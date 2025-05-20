@@ -1,7 +1,8 @@
 ---
-title: Trajectory Prediction Models in Machine Learning Explained
+category: quant_concept
 description: Trajectory prediction uses past movement data and models like Social-STGCNN
   and OOSTraj to forecast future paths accurately Discover more inside.
+title: Trajectory Prediction Models in Machine Learning Explained
 ---
 
 ![Image](images/1.png)

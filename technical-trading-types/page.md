@@ -1,6 +1,8 @@
 ---
-title: "Technical Trading Types (Algo Trading)"
-description: "Explore the nuances of technical and algorithmic trading methods in stocks Discover how to enhance your trading strategy using price patterns and algorithms"
+category: trading_strategy
+description: Explore the nuances of technical and algorithmic trading methods in stocks
+  Discover how to enhance your trading strategy using price patterns and algorithms
+title: Technical Trading Types (Algo Trading)
 ---
 
 The landscape of stock market trading has witnessed profound transformations with the advent of technology, enabling more precise and efficient trading strategies. Traditional methods focused largely on fundamental analysis, evaluating company performance, and market conditions. However, the influx of data and advanced computing capabilities has led to the emergence of technical trading and algorithmic trading.

@@ -1,7 +1,8 @@
 ---
-title: Understanding Temporal Convolutions for Sequence Modeling
+category: quant_concept
 description: Temporal Convolutions enable efficient time series modeling by capturing
   long-range dependencies and real-time patterns across sequences Discover more inside
+title: Understanding Temporal Convolutions for Sequence Modeling
 ---
 
 ![Image](images/1.png)

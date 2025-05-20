@@ -1,6 +1,9 @@
 ---
-title: "Swap Execution Facility Overview (Algo Trading)"
-description: "Discover how Swap Execution Facilities (SEFs) and algorithmic trading revolutionize derivatives markets by enhancing transparency regulation and trade execution speed."
+category: quant_concept
+description: Discover how Swap Execution Facilities (SEFs) and algorithmic trading
+  revolutionize derivatives markets by enhancing transparency regulation and trade
+  execution speed.
+title: Swap Execution Facility Overview (Algo Trading)
 ---
 
 Financial trading derivatives play a crucial role in modern financial markets, and the introduction of Swap Execution Facilities (SEFs) and algorithmic trading has significantly impacted this domain. SEFs were established under the Dodd-Frank Wall Street Reform and Consumer Protection Act, a legislative response to the 2008 financial crisis aimed at enhancing transparency and regulation within the derivatives market. Swaps, being a specific type of derivative, were traditionally traded in opaque over-the-counter (OTC) markets, presenting challenges in terms of regulation and transparency. SEFs transform this landscape by providing electronic platforms that standardize and centralize these transactions.

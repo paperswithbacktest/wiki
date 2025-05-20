@@ -1,6 +1,15 @@
 ---
-title: "Total Utility in Economics (Algo Trading)"
-description: "Explore the synergy of total utility in economics and algorithmic trading strategies on this insightful page. Discover how the foundational economic concept of utility, reflecting consumer satisfaction and decision-making, enhances algorithmic trading processes by improving the analysis of market movements and optimizing trading decisions. Learn how utility calculations, pivotal in consumer choice theory, integrate with advanced trading algorithms, offering profound insights for economists and financial professionals. Uncover methodologies to maximize utility for consumer behavior predictions and to refine trading strategies through cutting-edge computational techniques."
+category: quant_concept
+description: Explore the synergy of total utility in economics and algorithmic trading
+  strategies on this insightful page. Discover how the foundational economic concept
+  of utility, reflecting consumer satisfaction and decision-making, enhances algorithmic
+  trading processes by improving the analysis of market movements and optimizing trading
+  decisions. Learn how utility calculations, pivotal in consumer choice theory, integrate
+  with advanced trading algorithms, offering profound insights for economists and
+  financial professionals. Uncover methodologies to maximize utility for consumer
+  behavior predictions and to refine trading strategies through cutting-edge computational
+  techniques.
+title: Total Utility in Economics (Algo Trading)
 ---
 
 In the world of economics, utility is a fundamental concept that serves as a cornerstone for understanding consumer behavior and decision-making processes. Utility is a measure of satisfaction or happiness that consumers derive from consuming goods and services. It is divided into two essential types: total utility and marginal utility. Total utility represents the overall satisfaction obtained by consuming a certain quantity of goods or services, while marginal utility refers to the additional satisfaction gained from consuming an extra unit of a good or service. These concepts enable economists to quantify and analyze the levels of satisfaction, thus predicting consumer demand patterns and decision-making.

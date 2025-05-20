@@ -1,6 +1,9 @@
 ---
-title: "Stakeholder Capitalism (Algo Trading)"
-description: "Explore the integration of stakeholder capitalism with algorithmic trading and corporate responsibility Discover how this approach transforms modern business strategies."
+category: quant_concept
+description: Explore the integration of stakeholder capitalism with algorithmic trading
+  and corporate responsibility Discover how this approach transforms modern business
+  strategies.
+title: Stakeholder Capitalism (Algo Trading)
 ---
 
 In today's rapidly evolving economic landscape, traditional views of corporate responsibility and capitalism are undergoing significant scrutiny. Stakeholder capitalism is emerging as a compelling model that seeks to expand the focus from merely serving shareholder interests to encompassing a broader array of stakeholders, including customers, employees, suppliers, and local communities. This holistic approach challenges the conventional paradigm highlighted by Milton Friedman's shareholder primacy theory, which dominated corporate governance since the 1970s. 

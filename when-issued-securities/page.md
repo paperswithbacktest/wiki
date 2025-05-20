@@ -1,6 +1,8 @@
 ---
-title: "When Issued Securities (Algo Trading)"
-description: "Discover the intricate world of when-issued securities and algorithmic trading Learn how these elements shape capital markets and enhance financial strategies"
+category: trading_strategy
+description: Discover the intricate world of when-issued securities and algorithmic
+  trading Learn how these elements shape capital markets and enhance financial strategies
+title: When Issued Securities (Algo Trading)
 ---
 
 In today's financial markets, trading operations and investment strategies are propelled by several key mechanisms: securities finance, when-issued trading, and algorithmic trading. Each of these elements plays a critical role in shaping the dynamics of capital markets.

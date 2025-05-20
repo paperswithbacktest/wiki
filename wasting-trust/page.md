@@ -1,6 +1,8 @@
 ---
-title: "Wasting Trust (Algo Trading)"
-description: "Explore the challenges and opportunities in algorithmic trading including trust ethical standards legal frameworks and financial implications in today's markets"
+category: quant_concept
+description: Explore the challenges and opportunities in algorithmic trading including
+  trust ethical standards legal frameworks and financial implications in today's markets
+title: Wasting Trust (Algo Trading)
 ---
 
 In today's rapidly evolving financial landscape, algorithmic trading, or 'algo trading,' has established itself as a crucial component of the markets. This trading method utilizes advanced algorithms to analyze market data and execute trades at speeds that surpass human capability. By automating the trading process, algo trading offers significant advantages, including enhanced speed and accuracy, which provide a competitive edge to its practitioners.

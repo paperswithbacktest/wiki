@@ -1,6 +1,8 @@
 ---
-title: "Treatment of Overhead Expenses in Cost Accounting (Algo Trading)"
-description: "Explore the intersection of overhead expense management, cost accounting, and algo trading to enhance financial performance and gain a competitive edge."
+category: quant_concept
+description: Explore the intersection of overhead expense management, cost accounting,
+  and algo trading to enhance financial performance and gain a competitive edge.
+title: Treatment of Overhead Expenses in Cost Accounting (Algo Trading)
 ---
 
 In today's dynamic financial environment, companies are continuously seeking ways to enhance profitability while managing expenses. Key elements at the intersection of finance and accounting include overhead expenses, expense management, cost accounting, and algo trading. Understanding and effectively navigating these areas can open up significant opportunities for businesses and investors alike.
@@ -111,4 +113,3 @@ Kaplan, R. S., & Atkinson, A. A. (2014). 'Advanced Management Accounting (3rd ed
 Harris, L. (2003). 'Trading and Exchanges: Market Microstructure for Practitioners.' Oxford University Press.
 
 Cartea, A., Jaimungal, S., & Penalva, J. (2015). 'Algorithmic and High-Frequency Trading.' Cambridge University Press.
-

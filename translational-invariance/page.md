@@ -1,7 +1,8 @@
 ---
-title: Translational Invariance in CNNs for Image Recognition
+category: quant_concept
 description: Translational invariance in CNNs drives robust image recognition by using
   convolution filters and pooling to detect shifted patterns. Discover more inside.
+title: Translational Invariance in CNNs for Image Recognition
 ---
 
 ![Image](images/1.jpeg)

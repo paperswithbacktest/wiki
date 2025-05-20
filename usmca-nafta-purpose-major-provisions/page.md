@@ -1,6 +1,8 @@
 ---
-title: "USMCA and NAFTA: Purpose and Major Provisions (Algo Trading)"
-description: "Explore the impact of USMCA on trade, digital commerce, and algorithmic trading Discover key differences from NAFTA affecting North American markets"
+category: quant_concept
+description: Explore the impact of USMCA on trade, digital commerce, and algorithmic
+  trading Discover key differences from NAFTA affecting North American markets
+title: 'USMCA and NAFTA: Purpose and Major Provisions (Algo Trading)'
 ---
 
 The United States-Mexico-Canada Agreement (USMCA) replaced the North American Free Trade Agreement (NAFTA) as the primary framework governing trade among the three North American countries. This transition was prompted by a need to modernize and reflect the economic realities of the 21st century. NAFTA, which came into effect in 1994, significantly contributed to the integration of North American economies by eliminating much of the trade barriers between the United States, Canada, and Mexico. However, with advancements in technology and shifts in global economic dynamics, a more contemporary agreement was necessary to address these emerging challenges.

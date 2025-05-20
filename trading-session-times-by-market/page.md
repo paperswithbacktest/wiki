@@ -1,6 +1,8 @@
 ---
-title: "Trading Session Times by Market (Algo Trading)"
-description: "Explore global market trading hours with a focus on algorithmic trading strategies. Maximize trades by aligning with peak activity times across regions."
+category: quant_concept
+description: Explore global market trading hours with a focus on algorithmic trading
+  strategies. Maximize trades by aligning with peak activity times across regions.
+title: Trading Session Times by Market (Algo Trading)
 ---
 
 Financial markets form the backbone of the global economy, facilitating the exchange of financial instruments such as stocks, bonds, currencies, and commodities. They enable capital allocation and risk management across borders, playing a crucial role in economic development. These markets are diverse, including stock markets, where equity trading occurs; bond markets, where debt securities are transacted; foreign exchange markets, crucial for currency conversion; and commodity markets, dealing with raw materials. The smooth functioning of these markets ensures liquidity, price discovery, and efficient capital distribution worldwide.

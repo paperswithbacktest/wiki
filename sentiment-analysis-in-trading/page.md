@@ -1,6 +1,8 @@
 ---
-title: "Sentiment analysis in trading (Algo Trading)"
-description: "Explore the transformative role of sentiment analysis in algo trading to enhance predictions by combining market psychology with data-driven strategies."
+category: quant_concept
+description: Explore the transformative role of sentiment analysis in algo trading
+  to enhance predictions by combining market psychology with data-driven strategies.
+title: Sentiment analysis in trading (Algo Trading)
 ---
 
 Algorithmic trading, or algo trading, has transformed financial markets by employing computer algorithms to execute trading strategies with enhanced speed and efficiency. This approach to trading leverages advanced computational techniques to analyze vast amounts of market data and execute orders faster than human traders, increasing market liquidity and reducing trading costs. A critical component of modern algo trading is sentiment analysis, which assesses the emotional and psychological states of market participants to guide trading decisions. By processing textual data from sources like news articles and social media, sentiment analysis identifies market sentiment—whether positive, negative, or neutral—and helps predict market trends and price movements.
@@ -196,4 +198,3 @@ As sentiment analysis continues to evolve, its application in algorithmic tradin
 
 9. **Smailović, J., Grcar, M., Lavrač, N., & Žnidaršič, M. (2014). "Predictive Sentiment Analysis of Tweets: A Stock Market Application." Springer Lecture Notes in Business Information Processing, 172, 77-88.**  
    In this work, the authors predict stock price movements by applying sentiment analysis to tweets, showcasing the practical application of social media data in financial prediction models.
-

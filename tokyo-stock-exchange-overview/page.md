@@ -1,6 +1,8 @@
 ---
-title: "Tokyo Stock Exchange Overview (Algo Trading)"
-description: "Discover the rich history and technological advancements of the Tokyo Stock Exchange focusing on the impact and evolution of algorithmic trading in Japan."
+category: quant_concept
+description: Discover the rich history and technological advancements of the Tokyo
+  Stock Exchange focusing on the impact and evolution of algorithmic trading in Japan.
+title: Tokyo Stock Exchange Overview (Algo Trading)
 ---
 
 The Tokyo Stock Exchange (TSE), Japan's largest and most prominent stock exchange, is a pivotal institution nestled in Tokyo. Established in 1878, the TSE has emerged as a cornerstone of the global financial landscape, significantly impacting Japan's economic development. The exchange has continually evolved, consistently adapting to the dynamic needs of contemporary trading environments. Throughout its extensive history, the TSE has experienced substantial developments, transitioning from a simple venue for bond trading to a modern, technologically advanced marketplace. This article provides a comprehensive examination of the TSE's rich history, operational structure, and its technological advancements. The focus will also include the rise of algorithmic trading, which has markedly transformed the way trading is executed on the exchange, enhancing both speed and efficiency in market operations.

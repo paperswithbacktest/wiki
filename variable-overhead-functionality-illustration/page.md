@@ -1,6 +1,8 @@
 ---
-title: "Variable Overhead: Functionality and Illustration (Algo Trading)"
-description: "Explore the synergy between cost accounting and algorithmic trading to enhance financial performance. Learn to manage variable overhead for strategic gains."
+category: quant_concept
+description: Explore the synergy between cost accounting and algorithmic trading to
+  enhance financial performance. Learn to manage variable overhead for strategic gains.
+title: 'Variable Overhead: Functionality and Illustration (Algo Trading)'
 ---
 
 In the fast-evolving landscape of finance, cost accounting and algorithmic trading are integral components in optimizing business performance. Cost accounting serves as a critical tool for identifying, analyzing, and controlling costs within an organization. By providing detailed insights into cost behavior and allocation, it empowers businesses to make informed decisions regarding budgeting, pricing strategies, and resource management.
@@ -142,4 +144,3 @@ Looking forward, the trend in financial markets is decidedly toward more compreh
 - Kaplan, R. S., & Anderson, S. R. (2004). *Time-driven activity-based costing*. Harvard Business Review. This article introduces a refined approach to activity-based costing that offers a more accurate and straightforward method for measuring costs related to business activities, essential for effective resource allocation and pricing strategies.
 
 These references offer foundational knowledge and advanced concepts crucial for optimizing cost accounting and integrating it with algorithmic trading. Each resource enhances understanding of the theoretical and practical applications necessary for current financial management challenges.
-

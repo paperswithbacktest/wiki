@@ -1,6 +1,8 @@
 ---
-title: "TSX Venture Exchange: Overview and Mechanisms (Algo Trading)"
-description: "Explore the role of the TSX Venture Exchange TSXV in Canada's stock market for small-cap investments and algorithmic trading pivotal for emerging companies."
+category: quant_concept
+description: Explore the role of the TSX Venture Exchange TSXV in Canada's stock market
+  for small-cap investments and algorithmic trading pivotal for emerging companies.
+title: 'TSX Venture Exchange: Overview and Mechanisms (Algo Trading)'
 ---
 
 The TSX Venture Exchange (TSXV) is an essential component of the Canadian stock market, serving as a platform for small and medium-sized companies to access public capital. Positioned as a feeder market to the larger Toronto Stock Exchange (TSX), the TSXV plays a critical role in nurturing emerging companies, particularly in sectors like mining, energy, and technology. This exchange is a fertile ground for early-stage companies seeking to raise capital and for investors aiming to capitalize on high-growth opportunities.

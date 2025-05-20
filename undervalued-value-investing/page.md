@@ -1,6 +1,9 @@
 ---
-title: "Undervalued in Value Investing (Algo Trading)"
-description: "Explore how integrating value investing's fundamentals with algorithmic trading's precision enhances investment strategies offering informed decision-making and optimized returns."
+category: trading_strategy
+description: Explore how integrating value investing's fundamentals with algorithmic
+  trading's precision enhances investment strategies offering informed decision-making
+  and optimized returns.
+title: Undervalued in Value Investing (Algo Trading)
 ---
 
 Value investing and algorithmic trading are two distinctive strategies that have garnered significant attention in the financial markets. Each strategy provides its own unique advantages and methodologies aimed at optimizing investment decisions. Value investing is an approach where investors seek to identify and invest in securities deemed to be undervalued by the market. This technique relies heavily on traditional financial analysis and evaluation of intrinsic value, expecting that the market will eventually recognize and reflect the true worth of these assets.
@@ -173,4 +176,3 @@ Graham, B. (2006). *The Intelligent Investor: The Definitive Book on Value Inves
 Lopez de Prado, M. (2018). *Advances in Financial Machine Learning.* This text serves as a practical guide for integrating machine learning techniques within financial markets, making it a valuable resource for those involved in algorithmic trading. By discussing the application of data science and machine learning to financial problems, Lopez de Prado equips readers with knowledge on how advanced computational methods can enhance trading decisions and performance. The book offers strategies for robust data analysis and algorithm development, which are crucial for the successful implementation of quantitative value investing.
 
 Chan, E. P. (2008). *Quantitative Trading: How to Build Your Own Algorithmic Trading Business.* Ernie Chan’s book addresses the practical aspects of starting and maintaining an algorithmic trading business. Covering topics such as backtesting strategies, risk management, and execution systems, Chan provides a framework for developing successful trading strategies. This resource is particularly useful for combining algorithmic trading with value investing by offering a systematic approach to strategy development, thus facilitating the execution of trades based on quantitative analysis of market opportunities.
-

@@ -1,6 +1,9 @@
 ---
-title: "Theory of the Firm in Economics (Algo Trading)"
-description: "Explore the interplay between Theory of the Firm and algorithmic trading in economics highlighting how tech and economic principles guide strategic business decisions."
+category: quant_concept
+description: Explore the interplay between Theory of the Firm and algorithmic trading
+  in economics highlighting how tech and economic principles guide strategic business
+  decisions.
+title: Theory of the Firm in Economics (Algo Trading)
 ---
 
 The business world in the modern era is increasingly intertwined with both economic theories and technological innovations. This interdependence underscores the necessity for a comprehensive understanding of the Theory of the Firm, economic principles, and the burgeoning role of algorithmic trading. As firms navigate the complexities of global markets, the intersection of business theory, economics, and technology offers pivotal guidance for strategic decision-making.

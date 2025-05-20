@@ -1,6 +1,8 @@
 ---
-title: "Unfavorable Variance: Types, Causes, and Examples (Algo Trading)"
-description: "Explore types and causes of unfavorable variance in algo trading and how analyzing financial performance variance can improve strategy for better outcomes."
+category: quant_concept
+description: Explore types and causes of unfavorable variance in algo trading and
+  how analyzing financial performance variance can improve strategy for better outcomes.
+title: 'Unfavorable Variance: Types, Causes, and Examples (Algo Trading)'
 ---
 
 In today's financial landscape, accurately assessing and managing variance in financial performance is critical. Unfavorable variance, a situation where actual financial outcomes fall short of what was projected, presents unique challenges that can significantly impact a company's strategic objectives and bottom line. Understanding and managing these variances are crucial for maintaining economic viability and ensuring long-term business sustainability.

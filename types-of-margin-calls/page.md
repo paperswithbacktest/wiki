@@ -1,6 +1,13 @@
 ---
-title: "Types of Margin Calls (Algo Trading)"
-description: "Explore the essential roles of margin calls in leveraged trading, focusing on understanding their types and implications within algorithmic trading. This page provides insights into maintenance margin calls and Fed margin calls, detailing how they protect brokers and traders from potential financial risks. Discover strategies to manage margin call risks and how algorithmic trading can impact the frequency and handling of these calls, ensuring more stable trading and compliance with required regulations."
+category: quant_concept
+description: Explore the essential roles of margin calls in leveraged trading, focusing
+  on understanding their types and implications within algorithmic trading. This page
+  provides insights into maintenance margin calls and Fed margin calls, detailing
+  how they protect brokers and traders from potential financial risks. Discover strategies
+  to manage margin call risks and how algorithmic trading can impact the frequency
+  and handling of these calls, ensuring more stable trading and compliance with required
+  regulations.
+title: Types of Margin Calls (Algo Trading)
 ---
 
 Margin calls are a critical aspect of margin trading in finance, representing an essential mechanism to manage the risk associated with leveraged trading. A margin call occurs when the value of an investor's margin account falls below the broker's required minimum account balance, necessitating the deposit of additional funds or securities to bring the account back to the required level. This requirement ensures that the brokerage firm is protected from potential losses due to diminished collateral value, thereby maintaining the integrity of the trading and borrowing system.

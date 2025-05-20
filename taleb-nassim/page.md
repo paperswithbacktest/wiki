@@ -1,6 +1,12 @@
 ---
-title: "Taleb, Nassim (Algo Trading)"
-description: Explore the impact of Nassim Nicholas Taleb's philosophies on algorithmic trading, emphasizing robust risk management and the Barbell Strategy. Discover how integrating Taleb's ideas helps traders prepare for rare, unpredictable market events, enhancing decision-making in financial markets. This article offers insights into leveraging these principles for innovative trading strategies focused on unpredictability and volatility.
+category: quant_concept
+description: Explore the impact of Nassim Nicholas Taleb's philosophies on algorithmic
+  trading, emphasizing robust risk management and the Barbell Strategy. Discover how
+  integrating Taleb's ideas helps traders prepare for rare, unpredictable market events,
+  enhancing decision-making in financial markets. This article offers insights into
+  leveraging these principles for innovative trading strategies focused on unpredictability
+  and volatility.
+title: Taleb, Nassim (Algo Trading)
 ---
 
 Algorithmic trading has transformed financial markets, relying heavily on mathematical models and vast datasets to make rapid trading decisions. In this landscape, the views of Nassim Nicholas Taleb often elicit both intrigue and skepticism. Taleb, known for his criticism of overreliance on predictive models, argues that these tools are often blind to rare and impactful events, termed "Black Swans." He believes that markets are complex and unpredictable, challenging the belief that past data can always predict future trends.

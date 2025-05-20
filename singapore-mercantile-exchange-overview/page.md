@@ -1,6 +1,8 @@
 ---
-title: "Singapore Mercantile Exchange Overview (Algo Trading)"
-description: "Explore the pivotal role of the Singapore Mercantile Exchange in Asian commodity trading with insights into algorithmic trading's impact on market dynamics."
+category: quant_concept
+description: Explore the pivotal role of the Singapore Mercantile Exchange in Asian
+  commodity trading with insights into algorithmic trading's impact on market dynamics.
+title: Singapore Mercantile Exchange Overview (Algo Trading)
 ---
 
 The Singapore Mercantile Exchange (SMX) is a pivotal element in the landscape of Asian commodity trading. Established with the purpose of enhancing liquidity and offering diverse investment opportunities, SMX plays a crucial role in the financial ecosystem of Asia, particularly in commodities. Located in Singapore, a global financial hub, SMX is strategically positioned to facilitate access to major markets in the Asia-Pacific region.

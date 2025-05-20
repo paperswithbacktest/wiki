@@ -1,6 +1,8 @@
 ---
-title: "Variance in Gross Margin Percentage Due to Price and Cost (Algo Trading)"
-description: "Explore how variations in price and cost affect gross margin percentages in algorithmic trading and discover strategies for enhancing profitability and efficiency."
+category: quant_concept
+description: Explore how variations in price and cost affect gross margin percentages
+  in algorithmic trading and discover strategies for enhancing profitability and efficiency.
+title: Variance in Gross Margin Percentage Due to Price and Cost (Algo Trading)
 ---
 
 In the ever-evolving landscape of financial trading, the importance of understanding gross margin and variance analysis cannot be overstated. These concepts are fundamental to assessing and improving the financial performance of trading operations. Gross margin, a critical measure, helps traders evaluate the percentage of revenue remaining after accounting for the cost of goods sold (COGS). This metric is foundational in determining the efficiency of cost management and overall profitability within trading strategies.

@@ -1,7 +1,8 @@
 ---
-title: Advanced Super-Resolution With SRGAN For Clearer Images
+category: quant_concept
 description: Super-Resolution with SRGAN efficiently enhances low-res images by predicting
   realistic details and textures to restore clarity Discover more inside.
+title: Advanced Super-Resolution With SRGAN For Clearer Images
 ---
 
 ![Image](images/1.jpeg)

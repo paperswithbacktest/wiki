@@ -1,6 +1,8 @@
 ---
-title: "Story Stocks: Definition and Mechanism (Algo Trading)"
-description: "Explore the dynamic world of story stocks and algorithmic trading learn how narratives and technology-driven methods are reshaping modern investment strategies"
+category: quant_concept
+description: Explore the dynamic world of story stocks and algorithmic trading learn
+  how narratives and technology-driven methods are reshaping modern investment strategies
+title: 'Story Stocks: Definition and Mechanism (Algo Trading)'
 ---
 
 The stock market is an ever-evolving landscape that requires savvy investment strategies to navigate successfully. In recent years, a notable shift has occurred with the emergence of 'story stocks' and the increasing prevalence of algorithmic trading, both of which have significantly impacted investor decisions. Story stocks, characterized by their narrative-driven valuations rather than traditional financial metrics, are gaining prominence in sectors that promise innovation and future growth, such as technology and biotechnology. Investors are drawn to these stocks as they often present opportunities for substantial returns based on projected potential rather than current earnings.

@@ -1,6 +1,9 @@
 ---
-title: "Wei in Cryptocurrency (Algo Trading)"
-description: "Explore Ethereum Wei and its role in algorithmic trading Discover how this smallest Ether unit enhances precision and efficiency in crypto transactions and strategies"
+category: quant_concept
+description: Explore Ethereum Wei and its role in algorithmic trading Discover how
+  this smallest Ether unit enhances precision and efficiency in crypto transactions
+  and strategies
+title: Wei in Cryptocurrency (Algo Trading)
 ---
 
 Ethereum has emerged as a leading blockchain platform, underpinning many decentralized applications and smart contracts. At the core of Ethereum's functionality is its native cryptocurrency, Ether (ETH), which serves as both a digital currency and a fuel for the platform's operations. Understanding Ether is critical for anyone participating in the Ethereum ecosystem.

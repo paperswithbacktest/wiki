@@ -1,6 +1,8 @@
 ---
-title: "Use of Real GDP by Economists (Algo Trading)"
-description: "Explore how real GDP metrics guide economic insights and algorithmic trading strategies by revealing genuine economic growth and investment opportunities."
+category: quant_concept
+description: Explore how real GDP metrics guide economic insights and algorithmic
+  trading strategies by revealing genuine economic growth and investment opportunities.
+title: Use of Real GDP by Economists (Algo Trading)
 ---
 
 The economic landscape is a dynamic and intricate domain continuously shaped by numerous factors at both local and global levels. As economies worldwide become increasingly interconnected, understanding these complexities becomes essential for decision-makers. Key metrics, such as Gross Domestic Product (GDP), play a pivotal role in shaping our understanding of economic performance. GDP, representing the total market value of all final goods and services produced within a country over a specific period, serves as a comprehensive indicator of economic activity. 

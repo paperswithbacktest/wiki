@@ -1,6 +1,9 @@
 ---
-title: "Time Deposit and Term Deposit Explained (Algo Trading)"
-description: "Discover the benefits and risks of combining term deposits and algorithmic trading for a balanced investment portfolio featuring stable returns and growth potential."
+category: quant_concept
+description: Discover the benefits and risks of combining term deposits and algorithmic
+  trading for a balanced investment portfolio featuring stable returns and growth
+  potential.
+title: Time Deposit and Term Deposit Explained (Algo Trading)
 ---
 
 The financial landscape offers a variety of instruments tailored to accommodate the diverse needs of investors. Among these, term deposits and algorithmic trading stand out as two distinct strategies, each providing unique advantages and associated risks. Term deposits, also referred to as time deposits, serve as a secure method for earning interest over a specified duration. They attract conservative investors who prioritize stability and certainty in their investment returns. These financial products typically involve an agreement with a banking institution to lock in a set amount of money, yielding predictable interest payouts that are insured by mechanisms like the Federal Deposit Insurance Corporation (FDIC) in the United States.
@@ -105,4 +108,3 @@ Continuous awareness and understanding of economic trends and technological adva
 - Jansen, S. (2018). 'Machine Learning for Algorithmic Trading.' Jansen's work serves as a practical guide for implementing machine learning tools in algorithmic trading. It provides both theoretical insights and practical coding examples, primarily in Python, making it an excellent supplement for traders looking to integrate machine learning into their trading algorithms.
 
 - Chan, E.P. (2009). 'Quantitative Trading: How to Build Your Own Algorithmic Trading Business.' Chan's book offers a detailed overview of creating and managing a quantitative trading business. It covers strategy development, risk management, and trading system design, providing readers with a roadmap for establishing their own algorithmic trading ventures.
-

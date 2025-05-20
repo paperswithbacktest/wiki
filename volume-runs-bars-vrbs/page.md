@@ -1,6 +1,13 @@
 ---
-title: "Volume runs bars (VRBs) (Algo Trading)"
-description: Discover the benefits of Volume Run Bars (VRBs) in algorithmic trading as they offer a superior alternative to traditional time bars. By capturing data based on actual trading volume rather than fixed intervals, VRBs provide a more accurate representation of market activity. This innovative approach mitigates issues like oversampling and undersampling, reduces noise, and enhances decision-making by aligning data sampling with true market dynamics, offering improved outcomes for modern traders.
+category: quant_concept
+description: Discover the benefits of Volume Run Bars (VRBs) in algorithmic trading
+  as they offer a superior alternative to traditional time bars. By capturing data
+  based on actual trading volume rather than fixed intervals, VRBs provide a more
+  accurate representation of market activity. This innovative approach mitigates issues
+  like oversampling and undersampling, reduces noise, and enhances decision-making
+  by aligning data sampling with true market dynamics, offering improved outcomes
+  for modern traders.
+title: Volume runs bars (VRBs) (Algo Trading)
 ---
 
 Understanding the nature of data in algorithmic trading is crucial for traders who aim to optimize their strategies and achieve consistent success in fluctuating markets. Algorithmic trading relies on sophisticated data analysis, where even slight advantages in data interpretation can lead to significant financial gains. Traditional time bars, which sample market data at predetermined intervals, are a staple in this domain. However, they present limitations that can inhibit trading accuracy and efficacy. 

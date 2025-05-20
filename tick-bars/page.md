@@ -1,6 +1,14 @@
 ---
-title: "Tick bars (Algo Trading)"
-description: Explore the fascinating impact of tick bars on algorithmic trading strategies, offering a unique, transaction-focused approach to market analysis that enhances trading precision and efficiency. Discover how tick bars differ from traditional time-based charts by recording trades based on transaction count, providing a clearer perspective on market dynamics without time constraints. Understand their advantages, limitations, and how they can unlock potential in trading strategies through reduced noise and improved signal generation, essential for developing robust trading algorithms tailored to specific market conditions.
+category: quant_concept
+description: Explore the fascinating impact of tick bars on algorithmic trading strategies,
+  offering a unique, transaction-focused approach to market analysis that enhances
+  trading precision and efficiency. Discover how tick bars differ from traditional
+  time-based charts by recording trades based on transaction count, providing a clearer
+  perspective on market dynamics without time constraints. Understand their advantages,
+  limitations, and how they can unlock potential in trading strategies through reduced
+  noise and improved signal generation, essential for developing robust trading algorithms
+  tailored to specific market conditions.
+title: Tick bars (Algo Trading)
 ---
 
 Algorithmic trading has markedly transformed financial markets by enhancing efficiency and precision in executing trades. At the core of this transformation lies an array of data representation methods, each offering unique insights and advantages to traders and algorithms alike. Among these, tick bars are distinguished for their non-standard yet insightful approach. Unlike traditional time-based charts, which record price changes at fixed intervals (such as every minute or hour), tick bars focus on the actual number of transactions, providing a representation based on trade count instead of elapsed time. This critical difference allows traders to examine market activity through a lens that is distinctly trade-focused and devoid of time constraints.

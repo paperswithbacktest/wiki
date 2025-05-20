@@ -1,6 +1,9 @@
 ---
-title: "S&P 500 Dividend Yield History (Algo Trading)"
-description: "Explore the history and dynamics of the S&P 500 dividend yield and its role in investment strategies particularly with the rise of algorithmic trading for optimizing portfolios."
+category: trading_strategy
+description: Explore the history and dynamics of the S&P 500 dividend yield and its
+  role in investment strategies particularly with the rise of algorithmic trading
+  for optimizing portfolios.
+title: S&P 500 Dividend Yield History (Algo Trading)
 ---
 
 The S&P 500, a critical measure of the U.S. equity market, has long served as a benchmark for investors assessing financial performance and opportunities. This article intends to explore the intricate ties between the S&P 500's financial history, its dividend yield dynamics, and the burgeoning influence of algorithmic trading in contemporary investment practices. By understanding the evolving patterns of the S&P 500's dividend yields, investors can gain valuable insights to optimize their portfolios, balancing risk and potential returns effectively.

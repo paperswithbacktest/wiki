@@ -1,6 +1,8 @@
 ---
-title: "Trade Signal (Algo Trading)"
-description: "Explore algorithmic trading with insights on trade signals and financial indicators like RSI and Moving Averages to enhance your trading strategies efficiently."
+category: trading_strategy
+description: Explore algorithmic trading with insights on trade signals and financial
+  indicators like RSI and Moving Averages to enhance your trading strategies efficiently.
+title: Trade Signal (Algo Trading)
 ---
 
 In the rapidly evolving financial markets, trading strategies have experienced significant advancements, increasingly incorporating complex data analysis and cutting-edge technology. Algorithmic trading represents one of these pivotal advancements, employing trade signals and financial indicators to enhance and streamline trading activities. By automating decision-making processes, algorithmic trading reduces human error, speeds up execution times, and provides traders with systematic strategies grounded in quantitative analysis.

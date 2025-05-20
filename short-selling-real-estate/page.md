@@ -1,6 +1,9 @@
 ---
-title: "Short Selling in Real Estate (Algo Trading)"
-description: "Explore the innovative fusion of real estate investment with short selling and algorithmic trading uncovering opportunities and challenges in modern financial markets."
+category: trading_strategy
+description: Explore the innovative fusion of real estate investment with short selling
+  and algorithmic trading uncovering opportunities and challenges in modern financial
+  markets.
+title: Short Selling in Real Estate (Algo Trading)
 ---
 
 The intersection of real estate property investment with short selling and algorithmic trading illustrates a significant evolution in investment strategies. Traditionally, real estate has been considered a reliable asset class, known for its stable returns and long-term growth potential. Its tangibility and capacity to provide steady income streams through rentals or gradual appreciation have made it a staple in many investment portfolios. However, as financial markets evolve, novel techniques such as short selling and algorithmic trading are being applied to the real estate sector, bringing forth new opportunities and challenges for investors.

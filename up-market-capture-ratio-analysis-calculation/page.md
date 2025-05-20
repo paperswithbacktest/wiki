@@ -1,6 +1,8 @@
 ---
-title: "Up-Market Capture Ratio Analysis and Calculation (Algo Trading)"
-description: "Explore the up-market capture ratio and its calculation in algorithmic trading to assess investment performance by leveraging positive market trends effectively."
+category: trading_strategy
+description: Explore the up-market capture ratio and its calculation in algorithmic
+  trading to assess investment performance by leveraging positive market trends effectively.
+title: Up-Market Capture Ratio Analysis and Calculation (Algo Trading)
 ---
 
 The world of investment is vast and filled with numerous metrics that help investors gauge performance. These metrics serve as critical tools in assessing how effectively a portfolio or investment strategy achieves financial goals. Among these metrics, the up-market capture ratio stands out as it measures an investment's performance relative to market gains. This ratio provides insight into how well an investment portfolio capitalizes on positive market movements compared to a benchmark index, demonstrating its potency when markets are on the rise.

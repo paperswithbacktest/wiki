@@ -1,6 +1,8 @@
 ---
-title: "S&P Capital IQ Products and Services (Algo Trading)"
-description: "Discover S&P Capital IQ's essential role in modern finance offering market intelligence and advanced analytics to empower investment and trading strategies."
+category: dataset
+description: Discover S&P Capital IQ's essential role in modern finance offering market
+  intelligence and advanced analytics to empower investment and trading strategies.
+title: S&P Capital IQ Products and Services (Algo Trading)
 ---
 
 S&P Capital IQ plays a pivotal role in financial services, providing invaluable resources for investment analysis and algorithmic trading. As a part of S&P Global, a leader in financial information and analytics, S&P Capital IQ caters to the needs of financial professionals and institutional investors by offering a robust platform for market intelligence and financial data. Companies in the financial sector rely heavily on accurate and timely data to make informed decisions, and S&P Capital IQ stands out for its extensive data offerings and advanced analytics capabilities.

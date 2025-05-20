@@ -1,6 +1,9 @@
 ---
-title: "Types of Investments: Ownership, Lending, Cash (Algo Trading)"
-description: "Explore ownership investments like stocks and real estate lending options such as bonds and savings accounts and the role of algorithmic trading in portfolio management."
+category: quant_concept
+description: Explore ownership investments like stocks and real estate lending options
+  such as bonds and savings accounts and the role of algorithmic trading in portfolio
+  management.
+title: 'Types of Investments: Ownership, Lending, Cash (Algo Trading)'
 ---
 
 In today's dynamic financial landscape, understanding different types of investments is crucial for both novice and experienced investors. This article explores ownership investments, lending investments, and the emerging use of algorithmic trading in managing investment portfolios. Recognizing the distinctions among these investment types is essential for making informed financial decisions.

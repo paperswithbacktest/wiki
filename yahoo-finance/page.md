@@ -1,6 +1,13 @@
 ---
-title: "Yahoo! Finance (Algo Trading)"
-description: Explore the potential of Yahoo Finance for algorithmic trading with insights into its extensive financial data offerings. Yahoo Finance remains a key platform for traders despite the discontinuation of its official API in 2017. Learn how you can leverage unofficial alternatives such as `yfinance` to access comprehensive data crucial for developing and refining trading strategies. Understand the benefits and challenges of using Yahoo Finance data to maximize profits and manage risks in the fast-paced world of algo trading.
+category: quant_concept
+description: Explore the potential of Yahoo Finance for algorithmic trading with insights
+  into its extensive financial data offerings. Yahoo Finance remains a key platform
+  for traders despite the discontinuation of its official API in 2017. Learn how you
+  can leverage unofficial alternatives such as `yfinance` to access comprehensive
+  data crucial for developing and refining trading strategies. Understand the benefits
+  and challenges of using Yahoo Finance data to maximize profits and manage risks
+  in the fast-paced world of algo trading.
+title: Yahoo! Finance (Algo Trading)
 ---
 
 Algorithmic trading, often referred to as algo trading, involves using computer programs to trade financial securities at speeds and frequencies beyond the capacity of human traders. It relies on a set of instructions — an algorithm — to make trading decisions based on predefined rules or models, enabling traders to optimize profits and manage risks with precision. Central to the success of algorithmic trading is access to high-quality financial data, which forms the backbone of any trading model and strategy. The accuracy, timeliness, and comprehensiveness of such data can critically impact the performance of trading algorithms.

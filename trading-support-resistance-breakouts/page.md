@@ -1,6 +1,13 @@
 ---
-title: "Trading Support and Resistance Breakouts (Algo Trading)"
-description: "Explore the synergy between breakout strategies and algorithmic trading to optimize market engagement. Learn how the combination of technical analysis principles like support and resistance with algo trading techniques can enhance trading accuracy and efficiency. Understand how detecting breakouts can signal potential trends and leverage algorithms for swift trade execution, reducing human error and emotional bias. This guide is beneficial for both novice and experienced traders aiming to refine their trading strategies in the fast-paced world of modern trading."
+category: trading_strategy
+description: Explore the synergy between breakout strategies and algorithmic trading
+  to optimize market engagement. Learn how the combination of technical analysis principles
+  like support and resistance with algo trading techniques can enhance trading accuracy
+  and efficiency. Understand how detecting breakouts can signal potential trends and
+  leverage algorithms for swift trade execution, reducing human error and emotional
+  bias. This guide is beneficial for both novice and experienced traders aiming to
+  refine their trading strategies in the fast-paced world of modern trading.
+title: Trading Support and Resistance Breakouts (Algo Trading)
 ---
 
 The world of trading is characterized by constant evolution, driven by the development of new strategies and techniques that enhance market analysis. A prominent method within this dynamic landscape is the utilization of breakouts, alongside the concepts of support and resistance, which offers traders crucial insights into market behavior. These techniques, when combined with algorithmic trading, significantly reshape how traders approach market opportunities by enabling faster and more accurate decision-making processes.

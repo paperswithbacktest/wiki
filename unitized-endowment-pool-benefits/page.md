@@ -1,6 +1,9 @@
 ---
-title: "Unitized Endowment Pool and Its Benefits (Algo Trading)"
-description: "Explore the benefits of Unitized Endowment Pools and algorithmic trading in maximizing endowment investments. Learn innovative strategies and reduce risks effectively."
+category: trading_strategy
+description: Explore the benefits of Unitized Endowment Pools and algorithmic trading
+  in maximizing endowment investments. Learn innovative strategies and reduce risks
+  effectively.
+title: Unitized Endowment Pool and Its Benefits (Algo Trading)
 ---
 
 The financial management of endowment funds is crucial for maintaining the ongoing missions of non-profit organizations and educational institutions. These endowments serve as a financial backbone, providing stable funding that supports various initiatives, scholarships, research projects, and operational needs. The strategic management of these funds can greatly influence an institution's ability to achieve long-term objectives.

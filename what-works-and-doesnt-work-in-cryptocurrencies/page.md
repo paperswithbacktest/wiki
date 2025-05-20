@@ -1,6 +1,13 @@
 ---
-title: "What Works (and Doesn’t Work) in Cryptocurrencies"
-description: Explore the dynamics of crypto algo trading in this comprehensive guide highlighting what strategies work effectively and what don't. Understand the unique challenges of cryptocurrency markets characterized by high volatility and a 24/7 trading environment. Delve into the advantages of algorithmic trading including speed and precision while recognizing the potential pitfalls. Uncover insights into effective trading strategies and the importance of robust risk management techniques to navigate the unpredictable landscape of digital assets successfully.
+category: trading_strategy
+description: Explore the dynamics of crypto algo trading in this comprehensive guide
+  highlighting what strategies work effectively and what don't. Understand the unique
+  challenges of cryptocurrency markets characterized by high volatility and a 24/7
+  trading environment. Delve into the advantages of algorithmic trading including
+  speed and precision while recognizing the potential pitfalls. Uncover insights into
+  effective trading strategies and the importance of robust risk management techniques
+  to navigate the unpredictable landscape of digital assets successfully.
+title: What Works (and Doesn’t Work) in Cryptocurrencies
 ---
 
 The rise of cryptocurrency markets has generated significant interest in algorithmic trading, commonly known as algo trading. This technological advancement involves the use of computer programs and algorithms to execute trades automatically, capitalizing on the unique characteristics of cryptocurrencies. Unlike traditional financial assets, cryptocurrencies exhibit high volatility, a 24/7 trading environment, and often speculative valuations, making them a fertile ground for the deployment of sophisticated trading strategies.

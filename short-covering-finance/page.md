@@ -1,6 +1,8 @@
 ---
-title: "Short Covering in Finance (Algo Trading)"
-description: "Discover the intricacies of short covering in finance learn how it impacts market dynamics and explore the role of algorithmic trading in optimizing strategies"
+category: trading_strategy
+description: Discover the intricacies of short covering in finance learn how it impacts
+  market dynamics and explore the role of algorithmic trading in optimizing strategies
+title: Short Covering in Finance (Algo Trading)
 ---
 
 The stock market is a multifaceted and continually changing arena where both investors and traders utilize various strategies to maximize their financial outcomes. One significant strategy within this domain is short covering, which plays a critical role in the market's overall dynamics. 

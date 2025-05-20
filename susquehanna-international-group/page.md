@@ -1,6 +1,9 @@
 ---
-title: "Susquehanna International Group (Algo Trading)"
-description: "Explore Susquehanna International Group a leader in algorithmic trading that leverages advanced technology for optimized operations in global financial markets."
+category: trading_strategy
+description: Explore Susquehanna International Group a leader in algorithmic trading
+  that leverages advanced technology for optimized operations in global financial
+  markets.
+title: Susquehanna International Group (Algo Trading)
 ---
 
 Susquehanna International Group, LLP (SIG) is a prominent global quantitative trading firm renowned for pioneering advancements in algorithmic trading. Founded in 1987, SIG has consistently emphasized cutting-edge technology and quantitative methodologies to optimize trading operations across international financial markets. This article aims to provide a comprehensive overview of SIG's integral role and innovative strategies in algorithmic trading, highlighting the firm's influence on financial markets and its commitment to technological progression.

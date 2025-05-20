@@ -1,6 +1,14 @@
 ---
-title: "What Happens When Stock Markets Are Oversold? (Algo Trading)"
-description: Explore how algorithmic trading enhances financial markets by identifying oversold stock conditions, which signal potential price corrections. Understanding and predicting these scenarios can optimize trading strategies and returns. Key indicators like the Relative Strength Index (RSI) enable traders to evaluate oversold conditions, while strategies such as mean reversion help anticipate price rebounds. This article examines techniques for detecting oversold stocks, the application of algorithms in trading strategies, and how these approaches improve investment outcomes.
+category: trading_strategy
+description: Explore how algorithmic trading enhances financial markets by identifying
+  oversold stock conditions, which signal potential price corrections. Understanding
+  and predicting these scenarios can optimize trading strategies and returns. Key
+  indicators like the Relative Strength Index (RSI) enable traders to evaluate oversold
+  conditions, while strategies such as mean reversion help anticipate price rebounds.
+  This article examines techniques for detecting oversold stocks, the application
+  of algorithms in trading strategies, and how these approaches improve investment
+  outcomes.
+title: What Happens When Stock Markets Are Oversold? (Algo Trading)
 ---
 
 Algorithmic trading is transforming financial markets by enabling trades to be executed with unprecedented speed and frequency, capabilities that surpass the limitations of human traders. This technological advancement utilizes computer algorithms to make buying and selling decisions in financial markets, often executing hundreds or thousands of trades in a fraction of a second. Among the diverse strategies employed within this domain, detecting 'oversold' conditions in stocks stands out as a crucial technique. An oversold condition suggests that a stock's price has decreased significantly, potentially beyond what its fundamental value justifies. This scenario opens avenues for traders to anticipate price corrections, thereby capitalizing on potential gains when the market adjusts.

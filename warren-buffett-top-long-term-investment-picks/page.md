@@ -1,6 +1,8 @@
 ---
-title: "Warren Buffett's Top Long-Term Investment Picks (Algo Trading)"
-description: "Discover Warren Buffett's top long-term investment picks blending traditional value investing with modern algorithmic trading for enduring financial success."
+category: trading_strategy
+description: Discover Warren Buffett's top long-term investment picks blending traditional
+  value investing with modern algorithmic trading for enduring financial success.
+title: Warren Buffett's Top Long-Term Investment Picks (Algo Trading)
 ---
 
 The world of investing has always held a certain allure, with Warren Buffett standing out as one of the most iconic figures in the domain. Known as the Oracle of Omaha, Buffett's investment strategies, particularly in long-term investments, have been widely studied and emulated by both novice and seasoned investors. His consistent success over decades has reinforced his legendary status in financial circles.

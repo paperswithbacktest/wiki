@@ -1,6 +1,8 @@
 ---
-title: "Understanding the Money Market (Algo Trading)"
-description: "Explore the intricacies of money market investments and algorithmic trading Discover how to balance risk and return using financial instruments and strategies"
+category: quant_concept
+description: Explore the intricacies of money market investments and algorithmic trading
+  Discover how to balance risk and return using financial instruments and strategies
+title: Understanding the Money Market (Algo Trading)
 ---
 
 The evolving landscape of financial markets has consistently introduced new avenues for investment, providing opportunities through various financial instruments, money market ventures, and the innovative sphere of algorithmic trading. These developments present both challenges and opportunities for investors keen on maximizing their returns while managing risks effectively. 
@@ -197,4 +199,3 @@ Investors aiming to diversify and optimize their portfolios must grasp the inter
 [7]: ["The Handbook of Electronic Trading"](https://iqpc.com/media/1003808/45039.pdf) by Joseph Rosen
 
 [8]: ["Trading and Exchanges: Market Microstructure for Practitioners"](https://archive.org/details/tradingexchanges0000harr) by Larry Harris
-

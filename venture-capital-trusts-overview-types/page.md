@@ -1,6 +1,8 @@
 ---
-title: "Venture Capital Trusts: Overview and Types (Algo Trading)"
-description: "Explore Venture Capital Trusts in the UK including their benefits structure and the role of algorithmic trading to optimize investments in high-growth SMEs."
+category: quant_concept
+description: Explore Venture Capital Trusts in the UK including their benefits structure
+  and the role of algorithmic trading to optimize investments in high-growth SMEs.
+title: 'Venture Capital Trusts: Overview and Types (Algo Trading)'
 ---
 
 Venture Capital Trusts (VCTs) are an essential concept for investors aiming to support and benefit from the growth of high-potential small businesses. Established in the UK, VCTs offer a distinctive opportunity for individuals to invest in burgeoning small and medium enterprises (SMEs) by pooling their resources into a managed fund. This collective investment model not only aids the expansion of promising companies but also provides investors with several tax incentives designed to boost participation in these ventures.

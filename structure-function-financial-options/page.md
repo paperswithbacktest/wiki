@@ -1,6 +1,8 @@
 ---
-title: "Structure and Function of Financial Options (Algo Trading)"
-description: "Explore the complexities of financial options derivatives and algorithmic trading as key strategies in modern investing to balance risk and returns."
+category: quant_concept
+description: Explore the complexities of financial options derivatives and algorithmic
+  trading as key strategies in modern investing to balance risk and returns.
+title: Structure and Function of Financial Options (Algo Trading)
 ---
 
 Understanding the diverse world of investing involves exploring a wide array of financial instruments and strategies. As investors seek to build wealth and secure financial futures, they encounter various approaches designed to optimize the balance between risk and potential return. This article offers a comprehensive guide to key investment strategies, particularly focusing on financial options, derivatives, and algorithmic trading—a trio of intricately related domains that have transformed modern investing.

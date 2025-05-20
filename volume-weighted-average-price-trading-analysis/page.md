@@ -1,6 +1,9 @@
 ---
-title: "Volume Weighted Average Price in Trading and Analysis (Algo Trading)"
-description: "Enhance your trading strategies with the Volume Weighted Average Price VWAP a key tool that provides insights into price trends using both price and volume data."
+category: quant_concept
+description: Enhance your trading strategies with the Volume Weighted Average Price
+  VWAP a key tool that provides insights into price trends using both price and volume
+  data.
+title: Volume Weighted Average Price in Trading and Analysis (Algo Trading)
 ---
 
 In the fast-paced world of trading, leveraging technical indicators is crucial for gaining a competitive edge. Among these tools, the Volume Weighted Average Price (VWAP) stands out as a powerful instrument employed extensively by both traders and analysts. VWAP offers valuable insights into the average price at which a security has traded during a specified time frame while taking into account the trading volume at each price point. By incorporating both price and volume data, VWAP provides a comprehensive snapshot of a security’s trading activity, enabling market participants to understand the dynamics of price movements throughout the trading session.

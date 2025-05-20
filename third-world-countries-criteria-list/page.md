@@ -1,6 +1,8 @@
 ---
-title: "Third World Countries: Criteria and List (Algo Trading)"
-description: "Explore how developing nations' classification affects global economic policies and trading. Discover the impact of algo trading on their economic prospects."
+category: quant_concept
+description: Explore how developing nations' classification affects global economic
+  policies and trading. Discover the impact of algo trading on their economic prospects.
+title: 'Third World Countries: Criteria and List (Algo Trading)'
 ---
 
 The concept of 'third world countries' has experienced considerable evolution from its origins during the geopolitical divisions of the Cold War era. Initially, the term 'third world' referred to nations not aligned with NATO or the Communist Bloc. However, as global dynamics have shifted, so has the terminology and understanding of these countries. Today, these nations are more appropriately identified as 'developing countries' or 'low- and middle-income countries' (LMICs), reflecting economic and social metrics rather than geopolitical alignments. These classifications impact global economic policies and influence trading practices by determining international aid and finance allocation.

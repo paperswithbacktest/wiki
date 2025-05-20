@@ -1,6 +1,13 @@
 ---
-title: "Weighted Kendall’s tau (Algo Trading)"
-description: Weighted Kendall's Tau is a powerful statistical tool for evaluating correlations by considering rank importance, advantageous in algorithmic trading where financial instruments differ in impact. This measure refines trading strategies by aligning signals with financial significance, offering nuanced insights into market dynamics. Utilizing Python's SciPy library, traders can efficiently compute this measure, enhancing predictive accuracy and trading outcomes amidst complex market scenarios.
+category: quant_concept
+description: Weighted Kendall's Tau is a powerful statistical tool for evaluating
+  correlations by considering rank importance, advantageous in algorithmic trading
+  where financial instruments differ in impact. This measure refines trading strategies
+  by aligning signals with financial significance, offering nuanced insights into
+  market dynamics. Utilizing Python's SciPy library, traders can efficiently compute
+  this measure, enhancing predictive accuracy and trading outcomes amidst complex
+  market scenarios.
+title: Weighted Kendall’s tau (Algo Trading)
 ---
 
 Weighted Kendall's Tau is a statistical measure that evaluates the correlation between two ranked variables while accounting for the importance or weight of the ranks. Unlike the traditional Kendall's Tau, which treats all ranks equally, the weighted version assigns varying significance to different ranks, making it particularly useful in scenarios where some data points carry more weight than others.

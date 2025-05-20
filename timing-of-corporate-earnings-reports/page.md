@@ -1,6 +1,8 @@
 ---
-title: "Timing of Corporate Earnings Reports (Algo Trading)"
-description: "Explore the critical impact of corporate earnings timing on algorithmic trading in financial markets Learn about the importance of precise and timely disclosures"
+category: quant_concept
+description: Explore the critical impact of corporate earnings timing on algorithmic
+  trading in financial markets Learn about the importance of precise and timely disclosures
+title: Timing of Corporate Earnings Reports (Algo Trading)
 ---
 
 The intersection of corporate earnings, financial disclosure, and reporting schedules is a critical area influencing the dynamics of financial markets, particularly through their impact on algorithmic trading. Corporate earnings represent a company's profitability and are a key indicator for investors and analysts. These earnings are disclosed through financial reports, which must adhere to strict legal standards and timeframes. The timing of these disclosures is crucial as it can affect market stability and investor decisions.

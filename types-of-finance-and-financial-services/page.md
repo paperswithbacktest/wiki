@@ -1,6 +1,9 @@
 ---
-title: "Types of Finance and Financial Services (Algo Trading)"
-description: "Explore the various types of finance including personal corporate and public finance and understand how algorithmic trading is revolutionizing financial services."
+category: quant_concept
+description: Explore the various types of finance including personal corporate and
+  public finance and understand how algorithmic trading is revolutionizing financial
+  services.
+title: Types of Finance and Financial Services (Algo Trading)
 ---
 
 Finance encompasses a wide array of disciplines related to money management, investment, and the economic frameworks that support these processes. It is integral to both individual prosperity and the broader economy, underpinning everything from household budgeting to the fiscal strategies of multinational corporations. At a national and global level, the financial services sector plays a key role by facilitating the movement of capital and liquidity, thereby enabling economic growth and stability. 

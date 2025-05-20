@@ -1,6 +1,11 @@
 ---
-title: "Throughput: Formula, Benefits, and Calculation (Algo Trading)"
-description: "Explore the significance of throughput in algorithmic trading to enhance the efficiency and precision needed in high-frequency trade executions. Learn about its impact on parsing large data volumes, maintaining a competitive edge, and achieving optimal system performance. Discover practical techniques for modern trading systems to improve execution speed, manage risks, and leverage market opportunities."
+category: quant_concept
+description: Explore the significance of throughput in algorithmic trading to enhance
+  the efficiency and precision needed in high-frequency trade executions. Learn about
+  its impact on parsing large data volumes, maintaining a competitive edge, and achieving
+  optimal system performance. Discover practical techniques for modern trading systems
+  to improve execution speed, manage risks, and leverage market opportunities.
+title: 'Throughput: Formula, Benefits, and Calculation (Algo Trading)'
 ---
 
 In the fast-paced world of algorithmic trading, understanding and optimizing throughput is essential. Algorithmic trading, which relies on computers executing pre-defined strategies at high speeds, demands efficiency and precision. A crucial measure of this efficiency is throughput, which refers to the rate at which a trading system processes transactions. High throughput in algorithmic trading is synonymous with robust performance, as it directly influences the speed and accuracy of trade executions. Efficient throughput calculation ensures that trades are executed swiftly, minimizing latency and exploiting market opportunities as they arise.

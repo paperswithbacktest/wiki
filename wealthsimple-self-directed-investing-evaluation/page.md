@@ -1,6 +1,8 @@
 ---
-title: "Wealthsimple Self-Directed Investing Evaluation (Algo Trading)"
-description: "Explore Wealthsimple's self-directed investing platform focusing on commission-free trading and innovative features, ideal for beginner to seasoned investors in Canada."
+category: trading_strategy
+description: Explore Wealthsimple's self-directed investing platform focusing on commission-free
+  trading and innovative features, ideal for beginner to seasoned investors in Canada.
+title: Wealthsimple Self-Directed Investing Evaluation (Algo Trading)
 ---
 
 Wealthsimple is a notable entity in the online financial services sector, particularly recognized in Canada for its pioneering investment strategies. Established in 2014 in Toronto, Wealthsimple has rapidly evolved into a leading financial technology firm, placing a significant emphasis on simplicity and client accessibility. This focus has made it easier for individuals to engage with investing, especially those who may be new to the financial world.

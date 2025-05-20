@@ -1,6 +1,11 @@
 ---
-title: "Small Cap (Algo Trading)"
-description: Discover the world of Small Cap investing and algorithmic trading in this comprehensive article. Learn about Small Cap stocks, their historical returns, the Small Caps premium, and how algo trading can help maximize returns in this high-risk, high-reward market. Explore resources for further study and datasets for quantitative analysis.
+category: quant_concept
+description: Discover the world of Small Cap investing and algorithmic trading in
+  this comprehensive article. Learn about Small Cap stocks, their historical returns,
+  the Small Caps premium, and how algo trading can help maximize returns in this high-risk,
+  high-reward market. Explore resources for further study and datasets for quantitative
+  analysis.
+title: Small Cap (Algo Trading)
 ---
 
 Algorithmic trading, commonly known as algo trading, refers to the use of computer algorithms to execute trades at high speeds that humans cannot achieve. By leveraging mathematical models and powerful computational techniques, algo trading has revolutionized the financial markets. This innovation allows traders to efficiently capitalize on market opportunities and improves liquidity and price discovery processes. The evolution of algorithmic trading is largely driven by advancements in technology, such as artificial intelligence, big data, and high-frequency trading platforms. As of recent years, algorithmic trading accounts for a significant portion of trading volumes on global stock exchanges.

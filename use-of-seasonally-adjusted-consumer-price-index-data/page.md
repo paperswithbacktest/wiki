@@ -1,6 +1,9 @@
 ---
-title: "Use of Seasonally Adjusted Consumer Price Index Data (Algo Trading)"
-description: "Explore how seasonally adjusted Consumer Price Index data enhances algorithmic trading strategies by providing clearer insights into inflation trends and market dynamics."
+category: dataset
+description: Explore how seasonally adjusted Consumer Price Index data enhances algorithmic
+  trading strategies by providing clearer insights into inflation trends and market
+  dynamics.
+title: Use of Seasonally Adjusted Consumer Price Index Data (Algo Trading)
 ---
 
 The rapid evolution of financial markets has significantly transformed investment decision-making, largely driven by the rise of algorithmic trading. This method leverages computational power and data analytics, allowing traders to execute orders with speed and precision previously unattainable through traditional means. Central to these advancements is the use of key economic indicators, among which the Consumer Price Index (CPI) holds substantial importance. 

@@ -1,6 +1,14 @@
 ---
-title: "Types of Trading Strategies (Algo Trading)"
-description: Discover the transformative power of algorithmic trading in financial markets, where complex algorithms execute trades with unmatched speed and precision. This article dives into essential algo trading strategies, helping traders optimize actions, reduce human emotion influence, and back-test strategies. Explore trend-following techniques leveraging market momentum and mean reversion strategies grounded in returning to historical price averages. Equip yourself with insights to enhance trading efficiency and align strategic goals with the right strategies for improved performance in dynamic markets.
+category: trading_strategy
+description: Discover the transformative power of algorithmic trading in financial
+  markets, where complex algorithms execute trades with unmatched speed and precision.
+  This article dives into essential algo trading strategies, helping traders optimize
+  actions, reduce human emotion influence, and back-test strategies. Explore trend-following
+  techniques leveraging market momentum and mean reversion strategies grounded in
+  returning to historical price averages. Equip yourself with insights to enhance
+  trading efficiency and align strategic goals with the right strategies for improved
+  performance in dynamic markets.
+title: Types of Trading Strategies (Algo Trading)
 ---
 
 Algorithmic trading has fundamentally transformed the landscape of the financial markets, serving as a cornerstone for executing trades with unparalleled speed and precision. Often referred to as 'algo trading,' this method employs complex computer algorithms to make informed trading decisions by analyzing extensive datasets and executing orders at velocities that are far beyond human capability. The sophistication of these systems allows traders to operate on vast amounts of data, capitalizing on market opportunities that may elude manual trading.

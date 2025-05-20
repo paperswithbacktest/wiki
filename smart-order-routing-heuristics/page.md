@@ -1,6 +1,8 @@
 ---
-title: "Smart Order Routing Heuristics (Algo Trading)"
-description: "Explore Smart Order Routing in algorithmic trading to enhance trade execution with precision by analyzing price, liquidity, and speed across diverse venues."
+category: quant_concept
+description: Explore Smart Order Routing in algorithmic trading to enhance trade execution
+  with precision by analyzing price, liquidity, and speed across diverse venues.
+title: Smart Order Routing Heuristics (Algo Trading)
 ---
 
 In the rapidly evolving landscape of algorithmic trading, Smart Order Routing (SOR) emerges as a pivotal technique designed to optimize trading efficiency. With the advent of technology and the increasing complexity of market structures, SOR has become indispensable for ensuring high-quality execution. SOR systematically directs trade orders to various trading venues, including exchanges and alternative trading systems, aiming to secure the best execution by considering price, liquidity, and speed.

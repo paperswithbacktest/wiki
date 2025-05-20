@@ -1,6 +1,8 @@
 ---
-title: "Statutory Accounting Principles (Algo Trading)"
-description: "Explore statutory accounting principles in algorithmic trading focusing on fiscal stability and solvency for insurance firms through SAP and GAAP distinctions."
+category: quant_concept
+description: Explore statutory accounting principles in algorithmic trading focusing
+  on fiscal stability and solvency for insurance firms through SAP and GAAP distinctions.
+title: Statutory Accounting Principles (Algo Trading)
 ---
 
 In today's dynamic financial landscape, the importance of comprehending and applying statutory accounting principles (SAP) cannot be overstated, particularly for firms within highly regulated industries like insurance. SAP serves as a set of guidelines, specifically designed to maintain the fiscal stability and solvency of insurance companies. This article aims to delineate the core aspects of SAP, contrasting them with generally accepted accounting principles (GAAP), and exploring their implications for the wider industry landscape.

@@ -1,6 +1,8 @@
 ---
-title: "Technical Divergence Usage (Algo Trading)"
-description: "Explore the strategic use of technical divergence in algo trading to optimize investment decisions and enhance market timing through automated precision."
+category: trading_strategy
+description: Explore the strategic use of technical divergence in algo trading to
+  optimize investment decisions and enhance market timing through automated precision.
+title: Technical Divergence Usage (Algo Trading)
 ---
 
 In the rapidly evolving world of financial markets, strategies that leverage technology and analytical precision have emerged as frontrunners. One such approach is the technical divergence investment strategy. This article explores technical divergence as an investment strategy, emphasizing its integration with financial analysis and algorithmic trading.

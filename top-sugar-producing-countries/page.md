@@ -1,6 +1,8 @@
 ---
-title: "Top Sugar-Producing Countries (Algo Trading)"
-description: "Discover how top sugar-producing countries like India and Brazil influence global markets and the critical role of algorithmic trading in this dynamic industry."
+category: dataset
+description: Discover how top sugar-producing countries like India and Brazil influence
+  global markets and the critical role of algorithmic trading in this dynamic industry.
+title: Top Sugar-Producing Countries (Algo Trading)
 ---
 
 The global sugar industry stands as a pivotal component of agricultural trade, influencing both economic landscapes and market dynamics worldwide. This industry not only provides a critical source of livelihood for millions of farmers but also offers insights into global supply chain mechanisms and international trade relations. At the center of understanding these dynamics is the identification and analysis of the top sugar producers. Countries like Brazil, India, Thailand, China, and the United States are leading contributors, each playing a crucial role in steering the market trends due to their substantial production volumes and export capacities. 

@@ -1,6 +1,8 @@
 ---
-title: "Sub-Asset Class: Definition and Examples (Algo Trading)"
-description: "Explore the power of sub-asset classes and algorithmic trading in investment management. Enhance your portfolio with detailed insights and targeted strategies."
+category: quant_concept
+description: Explore the power of sub-asset classes and algorithmic trading in investment
+  management. Enhance your portfolio with detailed insights and targeted strategies.
+title: 'Sub-Asset Class: Definition and Examples (Algo Trading)'
 ---
 
 In the evolving financial landscape, understanding the classification of financial assets into various sub-asset classes is crucial for effective investment management. Sub-asset classes provide granular detail by breaking down broad asset classes into more specific categories, aiding investors in diversifying their portfolios across different market segments. This segmentation allows for targeted investment strategies, helping investors balance risk and enhance potential returns.

@@ -1,6 +1,9 @@
 ---
-title: "Stock Rights and Warrants Investment (Algo Trading)"
-description: "Explore the synergy of stock rights and warrants with algorithmic trading to optimize investment returns. Learn strategies for leveraging these financial tools."
+category: trading_strategy
+description: Explore the synergy of stock rights and warrants with algorithmic trading
+  to optimize investment returns. Learn strategies for leveraging these financial
+  tools.
+title: Stock Rights and Warrants Investment (Algo Trading)
 ---
 
 The financial world offers a myriad of opportunities for investors aiming to achieve substantial returns. Among these opportunities, stock rights and warrants stand out as powerful tools. When intelligently combined with algorithmic trading, they can transform traditional investment strategies into sophisticated and efficient systems. Stock rights and warrants, fundamentally derivatives, provide unique benefits that can be strategically exploited for high returns.

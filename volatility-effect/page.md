@@ -1,6 +1,12 @@
 ---
-title: "Volatility Effect (Algo Trading)"
-description: Explore the Volatility Effect, a market anomaly that offers high risk-adjusted returns in low-volatility stocks, and its importance in algorithmic trading. Learn why this counter-intuitive phenomenon occurs and how traders can exploit it for superior performance across various markets and assets. Dive into related research papers, libraries, strategies, and datasets to enhance your quantitative trading skills.
+category: quant_concept
+description: Explore the Volatility Effect, a market anomaly that offers high risk-adjusted
+  returns in low-volatility stocks, and its importance in algorithmic trading. Learn
+  why this counter-intuitive phenomenon occurs and how traders can exploit it for
+  superior performance across various markets and assets. Dive into related research
+  papers, libraries, strategies, and datasets to enhance your quantitative trading
+  skills.
+title: Volatility Effect (Algo Trading)
 ---
 
 Algorithmic trading, often referred to as algo trading, involves the use of computer programs and algorithms to execute trades in financial markets. These automated systems can analyze vast amounts of data at speeds and volumes beyond human capability, making them crucial in today’s fast-paced trading environment. By quickly identifying profitable opportunities, executing trades with minimal human intervention, and reducing transaction costs, algorithmic trading has revolutionized the financial markets. It enhances market efficiency and liquidity, but also requires sophisticated models and strategies to maximize effectiveness.

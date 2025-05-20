@@ -1,6 +1,8 @@
 ---
-title: "Super Regional Bank (Algo Trading)"
-description: "Explore how super regional banks use algorithmic trading to enhance services and drive market competitiveness while maintaining a customer-focused approach."
+category: quant_concept
+description: Explore how super regional banks use algorithmic trading to enhance services
+  and drive market competitiveness while maintaining a customer-focused approach.
+title: Super Regional Bank (Algo Trading)
 ---
 
 The world of banking encompasses a wide range of institutions, from global giants with worldwide reach to local community banks serving specific neighborhoods. Positioned between these extremes are super regional banks, which offer a comprehensive array of services tailored to meet regional demands. These banks distinguish themselves by maintaining a substantial market presence across multiple states while adopting a client-focused approach typical of smaller institutions.

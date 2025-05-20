@@ -1,6 +1,12 @@
 ---
-title: "Systematic Tactical Asset Allocation: An Introduction (Algo Trading)"
-description: Explore the dynamic strategy of Systematic Tactical Asset Allocation in Algo Trading with insights on how algorithms enhance responsiveness and decision-making. Understand the synergy between TAA and algorithmic trading to capitalize on short-term market opportunities and optimize asset allocation strategies. Discover the technological advancements reshaping traditional asset management practices in modern financial markets.
+category: trading_strategy
+description: Explore the dynamic strategy of Systematic Tactical Asset Allocation
+  in Algo Trading with insights on how algorithms enhance responsiveness and decision-making.
+  Understand the synergy between TAA and algorithmic trading to capitalize on short-term
+  market opportunities and optimize asset allocation strategies. Discover the technological
+  advancements reshaping traditional asset management practices in modern financial
+  markets.
+title: 'Systematic Tactical Asset Allocation: An Introduction (Algo Trading)'
 ---
 
 Tactical asset allocation (TAA) represents a dynamic investment strategy that actively adjusts the composition of a portfolio. Unlike strategic asset allocation, which establishes long-term investment goals based on an investor's risk tolerance and investment horizon, TAA is focused on capitalizing on short-term market opportunities. It allows investors to temporarily deviate from their strategic asset mix to exploit these opportunities, potentially enhancing returns.

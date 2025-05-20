@@ -1,6 +1,8 @@
 ---
-title: "Shadow Market: Definition and Mechanisms (Algo Trading)"
-description: "Explore the intricacies of shadow markets and algorithmic trading in this guide Learn how these unregulated markets operate and their impact on the economy"
+category: quant_concept
+description: Explore the intricacies of shadow markets and algorithmic trading in
+  this guide Learn how these unregulated markets operate and their impact on the economy
+title: 'Shadow Market: Definition and Mechanisms (Algo Trading)'
 ---
 
 In today's complex economic landscape, shadow markets present both challenges and opportunities. These markets, characterized by their unregulated and often opaque nature, function outside the boundaries of traditional financial systems. They have evolved significantly, becoming integral to the global economy while simultaneously raising concerns related to transparency, legality, and risk.

@@ -1,6 +1,8 @@
 ---
-title: "Stages of the Economic Cycle (Algo Trading)"
-description: "Explore the stages of the economic cycle and their impact on algorithmic trading Learn how to align trading strategies with economic phases for optimal decisions"
+category: quant_concept
+description: Explore the stages of the economic cycle and their impact on algorithmic
+  trading Learn how to align trading strategies with economic phases for optimal decisions
+title: Stages of the Economic Cycle (Algo Trading)
 ---
 
 Understanding the economic cycle is crucial for both investors and businesses to navigate through different economic conditions. An economic cycle, also known as a business cycle, consists of fluctuations between periods of economic expansion and contraction. These cycles are naturally occurring, characterized by varying levels of economic activity that impact a broad spectrum of financial markets and business environments. The cyclical nature of economies influences the decision-making processes of investors and corporate leaders who seek to optimize their outcomes based on the prevailing economic conditions.

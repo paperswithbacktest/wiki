@@ -1,6 +1,14 @@
 ---
-title: "Williams %R Indicator: Formula, Uses, and Limitations (Algo Trading)"
-description: "Explore the Williams %R indicator, a vital tool in technical analysis developed by Larry Williams. This momentum oscillator is essential for traders aiming to identify overbought and oversold market conditions and potential reversals. Understand its formula, how it measures current price against a high-low range over a defined period, and its application in algorithmic trading strategies for more informed decision-making. Discover how to integrate Williams %R into trading algorithms to enhance market prediction and trade execution accuracy, helping traders to optimize their trading performance."
+category: trading_strategy
+description: Explore the Williams %R indicator, a vital tool in technical analysis
+  developed by Larry Williams. This momentum oscillator is essential for traders aiming
+  to identify overbought and oversold market conditions and potential reversals. Understand
+  its formula, how it measures current price against a high-low range over a defined
+  period, and its application in algorithmic trading strategies for more informed
+  decision-making. Discover how to integrate Williams %R into trading algorithms to
+  enhance market prediction and trade execution accuracy, helping traders to optimize
+  their trading performance.
+title: 'Williams %R Indicator: Formula, Uses, and Limitations (Algo Trading)'
 ---
 
 The Williams %R indicator, developed by Larry Williams, is a widely recognized tool in technical analysis for stock trading. As a momentum oscillator, it aids traders in identifying potential market reversals by indicating overbought and oversold conditions. The indicator measures the current price in relation to the high-low range over a set period, typically 14 days, and scales the readings between 0 and -100. Readings closer to 0 suggest overbought market conditions, while those near -100 indicate oversold conditions. This scaling provides traders with valuable insights, allowing them to make informed decisions based on market momentum.

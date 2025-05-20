@@ -1,6 +1,9 @@
 ---
-title: "Vertical Spread in Options Trading (Algo Trading)"
-description: "Explore vertical spreads in options trading with insights into strategies like bull call and bear put spreads. Discover how algo trading enhances precision and risk management."
+category: trading_strategy
+description: Explore vertical spreads in options trading with insights into strategies
+  like bull call and bear put spreads. Discover how algo trading enhances precision
+  and risk management.
+title: Vertical Spread in Options Trading (Algo Trading)
 ---
 
 Options trading is a multifaceted financial instrument primarily engaging individuals with considerable risk tolerance and a deep understanding of market trends. It involves the strategic buying and selling of call and put options, which grant the right—not the obligation—to purchase or sell an underlying asset at specified strike prices before or upon expiration. One of the sophisticated strategies within options trading is the vertical spread, a method that offers traders the advantage of capping both potential losses and gains. This strategy involves concurrently purchasing and selling options of the same class (calls or puts) and expiration date but at different strike prices, thereby establishing a range of predicted asset movement within which traders can operate.

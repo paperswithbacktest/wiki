@@ -1,6 +1,9 @@
 ---
-title: "Stick Sandwich Pattern in Trading (Algo Trading)"
-description: "Learn about the Stick Sandwich candlestick pattern in trading to identify potential trend reversals Enhance your algorithmic trading strategy with this powerful tool"
+category: trading_strategy
+description: Learn about the Stick Sandwich candlestick pattern in trading to identify
+  potential trend reversals Enhance your algorithmic trading strategy with this powerful
+  tool
+title: Stick Sandwich Pattern in Trading (Algo Trading)
 ---
 
 The world of trading is characterized by a myriad of strategies, technical indicators, and patterns that traders employ to predict market trends and capitalize on opportunities. Among these, candlestick patterns hold a prominent position due to their ability to provide valuable insights into the psychology of the markets. These patterns graphically represent the battle between buyers and sellers, capturing shifts in market sentiment over a given time period.

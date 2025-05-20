@@ -1,6 +1,8 @@
 ---
-title: "Sum-Of-The-Years’ Digits Method (Algo Trading)"
-description: "Explore the Sum of the Years' Digits method for accelerated asset depreciation to optimize financial strategies and enhance algorithmic trading insights."
+category: quant_concept
+description: Explore the Sum of the Years' Digits method for accelerated asset depreciation
+  to optimize financial strategies and enhance algorithmic trading insights.
+title: Sum-Of-The-Years’ Digits Method (Algo Trading)
 ---
 
 The world of financial accounting encompasses various methods for calculating depreciation, each offering distinct advantages. Among these methods, the Sum of the Years' Digits (SYD) technique stands out for its accelerated approach, allowing for a greater reduction in asset value during the early years of use. This method is particularly beneficial for companies seeking to align expenses with revenues in the initial stages of asset deployment.

@@ -1,6 +1,12 @@
 ---
-title: "Trader forums (Algo Trading)"
-description: Explore the dynamic world of algorithmic trading with comprehensive insights on trader forums which serve as vital hubs for discussions and knowledge sharing among trading enthusiasts. Whether you are a novice or an experienced trader these forums offer invaluable resources and a supportive community for learning and collaboration in strategy development programming and market analysis. Discover top forums that facilitate continuous learning and innovation in this fast-evolving field.
+category: quant_concept
+description: Explore the dynamic world of algorithmic trading with comprehensive insights
+  on trader forums which serve as vital hubs for discussions and knowledge sharing
+  among trading enthusiasts. Whether you are a novice or an experienced trader these
+  forums offer invaluable resources and a supportive community for learning and collaboration
+  in strategy development programming and market analysis. Discover top forums that
+  facilitate continuous learning and innovation in this fast-evolving field.
+title: Trader forums (Algo Trading)
 ---
 
 In the fast-paced world of trading, algorithmic trading has emerged as a revolutionary approach. This method leverages intricate technology and sophisticated mathematical models to execute trades automatically, minimizing human intervention and optimizing efficiency. The rise of algo trading has correspondingly increased the demand for robust informational resources and community support mechanisms.

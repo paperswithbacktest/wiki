@@ -1,6 +1,9 @@
 ---
-title: "Specific Risk: Understanding and Mitigation (Algo Trading)"
-description: "Discover effective risk management strategies in algorithmic trading to mitigate specific risks unique to this fast-paced, automated trading methodology and enhance portfolio resilience."
+category: quant_concept
+description: Discover effective risk management strategies in algorithmic trading
+  to mitigate specific risks unique to this fast-paced, automated trading methodology
+  and enhance portfolio resilience.
+title: 'Specific Risk: Understanding and Mitigation (Algo Trading)'
 ---
 
 In financial markets, managing risks is crucial for the success of any investment strategy, particularly in algorithmic trading. This form of trading, characterized by its high speed and automatic decision-making, requires traders to have an acute awareness and management of specific risks unique to this methodology. Algorithmic trading systems, often referred to as 'algos,' utilize complex algorithms to execute orders based on variables such as timing, price, and volume, thereby necessitating robust risk management strategies to navigate the volatility and uncertainties inherent in financial markets.

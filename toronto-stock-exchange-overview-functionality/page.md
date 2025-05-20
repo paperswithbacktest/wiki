@@ -1,6 +1,8 @@
 ---
-title: "Toronto Stock Exchange: Overview and Functionality (Algo Trading)"
-description: "Explore the Toronto Stock Exchange's role in Canada's economy and the benefits of algorithmic trading, offering speed, efficiency, and market stability."
+category: quant_concept
+description: Explore the Toronto Stock Exchange's role in Canada's economy and the
+  benefits of algorithmic trading, offering speed, efficiency, and market stability.
+title: 'Toronto Stock Exchange: Overview and Functionality (Algo Trading)'
 ---
 
 The Toronto Stock Exchange (TSX) plays a key role in Canada's financial landscape, serving as a central hub for financial activities that underpin the economy. Recognized as one of the largest stock exchanges in North America, it caters to both Canadian enterprises and international corporations seeking access to capital markets. The TSX's significance is amplified by its ability to accommodate a wide array of industries, which include finance, manufacturing, technology, and natural resources, making it a critical platform for both established firms and emerging ventures.

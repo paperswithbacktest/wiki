@@ -1,6 +1,8 @@
 ---
-title: "Total Return Calculation and Examples (Algo Trading)"
-description: "Learn how total return calculations can enhance algorithmic trading strategies and improve investment performance evaluation by comprehensively measuring returns."
+category: quant_concept
+description: Learn how total return calculations can enhance algorithmic trading strategies
+  and improve investment performance evaluation by comprehensively measuring returns.
+title: Total Return Calculation and Examples (Algo Trading)
 ---
 
 The digital era has markedly reshaped the financial landscape, ushering in innovative approaches such as algorithmic trading and sophisticated financial computations. Central to these modern financial strategies is the concept of total return, a comprehensive metric that measures investment performance by accounting for all sources of investment returns, including capital gains, interest, dividends, and distributions. This holistic view distinguishes total return from other performance measures focused solely on price appreciation or income generation.

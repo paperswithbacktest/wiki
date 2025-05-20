@@ -1,6 +1,9 @@
 ---
-title: "Wild Card Option: Mechanism and Examples (Algo Trading)"
-description: "Explore the intricacies of wild card options in algo trading Uncover unique features mechanisms and strategies that enhance trading outcomes in post-market scenarios"
+category: quant_concept
+description: Explore the intricacies of wild card options in algo trading Uncover
+  unique features mechanisms and strategies that enhance trading outcomes in post-market
+  scenarios
+title: 'Wild Card Option: Mechanism and Examples (Algo Trading)'
 ---
 
 Options in finance are derivatives that provide investors with the right, but not the obligation, to buy or sell an underlying asset at a predetermined price before or at a specified date. They are integral financial instruments that offer flexibility, risk management, and investment opportunities. The two primary types of options are calls, which grant the right to purchase the asset, and puts, which allow for its sale. These financial mechanisms are popular among traders seeking to hedge risks or speculate on price movements, providing opportunities to profit from various market conditions.

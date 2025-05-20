@@ -1,6 +1,11 @@
 ---
-title: "Smart Beta (Algo Trading)"
-description: Discover the concept, benefits, and rise of Smart Beta in algorithmic trading. This innovative investment strategy combines passive and active approaches to maximize returns and minimize risk. Explore how it differs from other strategies and learn about popular Smart Beta funds. Read more for resources on trading strategies, libraries, datasets, and becoming a quant trader.
+category: trading_strategy
+description: Discover the concept, benefits, and rise of Smart Beta in algorithmic
+  trading. This innovative investment strategy combines passive and active approaches
+  to maximize returns and minimize risk. Explore how it differs from other strategies
+  and learn about popular Smart Beta funds. Read more for resources on trading strategies,
+  libraries, datasets, and becoming a quant trader.
+title: Smart Beta (Algo Trading)
 ---
 
 Algorithmic trading, a method that uses computer algorithms to execute trading strategies, has revolutionized financial markets. Originating in the 1970s with the introduction of computer systems into trading floors, its sophistication grew rapidly with advancements in technology and data analysis. The ability to process large datasets and execute orders based on pre-defined criteria virtually instantly has provided traders with unprecedented efficiency and precision. The evolution from simple algorithmic tasks, like order execution, to complex strategies, such as statistical arbitrage, highlights the dynamic growth in this area.

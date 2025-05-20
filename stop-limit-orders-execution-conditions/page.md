@@ -1,6 +1,9 @@
 ---
-title: "Stop-Limit Orders and Execution Conditions (Algo Trading)"
-description: "Master stock trading by leveraging stop-limit orders and algorithmic strategies. Gain control over trade executions to manage risks and boost profits effectively."
+category: quant_concept
+description: Master stock trading by leveraging stop-limit orders and algorithmic
+  strategies. Gain control over trade executions to manage risks and boost profits
+  effectively.
+title: Stop-Limit Orders and Execution Conditions (Algo Trading)
 ---
 
 Stock trading is a multifaceted discipline where managing risk and optimizing returns require the strategic use of various order types. Among these, stop-limit orders are integral in providing traders with enhanced control over trade executions. A stop-limit order is a combination of a stop order and a limit order. It allows traders to specify a stop price, which triggers the conversion into a limit order, executed at a pre-designated limit price or better. This dual-price mechanism adds precision, helping traders secure profits or minimize losses effectively.

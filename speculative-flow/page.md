@@ -1,6 +1,8 @@
 ---
-title: "Speculative Flow (Algo Trading)"
-description: "Explore the interaction between speculative flow, market dynamics, and algorithmic trading for insights into their impact on modern financial markets."
+category: quant_concept
+description: Explore the interaction between speculative flow, market dynamics, and
+  algorithmic trading for insights into their impact on modern financial markets.
+title: Speculative Flow (Algo Trading)
 ---
 
 The intersection of speculation, market dynamics, speculative flow, and algorithmic trading plays a critical role in modern financial markets. Speculation involves making high-risk financial transactions based on predictions about future market trends. These transactions often influence market dynamics, which rely on supply and demand forces that determine asset prices. Speculative activities can introduce significant volatility, making markets unpredictable and often unstable.

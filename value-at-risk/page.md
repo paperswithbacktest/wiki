@@ -1,6 +1,12 @@
 ---
-title: "Value at Risk (Algo Trading)"
-description: "Discover how Value at Risk (VaR) enhances risk management in algorithmic trading by quantifying potential portfolio losses. Learn about methodologies for calculating VaR and its integration into trading systems to limit losses, optimize strategies, and enhance predictive accuracy. Explore the significance of VaR in financial risk management frameworks and its impact on maintaining financial stability amidst evolving market conditions."
+category: quant_concept
+description: Discover how Value at Risk (VaR) enhances risk management in algorithmic
+  trading by quantifying potential portfolio losses. Learn about methodologies for
+  calculating VaR and its integration into trading systems to limit losses, optimize
+  strategies, and enhance predictive accuracy. Explore the significance of VaR in
+  financial risk management frameworks and its impact on maintaining financial stability
+  amidst evolving market conditions.
+title: Value at Risk (Algo Trading)
 ---
 
 In today's fast-paced financial markets, effective risk management is crucial for traders and investors. Among the tools used for mitigating financial risk, Value at Risk (VaR) has emerged as a significant measure, particularly within the sphere of algorithmic trading. VaR assists investors and traders in understanding and quantifying the potential for loss in a portfolio. It does this by specifying a confidence level over a given time frame, thereby offering a statistical forecast of the maximum expected loss. As algorithmic trading systems automatically execute trades based on pre-set rules or algorithms, managing risk efficiently is paramount for their sustainability and profitability.
@@ -188,4 +194,3 @@ In summary, as financial trading strategies become increasingly automated, the s
 - Glasserman, P. (2004). *Monte Carlo Methods in Financial Engineering*. Springer. This reference provides an in-depth exploration of Monte Carlo simulations as an effective technique for estimating VaR, particularly suited for complex portfolio structures.
 
 - Lowenstein, R. (2000). *When Genius Failed: The Rise and Fall of Long-Term Capital Management*. Random House. While primarily a historical account, this book offers insights into risk management failures, underscoring the importance of robust VaR models in financial stability.
-

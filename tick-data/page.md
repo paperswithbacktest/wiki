@@ -1,6 +1,15 @@
 ---
-title: "Tick Data (Algo Trading)"
-description: Tick data is essential in algorithmic trading, providing detailed real-time insights into financial markets by recording every trade and price movement. It supports high-frequency trading strategies by offering precision and immediacy, allowing for the exploitation of small market fluctuations. Traders utilize tick data to refine algorithms for strategies such as scalping and arbitrage. This article covers the methods of managing tick data, discusses the technologies used to ensure fast and secure data transfer, and addresses the challenges of integrating tick data into trading systems. It serves as a guide for traders looking to leverage tick data for effective trading strategies.
+category: dataset
+description: Tick data is essential in algorithmic trading, providing detailed real-time
+  insights into financial markets by recording every trade and price movement. It
+  supports high-frequency trading strategies by offering precision and immediacy,
+  allowing for the exploitation of small market fluctuations. Traders utilize tick
+  data to refine algorithms for strategies such as scalping and arbitrage. This article
+  covers the methods of managing tick data, discusses the technologies used to ensure
+  fast and secure data transfer, and addresses the challenges of integrating tick
+  data into trading systems. It serves as a guide for traders looking to leverage
+  tick data for effective trading strategies.
+title: Tick Data (Algo Trading)
 ---
 
 Tick data plays a crucial role in algorithmic trading, offering a detailed and granular view of financial markets. This data captures every executed trade and subsequent price movement of an asset, providing traders with near-instantaneous insights into market dynamics. Its importance is underscored by its ability to facilitate high-frequency trading (HFT), where trades are made at rapid speeds to exploit small price discrepancies. In such an environment, the real-time decision-making capability afforded by tick data is invaluable.

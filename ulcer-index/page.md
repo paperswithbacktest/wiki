@@ -1,6 +1,12 @@
 ---
-title: "Ulcer Index Explained (Algo Trading)"
-description: Understand the significance of the Ulcer Index in algorithmic trading as a unique tool for managing downside risk. This metric highlights the stress and discomfort of price declines, offering traders an enhanced perspective on investment performance during volatile periods. Learn how the Ulcer Index can improve risk management strategies by focusing on drawdowns and aiding in the construction of balanced trading tactics.
+category: quant_concept
+description: Understand the significance of the Ulcer Index in algorithmic trading
+  as a unique tool for managing downside risk. This metric highlights the stress and
+  discomfort of price declines, offering traders an enhanced perspective on investment
+  performance during volatile periods. Learn how the Ulcer Index can improve risk
+  management strategies by focusing on drawdowns and aiding in the construction of
+  balanced trading tactics.
+title: Ulcer Index Explained (Algo Trading)
 ---
 
 The trading landscape is inherently complex and fraught with various risks, making efficient risk management indispensable for traders aiming to achieve stable returns. As markets exhibit volatility, recognizing and managing downside risk becomes crucial in developing robust trading strategies. One tool that has gained attention for its ability to focus specifically on downside risk is the Ulcer Index (UI). Unlike traditional volatility measures such as standard deviation, which account for both upward and downward price movements equally, the Ulcer Index places emphasis solely on the stress caused by price declines.

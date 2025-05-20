@@ -1,6 +1,8 @@
 ---
-title: "Timing Strategies for Short Selling Stocks (Algo Trading)"
-description: "Explore timing strategies for short selling stocks using algorithmic trading Understand the benefits mechanics and risks of these investment techniques"
+category: trading_strategy
+description: Explore timing strategies for short selling stocks using algorithmic
+  trading Understand the benefits mechanics and risks of these investment techniques
+title: Timing Strategies for Short Selling Stocks (Algo Trading)
 ---
 
 The stock market is a complex and dynamic environment that offers various strategies for investors seeking to maximize their returns. Among these strategies, short selling and algorithmic trading have become increasingly popular, enabling traders to capitalize on stock price movements in unique ways. This article explores the essentials of investment strategies focusing on short selling and algorithmic (algo) trading, providing insights into their workings, benefits, and potential risks.

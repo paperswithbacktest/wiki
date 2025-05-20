@@ -1,6 +1,11 @@
 ---
-title: "Transportation Alternative Data (Algo Trading)"
-description: Discover how transportation alternative data is transforming algorithmic trading strategies by providing traders with unique insights into logistics and economic activities. Explore how data from sources like satellite imagery and GPS tracking is leveraged to enhance financial analysis, enabling more informed investment decisions and offering a competitive edge in the competitive financial markets.
+category: dataset
+description: Discover how transportation alternative data is transforming algorithmic
+  trading strategies by providing traders with unique insights into logistics and
+  economic activities. Explore how data from sources like satellite imagery and GPS
+  tracking is leveraged to enhance financial analysis, enabling more informed investment
+  decisions and offering a competitive edge in the competitive financial markets.
+title: Transportation Alternative Data (Algo Trading)
 ---
 
 In the highly competitive landscape of financial markets, traders are continuously seeking innovative ways to gain an edge. Traditional data sources such as company reports, economic indicators, and stock prices have been the backbone of analytical strategies. However, their limitation lies in the widespread accessibility, which often nullifies the competitive advantage they once provided. To address this, traders have increasingly turned to alternative data sources, which offer unique insights not available through conventional means.

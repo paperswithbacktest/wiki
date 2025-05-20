@@ -1,6 +1,8 @@
 ---
-title: "Working Capital Adjustments in Transfer Pricing (Algo Trading)"
-description: "Discover the intricate relationship between working capital adjustments and transfer pricing in algorithmic trading Learn how these financial concepts interlink"
+category: quant_concept
+description: Discover the intricate relationship between working capital adjustments
+  and transfer pricing in algorithmic trading Learn how these financial concepts interlink
+title: Working Capital Adjustments in Transfer Pricing (Algo Trading)
 ---
 
 In today's complex financial landscape, comprehending the nuances of various financial mechanisms is essential for effective management and decision-making. This article focuses on four critical areas: financial adjustments, transfer pricing, working capital, and algorithmic trading. Each of these elements plays a significant role in modern business operations and impacts how organizations structure their financial strategies.

@@ -1,6 +1,8 @@
 ---
-title: "United States Department of the Treasury: History and Functions (Algo Trading)"
-description: "Explore the history, functions, and impact of U.S. Treasury bonds, IRS regulations, and algorithmic trading on financial markets and economic strategies."
+category: quant_concept
+description: Explore the history, functions, and impact of U.S. Treasury bonds, IRS
+  regulations, and algorithmic trading on financial markets and economic strategies.
+title: 'United States Department of the Treasury: History and Functions (Algo Trading)'
 ---
 
 U.S. Treasury bonds are long-term government debt securities that play a crucial role in the financial markets of the United States. They are considered a secure investment due to their government backing, offering a fixed interest rate over a predetermined period. These bonds contribute significantly to the U.S. government's ability to raise funds for various public expenditures, thereby influencing the nation's economic framework.

@@ -1,6 +1,8 @@
 ---
-title: "Trade Deficit and Its Market Impact (Algo Trading)"
-description: "Explore the economic implications of trade deficits and algorithmic trading examining how they influence market dynamics and shape global finance strategies."
+category: quant_concept
+description: Explore the economic implications of trade deficits and algorithmic trading
+  examining how they influence market dynamics and shape global finance strategies.
+title: Trade Deficit and Its Market Impact (Algo Trading)
 ---
 
 In the complex world of global finance and economics, trade deficits and algorithmic trading represent two critical elements that influence market dynamics. Trade deficits occur when a country's imports exceed its exports, leading to various economic implications. These include effects on national savings, employment, currency valuation, and foreign debt levels. Over the long term, persistent trade deficits can alter a country's economic health by increasing reliance on foreign capital to finance these deficits, affecting domestic economic stability.
@@ -139,4 +141,3 @@ Gomber, P., Arndt, B., Lutat, M., & Uhle, T. (2011). High-Frequency Trading. *SS
 Aitken, M., & Cook, R. (2009). An Analysis of Trading Algorithms in the Market. *The Financial Review, 44*(3), 379-406.
 
 Summers, L. H. (2013). U.S. Economic Prospects: Secular Stagnation, Hysteresis, and the Zero Lower Bound. *Brookings Papers on Economic Activity*.
-

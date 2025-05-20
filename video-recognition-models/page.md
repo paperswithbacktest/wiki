@@ -1,7 +1,8 @@
 ---
-title: Exploring Video Recognition Models in Machine Learning
+category: quant_concept
 description: Video recognition models break down frames to detect objects and actions
   over time and optimize performance for live use Discover more inside
+title: Exploring Video Recognition Models in Machine Learning
 ---
 
 ![Image](images/1.webp)

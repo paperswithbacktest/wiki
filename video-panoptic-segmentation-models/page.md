@@ -1,8 +1,9 @@
 ---
-title: Understanding Video Panoptic Segmentation Models and Applications
+category: quant_concept
 description: Video panoptic segmentation enhances machine vision by labeling and tracking
   objects across frames for safer autonomous driving and smarter surveillance Discover
   more inside.
+title: Understanding Video Panoptic Segmentation Models and Applications
 ---
 
 ![Image](images/1.jpeg)

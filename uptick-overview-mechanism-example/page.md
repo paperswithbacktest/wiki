@@ -1,6 +1,8 @@
 ---
-title: "Uptick: Overview, Mechanism, and Example (Algo Trading)"
-description: "Explore how finance and technology converge through uptick analysis, shaping investment strategies and algorithmic trading for optimized market insights."
+category: quant_concept
+description: Explore how finance and technology converge through uptick analysis,
+  shaping investment strategies and algorithmic trading for optimized market insights.
+title: 'Uptick: Overview, Mechanism, and Example (Algo Trading)'
 ---
 
 This article examines the convergence of finance and technology through the interconnected roles of uptick financial terms, investment strategies, and algorithmic trading. In the finance sector, an 'uptick' signifies a situation where a transaction is executed at a higher price than the preceding one. Understanding upticks is crucial for investors and analysts as it can serve as an indicator of market sentiment or emerging trends, influencing investment strategies and market analysis.

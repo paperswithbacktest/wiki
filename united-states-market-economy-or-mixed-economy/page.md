@@ -1,6 +1,9 @@
 ---
-title: "United States: Market Economy or Mixed Economy? (Algo Trading)"
-description: "Explore the intricacies of the U.S. economy's blend of market and mixed elements, focusing on the impact of government intervention and algorithmic trading innovations."
+category: quant_concept
+description: Explore the intricacies of the U.S. economy's blend of market and mixed
+  elements, focusing on the impact of government intervention and algorithmic trading
+  innovations.
+title: 'United States: Market Economy or Mixed Economy? (Algo Trading)'
 ---
 
 The United States economy represents a complex amalgamation of market-driven forces and elements of a mixed economy. This intricately woven model provides a distinctive landscape where economic freedom intersects with governmental oversight. A market economy, characterized by minimal state intervention, relies heavily on the natural dynamics of supply and demand. Conversely, a mixed economy integrates governmental regulations and interventions with private sector autonomy. As a result, the United States, with its mixed economic structure, supports both entrepreneurial innovation and essential regulatory frameworks.

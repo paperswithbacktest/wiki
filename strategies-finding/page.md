@@ -1,6 +1,14 @@
 ---
-title: "Strategies (finding) (Algo Trading)"
-description: Discover the world of algorithmic trading and its innovative strategies to enhance trading performance. Learn how computer algorithms automate financial transactions, process vast data, and execute trades at speeds beyond human capability, optimizing efficiency and minimizing errors. Explore various strategies like trend-following, mean reversion, arbitrage, sentiment analysis, and machine learning to identify and capitalize on market opportunities. Understand how algos provide traders with better pricing, reduced costs, and effective risk management while advancing trading strategies in modern markets.
+category: trading_strategy
+description: Discover the world of algorithmic trading and its innovative strategies
+  to enhance trading performance. Learn how computer algorithms automate financial
+  transactions, process vast data, and execute trades at speeds beyond human capability,
+  optimizing efficiency and minimizing errors. Explore various strategies like trend-following,
+  mean reversion, arbitrage, sentiment analysis, and machine learning to identify
+  and capitalize on market opportunities. Understand how algos provide traders with
+  better pricing, reduced costs, and effective risk management while advancing trading
+  strategies in modern markets.
+title: Strategies (finding) (Algo Trading)
 ---
 
 Algorithmic trading is the process of executing financial transactions using pre-programmed instructions and computer algorithms. This method leverages the power of electronic platforms to efficiently carry out large volumes of trades based on predetermined criteria such as timing, price, or quantity. It has gained significant prominence in modern financial markets due to its ability to process vast amounts of data at speeds far beyond human capability, thereby optimizing trading performance and minimizing human error.

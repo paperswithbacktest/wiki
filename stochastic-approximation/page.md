@@ -1,6 +1,9 @@
 ---
-title: "Stochastic approximation (Algo Trading)"
-description: "Stochastic approximation optimizes trading strategies by adapting to noisy market data enhancing decision-making and robustness in algorithmic trading systems."
+category: quant_concept
+description: Stochastic approximation optimizes trading strategies by adapting to
+  noisy market data enhancing decision-making and robustness in algorithmic trading
+  systems.
+title: Stochastic approximation (Algo Trading)
 ---
 
 Stochastic approximation is a mathematical method primarily developed to solve root-finding problems where precise function evaluations are hampered by noise. In various domains such as economics, machine learning, and algorithmic trading, data often suffers from unreliability and incompleteness, making deterministic techniques insufficient. The stochastic approximation method provides solutions by employing iterative procedures that progressively hone in on desired function properties despite noisy environments.

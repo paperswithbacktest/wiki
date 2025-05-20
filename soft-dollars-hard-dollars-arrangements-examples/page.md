@@ -1,6 +1,9 @@
 ---
-title: "Soft Dollars and Hard Dollars: Arrangements and Examples (Algo Trading)"
-description: "Explore the crucial differences between hard and soft dollars in trading discover their impact on cost transparency compliance and financial decision-making in the market."
+category: quant_concept
+description: Explore the crucial differences between hard and soft dollars in trading
+  discover their impact on cost transparency compliance and financial decision-making
+  in the market.
+title: 'Soft Dollars and Hard Dollars: Arrangements and Examples (Algo Trading)'
 ---
 
 In today's fast-paced financial markets, understanding payment structures is essential for anyone involved in trading and investment. These structures, particularly hard and soft dollars, play a crucial role in how financial transactions and relationships are managed. The distinctions between hard dollars and soft dollars are significant, impacting everything from cost transparency to compliance with regulations.

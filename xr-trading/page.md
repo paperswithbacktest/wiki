@@ -1,6 +1,9 @@
 ---
-title: "XR Trading (Algo Trading)"
-description: "Explore XR Trading's pioneering use of algorithmic trading for swift and accurate market decisions Discover how their innovative strategies shape modern finance"
+category: trading_strategy
+description: Explore XR Trading's pioneering use of algorithmic trading for swift
+  and accurate market decisions Discover how their innovative strategies shape modern
+  finance
+title: XR Trading (Algo Trading)
 ---
 
 XR Trading, a prominent player in modern financial markets, is renowned for its focus on algorithmic trading, a method that leverages computer algorithms to automate trading decisions. Founded in the early 2000s, XR Trading has carved a niche for itself by employing sophisticated technologies to evaluate and execute trades swiftly and accurately. The firm's prominence is largely attributed to its innovative approach to algorithmic trading, a critical component of contemporary financial ecosystems.

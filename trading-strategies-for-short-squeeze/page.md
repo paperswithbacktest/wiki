@@ -1,6 +1,9 @@
 ---
-title: "Trading Strategies for a Short Squeeze (Algo Trading)"
-description: "Explore trading strategies at the intersection of short squeezes and algorithmic trading Discover how algorithms can identify and capitalize on market dynamics"
+category: trading_strategy
+description: Explore trading strategies at the intersection of short squeezes and
+  algorithmic trading Discover how algorithms can identify and capitalize on market
+  dynamics
+title: Trading Strategies for a Short Squeeze (Algo Trading)
 ---
 
 The stock market operates as a dynamic and multifaceted ecosystem. It is a complex network where prices of stocks are influenced by a multitude of factors, including economic indicators, investor sentiment, geopolitical events, and corporate performance. The market's popularity stems from its potential to generate significant returns on investment and its fundamental role in the global economy, offering liquidity and capital formation opportunities.

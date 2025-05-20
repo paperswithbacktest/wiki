@@ -1,6 +1,9 @@
 ---
-title: "SIX Swiss Exchange Overview (Algo Trading)"
-description: "Explore the vital role of SIX Swiss Exchange in Switzerland's financial markets with insights on algorithmic trading Swiss stocks and cutting-edge trading technology."
+category: quant_concept
+description: Explore the vital role of SIX Swiss Exchange in Switzerland's financial
+  markets with insights on algorithmic trading Swiss stocks and cutting-edge trading
+  technology.
+title: SIX Swiss Exchange Overview (Algo Trading)
 ---
 
 The SIX Swiss Exchange is central to Switzerland's financial markets, having been established in Zurich as a key platform for securities trading. As a critical component of the nation's economic infrastructure, it serves as the primary venue for the exchange of an array of financial instruments. This article presents an expansive view of the SIX Swiss Exchange, with particular attention given to algorithmic trading and Swiss stocks, illustrating its crucial role in shaping the European financial milieu.

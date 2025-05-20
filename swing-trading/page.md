@@ -1,6 +1,14 @@
 ---
-title: "Swing Trading Explained (Algo Trading)"
-description: Explore the dynamic intersection of swing trading and algorithmic trading with a focus on technical analysis. Learn how swing trading captures market swings in asset prices over short to medium terms, and how algorithmic trading automates these strategies for precise and swift execution. Discover the crucial role of technical indicators like Moving Averages, MACD, and RSI in trading decisions, and how they are integrated into algorithmic systems to optimize trading outcomes and manage risks effectively. Enhance your trading knowledge with insights into successful methodologies for swing trading in the algorithmic context.
+category: trading_strategy
+description: Explore the dynamic intersection of swing trading and algorithmic trading
+  with a focus on technical analysis. Learn how swing trading captures market swings
+  in asset prices over short to medium terms, and how algorithmic trading automates
+  these strategies for precise and swift execution. Discover the crucial role of technical
+  indicators like Moving Averages, MACD, and RSI in trading decisions, and how they
+  are integrated into algorithmic systems to optimize trading outcomes and manage
+  risks effectively. Enhance your trading knowledge with insights into successful
+  methodologies for swing trading in the algorithmic context.
+title: Swing Trading Explained (Algo Trading)
 ---
 
 Swing trading with technical analysis in algo trading offers an intriguing intersection of two dynamic trading methodologies. Swing trading involves holding positions for several days to weeks, aiming to capitalize on expected upward or downward 'swings' in asset prices. This approach requires a tactical understanding of market movements, focusing on short- to medium-term changes rather than daily fluctuations or long-term trends. Traders identify these swings through various forms of analysis, seeking to capture significant portions of anticipated price moves within identified time frames.

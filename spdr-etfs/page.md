@@ -1,6 +1,9 @@
 ---
-title: "SPDR ETFs (Algo Trading)"
-description: "Discover how SPDR ETFs and algorithmic trading can enhance your investment strategy. Explore the synergy of diversified funds and automated trading in today's markets."
+category: trading_strategy
+description: Discover how SPDR ETFs and algorithmic trading can enhance your investment
+  strategy. Explore the synergy of diversified funds and automated trading in today's
+  markets.
+title: SPDR ETFs (Algo Trading)
 ---
 
 Investment funds play a critical role in financial markets by allowing individuals and institutional investors to pool their resources for investment in a diversified portfolio of assets. These funds can include stocks, bonds, and other securities, and are managed by professional fund managers. The primary advantage of investment funds is diversification, which reduces risk by spreading investments across various asset classes and sectors.

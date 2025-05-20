@@ -1,6 +1,8 @@
 ---
-title: "Stock Trading Options: Essential Requirements and Pricing Rules (Algo Trading)"
-description: "Explore essential requirements and pricing rules for stock and options trading including insights into algorithmic trading strategies for market success"
+category: trading_strategy
+description: Explore essential requirements and pricing rules for stock and options
+  trading including insights into algorithmic trading strategies for market success
+title: 'Stock Trading Options: Essential Requirements and Pricing Rules (Algo Trading)'
 ---
 
 In the ever-evolving landscape of financial markets, various trading strategies have emerged, catering to different investor needs and goals. Options trading, stock trading, pricing rules, and algorithmic trading are some of the major components shaping modern trading practices. Each of these elements brings unique attributes, enabling traders to approach the markets with specific strategies tailored to their financial objectives. 

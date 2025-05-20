@@ -1,6 +1,9 @@
 ---
-title: "Taxation of Call and Put Options (Algo Trading)"
-description: "Explore the taxation intricacies of call and put options in algorithmic trading Understand the impact of tax law on your options trading strategy for optimal returns"
+category: quant_concept
+description: Explore the taxation intricacies of call and put options in algorithmic
+  trading Understand the impact of tax law on your options trading strategy for optimal
+  returns
+title: Taxation of Call and Put Options (Algo Trading)
 ---
 
 Options trading is an attractive investment strategy due to its potential to generate significant profits through various financial instruments, primarily call and put options. Call options provide the holder with the right to purchase an underlying asset at a predetermined price, while put options confer the right to sell. Despite their lucrative potential, a keen understanding of the tax implications associated with options trading is essential for traders aiming to maximize after-tax returns and maintain regulatory compliance.

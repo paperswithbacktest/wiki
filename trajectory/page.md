@@ -1,7 +1,8 @@
 ---
-title: Key Concepts and Applications of Trajectory Machine Learning
+category: quant_concept
 description: Trajectory machine learning reveals how data paths evolve in AI models
   with core concepts applications and prediction methods Discover more inside
+title: Key Concepts and Applications of Trajectory Machine Learning
 ---
 
 ![Image](images/1.jpeg)

@@ -1,6 +1,8 @@
 ---
-title: "Types of Gilts and Investment Strategies (Algo Trading)"
-description: "Optimize your investment portfolio with gilts and advanced algorithmic trading strategies Learn how to balance risk and enhance returns in the modern market"
+category: trading_strategy
+description: Optimize your investment portfolio with gilts and advanced algorithmic
+  trading strategies Learn how to balance risk and enhance returns in the modern market
+title: Types of Gilts and Investment Strategies (Algo Trading)
 ---
 
 Investment strategies offer a variety of opportunities, with gilts being a prominent option. Issued predominantly by the UK government, gilts are integral to conservative investment portfolios due to their perceived security. These government bonds are comparable to U.S. Treasury securities, providing a fixed income stream and generally presenting lower risk because of the high creditworthiness of the issuer. The secure nature of gilts makes them particularly appealing to risk-averse investors seeking stability.

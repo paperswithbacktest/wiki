@@ -1,6 +1,8 @@
 ---
-title: "West African CFA Franc: XOF History and Usage (Algo Trading)"
-description: "Explore the rich history and significant role of the West African CFA franc (XOF) in economic stability and integration across eight WAEMU countries."
+category: dataset
+description: Explore the rich history and significant role of the West African CFA
+  franc (XOF) in economic stability and integration across eight WAEMU countries.
+title: 'West African CFA Franc: XOF History and Usage (Algo Trading)'
 ---
 
 The West African CFA franc (XOF) is a crucial currency in the West African Economic and Monetary Union (WAEMU), encompassing eight countries: Benin, Burkina Faso, Guinea-Bissau, Ivory Coast, Mali, Niger, Senegal, and Togo. Established with enduring ties to France, the XOF is central to economic stability and integration within these nations. As a currency promoting financial cohesion, the XOF represents both historical continuity and economic interdependence among its member states.

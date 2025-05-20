@@ -1,6 +1,8 @@
 ---
-title: "Today's Low: Interpretation and Functionality (Algo Trading)"
-description: "Explore how algorithmic trading leverages \"today's low,\" the day's lowest price, to enhance trading strategies, using speed and precision for optimized performance."
+category: quant_concept
+description: Explore how algorithmic trading leverages "today's low," the day's lowest
+  price, to enhance trading strategies, using speed and precision for optimized performance.
+title: 'Today''s Low: Interpretation and Functionality (Algo Trading)'
 ---
 
 Algorithmic trading has become a cornerstone of modern financial markets, employing computer programs to facilitate trading decisions with precision and speed. In this dynamic environment, the analysis of market lows, particularly "today's low," has gained prominence. "Today's low" represents the lowest price reached by a stock or trading instrument within a single trading day. This metric is highly valued by day traders and technical analysts who aim to capitalize on short-term price fluctuations. By identifying these daily low points, traders can make informed decisions about potential entry and exit positions, thereby optimizing their strategies for better profitability.

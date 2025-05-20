@@ -1,6 +1,8 @@
 ---
-title: "Sentiment-driven trading (Algo Trading)"
-description: "Explore sentiment-driven trading a strategy using NLP and machine learning to analyze market sentiment and enhance trading decisions through algorithmic models."
+category: trading_strategy
+description: Explore sentiment-driven trading a strategy using NLP and machine learning
+  to analyze market sentiment and enhance trading decisions through algorithmic models.
+title: Sentiment-driven trading (Algo Trading)
 ---
 
 Sentiment-driven trading represents a cutting-edge approach that utilizes the emotions and attitudes of market participants to guide trading decisions. At its core, this strategy relies on analyzing a diverse array of textual sources—ranging from news articles and social media posts to financial reports—to extract sentiment data. By employing advanced technologies such as natural language processing (NLP) and machine learning, traders can systematically categorize and quantify market sentiment. This enables the creation of sentiment indicators that can be integrated into quantitative trading models. 
@@ -155,4 +157,3 @@ Tetlock, P. C. (2007) examines the role of media in shaping investor sentiment a
 "Advances in Financial Machine Learning" by Marcos Lopez de Prado offers comprehensive insights into the application of machine learning techniques in finance. This work is pivotal for traders and researchers interested in integrating advanced analytical methods with sentiment analysis to enhance trading strategies.
 
 Shen, D., Urquhart, A., & Wang, P. (2019) analyze Twitter's potential in predicting Bitcoin price movements. Their research highlights the growing relevance of sentiment analysis in [cryptocurrency](/wiki/cryptocurrency) markets, where traditional financial indicators are often less effective.
-

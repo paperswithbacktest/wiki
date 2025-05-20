@@ -1,6 +1,9 @@
 ---
-title: "Transitioning from Mutual Funds to ETFs (Algo Trading)"
-description: "Transitioning from mutual funds to ETFs with a focus on algorithmic trading offers investors enhanced portfolio diversification liquidity and efficiency, optimizing returns."
+category: trading_strategy
+description: Transitioning from mutual funds to ETFs with a focus on algorithmic trading
+  offers investors enhanced portfolio diversification liquidity and efficiency, optimizing
+  returns.
+title: Transitioning from Mutual Funds to ETFs (Algo Trading)
 ---
 
 In recent years, the landscape of investment strategies has dramatically transformed, driven by the advent of sophisticated financial instruments like Exchange-Traded Funds (ETFs), mutual funds, and the burgeoning field of algorithmic trading. These instruments play pivotal roles in modern investment portfolios, offering diverse ways to allocate assets, manage risks, and seek returns. ETFs, known for their liquidity and cost-effectiveness, allow investors to buy and sell diversified collections of assets throughout the trading day on stock exchanges. Mutual funds, on the other hand, enable investors to pool their capital under professional management, facilitating investment in a broad array of securities as part of a collective investment scheme.

@@ -1,6 +1,8 @@
 ---
-title: "Wage Push Inflation: Causes and Examples (Algo Trading)"
-description: "Explore wage-push inflation where rising wages lead to increased production costs and prices. Understand its causes and examples with insights on algo trading."
+category: quant_concept
+description: Explore wage-push inflation where rising wages lead to increased production
+  costs and prices. Understand its causes and examples with insights on algo trading.
+title: 'Wage Push Inflation: Causes and Examples (Algo Trading)'
 ---
 
 Wage-push inflation is a specific type of inflation that occurs when rising wages lead to increased production costs, prompting businesses to raise prices in order to maintain profit margins. It is one component of overall economic inflation, which also includes demand-pull inflation and cost-push inflation. While demand-pull inflation arises due to an excess demand over supply, and cost-push inflation results from an increase in the price of production inputs, wage-push inflation is intrinsically linked to changes in wage dynamics within an economy.

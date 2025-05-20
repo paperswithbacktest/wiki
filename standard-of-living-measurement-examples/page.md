@@ -1,6 +1,9 @@
 ---
-title: "Standard of Living Measurement and Examples (Algo Trading)"
-description: "Explore how economic indicators and algorithmic trading impact living standards. Understand the role of GDP, inflation, and unemployment in shaping economic strategies."
+category: quant_concept
+description: Explore how economic indicators and algorithmic trading impact living
+  standards. Understand the role of GDP, inflation, and unemployment in shaping economic
+  strategies.
+title: Standard of Living Measurement and Examples (Algo Trading)
 ---
 
 The intersection of economic indicators, algorithmic trading, and living standards is a crucial area of interest for economists, investors, and policymakers. Economic indicators are statistical measures that provide insights into the performance and health of an economy. They include data points such as GDP, inflation rates, unemployment figures, and various indexes like the Consumer Price Index (CPI) and Producer Price Index (PPI). These indicators enable stakeholders to assess economic conditions and predict future trends.

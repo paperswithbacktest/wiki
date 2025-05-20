@@ -1,9 +1,11 @@
 ---
-title: "Singularity (Algo Trading)"
-description: Discover the potential impact of the Singularity on algorithmic trading and the financial sector as a whole. Explore the benefits and challenges of autonomous algorithms, ethical considerations, and preparing for the future. Dive into resources for trading strategies, libraries, datasets, and becoming a quant trader.
+category: quant_concept
+description: Discover the potential impact of the Singularity on algorithmic trading
+  and the financial sector as a whole. Explore the benefits and challenges of autonomous
+  algorithms, ethical considerations, and preparing for the future. Dive into resources
+  for trading strategies, libraries, datasets, and becoming a quant trader.
+title: Singularity (Algo Trading)
 ---
-
-
 
 Algorithmic trading has transformed financial markets by employing computer programs to execute trades based on pre-defined strategies. This approach leverages mathematical models and high-speed data analysis, enabling rapid decision-making and execution. It mitigates human error, processes large volumes of transactions, and reacts instantly to market changes. As a result, algorithmic trading accounts for a significant percentage of trading volume in both equity and foreign exchange markets worldwide, demonstrating its critical role in enhancing market efficiency and liquidity.
 

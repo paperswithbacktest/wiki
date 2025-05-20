@@ -1,6 +1,8 @@
 ---
-title: "Timberland Investment: Risks and Examples (Algo Trading)"
-description: "Explore the risks and opportunities of timberland investment and algorithmic trading Learn how these strategies enhance diversification and portfolio resilience"
+category: trading_strategy
+description: Explore the risks and opportunities of timberland investment and algorithmic
+  trading Learn how these strategies enhance diversification and portfolio resilience
+title: 'Timberland Investment: Risks and Examples (Algo Trading)'
 ---
 
 The investment landscape is witnessing a considerable evolution, presenting investors with increasingly sophisticated opportunities like timberland investment and algorithmic trading. These two asset classes complement traditional investment avenues by offering distinct advantages such as diversification and potential risk mitigation.

@@ -1,6 +1,9 @@
 ---
-title: "Sterilized Foreign Exchange Intervention (Algo Trading)"
-description: "Explore the dynamics of sterilized foreign exchange intervention in algo trading and how central banks stabilize currency values without altering monetary supply."
+category: quant_concept
+description: Explore the dynamics of sterilized foreign exchange intervention in algo
+  trading and how central banks stabilize currency values without altering monetary
+  supply.
+title: Sterilized Foreign Exchange Intervention (Algo Trading)
 ---
 
 In the complex world of foreign exchange trading, various strategies are applied to stabilize currency values. Forex intervention plays a key role in this area. It involves actions by central banks to influence the exchange rates of their domestic currency. Intervention strategies can be implemented in different forms, with sterilized intervention being a prominent method. This specific approach allows central banks to influence their domestic currency rates without altering their monetary base. By engaging in sterilized intervention, central banks can manage currency volatility while maintaining control over their monetary supply.

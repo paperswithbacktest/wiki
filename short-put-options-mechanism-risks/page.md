@@ -1,6 +1,8 @@
 ---
-title: "Short Put Options: Mechanism and Risks (Algo Trading)"
-description: "Explore the workings and risks of trading short put options in the derivative markets and how algorithmic trading revolutionizes this strategy."
+category: quant_concept
+description: Explore the workings and risks of trading short put options in the derivative
+  markets and how algorithmic trading revolutionizes this strategy.
+title: 'Short Put Options: Mechanism and Risks (Algo Trading)'
 ---
 
 Options trading is a complex financial activity with a variety of strategies tailored to different market conditions. Each strategy comes with its own set of risks and potential rewards. Among these, trading short put options stands out as a prevalent approach, where traders sell put options to capitalize on expected price stability or a rise in the underlying asset's value. In a short put, the seller receives a premium, providing immediate income, while hoping the market remains above the predetermined strike price, causing the option to expire worthless.
@@ -175,4 +177,3 @@ Staying informed is essential for any trader looking to participate in options t
    Providing insights into financial innovation, this journal covers algorithmic trading strategies, computational finance techniques, and options pricing models. It is an excellent resource for those researching new methodologies in financial engineering.  
 
 These resources offer comprehensive coverage on options trading, algorithmic methodologies, and risk management strategies, serving as invaluable guides for traders and financial professionals aiming to enhance their expertise and proficiency in the dynamic field of trading.
-

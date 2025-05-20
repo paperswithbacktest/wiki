@@ -1,6 +1,9 @@
 ---
-title: "Tracker Fund Overview and Mechanics (Algo Trading)"
-description: "Discover the strategies and benefits of tracker funds, index funds, and algorithmic trading to enhance portfolio performance and navigate modern financial markets."
+category: quant_concept
+description: Discover the strategies and benefits of tracker funds, index funds, and
+  algorithmic trading to enhance portfolio performance and navigate modern financial
+  markets.
+title: Tracker Fund Overview and Mechanics (Algo Trading)
 ---
 
 The landscape of modern investing is replete with options that address a diverse array of strategies and risk tolerances. Among these, three methods stand out due to their growing popularity and unique contributions to investment strategies: tracker funds, index funds, and algorithmic trading. Each serves a distinct purpose and role within an investment portfolio, offering investors avenues to maximize returns in different ways. Tracker funds, often synonymous with index funds, provide investors with a passive approach to investing by attempting to replicate the performance of a specific market index. This is achieved through investments in the individual components of the index, thus offering cost-effective market exposure with the advantage of diversification and reduced management fees.

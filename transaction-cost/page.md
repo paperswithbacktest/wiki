@@ -1,6 +1,15 @@
 ---
-title: "Transaction cost (Algo Trading)"
-description: Transaction costs in algorithmic trading encompass more than broker commissions, including bid-ask spreads, slippage, and market impact. These costs are crucial in influencing trade profitability and market participation decisions. Effective management of transaction costs is vital in algorithmic trading to ensure profitability, as even small cost increases can erode returns. Utilizing sophisticated algorithms, traders aim to minimize these costs through strategies that optimize trade execution. Understanding transaction costs' economic implications and employing technological tools to reduce them can significantly enhance trading results and ensure successful market engagement.
+category: quant_concept
+description: Transaction costs in algorithmic trading encompass more than broker commissions,
+  including bid-ask spreads, slippage, and market impact. These costs are crucial
+  in influencing trade profitability and market participation decisions. Effective
+  management of transaction costs is vital in algorithmic trading to ensure profitability,
+  as even small cost increases can erode returns. Utilizing sophisticated algorithms,
+  traders aim to minimize these costs through strategies that optimize trade execution.
+  Understanding transaction costs' economic implications and employing technological
+  tools to reduce them can significantly enhance trading results and ensure successful
+  market engagement.
+title: Transaction cost (Algo Trading)
 ---
 
 Transaction costs in algorithmic trading are the expenses incurred when buying or selling securities. These costs go beyond just the broker's commission and include various other fees and charges such as bid-ask spreads, slippage, and market impact, all of which can significantly affect the profitability of trades. In economic trade and market participation, transaction costs play a crucial role as they can influence an investor's or trader’s decision to participate in the market. High transaction costs can deter trading activities, while lower costs can facilitate higher volumes of trade, thereby increasing market liquidity and efficiency.

@@ -1,6 +1,9 @@
 ---
-title: "Zero-Gap Condition (Algo Trading)"
-description: "Discover how zero-gap mechanics and technical analysis enhance trading strategies by mitigating interest rate risks and providing data-driven insights for algorithmic trading."
+category: quant_concept
+description: Discover how zero-gap mechanics and technical analysis enhance trading
+  strategies by mitigating interest rate risks and providing data-driven insights
+  for algorithmic trading.
+title: Zero-Gap Condition (Algo Trading)
 ---
 
 In trading, technical analysis and algorithmic trading have become indispensable tools for traders aiming to refine their strategies and enhance market performance. These methodologies bring a scientific approach to trading, allowing for data-driven decision-making and improved precision in executing trades. Central to this exploration is the understanding of zero-gap mechanics and their integration into algorithmic strategies.

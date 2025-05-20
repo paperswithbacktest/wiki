@@ -1,6 +1,9 @@
 ---
-title: "Year to Date (YTD): Meaning and Usage (Algo Trading)"
-description: "Discover how Year to Date analysis enhances algorithmic trading strategies by providing insights into financial trends and optimizing trade decisions based on current performance."
+category: quant_concept
+description: Discover how Year to Date analysis enhances algorithmic trading strategies
+  by providing insights into financial trends and optimizing trade decisions based
+  on current performance.
+title: 'Year to Date (YTD): Meaning and Usage (Algo Trading)'
 ---
 
 Year to Date (YTD) financial analysis is a critical tool used to assess a company's financial performance from the beginning of the current year up to a specified date. It provides insights into trends and patterns that help businesses make informed strategic decisions. YTD analysis is important for investors, analysts, and managers, as it offers a clear view of how a company’s current performance measures up to expectations and previous years' benchmarks. By evaluating metrics such as revenues, expenses, and profits on a YTD basis, stakeholders can better discern the trajectory of a business and assess its operational health.

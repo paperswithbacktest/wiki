@@ -1,6 +1,9 @@
 ---
-title: "United States Secretary of Commerce: Responsibilities and Qualifications (Algo Trading)"
-description: "Explore the pivotal role of the US Secretary of Commerce in shaping economic policy and technology's intersection, with a focus on algorithmic trading."
+category: quant_concept
+description: Explore the pivotal role of the US Secretary of Commerce in shaping economic
+  policy and technology's intersection, with a focus on algorithmic trading.
+title: 'United States Secretary of Commerce: Responsibilities and Qualifications (Algo
+  Trading)'
 ---
 
 The United States Department of Commerce is instrumental in fostering economic growth and safeguarding economic interests at both national and international levels. Central to the department's operations is the Secretary of Commerce, a high-ranking official tasked with crafting policies that create conducive conditions for economic opportunity and growth. The Secretary is responsible for a vast array of duties, which include advising the president, formulating economic strategies, and executing programs that bolster innovation and competitiveness in various industries.

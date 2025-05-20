@@ -1,6 +1,12 @@
 ---
-title: "Transaction costs (Algo Trading)"
-description: Explore the impact of transaction costs in algorithmic trading and learn strategies to minimize expenses, enhancing profitability. Understand how brokerage commissions, market spreads, and other factors can erode profits and discover ways to effectively manage these costs to maintain a competitive edge in the fast-paced financial markets. Optimize trading strategies by considering key influencers such as market liquidity and trading frequency to achieve realistic profit expectations.
+category: quant_concept
+description: Explore the impact of transaction costs in algorithmic trading and learn
+  strategies to minimize expenses, enhancing profitability. Understand how brokerage
+  commissions, market spreads, and other factors can erode profits and discover ways
+  to effectively manage these costs to maintain a competitive edge in the fast-paced
+  financial markets. Optimize trading strategies by considering key influencers such
+  as market liquidity and trading frequency to achieve realistic profit expectations.
+title: Transaction costs (Algo Trading)
 ---
 
 Algorithmic trading, often referred to as algo trading, has fundamentally transformed the landscape of financial markets. By leveraging complex algorithms and executing trades at super-fast speeds, traders can capitalize on opportunities that may otherwise be missed in traditional trading. This method relies on sophisticated mathematical models to analyze data at a scale and speed beyond human capabilities, thus enabling the quick identification and execution of profitable trades.

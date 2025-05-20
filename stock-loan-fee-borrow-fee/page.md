@@ -1,6 +1,8 @@
 ---
-title: "Stock Loan Fee (Borrow Fee) (Algo Trading)"
-description: "Explore how borrow fees in securities lending impact algorithmic trading strategies in financial markets and learn how to manage costs effectively."
+category: quant_concept
+description: Explore how borrow fees in securities lending impact algorithmic trading
+  strategies in financial markets and learn how to manage costs effectively.
+title: Stock Loan Fee (Borrow Fee) (Algo Trading)
 ---
 
 Securities lending, borrow fees, and algorithmic trading are integral components that shape the landscape of contemporary financial markets. Securities lending involves the temporary transfer of securities, such as stocks or bonds, from a lender to a borrower, with the borrower agreeing to return them at a later date. This process facilitates short selling, a strategy where an investor profits by betting that the price of a security will decline, and is crucial in maintaining overall market liquidity.

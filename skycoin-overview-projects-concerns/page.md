@@ -1,6 +1,8 @@
 ---
-title: "Skycoin: Overview, Related Projects, and Concerns (Algo Trading)"
-description: "Explore Skycoin's unique blockchain projects and algorithmic trading insights in this article Focused on decentralization and investment efficiency."
+category: quant_concept
+description: Explore Skycoin's unique blockchain projects and algorithmic trading
+  insights in this article Focused on decentralization and investment efficiency.
+title: 'Skycoin: Overview, Related Projects, and Concerns (Algo Trading)'
 ---
 
 The cryptocurrency landscape has experienced significant transformation since the inception of Bitcoin in 2009. As digital currencies become more mainstream, the development of novel blockchain projects is accelerating, each with unique applications and technological advancements. Among these, Skycoin stands out as a blockchain project with a distinct focus on enabling a decentralized internet. This ambition is realized through innovative approaches that distinguish Skycoin from existing cryptocurrency networks.

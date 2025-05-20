@@ -1,6 +1,14 @@
 ---
-title: "Special Drawing Rights and Requirements (Algo Trading)"
-description: "Explore the intersection of Special Drawing Rights (SDRs) and algorithmic trading in the financial world as SDRs, created by the IMF, serve as international reserve assets aimed at enhancing global liquidity. This page investigates into the significance of SDRs in stabilizing economies and their potential integration with algorithmic trading platforms which use advanced technologies to automate and optimize trading processes. Discover how this combination presents innovative possibilities for international finance involving enhanced liquidity and precision in trading strategies."
+category: quant_concept
+description: Explore the intersection of Special Drawing Rights (SDRs) and algorithmic
+  trading in the financial world as SDRs, created by the IMF, serve as international
+  reserve assets aimed at enhancing global liquidity. This page investigates into
+  the significance of SDRs in stabilizing economies and their potential integration
+  with algorithmic trading platforms which use advanced technologies to automate and
+  optimize trading processes. Discover how this combination presents innovative possibilities
+  for international finance involving enhanced liquidity and precision in trading
+  strategies.
+title: Special Drawing Rights and Requirements (Algo Trading)
 ---
 
 In the rapidly evolving world of finance, the integration of Special Drawing Rights (SDRs) with algorithmic trading platforms has emerged as an intriguing development. SDRs, established in 1969 by the International Monetary Fund (IMF), serve as an international reserve asset. Their primary function is to supplement the official reserves of IMF member countries, thus facilitating international liquidity. Unlike traditional currencies, SDRs are composed of a basket of major international currencies, including the U.S. dollar, euro, Chinese renminbi, Japanese yen, and British pound sterling. This composition is reviewed and adjusted periodically to reflect the prevailing importance of these currencies in the global economic landscape.

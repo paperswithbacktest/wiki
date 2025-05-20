@@ -1,6 +1,8 @@
 ---
-title: "TransMarket Group (Algo Trading)"
-description: "Discover TransMarket Group's impact on algorithmic trading with innovative strategies and technology shaping global financial markets for over 30 years."
+category: quant_concept
+description: Discover TransMarket Group's impact on algorithmic trading with innovative
+  strategies and technology shaping global financial markets for over 30 years.
+title: TransMarket Group (Algo Trading)
 ---
 
 TransMarket Group (TMG) is a prominent proprietary trading firm with a substantial influence in the global financial markets. Established over three decades ago, the firm has carved out a significant presence in the trading industry through its innovative approaches and robust strategies. TransMarket Group specializes in developing complex algorithmic trading solutions that have redefined how trades are conducted across various financial instruments. Algorithmic trading, which comprises using computer algorithms to execute trades at speeds and volumes impossible for human traders, has become increasingly essential in today's fast-paced financial markets. It leverages statistical models to anticipate market movements and capitalize on opportunities with precision and efficiency.

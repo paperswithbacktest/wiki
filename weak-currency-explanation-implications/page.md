@@ -1,6 +1,9 @@
 ---
-title: "Weak Currency: Explanation and Implications (Algo Trading)"
-description: "Explore how weak currencies impact global markets including trade balances and investment strategies Learn implications for algorithmic trading and economic policy adjustments"
+category: quant_concept
+description: Explore how weak currencies impact global markets including trade balances
+  and investment strategies Learn implications for algorithmic trading and economic
+  policy adjustments
+title: 'Weak Currency: Explanation and Implications (Algo Trading)'
 ---
 
 A weak currency is one that has a lower value in comparison to other currencies in the global market. Its significance is profound as it directly affects a nation's economic transactions, influencing trade balances, foreign investments, and inflation rates. Currency strength plays a pivotal role in determining a country's economic stability and growth trajectory. Strong currencies typically indicate robust economic performance and investor confidence, whereas weak currencies often reflect underlying economic challenges or instability.

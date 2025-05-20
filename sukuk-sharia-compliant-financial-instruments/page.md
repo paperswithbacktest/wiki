@@ -1,6 +1,8 @@
 ---
-title: "Sukuk: Sharia-Compliant Financial Instruments (Algo Trading)"
-description: "Explore the world of Sukuk, Sharia-compliant financial instruments merging Islamic finance with algorithmic trading, offering ethical investment solutions."
+category: quant_concept
+description: Explore the world of Sukuk, Sharia-compliant financial instruments merging
+  Islamic finance with algorithmic trading, offering ethical investment solutions.
+title: 'Sukuk: Sharia-Compliant Financial Instruments (Algo Trading)'
 ---
 
 Sukuk, commonly known as Islamic bonds, are financial instruments that align with Sharia law, providing a unique alternative to conventional bonds. With the global expansion of Islamic finance, Sukuk have become increasingly sought after by investors who prioritize Sharia-compliant investments. As ethical and religious adherence in finance becomes more prominent, Sukuk offer a blend of traditional Islamic principles with modern investment solutions.

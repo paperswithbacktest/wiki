@@ -1,6 +1,8 @@
 ---
-title: "Tier 1 Capital Ratio and Calculation Formula (Algo Trading)"
-description: "Learn about the Tier 1 Capital Ratio and how algorithmic trading reshapes banking and finance Discover key metrics essential for stability and growth"
+category: quant_concept
+description: Learn about the Tier 1 Capital Ratio and how algorithmic trading reshapes
+  banking and finance Discover key metrics essential for stability and growth
+title: Tier 1 Capital Ratio and Calculation Formula (Algo Trading)
 ---
 
 In finance and banking, the integration of metrics and automation has become essential for maintaining both stability and growth. This article focuses on the Tier 1 Capital Ratio, a pivotal banking metric, alongside the transformative impact of algorithmic trading. Within the complex regulatory environment, financial institutions rely on metrics like the Tier 1 Capital Ratio to assess their financial stability effectively. This ratio is a fundamental measure of a bank's financial health, representing the core capital—a safeguard against financial distress, and ensuring the bank's ability to absorb losses.

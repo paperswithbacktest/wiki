@@ -1,6 +1,9 @@
 ---
-title: "Technical Analysis in Investing (Algo Trading)"
-description: "Explore the essential role of technical analysis in algorithmic trading, enabling informed investment decisions by analyzing historical price data for optimized strategies."
+category: trading_strategy
+description: Explore the essential role of technical analysis in algorithmic trading,
+  enabling informed investment decisions by analyzing historical price data for optimized
+  strategies.
+title: Technical Analysis in Investing (Algo Trading)
 ---
 
 The stock market stands as a cornerstone of the global economy, serving as a platform for companies to raise capital and for investors to gain ownership in businesses. By facilitating the exchange of stocks, or shares, of publicly held companies, the stock market provides a critical mechanism for price discovery and liquidity. The ability to buy and sell stocks on public exchanges provides businesses the capital needed for growth and expansion, while offering investors the opportunity to achieve financial growth through ownership stakes that can appreciate in value or generate dividend income.

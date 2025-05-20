@@ -1,6 +1,9 @@
 ---
-title: "Wash Sale Rules and Penalties (Algo Trading)"
-description: "Discover the complexities of wash sale rules in algorithmic trading Understand how tax regulations and penalties affect your trading strategies and investment outcomes"
+category: quant_concept
+description: Discover the complexities of wash sale rules in algorithmic trading Understand
+  how tax regulations and penalties affect your trading strategies and investment
+  outcomes
+title: Wash Sale Rules and Penalties (Algo Trading)
 ---
 
 In the complex world of investment, understanding tax implications is crucial for maximizing gains and minimizing losses. Navigating the financial landscape requires not only an awareness of market dynamics but also a keen understanding of the tax regulations that govern investment activities. Among these regulations, the wash sale rule stands out as an important concept that investors need to master. This rule, designed by the Internal Revenue Service (IRS), prevents investors from claiming artificial losses on their taxes by selling a security at a loss and repurchasing the same or a substantially identical security within a short timeframe.

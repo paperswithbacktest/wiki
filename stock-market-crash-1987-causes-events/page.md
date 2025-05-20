@@ -1,6 +1,9 @@
 ---
-title: "Stock Market Crash of 1987: Causes and Events (Algo Trading)"
-description: "Explore the causes and events of the 1987 stock market crash known as Black Monday and understand how algorithmic trading played a role in this financial crisis."
+category: quant_concept
+description: Explore the causes and events of the 1987 stock market crash known as
+  Black Monday and understand how algorithmic trading played a role in this financial
+  crisis.
+title: 'Stock Market Crash of 1987: Causes and Events (Algo Trading)'
 ---
 
 The stock market crash of 1987, commonly known as Black Monday, was a significant financial disaster that impacted markets worldwide. On October 19, 1987, the Dow Jones Industrial Average (DJIA) suffered a historic decline, dropping by 22.6% in a single day. This crash remains the largest single-day percentage decrease in the history of the U.S. stock market. The repercussions of this decline were not confined to the United States; they spread across the globe, sparking a broader financial crisis that affected international markets.

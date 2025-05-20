@@ -1,6 +1,9 @@
 ---
-title: "Trilemma in Economics: Definition and Examples (Algo Trading)"
-description: "Explore the intersection of trilemma economics and algorithmic trading, revealing how economic theories influence modern financial strategies and market dynamics."
+category: quant_concept
+description: Explore the intersection of trilemma economics and algorithmic trading,
+  revealing how economic theories influence modern financial strategies and market
+  dynamics.
+title: 'Trilemma in Economics: Definition and Examples (Algo Trading)'
 ---
 
 Economics and finance are fields characterized by complex decision-making processes where trade-offs are a fundamental aspect. Among the conceptual tools used to navigate these complexities is the trilemma, which provides a crucial framework for understanding the dilemmas faced by policymakers in areas such as international monetary policy, trade, and algorithmic trading. This framework often highlights that in trying to achieve three competing objectives, only two can be accomplished simultaneously, forcing a choice that excludes one desired outcome.

@@ -1,6 +1,8 @@
 ---
-title: "Wealthsimple Analysis (Algo Trading)"
-description: "Discover how Wealthsimple leverages algorithmic trading and robo-advisory services to make investing more accessible and efficient for users."
+category: trading_strategy
+description: Discover how Wealthsimple leverages algorithmic trading and robo-advisory
+  services to make investing more accessible and efficient for users.
+title: Wealthsimple Analysis (Algo Trading)
 ---
 
 Wealthsimple, a burgeoning name in financial technology, is reshaping the investment landscape by fusing advanced technological innovations with traditional investment strategies. As a platform, it deftly marries the concepts of algorithmic trading with robo-advisory services, leveraging modern advancements to meet the dynamic needs of today's investors. This article aims to offer an extensive examination of Wealthsimple’s array of services, with a particular focus on how these digital transformations are making investing more approachable and efficient for the average user.

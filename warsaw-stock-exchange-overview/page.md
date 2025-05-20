@@ -1,6 +1,8 @@
 ---
-title: "Warsaw Stock Exchange Overview (Algo Trading)"
-description: "Discover the Warsaw Stock Exchange's role in Poland's finance market and its shift towards algorithmic trading, enhancing speed and precision for investors."
+category: quant_concept
+description: Discover the Warsaw Stock Exchange's role in Poland's finance market
+  and its shift towards algorithmic trading, enhancing speed and precision for investors.
+title: Warsaw Stock Exchange Overview (Algo Trading)
 ---
 
 The Warsaw Stock Exchange (WSE) is a pivotal institution in the Polish finance market, renowned as the largest trading hub for financial products in Central and Eastern Europe. Since its inception, the WSE has been instrumental in driving financial market growth and diversification in Poland, supporting both local and international investors with a broad array of trading options. This article examines the multiple aspects that contribute to the significance of the WSE within the Polish economic landscape and highlights the innovative shift towards algorithmic trading.

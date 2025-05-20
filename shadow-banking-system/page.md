@@ -1,6 +1,8 @@
 ---
-title: "Shadow Banking System (Algo Trading)"
-description: "Explore the shadow banking system and its role in global finance including its relationship with algorithmic trading and potential impact on financial stability."
+category: quant_concept
+description: Explore the shadow banking system and its role in global finance including
+  its relationship with algorithmic trading and potential impact on financial stability.
+title: Shadow Banking System (Algo Trading)
 ---
 
 The financial world is multifaceted and complex, with various entities participating in the creation, movement, and regulation of money. At the heart of this intricate system lies the shadow banking system, an influential yet often misunderstood component. Shadow banking encompasses financial activities that mimic traditional banking but occur outside the purview of conventional regulations. This sector includes players like hedge funds, mortgage lenders, and investment firms, which facilitate credit creation beyond the strict oversight imposed on traditional banks.

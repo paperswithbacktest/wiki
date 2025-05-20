@@ -1,6 +1,9 @@
 ---
-title: "Using Ratios to Assess Stock Valuation (Algo Trading)"
-description: "Explore how financial ratios, stock valuation, and algorithmic trading intersect to optimize investment strategies assess company worth and execute precise trades efficiently."
+category: trading_strategy
+description: Explore how financial ratios, stock valuation, and algorithmic trading
+  intersect to optimize investment strategies assess company worth and execute precise
+  trades efficiently.
+title: Using Ratios to Assess Stock Valuation (Algo Trading)
 ---
 
 The modern financial landscape is characterized by complex mechanisms that drive investment decisions in stock markets. Investors are navigating a multifaceted environment where various tools and strategies intersect to optimize returns and mitigate risks. Key among these tools are financial ratios, stock valuation, and algorithmic trading, each playing a pivotal role in shaping investment strategies.

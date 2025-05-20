@@ -1,6 +1,9 @@
 ---
-title: "Speculative Bubble (Algo Trading)"
-description: "Explore the relationship between speculative and economic bubbles and algorithmic trading in financial markets Learn how these dynamics impact investments and strategy"
+category: quant_concept
+description: Explore the relationship between speculative and economic bubbles and
+  algorithmic trading in financial markets Learn how these dynamics impact investments
+  and strategy
+title: Speculative Bubble (Algo Trading)
 ---
 
 In recent years, financial markets have been subject to significant volatility and uncertainty. Two major phenomena that have profoundly influenced these markets are speculative bubbles and economic bubbles. Speculative bubbles occur when asset prices rise rapidly, exceeding their intrinsic value due to market sentiment and speculative trading rather than underlying economic fundamentals. This detachment from fundamental valuation often results in sharp corrections when reality sets in and prices adjust to reflect true value.

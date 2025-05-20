@@ -1,6 +1,12 @@
 ---
-title: "Types of Foreign Aid (Algo Trading)"
-description: "Explore different types of foreign aid in this comprehensive guide focused on modern global relations and economics. Understand the roles and impacts of bilateral aid, multilateral aid, military aid, and humanitarian assistance. Discover how algorithmic trading can influence foreign exchange markets and its significance in international aid dynamics. Gain insights into the interplay between foreign aid, financial systems, and global cooperation as countries navigate complex economic landscapes."
+category: quant_concept
+description: Explore different types of foreign aid in this comprehensive guide focused
+  on modern global relations and economics. Understand the roles and impacts of bilateral
+  aid, multilateral aid, military aid, and humanitarian assistance. Discover how algorithmic
+  trading can influence foreign exchange markets and its significance in international
+  aid dynamics. Gain insights into the interplay between foreign aid, financial systems,
+  and global cooperation as countries navigate complex economic landscapes.
+title: Types of Foreign Aid (Algo Trading)
 ---
 
 Foreign aid and international assistance constitute essential elements of modern global relations and economics. These mechanisms represent efforts to support economic development, alleviate poverty, and offer emergency relief. Foreign aid is typically structured into several categories, which this article will examine, including bilateral aid, multilateral aid, military aid, and humanitarian assistance. Each type serves its specific purposes, whether through direct economic support, collaborative funding via international organizations, contributions to defense capabilities, or crucial relief during crises.

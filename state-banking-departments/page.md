@@ -1,6 +1,9 @@
 ---
-title: "State Banking Departments (Algo Trading)"
-description: "Explore the role of state banking departments in regulating and overseeing financial institutions with a focus on stability consumer protection and algorithmic trading advancements."
+category: quant_concept
+description: Explore the role of state banking departments in regulating and overseeing
+  financial institutions with a focus on stability consumer protection and algorithmic
+  trading advancements.
+title: State Banking Departments (Algo Trading)
 ---
 
 The financial system is a cornerstone of modern economies, enabling the flow of capital, managing risk, and facilitating economic growth. It encompasses a diverse array of institutions and markets that collectively contribute to the overall welfare of consumers and businesses. At the heart of this system lies an intricate framework of financial regulation and banking oversight, which serve as critical mechanisms for maintaining stability and integrity.

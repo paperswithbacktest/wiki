@@ -1,6 +1,10 @@
 ---
-title: "What is the difference between momentum and mean reversion?"
-description: "Discover the key differences between momentum and mean reversion strategies in trading, including their underlying philosophies, typical strategies, and market conditions. Learn how each strategy can be profitable and require different risk management approaches."
+category: trading_strategy
+description: Discover the key differences between momentum and mean reversion strategies
+  in trading, including their underlying philosophies, typical strategies, and market
+  conditions. Learn how each strategy can be profitable and require different risk
+  management approaches.
+title: What is the difference between momentum and mean reversion?
 ---
 
 In the world of finance and investing, understanding different market strategies is crucial for successful trading and investment management. Among these strategies, momentum and mean reversion stand out as two fundamental yet opposing methods of analyzing and capitalizing on market movements.

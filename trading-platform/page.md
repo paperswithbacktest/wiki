@@ -1,6 +1,8 @@
 ---
-title: "Trading Platform (Algo Trading)"
-description: "Explore the transformative world of algorithmic trading platforms that democratize financial markets with advanced tools designed for traders of all levels."
+category: trading_strategy
+description: Explore the transformative world of algorithmic trading platforms that
+  democratize financial markets with advanced tools designed for traders of all levels.
+title: Trading Platform (Algo Trading)
 ---
 
 The financial trading landscape has undergone significant transformations over the past few decades, marked by the advent of advanced technologies and innovative strategies. This evolution has broadened the scope and increased the complexity of trading, making it more accessible yet challenging for investors. Financial trading platforms and investment tools have emerged as essential components in this modern environment, offering a range of functionalities that cater to diverse trading needs.

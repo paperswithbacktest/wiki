@@ -1,6 +1,9 @@
 ---
-title: "Swing Low in Trading (Algo Trading)"
-description: "Discover strategies for trading success with insights on swing lows, technical analysis, and algorithmic trading to enhance decision-making and market edge."
+category: trading_strategy
+description: Discover strategies for trading success with insights on swing lows,
+  technical analysis, and algorithmic trading to enhance decision-making and market
+  edge.
+title: Swing Low in Trading (Algo Trading)
 ---
 
 In the world of trading, financial success often hinges on employing strategies designed to make informed decisions. This article focuses on trading strategies, particularly technical analysis, swing lows, and algorithmic trading, providing insights into how these components can create a comprehensive trading plan.

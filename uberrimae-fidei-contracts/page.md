@@ -1,6 +1,8 @@
 ---
-title: "Uberrimae Fidei Contracts (Algo Trading)"
-description: "Explore the critical role of uberrimae fidei in finance contracts ensuring utmost good faith and transparency in insurance and algorithmic trading sectors."
+category: quant_concept
+description: Explore the critical role of uberrimae fidei in finance contracts ensuring
+  utmost good faith and transparency in insurance and algorithmic trading sectors.
+title: Uberrimae Fidei Contracts (Algo Trading)
 ---
 
 In the world of finance, the principle of 'uberrimae fidei' or 'utmost good faith' plays a crucial role in various contracts, especially in the insurance sector and algorithmic trading. This foundational doctrine demands complete and honest disclosure of all pertinent information between parties engaged in a contract. In the insurance industry, uberrimae fidei is critical as it ensures that both the insurer and the insured operate with complete transparency, reducing risks associated with asymmetric information. The insured must disclose any known risks to their coverage accurately, while insurers must communicate the terms and conditions of the policy transparently.

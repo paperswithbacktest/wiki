@@ -1,6 +1,9 @@
 ---
-title: "Triple Bottom Chart in Technical Analysis (Algo Trading)"
-description: "Explore the Triple Bottom chart pattern to enhance your trading strategy. Understand its bullish reversal significance and leverage algorithmic trading for optimal results."
+category: trading_strategy
+description: Explore the Triple Bottom chart pattern to enhance your trading strategy.
+  Understand its bullish reversal significance and leverage algorithmic trading for
+  optimal results.
+title: Triple Bottom Chart in Technical Analysis (Algo Trading)
 ---
 
 Trading patterns are integral components in the field of technical analysis. These patterns assist traders in anticipating future market movements, allowing them to make informed decisions about entering or exiting trades. Among the wide array of these patterns, the 'Triple Bottom' stands out as a potent bullish reversal pattern. Its configuration provides traders with invaluable opportunities to capture potential gains as the market shifts from a downtrend to an upward trajectory.

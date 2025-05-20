@@ -1,6 +1,9 @@
 ---
-title: "UNCITRAL (Algo Trading)"
-description: "Explore how UNCITRAL supports algorithmic trading through modernized trade laws to foster innovation, ensure market stability, and promote international cooperation."
+category: quant_concept
+description: Explore how UNCITRAL supports algorithmic trading through modernized
+  trade laws to foster innovation, ensure market stability, and promote international
+  cooperation.
+title: UNCITRAL (Algo Trading)
 ---
 
 The global trade ecosystem has transformed significantly with the emergence of algorithmic trading, a mechanism that automates trading processes through advanced algorithms, enhancing the speed and efficiency of transactions. This evolution is crucial as it reflects the broader trend of technological integration within international commerce, which continues to grow in scale and complexity. As such, there is an urgent need to modernize trade laws to adequately address and facilitate these advancements, ensuring they align with evolving market dynamics and technological capabilities.

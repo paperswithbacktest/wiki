@@ -1,6 +1,9 @@
 ---
-title: "Trading USD/CAD Currency Pair (Algo Trading)"
-description: "Explore USD/CAD forex trading with insights into liquidity volatility and algorithmic strategies for efficiency Learn key factors driving this currency pair"
+category: trading_strategy
+description: Explore USD/CAD forex trading with insights into liquidity volatility
+  and algorithmic strategies for efficiency Learn key factors driving this currency
+  pair
+title: Trading USD/CAD Currency Pair (Algo Trading)
 ---
 
 The world of forex trading offers a multitude of opportunities for investors and traders, with the USD/CAD currency pair standing out as a particularly prominent option. This currency pair represents the exchange rate between the U.S. dollar and the Canadian dollar, frequently referred to as the 'loonie'. As one of the most actively traded pairs on the forex market, the USD/CAD pair attracts significant attention due to its substantial liquidity and inherent volatility, making it a favored choice among forex traders.

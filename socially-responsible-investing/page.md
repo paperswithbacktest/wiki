@@ -1,6 +1,9 @@
 ---
-title: "Socially Responsible Investing (Algo Trading)"
-description: "Explore socially responsible investing through the lens of sustainable finance and algorithmic trading Learn how ESG criteria are reshaping investment strategies"
+category: trading_strategy
+description: Explore socially responsible investing through the lens of sustainable
+  finance and algorithmic trading Learn how ESG criteria are reshaping investment
+  strategies
+title: Socially Responsible Investing (Algo Trading)
 ---
 
 In today's rapidly evolving financial landscape, sustainable finance, ethical investing, and impact investing have gained notable significance in setting new benchmarks for investment strategy. Investors are increasingly prioritizing Environmental, Social, and Governance (ESG) criteria as critical components of their investment decisions in a bid to address global issues such as climate change, social inequality, and corporate governance. These efforts aim not only to generate long-term economic growth but also to foster a more equitable and sustainable future. 

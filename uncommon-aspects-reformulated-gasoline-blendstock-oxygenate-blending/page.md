@@ -1,6 +1,9 @@
 ---
-title: "Uncommon Aspects of Reformulated Gasoline Blendstock for Oxygenate Blending (Algo Trading)"
-description: "Explore the impact of algorithmic trading on the RBOB gasoline market enhancing efficiency accuracy and transparency in fuel industry trading dynamics."
+category: quant_concept
+description: Explore the impact of algorithmic trading on the RBOB gasoline market
+  enhancing efficiency accuracy and transparency in fuel industry trading dynamics.
+title: Uncommon Aspects of Reformulated Gasoline Blendstock for Oxygenate Blending
+  (Algo Trading)
 ---
 
 RBOB gasoline, short for Reformulated Blendstock for Oxygenate Blending, serves as a crucial component in the production of motor gasoline. It is specifically designed to be blended with oxygenates such as ethanol to create reformulated gasoline (RFG), intended to burn cleaner and reduce emissions. The formulation of RBOB is tailored to meet regulatory requirements for environmental protection, aiding significantly in decreasing air pollution.

@@ -1,6 +1,8 @@
 ---
-title: "Unissued Stock: Overview and Functionality (Algo Trading)"
-description: "Discover how unissued stock and algorithmic trading interplay with financial strategies offering companies flexibility and investors enhanced trading options."
+category: quant_concept
+description: Discover how unissued stock and algorithmic trading interplay with financial
+  strategies offering companies flexibility and investors enhanced trading options.
+title: 'Unissued Stock: Overview and Functionality (Algo Trading)'
 ---
 
 In the world of corporate finance, the concepts of unissued stock, stock issuance, and algorithmic trading are pivotal to understanding how modern businesses operate and thrive. Unissued stocks represent potential equity that a company can leverage without affecting its current capital structure, offering strategic options for future growth and financial management. They are shares authorized but not yet distributed to shareholders or employees, providing the organization with flexibility in capital planning.

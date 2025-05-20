@@ -1,6 +1,8 @@
 ---
-title: "Use of Discounted Cash Flow in Real Estate Valuation (Algo Trading)"
-description: "Discover how Discounted Cash Flow analysis and algorithmic trading revolutionize real estate valuation enhancing decision-making and optimizing investments."
+category: quant_concept
+description: Discover how Discounted Cash Flow analysis and algorithmic trading revolutionize
+  real estate valuation enhancing decision-making and optimizing investments.
+title: Use of Discounted Cash Flow in Real Estate Valuation (Algo Trading)
 ---
 
 The landscape of real estate investment is evolving rapidly, driven by advances in technology and innovative financial models. Among these, Discounted Cash Flow (DCF) analysis stands out as a vital tool for valuation. DCF analysis is a method employed to assess the value of an investment by estimating its future cash flows and discounting them to present value using an appropriate discount rate. This approach allows investors to make informed decisions about the profitability and viability of real estate opportunities, taking into account factors such as initial costs, maintenance, potential income, and market conditions.

@@ -1,7 +1,8 @@
 ---
-title: SPMD in Machine Learning for Efficient Distributed Training
+category: quant_concept
 description: SPMD in machine learning splits datasets across processors running the
   same code concurrently to accelerate model training. Discover more inside.
+title: SPMD in Machine Learning for Efficient Distributed Training
 ---
 
 ![Image](images/1.jpeg)

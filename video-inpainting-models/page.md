@@ -1,7 +1,8 @@
 ---
-title: Enhancing Video Inpainting with FuseFormer Architecture
+category: quant_concept
 description: Video inpainting can struggle with motion gaps FuseFormer uses transformers
   and temporal attention to restore seamless frames Discover more inside
+title: Enhancing Video Inpainting with FuseFormer Architecture
 ---
 
 ![Image](images/1.jpeg)

@@ -1,6 +1,8 @@
 ---
-title: "Volume Rate of Change in Trend Confirmation (Algo Trading)"
-description: "Explore the power of Volume Rate of Change as a technical tool for trend confirmation in algorithmic trading. Learn how V-ROC aids in market analysis."
+category: trading_strategy
+description: Explore the power of Volume Rate of Change as a technical tool for trend
+  confirmation in algorithmic trading. Learn how V-ROC aids in market analysis.
+title: Volume Rate of Change in Trend Confirmation (Algo Trading)
 ---
 
 Understanding market trends is essential for successful trading as it enables traders to make informed decisions, maximize gains, and mitigate losses. Technical analysis serves as a crucial method for comprehending these trends and providing insights into market behavior and potential future movements. Within this framework, the Volume Rate of Change (V-ROC) emerges as a pivotal tool.

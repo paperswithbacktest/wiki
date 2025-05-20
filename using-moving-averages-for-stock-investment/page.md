@@ -1,6 +1,8 @@
 ---
-title: "Using Moving Averages for Stock Investment (Algo Trading)"
-description: "Explore the role of moving averages in stock investment with algo trading, offering insights on identifying trends, generating signals, and optimizing strategies."
+category: trading_strategy
+description: Explore the role of moving averages in stock investment with algo trading,
+  offering insights on identifying trends, generating signals, and optimizing strategies.
+title: Using Moving Averages for Stock Investment (Algo Trading)
 ---
 
 The financial market remains a dynamic and constantly changing arena, with stocks emerging as one of the most actively traded assets worldwide. This intense activity stems from the continuous pursuit by investors and traders for reliable methodologies to inform their trading decisions. Among various tools and techniques, moving averages have become a cornerstone in stock investment, particularly enhancing algorithmic trading strategies.

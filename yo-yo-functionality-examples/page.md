@@ -1,6 +1,8 @@
 ---
-title: "Yo-Yo: Functionality and Examples (Algo Trading)"
-description: "Explore the metaphorical use of the classic yo-yo toy in finance by understanding its mechanics and see how algorithmic trading thrives in volatile markets."
+category: quant_concept
+description: Explore the metaphorical use of the classic yo-yo toy in finance by understanding
+  its mechanics and see how algorithmic trading thrives in volatile markets.
+title: 'Yo-Yo: Functionality and Examples (Algo Trading)'
 ---
 
 The yo-yo toy, a classic plaything known for its ups and downs, offers more than just childhood nostalgia. Originating from ancient civilizations, the yo-yo has been a source of amusement and skill for generations. It operates by rolling down and up a string alternately, displaying principles of physics such as gravity, momentum, and tension. Fascination with its cyclical motion extends beyond its use as a toy; it has also been metaphorically applied to describe particular phenomena in the world of finance.

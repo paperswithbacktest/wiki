@@ -1,6 +1,9 @@
 ---
-title: "Strategic Financial Management (Algo Trading)"
-description: "Explore strategic financial management with a focus on algo trading, intertwining business finance, and innovation for sustainable growth and competitive edge."
+category: trading_strategy
+description: Explore strategic financial management with a focus on algo trading,
+  intertwining business finance, and innovation for sustainable growth and competitive
+  edge.
+title: Strategic Financial Management (Algo Trading)
 ---
 
 In the ever-evolving world of finance, businesses must stay ahead by integrating effective financial management and strategic planning. As organizations strive to stay competitive and achieve long-term success, understanding the interconnection between business finance, strategic planning, and algorithmic trading is crucial. These elements are not standalone concepts; rather, they work collaboratively to create innovative financial solutions that drive growth and sustainability.

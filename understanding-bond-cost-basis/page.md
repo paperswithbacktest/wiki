@@ -1,6 +1,8 @@
 ---
-title: "Understanding Bond Cost Basis (Algo Trading)"
-description: "Master bond investments by understanding cost basis calculation and algorithmic trading for smarter financial planning and improved return potential."
+category: quant_concept
+description: Master bond investments by understanding cost basis calculation and algorithmic
+  trading for smarter financial planning and improved return potential.
+title: Understanding Bond Cost Basis (Algo Trading)
 ---
 
 Investing in today's financial landscape requires a solid understanding of diverse strategies and metrics, which are fundamental in achieving financial objectives and maximizing returns. At the core of such understanding are concepts like financial planning, the calculation of cost basis in bonds, and the implementation of algorithmic trading.

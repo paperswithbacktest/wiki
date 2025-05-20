@@ -1,6 +1,9 @@
 ---
-title: "Trinomial Option Pricing Model (Algo Trading)"
-description: "Explore the benefits of the trinomial option pricing model and algorithmic trading in financial markets Learn how these methods enhance options pricing and trading efficiency"
+category: quant_concept
+description: Explore the benefits of the trinomial option pricing model and algorithmic
+  trading in financial markets Learn how these methods enhance options pricing and
+  trading efficiency
+title: Trinomial Option Pricing Model (Algo Trading)
 ---
 
 The financial markets constitute a multifaceted network of exchanges and instruments that cater to varied investment objectives. Among these instruments, options represent a vital category of financial derivatives used extensively for risk management and speculative strategies. By granting the holder the right — but not the obligation — to buy or sell an underlying asset at a predetermined price, options enable investors to hedge against market volatility or capitalize on price movements.
@@ -151,4 +154,3 @@ Cox, J. C., Ross, S. A., & Rubinstein, M. 'Option Pricing: A Simplified Approach
 Hull, J. C. 'Options, Futures, and Other Derivatives' is an essential textbook for finance students and professionals. It covers a broad array of derivative topics, offering rich insight into the structural and mathematical underpinnings of options, futures, and their derivative counterparts. The discussions on the interplay between theory and practice make it critical for understanding option pricing and trading strategies.
 
 Wilmott, P., Howison, S., & Dewynne, J. 'The Mathematics of Financial Derivatives: A Student Introduction' caters to the mathematical aspects concerning financial derivatives. This resource details the quantitative approaches employed in derivatives pricing and risk management, providing the mathematical foundation necessary for comprehending complex pricing models like the trinomial approach.
-

@@ -1,6 +1,9 @@
 ---
-title: "Trade Volume Index: Overview and Calculation (Algo Trading)"
-description: "Explore the Trade Volume Index an essential tool for understanding market trends through price and volume analysis helping traders refine strategies in algorithmic trading."
+category: quant_concept
+description: Explore the Trade Volume Index an essential tool for understanding market
+  trends through price and volume analysis helping traders refine strategies in algorithmic
+  trading.
+title: 'Trade Volume Index: Overview and Calculation (Algo Trading)'
 ---
 
 The financial markets depend significantly on various indicators to assess trading activity and market sentiment, with the Trade Volume Index (TVI) being one of the pivotal tools. The TVI provides critical insights into the flow of money in or out of securities, which is essential for understanding market behavior. By analyzing intraday price data, the TVI helps distinguish between accumulation and distribution phases, offering traders a clearer picture of market dynamics.

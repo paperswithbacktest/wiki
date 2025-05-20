@@ -1,6 +1,9 @@
 ---
-title: "Working Capital: Formula, Components, Limitations (Algo Trading)"
-description: "Explore the intricacies of working capital and algorithmic trading's impact on financial management and liquidity. Enhance strategies and business growth effectively."
+category: quant_concept
+description: Explore the intricacies of working capital and algorithmic trading's
+  impact on financial management and liquidity. Enhance strategies and business growth
+  effectively.
+title: 'Working Capital: Formula, Components, Limitations (Algo Trading)'
 ---
 
 Working capital is the difference between a company's current assets and current liabilities. It is a fundamental aspect of financial management as it represents the capital necessary for daily operations, ensuring that a company can meet its short-term obligations and sustain operational liquidity. A robust working capital position is vital for maintaining business continuity and operational efficiency, as it enables companies to manage cash flow, invest in opportunities, and buffer against unexpected financial challenges.

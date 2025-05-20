@@ -1,6 +1,8 @@
 ---
-title: "Side Pocketing: Functionality, Advantages, and Disadvantages (Algo Trading)"
-description: "Explore the impact of side pocketing and algorithmic trading in hedge funds Learn how these strategies manage risks and optimize investment returns"
+category: quant_concept
+description: Explore the impact of side pocketing and algorithmic trading in hedge
+  funds Learn how these strategies manage risks and optimize investment returns
+title: 'Side Pocketing: Functionality, Advantages, and Disadvantages (Algo Trading)'
 ---
 
 Hedge funds have established themselves as a prominent investment option for individuals and institutions aiming to achieve high returns while effectively managing risk. These private investment partnerships employ a wide array of strategies, distinguishing them from more traditional investment vehicles. The rise of algorithmic trading, which involves using computer software to execute trading strategies at high speed and with precision, has further contributed to the evolution of hedge funds by introducing innovative approaches to portfolio management.

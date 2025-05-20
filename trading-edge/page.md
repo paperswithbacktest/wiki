@@ -1,6 +1,14 @@
 ---
-title: "What is a Trading Edge? (Algo Trading)"
-description: Discover the essential concept of a trading edge in the context of algorithmic trading. A trading edge provides traders with a competitive advantage, enhancing win rates and optimizing entry and exit points. Explore how algorithmic trading leverages this edge through automation for precision and speed, minimizing human errors. Learn how to identify and maintain a trading edge, differentiate it from broader strategies, and utilize technology for backtesting and analysis. This article guides you in developing sustainable trading edges, adapting to market dynamics, and achieving success in the competitive trading landscape.
+category: quant_concept
+description: Discover the essential concept of a trading edge in the context of algorithmic
+  trading. A trading edge provides traders with a competitive advantage, enhancing
+  win rates and optimizing entry and exit points. Explore how algorithmic trading
+  leverages this edge through automation for precision and speed, minimizing human
+  errors. Learn how to identify and maintain a trading edge, differentiate it from
+  broader strategies, and utilize technology for backtesting and analysis. This article
+  guides you in developing sustainable trading edges, adapting to market dynamics,
+  and achieving success in the competitive trading landscape.
+title: What is a Trading Edge? (Algo Trading)
 ---
 
 In the world of trading, the concept of a 'trading edge' is crucial for success. A trading edge refers to any strategy, set-up, or insight that gives a trader a consistent probability advantage over other market participants. This advantage can manifest as higher win rates, superior risk-reward ratios, or more precise entry and exit points. To be effective, a trading edge must be clear, quantifiable, and systematic, allowing traders to exploit market inefficiencies repeatedly.

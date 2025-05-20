@@ -1,6 +1,9 @@
 ---
-title: "Static Spread: Meaning and Functionality (Algo Trading)"
-description: "Discover how understanding static and bond spreads enhances algorithmic trading by improving decision-making, optimizing trade execution, and increasing profitability."
+category: quant_concept
+description: Discover how understanding static and bond spreads enhances algorithmic
+  trading by improving decision-making, optimizing trade execution, and increasing
+  profitability.
+title: 'Static Spread: Meaning and Functionality (Algo Trading)'
 ---
 
 In today's rapidly evolving financial landscape, understanding static spread, bond spread, and their analysis is crucial for effective algorithmic trading. Algorithmic trading, which relies on quantitative techniques and automated execution of trading strategies, benefits immensely from a detailed analysis of these financial concepts. Static spread, also known as zero-volatility spread, provides a more comprehensive measure of a bond's yield spread over the risk-free yield curve by taking into account the entire yield curve, rather than relying on a single point. This precision is essential for accurate bond pricing, particularly in complex financial instruments such as bonds with embedded options or credit default swaps.

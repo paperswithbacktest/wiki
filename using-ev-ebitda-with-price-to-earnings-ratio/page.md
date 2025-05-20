@@ -1,6 +1,8 @@
 ---
-title: "Using EV/EBITDA With the Price-to-Earnings Ratio (Algo Trading)"
-description: "Unlock the power of financial metrics with insights into PE and EV/EBITDA ratios Learn how these tools drive investment strategies and algo trading success"
+category: trading_strategy
+description: Unlock the power of financial metrics with insights into PE and EV/EBITDA
+  ratios Learn how these tools drive investment strategies and algo trading success
+title: Using EV/EBITDA With the Price-to-Earnings Ratio (Algo Trading)
 ---
 
 The world of investing is abundant with financial metrics designed to help investors assess company value. Among the most significant are the Price-to-Earnings (P/E) ratio and the EV/EBITDA ratio. These ratios offer deep insights into a company's financial health and its potential as an investment. The P/E ratio provides a snapshot of what the market is willing to pay today for a stock, based on its past or future earnings. This metric serves as a barometer of market sentiment, reflecting expectations of growth and risk. Meanwhile, the EV/EBITDA ratio goes deeper, comparing a company's enterprise value to its earnings before interest, taxes, depreciation, and amortization. It offers a clearer picture of operational profitability, providing investors with a comprehensive assessment that considers the company's debt.

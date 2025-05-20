@@ -1,6 +1,13 @@
 ---
-title: "Short Squeeze Trading Strategy Explained (Algo Trading)"
-description: Explore the intricacies of short squeeze trading strategies within algorithmic trading. Discover how short squeezes occur, their impact on stock prices, and their significance for algorithmic traders. Gain insights into the mechanisms, historical examples, and the role of algo trading systems in navigating these rapid market events. Learn how factors like short interest ratio, trading volume, and broker actions influence the duration of a short squeeze, and understand how to refine trading strategies to effectively respond to market anomalies and volatility.
+category: trading_strategy
+description: Explore the intricacies of short squeeze trading strategies within algorithmic
+  trading. Discover how short squeezes occur, their impact on stock prices, and their
+  significance for algorithmic traders. Gain insights into the mechanisms, historical
+  examples, and the role of algo trading systems in navigating these rapid market
+  events. Learn how factors like short interest ratio, trading volume, and broker
+  actions influence the duration of a short squeeze, and understand how to refine
+  trading strategies to effectively respond to market anomalies and volatility.
+title: Short Squeeze Trading Strategy Explained (Algo Trading)
 ---
 
 In algorithmic trading, short squeezes represent a complex yet intriguing phenomenon. A short squeeze occurs when a stock's price begins to rise unexpectedly, forcing traders who have bet against the stock, known as short sellers, to buy shares to cover their positions. This buying activity can exponentially increase the stock price, creating a cycle that may catch even experienced traders off guard. The dynamics of short squeezes are particularly relevant in algorithmic trading, where automated systems execute trades based on pre-defined criteria without human intervention.

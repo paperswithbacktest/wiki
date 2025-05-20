@@ -1,7 +1,8 @@
 ---
-title: Understanding Sequential Blocks in Machine Learning Models
+category: quant_concept
 description: Sequential Blocks streamline model development by stacking layers for
   effective feature learning in neural networks for scalable use Discover more inside
+title: Understanding Sequential Blocks in Machine Learning Models
 ---
 
 ![Image](images/1.png)

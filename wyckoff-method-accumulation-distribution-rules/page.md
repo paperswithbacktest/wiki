@@ -1,6 +1,8 @@
 ---
-title: "Wyckoff Method: Accumulation and Distribution Rules (Algo Trading)"
-description: "Explore the Wyckoff Method for insights into accumulation and distribution phases. Enhance your trading strategy by understanding market cycles and price trends."
+category: trading_strategy
+description: Explore the Wyckoff Method for insights into accumulation and distribution
+  phases. Enhance your trading strategy by understanding market cycles and price trends.
+title: 'Wyckoff Method: Accumulation and Distribution Rules (Algo Trading)'
 ---
 
 The Wyckoff Method, developed by Richard D. Wyckoff in the early 20th century, is a robust framework for technical analysis in financial markets. This method offers valuable insights into the mechanics of market cycles, making it a compelling tool for investors aiming to make informed decisions. At its core, the Wyckoff Method seeks to demystify how and why prices move in specific patterns over time, offering a systematic approach to understanding the market's underlying dynamics.

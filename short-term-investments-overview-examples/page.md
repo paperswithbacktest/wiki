@@ -1,6 +1,8 @@
 ---
-title: "Short-Term Investments: Overview and Examples (Algo Trading)"
-description: "Explore the benefits of short-term investments and algorithmic trading to enhance your portfolio with strategies that boost liquidity and optimize returns."
+category: trading_strategy
+description: Explore the benefits of short-term investments and algorithmic trading
+  to enhance your portfolio with strategies that boost liquidity and optimize returns.
+title: 'Short-Term Investments: Overview and Examples (Algo Trading)'
 ---
 
 Investing plays a vital role in financial planning, providing both individuals and businesses with the means to grow wealth, preserve capital, and achieve specific financial goals. An understanding of different investment strategies is crucial to navigating today's dynamic financial landscape. Among these strategies, short-term investments stand out for their ability to offer unique opportunities and challenges. These investment vehicles are particularly attractive in rapidly evolving financial markets as they allow investors to capitalize on brief market movements and maintain liquidity. Short-term investments are generally aimed at generating returns within a period of a few months to five years, distinguishing them from long-term investments that typically focus on growth over extended periods.

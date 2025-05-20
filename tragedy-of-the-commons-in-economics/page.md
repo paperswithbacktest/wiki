@@ -1,6 +1,9 @@
 ---
-title: "Tragedy of the Commons in Economics (Algo Trading)"
-description: "Explore the interplay between the Tragedy of the Commons and algo trading in financial markets, highlighting challenges in achieving sustainable resource allocation."
+category: quant_concept
+description: Explore the interplay between the Tragedy of the Commons and algo trading
+  in financial markets, highlighting challenges in achieving sustainable resource
+  allocation.
+title: Tragedy of the Commons in Economics (Algo Trading)
 ---
 
 Resource allocation in economics often challenges the equilibrium between efficiency and sustainability, a particularly significant issue when dealing with shared resources. This juxtaposition is captured by the concept of the "Tragedy of the Commons," an economic theory first articulated by Garrett Hardin in 1968. It describes scenarios where individual users, acting independently according to their self-interest, deplete shared resources, ultimately to the detriment of the entire group. This phenomenon is not confined to ecological resources like fisheries or forests; it extends to various domains, highlighting the relentless tension between individual incentives and collective wellbeing.

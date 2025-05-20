@@ -1,6 +1,13 @@
 ---
-title: "US Stock Market Data (Algo Trading)"
-description: Discover how algorithmic trading is transforming U.S. stock market operations through the use of automated computer algorithms. Access to real-time and historical stock market data is crucial for executing trades effectively, aiding in the prediction of market behavior and optimizing trading strategies. Explore the importance of various data types, such as real-time, historical, and corporate actions, in enhancing algorithmic trading strategies and learn how professional traders leverage these insights to stay competitive in an ever-evolving market landscape.
+category: dataset
+description: Discover how algorithmic trading is transforming U.S. stock market operations
+  through the use of automated computer algorithms. Access to real-time and historical
+  stock market data is crucial for executing trades effectively, aiding in the prediction
+  of market behavior and optimizing trading strategies. Explore the importance of
+  various data types, such as real-time, historical, and corporate actions, in enhancing
+  algorithmic trading strategies and learn how professional traders leverage these
+  insights to stay competitive in an ever-evolving market landscape.
+title: US Stock Market Data (Algo Trading)
 ---
 
 Algorithmic trading has fundamentally reshaped trade execution in the US stock market by utilizing computer algorithms to automate trading decisions and operations. This shift has been facilitated by rapid technological advancements, which have significantly increased the need for access to both real-time and historical US stock market data. This data is essential for executing trades effectively, as it allows traders to make informed and timely decisions based on market conditions and trends.

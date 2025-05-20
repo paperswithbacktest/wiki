@@ -1,7 +1,8 @@
 ---
-title: Understanding Unidirectional Language Models in Machine Learning
+category: quant_concept
 description: Unidirectional language models predict the next word using past context
   for faster autocomplete search and translation features Discover more inside
+title: Understanding Unidirectional Language Models in Machine Learning
 ---
 
 ![Image](images/1.png)

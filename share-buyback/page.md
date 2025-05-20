@@ -1,6 +1,12 @@
 ---
-title: "Share Buyback (Algo Trading)"
-description: "Explore the strategic world of stock repurchases and share buybacks in this comprehensive article that investigates into how companies enhance shareholder value and optimize financial performance. Understand the role of algorithmic trading in executing buyback programs with precision. Discover the implications of buybacks on corporate health and gain insights into strategies used by giants like Apple and Microsoft to inform market confidence and shareholder outcomes."
+category: trading_strategy
+description: Explore the strategic world of stock repurchases and share buybacks in
+  this comprehensive article that investigates into how companies enhance shareholder
+  value and optimize financial performance. Understand the role of algorithmic trading
+  in executing buyback programs with precision. Discover the implications of buybacks
+  on corporate health and gain insights into strategies used by giants like Apple
+  and Microsoft to inform market confidence and shareholder outcomes.
+title: Share Buyback (Algo Trading)
 ---
 
 Stock repurchase, commonly referred to as share buyback, is a strategic financial maneuver wherein a company buys back its own shares from the market. This action can significantly affect a company's stock value as well as influence managerial strategies. By reducing the number of shares available in the market, buybacks can lead to an increase in earnings per share (EPS), potentially boosting the company's stock price. Furthermore, buybacks may signal to the market that the company's management believes the shares are undervalued, thus enhancing investor confidence.

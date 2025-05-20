@@ -1,6 +1,9 @@
 ---
-title: "Stress Testing and Value at Risk Analysis (Algo Trading)"
-description: "Explore how Value at Risk and stress testing work together in algorithmic trading to enhance risk management by estimating potential losses and preparing for market extremes."
+category: quant_concept
+description: Explore how Value at Risk and stress testing work together in algorithmic
+  trading to enhance risk management by estimating potential losses and preparing
+  for market extremes.
+title: Stress Testing and Value at Risk Analysis (Algo Trading)
 ---
 
 In today's fast-paced financial markets, effective risk management is crucial for both institutional and individual investors. The volatility and unpredictability inherent in financial markets necessitate robust strategies to safeguard investments and ensure long-term stability. Two pivotal tools employed in assessing financial risks are Value at Risk (VaR) and stress testing. VaR offers a statistical measure that helps investors estimate potential losses within a portfolio over a specified period and confidence level, providing a quantitative basis for understanding risk exposure. However, while VaR is valuable for day-to-day risk assessment, it has limitations, particularly in predicting extreme market conditions.

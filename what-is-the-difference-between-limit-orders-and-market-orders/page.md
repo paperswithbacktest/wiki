@@ -1,6 +1,10 @@
 ---
-title: "What is the difference between limit orders and market orders?"
-description: "Discover the key differences between limit orders and market orders in financial markets. Learn how each type functions, their benefits, and when to use them. Make informed decisions for your trading strategies. Explore related resources on systematic trading."
+category: quant_concept
+description: Discover the key differences between limit orders and market orders in
+  financial markets. Learn how each type functions, their benefits, and when to use
+  them. Make informed decisions for your trading strategies. Explore related resources
+  on systematic trading.
+title: What is the difference between limit orders and market orders?
 ---
 
 Understanding the different types of orders is crucial for anyone involved in trading. Whether you're an experienced investor or just starting out, grasping the nuances between order types can significantly influence the success of your investments. The two most common order types that traders frequently encounter are limit orders and market orders, each serving distinct purposes in the financial markets. 

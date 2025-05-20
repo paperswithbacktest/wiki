@@ -1,6 +1,8 @@
 ---
-title: "Sunset Provisions and Their Impact on Investment (Algo Trading)"
-description: "Explore how sunset provisions and algorithmic trading impact investments Learn to navigate regulatory changes and leverage technology for strategic gains"
+category: quant_concept
+description: Explore how sunset provisions and algorithmic trading impact investments
+  Learn to navigate regulatory changes and leverage technology for strategic gains
+title: Sunset Provisions and Their Impact on Investment (Algo Trading)
 ---
 
 As the financial landscape continues to evolve, crafting a well-rounded investment strategy and financial plan is crucial for long-term success. The complexity and variability inherent in modern financial markets demand a robust understanding of various financial concepts. Notably, two pivotal components that investors must grasp are sunset provisions and algorithmic trading. 

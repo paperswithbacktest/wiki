@@ -1,6 +1,8 @@
 ---
-title: "Vanguard Mid Cap Index Fund Overview (Algo Trading)"
-description: "Explore the Vanguard Mid Cap Index Fund which combines growth potential with cost-effective investing through algorithmic trading for optimal performance."
+category: quant_concept
+description: Explore the Vanguard Mid Cap Index Fund which combines growth potential
+  with cost-effective investing through algorithmic trading for optimal performance.
+title: Vanguard Mid Cap Index Fund Overview (Algo Trading)
 ---
 
 The world of investing offers a myriad of options, each with its own unique benefits. Among these, the Vanguard Mid Cap Index Fund stands out for those looking to invest in medium-sized companies. This fund provides an opportunity to diversify portfolios while leveraging the growth potential of mid-cap stocks, which are typically companies with market capitalizations between $2 billion and $10 billion. Mid-cap companies often represent a sweet spot in the investment landscape, offering more growth potential than large-cap stocks but with less risk than small-cap stocks.

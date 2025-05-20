@@ -1,6 +1,12 @@
 ---
-title: "Stakeholders: Types and Examples (Algo Trading)"
-description: "Explore the vital roles and influences of diverse stakeholders in algorithmic trading. From institutional investors optimizing trading strategies to regulatory bodies ensuring market integrity, understanding these entities is key. Engaging effectively with stakeholders enhances strategy development, risk management, and overall performance. Discover how different participants impact and shape the algo trading ecosystem for smarter trading practices and sustained success."
+category: quant_concept
+description: Explore the vital roles and influences of diverse stakeholders in algorithmic
+  trading. From institutional investors optimizing trading strategies to regulatory
+  bodies ensuring market integrity, understanding these entities is key. Engaging
+  effectively with stakeholders enhances strategy development, risk management, and
+  overall performance. Discover how different participants impact and shape the algo
+  trading ecosystem for smarter trading practices and sustained success.
+title: 'Stakeholders: Types and Examples (Algo Trading)'
 ---
 
 In algorithmic trading, understanding the roles and influences of various stakeholders is crucial. Algorithmic trading relies on pre-programmed trading instructions to execute orders faster and more efficiently than human traders, making it essential to identify and understand the stakeholders involved. These stakeholders range from institutional investors, who deploy vast resources to optimize trading strategies, to regulatory bodies that ensure market integrity and transparency.

@@ -1,6 +1,8 @@
 ---
-title: "Technical Tools for Enhancing Trading Performance (Algo Trading)"
-description: "Explore how algorithmic and technical trading tools can boost performance in financial markets by enabling data-driven, precise trading strategies."
+category: trading_strategy
+description: Explore how algorithmic and technical trading tools can boost performance
+  in financial markets by enabling data-driven, precise trading strategies.
+title: Technical Tools for Enhancing Trading Performance (Algo Trading)
 ---
 
 In modern financial markets, trading tools have become indispensable for both individual and institutional traders. These tools are vital in navigating the complexities of today's fast-paced financial environments, where the ability to swiftly adapt to market changes can mean the difference between profit and loss.

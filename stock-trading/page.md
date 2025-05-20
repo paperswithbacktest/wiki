@@ -1,6 +1,8 @@
 ---
-title: "Stock Trading (Algo Trading)"
-description: "Navigate the complex world of investing with insights into stock and algorithmic trading Learn strategies for success in today's dynamic financial markets"
+category: quant_concept
+description: Navigate the complex world of investing with insights into stock and
+  algorithmic trading Learn strategies for success in today's dynamic financial markets
+title: Stock Trading (Algo Trading)
 ---
 
 In an ever-evolving financial landscape, understanding the dynamics of investing offers significant advantages in cultivating personal wealth. Whether experienced or new to investing, grasping the essentials of financial markets, stock trading, and algorithmic trading is essential for anyone looking to navigate today's financial markets successfully. This article aims to guide you through the complex world of investing by exploring key concepts and strategies prevalent in financial markets. Moreover, it highlights the transformative role of technology in revolutionizing stock trading practices.

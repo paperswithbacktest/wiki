@@ -1,6 +1,9 @@
 ---
-title: "Wasabi Wallet: 2024 Review (Algo Trading)"
-description: "Discover how Wasabi Wallet enhances privacy for cryptocurrency transactions and supports algorithmic trading in 2024 with advanced features like CoinJoin and Tor."
+category: quant_concept
+description: Discover how Wasabi Wallet enhances privacy for cryptocurrency transactions
+  and supports algorithmic trading in 2024 with advanced features like CoinJoin and
+  Tor.
+title: 'Wasabi Wallet: 2024 Review (Algo Trading)'
 ---
 
 The landscape of cryptocurrency privacy is undergoing significant transformations as digital currencies increasingly become integral to the global financial ecosystem. The heightened emphasis on privacy and security reflects growing concerns over data breaches, surveillance, and the need for transactional anonymity. Wasabi Wallet has emerged as a key player in addressing these issues, offering robust privacy solutions tailored for cryptocurrency users. Established as a non-custodial, open-source Bitcoin wallet, Wasabi aims to provide users with enhanced privacy by leveraging sophisticated cryptographic techniques.

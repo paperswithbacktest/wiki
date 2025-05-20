@@ -1,6 +1,8 @@
 ---
-title: "State Street R-Factor: Overview and Functionality (Algo Trading)"
-description: "Explore State Street's R-Factor system designed to assess and influence algorithmic trading with ESG criteria enhancing responsible investing strategies."
+category: dataset
+description: Explore State Street's R-Factor system designed to assess and influence
+  algorithmic trading with ESG criteria enhancing responsible investing strategies.
+title: 'State Street R-Factor: Overview and Functionality (Algo Trading)'
 ---
 
 The increasing appetite for sustainable investing has thrust Environmental, Social, and Governance (ESG) criteria into a central role within the financial sector. ESG metrics assess a company's commitment to responsible practices across various dimensions: environmental impacts, social responsibilities, and governance structures. Among the tools developed to evaluate these dimensions, the State Street R-Factor stands out as a notable system.

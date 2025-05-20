@@ -1,6 +1,8 @@
 ---
-title: "Trading Strategies for Double Tops and Double Bottoms (Algo Trading)"
-description: "Discover how double tops and bottoms enhance algo trading by automating pattern recognition to optimize trade entries and exits in volatile markets."
+category: trading_strategy
+description: Discover how double tops and bottoms enhance algo trading by automating
+  pattern recognition to optimize trade entries and exits in volatile markets.
+title: Trading Strategies for Double Tops and Double Bottoms (Algo Trading)
 ---
 
 Double tops and double bottoms are essential concepts in technical analysis, representing significant patterns that occur in financial markets. A double top typically indicates a possible reversal during an upward trend, forming when the price reaches a high point, declines, and then ascends to a similar high before falling again. Conversely, a double bottom suggests a reversal in a downward trend, characterized by two comparable lows with a moderate rise in between. Technical analysts rely on these patterns to predict potential movements and identify entry and exit points in trading.

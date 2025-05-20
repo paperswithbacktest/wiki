@@ -1,6 +1,8 @@
 ---
-title: "Vulnerabilities in Cryptocurrency Security (Algo Trading)"
-description: "Explore the vulnerabilities in cryptocurrency security and algorithmic trading Discover potential threats and security measures to safeguard digital assets."
+category: quant_concept
+description: Explore the vulnerabilities in cryptocurrency security and algorithmic
+  trading Discover potential threats and security measures to safeguard digital assets.
+title: Vulnerabilities in Cryptocurrency Security (Algo Trading)
 ---
 
 Blockchain technology has emerged as a fundamental framework underpinning cryptocurrencies by providing a decentralized ledger mechanism that ensures secure transaction records. This technology's critical role lies in its ability to maintain the integrity and transparency of cryptocurrency transactions. Blockchain operates through a distributed network where each participant, known as a node, holds a copy of the entire transaction history. This decentralized approach inherently reduces the risk of centralized manipulation or fraudulent alterations to the transaction records.

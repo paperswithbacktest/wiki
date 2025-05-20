@@ -1,6 +1,8 @@
 ---
-title: "TGS Management Company (Algo Trading)"
-description: "Explore TGS Management Company a leader in algorithmic trading known for pioneering sophisticated strategies enhancing efficiency and innovation globally."
+category: quant_concept
+description: Explore TGS Management Company a leader in algorithmic trading known
+  for pioneering sophisticated strategies enhancing efficiency and innovation globally.
+title: TGS Management Company (Algo Trading)
 ---
 
 Algorithmic trading refers to the use of computer algorithms to automate investment strategies across financial markets. By replacing human decision-making, these systems aim to execute complex trades at speeds and volumes beyond human capability, utilizing pre-set conditions, mathematical models, and historical data analysis. Algorithmic trading is significant in modern financial markets due to its potential for increasing both the efficiency and accuracy of trade executions. It plays a pivotal role in enhancing market liquidity and ensuring tighter spreads, thus benefiting all market participants.

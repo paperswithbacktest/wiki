@@ -1,6 +1,8 @@
 ---
-title: "Upstream Sector in the Oil and Gas Industry (Algo Trading)"
-description: "Explore the upstream sector of the oil and gas industry focusing on the role of algorithmic trading in enhancing exploration, production, and profitability."
+category: quant_concept
+description: Explore the upstream sector of the oil and gas industry focusing on the
+  role of algorithmic trading in enhancing exploration, production, and profitability.
+title: Upstream Sector in the Oil and Gas Industry (Algo Trading)
 ---
 
 The oil and gas industry is an intricate and indispensable component of the global economy, playing a crucial role in energy supply, economic stability, and national security. This comprehensive industry is divided into three main sectors: upstream, midstream, and downstream operations. Each sector serves a unique purpose in the exploration, transportation, and refining of oil and gas resources.

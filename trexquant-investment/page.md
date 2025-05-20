@@ -1,6 +1,8 @@
 ---
-title: "Trexquant Investment (Algo Trading)"
-description: "Explore Trexquant Investment's innovative algorithmic trading strategies that combine advanced technology and data to optimize financial market operations."
+category: trading_strategy
+description: Explore Trexquant Investment's innovative algorithmic trading strategies
+  that combine advanced technology and data to optimize financial market operations.
+title: Trexquant Investment (Algo Trading)
 ---
 
 Trexquant Investment is a prominent player in the financial sector, recognized for its innovative approach to algorithmic trading. In a landscape characterized by rapid technological advancements and data-driven decision-making, Trexquant distinguishes itself by leveraging sophisticated algorithms to optimize trading operations. The firm employs quantitative strategies that integrate financial data and cutting-edge technology to execute trades with precision and speed, fundamentally transforming traditional trading paradigms.

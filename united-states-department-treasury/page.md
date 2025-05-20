@@ -1,6 +1,8 @@
 ---
-title: "United States Department of the Treasury (Algo Trading)"
-description: "Explore how the U.S. Department of the Treasury employs innovative practices like algorithmic trading to enhance financial stability and manage national resources."
+category: quant_concept
+description: Explore how the U.S. Department of the Treasury employs innovative practices
+  like algorithmic trading to enhance financial stability and manage national resources.
+title: United States Department of the Treasury (Algo Trading)
 ---
 
 The U.S. Department of the Treasury plays a pivotal role in managing the financial and economic stability of the United States. Established by Congress in 1789, the Treasury Department has been instrumental in formulating policies that foster economic growth and ensure financial security. Over the years, it has expanded its responsibilities to include a vast array of functions critical to the nation's financial well-being.

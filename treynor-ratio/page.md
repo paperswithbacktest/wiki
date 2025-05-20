@@ -1,6 +1,10 @@
 ---
-title: "Treynor Ratio Explained (Algo Trading)"
-description: Explore the role of the Treynor Ratio in algorithmic trading and understand its importance in evaluating risk-adjusted portfolio performance. Learn what a negative Treynor Ratio indicates and discover strategies for addressing challenges in automated trading systems to ensure effective risk management and strategic alignment.
+category: quant_concept
+description: Explore the role of the Treynor Ratio in algorithmic trading and understand
+  its importance in evaluating risk-adjusted portfolio performance. Learn what a negative
+  Treynor Ratio indicates and discover strategies for addressing challenges in automated
+  trading systems to ensure effective risk management and strategic alignment.
+title: Treynor Ratio Explained (Algo Trading)
 ---
 
 Algorithmic trading has transformed financial markets by enabling traders to leverage pre-defined rules and sophisticated algorithms for decision-making. This shift necessitates efficient performance metrics to evaluate strategy effectiveness. The Treynor Ratio stands as a pivotal metric in this domain, assessing the risk-adjusted performance of investment portfolios. This ratio measures the returns earned above the risk-free rate relative to the market risk, encapsulated by beta. In mathematical terms, it is expressed as:

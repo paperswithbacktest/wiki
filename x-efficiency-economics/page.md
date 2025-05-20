@@ -1,6 +1,9 @@
 ---
-title: "X-Efficiency in Economics (Algo Trading)"
-description: "Explore X-efficiency in economics and its crucial role in highlighting inefficiencies in firms, especially concerning algorithmic trading and competitive markets."
+category: quant_concept
+description: Explore X-efficiency in economics and its crucial role in highlighting
+  inefficiencies in firms, especially concerning algorithmic trading and competitive
+  markets.
+title: X-Efficiency in Economics (Algo Trading)
 ---
 
 This article explores the concept of X-efficiency, a crucial economic theory initially introduced by economist Harvey Leibenstein. It challenges traditional assumptions about firm behavior and efficiency within economics. Traditionally, economic theories have presumed that firms operate under conditions of perfect rationality and efficiency. However, Leibenstein's concept of X-efficiency suggests that firms often fail to utilize resources optimally, especially in markets with imperfect competition.

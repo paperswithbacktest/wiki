@@ -1,7 +1,8 @@
 ---
-title: Effective Staged Training Techniques in Machine Learning
+category: quant_concept
 description: Staged training in machine learning divides learning into phases to boost
   performance and efficiency with stepwise monitoring Discover more inside
+title: Effective Staged Training Techniques in Machine Learning
 ---
 
 ![Image](images/1.png)

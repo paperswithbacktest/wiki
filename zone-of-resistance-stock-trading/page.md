@@ -1,6 +1,9 @@
 ---
-title: "Zone of Resistance in Stock Trading (Algo Trading)"
-description: "Explore key strategies and tools to identify resistance zones in stock trading, crucial for predicting price movements and enhancing algorithmic trading success."
+category: trading_strategy
+description: Explore key strategies and tools to identify resistance zones in stock
+  trading, crucial for predicting price movements and enhancing algorithmic trading
+  success.
+title: Zone of Resistance in Stock Trading (Algo Trading)
 ---
 
 In the complex world of stock markets, understanding key technical analysis concepts such as zones of resistance and support is crucial for making informed trading decisions. These concepts form the foundation of technical analysis, helping traders predict price movements and determine optimal entry and exit points for their trades. Stock market zones, characterized by specific price ranges, serve as battlegrounds where the forces of demand and supply clash, shaping the market's direction.

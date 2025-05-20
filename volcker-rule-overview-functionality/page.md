@@ -1,6 +1,9 @@
 ---
-title: "Volcker Rule: Overview and Functionality (Algo Trading)"
-description: "The Volcker Rule reshapes banking by restricting proprietary trading and high-risk investments to enhance stability reduce systemic risk and protect consumers."
+category: quant_concept
+description: The Volcker Rule reshapes banking by restricting proprietary trading
+  and high-risk investments to enhance stability reduce systemic risk and protect
+  consumers.
+title: 'Volcker Rule: Overview and Functionality (Algo Trading)'
 ---
 
 The financial world has witnessed significant reforms over the past decades, aimed at enhancing stability and protecting consumers. Among these reforms, the Volcker Rule has emerged as a pivotal regulation, fundamentally reshaping the landscape of banking activities. Named after Paul Volcker, who served as Chair of the Federal Reserve from 1979 to 1987, the Volcker Rule was introduced as an integral part of the Dodd-Frank Wall Street Reform and Consumer Protection Act enacted in response to the financial crisis of 2007-2008. This regulatory measure was designed to prevent the kinds of excessive risk-taking behaviors that contributed to the crisis, particularly those involving speculative trading practices.

@@ -1,6 +1,9 @@
 ---
-title: "Stock Exchange of Thailand (Algo Trading)"
-description: "Explore the impact of algorithmic trading on the Stock Exchange of Thailand with insights into its advantages challenges and regulatory frameworks shaping its future."
+category: quant_concept
+description: Explore the impact of algorithmic trading on the Stock Exchange of Thailand
+  with insights into its advantages challenges and regulatory frameworks shaping its
+  future.
+title: Stock Exchange of Thailand (Algo Trading)
 ---
 
 The Stock Exchange of Thailand (SET), established in 1975, serves as the principal securities trading platform in Thailand. It plays a crucial role in the country's economic growth by facilitating capital mobilization, which aids in industrialization and overall economic expansion. Over the years, SET has become an integral component of Thailand's financial infrastructure, aiding in the development and stabilization of the national economy by providing a platform for companies to raise capital and for investors to participate in the financial markets.

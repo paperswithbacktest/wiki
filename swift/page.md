@@ -1,6 +1,11 @@
 ---
-title: "SWIFT (Algo Trading)"
-description: Discover the power of SWIFT in enhancing algorithmic trading with secure, standardized communication. This leading financial network connects over 11,000 institutions globally, ensuring rapid and accurate trade execution. Enhance your trading efficiency and reduce costs by integrating SWIFT's robust infrastructure with your algorithmic systems for seamless, reliable cross-border transactions.
+category: quant_concept
+description: Discover the power of SWIFT in enhancing algorithmic trading with secure,
+  standardized communication. This leading financial network connects over 11,000
+  institutions globally, ensuring rapid and accurate trade execution. Enhance your
+  trading efficiency and reduce costs by integrating SWIFT's robust infrastructure
+  with your algorithmic systems for seamless, reliable cross-border transactions.
+title: SWIFT (Algo Trading)
 ---
 
 In financial trading, speed and accuracy are critical components that often dictate success. The advent of algorithmic trading has significantly transformed the financial sector by enabling the rapid decision-making and execution of trades. By leveraging complex algorithms, vast datasets, and market indicators, algorithmic trading systems can perform thousands of trades within seconds, something human traders could never achieve manually. This level of efficiency not only enhances profitability but also reduces the costs typically associated with slower, manual trading processes.

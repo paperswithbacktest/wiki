@@ -1,6 +1,9 @@
 ---
-title: "Somali Shilling (Algo Trading)"
-description: "Explore the significance of the Somali Shilling in Somalia's economy amid socio-political challenges and discover potential benefits of algorithmic trading with SOS."
+category: quant_concept
+description: Explore the significance of the Somali Shilling in Somalia's economy
+  amid socio-political challenges and discover potential benefits of algorithmic trading
+  with SOS.
+title: Somali Shilling (Algo Trading)
 ---
 
 The Somali Shilling, denoted by the currency code SOS, stands as the official currency of Somalia, a nation that navigates a complex socio-political landscape. Despite these challenges, the SOS remains a fundamental element of the country's economy. The shilling provides a lifeline for everyday transactions and is pivotal in sustaining commerce within this largely cash-dependent economy.
@@ -146,4 +149,4 @@ Overall, while challenges persist, the Somali Shilling's significance to the nat
 
 [4]: Tsang, E. P. K. (2013). ["Computational Intelligence: Modelling, Learning and Trading in Financial Markets."](https://www.bracil.net/edward/Home.html) World Scientific Publishing Company.  
 
-[5]: Johnson, B. (2010). ["Algorithmic Trading & DMA: An Introduction to Direct Access Trading Strategies."](https://archive.org/details/algorithmictradi0000john) 4Myeloma Press.  
+[5]: Johnson, B. (2010). ["Algorithmic Trading & DMA: An Introduction to Direct Access Trading Strategies."](https://archive.org/details/algorithmictradi0000john) 4Myeloma Press.

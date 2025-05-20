@@ -1,6 +1,9 @@
 ---
-title: "Socialist Economy: Theory and Practice (Algo Trading)"
-description: "Explore the integration of algorithmic trading within socialist economies its impact on economic growth and equality highlighting contrasts with capitalist systems."
+category: quant_concept
+description: Explore the integration of algorithmic trading within socialist economies
+  its impact on economic growth and equality highlighting contrasts with capitalist
+  systems.
+title: 'Socialist Economy: Theory and Practice (Algo Trading)'
 ---
 
 Economic systems play a pivotal role in shaping the structure of societies by determining how resources are allocated, goods and services are produced, and wealth is distributed. Two predominant economic paradigms—capitalism and socialism—offer contrasting approaches to these fundamental economic activities.

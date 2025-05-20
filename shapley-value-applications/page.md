@@ -1,6 +1,8 @@
 ---
-title: "Shapley Value and Its Applications (Algo Trading)"
-description: "Explore the Shapley value's role in cooperative game theory and its impact on algorithmic trading for fair distribution of gains among coalition members."
+category: quant_concept
+description: Explore the Shapley value's role in cooperative game theory and its impact
+  on algorithmic trading for fair distribution of gains among coalition members.
+title: Shapley Value and Its Applications (Algo Trading)
 ---
 
 Game theory is a fundamental tool used in the analysis of strategic interactions and decision-making frameworks within cooperative environments. One of the most intriguing concepts derived from cooperative game theory is the Shapley value, which serves as a benchmark for fair distribution of gains and costs among participants in a coalition. This principle has significant implications across various fields, notably in algorithmic trading, where strategic cooperation and equitable value distribution are crucial for optimizing financial returns.

@@ -1,6 +1,9 @@
 ---
-title: "Tirone Levels and Their Function (Algo Trading)"
-description: "Explore the fundamentals of Tirone Levels in algorithmic trading, uncovering how these unique indicators identify key support and resistance areas for optimal decision-making."
+category: trading_strategy
+description: Explore the fundamentals of Tirone Levels in algorithmic trading, uncovering
+  how these unique indicators identify key support and resistance areas for optimal
+  decision-making.
+title: Tirone Levels and Their Function (Algo Trading)
 ---
 
 In the ever-evolving landscape of financial markets, technical analysis remains a mainstay for traders seeking to predict price movements. Among the various tools available, Tirone Levels are a lesser-known but effective technical analysis indicator developed by John Tirone. These levels serve as a method to identify significant areas of support and resistance, aiding traders in making more informed decisions.
@@ -126,4 +129,4 @@ Despite their lower popularity, the unique analytical framework Tirone Levels pr
 
 [4]: ["Advances in Financial Machine Learning"](https://www.amazon.com/Advances-Financial-Machine-Learning-Marcos/dp/1119482089) by Marcos Lopez de Prado
 
-[5]: R. Colby, "The Encyclopedia of Technical Market Indicators," 2nd Edition (2003), McGraw-Hill. 
+[5]: R. Colby, "The Encyclopedia of Technical Market Indicators," 2nd Edition (2003), McGraw-Hill.

@@ -1,6 +1,9 @@
 ---
-title: "Stock Loan Rebate Mechanism and Examples (Algo Trading)"
-description: "Explore the mechanics of stock loan rebates in algorithmic trading and understand their impact on market dynamics and investor strategies in financial markets."
+category: quant_concept
+description: Explore the mechanics of stock loan rebates in algorithmic trading and
+  understand their impact on market dynamics and investor strategies in financial
+  markets.
+title: Stock Loan Rebate Mechanism and Examples (Algo Trading)
 ---
 
 Financial markets are structured systems that facilitate the exchange of financial instruments, including stocks, bonds, currencies, and derivatives. They are pivotal to the global economy as they provide platforms for raising capital, enabling investment, and allowing risk management through various financial products. Financial markets play a crucial role in resource allocation, price discovery, and maintaining liquidity, influencing economic growth and stability across the world [1].

@@ -1,6 +1,8 @@
 ---
-title: "World Fund (Algo Trading)"
-description: "Explore the dynamic world of global finance with insights into international investment, world funds, and algorithmic trading for optimal economic growth."
+category: trading_strategy
+description: Explore the dynamic world of global finance with insights into international
+  investment, world funds, and algorithmic trading for optimal economic growth.
+title: World Fund (Algo Trading)
 ---
 
 Global finance plays a critical role in shaping the economic landscape of our interconnected world. It encompasses a diverse range of fields, notably international investment, world funds, and algorithmic trading. These components function collectively to facilitate the flow of capital across borders, enabling markets to function efficiently and promoting economic growth and stability.

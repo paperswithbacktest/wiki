@@ -1,6 +1,11 @@
 ---
-title: "Stock Exchange Daily Official List (Algo Trading)"
-description: "Explore the transformative power of SEDOL in UK financial markets and its crucial role in algorithmic trading. Learn how this unique identifier enhances efficiency and reduces errors by facilitating accurate and seamless communication across trading platforms. Understand SEDOL's impact on modern finance and its potential future developments."
+category: dataset
+description: Explore the transformative power of SEDOL in UK financial markets and
+  its crucial role in algorithmic trading. Learn how this unique identifier enhances
+  efficiency and reduces errors by facilitating accurate and seamless communication
+  across trading platforms. Understand SEDOL's impact on modern finance and its potential
+  future developments.
+title: Stock Exchange Daily Official List (Algo Trading)
 ---
 
 The financial world is undergoing rapid transformation, with a strong focus on achieving efficiency, accuracy, and transparency. This evolution is largely supported by sophisticated identification systems like SEDOL, which stands for Stock Exchange Daily Official List. SEDOL plays a pivotal role in the UK financial markets by providing unique identifiers for securities, thereby facilitating clear and precise communication across trading platforms. This technological progression is critical when considering the complexities of algorithmic trading, where swift and error-free identification of assets is paramount.

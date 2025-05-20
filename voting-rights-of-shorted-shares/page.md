@@ -1,6 +1,9 @@
 ---
-title: "Voting Rights of Shorted Shares (Algo Trading)"
-description: "Explore the complex interaction of voting rights and shorted shares in algorithmic trading Learn how these elements influence market dynamics and investor decisions"
+category: quant_concept
+description: Explore the complex interaction of voting rights and shorted shares in
+  algorithmic trading Learn how these elements influence market dynamics and investor
+  decisions
+title: Voting Rights of Shorted Shares (Algo Trading)
 ---
 
 In today's financial markets, a confluence of factors such as stock market voting rights, shorted shares, and algorithmic trading significantly influence investment strategies and market dynamics. Voting rights empower shareholders by allowing them to partake in key corporate decisions, including mergers, board elections, and the establishment of corporate policies. Conversely, shorted shares, wherein investors sell borrowed stocks hoping to repurchase them at lower prices, come with the complexity of shifting voting rights. This is particularly influential when large volumes of shares are shorted, potentially affecting corporate governance and investor control.

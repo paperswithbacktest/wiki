@@ -1,6 +1,8 @@
 ---
-title: "Socionomics: Concept, Mechanism, and Criticism (Algo Trading)"
-description: "Explore the role of social mood in financial markets through socionomics unveiling its impact on economic trends and its integration with algorithmic trading."
+category: quant_concept
+description: Explore the role of social mood in financial markets through socionomics
+  unveiling its impact on economic trends and its integration with algorithmic trading.
+title: 'Socionomics: Concept, Mechanism, and Criticism (Algo Trading)'
 ---
 
 Socionomics provides a unique perspective on understanding market dynamics by focusing on the role of social mood in financial and economic environments. Socionomics posits that it is the collective social mood that drives economic trends, rather than the other way around, thereby offering a reversal of conventional economic thinking. This paradigm provides a framework for analyzing how shifts in public sentiment can influence economic outcomes and financial markets. 

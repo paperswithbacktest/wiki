@@ -1,6 +1,10 @@
 ---
-title: "Types of Inflation (Algo Trading)"
-description: "Discover the different types of inflation and their impact on algorithmic trading in global markets. Understand how demand-pull, cost-push, stagflation, and hyperinflation influence trading strategies and investment decisions. Explore methods to manage inflation-related risks in the financial landscape."
+category: quant_concept
+description: Discover the different types of inflation and their impact on algorithmic
+  trading in global markets. Understand how demand-pull, cost-push, stagflation, and
+  hyperinflation influence trading strategies and investment decisions. Explore methods
+  to manage inflation-related risks in the financial landscape.
+title: Types of Inflation (Algo Trading)
 ---
 
 In an age where economic variables dictate the state of global markets, understanding inflation and its implications is more crucial than ever. Inflation refers to the rate at which the general level of prices for goods and services is rising, resulting in a decline in currency purchasing power. This metric plays a pivotal role in economic policy and affects everyday financial decisions, corporate strategies, and government policies. For investors and traders, inflation is not just an economic indicator; it is a force that shapes market behavior and influences portfolio performance.

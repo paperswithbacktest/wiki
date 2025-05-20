@@ -1,6 +1,11 @@
 ---
-title: "Analysis of Tesla's Financial Performance and Capital Structure (Algo Trading)"
-description: "Explore Tesla, Inc.'s financial evolution from a high-debt startup to a market leader. Analyze its capital structure, financial strategies, and impact of algorithmic trading, highlighting its growth through strategic financial management, innovation, and debt management. Understand Tesla's market resilience and sustained investor confidence through effective financial practices."
+category: trading_strategy
+description: Explore Tesla, Inc.'s financial evolution from a high-debt startup to
+  a market leader. Analyze its capital structure, financial strategies, and impact
+  of algorithmic trading, highlighting its growth through strategic financial management,
+  innovation, and debt management. Understand Tesla's market resilience and sustained
+  investor confidence through effective financial practices.
+title: Analysis of Tesla's Financial Performance and Capital Structure (Algo Trading)
 ---
 
 Tesla, Inc. has emerged as a pivotal player in the global stock market, thanks to its revolutionary advancements in electric vehicles (EVs) and renewable energy solutions. Renowned for disrupting the automotive sector, Tesla's journey from a high-debt startup to a thriving enterprise has captivated investors and analysts alike. 

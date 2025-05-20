@@ -1,6 +1,8 @@
 ---
-title: "Stock Symbol Suffix .PK Meaning (Algo Trading)"
-description: "Discover the meaning of the '.PK' stock symbol suffix and its implications for trading in the decentralized and less regulated OTC markets."
+category: quant_concept
+description: Discover the meaning of the '.PK' stock symbol suffix and its implications
+  for trading in the decentralized and less regulated OTC markets.
+title: Stock Symbol Suffix .PK Meaning (Algo Trading)
 ---
 
 Understanding stock market listings is crucial for investors, particularly when considering over-the-counter (OTC) markets, which present both opportunities and challenges that differ significantly from traditional exchanges. The '.PK' suffix is a hallmark of this segment, identifying stocks trading in the Pink Sheets, a component of the OTC markets. Unlike the major exchanges such as the New York Stock Exchange (NYSE) or Nasdaq, Pink Sheets provide a marketplace with fewer regulatory hurdles, attracting companies that may not meet the more rigorous requirements of these larger venues.

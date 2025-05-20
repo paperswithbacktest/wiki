@@ -1,6 +1,8 @@
 ---
-title: "Trading Dollars: Overview and Examples (Algo Trading)"
-description: "Discover the ins and outs of trading dollars with this comprehensive guide covering currency exchange and algorithmic trading to optimize your strategies."
+category: trading_strategy
+description: Discover the ins and outs of trading dollars with this comprehensive
+  guide covering currency exchange and algorithmic trading to optimize your strategies.
+title: 'Trading Dollars: Overview and Examples (Algo Trading)'
 ---
 
 Welcome to our comprehensive guide on various trading types in the financial market, focusing on trading dollars, currency exchange, and algorithmic trading. This article is designed to provide insight into several key components of trading, offering both novices and seasoned participants in the financial world an opportunity to refine their strategies.

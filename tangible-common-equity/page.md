@@ -1,6 +1,9 @@
 ---
-title: "Tangible Common Equity (Algo Trading)"
-description: "Discover how Tangible Common Equity (TCE) impacts equity finance and algorithmic trading by providing a conservative measure of financial resilience and risk management."
+category: quant_concept
+description: Discover how Tangible Common Equity (TCE) impacts equity finance and
+  algorithmic trading by providing a conservative measure of financial resilience
+  and risk management.
+title: Tangible Common Equity (Algo Trading)
 ---
 
 In equity finance, understanding the metrics that gauge a company's financial health is crucial. Among these metrics, Tangible Common Equity (TCE) stands out as a vital indicator of a company's ability to absorb losses, thereby offering a clear picture of its financial resilience. TCE plays a significant role in evaluating a company's physical capital by eliminating intangible assets and preferred equity from the analysis. This makes it particularly relevant in assessing the stability and solvency of financial institutions, such as banks, which often hold a considerable amount of intangible assets and preferred stock.

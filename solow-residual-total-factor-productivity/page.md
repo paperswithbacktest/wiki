@@ -1,6 +1,8 @@
 ---
-title: "Solow Residual and Total Factor Productivity (Algo Trading)"
-description: "Explore the synergy between Solow Residual Total Factor Productivity and algorithmic trading to enhance trading strategies using macroeconomic fundamentals."
+category: quant_concept
+description: Explore the synergy between Solow Residual Total Factor Productivity
+  and algorithmic trading to enhance trading strategies using macroeconomic fundamentals.
+title: Solow Residual and Total Factor Productivity (Algo Trading)
 ---
 
 In the ever-evolving landscape of economic theory and applied finance, the Solow Residual and Total Factor Productivity (TFP) stand out as crucial concepts for understanding economic growth and productivity. These concepts, initially introduced by Nobel laureate Robert Solow, describe the portion of output growth in an economy that cannot be attributed to traditional inputs like labor and capital. The Solow Residual, a significant component of TFP, reveals the impact of technological advancements and efficiency improvements on an economy's output, providing insights into how economies grow beyond merely increasing labor or capital input.

@@ -1,7 +1,8 @@
 ---
-title: Understanding Test Sets in Machine Learning Model Evaluation
+category: quant_concept
 description: Test set evaluation ensures reliable model performance with representative
   splits, no leakage, balanced sampling and clear metrics. Discover more inside.
+title: Understanding Test Sets in Machine Learning Model Evaluation
 ---
 
 ![Image](images/1.png)

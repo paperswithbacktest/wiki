@@ -1,6 +1,9 @@
 ---
-title: "Unappropriated Retained Earnings (Algo Trading)"
-description: "Explore the flexibility and strategic importance of unappropriated retained earnings in corporate finance Discover how companies leverage these for growth and stability"
+category: quant_concept
+description: Explore the flexibility and strategic importance of unappropriated retained
+  earnings in corporate finance Discover how companies leverage these for growth and
+  stability
+title: Unappropriated Retained Earnings (Algo Trading)
 ---
 
 In the world of corporate finance, retained earnings are integral to a company's ability to foster growth and maintain financial stability. Retained earnings represent the portion of net income not distributed as dividends to shareholders but retained within the company for reinvestment or as a reserve for future use. This article focuses specifically on unappropriated retained earnings, which provide companies with flexibility in financial decision-making and strategic planning.

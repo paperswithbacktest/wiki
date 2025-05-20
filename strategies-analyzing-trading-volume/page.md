@@ -1,6 +1,8 @@
 ---
-title: "Strategies for Analyzing Trading Volume (Algo Trading)"
-description: "Explore how trading volume analysis, algorithmic trading, and data-driven strategies can optimize investment decisions for improved market insights and outcomes."
+category: trading_strategy
+description: Explore how trading volume analysis, algorithmic trading, and data-driven
+  strategies can optimize investment decisions for improved market insights and outcomes.
+title: Strategies for Analyzing Trading Volume (Algo Trading)
 ---
 
 In investing, understanding market variables and leveraging data-driven strategies are crucial for success. Investors and traders continuously seek ways to optimize their decisions based on various elements such as market trends, economic indicators, and statistical data. Trading volume, a fundamental metric that represents the number of shares or contracts traded in a security or market during a given period, is a vital component in this analytical process. It is used to assess market activity and the sentiment of investors, providing actionable insights into the supply and demand dynamics of securities.

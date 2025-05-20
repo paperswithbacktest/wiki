@@ -1,6 +1,8 @@
 ---
-title: "Volatility Assessment Using Average True Range (Algo Trading)"
-description: "Explore the use of Average True Range in algorithmic trading to assess market volatility and enhance decision-making with dynamic risk management strategies."
+category: trading_strategy
+description: Explore the use of Average True Range in algorithmic trading to assess
+  market volatility and enhance decision-making with dynamic risk management strategies.
+title: Volatility Assessment Using Average True Range (Algo Trading)
 ---
 
 In the ever-evolving world of financial markets, traders and investors strive to find efficient methods for assessing market volatility. One such method is the Average True Range (ATR), a tool that has gained prominence due to its ability to provide clear insights into market conditions and price movements. The ATR, devised by J. Welles Wilder in his 1978 book "New Concepts in Technical Trading Systems," has found widespread application in risk management, algorithmic trading, and the development of trading strategies.

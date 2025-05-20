@@ -1,6 +1,11 @@
 ---
-title: "Share Repurchases and Their Effects on Financial Accounting (Algo Trading)"
-description: "Explore the pivotal role of share repurchases in corporate finance and financial accounting. Learn how buybacks impact key financial metrics like EPS, ROE, and ROA, and understand the strategic implications for stock prices and market perception. Delve into the relationship between algorithmic trading and share repurchases, emphasizing their influence on modern financial strategies."
+category: quant_concept
+description: Explore the pivotal role of share repurchases in corporate finance and
+  financial accounting. Learn how buybacks impact key financial metrics like EPS,
+  ROE, and ROA, and understand the strategic implications for stock prices and market
+  perception. Delve into the relationship between algorithmic trading and share repurchases,
+  emphasizing their influence on modern financial strategies.
+title: Share Repurchases and Their Effects on Financial Accounting (Algo Trading)
 ---
 
 Corporate finance serves as the backbone of strategic decision-making within organizations, encompassing the planning, directing, monitoring, organizing, and controlling of monetary resources. Its significance lies in its ability to guide corporations towards achieving their financial goals and maximizing shareholder value. By engaging in effective corporate finance practices, businesses can allocate resources efficiently, address financial risks, and ultimately enhance their market competitiveness.

@@ -1,6 +1,8 @@
 ---
-title: "Short Selling: Advantages, Disadvantages, and Illustrations (Algo Trading)"
-description: "Explore the advantages and disadvantages of short selling and algorithmic trading to make informed investment decisions in volatile financial markets."
+category: trading_strategy
+description: Explore the advantages and disadvantages of short selling and algorithmic
+  trading to make informed investment decisions in volatile financial markets.
+title: 'Short Selling: Advantages, Disadvantages, and Illustrations (Algo Trading)'
 ---
 
 In the world of investing, a variety of strategies are adopted to enhance returns and mitigate risks. Among the spectrum of techniques, short selling and algorithmic trading, often referred to as algo trading, emerge as significant choices. Each of these strategies carries its own set of advantages and disadvantages, catering to a diverse array of investor preferences and risk appetites.

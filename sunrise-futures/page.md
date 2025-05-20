@@ -1,6 +1,8 @@
 ---
-title: "Sunrise Futures (Algo Trading)"
-description: "Explore Sunrise Futures' advanced algorithmic trading solutions designed for precision and efficiency to stay ahead in ever-evolving financial markets."
+category: trading_strategy
+description: Explore Sunrise Futures' advanced algorithmic trading solutions designed
+  for precision and efficiency to stay ahead in ever-evolving financial markets.
+title: Sunrise Futures (Algo Trading)
 ---
 
 Algorithmic trading, often referred to as automated trading, uses computer programs to execute trading strategies at speeds and frequencies no human trader can achieve. This approach leverages complex mathematical models and algorithms to make transactional decisions in financial markets. It has become a critical component in today's financial landscape, responsible for a significant proportion of trades executed on major exchanges.
@@ -192,4 +194,3 @@ For those interested in exploring the possibilities of algorithmic trading or se
 [5]: Treleaven, P., Galas, M., & Lalchand, V. (2013). ["Algorithmic trading review."](https://www.researchgate.net/publication/262239006_Algorithmic_Trading_Review) Communications of the ACM.
 
 [6]: Peters, E. E. (1994). ["Fractal Market Analysis: Applying Chaos Theory to Investment and Economics."](https://archive.org/details/fractalmarketana0000pete) Wiley.
-

@@ -1,6 +1,13 @@
 ---
-title: "U.S. Presidential Inflation Rates: 1953–2021 (Algo Trading)"
-description: "Explore the intricate relationship between U.S. presidential policies and inflation rates from 1953 to 2021, highlighting how economic strategies were crafted to address changing inflationary pressures and stabilize the economy. Delve into the historical context of fiscal measures, global events, and the rise of algorithmic trading in shaping market operations and influencing inflation indirectly. This comprehensive analysis provides insights into the evolving interplay between policy-making, technology, and market dynamics in the U.S. economic landscape."
+category: dataset
+description: Explore the intricate relationship between U.S. presidential policies
+  and inflation rates from 1953 to 2021, highlighting how economic strategies were
+  crafted to address changing inflationary pressures and stabilize the economy. Delve
+  into the historical context of fiscal measures, global events, and the rise of algorithmic
+  trading in shaping market operations and influencing inflation indirectly. This
+  comprehensive analysis provides insights into the evolving interplay between policy-making,
+  technology, and market dynamics in the U.S. economic landscape.
+title: 'U.S. Presidential Inflation Rates: 1953–2021 (Algo Trading)'
 ---
 
 Understanding inflation in the U.S. economic landscape is crucial, given its profound impact on everyday life and broader economic policies. Inflation reflects the rate at which the general level of prices for goods and services rises, eroding purchasing power. It is a key indicator of economic health and influences both individual decisions and national strategies. Historically, managing inflation has been a central focus for U.S. presidents, each of whom has faced unique economic challenges and implemented distinct policy responses. These efforts have been shaped by a myriad of factors including technological advancements, global events, and domestic economic conditions.

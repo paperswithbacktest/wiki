@@ -1,6 +1,14 @@
 ---
-title: "XTB Online Trading Platform Review 2024 (Algo Trading)"
-description: "Discover the comprehensive review of XTB's online trading platform for 2024, focusing on algorithmic trading capabilities. Explore XTB's advanced tools, user-friendly interface, and its extensive range of tradable assets, including stocks, forex, commodities, and cryptocurrencies. Learn how XTB supports algorithmic trading strategies with its proprietary platform, xStation, known for its intuitive design and robust functionalities. Gain insights into XTB's performance, competitive costs, and educational resources, helping traders of all levels make informed decisions in the dynamic world of online trading."
+category: trading_strategy
+description: Discover the comprehensive review of XTB's online trading platform for
+  2024, focusing on algorithmic trading capabilities. Explore XTB's advanced tools,
+  user-friendly interface, and its extensive range of tradable assets, including stocks,
+  forex, commodities, and cryptocurrencies. Learn how XTB supports algorithmic trading
+  strategies with its proprietary platform, xStation, known for its intuitive design
+  and robust functionalities. Gain insights into XTB's performance, competitive costs,
+  and educational resources, helping traders of all levels make informed decisions
+  in the dynamic world of online trading.
+title: XTB Online Trading Platform Review 2024 (Algo Trading)
 ---
 
 Online trading has emerged as a crucial component of the global financial landscape, driven by technological advancements and the increasing accessibility of financial markets to individual investors. Over the past decade, the popularity of online trading platforms has surged, enabling users to trade a wide variety of financial instruments, including stocks, forex, commodities, and cryptocurrencies. This growth is fostered by the convenience these platforms offer, allowing traders to execute transactions from anywhere at any time, often with just a smartphone or computer. As a result, more individuals are exploring trading as a means to diversify their income sources and participate directly in capital markets.

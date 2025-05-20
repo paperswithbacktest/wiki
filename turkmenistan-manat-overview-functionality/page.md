@@ -1,6 +1,8 @@
 ---
-title: "Turkmenistan Manat: Overview and Functionality (Algo Trading)"
-description: "Explore the Turkmenistan Manat's growing role in global finance, influenced by the rise of algorithmic trading, boosting market efficiency and liquidity."
+category: dataset
+description: Explore the Turkmenistan Manat's growing role in global finance, influenced
+  by the rise of algorithmic trading, boosting market efficiency and liquidity.
+title: 'Turkmenistan Manat: Overview and Functionality (Algo Trading)'
 ---
 
 In recent years, the Turkmenistan Manat (TMT) has increasingly drawn attention in international financial circles. This heightened interest parallels a broader technological shift in currency trading brought about by algorithmic trading, commonly referred to as algo trading. This technological innovation has profoundly affected how currencies, including the TMT, are exchanged across global platforms.

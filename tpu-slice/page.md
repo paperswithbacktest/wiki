@@ -1,7 +1,8 @@
 ---
-title: Understanding TPU Slice Architecture And Machine Learning Use
+category: quant_concept
 description: TPU Slice speeds deep learning training with matrix multiply units and
   high bandwidth memory for efficient performance on Google Cloud Discover more inside
+title: Understanding TPU Slice Architecture And Machine Learning Use
 ---
 
 ![Image](images/1.png)

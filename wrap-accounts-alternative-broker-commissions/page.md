@@ -1,6 +1,9 @@
 ---
-title: "Wrap Accounts as an Alternative to Broker Commissions (Algo Trading)"
-description: "Explore how wrap accounts offer a streamlined alternative to traditional broker commissions with insights into algorithmic trading and modern investment strategies."
+category: trading_strategy
+description: Explore how wrap accounts offer a streamlined alternative to traditional
+  broker commissions with insights into algorithmic trading and modern investment
+  strategies.
+title: Wrap Accounts as an Alternative to Broker Commissions (Algo Trading)
 ---
 
 Broker commissions, investment management, wrap accounts, and algorithmic (algo) trading have become foundational components in the modern landscape of investing, shaping how individuals and institutions alike navigate financial markets. Broker commissions refer to the fees charged by brokerage firms for executing financial transactions on behalf of clients. These commissions have seen significant evolution, driven by advances in technology that have increased competition and reduced costs, making trading more accessible to a broader audience.

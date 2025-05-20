@@ -1,6 +1,8 @@
 ---
-title: "Social Sentiment Indicator: Overview and Functionality (Algo Trading)"
-description: "Discover how social sentiment analysis enhances algorithmic trading by extracting actionable insights from investor emotions to predict market trends effectively"
+category: quant_concept
+description: Discover how social sentiment analysis enhances algorithmic trading by
+  extracting actionable insights from investor emotions to predict market trends effectively
+title: 'Social Sentiment Indicator: Overview and Functionality (Algo Trading)'
 ---
 
 Understanding investor sentiment is crucial for making informed trading decisions in today's fast-paced financial markets. Sentiment analysis, a growing field in financial analytics, deciphers emotions, opinions, and attitudes from textual data to inform trading strategies. This involves analyzing a myriad of data from social media, news articles, forums, and other online content to gauge public mood and investor sentiment. By processing this data, traders can gain a competitive edge, leveraging insights to inform algorithmic trading strategies and forecast market trends.

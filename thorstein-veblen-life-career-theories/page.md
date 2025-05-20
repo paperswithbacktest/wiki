@@ -1,6 +1,8 @@
 ---
-title: "Thorstein Veblen: Life, Career, and Theories (Algo Trading)"
-description: "Explore Thorstein Veblen's theories on conspicuous consumption and their relevance in today's digital economy with a focus on algorithmic trading innovations."
+category: quant_concept
+description: Explore Thorstein Veblen's theories on conspicuous consumption and their
+  relevance in today's digital economy with a focus on algorithmic trading innovations.
+title: 'Thorstein Veblen: Life, Career, and Theories (Algo Trading)'
 ---
 
 Institutional economics provides a comprehensive framework for analyzing the interaction between economic activities and societal influences. One of the pioneering figures in this field, Thorstein Veblen, introduced the concept of "conspicuous consumption." This term describes the practice where consumption choices are made not solely for their utility but for social recognition, reflecting an individual's social status and economic power. Veblen's insights emphasize how economic behavior is deeply intertwined with societal norms and cultural practices.

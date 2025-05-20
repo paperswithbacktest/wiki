@@ -1,6 +1,8 @@
 ---
-title: "Support and Resistance Levels in Financial Markets (Algo Trading)"
-description: "Explore the critical role of support and resistance levels in algorithmic trading and how they aid in identifying market reversals for better trading strategies."
+category: trading_strategy
+description: Explore the critical role of support and resistance levels in algorithmic
+  trading and how they aid in identifying market reversals for better trading strategies.
+title: Support and Resistance Levels in Financial Markets (Algo Trading)
 ---
 
 This article examines market reversals, technical analysis, support and resistance levels, and their critical role in algorithmic trading. Market reversal strategies focus on pivotal points where market trends change direction. By understanding these mechanics, traders can identify opportunities to enter or exit markets at optimal moments when the underlying direction of an asset's price movement shifts.

@@ -1,6 +1,8 @@
 ---
-title: "Spread Hedging: Principles and Operation (Algo Trading)"
-description: "Explore spread hedging principles in algo trading to manage risk via offsetting positions in related assets safeguarding portfolios from market volatility."
+category: trading_strategy
+description: Explore spread hedging principles in algo trading to manage risk via
+  offsetting positions in related assets safeguarding portfolios from market volatility.
+title: 'Spread Hedging: Principles and Operation (Algo Trading)'
 ---
 
 Investment strategies play a crucial role in achieving financial success and managing risk effectively. They serve as a blueprint for traders and investors, guiding their decisions and actions in pursuit of their financial objectives. In finance, risk mitigation is a constant challenge, and techniques like spread hedging and financial hedging have become indispensable tools. Spread hedging involves taking offsetting positions in related assets, such as options or futures, to mitigate potential losses. It helps in cushioning the adverse impacts of market volatility, thereby protecting investment portfolios.

@@ -1,6 +1,10 @@
 ---
-title: "What is it like to be a quant at Jane Street?"
-description: "Discover the unique experience of being a quant at Jane Street, a global leader in quantitative trading. Expect an intellectually stimulating environment, continuous learning, cutting-edge technology, collaboration, ethical challenges, attractive compensation, and opportunities for growth."
+category: quant_concept
+description: Discover the unique experience of being a quant at Jane Street, a global
+  leader in quantitative trading. Expect an intellectually stimulating environment,
+  continuous learning, cutting-edge technology, collaboration, ethical challenges,
+  attractive compensation, and opportunities for growth.
+title: What is it like to be a quant at Jane Street?
 ---
 
 Jane Street is often heralded as a leading force in the world of quantitative trading, a discipline where data-driven decision-making reigns supreme. Founded in 2000, the firm has carved a niche for itself by consistently employing cutting-edge technology and sophisticated quantitative models to execute trades with precision and speed. As a proprietary trading firm, it commits its capital to executing trades, taking positions based on the strategies devised by its team of experts.

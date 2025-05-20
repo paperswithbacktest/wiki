@@ -1,6 +1,8 @@
 ---
-title: "Wash: Definition, Function, and Legal Considerations (Algo Trading)"
-description: "Explore the intricacies of algorithmic trading with insights on functionality, efficiency, and legal factors. Learn about functionality wash and its market impact."
+category: quant_concept
+description: Explore the intricacies of algorithmic trading with insights on functionality,
+  efficiency, and legal factors. Learn about functionality wash and its market impact.
+title: 'Wash: Definition, Function, and Legal Considerations (Algo Trading)'
 ---
 
 Algorithmic trading, also known as algo trading, refers to the use of computer programs to execute trades at speeds and frequencies that would be impossible for human traders. These algorithms make decisions based on pre-set criteria, such as timing, price, or quantity, allowing for orders to be executed with optimal efficiency. By automating the trading process, algorithmic trading enhances market liquidity and can potentially lead to more accurate pricing by processing vast arrays of market data.

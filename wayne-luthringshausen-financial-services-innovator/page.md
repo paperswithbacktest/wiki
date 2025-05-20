@@ -1,6 +1,8 @@
 ---
-title: "Wayne Luthringshausen - Financial Services Innovator (Algo Trading)"
-description: "Discover the legacy of Wayne Luthringshausen, a pioneer in financial services who revolutionized options trading and algorithmic trading practices."
+category: quant_concept
+description: Discover the legacy of Wayne Luthringshausen, a pioneer in financial
+  services who revolutionized options trading and algorithmic trading practices.
+title: Wayne Luthringshausen - Financial Services Innovator (Algo Trading)
 ---
 
 The financial services industry is characterized by rapid evolution and innovation, driven by key individuals and technological advancements. Wayne Luthringshausen emerges as a notable figure in this space, particularly for his contributions to the development of options trading and clearing mechanisms. He played a critical role in shaping the infrastructure that underpins modern financial markets. His leadership at the Options Clearing Corporation (OCC) was instrumental in revolutionizing the way options were traded, thus laying the groundwork for today’s dynamic trading environment.
