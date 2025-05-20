@@ -1,6 +1,9 @@
 ---
-title: "Accounts Payable: Examples and Recording Methods (Algo Trading)"
-description: "Explore the synergy between Accounts Payable management and algorithmic trading to improve business and trading efficiencies through precise recording and strategy optimization."
+category: quant_concept
+description: Explore the synergy between Accounts Payable management and algorithmic
+  trading to improve business and trading efficiencies through precise recording and
+  strategy optimization.
+title: 'Accounts Payable: Examples and Recording Methods (Algo Trading)'
 ---
 
 Accounts Payable (AP) and algorithmic trading are two pivotal components in the financial landscape that cater to business operations and trading efficiencies. Accounts Payable represents the amounts a company owes to its suppliers or vendors for goods and services received on credit. The accurate recording of AP is crucial for businesses to manage cash flow effectively, ensuring they meet their short-term liabilities without straining their financial resources. Mismanagement in AP can lead to liquidity issues, damaged supplier relationships, and potential inefficiencies in operational practices.

@@ -1,6 +1,8 @@
 ---
-title: "Statistical Arbitrage and Profit Generation (Algo Trading)"
-description: "Explore the world of statistical arbitrage in algorithmic trading where quantitative models identify fleeting price discrepancies to generate profit."
+category: trading_strategy
+description: Explore the world of statistical arbitrage in algorithmic trading where
+  quantitative models identify fleeting price discrepancies to generate profit.
+title: Statistical Arbitrage and Profit Generation (Algo Trading)
 ---
 
 Algorithmic trading has revolutionized financial markets by enabling trading strategies that are faster and more sophisticated than traditional methods. Within this domain, statistical arbitrage, or "stat arb", is prominent for its ability to exploit small, temporary price differences between related financial instruments. This strategy leverages quantitative models to identify inefficiencies in the market, capitalizing on these discrepancies within short time frames.

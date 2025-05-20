@@ -1,6 +1,8 @@
 ---
-title: "Return on Total Assets: Overview and Calculation Examples (Algo Trading)"
-description: "Explore how Return on Total Assets (ROTA) impacts algorithmic trading strategies by enhancing asset evaluation, optimizing decisions, and improving returns."
+category: quant_concept
+description: Explore how Return on Total Assets (ROTA) impacts algorithmic trading
+  strategies by enhancing asset evaluation, optimizing decisions, and improving returns.
+title: 'Return on Total Assets: Overview and Calculation Examples (Algo Trading)'
 ---
 
 In the fast-paced world of finance, understanding key financial metrics is crucial for investors and traders. These metrics provide valuable insights into a company's operational efficiency and financial health, allowing stakeholders to make informed decisions. One such significant metric is the Return on Total Assets (ROTA), which serves as a measure of a company's ability to generate earnings from its assets.

@@ -1,6 +1,8 @@
 ---
-title: "Late-Day Trading: Mechanisms and Regulations (Algo Trading)"
-description: "Explore the world of late-day trading and regulations in algorithmic trading understand mechanisms involved legal aspects and impact on market integrity."
+category: quant_concept
+description: Explore the world of late-day trading and regulations in algorithmic
+  trading understand mechanisms involved legal aspects and impact on market integrity.
+title: 'Late-Day Trading: Mechanisms and Regulations (Algo Trading)'
 ---
 
 The complex world of financial trading has witnessed significant changes with the advent of technological advancements and diverse trading mechanisms, notably the rise of algorithmic trading. At the forefront of these changes are issues surrounding late-day trading, a practice that has sparked considerable debate due to its legal and ethical implications. The practice involves executing trades after hours while misreporting them as having occurred during regular trading hours, often before a mutual fund’s net asset value (NAV) is set. This can unfairly advantage certain investors at the expense of others, thereby undermining market integrity.

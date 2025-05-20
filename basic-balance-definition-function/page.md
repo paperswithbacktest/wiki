@@ -1,6 +1,9 @@
 ---
-title: "Basic Balance: Definition and Function (Algo Trading)"
-description: "Explore the essential role of basic balance in economic health and algorithmic trading. Understand its impact on strategy execution, risk management, and market dynamics."
+category: quant_concept
+description: Explore the essential role of basic balance in economic health and algorithmic
+  trading. Understand its impact on strategy execution, risk management, and market
+  dynamics.
+title: 'Basic Balance: Definition and Function (Algo Trading)'
 ---
 
 This article examines foundational concepts of balance in economic, financial, and trading contexts. Balance plays a crucial role in understanding economic health and strategy execution within these domains. The concept of the basic balance is a fundamental element in the balance of payments framework, providing insights into a nation's economic health by measuring the discrepancies between its economic transactions and the rest of the world. Basic balance is typically evaluated through components such as the capital and current accounts. These elements allow economists to assess whether a country sustains its economic activities or relies heavily on foreign investments and loans for economic stability.

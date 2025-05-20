@@ -1,6 +1,8 @@
 ---
-title: "Hybrid Securities and Their Types (Algo Trading)"
-description: "Explore the dynamic world of hybrid securities and algorithmic trading with insights into their types, roles, and impacts on investment strategies."
+category: quant_concept
+description: Explore the dynamic world of hybrid securities and algorithmic trading
+  with insights into their types, roles, and impacts on investment strategies.
+title: Hybrid Securities and Their Types (Algo Trading)
 ---
 
 The world of financial investment is vast and multifaceted, offering a myriad of opportunities for investors. Among the many avenues available are financial instruments, each with its unique benefits and risks. These instruments serve as the foundation for crafting investment strategies and achieving financial objectives. Understanding the different types of investments, from traditional stocks and bonds to more complex hybrid securities and algorithmic trading, is essential for developing a robust portfolio that can withstand market fluctuations and align with individual risk tolerance.

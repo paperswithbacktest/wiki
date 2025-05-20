@@ -1,6 +1,9 @@
 ---
-title: "Methods for Economical Stock Research and Purchase (Algo Trading)"
-description: "Optimize stock research and investments with algorithmic trading for effective portfolio management. Harness data-driven insights and minimize costs for higher returns."
+category: trading_strategy
+description: Optimize stock research and investments with algorithmic trading for
+  effective portfolio management. Harness data-driven insights and minimize costs
+  for higher returns.
+title: Methods for Economical Stock Research and Purchase (Algo Trading)
 ---
 
 In today's fast-paced financial markets, informed investment decisions have become indispensable. The intricate nature of these markets demands a comprehensive understanding and strategic approach to maximize returns. Stock research, economical investment strategies, and algorithmic trading constitute the cornerstones of successful portfolio management. These three elements, when effectively integrated, can significantly optimize stock buying decisions, ensuring sustainable growth and risk management.

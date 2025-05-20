@@ -1,6 +1,8 @@
 ---
-title: "Recommended Books on Blockchain Technology (Algo Trading)"
-description: "Explore blockchain technology with recommended books and learn its impact on algorithmic trading transforming data security and transparency in various industries."
+category: quant_concept
+description: Explore blockchain technology with recommended books and learn its impact
+  on algorithmic trading transforming data security and transparency in various industries.
+title: Recommended Books on Blockchain Technology (Algo Trading)
 ---
 
 Understanding blockchain technology is essential in today's digital landscape as it provides a transformative approach to data transparency and security. As a decentralized digital ledger, blockchain is employed across various industries for its ability to securely record transactions. In the financial sector, blockchain's impact is evident through its application in cryptocurrencies, cross-border payments, and smart contracts, which streamline operations and reduce the risk of fraud. Supply chain management has also witnessed improvements, with blockchain enhancing traceability and accountability from origin to end-consumer, thereby boosting efficiency and trust.

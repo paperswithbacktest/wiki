@@ -1,6 +1,8 @@
 ---
-title: "Housing Starts as a Real Estate Investment Metric (Algo Trading)"
-description: "Discover how housing starts impact real estate investment and explore the use of algorithmic trading to optimize returns and manage risks effectively."
+category: trading_strategy
+description: Discover how housing starts impact real estate investment and explore
+  the use of algorithmic trading to optimize returns and manage risks effectively.
+title: Housing Starts as a Real Estate Investment Metric (Algo Trading)
 ---
 
 Real estate investment has traditionally served as a reliable pathway for wealth building, primarily due to its nature as a tangible asset that offers potential for both value appreciation and income generation. Investors have long turned to real estate to diversify their portfolios, hedge against inflation, and achieve substantial returns. However, navigating the complexities of this sector requires a solid understanding of key investment metrics, which are integral in assessing property value, profitability, and risk.

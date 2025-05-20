@@ -1,6 +1,11 @@
 ---
-title: "Margin Account: Overview and Examples (Algo Trading)"
-description: "Discover how margin accounts and algorithmic trading combine to offer powerful investment opportunities and challenges. Understand how margin accounts amplify purchasing power and the benefits of algorithmic trading's automation and efficiency. Learn about the synergy of these financial tools and the potential risks and considerations for investors seeking optimal leverage and profitability."
+category: quant_concept
+description: Discover how margin accounts and algorithmic trading combine to offer
+  powerful investment opportunities and challenges. Understand how margin accounts
+  amplify purchasing power and the benefits of algorithmic trading's automation and
+  efficiency. Learn about the synergy of these financial tools and the potential risks
+  and considerations for investors seeking optimal leverage and profitability.
+title: 'Margin Account: Overview and Examples (Algo Trading)'
 ---
 
 Investment finance encompasses a wide array of tools and strategies, serving both novice investors and experienced traders. Key components within this field are margin accounts and algorithmic trading. This article examines how these two elements intersect to create opportunities and challenges for investors.

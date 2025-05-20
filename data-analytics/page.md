@@ -1,6 +1,8 @@
 ---
-title: "Data Analytics (Algo Trading)"
-description: "Explore how data analytics revolutionizes algorithmic trading by integrating advanced models and big data to optimize trading strategies and decision making."
+category: trading_strategy
+description: Explore how data analytics revolutionizes algorithmic trading by integrating
+  advanced models and big data to optimize trading strategies and decision making.
+title: Data Analytics (Algo Trading)
 ---
 
 In today's rapidly evolving financial landscape, data analytics plays a critical role, particularly in algorithmic trading. This intersection of data science and trading has birthed innovative strategies and decision-making processes, fundamentally changing transaction methodologies. More than ever, the complexity of markets necessitates a deep understanding of data analytics in trading for both institutional and individual investors.

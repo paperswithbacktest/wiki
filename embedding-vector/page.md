@@ -1,7 +1,8 @@
 ---
-title: Understanding Embedding Vectors in Machine Learning Applications
+category: quant_concept
 description: Embedding vectors convert words images and data into numeric lists that
   capture meaning improve predictions boost model performance Discover more inside
+title: Understanding Embedding Vectors in Machine Learning Applications
 ---
 
 ![Image](images/1.png)

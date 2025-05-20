@@ -1,6 +1,8 @@
 ---
-title: "Purchasing Alternative Investments (Algo Trading)"
-description: "Discover the transformative power of alternative investments and algorithmic trading. Explore strategies, benefits, and risks to diversify and enhance returns."
+category: trading_strategy
+description: Discover the transformative power of alternative investments and algorithmic
+  trading. Explore strategies, benefits, and risks to diversify and enhance returns.
+title: Purchasing Alternative Investments (Algo Trading)
 ---
 
 Investment strategies have undergone substantial evolution, adapting to the diverse preferences and varying risk profiles of investors. This transformation has been largely influenced by significant technological advancements and shifts in the global economic landscape. As a result, both alternative investments and algorithmic trading have emerged as increasingly viable options for individuals looking to explore unconventional investment avenues.

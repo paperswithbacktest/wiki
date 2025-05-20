@@ -1,6 +1,14 @@
 ---
-title: "China Alternative Data (Algo Trading)"
-description: Explore the dynamic role of alternative data in China's algorithmic trading landscape, where advanced digital platforms and a vast consumer base generate invaluable data points. Discover how non-traditional sources like social media activity and satellite imagery enhance trading strategies by providing unique insights into market trends and consumer behavior. Understand the challenges and opportunities within China's markets, including data privacy regulations, as financial services and other sectors leverage alternative data to optimize predictive models and gain a competitive edge.
+category: dataset
+description: Explore the dynamic role of alternative data in China's algorithmic trading
+  landscape, where advanced digital platforms and a vast consumer base generate invaluable
+  data points. Discover how non-traditional sources like social media activity and
+  satellite imagery enhance trading strategies by providing unique insights into market
+  trends and consumer behavior. Understand the challenges and opportunities within
+  China's markets, including data privacy regulations, as financial services and other
+  sectors leverage alternative data to optimize predictive models and gain a competitive
+  edge.
+title: China Alternative Data (Algo Trading)
 ---
 
 In the rapidly evolving world of algorithmic trading, acquiring a competitive edge has become paramount. This quest has intensified the exploration for innovative data sources, among which alternative data stands out. Unlike traditional financial metrics, alternative data encompasses a range of non-traditional data sources such as social media activity, satellite imagery, and credit card transactions. These sources provide unique insights that can significantly enhance trading strategies by uncovering patterns and trends not visible through conventional datasets.

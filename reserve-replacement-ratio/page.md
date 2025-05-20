@@ -1,6 +1,8 @@
 ---
-title: "Reserve-Replacement Ratio (Algo Trading)"
-description: "Discover how reserve-replacement ratios and algorithmic trading are revolutionizing the energy industry’s landscape amidst global economic shifts and challenges."
+category: quant_concept
+description: Discover how reserve-replacement ratios and algorithmic trading are revolutionizing
+  the energy industry’s landscape amidst global economic shifts and challenges.
+title: Reserve-Replacement Ratio (Algo Trading)
 ---
 
 The energy industry is undergoing a significant transformation as it integrates traditional oil reserves with cutting-edge technological advancements. This convergence is reshaping the landscape, where the reserve-replacement ratio in oil exploration and the increasing application of algorithmic trading are pivotal. Reserve-replacement — which measures the enhancement or depletion of oil reserves against current production — is crucial for evaluating an energy firm's long-term viability and the overall stability of the energy market. With major oil-producing nations like Saudi Arabia and Venezuela holding substantial sway, these reserves play an indispensable role in global economic stability and energy security.
@@ -148,4 +150,3 @@ For further exploration, research papers available through platforms like JSTOR 
 [4] López de Prado, M. (2018). Advances in Financial Machine Learning. Wiley.
 
 [5] ESMA (2018). Markets in Financial Instruments Directive II (MiFID II). [Available online](https://www.esma.europa.eu/policy-rules/mifid-ii).
-

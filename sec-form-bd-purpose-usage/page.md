@@ -1,6 +1,9 @@
 ---
-title: "SEC Form BD: Purpose and Usage (Algo Trading)"
-description: "Explore the key role of SEC Form BD in broker-dealer registration and its impact on algo trading. Discover its importance in regulatory compliance and market integrity."
+category: quant_concept
+description: Explore the key role of SEC Form BD in broker-dealer registration and
+  its impact on algo trading. Discover its importance in regulatory compliance and
+  market integrity.
+title: 'SEC Form BD: Purpose and Usage (Algo Trading)'
 ---
 
 The financial industry is subject to stringent regulations designed to ensure transparency, protect investors, and uphold market integrity. These regulations are vital in maintaining the trust and stability necessary for effective market operations. Broker-dealers, as pivotal entities in the financial markets, facilitate trading and provide liquidity, thereby enabling the smooth functioning of financial exchanges. They act as intermediaries, executing transactions for themselves or on behalf of clients.

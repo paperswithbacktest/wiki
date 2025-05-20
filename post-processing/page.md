@@ -1,10 +1,9 @@
 ---
-title: Effective Post-Processing Techniques in Machine Learning Models
+category: quant_concept
 description: Post-processing in machine learning refines predictions into clear categories
   with calibration thresholding and ensembles. Discover more inside.
+title: Effective Post-Processing Techniques in Machine Learning Models
 ---
-
-
 
 ## Table of Contents
 

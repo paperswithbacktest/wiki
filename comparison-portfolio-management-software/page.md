@@ -1,9 +1,9 @@
 ---
-title: Complete Portfolio Management Software Guide for 2024
+category: trading_strategy
 description: Portfolio management software gives investors a unified view of assets
   with performance tracking risk analysis and custom reports Discover more inside
+title: Complete Portfolio Management Software Guide for 2024
 ---
-
 
 ![Image](images/1.png)
 

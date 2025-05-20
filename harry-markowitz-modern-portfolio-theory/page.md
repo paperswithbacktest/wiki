@@ -1,6 +1,11 @@
 ---
-title: "Harry Markowitz and Modern Portfolio Theory (Algo Trading)"
-description: "Explore the innovative impact of Harry Markowitz's Modern Portfolio Theory (MPT) on investment strategies. MPT revolutionizes portfolio diversification by analyzing the entire portfolio's risk-return profile through mean-variance optimization. Discover how MPT has influenced investment tactics globally and its integration with algorithmic trading and robo-advisors for efficient, diversified strategies."
+category: quant_concept
+description: Explore the innovative impact of Harry Markowitz's Modern Portfolio Theory
+  (MPT) on investment strategies. MPT revolutionizes portfolio diversification by
+  analyzing the entire portfolio's risk-return profile through mean-variance optimization.
+  Discover how MPT has influenced investment tactics globally and its integration
+  with algorithmic trading and robo-advisors for efficient, diversified strategies.
+title: Harry Markowitz and Modern Portfolio Theory (Algo Trading)
 ---
 
 Modern Portfolio Theory (MPT) reshaped the financial landscape by introducing a systematic method for achieving portfolio diversification. Developed by Harry Markowitz, a Nobel Prize-winning economist, MPT emphasizes the analysis of the entire portfolio as a unified entity rather than focusing on individual stocks. By doing so, MPT encourages investors to consider the complex interplay between different assets to optimize their risk-return profile.

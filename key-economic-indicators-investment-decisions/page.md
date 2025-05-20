@@ -1,6 +1,9 @@
 ---
-title: "Key Economic Indicators for Investment Decisions (Algo Trading)"
-description: "Algorithmic trading integrates key economic indicators such as GDP CPI and unemployment rates to enhance investment strategies and capitalize on market movements."
+category: trading_strategy
+description: Algorithmic trading integrates key economic indicators such as GDP CPI
+  and unemployment rates to enhance investment strategies and capitalize on market
+  movements.
+title: Key Economic Indicators for Investment Decisions (Algo Trading)
 ---
 
 Algorithmic trading, a crucial development in modern finance, has fundamentally transformed the intricacies of the financial markets by introducing superior speed, efficiency, and precision. Traditionally reliant on human-driven decision-making processes, financial markets are now increasingly dominated by algorithms that execute trades automatically based on predetermined criteria. This evolution is not merely a shift in transaction execution but a complete restructuring of investment strategies, where economic indicators serve as pivotal components in optimizing these strategies. 

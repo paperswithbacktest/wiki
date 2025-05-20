@@ -1,6 +1,8 @@
 ---
-title: "Reading Financial Analysis Reports (Algo Trading)"
-description: "Explore the crucial role of financial analysis in investment decision-making with insights on integrating report reading and innovative algo trading techniques."
+category: trading_strategy
+description: Explore the crucial role of financial analysis in investment decision-making
+  with insights on integrating report reading and innovative algo trading techniques.
+title: Reading Financial Analysis Reports (Algo Trading)
 ---
 
 Investment decision-making stands as a cornerstone in financial markets, demanding a keen understanding of various analytical methods. Financial analysis is paramount as it involves assessing the viability, stability, and profitability of investments through systematic examination of financial data. It equips investors with a robust framework to evaluate the potential risks and rewards associated with different financial instruments.

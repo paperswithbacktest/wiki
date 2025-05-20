@@ -1,6 +1,8 @@
 ---
-title: "Criteria for Classifying Junior Gold Miners (Algo Trading)"
-description: "Junior gold miners focus on exploration and discovery of new gold deposits with limited resources and ambition making them vital to the mining industry."
+category: dataset
+description: Junior gold miners focus on exploration and discovery of new gold deposits
+  with limited resources and ambition making them vital to the mining industry.
+title: Criteria for Classifying Junior Gold Miners (Algo Trading)
 ---
 
 Junior gold miners occupy a distinct niche within the expansive mining industry. Diverging from the practices of larger mining corporations, these companies prioritize exploration and discovery, and they often operate with constrained resources but a marked level of ambition. Junior gold miners primarily concentrate on identifying new deposits of gold, seeking valuable and untapped mineral resources. Despite their limited scale, these enterprises contribute significantly to the mineral exploration process, performing a function that larger companies might forego due to the inherent risks and unpredictabilities involved.

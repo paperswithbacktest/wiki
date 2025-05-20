@@ -1,6 +1,8 @@
 ---
-title: "United States Department of Veterans Affairs (Algo Trading)"
-description: "Discover how the U.S. Department of Veterans Affairs is leveraging algorithmic trading to enhance financial operations and optimize resources for veterans."
+category: quant_concept
+description: Discover how the U.S. Department of Veterans Affairs is leveraging algorithmic
+  trading to enhance financial operations and optimize resources for veterans.
+title: United States Department of Veterans Affairs (Algo Trading)
 ---
 
 The intersection of technology and finance has encouraged a paradigm shift, providing numerous industries with the capability to harness innovative tools to increase both efficiency and effectiveness in their operations. Among these innovations, algorithmic trading stands out as a transformative advancement. Originally confined to the elite echelons of financial institutions, algorithmic trading has progressively permeated a wider array of sectors, democratizing access and fostering new applications in various fields.

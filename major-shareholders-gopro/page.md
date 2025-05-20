@@ -1,6 +1,12 @@
 ---
-title: "Major Shareholders of GoPro (Algo Trading)"
-description: "Explore the evolving investment landscape of GoPro as influenced by the rise of algorithmic trading. This article investigates into the implications for major shareholders, including key individual and institutional investors, and how algorithmic strategies are reshaping GoPro's market dynamics. Gain insights into the impacts of shareholder structure and the critical role of technology in optimizing trading strategies at unprecedented speeds and frequencies."
+category: trading_strategy
+description: Explore the evolving investment landscape of GoPro as influenced by the
+  rise of algorithmic trading. This article investigates into the implications for
+  major shareholders, including key individual and institutional investors, and how
+  algorithmic strategies are reshaping GoPro's market dynamics. Gain insights into
+  the impacts of shareholder structure and the critical role of technology in optimizing
+  trading strategies at unprecedented speeds and frequencies.
+title: Major Shareholders of GoPro (Algo Trading)
 ---
 
 The intersection of GoPro's investment landscape and the rise of algorithmic trading has created a complex environment with unique opportunities and challenges for both investors and shareholders. As algorithmic trading gains prominence, its influence on GoPro's market dynamics becomes increasingly significant, necessitating a deeper understanding of these interactions for investors utilizing such strategies. 

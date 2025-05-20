@@ -1,6 +1,9 @@
 ---
-title: "China Investment Corporation: Overview and Criticism (Algo Trading)"
-description: "Explore the China Investment Corporation's role as a major global finance player through detailed analysis of its investment strategies and the controversies it faces."
+category: quant_concept
+description: Explore the China Investment Corporation's role as a major global finance
+  player through detailed analysis of its investment strategies and the controversies
+  it faces.
+title: 'China Investment Corporation: Overview and Criticism (Algo Trading)'
 ---
 
 The China Investment Corporation (CIC) stands as a formidable entity in global finance, recognized as one of the largest sovereign wealth funds worldwide. Established in 2007, CIC has rapidly ascended to prominence, managing over $1.3 trillion in assets. This immense asset base positions CIC as a crucial player with significant influence over international markets. 

@@ -1,6 +1,8 @@
 ---
-title: "Trust Indenture (Algo Trading)"
-description: "Explore how trust indentures and algorithmic trading are reshaping the bond market by enhancing investor protection, efficiency, and financial innovation."
+category: quant_concept
+description: Explore how trust indentures and algorithmic trading are reshaping the
+  bond market by enhancing investor protection, efficiency, and financial innovation.
+title: Trust Indenture (Algo Trading)
 ---
 
 Understanding the intricacies of the bond market is crucial for investors and financiers as it forms a fundamental part of the global financial system. Bonds, essentially loans made by investors to borrowers like corporations or governments, involve various legal agreements that ensure transparency and safeguard the interests of all parties involved. Among these agreements, trust indentures are significant, encapsulating the terms and conditions governing bond issues. These legal documents protect investor interests by outlining the responsibilities of the issuer and the rights of the bondholders.

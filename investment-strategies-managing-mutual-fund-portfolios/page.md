@@ -1,6 +1,8 @@
 ---
-title: "Investment Strategies for Managing Mutual Fund Portfolios (Algo Trading)"
-description: "Explore effective investment strategies combining mutual funds portfolio management and algorithmic trading to maximize returns and manage risks efficiently."
+category: trading_strategy
+description: Explore effective investment strategies combining mutual funds portfolio
+  management and algorithmic trading to maximize returns and manage risks efficiently.
+title: Investment Strategies for Managing Mutual Fund Portfolios (Algo Trading)
 ---
 
 Investment strategies have continuously evolved to adapt to the ever-changing financial landscapes. Over the decades, these strategies have diversified from traditional stock and bond selections to include more sophisticated financial instruments. The introduction of mutual funds and advanced portfolio management techniques has played a crucial role in modern investing, providing investors with tools to diversify risk and enhance returns.

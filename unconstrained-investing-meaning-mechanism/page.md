@@ -1,6 +1,9 @@
 ---
-title: "Unconstrained Investing: Meaning and Mechanism (Algo Trading)"
-description: "Discover how unconstrained investing strategies and algorithmic trading can enhance portfolio performance by navigating complex markets with agility and precision."
+category: trading_strategy
+description: Discover how unconstrained investing strategies and algorithmic trading
+  can enhance portfolio performance by navigating complex markets with agility and
+  precision.
+title: 'Unconstrained Investing: Meaning and Mechanism (Algo Trading)'
 ---
 
 The world of investing has undergone a significant transformation, with traditional investment methods facing heightened scrutiny due to their limitations in adaptability and performance during volatile market conditions. In response, unconstrained investment strategies and algorithmic trading have emerged as innovative approaches to effectively navigate the complexities of modern financial markets. 

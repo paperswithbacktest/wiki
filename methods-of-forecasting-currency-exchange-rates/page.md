@@ -1,6 +1,13 @@
 ---
-title: "Methods of Forecasting Currency Exchange Rates (Algo Trading)"
-description: "Discover the essential methods of forecasting currency exchange rates and their impact on the foreign exchange market. Explore how machine learning and algorithmic trading have transformed predictions, aiding traders and businesses in managing financial risks. Understand the roles of fundamental and technical analysis in developing accurate forecasts and how a hybrid approach can optimize decision-making in the finance sector. Learn about methodologies such as Purchasing Power Parity and econometric models to navigate the intricacies of international finance effectively."
+category: trading_strategy
+description: Discover the essential methods of forecasting currency exchange rates
+  and their impact on the foreign exchange market. Explore how machine learning and
+  algorithmic trading have transformed predictions, aiding traders and businesses
+  in managing financial risks. Understand the roles of fundamental and technical analysis
+  in developing accurate forecasts and how a hybrid approach can optimize decision-making
+  in the finance sector. Learn about methodologies such as Purchasing Power Parity
+  and econometric models to navigate the intricacies of international finance effectively.
+title: Methods of Forecasting Currency Exchange Rates (Algo Trading)
 ---
 
 The foreign exchange market, commonly known as forex, stands as the largest financial market worldwide, boasting a staggering daily turnover of over $6.6 trillion. This market operates as a decentralized platform for the trading of currencies, where exchange rates fluctuate based on supply and demand dynamics, macroeconomic indicators, and geopolitical events. 

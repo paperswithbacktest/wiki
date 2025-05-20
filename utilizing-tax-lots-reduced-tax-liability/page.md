@@ -1,6 +1,8 @@
 ---
-title: "Utilizing Tax Lots for Reduced Tax Liability (Algo Trading)"
-description: "Optimize tax efficiency with algorithmic trading and smart tax lot management. Learn strategies to reduce liabilities and enhance returns using specific methods."
+category: trading_strategy
+description: Optimize tax efficiency with algorithmic trading and smart tax lot management.
+  Learn strategies to reduce liabilities and enhance returns using specific methods.
+title: Utilizing Tax Lots for Reduced Tax Liability (Algo Trading)
 ---
 
 In today’s rapidly evolving financial landscape, achieving optimal returns while minimizing tax obligations is a top priority for traders and investors. One key area that can significantly impact tax efficiency is the management of tax lots. Tax lots are essential components of trading strategies, as they allow for the identification of specific shares or securities acquired at a particular time and price. This helps in calculating the capital gains tax more precisely. By efficiently managing tax lots, traders and investors can realize substantial tax savings.

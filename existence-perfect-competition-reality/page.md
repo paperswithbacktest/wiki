@@ -1,6 +1,9 @@
 ---
-title: "Existence of Perfect Competition in Reality (Algo Trading)"
-description: "Explore the intersection of perfect competition and algorithmic trading in modern markets to understand their role in enhancing efficiency and tackling challenges."
+category: quant_concept
+description: Explore the intersection of perfect competition and algorithmic trading
+  in modern markets to understand their role in enhancing efficiency and tackling
+  challenges.
+title: Existence of Perfect Competition in Reality (Algo Trading)
 ---
 
 In economic theory, market structures are essential for defining the operation of businesses, setting prices, and allocating resources efficiently. Among these, perfect competition is a fundamental model that depicts a market scenario where countless small firms sell identical products without any barriers to entry or exit. This theoretical model, though rarely found in real-world markets, has been instrumental in explaining how market efficiencies could potentially be achieved.

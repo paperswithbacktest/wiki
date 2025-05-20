@@ -1,6 +1,10 @@
 ---
-title: "Techniques for Trading Stock Options (Algo Trading)"
-description: "Explore the world of options trading and algorithmic strategies, offering insights into speculative and hedging techniques for financial markets. This page discusses call and put options, algorithmic trading advancements, and foundational and advanced strategies, enhancing your understanding and potential market engagement."
+category: trading_strategy
+description: Explore the world of options trading and algorithmic strategies, offering
+  insights into speculative and hedging techniques for financial markets. This page
+  discusses call and put options, algorithmic trading advancements, and foundational
+  and advanced strategies, enhancing your understanding and potential market engagement.
+title: Techniques for Trading Stock Options (Algo Trading)
 ---
 
 Options trading provides a versatile avenue for engaging with financial markets, enabling participants to speculate on asset price movements, hedge against potential risks, and pursue strategic investments tailored to their financial goals. Unlike traditional stock trading, options offer a unique set of tools that allow traders to construct complex investment strategies with limited capital exposure. The primary instruments in options trading are call and put options, which grant the right to buy or sell the underlying asset at a predetermined price within a specified time frame.

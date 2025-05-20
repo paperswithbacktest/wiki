@@ -1,6 +1,9 @@
 ---
-title: "SEC Form S-4: Overview and Functionality (Algo Trading)"
-description: "Explore the vital role SEC Form S-4 plays in M&A, ensuring legal compliance, transparency, and informed investment decisions in today's fast-paced financial markets."
+category: quant_concept
+description: Explore the vital role SEC Form S-4 plays in M&A, ensuring legal compliance,
+  transparency, and informed investment decisions in today's fast-paced financial
+  markets.
+title: 'SEC Form S-4: Overview and Functionality (Algo Trading)'
 ---
 
 In the complex domain of mergers and acquisitions (M&A), SEC Form S-4 stands as a pivotal element to ensure transparency and adherence to regulatory standards. This form, mandated under the Securities Act of 1933, is crucial for companies intending to register securities in relation to business combinations, such as mergers, acquisitions, or similar reorganization activities. It encompasses essential information that allows shareholders and the investment community to make informed decisions regarding the transaction.

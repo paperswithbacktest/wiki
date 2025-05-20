@@ -1,6 +1,8 @@
 ---
-title: "Blockchain in Trading (Algo Trading)"
-description: "Unlock the future of trading with blockchain Discover how this technology enhances algorithmic trading by boosting transparency efficiency and security"
+category: quant_concept
+description: Unlock the future of trading with blockchain Discover how this technology
+  enhances algorithmic trading by boosting transparency efficiency and security
+title: Blockchain in Trading (Algo Trading)
 ---
 
 Blockchain technology, originally the backbone of cryptocurrency networks, has expanded far beyond digital currencies to include a multitude of applications in various industries. This expansion is particularly noteworthy in the trading sector, where blockchain is revolutionizing how trades are executed, settled, and regulated. Blockchain's distributed ledger technology (DLT) ensures data integrity, immutability, and transparency, which are crucial for modern trading environments.

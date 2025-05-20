@@ -1,6 +1,8 @@
 ---
-title: "High Close: Meaning, Examples, and Misuse (Algo Trading)"
-description: "Discover the concept of 'high close' in algorithmic trading its significance examples and the potential for misuse in financial markets."
+category: quant_concept
+description: Discover the concept of 'high close' in algorithmic trading its significance
+  examples and the potential for misuse in financial markets.
+title: 'High Close: Meaning, Examples, and Misuse (Algo Trading)'
 ---
 
 The stock market represents a dynamic and multifaceted ecosystem where myriad trading strategies and cutting-edge technologies intersect. Successfully navigating this landscape demands a firm grasp of stock market terminology and the underlying mechanisms driving market activities. Among the diverse strategies employed by traders, understanding terms like "high close" becomes particularly significant. Not only are such terms pivotal for assessing market trends, but they also play a role in shaping trading outcomes and perceptions.

@@ -1,6 +1,8 @@
 ---
-title: "National Housing Act: Overview and Impact (Algo Trading)"
-description: "Explore the impact of the National Housing Act on the US housing market and how algorithmic trading reshapes housing finance in this insightful analysis."
+category: quant_concept
+description: Explore the impact of the National Housing Act on the US housing market
+  and how algorithmic trading reshapes housing finance in this insightful analysis.
+title: 'National Housing Act: Overview and Impact (Algo Trading)'
 ---
 
 The intersection of federal legislation and housing policy represents a multifaceted domain, further complicated by the increasing influence of algorithmic trading within financial markets. Historical legislation, such as the National Housing Act, has played a significant role in shaping housing policies in the United States, creating frameworks that have had enduring impacts on homeownership and market stabilization. Enacted during the economic turmoil of the Great Depression, the National Housing Act aimed to rejuvenate the housing market and facilitate wider access to homeownership, primarily by establishing the Federal Housing Administration (FHA) and introducing federally-backed mortgage insurance. This legislative initiative not only helped stabilize the housing sector but also set foundational policies that continued to influence housing finance.

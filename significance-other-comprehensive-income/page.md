@@ -1,6 +1,8 @@
 ---
-title: "Significance of Other Comprehensive Income (Algo Trading)"
-description: "Explore the significance of Other Comprehensive Income and its impact on financial analysis in the context of algorithmic trading."
+category: quant_concept
+description: Explore the significance of Other Comprehensive Income and its impact
+  on financial analysis in the context of algorithmic trading.
+title: Significance of Other Comprehensive Income (Algo Trading)
 ---
 
 In the fast-evolving world of finance, understanding the nuances of financial statements is crucial for investors, analysts, and businesses. Financial statements serve as formal records that encapsulate a business's financial activities and its position at a given time, offering invaluable insights into its performance and potential. Among the various components of these statements, the term 'Other Comprehensive Income' (OCI) often appears, but many may wonder what it signifies and why it holds importance. OCI encompasses those revenues, expenses, gains, and losses that are excluded from a company's net income, which can significantly affect a company's reported financial condition without impacting its bottom line directly.

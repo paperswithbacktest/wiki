@@ -1,6 +1,8 @@
 ---
-title: "Layering in trading (Algo Trading)"
-description: "Layering in trading is a deceptive strategy in algorithmic markets, influencing stock prices and misleading participants. Discover its impact and regulatory responses."
+category: trading_strategy
+description: Layering in trading is a deceptive strategy in algorithmic markets, influencing
+  stock prices and misleading participants. Discover its impact and regulatory responses.
+title: Layering in trading (Algo Trading)
 ---
 
 Layering is a controversial yet sophisticated strategy in algorithmic trading, commonly used to manipulate stock prices and market activities. This trading tactic involves placing multiple buy or sell orders with the intention of creating a false sense of demand or supply in the market. Although the orders appear legitimate, they are often canceled before execution, misleading other market participants and potentially influencing stock prices. This deceptive practice leverages high-frequency trading technologies to rapidly place and withdraw orders, making it challenging for market surveillance systems to detect and combat effectively.

@@ -1,6 +1,12 @@
 ---
-title: "Discretionary portfolio managers (PMs) (Algo Trading)"
-description: Explore the debate between discretionary trading and algorithmic trading as this page investigates into the strengths of discretionary portfolio managers who use intuition and experience to make nuanced trading decisions. Learn how integrating human insight with algorithmic precision can enhance trading performance creating a dynamic strategy that leverages the best of both approaches in today's complex financial landscape.
+category: trading_strategy
+description: Explore the debate between discretionary trading and algorithmic trading
+  as this page investigates into the strengths of discretionary portfolio managers
+  who use intuition and experience to make nuanced trading decisions. Learn how integrating
+  human insight with algorithmic precision can enhance trading performance creating
+  a dynamic strategy that leverages the best of both approaches in today's complex
+  financial landscape.
+title: Discretionary portfolio managers (PMs) (Algo Trading)
 ---
 
 The ongoing debate over discretionary trading versus algorithmic trading in financial markets highlights the distinct merits and challenges each approach presents. Discretionary portfolio managers (PMS) rely on a blend of intuition, accumulated experience, and technical analysis to inform their trading decisions. This human-centric method emphasizes the ability to interpret market nuances and subtle signals that may not be immediately apparent to automated systems. Such intuition-driven strategies allow for adaptability in dynamic market conditions, albeit sometimes at the cost of being swayed by emotional biases.

@@ -1,6 +1,9 @@
 ---
-title: "Opening Price Principle in Trading Strategies (Algo Trading)"
-description: "Explore the Opening Price Principle and algorithmic trading to optimize your strategies Learn how these advanced techniques enhance decision-making and profitability"
+category: trading_strategy
+description: Explore the Opening Price Principle and algorithmic trading to optimize
+  your strategies Learn how these advanced techniques enhance decision-making and
+  profitability
+title: Opening Price Principle in Trading Strategies (Algo Trading)
 ---
 
 Investment trading has undergone a profound transformation with the advent of algorithmic techniques, which have shifted the landscape from simple traditional methodologies to a technologically advanced and data-driven discipline. At the forefront of this evolution are the Opening Price Principle and algorithmic trading, two sophisticated strategies that hold significant relevance for contemporary investors. 

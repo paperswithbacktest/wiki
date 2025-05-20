@@ -1,6 +1,8 @@
 ---
-title: "Guyanese Dollar: Overview and Functionality (Algo Trading)"
-description: "Explore the role of the Guyanese Dollar in Guyana's economy amid rapid growth and oil discoveries Learn how algorithmic trading impacts the currency market"
+category: quant_concept
+description: Explore the role of the Guyanese Dollar in Guyana's economy amid rapid
+  growth and oil discoveries Learn how algorithmic trading impacts the currency market
+title: 'Guyanese Dollar: Overview and Functionality (Algo Trading)'
 ---
 
 The Guyanese economy has experienced significant developments in recent years, primarily driven by the discovery of substantial offshore oil reserves. This discovery has positioned Guyana as one of the fastest-growing economies in the world, attracting considerable foreign investment and causing shifts in its economic landscape. Understanding the dynamics of local currency, particularly in resource-rich nations like Guyana, is essential in global trade. The exchange rate affects import and export competitiveness, investment flows, and overall economic stability.

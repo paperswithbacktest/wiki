@@ -1,6 +1,8 @@
 ---
-title: "Wedge Patterns: Falling and Rising Variants (Algo Trading)"
-description: "Explore the significance of falling and rising wedge patterns in algorithmic trading Learn how these converging trend lines can predict market reversals"
+category: trading_strategy
+description: Explore the significance of falling and rising wedge patterns in algorithmic
+  trading Learn how these converging trend lines can predict market reversals
+title: 'Wedge Patterns: Falling and Rising Variants (Algo Trading)'
 ---
 
 Wedge patterns are a significant element in technical analysis, serving as a predictive tool for traders eager to forecast market movements. These patterns manifest as converging trend lines formed by the movement of prices on a chart, suggesting an impending reversal in price direction. Among these, rising and falling wedge patterns stand out for their utility and relevance, especially in algorithmic trading.

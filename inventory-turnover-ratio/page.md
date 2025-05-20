@@ -1,6 +1,14 @@
 ---
-title: "Inventory Turnover Ratio (Algo Trading)"
-description: "Discover the vital link between inventory turnover ratios and algorithmic trading to enhance business performance. This article explores how financial ratios like inventory turnover provide insights into a company's operational efficiency and competitive edge. Learn how algorithmic trading strategies utilize these ratios to identify profitable opportunities and optimize trading decisions at high speeds. Dive into the intricacies of turnover analysis, inventory management techniques such as JIT and pull-through systems, and how they contribute to achieving market-responsive operations and improved profitability."
+category: quant_concept
+description: Discover the vital link between inventory turnover ratios and algorithmic
+  trading to enhance business performance. This article explores how financial ratios
+  like inventory turnover provide insights into a company's operational efficiency
+  and competitive edge. Learn how algorithmic trading strategies utilize these ratios
+  to identify profitable opportunities and optimize trading decisions at high speeds.
+  Dive into the intricacies of turnover analysis, inventory management techniques
+  such as JIT and pull-through systems, and how they contribute to achieving market-responsive
+  operations and improved profitability.
+title: Inventory Turnover Ratio (Algo Trading)
 ---
 
 Understanding the intricate relationships between financial ratios, inventory management, and algorithmic trading is crucial for modern businesses aiming to optimize performance. Financial ratios, which include metrics like the inventory turnover ratio, are essential tools that provide key insights into a company's operational efficiency. These ratios help quantify how effectively a company manages its inventory, thereby reflecting the company's health and competitive positioning in the market. Inventory turnover, for example, is calculated as the cost of goods sold divided by the average inventory and indicates how many times inventory is sold and replaced over a period. 

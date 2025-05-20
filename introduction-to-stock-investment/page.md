@@ -1,6 +1,9 @@
 ---
-title: "Introduction to Stock Investment (Algo Trading)"
-description: "Explore stock investment and algorithmic trading as crucial tools for modern investing Discover strategies emphasizing tech innovation for optimizing returns."
+category: trading_strategy
+description: Explore stock investment and algorithmic trading as crucial tools for
+  modern investing Discover strategies emphasizing tech innovation for optimizing
+  returns.
+title: Introduction to Stock Investment (Algo Trading)
 ---
 
 The financial markets have experienced substantial evolution over the decades, characterized by the burgeoning importance of stock investment and the adoption of algorithmic trading as pivotal components of contemporary trading methodologies. These elements have transformed how individual and institutional investors approach capital markets, enabling more sophisticated strategies aimed at optimizing returns and managing risks.

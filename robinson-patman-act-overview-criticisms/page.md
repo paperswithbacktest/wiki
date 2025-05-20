@@ -1,6 +1,9 @@
 ---
-title: "Robinson-Patman Act Overview and Criticisms (Algo Trading)"
-description: "Explore the intricacies of the Robinson-Patman Act and algorithmic trading Discover how price discrimination challenges fair competition amidst evolving antitrust laws"
+category: quant_concept
+description: Explore the intricacies of the Robinson-Patman Act and algorithmic trading
+  Discover how price discrimination challenges fair competition amidst evolving antitrust
+  laws
+title: Robinson-Patman Act Overview and Criticisms (Algo Trading)
 ---
 
 Antitrust laws are pivotal in ensuring fair competition within markets and preventing anti-competitive practices that can hinder market efficiency and consumer welfare. These laws encompass various legislative measures, with a primary focus on preventing practices such as monopolies, cartels, and unfair trade practices. Among these, price discrimination under antitrust regulations is specifically addressed by the Robinson-Patman Act. Enacted in 1936, the Act was designed to curb price discrimination that could undermine competition and disadvantage smaller businesses compared to larger counterparts. It seeks to ensure that all competitors operate on an equitable playing field, preventing sellers from charging different prices to different customers under conditions that harm competition.

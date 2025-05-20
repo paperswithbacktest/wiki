@@ -1,6 +1,9 @@
 ---
-title: "Stock Split Adjustment: Definition and Functionality (Algo Trading)"
-description: "Explore the significance of stock split adjustments in algorithmic trading This guide details their impact on share prices and the necessity for accurate data analysis"
+category: quant_concept
+description: Explore the significance of stock split adjustments in algorithmic trading
+  This guide details their impact on share prices and the necessity for accurate data
+  analysis
+title: 'Stock Split Adjustment: Definition and Functionality (Algo Trading)'
 ---
 
 Algorithmic trading, a transformative force in the financial industry, employs sophisticated algorithms to execute trades with remarkable speed and precision. Central to this technological advancement is the utilization of historical data, which serves as the backbone for modeling and executing trading strategies. However, the integrity of this data is often impacted by corporate actions, among which stock splits are notable.
@@ -149,4 +152,3 @@ A thorough understanding of stock splits, their price adjustments, and their con
 - Jansen, S. (2020). *Machine Learning for Algorithmic Trading: Predictive models to extract signals from market and alternative data for systematic trading strategies with Python*. Packt Publishing. This publication focuses on applying machine learning to algorithmic trading, providing Python examples that include techniques for adjusting stock prices to account for splits, thus ensuring precise data analytics and strategy development.
 
 - Aronson, D. R. (2007). *Evidence-Based Technical Analysis: Applying the Scientific Method and Statistical Inference to Trading Signals*. Wiley. Aronson explores the application of scientific and statistical methods to technical analysis, stressing the importance of using accurate historical data. Stock splits and adjusted prices are essential for maintaining consistent data over time, critical for evidence-based analysis.
-

@@ -1,6 +1,8 @@
 ---
-title: "Gharar in Islamic Finance: Meaning and Examples (Algo Trading)"
-description: "Explore the concept of gharar in Islamic finance and its implications in algorithmic trading focusing on transparency and ethical financial practices."
+category: quant_concept
+description: Explore the concept of gharar in Islamic finance and its implications
+  in algorithmic trading focusing on transparency and ethical financial practices.
+title: 'Gharar in Islamic Finance: Meaning and Examples (Algo Trading)'
 ---
 
 In the modern financial landscape, uncertainty is a pivotal factor shaping investment decisions and trading strategies. This uncertainty can stem from various sources, including market volatility, geopolitical events, and macroeconomic indicators, all of which can affect financial markets unpredictably. Such uncertainties highlight the importance of risk management and strategic insights in financial decision-making processes.

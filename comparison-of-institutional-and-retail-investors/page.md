@@ -1,6 +1,8 @@
 ---
-title: "Comparison of Institutional and Retail Investors (Algo Trading)"
-description: "Discover the differences between institutional and retail investors in algorithmic trading and their impact on market dynamics and economic trends."
+category: quant_concept
+description: Discover the differences between institutional and retail investors in
+  algorithmic trading and their impact on market dynamics and economic trends.
+title: Comparison of Institutional and Retail Investors (Algo Trading)
 ---
 
 The dynamic financial market comprises a diverse array of participants, each wielding influence over market fluctuations through distinct mechanisms. This article focuses on two primary investor categories: institutional investors and retail investors, with a particular emphasis on algorithmic trading. Recognizing the differences between these groups is essential for understanding market dynamics and the specific roles these entities play in shaping economic trends.

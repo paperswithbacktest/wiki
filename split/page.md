@@ -1,8 +1,9 @@
 ---
-title: Enhancing Data Privacy with Split Machine Learning Techniques
+category: quant_concept
 description: Split machine learning safeguards data privacy by splitting training
   between parties to build models securely without sharing raw data Discover more
   inside
+title: Enhancing Data Privacy with Split Machine Learning Techniques
 ---
 
 ![Image](images/1.png)

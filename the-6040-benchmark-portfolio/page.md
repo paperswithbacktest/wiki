@@ -1,6 +1,10 @@
 ---
-title: "The 60/40 Benchmark Portfolio Explained (Algo Trading)"
-description: Discover how the 60/40 benchmark portfolio guides algorithmic trading, blending traditional asset allocation with modern algo strategies for optimal performance. Learn about the importance of this benchmark in strategy evaluation and decision-making within dynamic financial markets.
+category: trading_strategy
+description: Discover how the 60/40 benchmark portfolio guides algorithmic trading,
+  blending traditional asset allocation with modern algo strategies for optimal performance.
+  Learn about the importance of this benchmark in strategy evaluation and decision-making
+  within dynamic financial markets.
+title: The 60/40 Benchmark Portfolio Explained (Algo Trading)
 ---
 
 Algorithmic trading refers to the use of computer algorithms to automatically execute trading orders based on predefined criteria. These algorithms utilize mathematical models and high-speed access to financial markets to execute orders at optimal prices, thereby minimizing costs and maximizing profits. In modern financial markets, algorithmic trading is significant due to its ability to process large volumes of data at speeds unattainable by human traders. This capability not only enhances market efficiency but also provides liquidity, thereby reducing bid-ask spreads.

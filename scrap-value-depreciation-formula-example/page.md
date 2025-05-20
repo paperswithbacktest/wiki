@@ -1,6 +1,8 @@
 ---
-title: "Scrap Value Depreciation: Formula and Example (Algo Trading)"
-description: "Learn about scrap value depreciation and its role in asset valuation through examples and formulas, essential for financial planning and algo trading."
+category: quant_concept
+description: Learn about scrap value depreciation and its role in asset valuation
+  through examples and formulas, essential for financial planning and algo trading.
+title: 'Scrap Value Depreciation: Formula and Example (Algo Trading)'
 ---
 
 In finance and accounting, understanding the concept of depreciation and its role in the valuation of assets is essential. Depreciation is an accounting method that systematically reduces the recorded cost of an asset over its useful life, thereby reflecting its decreasing value and utility. This technique is crucial not only for accurate financial reporting but also for tax compliance, as businesses can deduct depreciation expenses to reduce taxable income. One key component of depreciation calculations is scrap value, also known as residual value, which represents the estimated value of an asset at the end of its useful life. The scrap value is subtracted from the asset's initial cost to determine the total depreciable amount.
@@ -152,4 +154,3 @@ Kimmel, P. D., Weygandt, J. J., & Kieso, D. E. have extensively covered financia
 Chan, E. P.'s "Algorithmic Trading: Winning Strategies and Their Rationale" offers in-depth analysis of how algorithmic trading operates, emphasizing the significance of maintaining efficient technological infrastructure. This book illustrates how depreciating technology assets can impact trading strategies and operations, providing practical insights into aligning trading models with asset management.
 
 Johnson, B.'s "Algorithmic Trading and DMA: An Introduction to Direct Access Trading Strategies" introduces readers to direct access trading strategies, providing a comprehensive look at how algorithmic trading functions. Understanding asset depreciation within the context of these strategies highlights the importance of forecasting technological upgrades and managing costs efficiently to remain competitive in the fast-paced trading environment.
-

@@ -1,6 +1,8 @@
 ---
-title: "Wealth Effect and Economic Impact (Algo Trading)"
-description: "Explore the intricate relationship between wealth effects in financial markets and algorithmic trading's impact on economic behavior and market dynamics."
+category: quant_concept
+description: Explore the intricate relationship between wealth effects in financial
+  markets and algorithmic trading's impact on economic behavior and market dynamics.
+title: Wealth Effect and Economic Impact (Algo Trading)
 ---
 
 This article explores the intricate relationship between financial markets, the economic impact of wealth effects, and the pivotal role of algorithmic trading. Changes in asset values can significantly influence consumer behavior through what is known as the wealth effect. This phenomenon occurs when individuals, feeling wealthier due to an increase in the value of their assets—such as real estate or stock portfolios—tend to increase their consumption, thereby driving economic activity. Understanding this behavior is crucial for economists and policymakers as they gauge the broader implications of asset value fluctuations on economic stability.

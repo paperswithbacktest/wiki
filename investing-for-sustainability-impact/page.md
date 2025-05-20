@@ -1,6 +1,9 @@
 ---
-title: "Investing for Sustainability Impact (Algo Trading)"
-description: "Investing for Sustainability Impact combines financial goals with environmental and social objectives, using algorithmic trading to enhance responsible investing strategies."
+category: trading_strategy
+description: Investing for Sustainability Impact combines financial goals with environmental
+  and social objectives, using algorithmic trading to enhance responsible investing
+  strategies.
+title: Investing for Sustainability Impact (Algo Trading)
 ---
 
 Sustainability investment has increasingly gained traction among investors seeking to achieve financial returns while also fostering a positive environmental and societal impact. This strategy, known as investing for sustainability impact (IFSI), involves approaches that aim to instigate positive behavioral changes among companies and policymakers. These strategies are designed not only to yield financial gains but also to promote more ethical and ecologically responsible business practices.

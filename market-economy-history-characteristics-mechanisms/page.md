@@ -1,6 +1,8 @@
 ---
-title: "Market Economy: History, Characteristics, and Mechanisms (Algo Trading)"
-description: "Explore the history and mechanisms of market economies, focusing on key characteristics like supply and demand, and the impact of algorithmic trading."
+category: quant_concept
+description: Explore the history and mechanisms of market economies, focusing on key
+  characteristics like supply and demand, and the impact of algorithmic trading.
+title: 'Market Economy: History, Characteristics, and Mechanisms (Algo Trading)'
 ---
 
 The global economy consists of various economic systems, with the market economy being one of the most prevalent. A market economy is defined by its reliance on the price signals generated through the forces of supply and demand to guide decisions related to investment, production, and distribution. These price signals reflect the relative scarcity or abundance of goods and services and influence the behavior of consumers and producers in the market.

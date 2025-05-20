@@ -1,6 +1,8 @@
 ---
-title: "Seasonality in Trading (Algo Trading)"
-description: "Explore how seasonality impacts trading with algorithmic strategies that capitalize on recurring trends. Learn tools for analysis and popular market patterns."
+category: quant_concept
+description: Explore how seasonality impacts trading with algorithmic strategies that
+  capitalize on recurring trends. Learn tools for analysis and popular market patterns.
+title: Seasonality in Trading (Algo Trading)
 ---
 
 Seasonality in trading refers to periods in financial markets characterized by recurring trends or patterns during specific times of the year. These patterns often occur due to a combination of psychological, economic, and institutional factors. In algorithmic trading, understanding these seasonal variations can provide traders with an edge by leveraging predictable patterns to optimize trading strategies. The concept of seasonality is not limited to weather-related seasons but also encompasses fiscal periods, holidays, and other calendar events that influence market behavior.

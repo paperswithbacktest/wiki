@@ -1,6 +1,9 @@
 ---
-title: "Supply-Side Economics Overview (Algo Trading)"
-description: "Explore supply-side economics focusing on Reaganomics and its effects. Discover how algorithmic trading reshapes financial markets through high-speed automated trades."
+category: quant_concept
+description: Explore supply-side economics focusing on Reaganomics and its effects.
+  Discover how algorithmic trading reshapes financial markets through high-speed automated
+  trades.
+title: Supply-Side Economics Overview (Algo Trading)
 ---
 
 This article explores the intricate world of economic policymaking, primarily focusing on supply-side economics and its manifestation in Reaganomics. Supply-side economics is premised on the idea that economic growth can best be achieved by reducing barriers for producers, such as lowering taxes and decreasing regulation. This theory suggests that reducing the fiscal burden on businesses stimulates investment and production, which in turn leads to job creation, increased consumer spending, and broader economic growth.

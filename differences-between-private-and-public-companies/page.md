@@ -1,6 +1,8 @@
 ---
-title: "Differences Between Private and Public Companies (Algo Trading)"
-description: "Explore the differences between public and private companies in algorithmic trading. Understand how structure impacts strategy, capital access, and regulation."
+category: quant_concept
+description: Explore the differences between public and private companies in algorithmic
+  trading. Understand how structure impacts strategy, capital access, and regulation.
+title: Differences Between Private and Public Companies (Algo Trading)
 ---
 
 In today's dynamic financial markets, the selection of an appropriate business structure is crucial for companies aiming to participate in trading activities, particularly algorithmic trading. The type of business structure—public or private—plays a significant role in determining how a company can engage in and capitalize on these trading activities. This article focuses on the nuanced differences between public and private companies, examining their structural characteristics and how they align with algorithmic trading.

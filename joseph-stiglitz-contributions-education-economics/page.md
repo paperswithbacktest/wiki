@@ -1,6 +1,8 @@
 ---
-title: "Joseph Stiglitz: Contributions in Education and Economics (Algo Trading)"
-description: "Discover Joseph Stiglitz's influential economic theories and their connection to algorithmic trading. Explore the role of education in merging these fields."
+category: quant_concept
+description: Discover Joseph Stiglitz's influential economic theories and their connection
+  to algorithmic trading. Explore the role of education in merging these fields.
+title: 'Joseph Stiglitz: Contributions in Education and Economics (Algo Trading)'
 ---
 
 In an ever-evolving economic landscape, the intersection of notable figures in economics and emerging technologies presents a fascinating domain for exploration. One such figure is Joseph Stiglitz, a Nobel Laureate recognized for his substantial contributions to the field of economics, particularly in areas such as information asymmetry and risk management. Stiglitz's work has been instrumental in shaping modern economic theory, and its implications are vast for understanding and navigating the complexities of financial markets.

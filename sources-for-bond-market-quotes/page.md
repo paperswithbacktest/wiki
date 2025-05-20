@@ -1,6 +1,9 @@
 ---
-title: "Sources for Bond Market Quotes (Algo Trading)"
-description: "Explore the evolving landscape of bond market quotes and algorithmic trading with insights into financial data and real-time pricing for informed investing decisions."
+category: dataset
+description: Explore the evolving landscape of bond market quotes and algorithmic
+  trading with insights into financial data and real-time pricing for informed investing
+  decisions.
+title: Sources for Bond Market Quotes (Algo Trading)
 ---
 
 The bond market is a fundamental component of the global financial system, providing necessary support to economic stability and growth. Often eclipsed by the more publicized stock market, the bond market serves as a source of funding for a wide array of entities, including businesses, municipalities, and governments. Its role involves the issuance and trading of debt securities, which are crucial for raising capital and managing financial operations effectively.

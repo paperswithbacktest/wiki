@@ -1,6 +1,8 @@
 ---
-title: "EBITDA Margin: Definition and Application (Algo Trading)"
-description: "Explore the significance of EBITDA margin in finance and its application in algorithmic trading to optimize strategies and enhance decision-making processes."
+category: quant_concept
+description: Explore the significance of EBITDA margin in finance and its application
+  in algorithmic trading to optimize strategies and enhance decision-making processes.
+title: 'EBITDA Margin: Definition and Application (Algo Trading)'
 ---
 
 In the ever-evolving world of finance, understanding key metrics is crucial for evaluating business performance. This article explores critical components of business finance, including financial analysis, the EBITDA margin, and algorithmic trading. Each of these elements plays a vital role in shaping the methods by which financial metrics are utilized to make informed decisions.

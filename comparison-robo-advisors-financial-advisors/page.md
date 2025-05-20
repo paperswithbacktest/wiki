@@ -1,6 +1,9 @@
 ---
-title: "Comparison of Robo-Advisors and Financial Advisors (Algo Trading)"
-description: "Explore the evolving dynamics of investment management with our comparison of robo-advisors and financial advisors highlighting algorithms' transformative impact."
+category: trading_strategy
+description: Explore the evolving dynamics of investment management with our comparison
+  of robo-advisors and financial advisors highlighting algorithms' transformative
+  impact.
+title: Comparison of Robo-Advisors and Financial Advisors (Algo Trading)
 ---
 
 The landscape of investment management has undergone significant transformation over recent years, influenced by the integration of advanced technologies and innovative financial tools. Historically, investment management relied heavily on human expertise, with financial advisors playing a pivotal role. These professionals offered personalized services, guiding clients through decisions on asset allocation, risk management, and financial planning. However, with the advent of sophisticated technologies, the dynamics of investment management have evolved.

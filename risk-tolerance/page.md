@@ -1,6 +1,9 @@
 ---
-title: "Risk Tolerance (Algo Trading)"
-description: "Explore how understanding risk tolerance in algorithmic trading impacts investment strategies asset allocation and portfolio management for enhanced financial outcomes"
+category: quant_concept
+description: Explore how understanding risk tolerance in algorithmic trading impacts
+  investment strategies asset allocation and portfolio management for enhanced financial
+  outcomes
+title: Risk Tolerance (Algo Trading)
 ---
 
 Understanding risk tolerance is crucial in the financial world, as it significantly influences investment decisions, asset allocation, and portfolio management. Risk tolerance is fundamentally the degree to which an investor is comfortable with the uncertainty and potential losses associated with investing. Recognizing and assessing risk tolerance can aid investors in choosing investments that align with their comfort level, thus fostering better financial outcomes.

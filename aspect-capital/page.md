@@ -1,6 +1,9 @@
 ---
-title: "Aspect Capital (Algo Trading)"
-description: "Explore the dynamic world of algorithmic trading with Aspect Capital, a leader in quantitative investing using advanced algorithms for optimized investment returns."
+category: quant_concept
+description: Explore the dynamic world of algorithmic trading with Aspect Capital,
+  a leader in quantitative investing using advanced algorithms for optimized investment
+  returns.
+title: Aspect Capital (Algo Trading)
 ---
 
 In today's rapidly evolving financial landscape, algorithmic trading, commonly referred to as 'algo trading', assumes a central role. This form of trading leverages complex mathematical models and powerful computers to make automated trading decisions in the financial markets. At the forefront of this innovation is Aspect Capital, a prominent figure in the domain of quantitative investing and systematic trading. Founded in 1997, Aspect Capital has distinguished itself by employing advanced algorithms that execute trades with precision and efficiency. This approach reduces the potential for human error and optimizes returns for investors, marking a significant shift from traditional investment strategies.

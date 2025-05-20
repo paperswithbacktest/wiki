@@ -1,6 +1,9 @@
 ---
-title: "Regulatory Arbitrage and Examples (Algo Trading)"
-description: "Explore the intersection of economic strategies, financial regulation, regulatory arbitrage, and algorithmic trading, key elements shaping modern financial ecosystems."
+category: quant_concept
+description: Explore the intersection of economic strategies, financial regulation,
+  regulatory arbitrage, and algorithmic trading, key elements shaping modern financial
+  ecosystems.
+title: Regulatory Arbitrage and Examples (Algo Trading)
 ---
 
 The interplay between economic strategies, financial regulation, regulatory arbitrage, and algorithmic trading forms a complex ecosystem in today's financial landscape. This intricate environment challenges market participants as they navigate regulatory frameworks to optimize economic outcomes. A thorough understanding of these dynamics is essential for policymakers, businesses, and investors striving to remain competitive in increasingly complex markets.

@@ -1,6 +1,9 @@
 ---
-title: "Largest Canadian Banks by Total Assets (Algo Trading)"
-description: "Discover the top Canadian banks by assets known as the Big Five offering robust financial services domestically and internationally while embracing digital innovation."
+category: dataset
+description: Discover the top Canadian banks by assets known as the Big Five offering
+  robust financial services domestically and internationally while embracing digital
+  innovation.
+title: Largest Canadian Banks by Total Assets (Algo Trading)
 ---
 
 The Canadian banking sector is a cornerstone of the nation's financial landscape, playing a pivotal role in both domestic and global economic contexts. The sector is globally significant due to its stability, efficiency, and the high degree of consolidation, primarily attributed to the 'Big Five' banks: Royal Bank of Canada (RBC), Toronto-Dominion Bank (TD), Scotiabank, Bank of Montreal (BMO), and Canadian Imperial Bank of Commerce (CIBC). These institutions collectively dominate the Canadian market and have substantial international operations, enhancing their global influence.

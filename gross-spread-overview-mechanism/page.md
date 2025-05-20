@@ -1,6 +1,8 @@
 ---
-title: "Gross Spread Overview and Mechanism (Algo Trading)"
-description: "Explore the dynamics of gross spread in investment banking and the role of algorithmic trading in shaping modern financial strategies for optimal profitability."
+category: quant_concept
+description: Explore the dynamics of gross spread in investment banking and the role
+  of algorithmic trading in shaping modern financial strategies for optimal profitability.
+title: Gross Spread Overview and Mechanism (Algo Trading)
 ---
 
 In the intricate world of finance, optimizing profitability relies on a thorough understanding of key financial mechanisms. Terms like gross spread in investment banking and advancements in algorithmic trading are crucial for shaping modern financial strategies. Gross spread, which signifies the compensation underwriters receive during an Initial Public Offering (IPO), acts as a core determinant of investor attractiveness and underwriter profitability. Concurrently, algorithmic trading introduces a profound shift in executing trades with precision, systematically utilizing complex algorithms to achieve optimal trade timing and pricing.

@@ -1,6 +1,9 @@
 ---
-title: "Process for Listing a Company on the OTCBB (Algo Trading)"
-description: "Explore the process of listing a company on the OTCBB, a vital platform for small businesses, with insights into market maker roles and algorithmic trading impact."
+category: dataset
+description: Explore the process of listing a company on the OTCBB, a vital platform
+  for small businesses, with insights into market maker roles and algorithmic trading
+  impact.
+title: Process for Listing a Company on the OTCBB (Algo Trading)
 ---
 
 The Over-the-Counter Bulletin Board (OTCBB) is a regulated quotation service managed by the National Association of Securities Dealers (NASD), designed to facilitate the trading of over-the-counter (OTC) securities. Unlike major exchanges such as Nasdaq, the OTCBB does not operate as a formal exchange but as a platform providing real-time quotations, last-sale prices, and volume information. This feature ensures that investors have access to current and comprehensive trading data.

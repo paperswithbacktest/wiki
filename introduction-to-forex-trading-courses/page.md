@@ -1,6 +1,9 @@
 ---
-title: "Introduction to Forex Trading Courses (Algo Trading)"
-description: "Discover the essentials of forex trading and algo trading in this guide Learn currency markets basic concepts and how algorithms can enhance your trading skills"
+category: trading_strategy
+description: Discover the essentials of forex trading and algo trading in this guide
+  Learn currency markets basic concepts and how algorithms can enhance your trading
+  skills
+title: Introduction to Forex Trading Courses (Algo Trading)
 ---
 
 The financial markets offer a plethora of opportunities for individuals looking to invest and trade. Among the various segments of these markets, the currency market, commonly known as the forex market, stands out due to its unmatched size and liquidity. With a daily trading volume surpassing $5 trillion, the forex market operates 24 hours a day, five days a week, providing extensive trading opportunities for investors and traders worldwide.

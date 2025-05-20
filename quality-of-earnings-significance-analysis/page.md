@@ -1,6 +1,8 @@
 ---
-title: "Quality of Earnings: Significance and Analysis (Algo Trading)"
-description: "Understand the role of earnings quality in financial decisions and algorithmic trading Learn to evaluate financial performance and enhance investment strategies"
+category: quant_concept
+description: Understand the role of earnings quality in financial decisions and algorithmic
+  trading Learn to evaluate financial performance and enhance investment strategies
+title: 'Quality of Earnings: Significance and Analysis (Algo Trading)'
 ---
 
 In today's rapidly evolving financial landscape, grasping key concepts such as investment earnings quality, financial analysis, and algorithmic trading is essential for making informed decisions. Investment earnings quality reflects the authenticity of a company's financial reports, distinguishing sustainable earnings from those influenced by temporary or manipulative accounting practices. High-quality earnings are transparent, consistent, and indicative of a company's genuine economic performance.

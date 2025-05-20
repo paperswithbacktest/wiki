@@ -1,6 +1,8 @@
 ---
-title: "MEFF Derivatives Market (Algo Trading)"
-description: "The MEFF Derivatives Market is a key Spanish trading platform offering diverse derivatives and advanced algorithmic trading for competitive portfolio management."
+category: quant_concept
+description: The MEFF Derivatives Market is a key Spanish trading platform offering
+  diverse derivatives and advanced algorithmic trading for competitive portfolio management.
+title: MEFF Derivatives Market (Algo Trading)
 ---
 
 Financial trading has evolved significantly over the years, with algorithmic trading taking center stage in global markets. Among the numerous derivatives markets available, the MEFF derivatives market stands out as a significant platform for derivatives trading, especially in Spain.

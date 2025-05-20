@@ -1,7 +1,8 @@
 ---
-title: Policy Evaluation Methods and Impact in Reinforcement Learning
+category: quant_concept
 description: Policy evaluation in reinforcement learning measures agent success with
   Monte Carlo and TD methods to guide improvements Discover more inside
+title: Policy Evaluation Methods and Impact in Reinforcement Learning
 ---
 
 ![Image](images/1.png)

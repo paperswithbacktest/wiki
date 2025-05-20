@@ -1,6 +1,8 @@
 ---
-title: "Bond-for-Bond Lending (Algo Trading)"
-description: "Discover how integrating financial securities, bond lending, and algorithmic trading reshapes investment strategies, balancing risk and return effectively."
+category: trading_strategy
+description: Discover how integrating financial securities, bond lending, and algorithmic
+  trading reshapes investment strategies, balancing risk and return effectively.
+title: Bond-for-Bond Lending (Algo Trading)
 ---
 
 In the modern financial landscape, investment strategies have evolved significantly, incorporating technological advancements such as algorithmic trading. These innovations have opened up dynamic opportunities for investors seeking to enhance their portfolios. Bonds and financial securities serve as foundational elements, providing stability and predictable income, while algorithmic trading offers precision and speed, crucial for effective market participation.

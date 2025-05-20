@@ -1,6 +1,11 @@
 ---
-title: "Survivor Bias: Risk and Mechanisms (Algo Trading)"
-description: "Learn about the impact of survivorship bias and other statistical biases in algorithmic trading. Understand how these biases affect risk assessment and strategy development, leading to potentially skewed investment decisions. Discover strategies to mitigate these biases, ensuring more accurate and reliable trading models for better financial outcomes."
+category: quant_concept
+description: Learn about the impact of survivorship bias and other statistical biases
+  in algorithmic trading. Understand how these biases affect risk assessment and strategy
+  development, leading to potentially skewed investment decisions. Discover strategies
+  to mitigate these biases, ensuring more accurate and reliable trading models for
+  better financial outcomes.
+title: 'Survivor Bias: Risk and Mechanisms (Algo Trading)'
 ---
 
 Algorithmic trading has fundamentally transformed financial markets by enabling the execution of intricate and varied strategies with unparalleled precision and speed. As algorithms increasingly dominate trading floors, many traders and financial institutions are relying on complex models to generate profits and manage risk. Despite its advantages, algorithmic trading faces the challenge of potential statistical biases that can taint data and subsequent analysis.

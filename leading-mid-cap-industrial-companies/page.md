@@ -1,6 +1,9 @@
 ---
-title: "Leading Mid-Cap Industrial Companies (Algo Trading)"
-description: "Explore the compelling potential of mid-cap industrial stocks and the transformative impact of algorithmic trading in this dynamic investment sector. Uncover unique growth opportunities with these innovative trading strategies."
+category: trading_strategy
+description: Explore the compelling potential of mid-cap industrial stocks and the
+  transformative impact of algorithmic trading in this dynamic investment sector.
+  Uncover unique growth opportunities with these innovative trading strategies.
+title: Leading Mid-Cap Industrial Companies (Algo Trading)
 ---
 
 The world of mid-cap stocks often remains overshadowed by the prominent visibility of large-cap giants and the aggressive growth potential of small-cap companies. Nevertheless, mid-cap industrial stocks hold a distinct position within the investment landscape. These companies, occupying the middle ground with market capitalizations typically between $2 billion and $10 billion, offer a balanced blend of growth potential and stability. Particularly within the industrial sector, which encompasses firms involved in manufacturing, resource extraction, and construction, mid-cap companies provide unique opportunities for investors willing to explore beyond the more traditional choices.

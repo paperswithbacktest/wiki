@@ -1,6 +1,13 @@
 ---
-title: "Construction of Exchange-Traded Funds (Algo Trading)"
-description: "Discover how construction ETFs offer a unique investment opportunity by tapping into the growth of global infrastructure and urbanization trends. These funds provide exposure to key sectors like homebuilding, infrastructure development, and engineering services, driven by increasing urbanization and real estate demands. Enhance your portfolio with algorithmic trading's precision, ensuring efficient, stable ETF market operations. Explore the benefits of construction ETFs to capitalize on cyclical economic sectors aligned with macroeconomic growth."
+category: trading_strategy
+description: Discover how construction ETFs offer a unique investment opportunity
+  by tapping into the growth of global infrastructure and urbanization trends. These
+  funds provide exposure to key sectors like homebuilding, infrastructure development,
+  and engineering services, driven by increasing urbanization and real estate demands.
+  Enhance your portfolio with algorithmic trading's precision, ensuring efficient,
+  stable ETF market operations. Explore the benefits of construction ETFs to capitalize
+  on cyclical economic sectors aligned with macroeconomic growth.
+title: Construction of Exchange-Traded Funds (Algo Trading)
 ---
 
 Exchange-traded funds (ETFs) are a dynamic and versatile investment vehicle that has witnessed substantial growth and popularity over the years. They provide investors with a means to access a wide range of asset classes, sectors, and geographical markets. As an investment tool, ETFs combine the diversification benefits of mutual funds with the trading flexibility of individual stocks, making them a preferred choice for both institutional and retail investors.

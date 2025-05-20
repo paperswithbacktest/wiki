@@ -1,6 +1,9 @@
 ---
-title: "Automotive Sector Benchmarks and Indexes (Algo Trading)"
-description: "Explore the role of benchmark indexes in algorithmic trading within the automotive sector These critical tools help investors refine strategies and enhance performance."
+category: dataset
+description: Explore the role of benchmark indexes in algorithmic trading within the
+  automotive sector These critical tools help investors refine strategies and enhance
+  performance.
+title: Automotive Sector Benchmarks and Indexes (Algo Trading)
 ---
 
 The automotive sector is a critical component of the global economy, engaging a diverse array of companies that range from car manufacturers and auto-parts suppliers to dealers. Collectively, these entities form an interconnected network that influences numerous facets of global trade and technology. The rise of investment in this sector has attracted considerable attention, particularly as advanced algorithms and benchmark indexes become integral tools in refining trading strategies.

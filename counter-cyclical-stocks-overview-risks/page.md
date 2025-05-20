@@ -1,6 +1,9 @@
 ---
-title: "Counter-Cyclical Stocks: Overview and Risks (Algo Trading)"
-description: "Explore the role of counter-cyclical stocks in investment strategies, their risks, and how algorithmic trading aids in managing these risks during economic downturns."
+category: trading_strategy
+description: Explore the role of counter-cyclical stocks in investment strategies,
+  their risks, and how algorithmic trading aids in managing these risks during economic
+  downturns.
+title: 'Counter-Cyclical Stocks: Overview and Risks (Algo Trading)'
 ---
 
 Understanding the various types of stocks is crucial for developing effective investment strategies in the dynamic stock market. Among these, counter-cyclical stocks stand out due to their unique behavior of performing optimally during economic downturns. Recognizing how these stocks differ from standard cyclical equities can significantly improve an investor's approach to risk management and portfolio diversification.

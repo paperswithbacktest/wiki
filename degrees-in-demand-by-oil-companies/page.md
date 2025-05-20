@@ -1,6 +1,8 @@
 ---
-title: "Degrees in Demand by Oil Companies (Algo Trading)"
-description: "Explore diverse degree paths vital to the oil industry, from engineering to data science. Discover evolving roles, sustainability, and algo trading opportunities."
+category: quant_concept
+description: Explore diverse degree paths vital to the oil industry, from engineering
+  to data science. Discover evolving roles, sustainability, and algo trading opportunities.
+title: Degrees in Demand by Oil Companies (Algo Trading)
 ---
 
 The oil industry is a cornerstone of the global economy, driving innovation and offering a vast array of career opportunities. It draws individuals from diverse educational backgrounds, highlighting its multifaceted nature. As technological advancements continue to reshape traditional roles within the industry, individuals with degrees related to engineering, geosciences, economics, and data science find themselves at the forefront of this transformation. 

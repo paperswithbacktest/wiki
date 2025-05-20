@@ -1,6 +1,8 @@
 ---
-title: "Convenience Yield and Calculation Methods (Algo Trading)"
-description: "Explore the strategic value of convenience yield in commodity markets and how algorithmic trading enhances yield calculation for smarter investment decisions."
+category: quant_concept
+description: Explore the strategic value of convenience yield in commodity markets
+  and how algorithmic trading enhances yield calculation for smarter investment decisions.
+title: Convenience Yield and Calculation Methods (Algo Trading)
 ---
 
 In the ever-evolving world of financial markets, gaining a comprehensive understanding of highly specialized concepts such as convenience yield and the varied methods of yield calculation is becoming increasingly important for effective trading and investment decisions. Convenience yield reflects the non-monetary benefits or strategic advantages associated with holding a physical asset as opposed to a derivative contract. Its significance is particularly pronounced in commodity markets where unpredictable price movements can make holding the physical asset more appealing.

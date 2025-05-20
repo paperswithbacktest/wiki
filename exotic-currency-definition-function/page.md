@@ -1,6 +1,8 @@
 ---
-title: "Exotic Currency: Definition and Function (Algo Trading)"
-description: "Explore the dynamics of exotic currencies in forex trading and how algorithmic strategies optimize investments by leveraging their unique risk-reward profiles."
+category: quant_concept
+description: Explore the dynamics of exotic currencies in forex trading and how algorithmic
+  strategies optimize investments by leveraging their unique risk-reward profiles.
+title: 'Exotic Currency: Definition and Function (Algo Trading)'
 ---
 
 The global currency market, also known as the foreign exchange (forex) market, is the largest and most liquid financial market in the world. It boasts a daily trading volume exceeding $6 trillion as of 2021, dwarfing other financial markets such as the stock and bond markets. The forex market operates 24 hours a day, five days a week, covering a vast network of banks, financial institutions, corporations, and individual traders. This market plays a crucial role in international trade and investment, facilitating the conversion of currencies for trade and hedging against foreign exchange risks.

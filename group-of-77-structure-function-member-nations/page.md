@@ -1,6 +1,8 @@
 ---
-title: "Group of 77: Structure, Function, Member Nations (Algo Trading)"
-description: "Explore how the Group of 77 fosters economic cooperation among developing nations and its interaction with algorithmic trading on the global stage."
+category: quant_concept
+description: Explore how the Group of 77 fosters economic cooperation among developing
+  nations and its interaction with algorithmic trading on the global stage.
+title: 'Group of 77: Structure, Function, Member Nations (Algo Trading)'
 ---
 
 The Group of 77 (G-77) plays a vital role in international relations by fostering economic cooperation among developing countries. Established in 1964, the G-77 has grown from its original 77 to 134 member countries, representing a significant portion of the global population and economy. As a collective body, the G-77 provides a platform for developing nations to collaborate and voice their economic interests on the international stage, thereby influencing global policy making and debates.

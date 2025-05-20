@@ -1,6 +1,9 @@
 ---
-title: "Small Trader: Definition, Operation, and Example (Algo Trading)"
-description: "Explore how small traders utilize algorithmic trading to enhance market competitiveness with automated strategies offering precision and speed once reserved for larger players."
+category: quant_concept
+description: Explore how small traders utilize algorithmic trading to enhance market
+  competitiveness with automated strategies offering precision and speed once reserved
+  for larger players.
+title: 'Small Trader: Definition, Operation, and Example (Algo Trading)'
 ---
 
 In the ever-evolving world of financial markets, small traders often navigate their way through trades using both traditional and modern techniques. Historically, these traders relied heavily on intuitive strategies, such as technical analysis and market sentiment, to inform their trading decisions. However, as technology has advanced, so too have the methods available to these investors. Nowadays, algorithmic trading, a technique once reserved for large institutional traders due to its complexity and capital requirements, has become significantly more accessible, even to those operating with smaller portfolios.

@@ -1,6 +1,9 @@
 ---
-title: "Non-Operating Expense Examples (Algo Trading)"
-description: "Gain insights into non-operating expenses in algorithmic trading and understand their impact on financial statements with examples like interest payments and asset losses."
+category: quant_concept
+description: Gain insights into non-operating expenses in algorithmic trading and
+  understand their impact on financial statements with examples like interest payments
+  and asset losses.
+title: Non-Operating Expense Examples (Algo Trading)
 ---
 
 Understanding financial terminology is crucial for businesses operating in today's dynamic economic environment. As organizations navigate complex financial landscapes, a clear grasp of financial terms can significantly impact decision-making processes and overall business health. This article focuses on the pivotal roles of non-operating expenses and business expenses, specifically within the context of algorithmic trading—a field where precision and efficiency are paramount.

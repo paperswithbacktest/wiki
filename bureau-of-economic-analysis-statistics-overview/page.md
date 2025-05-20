@@ -1,6 +1,9 @@
 ---
-title: "Bureau of Economic Analysis: Statistics and Overview (Algo Trading)"
-description: "Explore how Bureau of Economic Analysis data fuels algorithmic trading strategies for informed market decisions and economic insights with precision and speed."
+category: dataset
+description: Explore how Bureau of Economic Analysis data fuels algorithmic trading
+  strategies for informed market decisions and economic insights with precision and
+  speed.
+title: 'Bureau of Economic Analysis: Statistics and Overview (Algo Trading)'
 ---
 
 In today's fast-paced world, economic data is essential for informed decision-making by governments, businesses, and investors. The Bureau of Economic Analysis (BEA), a vital component of the U.S. Department of Commerce, supplies critical economic statistics, including measures like Gross Domestic Product (GDP) and Balance of Trade (BOT). This rich data resource plays a significant role in shaping economic strategies and policy decisions globally.

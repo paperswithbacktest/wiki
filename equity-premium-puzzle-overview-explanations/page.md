@@ -1,6 +1,9 @@
 ---
-title: "Equity Premium Puzzle: Overview and Explanations (Algo Trading)"
-description: "Unlock the complexities of the equity premium puzzle and its implications for investment risk and algorithmic trading through finance theories and empirical research."
+category: quant_concept
+description: Unlock the complexities of the equity premium puzzle and its implications
+  for investment risk and algorithmic trading through finance theories and empirical
+  research.
+title: 'Equity Premium Puzzle: Overview and Explanations (Algo Trading)'
 ---
 
 This article explores the intricate topics of investment risk, finance theories, the equity premium puzzle (EPP), and algorithmic trading. The equity premium puzzle refers to the historically high returns of stocks compared to risk-free assets such as Treasury bills. This phenomenon has persistently challenged conventional finance models, which struggle to offer satisfactory explanations.

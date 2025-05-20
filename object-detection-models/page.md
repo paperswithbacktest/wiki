@@ -1,7 +1,8 @@
 ---
-title: Comprehensive Guide to Object Detection in Machine Learning
+category: quant_concept
 description: Object detection in machine learning breaks down core model components
   from R-CNN to DETR and shows real time performance optimization Discover more inside
+title: Comprehensive Guide to Object Detection in Machine Learning
 ---
 
 ![Image](images/1.jpeg)

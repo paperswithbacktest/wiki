@@ -1,6 +1,9 @@
 ---
-title: "SEC Form U-3A-2 (Algo Trading)"
-description: "Discover the significance of SEC Form U-3A-2 in financial regulation tackling insider trading and promoting transparency within the market for fairness and integrity."
+category: quant_concept
+description: Discover the significance of SEC Form U-3A-2 in financial regulation
+  tackling insider trading and promoting transparency within the market for fairness
+  and integrity.
+title: SEC Form U-3A-2 (Algo Trading)
 ---
 
 In the financial market, regulation plays a vital role in ensuring transparency and fairness. One such regulation is the SEC Form U-3A-2, primarily recognized for its significant contribution towards preventing insider trading. This article provides an in-depth analysis of the history, significance, and impact of SEC Form U-3A-2 within the sphere of financial regulation. The form is a pivotal element in the regulation of trading activities, thereby playing an essential role in safeguarding market integrity.

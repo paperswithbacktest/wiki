@@ -1,6 +1,8 @@
 ---
-title: "Capital Expenditure (CapEx) Formula and Examples (Algo Trading)"
-description: "Explore the fundamentals of Capital Expenditure (CapEx) and its impact on business finance with algorithmic trading examples to optimize investment strategies."
+category: quant_concept
+description: Explore the fundamentals of Capital Expenditure (CapEx) and its impact
+  on business finance with algorithmic trading examples to optimize investment strategies.
+title: Capital Expenditure (CapEx) Formula and Examples (Algo Trading)
 ---
 
 In today's dynamic financial environment, understanding the foundational concepts of business finance is essential for companies aiming to thrive in a competitive market. Among the multitude of financial strategies and tools, Capital Expenditure (CapEx) and algorithmic trading stand out as critical components that significantly influence business strategy and financial outcomes. CapEx refers to the funds allocated by a company for acquiring, upgrading, and maintaining physical assets such as property and equipment. These investments are pivotal for ensuring long-term growth and infrastructure development, thereby allowing companies to sustain operations and compete effectively. The effectiveness of these expenditures is often reflected in the company's balance sheet where they are capitalized and depreciated over time.
@@ -229,4 +231,3 @@ In conclusion, the integration of CapEx management and algorithmic trading is mo
 11. **International Financial Reporting Standards (IFRS).** *Property, Plant, and Equipment (IAS 16)*. Provides guidelines on how companies should handle CapEx on financial statements. [IFRS Website](https://www.ifrs.org)
 
 These references will provide readers with a comprehensive understanding of Capital Expenditure and algorithmic trading, both in theoretical terms and from a practical perspective.
-

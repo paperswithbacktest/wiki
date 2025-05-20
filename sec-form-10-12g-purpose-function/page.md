@@ -1,6 +1,8 @@
 ---
-title: "SEC Form 10-12G: Purpose and Function (Algo Trading)"
-description: "Learn about SEC Form 10-12G its role in securities registration and its impact on algo trading providing transparency and compliance in financial markets."
+category: quant_concept
+description: Learn about SEC Form 10-12G its role in securities registration and its
+  impact on algo trading providing transparency and compliance in financial markets.
+title: 'SEC Form 10-12G: Purpose and Function (Algo Trading)'
 ---
 
 In the complex world of securities and trading, understanding the regulatory requirements is crucial for businesses and investors alike. Navigating the legal and procedural framework set forth by the Securities and Exchange Commission (SEC) enables companies to efficiently engage in public offerings and secure a competitive position in the financial markets. A significant component of this framework is the SEC Form 10-12G, a critical document required for registering securities under the Securities Exchange Act of 1934.

@@ -1,6 +1,9 @@
 ---
-title: "K-Shaped Recovery and Contributing Factors (Algo Trading)"
-description: "Explore the intricacies of a K-shaped recovery and its economic implications. Discover how algorithmic trading intersects with this recovery model and impacts sector disparities."
+category: quant_concept
+description: Explore the intricacies of a K-shaped recovery and its economic implications.
+  Discover how algorithmic trading intersects with this recovery model and impacts
+  sector disparities.
+title: K-Shaped Recovery and Contributing Factors (Algo Trading)
 ---
 
 Economic recoveries can be represented by various alphabetical trajectories, such as V, U, L, and W, reflecting the pace and pattern of recovery. Among these, the concept of a K-shaped recovery has become particularly significant in analyzing economic trends following recessions, especially during the aftermath of the COVID-19 pandemic. This type of recovery highlights a divergence where distinct sectors or groups experience recovery at varying rates or magnitudes.

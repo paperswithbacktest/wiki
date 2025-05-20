@@ -1,6 +1,9 @@
 ---
-title: "Bollinger Bands in Forex Trading (Algo Trading)"
-description: "Explore how Bollinger Bands enhance forex and algorithmic trading by identifying market volatility and entry points for improved strategies and optimum results."
+category: trading_strategy
+description: Explore how Bollinger Bands enhance forex and algorithmic trading by
+  identifying market volatility and entry points for improved strategies and optimum
+  results.
+title: Bollinger Bands in Forex Trading (Algo Trading)
 ---
 
 Forex trading, short for foreign exchange trading, is recognized as one of the most dynamic and active trading markets globally, often surpassing the stock market in terms of activity and liquidity. This market operates 24 hours a day, allowing traders to engage in transactions with currency pairs at any time, thereby necessitating the need for precise and effective tools to predict market movements and enhance trading performance.

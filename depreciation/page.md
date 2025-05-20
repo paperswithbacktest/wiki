@@ -1,6 +1,11 @@
 ---
-title: "Depreciation (Algo Trading)"
-description: "Explore how the integration of accounting asset value assessments and depreciation calculations enhances algorithmic trading strategies. By understanding these concepts, traders and financial analysts can refine algorithms for better market prediction and risk management, ultimately contributing to more accurate trading decisions and improved investment outcomes."
+category: quant_concept
+description: Explore how the integration of accounting asset value assessments and
+  depreciation calculations enhances algorithmic trading strategies. By understanding
+  these concepts, traders and financial analysts can refine algorithms for better
+  market prediction and risk management, ultimately contributing to more accurate
+  trading decisions and improved investment outcomes.
+title: Depreciation (Algo Trading)
 ---
 
 In the modern financial landscape, the convergence of accounting principles and algorithmic trading is reshaping how market participants approach investment strategies. Accounting asset value and depreciation are two pivotal concepts traditionally rooted in financial reporting, but their influence extends beyond balance sheets into the dynamic world of algorithmic trading.

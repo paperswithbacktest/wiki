@@ -1,6 +1,8 @@
 ---
-title: "List of Bitcoin Millionaires (Algo Trading)"
-description: "Explore the world of Bitcoin millionaires and algorithmic trading, uncovering how early adopters and tech innovators amassed fortunes in the crypto realm."
+category: quant_concept
+description: Explore the world of Bitcoin millionaires and algorithmic trading, uncovering
+  how early adopters and tech innovators amassed fortunes in the crypto realm.
+title: List of Bitcoin Millionaires (Algo Trading)
 ---
 
 Cryptocurrency has fundamentally altered the global financial landscape, and Bitcoin stands at the forefront as the most recognized digital currency. Since its inception in 2009 by the enigmatic figure Satoshi Nakamoto, Bitcoin has soared in both popularity and value, redefining what it means to invest in the modern age. This digital currency operates on decentralized technology, allowing for secure and transparent peer-to-peer transactions without the need for a central authority such as a bank or government.

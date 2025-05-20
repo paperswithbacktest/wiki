@@ -1,6 +1,8 @@
 ---
-title: "Time Series Forecasting (Algo Trading)"
-description: "Explore time series forecasting in algorithmic trading Discover how traders use historical data to predict future trends and refine strategies to manage risks"
+category: trading_strategy
+description: Explore time series forecasting in algorithmic trading Discover how traders
+  use historical data to predict future trends and refine strategies to manage risks
+title: Time Series Forecasting (Algo Trading)
 ---
 
 Time series forecasting is a fundamental component of algorithmic trading that involves predicting future values by analyzing historical data. This predictive capability is crucial for traders aiming to make informed decisions and effectively manage risks associated with financial markets. By forecasting potential future trends, traders can adjust their strategies, optimize entry and exit points, and manage exposure to volatility, thereby enhancing the overall trading process.

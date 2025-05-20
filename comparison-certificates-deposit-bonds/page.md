@@ -1,6 +1,9 @@
 ---
-title: "Comparison of Certificates of Deposit and Bonds (Algo Trading)"
-description: "Explore the benefits and risks of bonds CDs and algorithmic trading to diversify your investment portfolio and make informed financial decisions tailored to your goals."
+category: trading_strategy
+description: Explore the benefits and risks of bonds CDs and algorithmic trading to
+  diversify your investment portfolio and make informed financial decisions tailored
+  to your goals.
+title: Comparison of Certificates of Deposit and Bonds (Algo Trading)
 ---
 
 Choosing the right investment vehicles is a critical decision that can significantly impact an investor’s financial journey, affecting both their risk exposure and return potential. The diversity of investment options available allows investors to tailor their portfolios to meet their specific financial goals and risk tolerance. Among the various investment opportunities, bonds, certificates of deposit (CDs), and algorithmic trading stand out as distinct options, each offering unique advantages and challenges.
@@ -254,4 +257,4 @@ Engaging with these resources allows investors to gain a more comprehensive unde
 
 [7]: Morningstar. ["Understanding Bonds."](https://www.morningstar.com/bonds/how-why-invest-bonds-morningstar-view) 
 
-[8]: QuantStart. ["Algorithmic Trading."](https://www.quantstart.com/) 
+[8]: QuantStart. ["Algorithmic Trading."](https://www.quantstart.com/)

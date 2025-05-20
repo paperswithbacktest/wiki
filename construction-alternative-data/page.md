@@ -1,6 +1,13 @@
 ---
-title: "Construction Alternative Data (Algo Trading)"
-description: Explore the transformative role of construction alternative data in algorithmic trading and its ability to provide early economic signals. Discover how integrating sources like satellite imagery, geolocation patterns, and public records into trading models can offer a competitive edge by revealing market trends ahead of traditional financial metrics and enhancing predictive accuracy. From monitoring infrastructure developments to evaluating real estate trends, construction data empowers traders with nuanced insights for informed and strategic trading decisions.
+category: dataset
+description: Explore the transformative role of construction alternative data in algorithmic
+  trading and its ability to provide early economic signals. Discover how integrating
+  sources like satellite imagery, geolocation patterns, and public records into trading
+  models can offer a competitive edge by revealing market trends ahead of traditional
+  financial metrics and enhancing predictive accuracy. From monitoring infrastructure
+  developments to evaluating real estate trends, construction data empowers traders
+  with nuanced insights for informed and strategic trading decisions.
+title: Construction Alternative Data (Algo Trading)
 ---
 
 Algorithmic trading is increasingly reliant on innovative data sources to maintain a competitive advantage. Traditional datasets, primarily based on historical market data and economic indicators, have long served as the backbone for trading strategies. However, the emergence of alternative data is significantly altering this landscape, offering new dimensions of insight that traditional financial metrics often overlook. Among the various types of alternative data, construction-related information stands out for its ability to provide early signals of economic activity and infrastructure developments, which are pivotal for informed trading decisions.

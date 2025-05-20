@@ -1,6 +1,8 @@
 ---
-title: "Transaction Cost Analysis (Algo Trading)"
-description: "Transaction cost analysis is crucial in algorithmic trading to minimize costs and enhance profitability by addressing explicit and implicit trading expenses."
+category: quant_concept
+description: Transaction cost analysis is crucial in algorithmic trading to minimize
+  costs and enhance profitability by addressing explicit and implicit trading expenses.
+title: Transaction Cost Analysis (Algo Trading)
 ---
 
 Transaction cost analysis (TCA) is essential in algorithmic trading, which has risen significantly as technology has advanced and financial markets have evolved. Algorithmic trading, distinguished by its reliance on complex algorithms to automate trade decisions, has brought transaction costs to the forefront as a critical determinant of trade profitability. Traders and firms prioritizing algorithmic trading must understand the various components that comprise transaction costs to optimize strategy and execution.

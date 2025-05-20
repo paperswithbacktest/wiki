@@ -1,6 +1,9 @@
 ---
-title: "Yield Farming in Cryptocurrency Investment (Algo Trading)"
-description: "Explore the dynamic world of cryptocurrency investment through yield farming and algorithmic trading Uncover strategies to enhance returns while managing risks"
+category: trading_strategy
+description: Explore the dynamic world of cryptocurrency investment through yield
+  farming and algorithmic trading Uncover strategies to enhance returns while managing
+  risks
+title: Yield Farming in Cryptocurrency Investment (Algo Trading)
 ---
 
 The world of cryptocurrency is continually evolving, offering investors a plethora of strategies to enhance their returns. Among these strategies, yield farming has gained prominence as part of the decentralized finance (DeFi) ecosystem. Yield farming is characterized by the lending or staking of cryptocurrency assets to generate high returns, typically through decentralized platforms. However, this strategy carries significant risks due to the volatility of the crypto markets and potential regulatory issues.

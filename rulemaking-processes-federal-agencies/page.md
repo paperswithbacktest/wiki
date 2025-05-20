@@ -1,6 +1,9 @@
 ---
-title: "Rulemaking Processes of Federal Agencies (Algo Trading)"
-description: "Explore federal rulemaking processes in algorithmic trading and discover how agencies like the SEC and FDIC regulate to ensure market stability and investor protection."
+category: quant_concept
+description: Explore federal rulemaking processes in algorithmic trading and discover
+  how agencies like the SEC and FDIC regulate to ensure market stability and investor
+  protection.
+title: Rulemaking Processes of Federal Agencies (Algo Trading)
 ---
 
 In the ever-evolving landscape of financial markets, algorithmic trading has emerged as a significant force, transforming the methods and speed at which trades are executed. Algorithmic trading utilizes complex mathematical models and advanced computing techniques to make trading decisions, often executing trades in fractions of a second. This advancement has brought about a paradigm shift, offering increased efficiency and liquidity but also introducing risks associated with rapid and high-frequency trading.

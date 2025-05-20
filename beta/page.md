@@ -1,6 +1,13 @@
 ---
-title: "Beta (Algo Trading)"
-description: Explore the central role of beta in algorithmic trading as a measure of a strategy's volatility in relation to the market. Understand how beta aids in risk management and strategy enhancement by comparing a strategy’s returns to market performance. This article investigates into the significance of beta for informed decision-making and effective trading strategies, offering insights into calculation methods that traders can utilize to optimize risk and performance in varied market conditions.
+category: quant_concept
+description: Explore the central role of beta in algorithmic trading as a measure
+  of a strategy's volatility in relation to the market. Understand how beta aids in
+  risk management and strategy enhancement by comparing a strategy’s returns to market
+  performance. This article investigates into the significance of beta for informed
+  decision-making and effective trading strategies, offering insights into calculation
+  methods that traders can utilize to optimize risk and performance in varied market
+  conditions.
+title: Beta (Algo Trading)
 ---
 
 Algorithmic trading, commonly known as algo trading, involves the use of automated platforms to execute trades based on predefined criteria. This technological advancement in trading relies heavily on the implementation of precise financial strategies and metrics to navigate the complexities of the financial markets. One crucial component integral to the development of robust algorithmic trading strategies is understanding and applying key financial metrics, such as beta.

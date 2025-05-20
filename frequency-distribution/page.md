@@ -1,6 +1,13 @@
 ---
-title: "Frequency Distribution (Algo Trading)"
-description: "Explore the critical role of frequency distribution in algorithmic trading and how it enhances data analysis by providing insights into market trends and patterns. This article investigates into the statistical tools and methodologies that optimize trading strategies via automated decision-making, leveraging frequency distributions to forecast movements in the stock market. Gain a comprehensive understanding of how these distributions simplify complex data sets into understandable patterns for better financial decision-making."
+category: quant_concept
+description: Explore the critical role of frequency distribution in algorithmic trading
+  and how it enhances data analysis by providing insights into market trends and patterns.
+  This article investigates into the statistical tools and methodologies that optimize
+  trading strategies via automated decision-making, leveraging frequency distributions
+  to forecast movements in the stock market. Gain a comprehensive understanding of
+  how these distributions simplify complex data sets into understandable patterns
+  for better financial decision-making.
+title: Frequency Distribution (Algo Trading)
 ---
 
 In the digital age, data analysis has become an indispensable component of financial markets. Among the many facets of financial data analysis, algorithmic trading, often referred to as algo trading, stands out for its reliance on data-driven techniques to generate automated trading decisions. Frequency distribution is fundamentally linked to this process, offering vital insights by detailing how data points are spread across various levels. In the context of the stock market, frequency distribution allows traders to recognize patterns and trends that would be less perceptible through other analytical methods.

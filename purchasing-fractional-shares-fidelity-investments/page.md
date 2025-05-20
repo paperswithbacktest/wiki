@@ -1,6 +1,9 @@
 ---
-title: "Purchasing Fractional Shares Through Fidelity Investments (Algo Trading)"
-description: "Invest in high-value stocks with minimal funds through fractional shares on Fidelity Discover algorithmic trading benefits and democratize your investment journey"
+category: quant_concept
+description: Invest in high-value stocks with minimal funds through fractional shares
+  on Fidelity Discover algorithmic trading benefits and democratize your investment
+  journey
+title: Purchasing Fractional Shares Through Fidelity Investments (Algo Trading)
 ---
 
 Fractional shares represent a transformative financial innovation, allowing investors to purchase a portion of a share rather than an entire unit. This concept plays a crucial role in democratizing access to stock markets, especially for high-priced stocks that might otherwise be out of reach for newer or smaller investors. By lowering the entry barrier, fractional shares enable a wider demographic to participate in equity markets, facilitating portfolio diversification and enhancing investment opportunities irrespective of capital constraints.

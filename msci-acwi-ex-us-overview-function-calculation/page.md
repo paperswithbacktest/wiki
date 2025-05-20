@@ -1,6 +1,8 @@
 ---
-title: "MSCI ACWI Ex-U.S.: Overview, Function, and Calculation (Algo Trading)"
-description: "Discover the role of MSCI ACWI in investment strategies and algorithmic trading Learn how this index helps in diversifying portfolios globally"
+category: quant_concept
+description: Discover the role of MSCI ACWI in investment strategies and algorithmic
+  trading Learn how this index helps in diversifying portfolios globally
+title: 'MSCI ACWI Ex-U.S.: Overview, Function, and Calculation (Algo Trading)'
 ---
 
 The world of investment is vast and continually evolving, with tools like global indices providing essential insights to investors seeking to navigate its complexities. Among these tools, the MSCI All Country World Index (ACWI) stands as a pivotal benchmark, encompassing a comprehensive array of equities from both developed and emerging markets. This broad scope makes the MSCI ACWI one of the most widely-referenced indices, acting as a crucial barometer for global market performance.

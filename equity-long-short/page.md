@@ -1,9 +1,12 @@
 ---
-title: "Equity Long Short (Algo Trading)"
-description: Discover the intricacies of Equity Long Short strategy, a popular investment approach in quantitative trading, particularly among hedge funds. This article explores how this market-neutral or biased strategy works, its relevance to algorithmic trading, associated risks, and real-life examples like Pair Trading. Boost your algo trading skills with this comprehensive guide.
+category: trading_strategy
+description: Discover the intricacies of Equity Long Short strategy, a popular investment
+  approach in quantitative trading, particularly among hedge funds. This article explores
+  how this market-neutral or biased strategy works, its relevance to algorithmic trading,
+  associated risks, and real-life examples like Pair Trading. Boost your algo trading
+  skills with this comprehensive guide.
+title: Equity Long Short (Algo Trading)
 ---
-
-
 
 Equity long short strategies have become a cornerstone in the dynamic world of algorithmic trading, enabling traders to profit from both rising and falling markets. By strategically leveraging both long and short positions, this approach offers a more comprehensive method for capitalizing on market movements. Long positions aim to benefit from price increases, while short positions allow traders to profit from potential declines. The dual nature of this strategy is particularly beneficial in volatile markets, where prices can fluctuate rapidly and unpredictably.
 

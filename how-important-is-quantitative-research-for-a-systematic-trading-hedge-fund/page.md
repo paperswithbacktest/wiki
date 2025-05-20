@@ -1,9 +1,13 @@
 ---
-title: "How important is quantitative research for a systematic trading hedge fund?"
-description: "Discover the significance of quantitative research in systematic trading hedge funds. This article investigates into how quantitative research is integral to designing trading strategies, optimizing performance, managing risk, rigorously backtesting strategies, and adapting to technology. Quantitative research provides the foundation for building, testing, and improving profitable and competitive strategies in a complex financial market."
+category: quant_concept
+description: Discover the significance of quantitative research in systematic trading
+  hedge funds. This article investigates into how quantitative research is integral
+  to designing trading strategies, optimizing performance, managing risk, rigorously
+  backtesting strategies, and adapting to technology. Quantitative research provides
+  the foundation for building, testing, and improving profitable and competitive strategies
+  in a complex financial market.
+title: How important is quantitative research for a systematic trading hedge fund?
 ---
-
-
 
 Systematic trading has fundamentally transformed the landscape of hedge funds, providing a structured approach to investing that relies on quantitative models and algorithms rather than human intuition. At its core, systematic trading involves the use of pre-defined rules and systems that capture patterns and signals in financial data. This method stands in contrast to discretionary trading, where decisions are made based on subjective judgment. By using quantitative research, systematic trading seeks to increase the consistency and objectivity of investment decisions, which is crucial in volatile and increasingly complex financial markets.
 

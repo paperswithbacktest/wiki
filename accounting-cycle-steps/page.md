@@ -1,6 +1,8 @@
 ---
-title: "Accounting Cycle Steps (Algo Trading)"
-description: "Explore the vital steps of the accounting cycle and their impact on algorithmic trading. Understand how accurate financial reporting enhances strategic decisions."
+category: quant_concept
+description: Explore the vital steps of the accounting cycle and their impact on algorithmic
+  trading. Understand how accurate financial reporting enhances strategic decisions.
+title: Accounting Cycle Steps (Algo Trading)
 ---
 
 The contemporary business environment is characterized by complex processes aimed at safeguarding financial integrity and facilitating informed strategic decisions. An essential element underlying these processes is the accounting cycle, a systematic framework employed by businesses to manage financial records thoroughly and ensure they comply with established accounting standards. This cycle not only helps in verifying the accuracy of financial data but also aids in presenting a clear picture of a company's financial condition through detailed financial reports. 

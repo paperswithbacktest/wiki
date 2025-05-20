@@ -1,6 +1,9 @@
 ---
-title: "Eastern Caribbean Dollar: Overview and Mechanism (Algo Trading)"
-description: "Discover how the Eastern Caribbean Dollar's stability and fixed exchange rate to the US Dollar offers unique opportunities and challenges for algorithmic trading."
+category: quant_concept
+description: Discover how the Eastern Caribbean Dollar's stability and fixed exchange
+  rate to the US Dollar offers unique opportunities and challenges for algorithmic
+  trading.
+title: 'Eastern Caribbean Dollar: Overview and Mechanism (Algo Trading)'
 ---
 
 The Eastern Caribbean Dollar (XCD) is the official currency utilized by multiple island nations in the Caribbean, reflecting a unique monetary union that supports regional economic stability. The countries sharing this currency include Saint Kitts and Nevis, Antigua and Barbuda, Montserrat, Saint Lucia, and others, collectively forming the Eastern Caribbean Currency Union (ECCU). Established in 1965 to succeed the British West Indies Dollar, the XCD plays a pivotal role in the Caribbean economy and provides a foundation for local economic stability and growth.

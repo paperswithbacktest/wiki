@@ -1,6 +1,9 @@
 ---
-title: "Holding Period Return and Yield (Algo Trading)"
-description: "Explore the vital aspects of investment yield and holding period return within the context of financial analysis and algorithmic trading essentials for informed investing."
+category: quant_concept
+description: Explore the vital aspects of investment yield and holding period return
+  within the context of financial analysis and algorithmic trading essentials for
+  informed investing.
+title: Holding Period Return and Yield (Algo Trading)
 ---
 
 In the ever-evolving world of financial markets, understanding key concepts such as investment yield, holding period return, financial analysis, and algorithmic trading is essential. These components form the groundwork for making informed investment decisions and crafting profitable strategies in an increasingly complex market landscape. This article seeks to explore these pivotal elements in depth, highlighting their interconnections and practical applications for both novice and seasoned investors.

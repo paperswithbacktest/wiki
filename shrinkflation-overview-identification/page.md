@@ -1,6 +1,8 @@
 ---
-title: "Shrinkflation: Overview and Identification (Algo Trading)"
-description: "Discover how shrinkflation and algorithmic trading influence consumer economics. Explore methods to identify shrinkflation and its impact on market strategies."
+category: quant_concept
+description: Discover how shrinkflation and algorithmic trading influence consumer
+  economics. Explore methods to identify shrinkflation and its impact on market strategies.
+title: 'Shrinkflation: Overview and Identification (Algo Trading)'
 ---
 
 In today's rapidly shifting market environment, consumer economics is increasingly influenced by phenomena such as product downsizing, shrinkflation, and algorithmic trading, each playing a pivotal role in consumer behavior and market strategy formulation. Shrinkflation, a form of hidden inflation where product sizes are reduced while prices remain static, impacts consumers by subtly altering the real value of their purchases. This tactic, often utilized by companies to manage escalating production costs, adjusts consumer perceptions and spending habits without overtly shifting price tags.

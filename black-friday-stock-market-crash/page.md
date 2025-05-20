@@ -1,6 +1,9 @@
 ---
-title: "Black Friday Stock Market Crash (Algo Trading)"
-description: "Explore the influence of financial crises and algorithmic trading on market volatility Learn lessons from historical events like Black Friday for future resilience"
+category: quant_concept
+description: Explore the influence of financial crises and algorithmic trading on
+  market volatility Learn lessons from historical events like Black Friday for future
+  resilience
+title: Black Friday Stock Market Crash (Algo Trading)
 ---
 
 The financial world has witnessed numerous crises over the decades, with significant events molding the market landscape we recognize today. These events not only influence the global economy but also impact individual stakeholders ranging from large institutions to everyday investors. The complex web of financial crises, exemplified by historical episodes such as Black Friday and infamous stock market crashes, offers a profound understanding of market dynamics and the vulnerabilities inherent within financial systems.

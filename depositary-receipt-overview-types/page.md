@@ -1,6 +1,8 @@
 ---
-title: "Depositary Receipt: Overview and Types (Algo Trading)"
-description: "Explore depositary receipts and algorithmic trading to enhance your investment strategy Find insights on optimizing portfolios in today's dynamic markets"
+category: quant_concept
+description: Explore depositary receipts and algorithmic trading to enhance your investment
+  strategy Find insights on optimizing portfolios in today's dynamic markets
+title: 'Depositary Receipt: Overview and Types (Algo Trading)'
 ---
 
 The financial landscape has transformed significantly over the years, providing investors with a myriad of instruments designed to manage capital, mitigate risk, and seek profitable opportunities. These developments have not only facilitated the efficient allocation and utilization of resources but have also broadened the scope of strategic investment options available to market participants. This article focuses on two key financial instruments: depositary receipts and algorithmic trading, examining their roles as investment strategies in today's dynamic markets.

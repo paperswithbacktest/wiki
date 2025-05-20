@@ -1,9 +1,12 @@
 ---
-title: "Stochastic Control (Algo Trading)"
-description: "Stochastic control in algorithmic trading helps optimize decisions under uncertainty by integrating randomness into models crucial for risk management and trade execution."
+category: quant_concept
+description: Stochastic control in algorithmic trading helps optimize decisions under
+  uncertainty by integrating randomness into models crucial for risk management and
+  trade execution.
+title: Stochastic Control (Algo Trading)
 ---
 
- to Stochastic Control in Algorithmic Trading
+to Stochastic Control in Algorithmic Trading
 
 Stochastic control is a fundamental concept in algorithmic trading, where it is employed to navigate the uncertainties inherent in financial markets. As a mathematical approach, stochastic control enables traders to make optimal decisions by incorporating randomness and uncertainty into their models. This is crucial in financial markets, where prices and market conditions fluctuate unpredictably.
 

@@ -1,6 +1,14 @@
 ---
-title: "Coppock Curve Strategy Explained (Algo Trading)"
-description: Explore the Coppock Curve strategy for algorithmic trading and understand its role in identifying market trends. Developed by Edwin Coppock in the 1960s, this long-term momentum indicator is used to signal potential market recoveries by analyzing historical data and smoothing price changes. Learn how the unique "grieving period" concept and its integration into trading strategies can enhance investment decisions. Discover how traders can adapt the Coppock Curve for different timeframes and market conditions, leveraging its predictive insights for stock market analysis and algorithmic applications.
+category: trading_strategy
+description: Explore the Coppock Curve strategy for algorithmic trading and understand
+  its role in identifying market trends. Developed by Edwin Coppock in the 1960s,
+  this long-term momentum indicator is used to signal potential market recoveries
+  by analyzing historical data and smoothing price changes. Learn how the unique "grieving
+  period" concept and its integration into trading strategies can enhance investment
+  decisions. Discover how traders can adapt the Coppock Curve for different timeframes
+  and market conditions, leveraging its predictive insights for stock market analysis
+  and algorithmic applications.
+title: Coppock Curve Strategy Explained (Algo Trading)
 ---
 
 The Coppock Curve is a long-term price momentum indicator, notably employed to pinpoint significant downturns and upturns in stock market indices. Developed by economist Edwin Coppock in the 1960s, this tool has been instrumental for investors and traders seeking to make informed decisions based on historical data trends. The Coppock Curve is distinctive for its use of the concept of a "grieving period," which spans 11 to 14 months. This period underlies the chosen timeframes for the indicator's calculation, effectively identifying market bottoms by capturing transitions in price momentum.

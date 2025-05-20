@@ -1,6 +1,8 @@
 ---
-title: "Choice Market: Definition and Mechanisms (Algo Trading)"
-description: "Explore how economic systems and algorithmic trading shape financial markets Discover the dynamics of choice markets and their impact on trading efficiency"
+category: quant_concept
+description: Explore how economic systems and algorithmic trading shape financial
+  markets Discover the dynamics of choice markets and their impact on trading efficiency
+title: 'Choice Market: Definition and Mechanisms (Algo Trading)'
 ---
 
 In today's global economy, understanding the intricacies of economic systems and market mechanisms is crucial. These systems dictate how resources are allocated and influence the behaviors of both consumers and investors. The underlying framework of economic systems, comprising market and command economies, plays a pivotal role in setting up the rules by which economic activity is governed. Market economies, guided by supply and demand, encourage competition and innovation, paving the way for dynamic interactions in financial markets. On the other hand, command economies, with their significant government intervention, often focus on equitable distribution and social welfare.
@@ -114,4 +116,3 @@ Bergstra, J., Bardenet, R., Bengio, Y., & Kégl, B. (2011). "Algorithms for Hype
 "Machine Learning for Algorithmic Trading" by Stefan Jansen provides a practical approach to developing trading algorithms using Python. Jansen covers essential concepts such as data processing, feature engineering, and machine learning workflows, providing code examples and case studies to create effective trading strategies that leverage modern computational tools.
 
 "Quantitative Trading: How to Build Your Own Algorithmic Trading Business" by Ernest P. Chan guides readers on launching a quantitative trading venture. It addresses vital components such as data sources, trading platforms, and risk management, combined with real-world experiences and strategies, enabling aspiring traders to navigate and succeed in the competitive landscape of algorithmic trading.
-

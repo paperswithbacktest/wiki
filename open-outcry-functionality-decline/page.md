@@ -1,6 +1,9 @@
 ---
-title: "Open Outcry: Functionality and Decline (Algo Trading)"
-description: "Explore the evolution of open outcry to algorithmic trading as financial markets transition to efficiency and speed driven by technology and real-time data analysis."
+category: quant_concept
+description: Explore the evolution of open outcry to algorithmic trading as financial
+  markets transition to efficiency and speed driven by technology and real-time data
+  analysis.
+title: 'Open Outcry: Functionality and Decline (Algo Trading)'
 ---
 
 The trading landscape has undergone a remarkable transformation over the years, shifting from traditional methods to incorporating advanced technologies. For decades, open outcry represented the very heart of financial markets, providing a dynamic and vibrant platform for trading. This historical system, characterized by traders vocally proclaiming bids and offers and employing elaborate hand signals, was renowned for its role in price discovery and market transparency. In bustling trading pits, open outcry facilitated direct interaction and instantaneous negotiation between traders, forming the backbone of stock and futures exchanges for much of the 20th century.

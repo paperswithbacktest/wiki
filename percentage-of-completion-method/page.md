@@ -1,6 +1,9 @@
 ---
-title: "Percentage of Completion Method (Algo Trading)"
-description: "Explore the percentage of completion method a vital accounting technique in financial reporting used across various industries like construction and software development."
+category: quant_concept
+description: Explore the percentage of completion method a vital accounting technique
+  in financial reporting used across various industries like construction and software
+  development.
+title: Percentage of Completion Method (Algo Trading)
 ---
 
 Understanding different accounting methods is crucial for accurate financial reporting, particularly in industries engaged in long-term projects. These methods determine how revenues and expenses are recognized and reported, affecting stakeholders' perception of a company's financial health. One prominent accounting method is the percentage of completion method, utilized mainly in sectors such as construction, engineering, and software development. Its significance stems from the need to provide a more realistic financial portrayal throughout the duration of extended projects.

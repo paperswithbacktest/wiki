@@ -1,6 +1,9 @@
 ---
-title: "Breakpoint in Computing (Algo Trading)"
-description: "Explore the critical role of breakpoint debugging in algorithmic trading software, ensuring precise execution by pausing programs to examine their state and detect errors."
+category: quant_concept
+description: Explore the critical role of breakpoint debugging in algorithmic trading
+  software, ensuring precise execution by pausing programs to examine their state
+  and detect errors.
+title: Breakpoint in Computing (Algo Trading)
 ---
 
 Breakpoint debugging is an essential tool in software development, providing developers with the ability to pause program execution and examine its state. This capability is particularly crucial in complex fields like algorithmic trading, where precision is paramount and rapid decision-making can have significant financial consequences. Algorithmic trading involves executing pre-programmed trading instructions accounting for variables such as timing, price, and volume. Therefore, ensuring these algorithms function correctly is imperative.

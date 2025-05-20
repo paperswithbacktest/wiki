@@ -1,8 +1,9 @@
 ---
-title: Text Instance Representation With Fourier Contour Embedding
+category: quant_concept
 description: Text instance representation transforms text shapes into numerical features
   using Fourier Contour Embedding to enhance handwriting and font analysis Discover
   more inside.
+title: Text Instance Representation With Fourier Contour Embedding
 ---
 
 ![Image](images/1.jpeg)

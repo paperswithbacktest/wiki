@@ -1,6 +1,12 @@
 ---
-title: "General Equilibrium Theory and Alternatives (Algo Trading)"
-description: "Explore the intricacies of General Equilibrium Theory and its alternatives, highlighting the role of algorithmic trading in bridging theoretical economics and practical market applications. Understand how this theory, providing a framework for supply and demand interactions across markets, faces challenges due to its assumptions. Discover how technological advancements in trading exploit these economic models, underscoring both their strengths and limitations in real-world scenarios."
+category: quant_concept
+description: Explore the intricacies of General Equilibrium Theory and its alternatives,
+  highlighting the role of algorithmic trading in bridging theoretical economics and
+  practical market applications. Understand how this theory, providing a framework
+  for supply and demand interactions across markets, faces challenges due to its assumptions.
+  Discover how technological advancements in trading exploit these economic models,
+  underscoring both their strengths and limitations in real-world scenarios.
+title: General Equilibrium Theory and Alternatives (Algo Trading)
 ---
 
 The global economy is a dynamic system characterized by interconnected markets, whose behavior can often appear unpredictable and complex. Economists, in an effort to decipher this complexity, have developed various models and theories. Among these, the General Equilibrium Theory stands out as a pivotal construct, introduced by the French economist Léon Walras in the late 19th century. This theory provides a framework for understanding how supply and demand interact across a multitude of markets, striving for a state where supply equals demand not just in individual markets, but across the entire economy. This concept of equilibrium extends beyond single market analysis to encapsulate a comprehensive view of an interdependent economic system.

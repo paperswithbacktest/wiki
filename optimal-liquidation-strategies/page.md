@@ -1,6 +1,9 @@
 ---
-title: "Optimal liquidation strategies (Algo Trading)"
-description: "Optimize algorithmic trading performance with effective liquidation strategies that minimize market impact Learn advanced techniques including neural networks to enhance returns"
+category: trading_strategy
+description: Optimize algorithmic trading performance with effective liquidation strategies
+  that minimize market impact Learn advanced techniques including neural networks
+  to enhance returns
+title: Optimal liquidation strategies (Algo Trading)
 ---
 
 In algorithmic trading, effective liquidation strategies are essential to optimize trading performance while minimizing the impact on market prices. This involves the strategic execution of large sell orders to manage risk and enhance returns. A variety of modern techniques, such as neural networks and dynamic programming, are explored to achieve optimal liquidation outcomes.

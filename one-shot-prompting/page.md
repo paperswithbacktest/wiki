@@ -1,7 +1,8 @@
 ---
-title: Understanding One-Shot Prompting in Machine Learning Models
+category: quant_concept
 description: One-Shot Prompting boosts machine learning by teaching models new tasks
   with a single example and embeddings for quick adaptation Discover more inside
+title: Understanding One-Shot Prompting in Machine Learning Models
 ---
 
 ![Image](images/1.jpeg)

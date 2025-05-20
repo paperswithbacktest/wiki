@@ -1,6 +1,8 @@
 ---
-title: "Importance of Proxy Statements for Investors (Algo Trading)"
-description: "Discover the crucial role of proxy statements in financial analysis and algo trading to enhance investment strategies by evaluating corporate governance."
+category: dataset
+description: Discover the crucial role of proxy statements in financial analysis and
+  algo trading to enhance investment strategies by evaluating corporate governance.
+title: Importance of Proxy Statements for Investors (Algo Trading)
 ---
 
 Investing is a multifaceted discipline that requires a solid understanding of various financial documents and market strategies. Among the resources available to investors, proxy statements stand out as a critical yet often overlooked tool for making informed decisions. These documents, mandated by regulatory bodies, provide insights into corporate governance and financial health that are crucial for evaluating company performance.

@@ -1,6 +1,9 @@
 ---
-title: "Up Volume: Interpretation and Volume Indexes (Algo Trading)"
-description: "Explore how up volume and volume indexes like PVI and NVI impact stock trading strategies with this guide to understanding market momentum and trading algorithms."
+category: quant_concept
+description: Explore how up volume and volume indexes like PVI and NVI impact stock
+  trading strategies with this guide to understanding market momentum and trading
+  algorithms.
+title: 'Up Volume: Interpretation and Volume Indexes (Algo Trading)'
 ---
 
 In the fast-paced world of stock trading, volume serves as a critical indicator that traders use to assess the market's momentum. It reflects the total number of shares exchanged within a specific timeframe, providing crucial insights into market activity. Understanding volume is vital for traders seeking to make informed decisions and optimize their trading strategies. This article focuses on the importance of up volume, the volume index, and their impact on stock trading.

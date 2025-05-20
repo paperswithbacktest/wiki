@@ -1,6 +1,11 @@
 ---
-title: "When did algorithmic trading start?"
-description: "Discover the history and evolution of algorithmic trading, from its origins in the 1970s with electronic trading systems to the sophisticated high-frequency trading of today. Learn about key milestones like the NASDAQ's introduction and the Black-Scholes option pricing model, shaping algorithmic trading development throughout the 1980s."
+category: quant_concept
+description: Discover the history and evolution of algorithmic trading, from its origins
+  in the 1970s with electronic trading systems to the sophisticated high-frequency
+  trading of today. Learn about key milestones like the NASDAQ's introduction and
+  the Black-Scholes option pricing model, shaping algorithmic trading development
+  throughout the 1980s.
+title: When did algorithmic trading start?
 ---
 
 Algorithmic trading refers to the use of computer algorithms to automate and optimize the process of buying and selling securities in financial markets. These algorithms follow pre-defined sets of rules and instructions to execute trades at speeds and frequencies that surpass those of human traders. The importance of algorithmic trading in modern financial markets cannot be understated, as it has profoundly transformed the trading landscape by enhancing market efficiency, liquidity, and transparency.

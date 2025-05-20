@@ -1,6 +1,9 @@
 ---
-title: "New Economy: Overview and Company Examples (Algo Trading)"
-description: "Explore the transformative impact of the new economy driven by tech giants like Amazon and Google, and the rise of algorithmic trading reshaping investment strategies."
+category: quant_concept
+description: Explore the transformative impact of the new economy driven by tech giants
+  like Amazon and Google, and the rise of algorithmic trading reshaping investment
+  strategies.
+title: 'New Economy: Overview and Company Examples (Algo Trading)'
 ---
 
 The new economy, marked by swift technological advancements, has brought about profound transformations in industries and financial markets worldwide. This era has been predominantly characterized by the rise of companies like Amazon, Google, and Meta, which have set new standards in innovation and have become synonymous with economic growth and technological prowess. These companies exemplify the shift towards a knowledge-driven, technology-centric business model that has replaced traditional manufacturing-based economies.

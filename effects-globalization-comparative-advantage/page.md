@@ -1,6 +1,9 @@
 ---
-title: "Effects of Globalization on Comparative Advantage (Algo Trading)"
-description: "Explore how globalization and algorithmic trading reshape international trade by enhancing comparative advantage, driving economic efficiency, and boosting global connections."
+category: quant_concept
+description: Explore how globalization and algorithmic trading reshape international
+  trade by enhancing comparative advantage, driving economic efficiency, and boosting
+  global connections.
+title: Effects of Globalization on Comparative Advantage (Algo Trading)
 ---
 
 Globalization has become a pivotal aspect of the modern economy, deeply influencing international trade patterns and economic dynamics. The integration of economies across the globe has accelerated the flow of goods, services, capital, and labor, forming an interconnected network that enhances economic growth and fosters international cooperation. One of the fundamental theories explaining the dynamics of international trade within this globalized framework is the concept of comparative advantage.

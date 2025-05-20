@@ -1,6 +1,8 @@
 ---
-title: "True Lease: Meaning, Functionality, and Example (Algo Trading)"
-description: "Explore the intricacies of true leases, their benefits, and role in algorithmic trading. Learn how they enhance financial flexibility and operational efficiency."
+category: quant_concept
+description: Explore the intricacies of true leases, their benefits, and role in algorithmic
+  trading. Learn how they enhance financial flexibility and operational efficiency.
+title: 'True Lease: Meaning, Functionality, and Example (Algo Trading)'
 ---
 
 In today's dynamic financial landscape, leasing has become a strategic choice for businesses seeking to access high-value assets without the burden of significant upfront investments. This article examines the intricate world of leasing, focusing on true leases and finance leases, and elucidates their roles in the broader contexts of financial leasing and algorithmic trading.

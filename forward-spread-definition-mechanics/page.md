@@ -1,6 +1,9 @@
 ---
-title: "Forward Spread: Definition and Mechanics (Algo Trading)"
-description: "Explore forward spread algo trading where sophisticated algorithms analyze market data to capitalize on pricing differences between spot and forward prices efficiently."
+category: quant_concept
+description: Explore forward spread algo trading where sophisticated algorithms analyze
+  market data to capitalize on pricing differences between spot and forward prices
+  efficiently.
+title: 'Forward Spread: Definition and Mechanics (Algo Trading)'
 ---
 
 In the ever-evolving landscape of financial markets, investors and traders are constantly seeking new strategies to gain an edge. The use of financial instruments for investment has grown increasingly sophisticated, especially with the advent of algorithmic trading. This form of trading leverages advanced computational techniques to automatically execute trades, analyzing vast amounts of data to make informed decisions within milliseconds.

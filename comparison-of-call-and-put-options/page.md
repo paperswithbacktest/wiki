@@ -1,6 +1,8 @@
 ---
-title: "Comparison of Call and Put Options (Algo Trading)"
-description: "Discover the dynamics of call and put options trading and how algorithmic trading optimizes strategies for better risk management and competitive advantage."
+category: quant_concept
+description: Discover the dynamics of call and put options trading and how algorithmic
+  trading optimizes strategies for better risk management and competitive advantage.
+title: Comparison of Call and Put Options (Algo Trading)
 ---
 
 The world of financial trading offers diverse instruments and strategies designed to maximize returns. Options trading, particularly call and put options, presents an intriguing avenue for both speculative and hedging purposes. Options are versatile financial instruments that provide traders with the ability to capitalize on price movements in the market while also offering mechanisms for risk management. In options trading, call options grant the right to purchase an asset at a predetermined price, whereas put options grant the right to sell under similar conditions. These options enable traders to leverage their portfolio positions, which can lead to substantial gains or losses depending on market conditions.

@@ -1,7 +1,8 @@
 ---
-title: Contextualized Word Embeddings for Language Understanding
+category: quant_concept
 description: Contextualized word embeddings adapt vectors based on surrounding text
   to improve NLP task performance by capturing nuanced meanings Discover more inside
+title: Contextualized Word Embeddings for Language Understanding
 ---
 
 ![Image](images/1.png)

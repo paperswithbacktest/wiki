@@ -1,6 +1,9 @@
 ---
-title: "Matrix Trading: Overview, Risks, and Example (Algo Trading)"
-description: "Explore matrix and algorithmic trading strategies and their inherent risks. Learn to navigate yield discrepancies and leverage technology for financial edge."
+category: trading_strategy
+description: Explore matrix and algorithmic trading strategies and their inherent
+  risks. Learn to navigate yield discrepancies and leverage technology for financial
+  edge.
+title: 'Matrix Trading: Overview, Risks, and Example (Algo Trading)'
 ---
 
 In the rapidly evolving world of finance, traders continuously seek innovative strategies to enhance their returns. Two key strategies that have gained prominence in recent times are matrix trading and algorithmic trading, commonly known as algo trading. These strategies utilize advanced techniques and technology to capitalize on market opportunities, demonstrating the transformative impact of technological advancements in the financial sector.

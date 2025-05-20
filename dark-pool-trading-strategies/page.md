@@ -1,9 +1,12 @@
 ---
-title: "Dark Pool Trading Strategies (Algo Trading)"
-description: "Explore dark pool trading strategies using algorithmic components to optimize large transactions discreetly minimize market impact and enhance execution efficiency"
+category: trading_strategy
+description: Explore dark pool trading strategies using algorithmic components to
+  optimize large transactions discreetly minimize market impact and enhance execution
+  efficiency
+title: Dark Pool Trading Strategies (Algo Trading)
 ---
 
- to Dark Pool Trading
+to Dark Pool Trading
 
 Dark pool trading refers to the private exchange or trading of financial securities that occurs outside of public stock exchanges. These transactions predominantly involve institutional investors, who execute trades that remain hidden from the general public. Unlike traditional stock exchanges, where trades are visible and can influence market prices, dark pools provide a platform for executing large orders discreetly. This discretion helps minimize market impact, preventing the price disruptions that might occur if large trades were made public.
 

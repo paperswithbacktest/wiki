@@ -1,6 +1,8 @@
 ---
-title: "Variable Ratio Write (Algo Trading)"
-description: "Explore the synergy between variable ratio data storage and algorithmic trading to optimize data handling for high-frequency trading and profit strategies."
+category: dataset
+description: Explore the synergy between variable ratio data storage and algorithmic
+  trading to optimize data handling for high-frequency trading and profit strategies.
+title: Variable Ratio Write (Algo Trading)
 ---
 
 This article explores the intersection of variable ratio data storage write technology and algorithmic trading, emphasizing the critical role of efficient data storage and management in the rapid and dynamic environment of financial trading. Modern algorithmic trading relies on the ability to process and analyze vast amounts of data in real-time. Efficient data storage systems allow trading algorithms to perform optimally by reducing latency and maximizing throughput, which are crucial for executing trades at the best possible prices. 

@@ -1,6 +1,8 @@
 ---
-title: "Go-Go Fund: Definition, Mechanism, and Impact (Algo Trading)"
-description: "Explore the intersection of Go-Go Funds and algorithmic trading, understanding their high-risk strategies and impact on modern finance's efficiency and innovation."
+category: quant_concept
+description: Explore the intersection of Go-Go Funds and algorithmic trading, understanding
+  their high-risk strategies and impact on modern finance's efficiency and innovation.
+title: 'Go-Go Fund: Definition, Mechanism, and Impact (Algo Trading)'
 ---
 
 Go-Go Funds, which emerged prominently in the 1960s, are investment vehicles known for their aggressive growth strategies and high-risk, high-reward investment approaches. These funds were characterized by significant investments in growth stocks and speculative ventures, aiming to capitalize on the bull market trends of the time. Driven by the enthusiasm of bullish investors, Go-Go Funds quickly gained popularity for their potential to deliver substantial returns, although this often came with increased volatility and the potential for significant losses. As their performance became more inconsistent, their popularity waned, but they established a legacy of bold investment tactics that would influence future financial innovations.

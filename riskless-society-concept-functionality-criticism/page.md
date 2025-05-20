@@ -1,6 +1,8 @@
 ---
-title: "Riskless Society: Concept, Functionality, and Criticism (Algo Trading)"
-description: "Explore the fascinating concept of a riskless society its critiques and impacts on social risk management and algorithmic trading methodologies."
+category: quant_concept
+description: Explore the fascinating concept of a riskless society its critiques and
+  impacts on social risk management and algorithmic trading methodologies.
+title: 'Riskless Society: Concept, Functionality, and Criticism (Algo Trading)'
 ---
 
 The concept of a 'riskless society' has captured the imagination of economists and policy-makers, who envision an ideal state where all conceivable risks are managed or entirely eliminated. This idea is appealing largely due to the potential stability and security it promises, allowing for economic and social environments devoid of uncertainty. However, the practicality and actual impact of such a vision have been significantly criticized. Critics argue that not only is a completely riskless society unfeasible, but the very attempt to eliminate all risks may lead to unintended consequences and systemic vulnerabilities.

@@ -1,6 +1,9 @@
 ---
-title: "Tax Treatment of LEAP Options Held Over 12 Months (Algo Trading)"
-description: "Explore the tax advantages of LEAP options held over a year, focusing on their role in algorithmic trading for enhanced tax efficiency and investment returns."
+category: trading_strategy
+description: Explore the tax advantages of LEAP options held over a year, focusing
+  on their role in algorithmic trading for enhanced tax efficiency and investment
+  returns.
+title: Tax Treatment of LEAP Options Held Over 12 Months (Algo Trading)
 ---
 
 Understanding the nuances of tax treatment for long-term capital gains can significantly impact your investment strategies. Long-term capital gains, which are taxed at a more favorable rate compared to short-term gains, present an opportunity for investors to enhance their after-tax returns. This article will explore the complexities of Long-Term Equity Anticipation Securities (LEAP) options and how they fit into algorithmic trading. LEAP options, with their extended expiration periods of up to three years, offer investors the opportunity to leverage their investments strategically over a prolonged horizon.

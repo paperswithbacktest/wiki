@@ -1,6 +1,9 @@
 ---
-title: "Dominican Peso: Overview and History (Algo Trading)"
-description: "Explore the history of the Dominican Peso and the impact of algorithmic trading on its market, enhancing trading strategies with a blend of tradition and innovation."
+category: dataset
+description: Explore the history of the Dominican Peso and the impact of algorithmic
+  trading on its market, enhancing trading strategies with a blend of tradition and
+  innovation.
+title: 'Dominican Peso: Overview and History (Algo Trading)'
 ---
 
 The Dominican Peso (DOP) serves as the official currency of the Dominican Republic, a nation with a vibrant economic history. The evolution of the Dominican Peso is marked by numerous economic events that have shaped its development. Since the Dominican Republic gained independence in 1844, the currency underwent significant transformations, reflective of the country's dynamic political and economic landscape. Initially issued as legal tender, the peso has been influenced by political instability, foreign debt, and changes in governance, contributing to its complex monetary history.

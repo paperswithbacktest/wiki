@@ -1,7 +1,8 @@
 ---
-title: Understanding Squared Hinge Loss for Effective SVM Classification
+category: quant_concept
 description: Squared Hinge Loss boosts classification accuracy by penalizing larger
   errors for smoother optimization in SVM models Discover more inside now.
+title: Understanding Squared Hinge Loss for Effective SVM Classification
 ---
 
 ![Image](images/1.png)

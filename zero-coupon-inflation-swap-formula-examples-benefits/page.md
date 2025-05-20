@@ -1,6 +1,9 @@
 ---
-title: "Zero-Coupon Inflation Swap: Formula, Examples, and Benefits (Algo Trading)"
-description: "Zero-coupon inflation swaps allow investors to manage inflation risk efficiently through a fixed and inflation-index cash flow exchange highlighting their strategic importance."
+category: quant_concept
+description: Zero-coupon inflation swaps allow investors to manage inflation risk
+  efficiently through a fixed and inflation-index cash flow exchange highlighting
+  their strategic importance.
+title: 'Zero-Coupon Inflation Swap: Formula, Examples, and Benefits (Algo Trading)'
 ---
 
 Zero-coupon inflation swaps (ZCIS) are financial instruments that play a critical role in managing inflation risk in financial markets. They belong to a broader category known as inflation derivatives, which are designed to hedge against the uncertainties tied to inflation rates. In a ZCIS, two parties agree to exchange cash flows based on an inflation index over a specified period. Typically, one party agrees to pay a fixed rate, while the other pays an amount reflecting the inflation rate realized over the swap's duration. This structure helps entities like pension funds and insurance companies manage the impact of inflation on long-term liabilities and cash flows.

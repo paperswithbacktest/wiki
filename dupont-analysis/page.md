@@ -1,6 +1,9 @@
 ---
-title: "DuPont analysis (Algo Trading)"
-description: "Explore the impact of DuPont Analysis on algorithmic trading, leveraging insights into net profit margin, asset turnover, and equity multiplier for better investment strategies."
+category: quant_concept
+description: Explore the impact of DuPont Analysis on algorithmic trading, leveraging
+  insights into net profit margin, asset turnover, and equity multiplier for better
+  investment strategies.
+title: DuPont analysis (Algo Trading)
 ---
 
 DuPont Analysis is an essential tool in financial analysis, particularly in evaluating a company's Return on Equity (ROE). Developed by the DuPont Corporation, this analytical framework deconstructs ROE into several fundamental components, offering a comprehensive insight into financial performance. The primary components include net profit margin, asset turnover, and equity multiplier. Together, they reveal how each aspect contributes to overall profitability and efficiency.
@@ -152,5 +155,4 @@ print("Return on Equity (ROE):", dupont_metrics[3])
 
 Further, practical coding tutorials are available on platforms like DataCamp and Coursera, offering structured courses on financial modeling and quantitative analysis. These courses are beneficial for individuals aiming to integrate these analytical skills with modern trading and investment strategies.
 
-Staying informed about the latest developments in financial analytics can also be achieved through webinars and conferences. Platforms such as the CFA Institute and the Global Association of Risk Professionals (GARP) regularly host events and publish content related to investment analysis tools, ensuring practitioners are well-equipped with up-to-date knowledge and techniques.  
-
+Staying informed about the latest developments in financial analytics can also be achieved through webinars and conferences. Platforms such as the CFA Institute and the Global Association of Risk Professionals (GARP) regularly host events and publish content related to investment analysis tools, ensuring practitioners are well-equipped with up-to-date knowledge and techniques.

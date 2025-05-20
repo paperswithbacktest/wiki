@@ -1,6 +1,15 @@
 ---
-title: "Financial machine learning (Algo Trading)"
-description: Discover how financial machine learning is transforming trading and investment by applying advanced algorithms to financial datasets. Explore how this technology enhances decision-making with more accurate predictions, automated strategies, and adaptive learning. Machine learning plays a critical role in algorithmic trading by processing large data volumes, detecting patterns, and improving predictive accuracy. By transitioning from traditional to AI-driven strategies, financial markets benefit from automation, efficiency, and sophisticated analytical methods. Uncover key techniques like supervised, unsupervised, and reinforcement learning that empower modern trading algorithms with unprecedented capabilities.
+category: quant_concept
+description: Discover how financial machine learning is transforming trading and investment
+  by applying advanced algorithms to financial datasets. Explore how this technology
+  enhances decision-making with more accurate predictions, automated strategies, and
+  adaptive learning. Machine learning plays a critical role in algorithmic trading
+  by processing large data volumes, detecting patterns, and improving predictive accuracy.
+  By transitioning from traditional to AI-driven strategies, financial markets benefit
+  from automation, efficiency, and sophisticated analytical methods. Uncover key techniques
+  like supervised, unsupervised, and reinforcement learning that empower modern trading
+  algorithms with unprecedented capabilities.
+title: Financial machine learning (Algo Trading)
 ---
 
 Financial machine learning represents a convergence of technology and finance, focusing on the application of machine learning algorithms to financial datasets for trading, investment, and risk management purposes. Unlike traditional methods that rely heavily on statistical models and assumptions, financial machine learning leverages advanced computational techniques to uncover patterns and insights that might be imperceptible to human analysts. This approach enhances decision-making in financial markets by enabling more accurate predictions, automated strategies, and adaptive learning frameworks.

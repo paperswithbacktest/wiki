@@ -1,6 +1,8 @@
 ---
-title: "Comparison of Short and Long Hedges (Algo Trading)"
-description: "Explore the nuances of short and long hedges in algo trading to enhance risk management strategies and protect investments against market volatility."
+category: trading_strategy
+description: Explore the nuances of short and long hedges in algo trading to enhance
+  risk management strategies and protect investments against market volatility.
+title: Comparison of Short and Long Hedges (Algo Trading)
 ---
 
 In the world of finance and trading, risk management is a critical aspect that can determine the success or failure of investment strategies. Among the various techniques available, hedging stands out as a reliable method to mitigate potential losses. This strategy involves taking an opposing position in a related security, thereby offsetting risks associated with adverse price movements.

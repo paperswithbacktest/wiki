@@ -1,6 +1,9 @@
 ---
-title: "Term Securities Lending Facility Overview (Algo Trading)"
-description: "Discover how the Term Securities Lending Facility supported liquidity during the 2008 financial crisis by allowing primary dealers access to Treasury securities."
+category: quant_concept
+description: Discover how the Term Securities Lending Facility supported liquidity
+  during the 2008 financial crisis by allowing primary dealers access to Treasury
+  securities.
+title: Term Securities Lending Facility Overview (Algo Trading)
 ---
 
 The financial system's response to economic crises is crucial in maintaining stability and preventing widespread economic damage. During times of economic turmoil, such as the 2008 financial crisis, governments and central banks employ various tools and strategies to mitigate adverse effects on the financial markets and the broader economy. These responses often involve monetary policy measures, liquidity injections, and efforts to strengthen financial institutions.

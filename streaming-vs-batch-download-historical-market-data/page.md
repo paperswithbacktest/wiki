@@ -1,6 +1,11 @@
 ---
-title: "Streaming vs Batch Download Historical Market Data (Algo Trading)"
-description: Explore the differences between streaming and batch downloads for acquiring historical market data in algorithmic trading. Understand how these methods impact trading strategies, costs, and data management. This article guides traders in optimizing data acquisition strategies by evaluating the advantages and disadvantages of both methods for their specific needs.
+category: dataset
+description: Explore the differences between streaming and batch downloads for acquiring
+  historical market data in algorithmic trading. Understand how these methods impact
+  trading strategies, costs, and data management. This article guides traders in optimizing
+  data acquisition strategies by evaluating the advantages and disadvantages of both
+  methods for their specific needs.
+title: Streaming vs Batch Download Historical Market Data (Algo Trading)
 ---
 
 Algorithmic trading relies heavily on accurate and timely market data to execute trades with precision and efficiency. In this context, acquiring historical market data becomes a critical factor for traders. Two prevalent methods for obtaining such data are streaming and batch downloads, each offering distinct advantages and considerations. 

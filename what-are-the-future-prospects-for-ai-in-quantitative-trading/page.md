@@ -1,6 +1,13 @@
 ---
-title: "What are the future prospects for AI in quantitative trading?"
-description: "Discover the future prospects of Artificial Intelligence (AI) in quantitative trading. From more sophisticated models and unstructured data analysis, to increased automation and personalization, explore the possibilities and challenges of AI in quant trading. Read more to learn how human expertise combined with AI capabilities can give a competitive edge while addressing regulatory challenges and overfitting risks. Access resources for systematic trading and datasets to help you become a successful quant trader."
+category: quant_concept
+description: Discover the future prospects of Artificial Intelligence (AI) in quantitative
+  trading. From more sophisticated models and unstructured data analysis, to increased
+  automation and personalization, explore the possibilities and challenges of AI in
+  quant trading. Read more to learn how human expertise combined with AI capabilities
+  can give a competitive edge while addressing regulatory challenges and overfitting
+  risks. Access resources for systematic trading and datasets to help you become a
+  successful quant trader.
+title: What are the future prospects for AI in quantitative trading?
 ---
 
 Artificial Intelligence (AI) is transforming numerous industries, with quantitative trading being one of the most impacted sectors. In recent years, AI's role in quantitative trading has expanded, offering new avenues for enhanced efficiency, data analysis, and decision-making. Quantitative trading involves the use of mathematical and statistical models to identify trading opportunities, relying heavily on historical data and computational power. AI technologies have become integral to this process, enabling traders to analyze vast amounts of data quickly and accurately, thereby making more informed predictions and trades.

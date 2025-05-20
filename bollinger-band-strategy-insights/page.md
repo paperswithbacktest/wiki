@@ -1,6 +1,9 @@
 ---
-title: "Bollinger Band Strategy Insights (Algo Trading)"
-description: "Discover effective Bollinger Band strategies for algotrading Enhance your trading decisions by leveraging these dynamic bands combined with technical indicators"
+category: trading_strategy
+description: Discover effective Bollinger Band strategies for algotrading Enhance
+  your trading decisions by leveraging these dynamic bands combined with technical
+  indicators
+title: Bollinger Band Strategy Insights (Algo Trading)
 ---
 
 Bollinger Bands are a widely-recognized technical analysis tool in financial markets, developed by John Bollinger in the 1980s. These bands consist of three lines that correspond to different price levels of a security over a specific time period. The middle band is typically a simple moving average (SMA), most commonly set at 20 periods. The upper and lower bands are calculated as two standard deviations above and below this moving average, respectively. Mathematically, the bands are defined as follows:

@@ -1,6 +1,12 @@
 ---
-title: "Backtrader for Algo Trading"
-description: Discover Backtrader, a versatile open-source Python platform for backtesting and algorithmic trading. With features like seamless data feed compatibility, a rich library of indicators, visual analysis tools, broker integration, modular structure, and optimization capabilities, Backtrader empowers traders to navigate the world of algorithmic trading with ease. Join its thriving community for comprehensive documentation, flexibility, and unparalleled support.
+category: trading_strategy
+description: Discover Backtrader, a versatile open-source Python platform for backtesting
+  and algorithmic trading. With features like seamless data feed compatibility, a
+  rich library of indicators, visual analysis tools, broker integration, modular structure,
+  and optimization capabilities, Backtrader empowers traders to navigate the world
+  of algorithmic trading with ease. Join its thriving community for comprehensive
+  documentation, flexibility, and unparalleled support.
+title: Backtrader for Algo Trading
 ---
 
 Backtesting, at its core, is the process of testing a [trading strategy](https://paperswithbacktest.com/) or hypothesis on [historical data](https://paperswithbacktest.com/datasets) to evaluate its viability in the real market. This method stands at the forefront of algorithmic trading. By simulating trades on [past market data](https://paperswithbacktest.com/datasets), traders gain insights into how a particular strategy might perform in the future, without risking real capital. While it's essential to remember that past performance is not always indicative of future results, [backtesting offers a systematic way to scrutinize a strategy](https://blog.paperswithbacktest.com/p/backtesting-a-trading-strategy-on), refine it, and boost confidence before taking it live.

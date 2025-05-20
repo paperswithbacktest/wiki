@@ -1,7 +1,8 @@
 ---
-title: Comprehensive Guide to Offline Inference in Machine Learning
+category: quant_concept
 description: Offline inference in machine learning enables models to run locally on
   devices ensuring data privacy and fast performance Discover more inside
+title: Comprehensive Guide to Offline Inference in Machine Learning
 ---
 
 ![Image](images/1.png)

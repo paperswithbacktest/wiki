@@ -1,6 +1,8 @@
 ---
-title: "Class A Shares: Comparison with Class B and Class C (Algo Trading)"
-description: "Explore the key differences between Class A and Class B shares, their impact on corporate governance and how algorithmic trading leverages these distinctions."
+category: quant_concept
+description: Explore the key differences between Class A and Class B shares, their
+  impact on corporate governance and how algorithmic trading leverages these distinctions.
+title: 'Class A Shares: Comparison with Class B and Class C (Algo Trading)'
 ---
 
 In the complex world of stock trading, shares are often classified into different types, each with unique rights and privileges. This article explores the dynamics of stock classes, focusing on Class A shares and their impact on trading strategies, especially in algorithmic trading. We will examine the differences between Class A and Class B shares, their implications for corporate governance, and how algorithmic trading can leverage these distinctions. Additionally, understanding these share types empowers investors to make informed decisions and potentially enhance returns. By the end of this article, you should have a deeper understanding of stock classes and their strategic importance in modern financial markets.
@@ -115,4 +117,3 @@ For readers eager to explore the complexities of stock classes and the strategic
    - Articles from financial news websites such as Bloomberg and CNBC frequently analyze market behavior regarding the distinct privileges and voting powers of Class A and Class B shares.
 
 These resources collectively offer a deep dive into the strategic considerations influenced by stock classes and the methodologies of algorithmic trading, equipping investors with the knowledge needed to enhance their investment portfolios effectively.
-

@@ -1,6 +1,9 @@
 ---
-title: "Rectangle: Definition and Applications (Algo Trading)"
-description: "Explore the role of rectangle patterns in algorithmic trading and how they aid in identifying market trends. Learn to use these geometric insights for strategic trading."
+category: quant_concept
+description: Explore the role of rectangle patterns in algorithmic trading and how
+  they aid in identifying market trends. Learn to use these geometric insights for
+  strategic trading.
+title: 'Rectangle: Definition and Applications (Algo Trading)'
 ---
 
 Mathematics plays a vital role in diverse fields, spanning from geometry to finance and algorithmic trading. In the context of trading, geometric concepts such as the rectangle pattern have practical applications that help traders identify and capitalize on market trends. The rectangle pattern, characterized by periods of consolidation within horizontal support and resistance levels, provides significant insights for traders aiming to predict market movements and make informed decisions.

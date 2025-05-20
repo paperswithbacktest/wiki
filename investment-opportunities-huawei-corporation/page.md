@@ -1,6 +1,8 @@
 ---
-title: "Investment Opportunities in Huawei Corporation (Algo Trading)"
-description: "Explore investment opportunities in Huawei as the tech giant ventures into algorithmic trading merging technology and finance with innovative strategies."
+category: trading_strategy
+description: Explore investment opportunities in Huawei as the tech giant ventures
+  into algorithmic trading merging technology and finance with innovative strategies.
+title: Investment Opportunities in Huawei Corporation (Algo Trading)
 ---
 
 Huawei, a global leader in technology, has increasingly extended its reach beyond traditional telecommunications and consumer electronics, delving into the financial sector, particularly through algorithmic trading. This intersection of technology and finance has garnered significant attention as Huawei's influence in the tech domain presents substantial implications for the financial markets.

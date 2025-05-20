@@ -1,6 +1,14 @@
 ---
-title: "Alpaca Trading API Guide (Algo Trading)"
-description: Discover how Alpaca Trading empowers both novice and seasoned algorithmic traders with its commission-free trading model and comprehensive API access. This guide explores the platform's key features, including seamless integration with popular trading libraries, real-time market data accessibility, and a supportive community. Learn how Alpaca enhances trading efficiency through automation and provides tools for developing, testing, and executing advanced trading strategies. Whether you're just starting with algo trading or looking to optimize your existing strategies, Alpaca offers valuable resources for improved trading outcomes.
+category: trading_strategy
+description: Discover how Alpaca Trading empowers both novice and seasoned algorithmic
+  traders with its commission-free trading model and comprehensive API access. This
+  guide explores the platform's key features, including seamless integration with
+  popular trading libraries, real-time market data accessibility, and a supportive
+  community. Learn how Alpaca enhances trading efficiency through automation and provides
+  tools for developing, testing, and executing advanced trading strategies. Whether
+  you're just starting with algo trading or looking to optimize your existing strategies,
+  Alpaca offers valuable resources for improved trading outcomes.
+title: Alpaca Trading API Guide (Algo Trading)
 ---
 
 Algorithmic trading, often referred to as algo trading, is the use of computer programs to execute trades based on pre-set criteria. This approach leverages mathematical models and automated systems to make trading decisions at speeds and frequencies that are impossible for a human trader. Its rise in popularity can be attributed to several factors, including increased access to technology, the growing complexity of financial markets, and the potential for improved trading efficiency and reduced transaction costs.

@@ -1,6 +1,8 @@
 ---
-title: "International Petroleum Exchange (Algo Trading)"
-description: "Explore the transformation of the International Petroleum Exchange into ICE Futures Europe and the impact of algorithmic trading on global energy markets."
+category: quant_concept
+description: Explore the transformation of the International Petroleum Exchange into
+  ICE Futures Europe and the impact of algorithmic trading on global energy markets.
+title: International Petroleum Exchange (Algo Trading)
 ---
 
 The International Petroleum Exchange (IPE) has been a significant institution in the global energy markets, serving as a primary platform for trading energy futures and options. Established in 1980 in London, the IPE quickly rose to prominence by specializing in Brent crude and other energy commodities, which are instrumental in determining oil prices worldwide. The exchange initially operated through an open outcry system, where traders would communicate buy and sell orders in person on the trading floor. This method emphasized human interaction and was predominant in commodity trading until technological advancements led to a pivotal change.

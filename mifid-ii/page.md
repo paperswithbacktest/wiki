@@ -1,6 +1,8 @@
 ---
-title: "MiFID II (Algo Trading)"
-description: "MiFID II enhances financial market transparency in the EU, governing algorithmic trading to ensure market integrity and stability through stringent regulations."
+category: quant_concept
+description: MiFID II enhances financial market transparency in the EU, governing
+  algorithmic trading to ensure market integrity and stability through stringent regulations.
+title: MiFID II (Algo Trading)
 ---
 
 The Markets in Financial Instruments Directive II (MiFID II) is a comprehensive regulatory framework designed to enhance the functioning and transparency of financial markets within the European Union. Central to this directive is the governance of algorithmic trading, where automated computer systems execute trades based on pre-established parameters. MiFID II aims to safeguard market integrity and avert disorderly trading scenarios through rigorous oversight of algorithmic activities.

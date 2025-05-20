@@ -1,7 +1,8 @@
 ---
-title: Exploring Document Embeddings For Efficient Text Understanding
+category: quant_concept
 description: Document Embeddings deliver efficient text classification information
   retrieval and semantic search with advanced techniques Discover more inside.
+title: Exploring Document Embeddings For Efficient Text Understanding
 ---
 
 ![Image](images/1.webp)

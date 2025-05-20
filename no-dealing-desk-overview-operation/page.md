@@ -1,6 +1,8 @@
 ---
-title: "No Dealing Desk: Overview and Operation (Algo Trading)"
-description: "Explore the benefits of No Dealing Desk (NDD) forex trading and its synergy with algorithmic trading for improved transparency and tighter spreads."
+category: quant_concept
+description: Explore the benefits of No Dealing Desk (NDD) forex trading and its synergy
+  with algorithmic trading for improved transparency and tighter spreads.
+title: 'No Dealing Desk: Overview and Operation (Algo Trading)'
 ---
 
 Forex trading is a dynamic and complex financial activity that involves the exchange of currencies within a global decentralized market, where participants operate continuously across time zones. This vast and fluid marketplace enables the trading of cash, also known as spot trading, as well as derivatives in the form of forwards, futures, options, and currency swaps. Due to its worldwide nature, the forex market operates 24 hours a day during the workweek, facilitating seamless currency trading across different countries.

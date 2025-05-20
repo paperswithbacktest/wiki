@@ -1,6 +1,8 @@
 ---
-title: "Mutual Fund Liquidity Ratio (Algo Trading)"
-description: "Enhance your investment strategies by mastering liquidity ratios in mutual funds and algorithmic trading Understand key metrics to unlock superior returns."
+category: quant_concept
+description: Enhance your investment strategies by mastering liquidity ratios in mutual
+  funds and algorithmic trading Understand key metrics to unlock superior returns.
+title: Mutual Fund Liquidity Ratio (Algo Trading)
 ---
 
 In today's fast-paced financial landscape, understanding key metrics and technologies can significantly enhance investment strategies. Liquidity ratios, mutual funds, and algorithmic trading are central concepts that every savvy investor should grasp. By analyzing the interconnected nature of these elements, investors can better navigate the complexities of modern financial markets and potentially unlock superior returns.

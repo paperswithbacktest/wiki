@@ -1,6 +1,8 @@
 ---
-title: "GAAP and Accrual Basis Accounting Requirements (Algo Trading)"
-description: "Explore how GAAP and accrual accounting guide financial reporting and support algorithmic trading decisions for enhanced transparency and strategic success."
+category: quant_concept
+description: Explore how GAAP and accrual accounting guide financial reporting and
+  support algorithmic trading decisions for enhanced transparency and strategic success.
+title: GAAP and Accrual Basis Accounting Requirements (Algo Trading)
 ---
 
 The world of finance is experiencing swift advancements, characterized by the integration of innovative methods and tools designed to enhance decision-making and operational efficiency. Central to these advancements are financial reporting, accrual accounting, Generally Accepted Accounting Principles (GAAP), and algorithmic trading. These components play a pivotal role in how businesses communicate financial data, manage financial activities, and execute trades within the financial markets.

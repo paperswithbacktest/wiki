@@ -1,6 +1,8 @@
 ---
-title: "Dow Jones Industrial Average: Meaning and Calculation (Algo Trading)"
-description: "Explore the impact of algorithmic trading on the Dow Jones Industrial Average and how its calculation reflects market trends in key economic sectors."
+category: quant_concept
+description: Explore the impact of algorithmic trading on the Dow Jones Industrial
+  Average and how its calculation reflects market trends in key economic sectors.
+title: 'Dow Jones Industrial Average: Meaning and Calculation (Algo Trading)'
 ---
 
 The Dow Jones Industrial Average (DJIA) holds a prominent position as one of the most widely followed stock market indices globally. Established in 1896 by Charles Dow and Edward Jones, the DJIA has evolved into a critical barometer of the overall health of the U.S. economy. Comprising 30 major publicly traded companies, known as blue-chip stocks, the DJIA reflects the performance of significant sectors such as finance, technology, healthcare, and consumer goods. Its historical significance and influence make it an essential tool for investors, economists, and policymakers when analyzing economic trends and investment strategies.
@@ -236,4 +238,3 @@ For those interested in expanding their understanding of the Dow Jones Industria
    - Trading platforms like QuantConnect offer cloud-based environments for algorithm development and backtesting against historical DJIA data.
 
 These resources provide a blend of theoretical knowledge and practical application suitable for anyone interested in the financial markets and algorithmic trading, with a particular focus on the DJIA.
-

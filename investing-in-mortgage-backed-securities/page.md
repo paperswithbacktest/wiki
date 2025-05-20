@@ -1,6 +1,8 @@
 ---
-title: "Investing in Mortgage-Backed Securities (Algo Trading)"
-description: "Explore the intricacies of mortgage-backed securities and algorithmic trading Find insights into MBS types risks and the impact of evolving trading strategies"
+category: quant_concept
+description: Explore the intricacies of mortgage-backed securities and algorithmic
+  trading Find insights into MBS types risks and the impact of evolving trading strategies
+title: Investing in Mortgage-Backed Securities (Algo Trading)
 ---
 
 Mortgage-backed securities (MBS) have served as a pivotal element in modern finance by bridging the gap between mortgage lenders and investors. This financial innovation enables lenders to convert mortgage loans into marketable securities, thus providing new funding sources for additional mortgage lending. These securities encapsulate a complex interplay of investment and mortgage debt, creating avenues for diversification and income generation.

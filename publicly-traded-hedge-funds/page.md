@@ -1,6 +1,9 @@
 ---
-title: "Publicly Traded Hedge Funds (Algo Trading)"
-description: "Explore publicly traded hedge funds and the role of algorithmic trading Learn key factors driving these funds public and get examples like BlackRock and Blackstone"
+category: quant_concept
+description: Explore publicly traded hedge funds and the role of algorithmic trading
+  Learn key factors driving these funds public and get examples like BlackRock and
+  Blackstone
+title: Publicly Traded Hedge Funds (Algo Trading)
 ---
 
 In recent times, hedge funds have surged to the forefront of attention for investors who are pursuing high returns through a variety of strategies. Historically, these investment vehicles have been the domain of accredited investors, individuals or institutions that meet specific financial criteria, providing them with access to complex and higher-risk investment strategies. However, a shift has occurred with certain hedge funds entering the public market, thus broadening their accessibility to a wider range of investors. 

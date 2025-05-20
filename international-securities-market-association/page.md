@@ -1,6 +1,9 @@
 ---
-title: "International Securities Market Association (Algo Trading)"
-description: "Explore the evolution of the International Securities Market Association in global securities regulation, its transition to ICMA, and the impact of algorithmic trading."
+category: quant_concept
+description: Explore the evolution of the International Securities Market Association
+  in global securities regulation, its transition to ICMA, and the impact of algorithmic
+  trading.
+title: International Securities Market Association (Algo Trading)
 ---
 
 The International Securities Market Association (ISMA) played a pivotal role in the regulation and development of the global securities market. As a self-regulatory organization, its primary focus was ensuring transparency, efficiency, and integrity within the Euromarkets. The Euromarket refers to the international financial market for dealing in securities unbound by national boundaries. ISMA's contributions were instrumental in establishing accepted practices and standards, which bolstered investor confidence and facilitated the smooth functioning of these markets.

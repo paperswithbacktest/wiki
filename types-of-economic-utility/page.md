@@ -1,6 +1,8 @@
 ---
-title: "Types of Economic Utility (Algo Trading)"
-description: "Explore the types and significance of economic utility in consumer behavior and algo trading including form time place and possession utility applications."
+category: quant_concept
+description: Explore the types and significance of economic utility in consumer behavior
+  and algo trading including form time place and possession utility applications.
+title: Types of Economic Utility (Algo Trading)
 ---
 
 Utility is a fundamental concept in economics that facilitates the understanding of consumer behavior and market dynamics. Essentially, utility refers to the satisfaction or benefit that individuals derive from consuming goods and services. This satisfaction or benefit is crucial for explaining how consumers make choices and how they allocate their resources among various alternatives. By examining utility, economists can better understand how consumers make purchasing decisions, how they respond to changes in prices and incomes, and how their preferences influence overall market trends.

@@ -1,6 +1,12 @@
 ---
-title: "Cost and Price Distinctions (Algo Trading)"
-description: "Explore the intersection of cost economics and algorithmic trading, discussing how understanding and managing transaction costs like fees, spreads, and slippage is essential for optimizing trading strategy profitability. Discover how integrating cost analysis with advanced algorithmic methods enhances trade execution and efficiency, providing real-world applications and discussing the challenges and benefits of this innovative financial approach."
+category: quant_concept
+description: Explore the intersection of cost economics and algorithmic trading, discussing
+  how understanding and managing transaction costs like fees, spreads, and slippage
+  is essential for optimizing trading strategy profitability. Discover how integrating
+  cost analysis with advanced algorithmic methods enhances trade execution and efficiency,
+  providing real-world applications and discussing the challenges and benefits of
+  this innovative financial approach.
+title: Cost and Price Distinctions (Algo Trading)
 ---
 
 Cost price economics is a critical concept in financial markets, focusing on the analysis and management of costs associated with financial transactions. It involves determining the components that contribute to the overall cost of executing trades, such as transaction fees, spreads, and slippage. Understanding these costs is essential for assessing the profitability of trading strategies, as they can significantly impact returns. By minimizing these costs, traders can enhance trade efficiency and improve their competitive edge.

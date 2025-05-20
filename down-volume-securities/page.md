@@ -1,6 +1,8 @@
 ---
-title: "Down Volume in Securities (Algo Trading)"
-description: "Explore the role of down volume in securities trading and how algorithmic trading leverages volume analysis to enhance decision-making and risk management."
+category: quant_concept
+description: Explore the role of down volume in securities trading and how algorithmic
+  trading leverages volume analysis to enhance decision-making and risk management.
+title: Down Volume in Securities (Algo Trading)
 ---
 
 The stock market operates as a highly dynamic financial environment where securities are bought and sold, allowing investors to gain exposure to the growth of companies and governments. This marketplace is influenced by a myriad of factors, including economic indicators, interest rates, and investor sentiment. Central to the operation of the stock market is the concept of trade volume, which represents the total quantity of shares or contracts traded for a particular security over a specified period. Volume serves as a key indicator for traders and investors, offering insight into the strength or weakness of a market move and providing clues about future price movements.

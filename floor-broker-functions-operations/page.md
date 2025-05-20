@@ -1,6 +1,8 @@
 ---
-title: "Floor Broker: Functions and Operations (Algo Trading)"
-description: "Explore the evolution from traditional floor brokers to advanced algorithmic trading, highlighting their roles and integration in today's stock exchanges."
+category: quant_concept
+description: Explore the evolution from traditional floor brokers to advanced algorithmic
+  trading, highlighting their roles and integration in today's stock exchanges.
+title: 'Floor Broker: Functions and Operations (Algo Trading)'
 ---
 
 The world of stock exchange has witnessed significant evolution with the progression of technology. At the heart of its early operations were floor brokers, who played a crucial role by executing trades directly on the exchange floor. They facilitated transactions through oral communications, written notes, and hand signals. This method required a deep understanding of market dynamics and sharp negotiation skills to secure the best possible prices for their clients. Floor brokers chiefly catered to the needs of financial institutions and high-net-worth individuals, establishing themselves as pivotal figures in the financial markets.

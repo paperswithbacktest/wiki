@@ -1,6 +1,13 @@
 ---
-title: "Deferred Revenue as a Liability (Algo Trading)"
-description: "Explore the critical concept of deferred revenue as a liability in financial accounting and its significance in balance sheets and income statements. Understand how algorithmic trading is revolutionizing financial markets through automated processes, enhancing efficiency and reducing human errors. Dive into interactions between liabilities, deferred revenue, and algorithmic trading, and their impact on financial reporting and compliance. This article offers insights into managing these aspects to ensure financial health in today's technology-driven finance sector."
+category: quant_concept
+description: Explore the critical concept of deferred revenue as a liability in financial
+  accounting and its significance in balance sheets and income statements. Understand
+  how algorithmic trading is revolutionizing financial markets through automated processes,
+  enhancing efficiency and reducing human errors. Dive into interactions between liabilities,
+  deferred revenue, and algorithmic trading, and their impact on financial reporting
+  and compliance. This article offers insights into managing these aspects to ensure
+  financial health in today's technology-driven finance sector.
+title: Deferred Revenue as a Liability (Algo Trading)
 ---
 
 Understanding the intricate details of financial accounting is crucial for businesses to maintain robust financial health. Liability and deferred revenue are two core concepts in financial accounting that significantly impact balance sheets and income statements. Liabilities represent the financial obligations or debts a company owes, and they are essential for assessing a company's financial health. Deferred revenue, on the other hand, is a specific form of liability that arises when a business receives payment for goods or services yet to be delivered. Proper accounting of these elements ensures accurate financial reporting and compliance.

@@ -1,6 +1,8 @@
 ---
-title: "Inventory Management: Overview and Methods (Algo Trading)"
-description: "Explore how inventory management enhances business and financial operations through optimized methods, logistics, and algorithmic trading for maximum efficiency."
+category: quant_concept
+description: Explore how inventory management enhances business and financial operations
+  through optimized methods, logistics, and algorithmic trading for maximum efficiency.
+title: 'Inventory Management: Overview and Methods (Algo Trading)'
 ---
 
 Inventory management is a crucial component of both business and financial landscapes, ensuring efficient operations and long-term sustainability. Its significance spans multiple sectors, from the handling of raw materials in manufacturing processes to the management of finished goods in retail environments. Effective inventory management not only optimizes cash flow but also confers a competitive advantage by ensuring the right balance between supply and demand.

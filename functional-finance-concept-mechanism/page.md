@@ -1,6 +1,9 @@
 ---
-title: "Functional Finance: Concept and Mechanism (Algo Trading)"
-description: "Explore how fiscal policy, functional finance, and algorithmic trading shape modern economies from managing national economic health to influencing market dynamics."
+category: quant_concept
+description: Explore how fiscal policy, functional finance, and algorithmic trading
+  shape modern economies from managing national economic health to influencing market
+  dynamics.
+title: 'Functional Finance: Concept and Mechanism (Algo Trading)'
 ---
 
 In the rapidly evolving economic landscape, fiscal policy, functional finance economic theory, and algorithmic trading play crucial roles. Fiscal policy is integral to managing a nation's economic health and influences economic activity. Through adjustments in government spending and taxation, fiscal policy seeks to stabilize economies by managing inflation, reducing unemployment, and promoting growth. This is crucial because economic stability is foundational to development and progress in various sectors.

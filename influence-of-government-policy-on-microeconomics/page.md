@@ -1,6 +1,8 @@
 ---
-title: "Influence of Government Policy on Microeconomics (Algo Trading)"
-description: "Explore how government policy and algorithmic trading shape microeconomics affecting decision-making for individuals and firms in market environments."
+category: quant_concept
+description: Explore how government policy and algorithmic trading shape microeconomics
+  affecting decision-making for individuals and firms in market environments.
+title: Influence of Government Policy on Microeconomics (Algo Trading)
 ---
 
 The intricate interplay between microeconomics, government policy, and algorithmic trading can significantly influence economic outcomes. Microeconomics focuses on individual and firm-level decision-making processes, examining how limited resources affect prices, supply, and demand in specific markets. It serves as the foundation for understanding how economic agents optimize their activities and how these behaviors aggregate to shape broader economic phenomena.

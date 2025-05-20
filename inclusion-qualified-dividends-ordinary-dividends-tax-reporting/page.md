@@ -1,6 +1,10 @@
 ---
-title: "Inclusion of Qualified Dividends in Ordinary Dividends for Tax Reporting (Algo Trading)"
-description: "Optimize tax benefits of algorithmic trading by understanding qualified dividends, taxed at favorable rates, unlike ordinary dividends. Essential for maximizing returns."
+category: quant_concept
+description: Optimize tax benefits of algorithmic trading by understanding qualified
+  dividends, taxed at favorable rates, unlike ordinary dividends. Essential for maximizing
+  returns.
+title: Inclusion of Qualified Dividends in Ordinary Dividends for Tax Reporting (Algo
+  Trading)
 ---
 
 Understanding the nuances of dividend taxation is crucial for effective financial planning, especially for algorithmic traders who rely heavily on dividends as a source of returns. Algorithmic trading, characterized by the use of complex mathematical models and automated systems to execute trades at high speeds, has become an integral component of modern investing. The practice leverages technology to analyze market data and execute orders, often times capitalizing on small price discrepancies. For traders engaged in this sophisticated domain, dividends can constitute a significant portion of their investment returns. Therefore, optimizing dividend taxation is essential to maximize profitability.

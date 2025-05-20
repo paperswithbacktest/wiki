@@ -1,6 +1,8 @@
 ---
-title: "Catch-Up Effect and Theory of Economic Convergence (Algo Trading)"
-description: "Explore the catch-up effect and economic convergence in global markets with insights into algorithmic trading's role in enhancing growth and equity."
+category: quant_concept
+description: Explore the catch-up effect and economic convergence in global markets
+  with insights into algorithmic trading's role in enhancing growth and equity.
+title: Catch-Up Effect and Theory of Economic Convergence (Algo Trading)
 ---
 
 The interconnectedness of global economies has shaped numerous phenomena, including the catch-up effect and economic convergence. These concepts have become central to understanding economic growth worldwide, particularly concerning emerging markets. The catch-up effect posits that poorer economies can grow more rapidly than their wealthier counterparts, thus reducing the income gap over time. This is predicated on the idea that less developed economies can replicate advanced technologies and benefit from the law of diminishing returns, which can result in substantial economic gains.

@@ -1,6 +1,8 @@
 ---
-title: "Energy Derivatives: Overview and Examples (Algo Trading)"
-description: "Explore how energy derivatives like futures and swaps and algorithmic trading impact energy markets risk management and price discovery with modern strategies."
+category: quant_concept
+description: Explore how energy derivatives like futures and swaps and algorithmic
+  trading impact energy markets risk management and price discovery with modern strategies.
+title: 'Energy Derivatives: Overview and Examples (Algo Trading)'
 ---
 
 In today's dynamic financial landscape, energy derivatives and algorithmic trading play pivotal roles. Energy derivatives are financial instruments whose value is derived from energy commodities such as oil, natural gas, and electricity. These instruments are essential for managing risks associated with fluctuating energy prices and for capitalizing on market opportunities. Companies utilize energy derivatives to hedge against price volatility, stabilize costs, and better plan their budgets. Common forms of energy derivatives include futures, options, and swaps, each offering specific advantages in terms of risk management and speculation on price movements.

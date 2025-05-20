@@ -1,6 +1,8 @@
 ---
-title: "American Association of Individual Investors (Algo Trading)"
-description: "Discover how the American Association of Individual Investors aids personal finance growth and explore algorithmic trading to automate and optimize investments."
+category: trading_strategy
+description: Discover how the American Association of Individual Investors aids personal
+  finance growth and explore algorithmic trading to automate and optimize investments.
+title: American Association of Individual Investors (Algo Trading)
 ---
 
 The landscape of investing is undergoing significant transformation, with technology playing a crucial role in shaping new opportunities and strategies. Individual investors are increasingly on the lookout for innovative methods to boost their returns while simultaneously minimizing risk. The American Association of Individual Investors (AAII) has emerged as a noteworthy asset in this quest, offering comprehensive resources to aid individuals in educating themselves and managing their portfolios more effectively. Established with the mission of empowering investors through education, AAII provides a wealth of tools designed to enhance investment knowledge and strategy execution.

@@ -1,6 +1,9 @@
 ---
-title: "Korea Investment Corporation: Overview and Functionality (Algo Trading)"
-description: "Explore how the Korea Investment Corporation leverages algorithmic trading and strategic asset allocation to enhance South Korea's economic growth through effective investment management."
+category: quant_concept
+description: Explore how the Korea Investment Corporation leverages algorithmic trading
+  and strategic asset allocation to enhance South Korea's economic growth through
+  effective investment management.
+title: 'Korea Investment Corporation: Overview and Functionality (Algo Trading)'
 ---
 
 Sovereign wealth funds (SWFs) significantly impact the global financial system by managing large pools of national resources, often derived from trade surpluses, natural resource exports, or foreign exchange reserves. The Korea Investment Corporation (KIC), established in 2005, serves as South Korea's SWF, tasked with managing and investing the country's foreign reserves. The primary objective of KIC is to enhance economic stability and promote growth by generating consistent returns through strategic resource allocation.

@@ -1,6 +1,8 @@
 ---
-title: "Comparison of Active and Passive ETF Investing (Algo Trading)"
-description: "Explore the benefits and drawbacks of active vs passive ETF investing and discover the impact of algorithmic trading on modern investment strategies."
+category: trading_strategy
+description: Explore the benefits and drawbacks of active vs passive ETF investing
+  and discover the impact of algorithmic trading on modern investment strategies.
+title: Comparison of Active and Passive ETF Investing (Algo Trading)
 ---
 
 Investment strategies are essential components of financial planning, facilitating informed decision-making in the allocation of assets to achieve long-term financial goals. These strategies encompass a variety of approaches, tailored to accommodate different risk appetites, time horizons, and market conditions, thereby helping investors in maximizing returns while managing risks effectively.

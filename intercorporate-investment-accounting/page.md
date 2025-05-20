@@ -1,6 +1,9 @@
 ---
-title: "Intercorporate Investment Accounting (Algo Trading)"
-description: "Explore the complexities of intercorporate investment accounting and algorithmic trading, and understand how these factors influence financial statements and reporting."
+category: quant_concept
+description: Explore the complexities of intercorporate investment accounting and
+  algorithmic trading, and understand how these factors influence financial statements
+  and reporting.
+title: Intercorporate Investment Accounting (Algo Trading)
 ---
 
 Investment accounting is a critical component of financial analysis, offering valuable insights into a company's management of financial resources. As businesses aim to maximize profitability and shareholder value, understanding and properly managing intercorporate investments becomes essential. These investments can significantly influence a company's financial statements by affecting asset valuations, income recognition, and overall financial position.

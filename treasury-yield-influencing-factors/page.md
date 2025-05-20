@@ -1,6 +1,9 @@
 ---
-title: "Treasury Yield and Influencing Factors (Algo Trading)"
-description: "Explore how Treasury yields and algorithmic trading impact economic conditions and financial markets Discover their influence on interest rates and investment strategies"
+category: quant_concept
+description: Explore how Treasury yields and algorithmic trading impact economic conditions
+  and financial markets Discover their influence on interest rates and investment
+  strategies
+title: Treasury Yield and Influencing Factors (Algo Trading)
 ---
 
 Understanding Treasury yields is crucial for investors, economists, and policymakers as these yields provide valuable insights into the broader economic climate. Treasury yields, the returns on investment for U.S. government debt instruments, are pivotal indicators that reflect both the government's borrowing costs and the overall economic health. This article explores the intricate interplay between Treasury yields, economic factors, interest rates, and the role of algorithmic trading, aiming to shed light on how these components collectively shape market dynamics and influence financial decision-making.

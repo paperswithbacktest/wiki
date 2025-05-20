@@ -1,6 +1,9 @@
 ---
-title: "Share Disposition in Company Liquidation (Algo Trading)"
-description: "Explore asset distribution in company liquidation and the influence of algorithmic trading a crucial aspect in navigating financial and legal complexities in modern finance."
+category: quant_concept
+description: Explore asset distribution in company liquidation and the influence of
+  algorithmic trading a crucial aspect in navigating financial and legal complexities
+  in modern finance.
+title: Share Disposition in Company Liquidation (Algo Trading)
 ---
 
 Understanding asset distribution during company liquidation and the role of algorithmic trading is essential in modern finance. Liquidation involves the selling off of a company's assets, with the proceeds used to pay creditors and any remaining funds distributed to shareholders. This process can be triggered by various types of bankruptcy, most commonly under U.S. law, Chapter 7 for liquidation and Chapter 11 for reorganization.

@@ -1,6 +1,8 @@
 ---
-title: "Calculating Debt and Equity Ratios in Cost of Capital (Algo Trading)"
-description: "Explore the vital role of debt and equity ratios in cost of capital strategies within algorithmic trading to enhance financial decision-making and risk management."
+category: quant_concept
+description: Explore the vital role of debt and equity ratios in cost of capital strategies
+  within algorithmic trading to enhance financial decision-making and risk management.
+title: Calculating Debt and Equity Ratios in Cost of Capital (Algo Trading)
 ---
 
 In today's fast-paced financial markets, where decisions need to be made swiftly and accurately, understanding key financial metrics is crucial for investors and analysts. Among these, the debt ratio, cost of capital, equity ratio, and their roles in algorithmic trading stand out as essential concepts that significantly influence decision-making and risk management.

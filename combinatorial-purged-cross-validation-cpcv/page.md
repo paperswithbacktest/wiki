@@ -1,6 +1,14 @@
 ---
-title: "Combinatorial purged cross-validation (CPCV) (Algo Trading)"
-description: Combinatorial Purged Cross-Validation (CPCV) revolutionizes model validation in algorithmic trading by effectively handling the time-dependent nature of financial data. Traditional cross-validation methods fall short, often leading to data leakage and overfitting. CPCV addresses these issues through a rigorous framework that purges overlapping data, enhancing model reliability and alignment with real-world trading conditions. This method provides quantitative analysts and traders with vital insights for building more robust models, ensuring accurate performance assessments and informed decision-making in the dynamic financial market environment.
+category: trading_strategy
+description: Combinatorial Purged Cross-Validation (CPCV) revolutionizes model validation
+  in algorithmic trading by effectively handling the time-dependent nature of financial
+  data. Traditional cross-validation methods fall short, often leading to data leakage
+  and overfitting. CPCV addresses these issues through a rigorous framework that purges
+  overlapping data, enhancing model reliability and alignment with real-world trading
+  conditions. This method provides quantitative analysts and traders with vital insights
+  for building more robust models, ensuring accurate performance assessments and informed
+  decision-making in the dynamic financial market environment.
+title: Combinatorial purged cross-validation (CPCV) (Algo Trading)
 ---
 
 In algorithmic trading, backtesting and model validation are critical components for developing successful trading strategies. Traditional cross-validation techniques, such as k-fold cross-validation, often encounter limitations when applied to financial data, which inherently possess time-dependent characteristics. These conventional methods tend to overlook the time series nature of financial datasets, leading to issues like data leakage and overfitting. Such limitations hinder the accurate assessment of predictive models in financial markets.

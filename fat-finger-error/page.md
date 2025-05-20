@@ -1,6 +1,8 @@
 ---
-title: "Fat Finger Error (Algo Trading)"
-description: "Explore common trading errors like fat finger mistakes and algorithmic glitches Learn their causes impact and prevention strategies to safeguard trades"
+category: quant_concept
+description: Explore common trading errors like fat finger mistakes and algorithmic
+  glitches Learn their causes impact and prevention strategies to safeguard trades
+title: Fat Finger Error (Algo Trading)
 ---
 
 Financial markets, integral to the global economy, have become increasingly intricate with advancements in technology. However, despite sophisticated systems and algorithms, these markets are not immune to errors. Two of the most prevalent and significant types of trading mistakes are fat finger errors and issues related to algorithmic trading.

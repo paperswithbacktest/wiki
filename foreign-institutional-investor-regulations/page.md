@@ -1,6 +1,9 @@
 ---
-title: "Foreign Institutional Investor and Regulations (Algo Trading)"
-description: "Explore Foreign Institutional Investors and the complexities they bring to global markets through algorithmic trading Discover investment regulations and market impacts"
+category: quant_concept
+description: Explore Foreign Institutional Investors and the complexities they bring
+  to global markets through algorithmic trading Discover investment regulations and
+  market impacts
+title: Foreign Institutional Investor and Regulations (Algo Trading)
 ---
 
 The landscape of global investment has drastically transformed over the years, guided by the movement and management of capital across borders. Central to this transformation are Foreign Institutional Investors (FIIs), which have emerged as dominant players in the global financial system. These entities, encompassing pension funds, investment banks, hedge funds, and mutual funds, exert significant influence on economies worldwide, with a pronounced impact on emerging markets. Countries such as India and China have been particularly affected, as FIIs bring not only much-needed capital but also the potential for substantial economic acceleration.

@@ -1,6 +1,10 @@
 ---
-title: "Thomson Reuters (Algo Trading)"
-description: Discover how Thomson Reuters revolutionizes algorithmic trading with cutting-edge platforms and tools designed for speed and precision. By offering real-time data and AI-driven analytics, Thomson Reuters empowers traders to execute high-frequency trades effectively and stay ahead in the fast-paced financial markets.
+category: quant_concept
+description: Discover how Thomson Reuters revolutionizes algorithmic trading with
+  cutting-edge platforms and tools designed for speed and precision. By offering real-time
+  data and AI-driven analytics, Thomson Reuters empowers traders to execute high-frequency
+  trades effectively and stay ahead in the fast-paced financial markets.
+title: Thomson Reuters (Algo Trading)
 ---
 
 Algorithmic trading, or algo trading, has emerged as a key driver in the financial markets, primarily due to its capability to execute trades with high speed and frequency. This technology leverages complex mathematical models and formulas to make quick trading decisions, often capitalizing on momentary shifts in stock prices that are imperceptible to human traders. The integration of automated systems has revolutionized trading practices, enabling the execution of large volumes of complex transactions with minimal human intervention.

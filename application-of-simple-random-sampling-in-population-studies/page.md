@@ -1,6 +1,9 @@
 ---
-title: "Application of Simple Random Sampling in Population Studies (Algo Trading)"
-description: "Discover the significance of simple random sampling in population studies and algorithmic trading highlighting its role in reducing bias and enhancing data analysis."
+category: quant_concept
+description: Discover the significance of simple random sampling in population studies
+  and algorithmic trading highlighting its role in reducing bias and enhancing data
+  analysis.
+title: Application of Simple Random Sampling in Population Studies (Algo Trading)
 ---
 
 In a rapidly evolving world driven by data, understanding various sampling methods is crucial for accurate population studies. Sampling serves as a foundational concept that not only drives advancements in research and analytics but also plays a significant role in fields such as algorithmic trading. This article explores essential sampling techniques, focusing particularly on simple random sampling, and highlights their relevance in population studies and algo trading.

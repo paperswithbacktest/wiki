@@ -1,9 +1,13 @@
 ---
-title: "Systematic Trading Strategies: A Comprehensive Guide"
-description: Learn about Systematic Trading Strategies, a game-changing approach in modern finance that utilizes complex algorithms and predefined rules to execute trades objectively. From humble beginnings with moving averages to advanced machine learning techniques, this comprehensive guide explores the evolution of systematic trading and its impact on financial markets. Understand how algorithmic models are developed, backtested, and optimized for success.
+category: trading_strategy
+description: Learn about Systematic Trading Strategies, a game-changing approach in
+  modern finance that utilizes complex algorithms and predefined rules to execute
+  trades objectively. From humble beginnings with moving averages to advanced machine
+  learning techniques, this comprehensive guide explores the evolution of systematic
+  trading and its impact on financial markets. Understand how algorithmic models are
+  developed, backtested, and optimized for success.
+title: 'Systematic Trading Strategies: A Comprehensive Guide'
 ---
-
-
 
 Systematic trading has cemented its position in modern finance as a major player, revolutionizing how investments are managed and decisions are made. Its roots can be traced back to the latter half of the 20th century, but it was the rise of computer technology and advanced analytics that provided the much-needed impetus. Today, systematic trading is not just an option but a critical component of the financial toolkit, with a significant share of market transactions being executed by algorithms.
 

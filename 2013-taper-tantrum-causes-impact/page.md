@@ -1,6 +1,8 @@
 ---
-title: "2013 Taper Tantrum: Causes and Impact (Algo Trading)"
-description: "Explore the causes and impacts of the 2013 Taper Tantrum sparked by the Federal Reserve's QE tapering announcement and its global financial implications."
+category: quant_concept
+description: Explore the causes and impacts of the 2013 Taper Tantrum sparked by the
+  Federal Reserve's QE tapering announcement and its global financial implications.
+title: '2013 Taper Tantrum: Causes and Impact (Algo Trading)'
 ---
 
 The financial world was rocked in 2013 by an event known as the 'Taper Tantrum.' This term refers to the market's intense reaction to the Federal Reserve's announcement that it would begin tapering its quantitative easing (QE) program. Initially implemented in response to the 2008 financial crisis, QE involved large-scale asset purchases by the Federal Reserve to inject liquidity into the economy, lower interest rates, and stimulate economic growth. For several years following the crisis, these measures were significant in supporting the recovery of the U.S. economy and stabilizing financial markets globally.

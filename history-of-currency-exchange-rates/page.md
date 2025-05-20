@@ -1,6 +1,8 @@
 ---
-title: "History of Currency Exchange Rates (Algo Trading)"
-description: "Explore the significance of historical currency exchange rates and the role of algorithmic trading in modern finance to make informed economic decisions."
+category: quant_concept
+description: Explore the significance of historical currency exchange rates and the
+  role of algorithmic trading in modern finance to make informed economic decisions.
+title: History of Currency Exchange Rates (Algo Trading)
 ---
 
 The global economy is intricately linked through the complex web of currency exchange, with historical exchange rates acting as fundamental components. These rates not only represent the value of one currency against another but also reflect underlying economic conditions, geopolitical events, and market perceptions. As a result, understanding the history of exchange rates is essential for businesses, policy-makers, and economists striving to make informed decisions in today's rapidly changing financial landscape.

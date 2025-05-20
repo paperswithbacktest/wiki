@@ -1,6 +1,8 @@
 ---
-title: "Sine Wave: Applications and Origins (Algo Trading)"
-description: "Discover how sine waves impact algorithmic trading by modeling market cycles and trends. Explore their use in engineering, physics, and financial strategies."
+category: quant_concept
+description: Discover how sine waves impact algorithmic trading by modeling market
+  cycles and trends. Explore their use in engineering, physics, and financial strategies.
+title: 'Sine Wave: Applications and Origins (Algo Trading)'
 ---
 
 Sine waves, fundamental to trigonometry, are smooth, periodic oscillations characterized by their repetitive form. Mathematically represented as $y = A \sin(Bx + C) + D$, where $A$ stands for amplitude, $B$ determines the frequency which influences the number of cycles within a unit interval, $C$ modifies the phase, and $D$ alters the vertical displacement. The sinusoidal pattern of a sine wave makes it an essential tool in modeling periodic phenomena.

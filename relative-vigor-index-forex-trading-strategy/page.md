@@ -1,6 +1,9 @@
 ---
-title: "Relative Vigor Index in Forex Trading Strategy (Algo Trading)"
-description: "Explore how the Relative Vigor Index enhances forex trading strategies with its ability to gauge trend strength and improve decision-making in algorithmic trading."
+category: trading_strategy
+description: Explore how the Relative Vigor Index enhances forex trading strategies
+  with its ability to gauge trend strength and improve decision-making in algorithmic
+  trading.
+title: Relative Vigor Index in Forex Trading Strategy (Algo Trading)
 ---
 
 Understanding the intricacies of the forex market requires a blend of strategies and tools. The forex market, characterized by its high liquidity and round-the-clock availability, demands that traders employ sophisticated techniques to manage and predict price movements. One tool that has gained traction among traders for its predictive abilities is the Relative Vigor Index (RVI). 

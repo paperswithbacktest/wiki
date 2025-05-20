@@ -1,6 +1,8 @@
 ---
-title: "Types of Bias in Investing (Algo Trading)"
-description: "Explore the impact of psychological biases on investing and algorithmic trading Discover strategies to mitigate biases and improve investment decisions"
+category: quant_concept
+description: Explore the impact of psychological biases on investing and algorithmic
+  trading Discover strategies to mitigate biases and improve investment decisions
+title: Types of Bias in Investing (Algo Trading)
 ---
 
 Understanding psychological biases is essential in investing, as these biases have a significant influence on decision-making processes. Behavioral finance and investment psychology examine how emotions and cognitive biases shape investment decisions. This field highlights deviations from traditional financial theories, which often assume investors act rationally. Instead, it points to frequent irrational behaviors shaped by psychological factors.

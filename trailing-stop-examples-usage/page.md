@@ -1,6 +1,9 @@
 ---
-title: "Trailing Stop: Examples and Usage (Algo Trading)"
-description: "Discover how trailing stops enhance algorithmic trading strategies by offering dynamic risk management and profit protection to optimize your trading performance."
+category: trading_strategy
+description: Discover how trailing stops enhance algorithmic trading strategies by
+  offering dynamic risk management and profit protection to optimize your trading
+  performance.
+title: 'Trailing Stop: Examples and Usage (Algo Trading)'
 ---
 
 In today's fast-paced financial markets, investors are constantly seeking effective strategies to maximize their returns while managing risks. Among the various investment strategies gaining prominence is algorithmic trading, commonly referred to as algo trading. This method utilizes sophisticated computer programs to execute trades at unprecedented speeds with optimal precision, thus minimizing human intervention and errors.

@@ -1,6 +1,13 @@
 ---
-title: "Do Candlesticks Work? A Quantitative Test (Algo Trading)"
-description: Explore the effectiveness of candlestick charts in algorithmic trading in this detailed analysis. Discover how these visual tools can enhance trading strategies by providing critical insights into market trends and sentiment. Learn about the anatomy of candlesticks and common patterns such as Doji, Hammer, and Engulfing, and understand their role in predicting potential price movements. Gain valuable knowledge on integrating candlestick charts into trading algorithms to boost precision and success in volatile markets.
+category: trading_strategy
+description: Explore the effectiveness of candlestick charts in algorithmic trading
+  in this detailed analysis. Discover how these visual tools can enhance trading strategies
+  by providing critical insights into market trends and sentiment. Learn about the
+  anatomy of candlesticks and common patterns such as Doji, Hammer, and Engulfing,
+  and understand their role in predicting potential price movements. Gain valuable
+  knowledge on integrating candlestick charts into trading algorithms to boost precision
+  and success in volatile markets.
+title: Do Candlesticks Work? A Quantitative Test (Algo Trading)
 ---
 
 In algorithmic trading, visual tools significantly aid decision-making by distilling complex data into easily interpretable forms. Among these, candlestick charts are particularly valuable for traders due to their ability to succinctly represent market activity, including open, high, low, and close prices for any given period. These attributes make them indispensable for those looking to quickly gauge market trends and potential price movements.

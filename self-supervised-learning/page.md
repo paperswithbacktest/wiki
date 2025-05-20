@@ -1,7 +1,8 @@
 ---
-title: Self-Supervised Learning Training Models on Unlabeled Data
+category: quant_concept
 description: Self-Supervised Learning empowers models to learn from unlabeled data
   by creating labels with pretext tasks and contrastive methods Discover more inside.
+title: Self-Supervised Learning Training Models on Unlabeled Data
 ---
 
 ![Image](images/1.png)

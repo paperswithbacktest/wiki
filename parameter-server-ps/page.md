@@ -1,7 +1,8 @@
 ---
-title: Parameter Server Architecture for Distributed Machine Learning
+category: quant_concept
 description: Parameter Server synchronizes model parameters across distributed workers
   for faster ML training with consistent updates Discover more inside
+title: Parameter Server Architecture for Distributed Machine Learning
 ---
 
 ![Image](images/1.png)

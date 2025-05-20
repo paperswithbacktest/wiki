@@ -1,6 +1,8 @@
 ---
-title: "Half-Life: Definition and Examples (Algo Trading)"
-description: "Explore how the concept of half-life applies to finance and algo trading mirroring chemical decay to manage asset value erosion and strategy effectiveness."
+category: quant_concept
+description: Explore how the concept of half-life applies to finance and algo trading
+  mirroring chemical decay to manage asset value erosion and strategy effectiveness.
+title: 'Half-Life: Definition and Examples (Algo Trading)'
 ---
 
 The concept of half-life offers intriguing parallels between chemistry and finance, providing a shared framework to understand decay and erosion over time. In chemistry, half-life typically refers to the period required for a substance to decay to half its initial amount, often observed in radioactive isotopes undergoing spontaneous disintegration. This scientific principle is grounded in the predictable nature of first-order decay reactions, where the rate of decay is proportional to the remaining quantity of the substance.

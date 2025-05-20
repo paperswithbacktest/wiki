@@ -1,7 +1,8 @@
 ---
-title: Understanding Learning Rate in Machine Learning Models
+category: quant_concept
 description: Learning rate controls model update steps to balance speed and stability
   for accurate convergence and higher performance Discover more inside
+title: Understanding Learning Rate in Machine Learning Models
 ---
 
 ![Image](images/1.png)

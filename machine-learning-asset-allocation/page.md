@@ -1,6 +1,10 @@
 ---
-title: "Machine learning asset allocation (Algo Trading)"
-description: "Explore the impact of machine learning on asset allocation in algorithmic trading: learn how ML optimizes decision-making, uncovers patterns in large datasets, and enhances trading strategies by improving risk management and maximizing returns in a dynamic financial market."
+category: trading_strategy
+description: 'Explore the impact of machine learning on asset allocation in algorithmic
+  trading: learn how ML optimizes decision-making, uncovers patterns in large datasets,
+  and enhances trading strategies by improving risk management and maximizing returns
+  in a dynamic financial market.'
+title: Machine learning asset allocation (Algo Trading)
 ---
 
 Machine learning (ML) is significantly impacting various sectors, with asset allocation in algorithmic trading being a notable example. The incorporation of ML in asset allocation involves the development of models capable of predicting financial market trends and modifying portfolios in response to these predictions. As financial markets become increasingly complex and data-driven, the traditional methods of asset allocation, which often rely heavily on historical data and financial theories, are being augmented and, in some cases, replaced by ML algorithms. 

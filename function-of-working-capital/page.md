@@ -1,6 +1,9 @@
 ---
-title: "Function of Working Capital (Algo Trading)"
-description: "Discover the pivotal role working capital and algorithmic trading play in financial management understand how they enhance resource allocation and operational efficiency."
+category: quant_concept
+description: Discover the pivotal role working capital and algorithmic trading play
+  in financial management understand how they enhance resource allocation and operational
+  efficiency.
+title: Function of Working Capital (Algo Trading)
 ---
 
 In today's competitive business landscape, the adept management of financial resources is a fundamental ingredient of corporate success. Businesses constantly seek methods to improve their financial strategies and operational efficiency, and four key components—business finance, financial management, working capital, and algorithmic trading—stand as pillars in this endeavor.
@@ -180,4 +183,3 @@ Bergstra, J., Bardenet, R., Bengio, Y., & Kégl, B. (2011). "Algorithms for Hype
 "Machine Learning for Algorithmic Trading" by Stefan Jansen explores how machine learning can be used to develop sophisticated trading algorithms. The book covers topics such as data processing, feature engineering, and modeling trading strategies using Python, aiming to equip readers with practical skills for implementing machine learning in finance.
 
 "Quantitative Trading: How to Build Your Own Algorithmic Trading Business" by Ernest P. Chan serves as a guide for traders and entrepreneurs looking to establish a quantitative trading business. It includes detailed discussions on building trading systems, risk management, and the application of statistical models to trading strategies, offering a practical approach to algorithmic trading.
-

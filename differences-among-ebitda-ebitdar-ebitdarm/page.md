@@ -1,6 +1,8 @@
 ---
-title: "Differences Among EBITDA, EBITDAR, and EBITDARM (Algo Trading)"
-description: "Learn about the distinctions between EBITDA, EBITDAR, and EBITDARM and their integration into algorithmic trading to evaluate and optimize investment strategies."
+category: quant_concept
+description: Learn about the distinctions between EBITDA, EBITDAR, and EBITDARM and
+  their integration into algorithmic trading to evaluate and optimize investment strategies.
+title: Differences Among EBITDA, EBITDAR, and EBITDARM (Algo Trading)
 ---
 
 In the complex world of finance, understanding profitability measures is crucial for investors and companies alike. These measures provide insight into a company’s financial health and operational efficiency, helping stakeholders make informed decisions. Among these measures, EBITDA (Earnings Before Interest, Taxes, Depreciation, and Amortization), EBITDAR (EBITDA plus Rental expenses), and EBITDARM (EBITDAR plus Management fees) stand prominently. These key metrics offer varying layers of financial analysis, stripping away certain expenses to reveal a business's core profitability. 
@@ -208,4 +210,3 @@ Despite their limitations, such as the potential for manipulation and omission o
 
 9. **"The Complete Guide to Capital Markets for Quantitative Professionals" by Alex Kuznetsov**  
    Kuznetsov's book serves as a resource for quantitative traders, explaining capital market operations, the tools used for quantitative analysis, and the importance of metrics like EBITDA in financial modeling.
-

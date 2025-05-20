@@ -1,6 +1,8 @@
 ---
-title: "Workout Period: Overview and Mechanism (Algo Trading)"
-description: "Explore the synergy between physical fitness and trading. Discover how regular exercise enhances cognitive abilities, stress management, and trading performance."
+category: trading_strategy
+description: Explore the synergy between physical fitness and trading. Discover how
+  regular exercise enhances cognitive abilities, stress management, and trading performance.
+title: 'Workout Period: Overview and Mechanism (Algo Trading)'
 ---
 
 In today's fast-paced world, individuals often find themselves juggling a myriad of responsibilities, from managing personal life to engaging in financial markets. Specifically, trading in the forex market demands significant focus, resilience, and mental clarity. The fast-paced nature of these markets, coupled with the ever-changing economic variables, compels traders to foster qualities akin to those of athletes—discipline, adaptability, and sharp reflexes. Interestingly, there exists a synergy between maintaining physical fitness and optimizing trading performance. This is because physical activity positively influences cognitive functions, stress management, and mood regulation, all of which are integral to successful trading.

@@ -1,6 +1,8 @@
 ---
-title: "Natural Gas Liquids: Types and Examples (Algo Trading)"
-description: "Explore Natural Gas Liquids like ethane and propane, their industrial uses, and how algorithmic trading is shaping the NGL commodities market."
+category: quant_concept
+description: Explore Natural Gas Liquids like ethane and propane, their industrial
+  uses, and how algorithmic trading is shaping the NGL commodities market.
+title: 'Natural Gas Liquids: Types and Examples (Algo Trading)'
 ---
 
 Natural Gas Liquids (NGLs) are hydrocarbon-based resources that serve an essential role in the global energy supply chain. These components, typically extracted alongside natural gas, contribute significantly to various facets of energy production and industrial applications. NGLs, which include ethane, propane, butanes, and pentanes, have a versatile range of uses that extend from residential heating to serving as crucial feedstock in the petrochemical industry. Their ability to enhance energy security and diversify sources makes them indispensable to both economic and energy sectors worldwide.

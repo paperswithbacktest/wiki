@@ -1,6 +1,9 @@
 ---
-title: "Institutional Investment Overview (Algo Trading)"
-description: "Explore the world of institutional investment and algorithmic trading where large entities like pension and hedge funds shape financial markets with strategic influence."
+category: quant_concept
+description: Explore the world of institutional investment and algorithmic trading
+  where large entities like pension and hedge funds shape financial markets with strategic
+  influence.
+title: Institutional Investment Overview (Algo Trading)
 ---
 
 Institutional investing is crucial to the stability and growth of global financial markets. It involves major participants such as pension funds, mutual funds, insurance companies, and hedge funds, whose significant holdings and large-scale trading activities often set the tone for market trends. Unlike retail investors, these entities possess vast resources and expert teams capable of executing sophisticated strategies that influence asset pricing and market stability.

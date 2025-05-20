@@ -1,6 +1,8 @@
 ---
-title: "For Valuation Only: Definition and Mechanism (Algo Trading)"
-description: "Explore the role of valuation methods like FVO and DCF in enhancing algorithmic trading strategies Understand how these techniques aid in optimizing trading decisions"
+category: quant_concept
+description: Explore the role of valuation methods like FVO and DCF in enhancing algorithmic
+  trading strategies Understand how these techniques aid in optimizing trading decisions
+title: 'For Valuation Only: Definition and Mechanism (Algo Trading)'
 ---
 
 In the rapidly evolving world of finance, the prevalence of algorithmic trading continues to expand as technology and data analytics become more advanced and accessible. Algorithmic trading employs complex algorithms to execute trades at speeds and frequencies that are impossible for human traders, thereby optimizing the decision-making process. Central to the efficacy of these algorithms is a profound understanding of valuation mechanisms, which are essential in determining the true worth of assets and making informed trading decisions.

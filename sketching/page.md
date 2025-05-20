@@ -1,7 +1,8 @@
 ---
-title: Sketching Techniques for Efficient Large Scale Machine Learning
+category: quant_concept
 description: Sketching in machine learning creates smaller data summaries that preserve
   essential characteristics and accelerate model training Discover more inside.
+title: Sketching Techniques for Efficient Large Scale Machine Learning
 ---
 
 ![Image](images/1.jpeg)

@@ -1,7 +1,8 @@
 ---
-title: One-Stage Object Detection Models Explained for Machine Learning
+category: quant_concept
 description: One-stage object detection in machine learning merges classification
   and localization for fast image analysis with YOLO and SSD Discover more inside
+title: One-Stage Object Detection Models Explained for Machine Learning
 ---
 
 ![Image](images/1.png)

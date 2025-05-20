@@ -1,6 +1,9 @@
 ---
-title: "Share Premium Account (Algo Trading)"
-description: "Unlock financial growth with insights into share premium accounts and algorithmic trading Learn how these tools enhance corporate finance and strategic decision-making"
+category: quant_concept
+description: Unlock financial growth with insights into share premium accounts and
+  algorithmic trading Learn how these tools enhance corporate finance and strategic
+  decision-making
+title: Share Premium Account (Algo Trading)
 ---
 
 In today's financial landscape, the interaction between corporate finance, capital accounts, and algorithmic trading plays an essential role. The complexity of financial mechanisms such as share premium accounts necessitates a deep understanding of their contributions to corporate finance. These mechanisms are vital for strategizing how companies can optimize shareholder value while effectively navigating diverse economic conditions.

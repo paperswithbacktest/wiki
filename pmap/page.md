@@ -1,10 +1,9 @@
 ---
-title: Optimizing Machine Learning Efficiency With Pmap Parallelization
+category: quant_concept
 description: Pmap speeds up machine learning by distributing data across processors
   to accelerate training hyperparameter tuning and preprocessing. Discover more inside
+title: Optimizing Machine Learning Efficiency With Pmap Parallelization
 ---
-
-
 
 ## Table of Contents
 

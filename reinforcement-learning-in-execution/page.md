@@ -1,6 +1,9 @@
 ---
-title: "Reinforcement Learning in Execution (Algo Trading)"
-description: "Explore the impact of reinforcement learning on execution strategies in algorithmic trading and its role in enhancing decision-making processes through continual learning."
+category: quant_concept
+description: Explore the impact of reinforcement learning on execution strategies
+  in algorithmic trading and its role in enhancing decision-making processes through
+  continual learning.
+title: Reinforcement Learning in Execution (Algo Trading)
 ---
 
 Reinforcement Learning (RL) is a branch of machine learning focused on how intelligent agents should act within an environment to maximize cumulative rewards over time. Unlike traditional supervised learning approaches, which rely on labeled datasets to infer outputs from inputs, RL emphasizes learning through direct interaction with the environment, allowing the agent to learn an optimal strategy or policy based on feedback in the form of rewards or penalties. This iterative process enables the system to improve decisions continuously.

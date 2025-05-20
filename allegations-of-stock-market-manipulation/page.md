@@ -1,6 +1,9 @@
 ---
-title: "Allegations of Stock Market Manipulation (Algo Trading)"
-description: "Explore the impact of algorithmic trading on stock markets uncovering concerns over potential manipulation and the challenges faced by regulators to ensure fairness."
+category: quant_concept
+description: Explore the impact of algorithmic trading on stock markets uncovering
+  concerns over potential manipulation and the challenges faced by regulators to ensure
+  fairness.
+title: Allegations of Stock Market Manipulation (Algo Trading)
 ---
 
 The financial markets have always been a fertile ground for innovation, with algorithmic trading being one of the latest technological advancements changing how we trade. This type of trading uses complex mathematical formulas and high-speed computing to execute trades at a pace and frequency that are difficult for human traders to mimic. By automating the trading process, algorithmic trading aims to capitalize on minor discrepancies in the market, thereby enhancing efficiency and reducing transaction costs.

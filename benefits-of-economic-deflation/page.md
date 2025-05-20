@@ -1,6 +1,8 @@
 ---
-title: "Benefits of Economic Deflation (Algo Trading)"
-description: "Explore the unique challenges and opportunities that deflation presents for algorithmic trading. Learn how deflation impacts market strategies and investment."
+category: quant_concept
+description: Explore the unique challenges and opportunities that deflation presents
+  for algorithmic trading. Learn how deflation impacts market strategies and investment.
+title: Benefits of Economic Deflation (Algo Trading)
 ---
 
 Deflation is an economic phenomenon characterized by a general decline in prices for goods and services. This process is often contrasted with inflation, where the prices of goods and services increase. Unlike inflation, which typically erodes the real value of money, deflation enhances its value, allowing consumers to purchase more with the same amount of currency. This dynamic presents both challenges and opportunities within an economic system. Deflation holds significant importance as it has the potential to disrupt economic growth, influence investment strategies, and alter market dynamics.
@@ -127,4 +129,3 @@ Aronson, D. "Evidence-Based Technical Analysis," emphasizes the importance of da
 Jansen, S. "Machine Learning for Algorithmic Trading," details the integration of machine learning in trading algorithms, enhancing the ability to capitalize on deflation-related market conditions by improving prediction accuracy and execution speed.
 
 Chan, E.P. "Quantitative Trading: How to Build Your Own Algorithmic Trading Business," covers the construction and adaptation of [quantitative trading](/wiki/quantitative-trading) strategies, offering foundational knowledge for leveraging algorithmic tools to navigate deflation's unique challenges and opportunities.
-

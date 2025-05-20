@@ -1,6 +1,9 @@
 ---
-title: "Economic Value and Market Value (Algo Trading)"
-description: "Explore the crucial differences between economic and market value in algorithmic trading. Understand how these values influence trading strategies and decision-making."
+category: quant_concept
+description: Explore the crucial differences between economic and market value in
+  algorithmic trading. Understand how these values influence trading strategies and
+  decision-making.
+title: Economic Value and Market Value (Algo Trading)
 ---
 
 In today's rapidly evolving financial landscape, understanding the differences between economic value and market value is crucial. Economic value refers to the worth assigned to a good or service based on the perceived benefits it provides. This subjective valuation contrasts with market value, the price at which an asset can be exchanged in a competitive market. Market value is primarily influenced by external factors such as supply and demand dynamics, investor sentiment, and broader economic conditions.
@@ -164,4 +167,3 @@ Stern, J. M., Stewart, G. B., & Chew, D. H. (1996). "The EVA Financial Managemen
 Lopez de Prado, M. (2018). *Advances in Financial Machine Learning*. Wiley. This book provides a comprehensive overview of the use of machine learning techniques in financial markets. It covers the methodologies and complexities of implementing machine learning to enhance algorithmic trading strategies and improve predictive accuracy in market environments.
 
 Chan, E. (2013). *Algorithmic Trading: Winning Strategies and Their Rationale*. Wiley. This resource outlines various algorithmic trading strategies and the rationale behind their design. It emphasizes practical approaches to implementing quantitative strategies in trading, focusing on the integration of economic and market values to optimize decision-making processes.
-

@@ -1,6 +1,8 @@
 ---
-title: "Panamanian Balboa: History and Economic Role in Panama (Algo Trading)"
-description: "Discover the unique economic role of the Panamanian Balboa currency and its historical evolution. Explore its synergy with the U.S. dollar and trading innovations."
+category: quant_concept
+description: Discover the unique economic role of the Panamanian Balboa currency and
+  its historical evolution. Explore its synergy with the U.S. dollar and trading innovations.
+title: 'Panamanian Balboa: History and Economic Role in Panama (Algo Trading)'
 ---
 
 The Panamanian economy is a fascinating amalgam of historical legacy and contemporary innovation, characterized by a distinctive monetary blend and technological advancements. At the heart of Panama's monetary history is the Panamanian Balboa, introduced in 1904 following the nation's independence. Named after the famed Spanish explorer Vasco Núñez de Balboa, this currency symbolized the emergence of a new national identity. Despite its symbolic significance, the Balboa has been pegged to the United States dollar at a 1:1 ratio since its inception, a decision aimed at ensuring economic stability and fostering international trade.

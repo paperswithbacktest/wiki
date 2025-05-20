@@ -1,6 +1,8 @@
 ---
-title: "Non-Interest Income Overview and Significance (Algo Trading)"
-description: "Discover the strategic role of non-interest income and algorithmic trading in banking profitability Learn how these elements enhance bank revenue stability"
+category: trading_strategy
+description: Discover the strategic role of non-interest income and algorithmic trading
+  in banking profitability Learn how these elements enhance bank revenue stability
+title: Non-Interest Income Overview and Significance (Algo Trading)
 ---
 
 In the evolving landscape of financial services, the interplay between non-interest income and algorithmic trading stands at the forefront of strategy for enhancing bank revenues. Traditionally, banks have heavily relied on interest income derived from their primary operations of lending and borrowing. However, given the fluctuations in interest rates and the increasing complexity of financial markets, a strategic shift towards boosting non-interest income has become imperative. 

@@ -1,6 +1,9 @@
 ---
-title: "Correction of Market Failures (Algo Trading)"
-description: "Explore how economic correction market failure market regulation and algorithmic trading shape financial markets ensuring stability and resilience amidst challenges."
+category: quant_concept
+description: Explore how economic correction market failure market regulation and
+  algorithmic trading shape financial markets ensuring stability and resilience amidst
+  challenges.
+title: Correction of Market Failures (Algo Trading)
 ---
 
 In the contemporary financial landscape, the interconnected nature of economic correction, market failure, market regulation, and algorithmic trading plays an instrumental role in shaping market dynamics. Each of these concepts—economic correction, market failure, market regulation, and algorithmic trading—stands as a critical pillar in understanding and navigating the complex financial systems of today.
@@ -142,4 +145,3 @@ The financial markets are inherently dynamic and require a holistic comprehensio
 [4]: Lo, A.W. (2017). ["Adaptive Markets: Financial Evolution at the Speed of Thought."](https://books.google.com/books/about/Adaptive_Markets.html?id=Q4d7DwAAQBAJ) Princeton University Press.
 
 [5]: MacKenzie, D. (2006). ["An Engine, Not a Camera: How Financial Models Shape Markets."](https://academic.oup.com/mit-press-scholarship-online/book/20588) The MIT Press.
-

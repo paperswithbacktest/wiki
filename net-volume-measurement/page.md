@@ -1,6 +1,9 @@
 ---
-title: "Net Volume Measurement (Algo Trading)"
-description: "Understand net volume measurement and algorithmic trading essential for market success Analyze market trends using volume indicators to make informed trading decisions."
+category: quant_concept
+description: Understand net volume measurement and algorithmic trading essential for
+  market success Analyze market trends using volume indicators to make informed trading
+  decisions.
+title: Net Volume Measurement (Algo Trading)
 ---
 
 Understanding key trading concepts such as volume calculation, volume measurement, net volume, and algorithmic trading is essential for succeeding in today's financial markets. These elements guide traders in assessing market sentiment and making informed trading decisions. Volume calculation, for instance, involves the determination of the total number of shares or contracts traded within a specific timeframe. This metric serves as a fundamental indicator of market activity, providing critical insights into investor interest and market trends. 

@@ -1,6 +1,8 @@
 ---
-title: "Marginal Benefit and Marginal Cost (Algo Trading)"
-description: "Explore how marginal benefit and cost principles enhance algorithmic trading strategies. Learn to optimize performance by balancing trade decisions efficiently."
+category: quant_concept
+description: Explore how marginal benefit and cost principles enhance algorithmic
+  trading strategies. Learn to optimize performance by balancing trade decisions efficiently.
+title: Marginal Benefit and Marginal Cost (Algo Trading)
 ---
 
 Understanding the principles of marginal cost and marginal benefit is fundamental in the fields of economics, trading, and finance. These concepts are vital as they guide decision-making processes by helping individuals and institutions assess the additional costs and benefits associated with producing or consuming one more unit of resources. Marginal cost refers to the expense of producing one additional unit of a good or service, while marginal benefit represents the additional gain or utility derived from this production or consumption.

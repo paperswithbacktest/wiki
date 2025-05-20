@@ -1,6 +1,8 @@
 ---
-title: "Arbitrage Trading Programs: Functionality and Mechanisms (Algo Trading)"
-description: "Explore the world of arbitrage trading and algorithmic trading programs that exploit market inefficiencies for low-risk profits by automating trade execution."
+category: trading_strategy
+description: Explore the world of arbitrage trading and algorithmic trading programs
+  that exploit market inefficiencies for low-risk profits by automating trade execution.
+title: 'Arbitrage Trading Programs: Functionality and Mechanisms (Algo Trading)'
 ---
 
 Arbitrage trading is a pivotal financial strategy designed to exploit the price discrepancies of identical assets traded across various markets. This method seeks to capitalize on these differences, providing traders with the opportunity for risk-free or low-risk profits. Traditionally, arbitrage involved manual processes requiring traders to identify and act on these opportunities swiftly. However, with the rise of technology, the landscape of arbitrage trading has undergone a significant transformation.

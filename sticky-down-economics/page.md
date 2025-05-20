@@ -1,6 +1,9 @@
 ---
-title: "Sticky-Down Economics (Algo Trading)"
-description: "Explore the sticky-down phenomenon in price stickiness and its impact on market dynamics and algorithmic trading. Gain insights into optimizing trading strategies."
+category: quant_concept
+description: Explore the sticky-down phenomenon in price stickiness and its impact
+  on market dynamics and algorithmic trading. Gain insights into optimizing trading
+  strategies.
+title: Sticky-Down Economics (Algo Trading)
 ---
 
 Understanding market trends has become increasingly important for economists and investors. This understanding is crucial for anticipating market movements and making informed decisions. One significant concept that has gained attention is price stickiness, particularly the sticky-down phenomenon, which describes situations where prices are slow to fall even when economic conditions suggest they should.

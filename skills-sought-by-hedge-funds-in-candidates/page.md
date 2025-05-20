@@ -1,6 +1,9 @@
 ---
-title: "Skills Sought by Hedge Funds in Candidates (Algo Trading)"
-description: "Discover the key skills top hedge funds seek in candidates for algorithmic trading roles including quantitative expertise and personal traits essential for success."
+category: quant_concept
+description: Discover the key skills top hedge funds seek in candidates for algorithmic
+  trading roles including quantitative expertise and personal traits essential for
+  success.
+title: Skills Sought by Hedge Funds in Candidates (Algo Trading)
 ---
 
 In recent years, hedge funds have emerged as a crucial component of the financial ecosystem. These investment vehicles are characterized by their use of sophisticated investment strategies designed to achieve substantial returns, often surpassing traditional asset management approaches. Leveraging tools like derivatives, short selling, and leverage, hedge funds operate with a level of flexibility that allows them to adapt swiftly to market conditions. Consequently, careers in hedge funds are both highly sought after and fiercely competitive, calling for a unique blend of skills and expertise.

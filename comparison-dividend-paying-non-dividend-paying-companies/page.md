@@ -1,6 +1,9 @@
 ---
-title: "Comparison of Dividend-Paying and Non-Dividend-Paying Companies (Algo Trading)"
-description: "Explore key differences between dividend-paying and non-dividend-paying companies with insights into investment strategies risks and the role of algorithmic trading."
+category: trading_strategy
+description: Explore key differences between dividend-paying and non-dividend-paying
+  companies with insights into investment strategies risks and the role of algorithmic
+  trading.
+title: Comparison of Dividend-Paying and Non-Dividend-Paying Companies (Algo Trading)
 ---
 
 Investing wisely is crucial for optimizing portfolio returns, especially when considering different types of companies. Investment strategies vary significantly between companies that pay dividends and those that do not, each offering distinct advantages and risks. Dividend-paying companies often provide regular income through distributions, making them appealing to investors seeking stability and consistent returns. These companies, such as Coca-Cola or Microsoft, usually signal strong financial health and profitability.

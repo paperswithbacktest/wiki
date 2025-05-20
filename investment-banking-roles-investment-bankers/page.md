@@ -1,6 +1,14 @@
 ---
-title: "Investment Banking and Roles of Investment Bankers (Algo Trading)"
-description: "Explore the pivotal role of investment banking and the transformative impact of algorithmic trading in the modern financial landscape. This article investigates into how investment bankers facilitate complex transactions for corporations and governments, ensuring smooth executions of mergers, acquisitions, and IPOs. Discover how algorithmic trading enhances efficiency and precision in managing high-scale trades, reshaping market dynamics. Gain insights into how these elements collectively drive financial innovation and stability globally, highlighting the integral role of financial services in strategic growth and risk management."
+category: quant_concept
+description: Explore the pivotal role of investment banking and the transformative
+  impact of algorithmic trading in the modern financial landscape. This article investigates
+  into how investment bankers facilitate complex transactions for corporations and
+  governments, ensuring smooth executions of mergers, acquisitions, and IPOs. Discover
+  how algorithmic trading enhances efficiency and precision in managing high-scale
+  trades, reshaping market dynamics. Gain insights into how these elements collectively
+  drive financial innovation and stability globally, highlighting the integral role
+  of financial services in strategic growth and risk management.
+title: Investment Banking and Roles of Investment Bankers (Algo Trading)
 ---
 
 In the rapidly evolving world of finance, investment banking stands out as a pivotal component due to its significant impact on facilitating complex financial transactions. Investment bankers are instrumental in navigating the financial landscapes for corporations and governments, ensuring that large-scale projects, mergers, acquisitions, initial public offerings (IPOs), and other financial activities are executed smoothly and efficiently. As the financial industry becomes increasingly sophisticated, algorithmic trading has gained prominence as a revolutionary tool transforming investment banking.

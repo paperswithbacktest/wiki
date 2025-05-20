@@ -1,6 +1,8 @@
 ---
-title: "Comparison of Capitalism and Socialism (Algo Trading)"
-description: "Explore the intersection of capitalism and socialism with algorithmic trading and its impact on financial markets, innovation, and economic systems."
+category: quant_concept
+description: Explore the intersection of capitalism and socialism with algorithmic
+  trading and its impact on financial markets, innovation, and economic systems.
+title: Comparison of Capitalism and Socialism (Algo Trading)
 ---
 
 Economic systems, such as capitalism and socialism, form the cornerstone of how societies manage resources and production. They provide the structural framework through which economic activities are organized, influencing how goods and services are allocated and distributed among individuals. Capitalism, characterized by private ownership and market-driven mechanisms, thrives on competition and innovation. In contrast, socialism emphasizes public ownership and the equitable distribution of resources, aiming towards collective welfare and social equity. These differing principles shape how economies function and evolve over time.
@@ -144,4 +146,3 @@ In future economic developments, aligning technological innovations like algorit
 - Hendershott, T., Jones, C. M., & Menkveld, A. J. (2011). "Does algorithmic trading improve liquidity?" This study investigates the effect of algorithmic trading on market liquidity, offering empirical data to support theoretical insights.
 
 These references offer a comprehensive foundation for understanding the complex dynamics between economic systems and algorithmic trading. They provide an interdisciplinary approach, combining economic theory, historical analysis, and modern financial technology to foster deeper insights.
-

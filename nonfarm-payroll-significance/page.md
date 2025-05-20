@@ -1,6 +1,8 @@
 ---
-title: "Nonfarm Payroll Significance (Algo Trading)"
-description: "Discover how Nonfarm Payroll data influences algorithmic trading strategies and its significance in economic analysis. Learn about its impact on financial markets."
+category: quant_concept
+description: Discover how Nonfarm Payroll data influences algorithmic trading strategies
+  and its significance in economic analysis. Learn about its impact on financial markets.
+title: Nonfarm Payroll Significance (Algo Trading)
 ---
 
 Nonfarm Payroll (NFP) refers to the total number of paid U.S. workers across all sectors except for government employees, private household employees, those employed by nonprofit organizations, and farm workers. As a core element of the U.S. Employment Situation Report, it is released monthly by the Bureau of Labor Statistics (BLS) and is crucial for assessing the overall health and trends of the U.S. economy. The NFP is one of the most significant indicators of U.S. economic performance and provides insights into job creation patterns, growth dynamics, and inflationary pressures.

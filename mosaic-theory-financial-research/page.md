@@ -1,6 +1,8 @@
 ---
-title: "Mosaic Theory in Financial Research (Algo Trading)"
-description: "Explore the Mosaic Theory in financial research to gain competitive insights through diverse data integration, ensuring ethical and legal compliance."
+category: quant_concept
+description: Explore the Mosaic Theory in financial research to gain competitive insights
+  through diverse data integration, ensuring ethical and legal compliance.
+title: Mosaic Theory in Financial Research (Algo Trading)
 ---
 
 The financial landscape is constantly evolving, as various innovative methods emerge to provide investors with a competitive edge. One such method is the Mosaic Theory, which offers a distinctive approach to investment analysis by integrating nuanced data from multiple sources while maintaining ethical standards. This theory involves assembling disparate pieces of both public and non-material information to construct a comprehensive picture of potential investment opportunities. The uniqueness of Mosaic Theory lies in its ability to adhere to legal boundaries, distinguishing it from insider trading while still providing valuable insights.

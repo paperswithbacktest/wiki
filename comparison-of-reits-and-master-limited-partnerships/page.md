@@ -1,6 +1,9 @@
 ---
-title: "Comparison of REITs and Master Limited Partnerships (Algo Trading)"
-description: "Discover the key differences between REITs and Master Limited Partnerships in algorithmic trading Learn how each investment vehicle offers unique benefits and strategies"
+category: quant_concept
+description: Discover the key differences between REITs and Master Limited Partnerships
+  in algorithmic trading Learn how each investment vehicle offers unique benefits
+  and strategies
+title: Comparison of REITs and Master Limited Partnerships (Algo Trading)
 ---
 
 Investment vehicles are financial instruments that allow individuals and institutions to allocate capital with the aim of generating returns. They play a crucial role in wealth management by providing mechanisms for income generation, capital appreciation, and risk diversification. Investment vehicles range from traditional options like stocks and bonds to more complex structures such as mutual funds, and alternative investments including Master Limited Partnerships (MLPs), Real Estate Investment Trusts (REITs), and algorithmic trading strategies.

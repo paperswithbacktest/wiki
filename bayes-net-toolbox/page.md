@@ -1,6 +1,13 @@
 ---
-title: "Bayes Net toolbox (Algo Trading)"
-description: Explore the power of Bayesian networks in algorithmic trading with the Bayes Net Toolbox, designed to model complex market dependencies and uncertainties. Optimize trading strategies by leveraging probabilistic relationships, enabling enhanced decision-making and market forecasting. Ideal for financial analysis, the toolbox simplifies the creation and visualization of Bayesian networks, tackling challenges like non-stationarity and high-dimensional data, ultimately refining trading operations in competitive markets.
+category: quant_concept
+description: Explore the power of Bayesian networks in algorithmic trading with the
+  Bayes Net Toolbox, designed to model complex market dependencies and uncertainties.
+  Optimize trading strategies by leveraging probabilistic relationships, enabling
+  enhanced decision-making and market forecasting. Ideal for financial analysis, the
+  toolbox simplifies the creation and visualization of Bayesian networks, tackling
+  challenges like non-stationarity and high-dimensional data, ultimately refining
+  trading operations in competitive markets.
+title: Bayes Net toolbox (Algo Trading)
 ---
 
 Bayesian networks are probabilistic graphical models that have found significant applications in various fields, including algorithmic trading. These networks facilitate the modeling of complex dependencies among random variables, enabling traders to incorporate uncertainty and hidden relationships into their strategies. In algorithmic trading, where decisions must be made rapidly and under uncertainty, Bayesian networks provide a robust framework for optimizing trading strategies.

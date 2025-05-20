@@ -1,7 +1,8 @@
 ---
-title: Understanding Collaborative Filtering in Machine Learning
+category: quant_concept
 description: Collaborative Filtering uses user data to deliver precise recommendations
   tackle cold start challenges and enhance engagement Discover more inside.
+title: Understanding Collaborative Filtering in Machine Learning
 ---
 
 ![Image](images/1.png)

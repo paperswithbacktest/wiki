@@ -1,6 +1,8 @@
 ---
-title: "Bullish Divergences and Bearish Reversal Patterns (Algo Trading)"
-description: "Discover the power of bearish reversals and bullish divergences in algo trading to enhance trading strategies and optimize market positions effectively."
+category: trading_strategy
+description: Discover the power of bearish reversals and bullish divergences in algo
+  trading to enhance trading strategies and optimize market positions effectively.
+title: Bullish Divergences and Bearish Reversal Patterns (Algo Trading)
 ---
 
 In the fast-paced world of trading, understanding market signals can significantly impact trading outcomes. Among these signals, bearish reversals and bullish divergences are crucial indicators that investors and traders use to navigate the stock market. Bearish reversals typically suggest potential downturns, where the market may shift from an uptrend to a downtrend. Recognizing these signals helps traders anticipate market corrections and protect their investments.

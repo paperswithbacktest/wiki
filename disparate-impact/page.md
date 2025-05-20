@@ -1,7 +1,8 @@
 ---
-title: Addressing Disparate Impact in Machine Learning Models
+category: quant_concept
 description: Disparate Impact in machine learning can skew outcomes for protected
   groups, applying bias ratios and mitigation strategies Discover more inside
+title: Addressing Disparate Impact in Machine Learning Models
 ---
 
 ![Image](images/1.png)

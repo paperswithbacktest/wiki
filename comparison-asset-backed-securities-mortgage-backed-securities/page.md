@@ -1,6 +1,10 @@
 ---
-title: "Comparison of Asset-Backed Securities and Mortgage-Backed Securities (Algo Trading)"
-description: "Explore the differences between Asset-Backed Securities and Mortgage-Backed Securities in relation to algorithmic trading. Understand their impact, benefits, and risks."
+category: quant_concept
+description: Explore the differences between Asset-Backed Securities and Mortgage-Backed
+  Securities in relation to algorithmic trading. Understand their impact, benefits,
+  and risks.
+title: Comparison of Asset-Backed Securities and Mortgage-Backed Securities (Algo
+  Trading)
 ---
 
 Financial instruments play a crucial role in modern markets, catering to diverse investment needs by offering a variety of risk-return profiles. These instruments include traditional shares and bonds, as well as complex structured products like derivatives, mortgage-backed securities (MBS), and asset-backed securities (ABS). MBS and ABS have become integral components of capital markets, reflecting their diversity and ability to cater to specific investment objectives.

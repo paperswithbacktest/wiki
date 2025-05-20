@@ -1,6 +1,8 @@
 ---
-title: "P5+1 Countries: Overview and Current Developments (Algo Trading)"
-description: "Explore the dynamic interplay between P5+1 nuclear diplomacy and algorithmic trading's impact on global financial markets. Delve into current developments."
+category: quant_concept
+description: Explore the dynamic interplay between P5+1 nuclear diplomacy and algorithmic
+  trading's impact on global financial markets. Delve into current developments.
+title: 'P5+1 Countries: Overview and Current Developments (Algo Trading)'
 ---
 
 The nuclear agreement, formally known as the Joint Comprehensive Plan of Action (JCPOA), has been instrumental in shaping the landscape of international relations. This agreement involved the P5+1 nations—China, France, Russia, the United Kingdom, the United States, and Germany—who collectively worked towards regulating Iran's nuclear activities. The primary objective of the JCPOA was to bolster regional stability and prevent the spread of nuclear weapons by imposing stringent limitations on Iran's nuclear program in exchange for relief from economic sanctions. This accord was a testament to the power of collective diplomacy in addressing global security concerns.

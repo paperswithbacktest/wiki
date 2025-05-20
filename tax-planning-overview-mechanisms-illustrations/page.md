@@ -1,6 +1,8 @@
 ---
-title: "Tax Planning: Overview, Mechanisms, and Illustrations (Algo Trading)"
-description: "Explore the synergy between tax planning and algorithmic trading to optimize financial strategies reduce liabilities and boost wealth in a complex economy."
+category: quant_concept
+description: Explore the synergy between tax planning and algorithmic trading to optimize
+  financial strategies reduce liabilities and boost wealth in a complex economy.
+title: 'Tax Planning: Overview, Mechanisms, and Illustrations (Algo Trading)'
 ---
 
 Financial planning has become increasingly essential in today’s volatile economic climate, characterized by fluctuating markets, evolving tax regulations, and unforeseen financial disruptions. Ensuring a stable financial future requires individuals and businesses to adopt comprehensive financial strategies that can weather economic uncertainties. At the heart of effective financial planning lies tax planning, a critical component that significantly influences an individual's or an entity's financial health.

@@ -1,6 +1,8 @@
 ---
-title: "Debt-To-Equity Ratios in the Real Estate Sector (Algo Trading)"
-description: "Explore the role of debt-to-equity ratios in the real estate sector and how algorithmic trading uses these financial metrics to enhance investment strategies."
+category: quant_concept
+description: Explore the role of debt-to-equity ratios in the real estate sector and
+  how algorithmic trading uses these financial metrics to enhance investment strategies.
+title: Debt-To-Equity Ratios in the Real Estate Sector (Algo Trading)
 ---
 
 In the modern landscape of real estate investing, understanding financial metrics is paramount for making informed investment decisions. Financial metrics are quantitative measures used to evaluate the financial health, performance, and viability of a business or investment. Among these metrics, the debt-to-equity (D/E) ratio is particularly critical within the real estate sector. This ratio measures a company's financial leverage by comparing its total liabilities to its shareholder equity:

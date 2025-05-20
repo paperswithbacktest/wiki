@@ -1,6 +1,8 @@
 ---
-title: "Key Factors Influencing the Chinese Economy (Algo Trading)"
-description: "Explore key factors influencing China's economy focusing on its economic growth roots and the rise of algorithmic trading shaping the financial landscape."
+category: quant_concept
+description: Explore key factors influencing China's economy focusing on its economic
+  growth roots and the rise of algorithmic trading shaping the financial landscape.
+title: Key Factors Influencing the Chinese Economy (Algo Trading)
 ---
 
 China stands as a pivotal player in the global economy, underscored by its rapid ascent to becoming the world's second-largest economy. Over the past few decades, China's economic evolution has been characterized by a sustained period of high growth rates, transforming it from a primarily agrarian society into a global industrial powerhouse. This transformation is rooted in a series of economic reforms initiated in the late 20th century, which prioritized market-oriented policies, opening up to international trade and investment, and substantial infrastructure development.
@@ -148,4 +150,3 @@ For stakeholders, these insights are vital for strategic planning and decision-m
 [7]: "Quantitative Trading: How to Build Your Own Algorithmic Trading Business" by Ernest P. Chan. [Link](https://www.amazon.com/Quantitative-Trading-Build-Algorithmic-Business/dp/1119800064)
 
 [8]: "Machine Learning for Algorithmic Trading" by Stefan Jansen. [Link](https://github.com/stefan-jansen/machine-learning-for-trading)
-

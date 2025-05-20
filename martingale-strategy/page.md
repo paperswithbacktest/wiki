@@ -1,6 +1,10 @@
 ---
-title: "Martingale strategy"
-description: Learn about the Martingale Strategy, a popular betting system used in gambling and trading. This progressive strategy involves doubling the stake after each loss with the belief that an eventual win will recover all losses. Discover its mathematical foundation, risks, and practical implementation.
+category: trading_strategy
+description: Learn about the Martingale Strategy, a popular betting system used in
+  gambling and trading. This progressive strategy involves doubling the stake after
+  each loss with the belief that an eventual win will recover all losses. Discover
+  its mathematical foundation, risks, and practical implementation.
+title: Martingale strategy
 ---
 
 ![Image](images/3.png)

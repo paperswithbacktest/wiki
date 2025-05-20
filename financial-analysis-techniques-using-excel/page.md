@@ -1,6 +1,9 @@
 ---
-title: "Financial Analysis Techniques Using Excel (Algo Trading)"
-description: "Explore financial analysis techniques with Excel for enhanced algorithmic trading strategies. Leverage Excel's capabilities for precise financial modeling and data analysis."
+category: quant_concept
+description: Explore financial analysis techniques with Excel for enhanced algorithmic
+  trading strategies. Leverage Excel's capabilities for precise financial modeling
+  and data analysis.
+title: Financial Analysis Techniques Using Excel (Algo Trading)
 ---
 
 The digital revolution has reshaped a myriad of sectors, with the financial industry standing prominently among those transformed. Through the integration of data analysis, financial analysis, Excel, and algorithmic trading, the traditional approach to financial operations has evolved, fostering enhanced efficiency and precision. These technological advancements are not mere enhancements but pivotal elements that redefine financial tasks from their core.

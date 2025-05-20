@@ -1,6 +1,15 @@
 ---
-title: "Gamma (Algo Trading)"
-description: "Explore the fascinating interplay between gamma rays, gamma functions, and their influence on algorithmic trading strategies. Understand how these concepts serve as the foundation for enhancing trading techniques, enabling traders to refine their market insights, improve risk management, and capitalize on dynamic price movements in financial markets. Discover the mathematical principles that inspire modern trading strategies, offering traders robust tools to navigate complexities and optimize decision-making processes. Empower your trading approaches with insights derived from the intriguing connection between theoretical gamma concepts and practical financial applications."
+category: quant_concept
+description: Explore the fascinating interplay between gamma rays, gamma functions,
+  and their influence on algorithmic trading strategies. Understand how these concepts
+  serve as the foundation for enhancing trading techniques, enabling traders to refine
+  their market insights, improve risk management, and capitalize on dynamic price
+  movements in financial markets. Discover the mathematical principles that inspire
+  modern trading strategies, offering traders robust tools to navigate complexities
+  and optimize decision-making processes. Empower your trading approaches with insights
+  derived from the intriguing connection between theoretical gamma concepts and practical
+  financial applications.
+title: Gamma (Algo Trading)
 ---
 
 In the ever-evolving landscape of trading, a thorough understanding of complex concepts can offer traders a significant advantage. This article examines the intriguing concepts of gamma rays, gamma functions, and their interconnection with algorithmic trading strategies.

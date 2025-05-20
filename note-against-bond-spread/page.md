@@ -1,6 +1,9 @@
 ---
-title: "Note Against Bond Spread (Algo Trading)"
-description: "Explore the synergy between bond spreads and algorithmic trading in this insightful guide Enhance your investment strategies with data-driven approaches in modern markets"
+category: trading_strategy
+description: Explore the synergy between bond spreads and algorithmic trading in this
+  insightful guide Enhance your investment strategies with data-driven approaches
+  in modern markets
+title: Note Against Bond Spread (Algo Trading)
 ---
 
 The financial landscape constantly evolves, with sophisticated strategies emerging for various market conditions. Investors today are navigating increasingly complex environments, where traditional methods of trading and investment are supplemented by advanced technological innovations. This article examines the convergence of finance investment, bond spreads, and algorithmic trading, and how these aspects collectively shape market behavior and investor decision-making.

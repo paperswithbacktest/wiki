@@ -1,6 +1,8 @@
 ---
-title: "Commodity Pool (Algo Trading)"
-description: "Discover the benefits of algorithmic trading and commodity pools in optimizing investment strategies for enhanced market exposure and risk management."
+category: quant_concept
+description: Discover the benefits of algorithmic trading and commodity pools in optimizing
+  investment strategies for enhanced market exposure and risk management.
+title: Commodity Pool (Algo Trading)
 ---
 
 Commodity trading has long been an essential part of global financial markets, playing a pivotal role in providing diversification and risk management opportunities to investors. Traditionally, this market involved the buying and selling of raw materials such as oil, gold, agricultural products, and other basic goods that are interchangeable with others of the same type. These physical commodities are traded primarily through futures contracts, which allow investors to speculate on price movements driven by the forces of supply and demand.

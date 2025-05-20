@@ -1,6 +1,9 @@
 ---
-title: "Over-the-Counter Bulletin Board (Algo Trading)"
-description: "Explore the impact of algorithmic trading on OTC markets, focusing on the legacy of the Over-the-Counter Bulletin Board and its role in shaping today's trading environment."
+category: quant_concept
+description: Explore the impact of algorithmic trading on OTC markets, focusing on
+  the legacy of the Over-the-Counter Bulletin Board and its role in shaping today's
+  trading environment.
+title: Over-the-Counter Bulletin Board (Algo Trading)
 ---
 
 The Over-the-Counter Bulletin Board (OTCBB) played a pivotal role in the domain of trading unlisted public securities within the United States. Managed by the Financial Industry Regulatory Authority (FINRA), the OTCBB provided a transparent platform for trading securities not listed on major exchanges such as NASDAQ or NYSE. Despite its eventual phase-out, comprehending the operations and history of the OTCBB is essential to grasp the larger landscape of over-the-counter (OTC) markets and their evolutionary trajectory.

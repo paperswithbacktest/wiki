@@ -1,6 +1,9 @@
 ---
-title: "Dummy Shareholder: Definition and Function (Algo Trading)"
-description: "Explore the complexities of corporate governance with insights into dummy shareholders and algorithmic trading. Understand their impact on transparency and accountability."
+category: quant_concept
+description: Explore the complexities of corporate governance with insights into dummy
+  shareholders and algorithmic trading. Understand their impact on transparency and
+  accountability.
+title: 'Dummy Shareholder: Definition and Function (Algo Trading)'
 ---
 
 Corporate governance plays a critical role in shaping how a company is directed and controlled. It establishes the framework within which organizations operate, making sure that companies are accountable to their shareholders and other stakeholders. At its core, corporate governance seeks to ensure that businesses are managed in a way that is fair, transparent, and aligned with the interests of those who invest in them. Shareholders, often considered the cornerstone of this framework, provide the necessary capital and hold the voting power that influences decision-making processes at the management level.

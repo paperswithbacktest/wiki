@@ -1,6 +1,9 @@
 ---
-title: "Passporting in Financial Services (Algo Trading)"
-description: "Explore the significance of passporting in financial services and its impact on algorithmic trading within the EEA. Learn how cross-border regulation shapes market strategies."
+category: quant_concept
+description: Explore the significance of passporting in financial services and its
+  impact on algorithmic trading within the EEA. Learn how cross-border regulation
+  shapes market strategies.
+title: Passporting in Financial Services (Algo Trading)
 ---
 
 In today's interconnected world, the financial services sector is increasingly relying on cross-border operations. Passporting, a pivotal feature of financial regulation within the European Economic Area (EEA), has emerged as a critical mechanism in facilitating this cross-border fluidity. It allows financial firms registered in one EEA member country to operate seamlessly across other member countries without the need for additional authorization. This regulatory innovation not only simplifies the administrative processes for businesses but also enhances the efficiency of cross-border financial activities.

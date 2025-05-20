@@ -1,6 +1,8 @@
 ---
-title: "Share Premium Accounts in the Balance Sheet (Algo Trading)"
-description: "Explore balance sheets share premiums and algorithmic trading to understand corporate financial strategies optimize operations and enhance investment decisions."
+category: quant_concept
+description: Explore balance sheets share premiums and algorithmic trading to understand
+  corporate financial strategies optimize operations and enhance investment decisions.
+title: Share Premium Accounts in the Balance Sheet (Algo Trading)
 ---
 
 Understanding the foundational concepts that drive corporate financial structures is essential for investors, analysts, and business stakeholders. These concepts encompass the fundamental elements that define a company's financial health and potential for growth. Among these concepts are the relationships between balance sheets, share premiums, and algorithmic trading, which play a significant role in shaping strategies for informed financial decisions.

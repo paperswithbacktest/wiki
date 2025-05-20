@@ -1,6 +1,12 @@
 ---
-title: "Equity Multiplier (Algo Trading)"
-description: "Explore the significance of the equity multiplier in financial analysis and algorithmic trading. Understand how this leverage ratio helps assess a company’s financial structure by comparing its assets relative to shareholders’ equity, offering insights into financial risk and investment strategies. Discover its role in evaluating financial health and optimizing real-time trading decisions, providing critical perspectives on profitability and risk management in today’s markets."
+category: quant_concept
+description: Explore the significance of the equity multiplier in financial analysis
+  and algorithmic trading. Understand how this leverage ratio helps assess a company’s
+  financial structure by comparing its assets relative to shareholders’ equity, offering
+  insights into financial risk and investment strategies. Discover its role in evaluating
+  financial health and optimizing real-time trading decisions, providing critical
+  perspectives on profitability and risk management in today’s markets.
+title: Equity Multiplier (Algo Trading)
 ---
 
 Financial ratios play a crucial role in evaluating a company's financial health. They help stakeholders, including investors, creditors, and management, to make informed decisions by providing insights into various aspects of financial performance, such as profitability, liquidity, efficiency, and solvency. One prominent financial ratio that stands out in the assessment of a company's financial leverage is the equity multiplier.

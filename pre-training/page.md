@@ -1,10 +1,9 @@
 ---
-title: Understanding Pre-Training in Machine Learning Models
+category: quant_concept
 description: Pre-training in machine learning builds core knowledge from broad datasets
   to speed fine-tuning on specific tasks with limited data. Discover more inside
+title: Understanding Pre-Training in Machine Learning Models
 ---
-
-
 
 ## Table of Contents
 

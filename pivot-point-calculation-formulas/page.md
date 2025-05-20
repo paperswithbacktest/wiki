@@ -1,6 +1,8 @@
 ---
-title: "Pivot Point Calculation and Formulas (Algo Trading)"
-description: "Unlock trading success with pivot point calculations in algorithmic trading by identifying key support and resistance levels with precision and automation."
+category: quant_concept
+description: Unlock trading success with pivot point calculations in algorithmic trading
+  by identifying key support and resistance levels with precision and automation.
+title: Pivot Point Calculation and Formulas (Algo Trading)
 ---
 
 Pivot point trading is a technique that leverages historical price data to forecast potential future market levels. This method is pivotal for traders aiming to identify key support and resistance levels, which are essential for making informed decisions regarding entry and exit points in the market. The reliability of pivot points comes from their basis in objective price data, which renders them a practical tool for technical analysis.

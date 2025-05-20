@@ -1,6 +1,8 @@
 ---
-title: "Introduction to Community Investing (Algo Trading)"
-description: "Explore community investing social finance and algorithmic trading in dynamic markets Learn how these strategies impact financial growth and sustainability"
+category: trading_strategy
+description: Explore community investing social finance and algorithmic trading in
+  dynamic markets Learn how these strategies impact financial growth and sustainability
+title: Introduction to Community Investing (Algo Trading)
 ---
 
 In today's dynamic financial markets, understanding various investment strategies is crucial for success. This article focuses on community investing, social finance, algorithmic trading, and the role of financing within investment communities. These strategies represent a blend of traditional and innovative approaches that have become increasingly relevant.

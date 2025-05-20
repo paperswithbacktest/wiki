@@ -1,6 +1,15 @@
 ---
-title: "Continuous Futures Contracts Explained (Algo Trading)"
-description: Discover the vital role of continuous futures contracts in algorithmic trading by overcoming the challenges posed by expiring individual contracts. These instrumental contracts offer uninterrupted data series for seamless strategy analysis and backtesting, making them essential for accurate market trend analysis and robust trading algorithms. Gain insights into the construction methodologies of continuous contracts and their advantages over traditional futures, enabling precise technical and trend analysis for more informed trading decisions. Explore how continuous contracts enhance trading performance by ensuring comprehensive datasets crucial for optimizing algorithmic strategies.
+category: quant_concept
+description: Discover the vital role of continuous futures contracts in algorithmic
+  trading by overcoming the challenges posed by expiring individual contracts. These
+  instrumental contracts offer uninterrupted data series for seamless strategy analysis
+  and backtesting, making them essential for accurate market trend analysis and robust
+  trading algorithms. Gain insights into the construction methodologies of continuous
+  contracts and their advantages over traditional futures, enabling precise technical
+  and trend analysis for more informed trading decisions. Explore how continuous contracts
+  enhance trading performance by ensuring comprehensive datasets crucial for optimizing
+  algorithmic strategies.
+title: Continuous Futures Contracts Explained (Algo Trading)
 ---
 
 Continuous contract futures play a crucial role in algorithmic trading by addressing the challenges associated with the expiration of individual futures contracts. In futures trading, contracts are typically limited by expiration dates, leading to a discontinuous data series that can hinder effective strategy analysis and backtesting. Continuous contracts offer a solution to this problem by creating an uninterrupted data series that spans across multiple contract expiration dates, allowing for seamless analysis and strategy development.

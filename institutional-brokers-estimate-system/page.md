@@ -1,6 +1,9 @@
 ---
-title: "Institutional Brokers' Estimate System (Algo Trading)"
-description: "Discover the role of the Institutional Brokers' Estimate System in enhancing algo trading strategies by providing predictive insights and optimizing trading decisions."
+category: quant_concept
+description: Discover the role of the Institutional Brokers' Estimate System in enhancing
+  algo trading strategies by providing predictive insights and optimizing trading
+  decisions.
+title: Institutional Brokers' Estimate System (Algo Trading)
 ---
 
 The evolution of financial markets over recent decades has been extraordinary, largely driven by advancements in technology that have reshaped trading environments. At the forefront of this transformation is the advent of algorithmic trading, or algo trading, which harnesses complex algorithms to automate and enhance trading strategies. This innovation has been supported by the integration of vast data sources, among which the Institutional Brokers' Estimate System (I/B/E/S) stands out for its ability to provide a wealth of predictive financial information.

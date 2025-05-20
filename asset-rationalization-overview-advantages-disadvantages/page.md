@@ -1,6 +1,9 @@
 ---
-title: "Asset Rationalization: Overview, Advantages, and Disadvantages (Algo Trading)"
-description: "Explore how asset rationalization enhances algorithmic trading efficiency by optimizing resources and streamlining operations for improved profitability and agility."
+category: trading_strategy
+description: Explore how asset rationalization enhances algorithmic trading efficiency
+  by optimizing resources and streamlining operations for improved profitability and
+  agility.
+title: 'Asset Rationalization: Overview, Advantages, and Disadvantages (Algo Trading)'
 ---
 
 In an ever-evolving business landscape, companies are continuously seeking strategies to enhance operational efficiency and optimize resource management. Asset rationalization, often coupled with algorithmic trading, is emerging as a vital strategy for achieving these objectives. This approach involves systematic assessment and management of a company's assets to ensure they align with strategic goals, ultimately enhancing profitability and operational effectiveness.

@@ -1,7 +1,8 @@
 ---
-title: Distributed Reinforcement Learning Principles and Applications
+category: quant_concept
 description: Distributed Reinforcement Learning speeds up training by linking agents
   to share experiences and improve policies Discover more inside.
+title: Distributed Reinforcement Learning Principles and Applications
 ---
 
 ![Image](images/1.gif)

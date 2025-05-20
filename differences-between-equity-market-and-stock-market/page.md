@@ -1,6 +1,13 @@
 ---
-title: "Differences Between Equity Market and Stock Market (Algo Trading)"
-description: "Explore the key distinctions between equity markets and stock markets in this comprehensive analysis focused on algorithmic trading. Understand how these markets impact economic growth by offering platforms for raising capital and trading ownership shares. Discover the role of algorithmic trading in enhancing market efficiency and liquidity while navigating challenges in modern financial environments. This insightful guide aims to equip investors with the knowledge needed to make informed decisions and thrive in today's dynamic financial landscape."
+category: quant_concept
+description: Explore the key distinctions between equity markets and stock markets
+  in this comprehensive analysis focused on algorithmic trading. Understand how these
+  markets impact economic growth by offering platforms for raising capital and trading
+  ownership shares. Discover the role of algorithmic trading in enhancing market efficiency
+  and liquidity while navigating challenges in modern financial environments. This
+  insightful guide aims to equip investors with the knowledge needed to make informed
+  decisions and thrive in today's dynamic financial landscape.
+title: Differences Between Equity Market and Stock Market (Algo Trading)
 ---
 
 In today's interconnected global economy, financial markets are integral to shaping the economic landscape. These markets facilitate the exchange of financial instruments, thereby influencing global economic trends. Among the various sectors within financial markets, the stock market and the equity market are pivotal, offering both opportunities and challenges for investors. The stock market serves as a platform where company shares are traded, and it functions as a means for companies to raise capital. The equity market, encompassing stock trading, represents ownership in companies and is vital for capital allocation and economic growth.

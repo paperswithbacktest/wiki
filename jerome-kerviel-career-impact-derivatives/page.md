@@ -1,6 +1,9 @@
 ---
-title: "Jerome Kerviel: Career and Impact in Derivatives (Algo Trading)"
-description: "Explore Jerome Kerviel's impact on finance through his infamous derivatives trading scandal at Société Générale, highlighting risks and lessons in modern algo trading."
+category: quant_concept
+description: Explore Jerome Kerviel's impact on finance through his infamous derivatives
+  trading scandal at Société Générale, highlighting risks and lessons in modern algo
+  trading.
+title: 'Jerome Kerviel: Career and Impact in Derivatives (Algo Trading)'
 ---
 
 The world of finance has its share of triumphs and transgressions, with Jerome Kerviel's case being a particularly severe example of derivatives trading gone wrong. Jerome Kerviel, a trader at Société Générale, orchestrated one of the most significant trading frauds in history, resulting in losses that rippled through the financial sector. This article examines the scandal involving Jerome Kerviel, scrutinizing the impact of his actions on the financial landscape. The focus remains on derivatives trading and the emergence of algorithmic trading, both of which played crucial roles in this case.

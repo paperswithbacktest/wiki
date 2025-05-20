@@ -1,7 +1,8 @@
 ---
-title: Understanding Generalization in Machine Learning Models
+category: quant_concept
 description: Generalization in machine learning helps models adapt to new data by
   using cross validation regularization and data augmentation Discover more inside
+title: Understanding Generalization in Machine Learning Models
 ---
 
 ![Image](images/1.png)

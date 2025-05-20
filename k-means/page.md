@@ -1,7 +1,8 @@
 ---
-title: Mastering K-Means Clustering for Efficient Data Segmentation
+category: quant_concept
 description: K-Means clustering simplifies grouping similar data points by iteratively
   refining centroids to reveal patterns and optimize clusters. Discover more inside.
+title: Mastering K-Means Clustering for Efficient Data Segmentation
 ---
 
 ![Image](images/1.png)

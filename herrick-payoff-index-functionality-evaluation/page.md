@@ -1,6 +1,8 @@
 ---
-title: "Herrick Payoff Index: Functionality and Evaluation (Algo Trading)"
-description: "Explore the Herrick Payoff Index HPI, a powerful volume-based trading indicator used in algorithmic trading to analyze market trends and improve strategies."
+category: quant_concept
+description: Explore the Herrick Payoff Index HPI, a powerful volume-based trading
+  indicator used in algorithmic trading to analyze market trends and improve strategies.
+title: 'Herrick Payoff Index: Functionality and Evaluation (Algo Trading)'
 ---
 
 Trading indicators are essential tools in financial analysis, providing traders and analysts with quantitative data that inform market predictions and trading decisions. They serve as guides in deciphering price movements, volume fluctuations, and market sentiment. Among these indicators, the Herrick Payoff Index (HPI) stands out as a significant volume-based tool, primarily used in futures and options markets. It is designed to assess market trends by integrating price, volume, and open interest, thus offering insights into market momentum and potential reversals.

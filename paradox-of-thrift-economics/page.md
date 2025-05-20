@@ -1,6 +1,8 @@
 ---
-title: "Paradox of Thrift in Economics (Algo Trading)"
-description: "Explore the paradox of thrift in economics, where individual savings can impact overall demand and economic growth, intertwined with algo trading dynamics."
+category: quant_concept
+description: Explore the paradox of thrift in economics, where individual savings
+  can impact overall demand and economic growth, intertwined with algo trading dynamics.
+title: Paradox of Thrift in Economics (Algo Trading)
 ---
 
 Savings is a critical component of personal finance, serving as a foundation for financial security and stability. When individuals save money, they create a safety net for unexpected expenses, accumulate wealth for future goals such as buying a home or funding education, and ensure a comfortable retirement. Beyond individual benefits, savings are vital for economic growth, providing the capital necessary for investments in businesses, infrastructure, and innovation. A robust savings culture can enhance economic resilience by reducing dependency on external borrowing and fostering domestic investment.

@@ -1,6 +1,9 @@
 ---
-title: "Economic Justice: Definition and Examples (Algo Trading)"
-description: "Explore the interconnected roles of economic justice, social equality, and algorithmic trading in shaping fair wealth distribution and addressing income disparities."
+category: quant_concept
+description: Explore the interconnected roles of economic justice, social equality,
+  and algorithmic trading in shaping fair wealth distribution and addressing income
+  disparities.
+title: 'Economic Justice: Definition and Examples (Algo Trading)'
 ---
 
 Economic justice, social equality, fair distribution, and algorithmic trading are interconnected concepts that play a crucial role in shaping modern economies. This article explores how these concepts can be integrated into a comprehensive framework for achieving a more equitable society. These elements are pivotal in addressing the disparities in wealth and opportunities that exist across different socioeconomic groups. 

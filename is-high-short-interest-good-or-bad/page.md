@@ -1,6 +1,12 @@
 ---
-title: "Is High Short Interest Good or Bad? (Algo Trading)"
-description: Explore the complex role of high short interest in algorithmic trading with insights into its impact on stock volatility and market sentiment. Understand how high short interest can present both opportunities and risks in trading strategies, using short squeezes as a case study. Learn about the relevance of short interest ratios and their implications for stock trading dynamics, helping navigate the nuanced landscape of investment decisions.
+category: quant_concept
+description: Explore the complex role of high short interest in algorithmic trading
+  with insights into its impact on stock volatility and market sentiment. Understand
+  how high short interest can present both opportunities and risks in trading strategies,
+  using short squeezes as a case study. Learn about the relevance of short interest
+  ratios and their implications for stock trading dynamics, helping navigate the nuanced
+  landscape of investment decisions.
+title: Is High Short Interest Good or Bad? (Algo Trading)
 ---
 
 High short interest in stocks has become a focal point in the landscape of algorithmic trading. This phenomenon, which involves a substantial portion of a company's shares being sold short but not yet covered, captures the attention of traders due to the potential implications on stock price volatility and market sentiment. In this article, we aim to examine whether high short interest acts as a boon or bane for algorithmic traders.

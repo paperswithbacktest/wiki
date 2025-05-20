@@ -1,6 +1,8 @@
 ---
-title: "Calculating Delta Adjusted Notional Value (Algo Trading)"
-description: "Explore the importance of Delta Adjusted Notional in algorithmic trading. Learn how this metric influences derivatives risk assessment and trading strategies."
+category: quant_concept
+description: Explore the importance of Delta Adjusted Notional in algorithmic trading.
+  Learn how this metric influences derivatives risk assessment and trading strategies.
+title: Calculating Delta Adjusted Notional Value (Algo Trading)
 ---
 
 Derivatives are financial instruments whose value is linked to an underlying asset such as stocks, bonds, commodities, currencies, or interest rates. They play a significant role in modern financial markets by allowing traders and investors to hedge against risk, speculate on price movements, and achieve efficient capital allocation. The most common types of derivatives include futures, options, swaps, and forwards, each serving specific purposes within the trading ecosystem.

@@ -1,7 +1,8 @@
 ---
-title: Mini-Batch SGD Explained for Large-Scale Model Training
+category: quant_concept
 description: Mini-Batch SGD speeds up model training by balancing efficiency and stability
   when handling large datasets in machine learning Discover more inside.
+title: Mini-Batch SGD Explained for Large-Scale Model Training
 ---
 
 ![Image](images/1.jpeg)

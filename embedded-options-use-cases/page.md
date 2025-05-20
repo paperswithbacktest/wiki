@@ -1,6 +1,9 @@
 ---
-title: "Embedded Options and Use Cases (Algo Trading)"
-description: "Explore the synergy of embedded options and algorithmic trading within financial strategies to effectively manage risks, optimize investments, and enhance market efficiency."
+category: quant_concept
+description: Explore the synergy of embedded options and algorithmic trading within
+  financial strategies to effectively manage risks, optimize investments, and enhance
+  market efficiency.
+title: Embedded Options and Use Cases (Algo Trading)
 ---
 
 Financial derivatives, such as options, are pivotal tools in modern financial markets, empowering investors to hedge against risks, diversify portfolios, or engage in speculative activities. Options, futures, and swaps fall into a category that derives value from underlying assets, making them essential in strategies for risk management and profit maximization. The flexibility and variety offered by derivatives provide investors with numerous opportunities to tailor strategies to specific goals and market conditions.

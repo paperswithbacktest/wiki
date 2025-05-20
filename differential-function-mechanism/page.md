@@ -1,6 +1,8 @@
 ---
-title: "Differential: Function and Mechanism (Algo Trading)"
-description: "Explore the function and mechanisms of algorithmic trading including the role of differentials in futures contracts and the impact of reinforcement learning."
+category: quant_concept
+description: Explore the function and mechanisms of algorithmic trading including
+  the role of differentials in futures contracts and the impact of reinforcement learning.
+title: 'Differential: Function and Mechanism (Algo Trading)'
 ---
 
 In recent years, algorithmic trading has become an essential component of financial markets, driven by its capacity to analyze massive datasets and execute transactions at velocities unattainable by human traders. These systems capitalize on sophisticated algorithms designed to optimize trading strategies, thereby enhancing efficiency and accuracy. A key aspect of this article is the examination of differentials within futures contracts. Understanding and leveraging these differentials is crucial for managing risk effectively and improving profitability in trading. Futures contracts are standardized agreements to buy or sell an asset at a future date, and the differential accounts for variations in asset quality or delivery logistics, impacting the contract's value.

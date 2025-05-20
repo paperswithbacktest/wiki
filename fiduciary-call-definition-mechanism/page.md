@@ -1,6 +1,8 @@
 ---
-title: "Fiduciary Call: Definition and Mechanism (Algo Trading)"
-description: "Discover the intricate concept of fiduciary calls in investment and explore how algorithmic trading enhances portfolio performance through strategic precision."
+category: quant_concept
+description: Discover the intricate concept of fiduciary calls in investment and explore
+  how algorithmic trading enhances portfolio performance through strategic precision.
+title: 'Fiduciary Call: Definition and Mechanism (Algo Trading)'
 ---
 
 Understanding the intricacies of financial mechanisms is crucial for investors aiming to enhance their portfolios. This article focuses on the concept of fiduciary calls in financial investment and also examines the role of algorithmic trading (algo trading).

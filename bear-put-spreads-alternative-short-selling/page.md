@@ -1,6 +1,8 @@
 ---
-title: "Bear Put Spreads as an Alternative to Short Selling (Algo Trading)"
-description: "Explore bear put spreads as a safer alternative to short selling in options trading and learn how algorithmic trading can enhance strategy execution."
+category: trading_strategy
+description: Explore bear put spreads as a safer alternative to short selling in options
+  trading and learn how algorithmic trading can enhance strategy execution.
+title: Bear Put Spreads as an Alternative to Short Selling (Algo Trading)
 ---
 
 Options trading is a complex and dynamic field that provides traders with numerous strategies to profit from market fluctuations. Among these, bear put spreads, short selling, and algorithmic trading are prominent techniques that cater to varying market perspectives and risk appetites. This article aims to offer a detailed overview of these strategies, providing traders with the insights necessary to effectively implement them.

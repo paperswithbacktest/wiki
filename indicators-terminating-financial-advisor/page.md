@@ -1,6 +1,8 @@
 ---
-title: "Indicators for Terminating a Financial Advisor (Algo Trading)"
-description: "Explore key indicators for terminating a financial advisor and the impact of algorithmic trading on investment strategies. Make informed financial decisions."
+category: trading_strategy
+description: Explore key indicators for terminating a financial advisor and the impact
+  of algorithmic trading on investment strategies. Make informed financial decisions.
+title: Indicators for Terminating a Financial Advisor (Algo Trading)
 ---
 
 The rapid evolution of financial markets has brought significant transformations in investment management practices. Central to these changes is the emergence of algorithmic trading and automated investment management platforms. Algorithmic trading involves leveraging complex algorithms and computer systems to make trading decisions and execute trades automatically. This approach aims to optimize trading outcomes by analyzing vast amounts of data and identifying market trends with speed and precision.

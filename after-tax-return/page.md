@@ -1,6 +1,9 @@
 ---
-title: "After-Tax Return (Algo Trading)"
-description: "Understand how taxes impact your trading profits Learn strategies to optimize returns in algorithmic trading by accounting for varied tax treatments and liabilities"
+category: quant_concept
+description: Understand how taxes impact your trading profits Learn strategies to
+  optimize returns in algorithmic trading by accounting for varied tax treatments
+  and liabilities
+title: After-Tax Return (Algo Trading)
 ---
 
 In the world of investing, understanding how taxes impact your returns is crucial for maximizing profitability. This encompasses awareness of tax liabilities associated with various investment vehicles, including stocks, bonds, and derivatives, each of which can have different tax treatments. The taxation landscape can significantly affect the net returns an investor can realize, particularly when engaging in algorithmic trading, where trades are executed in high frequency and often on thin margins.

@@ -1,6 +1,8 @@
 ---
-title: "Opening Bell: Function and Process (Algo Trading)"
-description: "Explore how algorithmic trading transforms the opening bell with cutting-edge strategies and technology to optimize trading in volatile markets efficiently."
+category: quant_concept
+description: Explore how algorithmic trading transforms the opening bell with cutting-edge
+  strategies and technology to optimize trading in volatile markets efficiently.
+title: 'Opening Bell: Function and Process (Algo Trading)'
 ---
 
 The opening bell symbolizes the start of a trading session on stock exchanges around the world, ushering in a period of heightened activity and anticipation. It represents a pivotal moment where traders, equipped with an array of resources and strategies, seek to take advantage of the initial market movements. As the bell rings, markets are set in motion, leading to a flurry of transactions and rapid changes in stock prices.

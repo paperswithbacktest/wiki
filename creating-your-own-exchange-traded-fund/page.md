@@ -1,6 +1,8 @@
 ---
-title: "Creating Your Own Exchange-Traded Fund (Algo Trading)"
-description: "Explore the innovative world of personalized ETFs using algorithmic trading to manage risk and enhance returns by tailoring portfolios to your unique goals."
+category: trading_strategy
+description: Explore the innovative world of personalized ETFs using algorithmic trading
+  to manage risk and enhance returns by tailoring portfolios to your unique goals.
+title: Creating Your Own Exchange-Traded Fund (Algo Trading)
 ---
 
 In the dynamic and ever-evolving world of investments, Exchange Traded Funds (ETFs) have emerged as a popular vehicle for both novice and experienced investors. ETFs offer investors the ability to access a diverse range of assets, including stocks, bonds, and commodities, making them a versatile investment option. The rising interest in ETFs is driven by their low-cost structure, tax efficiency, and the flexibility they offer in constructing diversified portfolios.

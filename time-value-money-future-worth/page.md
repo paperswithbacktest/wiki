@@ -1,6 +1,9 @@
 ---
-title: "Time Value of Money and Future Worth (Algo Trading)"
-description: "Explore the Time Value of Money and its impact on financial decisions in trading Learn how to apply TVM principles for effective investment and future worth analysis"
+category: quant_concept
+description: Explore the Time Value of Money and its impact on financial decisions
+  in trading Learn how to apply TVM principles for effective investment and future
+  worth analysis
+title: Time Value of Money and Future Worth (Algo Trading)
 ---
 
 The concept of the Time Value of Money (TVM) is a fundamental principle in finance that underscores the importance of time in assessing the worth of money. At its core, TVM asserts that a sum of money today holds greater value than the identical sum in the future. This difference in value is attributed to the potential earning capacity of money, meaning that money in hand today can be invested to generate additional income or returns over time.

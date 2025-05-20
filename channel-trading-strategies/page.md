@@ -1,6 +1,13 @@
 ---
-title: "Channel Trading Strategies Explained (Algo Trading)"
-description: Explore channel trading strategies in algorithmic trading to enhance decision-making and trading efficiency. Learn how to automate processes for identifying price channels with technical indicators such as Bollinger Bands, Keltner Channels, and Donchian Channels. Discover how these tools help mean-reversion and trend-following traders navigate market conditions by pinpointing entry and exit points. Understand the importance of setting up strategies with precise indicators and rigorous backtesting to optimize trading performance through disciplined and objective approaches.
+category: trading_strategy
+description: Explore channel trading strategies in algorithmic trading to enhance
+  decision-making and trading efficiency. Learn how to automate processes for identifying
+  price channels with technical indicators such as Bollinger Bands, Keltner Channels,
+  and Donchian Channels. Discover how these tools help mean-reversion and trend-following
+  traders navigate market conditions by pinpointing entry and exit points. Understand
+  the importance of setting up strategies with precise indicators and rigorous backtesting
+  to optimize trading performance through disciplined and objective approaches.
+title: Channel Trading Strategies Explained (Algo Trading)
 ---
 
 Channel trading, when incorporated in algorithmic trading, offers a systematic approach to identifying potential buying and selling opportunities by leveraging technical indicators and tools. This approach is based on the formation of price channels, which are constructed using support and resistance levels determined through technical analysis. By automating these processes, algorithmic trading systems can execute trades with precision, devoid of emotional biases that may affect human traders.

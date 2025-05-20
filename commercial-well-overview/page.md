@@ -1,6 +1,9 @@
 ---
-title: "Commercial Well Overview (Algo Trading)"
-description: "Explore the dynamic convergence of commercial well operations and algorithmic trading to unlock potential in the oil, gas, and financial industries with advanced technologies."
+category: quant_concept
+description: Explore the dynamic convergence of commercial well operations and algorithmic
+  trading to unlock potential in the oil, gas, and financial industries with advanced
+  technologies.
+title: Commercial Well Overview (Algo Trading)
 ---
 
 In recent years, technological advancements have dramatically altered both the oil and gas industry and the financial trading sector, reshaping how they operate and interact. The integration of these innovations necessitates a comprehensive examination of two pivotal areas: commercial well operations and algorithmic trading.

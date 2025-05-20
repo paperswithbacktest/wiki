@@ -1,6 +1,9 @@
 ---
-title: "Retail Repurchase Agreement: Overview and Mechanics (Algo Trading)"
-description: "Explore the dynamics of retail repurchase agreements and algorithmic trading in the repo market Discover how they enhance liquidity and refine investment strategies"
+category: quant_concept
+description: Explore the dynamics of retail repurchase agreements and algorithmic
+  trading in the repo market Discover how they enhance liquidity and refine investment
+  strategies
+title: 'Retail Repurchase Agreement: Overview and Mechanics (Algo Trading)'
 ---
 
 The repo market, or repurchase agreement market, has assumed a pivotal role in modern finance, functioning as a cornerstone for ensuring liquidity and facilitating efficient capital markets. Foundational to this market are financial instruments like the retail repurchase agreement and the incorporation of algorithmic trading, each contributing uniquely to optimizing liquidity and refining investment strategies.

@@ -1,6 +1,8 @@
 ---
-title: "Evaluating Companies with Negative Cash Flow from Investments (Algo Trading)"
-description: "Explore strategies to evaluate investments with negative cash flow using financial analysis and algorithmic trading to unlock their growth potential."
+category: trading_strategy
+description: Explore strategies to evaluate investments with negative cash flow using
+  financial analysis and algorithmic trading to unlock their growth potential.
+title: Evaluating Companies with Negative Cash Flow from Investments (Algo Trading)
 ---
 
 Investments with negative cash flow often represent a paradox for investors. On one hand, negative cash flow indicates that an investment is not generating positive income relative to its expenses in the short term. On the other hand, these investments can open doors to future growth potential and diversification opportunities. Understanding how to effectively manage and evaluate such investments is essential in building a diversified and robust portfolio.

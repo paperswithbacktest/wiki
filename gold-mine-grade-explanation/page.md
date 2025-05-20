@@ -1,6 +1,8 @@
 ---
-title: "Gold Mine Grade Explanation (Algo Trading)"
-description: "Discover how the intersection of gold mining and algorithmic trading is revolutionizing resource extraction and trading efficiency by leveraging technology."
+category: quant_concept
+description: Discover how the intersection of gold mining and algorithmic trading
+  is revolutionizing resource extraction and trading efficiency by leveraging technology.
+title: Gold Mine Grade Explanation (Algo Trading)
 ---
 
 The intersection of gold mining and algorithmic trading represents a burgeoning field where technological advancements can greatly enhance resource extraction and trading efficiency. At its core, understanding the grade of a gold mine is a pivotal factor in assessing its potential profitability. Gold mine grade, often measured in grams per tonne, indicates the concentration of gold within the ore. High-grade mines, which contain a higher density of gold, warrant particular attention due to their enhanced economic viability. Accurate grading informs not only the immediate extraction strategies but also longer-term investment decisions.

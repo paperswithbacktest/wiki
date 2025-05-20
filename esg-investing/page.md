@@ -1,9 +1,13 @@
 ---
-title: "ESG Investing (Algo Trading)"
-description: Discover the intersection of Environmental, Social, and Governance (ESG) investing and algorithmic trading. Learn how ESG criteria can be integrated into effective quantitative strategies for superior returns, while aligning financial objectives with global concerns. Explore studies on ESG's impact on long-term performance and its role in market-neutral trading. Dive deeper into the regional significance of ESG and look towards the future of this responsible investment approach.
+category: trading_strategy
+description: Discover the intersection of Environmental, Social, and Governance (ESG)
+  investing and algorithmic trading. Learn how ESG criteria can be integrated into
+  effective quantitative strategies for superior returns, while aligning financial
+  objectives with global concerns. Explore studies on ESG's impact on long-term performance
+  and its role in market-neutral trading. Dive deeper into the regional significance
+  of ESG and look towards the future of this responsible investment approach.
+title: ESG Investing (Algo Trading)
 ---
-
-
 
 The integration of Environmental, Social, and Governance (ESG) considerations into algorithmic trading is radically transforming how finance operates, driven by a growing need to align financial strategies with broader environmental and social objectives. Traditionally, algorithmic trading has emphasized speed, efficiency, and profitability. However, as awareness and urgency surrounding environmental sustainability and corporate responsibility grow, there is a significant shift towards incorporating ESG factors into financial decision-making. This convergence challenges conventional trading paradigms and positions ESG criteria as pivotal elements in crafting more responsible and sustainable financial models.
 
@@ -166,4 +170,3 @@ Traders and developers are encouraged to embrace this intersection of finance an
 [4]: Busch, T., & Hoffmann, V. H. (2011). ["How Hot Is Your Bottom Line? Linking Carbon and Financial Performance."](https://journals.sagepub.com/doi/10.1177/0007650311398780) Business & Society.
 
 [5]: Eccles, R. G., Ioannou, I., & Serafeim, G. (2014). ["The Impact of Corporate Sustainability on Organizational Processes and Performance."](https://www.hbs.edu/ris/Publication%20Files/SSRN-id1964011_6791edac-7daa-4603-a220-4a0c6c7a3f7a.pdf) Management Science, 60(11), 2835-2857.
-

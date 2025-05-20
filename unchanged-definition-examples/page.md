@@ -1,6 +1,8 @@
 ---
-title: "Unchanged: Definition and Examples (Algo Trading)"
-description: "Explore the concept of 'unchanged' in algo trading where stable prices impact trading strategies Learn how this stability is leveraged in financial markets"
+category: quant_concept
+description: Explore the concept of 'unchanged' in algo trading where stable prices
+  impact trading strategies Learn how this stability is leveraged in financial markets
+title: 'Unchanged: Definition and Examples (Algo Trading)'
 ---
 
 In the world of finance, understanding key terms and concepts is essential for navigating the complexities of trading. This is particularly true in the fast-evolving field of algorithmic trading, often referred to as algo trading. Algo trading relies on computer algorithms to execute trades based on pre-set criteria at speeds and frequencies far beyond human capability. Among the many concepts traders must understand is the idea of 'unchanged', which plays a significant role in developing trading strategies.

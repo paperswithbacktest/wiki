@@ -1,6 +1,9 @@
 ---
-title: "Back Months in Finance (Algo Trading)"
-description: "Explore the role of back months in futures contracts and the impact of algorithmic trading strategies on long-term hedging and speculation in financial markets."
+category: trading_strategy
+description: Explore the role of back months in futures contracts and the impact of
+  algorithmic trading strategies on long-term hedging and speculation in financial
+  markets.
+title: Back Months in Finance (Algo Trading)
 ---
 
 Futures contracts are standardized legal agreements to buy or sell a particular commodity or financial instrument at a predetermined price at a specified time in the future. These contracts are traded on futures exchanges and are crucial for enabling hedging and speculation within financial markets. Traders use futures contracts to manage risk associated with price fluctuations in various asset classes, including commodities, currencies, and indices. The certainty provided by these contracts allows businesses to stabilize costs and predict future revenue, ultimately fostering more predictable financial planning and risk management strategies.

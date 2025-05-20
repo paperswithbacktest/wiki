@@ -1,6 +1,9 @@
 ---
-title: "Price Target Calculation and Accuracy (Algo Trading)"
-description: "Explore the crucial role of accurate price target calculations in algorithmic trading strategies to maximize profits while effectively managing risks in financial markets."
+category: trading_strategy
+description: Explore the crucial role of accurate price target calculations in algorithmic
+  trading strategies to maximize profits while effectively managing risks in financial
+  markets.
+title: Price Target Calculation and Accuracy (Algo Trading)
 ---
 
 Algorithmic trading, commonly known as algo trading, has fundamentally transformed the landscape of financial markets through the automation of trading decisions using sophisticated algorithms. These algorithms are designed to process vast amounts of market data at unprecedented speed, allowing traders to execute orders more efficiently. A fundamental component of this process is the establishment of price targets, which dictate the specific price points at which a security is considered fairly valued and guide whether to buy, hold, or sell.

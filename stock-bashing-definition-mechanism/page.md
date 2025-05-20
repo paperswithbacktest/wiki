@@ -1,6 +1,8 @@
 ---
-title: "Stock Bashing: Definition and Mechanism (Algo Trading)"
-description: "Discover the intricacies of stock bashing and market manipulation with a focus on algorithmic trading's impact on market dynamics and investor protection."
+category: quant_concept
+description: Discover the intricacies of stock bashing and market manipulation with
+  a focus on algorithmic trading's impact on market dynamics and investor protection.
+title: 'Stock Bashing: Definition and Mechanism (Algo Trading)'
 ---
 
 Market manipulation refers to the orchestration of activities designed to artificially modify the price of financial assets. These practices primarily aim to generate profits for the manipulator at the expense of average investors who rely on truthful market dynamics and transparent information. One key player in the contemporary trading landscape is algorithmic trading, known for its rapid execution of trades utilizing complex algorithms. While this technological advancement has improved market liquidity and efficiency, it also has the potential to affect market stability due to its capacity to execute high-frequency trades that can alter price movements significantly.

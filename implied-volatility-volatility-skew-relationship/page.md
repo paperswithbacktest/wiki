@@ -1,6 +1,9 @@
 ---
-title: "Implied Volatility and Volatility Skew Relationship (Algo Trading)"
-description: "Explore the intricate relationship between implied volatility and volatility skew in options trading with insights into their implications for algorithmic trading strategies."
+category: quant_concept
+description: Explore the intricate relationship between implied volatility and volatility
+  skew in options trading with insights into their implications for algorithmic trading
+  strategies.
+title: Implied Volatility and Volatility Skew Relationship (Algo Trading)
 ---
 
 Options trading is a versatile and complex financial strategy that involves trading options contracts to speculate on or hedge against price movements. Options provide traders with the flexibility to profit from various market conditions through different types of contracts, notably calls and puts. A call option gives the holder the right, but not the obligation, to buy an asset at a specified strike price before the option's expiration, while a put option gives the right to sell under similar conditions. The primary objective is to leverage these contracts to achieve desired economic exposures without directly buying or selling the underlying asset.

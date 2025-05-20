@@ -1,6 +1,8 @@
 ---
-title: "Trading Strategies Using VWAP and MVWAP (Algo Trading)"
-description: "Explore effective algo trading strategies with VWAP and MVWAP indicators to optimize trade decisions. Learn intraday and long-term trend analysis tactics."
+category: trading_strategy
+description: Explore effective algo trading strategies with VWAP and MVWAP indicators
+  to optimize trade decisions. Learn intraday and long-term trend analysis tactics.
+title: Trading Strategies Using VWAP and MVWAP (Algo Trading)
 ---
 
 The world of trading involves a myriad of strategies and tools designed to maximize profit potential. Among the most prominent tools are the Volume Weighted Average Price (VWAP) and Moving Volume Weighted Average Price (MVWAP), which serve as pivotal indicators used to inform trading decisions. VWAP and MVWAP have become integral components in algorithmic trading strategies, finding favor among both retail and institutional traders seeking to enhance their market operations.

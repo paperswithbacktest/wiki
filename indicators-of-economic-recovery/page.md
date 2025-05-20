@@ -1,6 +1,8 @@
 ---
-title: "Indicators of Economic Recovery (Algo Trading)"
-description: "Explore the interplay between economic recovery indicators and algorithmic trading strategies Enhance your understanding of market trends for strategic decision-making."
+category: quant_concept
+description: Explore the interplay between economic recovery indicators and algorithmic
+  trading strategies Enhance your understanding of market trends for strategic decision-making.
+title: Indicators of Economic Recovery (Algo Trading)
 ---
 
 In recent years, economic recovery has become a focal point for policymakers, investors, and the general public due to the significant impact of global financial crises and economic downturns. Economic indicators serve as critical tools for analyzing and predicting recovery trends, providing a quantitative basis to assess economic health and future trajectory. These indicators range from measures of GDP growth, employment rates, consumer confidence, to stock market trends, each offering insights into different aspects of economic performance.

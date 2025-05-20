@@ -1,7 +1,8 @@
 ---
-title: Mastering Hyperparameter Tuning Techniques for Optimal Models
+category: trading_strategy
 description: Hyperparameter tuning ensures your machine learning models learn efficiently
   by selecting optimal settings across methods Discover more inside.
+title: Mastering Hyperparameter Tuning Techniques for Optimal Models
 ---
 
 ![Image](images/1.png)

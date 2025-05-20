@@ -1,6 +1,9 @@
 ---
-title: "Cryptocurrency Individual Retirement Accounts: Pros and Cons (Algo Trading)"
-description: "Explore the pros and cons of Cryptocurrency IRAs and algorithmic trading for retirement planning Learn how integrating digital assets like Bitcoin can enhance your portfolio"
+category: trading_strategy
+description: Explore the pros and cons of Cryptocurrency IRAs and algorithmic trading
+  for retirement planning Learn how integrating digital assets like Bitcoin can enhance
+  your portfolio
+title: 'Cryptocurrency Individual Retirement Accounts: Pros and Cons (Algo Trading)'
 ---
 
 In recent years, the investment landscape has broadened significantly, incorporating digital assets such as cryptocurrencies as a viable means to diversify portfolios. Among these innovations is the emergence of Cryptocurrency IRAs, which allow investors to include digital currencies like Bitcoin and Ethereum within their retirement accounts. This new approach is gaining traction as more individuals see the potential benefits of integrating cryptocurrencies with their long-term financial planning.

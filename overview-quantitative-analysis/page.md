@@ -1,6 +1,9 @@
 ---
-title: "Overview of Quantitative Analysis (Algo Trading)"
-description: "Explore the vital role of quantitative analysis in algorithmic trading. Learn how data-driven, mathematical methods optimize investment strategies and risk management."
+category: quant_concept
+description: Explore the vital role of quantitative analysis in algorithmic trading.
+  Learn how data-driven, mathematical methods optimize investment strategies and risk
+  management.
+title: Overview of Quantitative Analysis (Algo Trading)
 ---
 
 In the modern financial landscape, quantitative analysis has become a cornerstone for data-driven decision-making. This analytical approach employs mathematical and statistical methodologies to assess financial markets, offering a systematic and empirical basis for making investment decisions. The integration of quantitative analysis with data analysis methods and algorithmic trading has transformed trading practices, enhancing the ability to generate robust, data-fueled strategies. These strategies are designed not only to maximize returns but also to manage risks efficiently, a critical balance in achieving investment success.

@@ -1,6 +1,11 @@
 ---
-title: "Arbitrage (Algo Trading)"
-description: Uncover the intricacies of arbitrage in algorithmic trading, a profitable strategy that combines technology, mathematics, and finance. Explore various types of arbitrage strategies and their applications, as well as risks to be aware of. Dive into our extensive database for advanced strategies and resources to help you capitalize on market inefficiencies.
+category: trading_strategy
+description: Uncover the intricacies of arbitrage in algorithmic trading, a profitable
+  strategy that combines technology, mathematics, and finance. Explore various types
+  of arbitrage strategies and their applications, as well as risks to be aware of.
+  Dive into our extensive database for advanced strategies and resources to help you
+  capitalize on market inefficiencies.
+title: Arbitrage (Algo Trading)
 ---
 
 Arbitrage is a trading strategy that leverages price discrepancies of the same asset across different markets. By simultaneously buying and selling an asset at differing prices, traders can secure a profit from these cost variations. This strategy becomes highly effective in the fast-paced financial markets where these price differences manifest and fade within seconds. Algorithmic trading, which uses pre-programmed codes and algorithms to execute trades at optimal speeds, has become an indispensable tool for modern arbitrage strategies. It ensures precision and speed, crucial for capitalizing on these transient opportunities.

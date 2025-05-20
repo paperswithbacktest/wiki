@@ -1,7 +1,8 @@
 ---
-title: Ensuring Trustworthy Machine Learning Through Confidence Calibration
+category: quant_concept
 description: Confidence calibration helps machine learning models produce reliable
   predictions by aligning model certainty with actual results Discover more inside
+title: Ensuring Trustworthy Machine Learning Through Confidence Calibration
 ---
 
 ![Image](images/1.png)

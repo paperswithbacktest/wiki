@@ -1,6 +1,12 @@
 ---
-title: "Bonds (Algo Trading)"
-description: "Explore the dynamic intersection of bonds and algorithmic trading and uncover how technology is reshaping fixed income markets. Discover the role of bonds in portfolio diversification and stability, and learn about the transformative potential of algorithmic trading in enhancing market accessibility, transparency, and efficiency. Understand the challenges and innovations driving the automation of trading practices in this evolving financial landscape."
+category: quant_concept
+description: Explore the dynamic intersection of bonds and algorithmic trading and
+  uncover how technology is reshaping fixed income markets. Discover the role of bonds
+  in portfolio diversification and stability, and learn about the transformative potential
+  of algorithmic trading in enhancing market accessibility, transparency, and efficiency.
+  Understand the challenges and innovations driving the automation of trading practices
+  in this evolving financial landscape.
+title: Bonds (Algo Trading)
 ---
 
 In the evolving landscape of financial markets, bonds and fixed income securities play a crucial role as stable, long-term investment vehicles. These financial instruments serve as essential components in diversifying portfolios, providing predictable income streams, and mitigating risk during volatile periods. Fixed income securities encompass various types of debt instruments, including government and corporate bonds, each with distinct characteristics and benefits.

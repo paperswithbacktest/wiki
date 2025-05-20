@@ -1,7 +1,8 @@
 ---
-title: Understanding Topic Embeddings in Machine Learning Workflows
+category: quant_concept
 description: Topic embeddings represent themes in text as numerical vectors to improve
   classification retrieval and recommendations Discover more inside
+title: Understanding Topic Embeddings in Machine Learning Workflows
 ---
 
 ![Image](images/1.webp)

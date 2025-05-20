@@ -1,6 +1,8 @@
 ---
-title: "30-Year Treasury Bond: History and Examples (Algo Trading)"
-description: "Explore the impact of 30-Year Treasury Bonds on global finance and algorithmic trading Discover how these bonds shape interest rates and economic forecasts"
+category: quant_concept
+description: Explore the impact of 30-Year Treasury Bonds on global finance and algorithmic
+  trading Discover how these bonds shape interest rates and economic forecasts
+title: '30-Year Treasury Bond: History and Examples (Algo Trading)'
 ---
 
 30-Year Treasury Bonds are a cornerstone of the global financial system, serving as a vital tool for both government financing and economic forecasting. These bonds, with their long maturity and backed by the full faith and credit of the U.S. government, provide a benchmark for long-term interest rates, influencing borrowing costs and investment decisions across various sectors. Their significance is underscored by their role in setting the yield curve, a critical indicator of economic health.

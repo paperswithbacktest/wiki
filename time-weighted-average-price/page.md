@@ -1,6 +1,13 @@
 ---
-title: "Time-weighted average price (Algo Trading)"
-description: Discover how Time-Weighted Average Price (TWAP) plays a vital role in algorithmic trading by facilitating strategic trade execution over time. Ideal for institutional and high-frequency traders, TWAP helps minimize market impact by distributing large orders evenly across specific timeframes, ensuring trades align closely with true market value. Understand the differences between TWAP and strategies like Volume-Weighted Average Price (VWAP), and learn how to calculate TWAP to enhance trading performance, maintain market equilibrium, and improve strategic financial decisions.
+category: quant_concept
+description: Discover how Time-Weighted Average Price (TWAP) plays a vital role in
+  algorithmic trading by facilitating strategic trade execution over time. Ideal for
+  institutional and high-frequency traders, TWAP helps minimize market impact by distributing
+  large orders evenly across specific timeframes, ensuring trades align closely with
+  true market value. Understand the differences between TWAP and strategies like Volume-Weighted
+  Average Price (VWAP), and learn how to calculate TWAP to enhance trading performance,
+  maintain market equilibrium, and improve strategic financial decisions.
+title: Time-weighted average price (Algo Trading)
 ---
 
 In the world of finance and algorithmic trading, accurately assessing the price of a security over time is crucial. One tool that traders use to achieve this is the Time-Weighted Average Price (TWAP). TWAP is a method that provides a more controlled and strategic approach to executing large trade orders by spreading them evenly over a specified period. This mitigates the risk of significant market disruption and helps in achieving a trade price that closely aligns with the security's true market value.

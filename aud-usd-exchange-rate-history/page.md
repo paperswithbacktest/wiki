@@ -1,6 +1,9 @@
 ---
-title: "AUD/USD Exchange Rate History (Algo Trading)"
-description: "Discover how algorithmic trading transforms forex by optimizing AUD/USD strategies with speed and efficiency while leveraging economic insights for better decisions."
+category: dataset
+description: Discover how algorithmic trading transforms forex by optimizing AUD/USD
+  strategies with speed and efficiency while leveraging economic insights for better
+  decisions.
+title: AUD/USD Exchange Rate History (Algo Trading)
 ---
 
 The AUD/USD currency pair, representing the exchange rate between the Australian Dollar (AUD) and the United States Dollar (USD), is a major pair in the forex market. It is widely traded due to the economic significance of both nations and their global economic connections. Factors such as commodity price fluctuations, interest rate differentials, and macroeconomic indicators drive the pair's exchange rate, making it a focal point for traders and analysts in the forex market. Australia's economy, bolstered by vast natural resources, is significantly affected by commodity prices, particularly metals and agriculture, which influences the AUD's valuation. Conversely, the USD's value is affected by the broader economic landscape of the United States, the world's largest economy. Consequently, the AUD/USD pair attracts substantial trading volumes, providing liquidity and volatility that appeal to forex traders.

@@ -1,6 +1,9 @@
 ---
-title: "Fair Funds for Investors: Implications and Mechanisms (Algo Trading)"
-description: "Explore how Fair Funds provide restitution to investors impacted by fraud and the role of algorithmic trading in today's financial markets within regulatory frameworks."
+category: quant_concept
+description: Explore how Fair Funds provide restitution to investors impacted by fraud
+  and the role of algorithmic trading in today's financial markets within regulatory
+  frameworks.
+title: 'Fair Funds for Investors: Implications and Mechanisms (Algo Trading)'
 ---
 
 Investor protection and fair play are critical components in the financial markets. The enactment of the Sarbanes-Oxley Act in 2002 introduced Fair Funds as a significant measure to safeguard investors who are victims of securities fraud. These funds are an essential tool in offering restitution to investors who have incurred losses due to fraudulent activities in financial markets. By redirecting monetary penalties from financial wrongdoers to affected investors, Fair Funds provide a means of compensating the victims of securities violations more directly.

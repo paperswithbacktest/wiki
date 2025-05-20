@@ -1,6 +1,11 @@
 ---
-title: "Cash Management (Algo Trading)"
-description: "Explore the dynamic synergy of cash management and algorithmic trading in modern finance. Delve into how strategic cash and financial management, effective liquidity control, and cutting-edge algorithmic trading techniques are vital in optimizing financial operations and ensuring stability. Gain insights into leveraging these critical components for financial growth and competitive advantage."
+category: quant_concept
+description: Explore the dynamic synergy of cash management and algorithmic trading
+  in modern finance. Delve into how strategic cash and financial management, effective
+  liquidity control, and cutting-edge algorithmic trading techniques are vital in
+  optimizing financial operations and ensuring stability. Gain insights into leveraging
+  these critical components for financial growth and competitive advantage.
+title: Cash Management (Algo Trading)
 ---
 
 The dynamic field of finance is characterized by constant evolution, driven by advancements in technology, regulatory changes, and market dynamics. Among the core areas of focus are cash management, financial management, liquidity control, and algorithmic trading. These components collectively shape modern trading and financial operations, influencing how businesses and individuals manage their finances. 

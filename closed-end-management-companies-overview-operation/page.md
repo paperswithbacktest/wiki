@@ -1,6 +1,9 @@
 ---
-title: "Closed-End Management Companies: Overview and Operation (Algo Trading)"
-description: "Discover the unique benefits and operational mechanisms of closed-end management companies and explore how algorithmic trading impacts fund strategies today."
+category: quant_concept
+description: Discover the unique benefits and operational mechanisms of closed-end
+  management companies and explore how algorithmic trading impacts fund strategies
+  today.
+title: 'Closed-End Management Companies: Overview and Operation (Algo Trading)'
 ---
 
 Investing in modern financial markets offers a plethora of opportunities for both individual and institutional investors. Among these opportunities, investment funds, particularly closed-end funds, provide distinct benefits and potential risks that differentiate them from other investment vehicles. Closed-end funds are managed differently than their open-end counterparts, as they issue a fixed number of shares through an initial public offering (IPO) and are then traded on stock exchanges, allowing investors to buy and sell shares at market prices. This fixed capital structure permits the adoption of unique investment strategies, often income-focused, that can align with the specific objectives of investors.

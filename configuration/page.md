@@ -1,7 +1,8 @@
 ---
-title: Optimizing Machine Learning Configuration for Optimal Performance
+category: quant_concept
 description: Machine learning configuration defines hyperparameters to boost model
   accuracy and efficiency and supports reproducible experiments Discover more inside
+title: Optimizing Machine Learning Configuration for Optimal Performance
 ---
 
 ![Image](images/1.png)

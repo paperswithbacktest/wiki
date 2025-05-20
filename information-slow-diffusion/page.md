@@ -1,6 +1,12 @@
 ---
-title: "Information (slow diffusion) (Algo Trading)"
-description: Explore the complexities of slow information diffusion in algorithmic trading and its impact on market efficiency and trading strategies. Learn how slow data dissemination affects price discovery and creates trading opportunities by delving into the technical, human, and economic factors that contribute to this phenomenon. Discover adaptive strategies and cutting-edge technologies that can help traders capitalize on market inefficiencies caused by slow information incorporation.
+category: quant_concept
+description: Explore the complexities of slow information diffusion in algorithmic
+  trading and its impact on market efficiency and trading strategies. Learn how slow
+  data dissemination affects price discovery and creates trading opportunities by
+  delving into the technical, human, and economic factors that contribute to this
+  phenomenon. Discover adaptive strategies and cutting-edge technologies that can
+  help traders capitalize on market inefficiencies caused by slow information incorporation.
+title: Information (slow diffusion) (Algo Trading)
 ---
 
 Algorithmic trading has transformed the landscape of financial markets by providing unparalleled speed and efficiency in executing trades. At the heart of this transformation is the concept of information diffusion, which describes the rate and breadth at which new data permeates the market and is reflected in asset prices. In financial markets, the efficient dissemination and incorporation of information are paramount as they provide the foundation for price discovery and market transparency.

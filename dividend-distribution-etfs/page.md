@@ -1,6 +1,8 @@
 ---
-title: "Dividend Distribution by ETFs (Algo Trading)"
-description: "Explore dividend distribution by ETFs and how they intersect with algo trading for informed investment strategies offering growth and steady income."
+category: trading_strategy
+description: Explore dividend distribution by ETFs and how they intersect with algo
+  trading for informed investment strategies offering growth and steady income.
+title: Dividend Distribution by ETFs (Algo Trading)
 ---
 
 Investment strategies in today's financial landscape are diverse, encompassing approaches like Exchange-Traded Funds (ETFs), stock dividends, and various investment funds. These strategies cater to different investor needs and risk appetites. ETFs, for instance, offer a practical way to gain exposure to a diversified portfolio, often tracking a specific index. They combine the benefits of mutual funds with the liquidity of stocks, making them a popular choice for both retail and institutional investors. Stock dividends, on the other hand, provide a passive income stream, rewarding shareholders with a portion of the company's profits, typically paid quarterly. This strategy appeals to those seeking regular income alongside capital appreciation.

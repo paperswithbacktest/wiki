@@ -1,6 +1,8 @@
 ---
-title: "Comparison of Old and New Economy Stocks (Algo Trading)"
-description: "Explore the fundamental differences between old and new economy stocks, and discover how algorithmic trading enhances investment strategies and decision-making."
+category: quant_concept
+description: Explore the fundamental differences between old and new economy stocks,
+  and discover how algorithmic trading enhances investment strategies and decision-making.
+title: Comparison of Old and New Economy Stocks (Algo Trading)
 ---
 
 In the rapidly evolving world of finance and investing, the delineation between old economy and new economy stocks represents a fundamental shift in market dynamics. Old economy stocks pertain to established industries such as manufacturing, automotive, and consumer goods, which have traditionally been recognized for their stability and consistent dividend payouts. These stocks have been regarded as reliable investments, favored by those who value steady returns and lower volatility. Understanding the differences between these two types of stocks is crucial for investors seeking to optimize their portfolios.

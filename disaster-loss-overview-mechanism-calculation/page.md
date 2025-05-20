@@ -1,6 +1,9 @@
 ---
-title: "Disaster Loss: Overview, Mechanism, and Calculation (Algo Trading)"
-description: "Explore the intersection of disaster management and algorithmic trading to optimize risk management and financial recovery strategies after catastrophic events."
+category: quant_concept
+description: Explore the intersection of disaster management and algorithmic trading
+  to optimize risk management and financial recovery strategies after catastrophic
+  events.
+title: 'Disaster Loss: Overview, Mechanism, and Calculation (Algo Trading)'
 ---
 
 The complexities of modern-day challenges often require innovative solutions. Disaster management, loss calculation, and algorithmic trading represent three distinct domains that, when integrated, can provide effective strategies for managing risks and financial losses. Understanding how these areas interconnect offers unique insights into optimizing recovery efforts and financial operations.

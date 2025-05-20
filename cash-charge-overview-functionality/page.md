@@ -1,6 +1,8 @@
 ---
-title: "Cash Charge: Overview and Functionality (Algo Trading)"
-description: "Explore the role of cash charges and algorithmic trading in modern finance Understand their impact on liquidity and profitability with strategic insights"
+category: trading_strategy
+description: Explore the role of cash charges and algorithmic trading in modern finance
+  Understand their impact on liquidity and profitability with strategic insights
+title: 'Cash Charge: Overview and Functionality (Algo Trading)'
 ---
 
 In today's financial markets, the landscape has evolved with the incorporation of sophisticated transactions and trading strategies. Rapid advancements in technology and an increasingly complex global economic environment have driven this evolution, reshaping how financial activities are conducted. Market participants, ranging from large institutional traders to individual investors, are navigating a dynamic environment characterized by electronic trading and data-driven decision-making.

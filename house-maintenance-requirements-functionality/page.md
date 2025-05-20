@@ -1,6 +1,12 @@
 ---
-title: "House Maintenance Requirements and Functionality (Algo Trading)"
-description: "Explore the intriguing parallels between home maintenance and algorithmic trading through preventative strategies and proactive management. Discover how regular property care enhances value and protects investments, akin to the systematic oversight in algo trading that optimizes financial growth and stability. Recognize the interconnected insights applicable to both realms, ensuring longevity for your home and financial assets."
+category: quant_concept
+description: Explore the intriguing parallels between home maintenance and algorithmic
+  trading through preventative strategies and proactive management. Discover how regular
+  property care enhances value and protects investments, akin to the systematic oversight
+  in algo trading that optimizes financial growth and stability. Recognize the interconnected
+  insights applicable to both realms, ensuring longevity for your home and financial
+  assets.
+title: House Maintenance Requirements and Functionality (Algo Trading)
 ---
 
 Maintaining your home and properties is essential to safeguard and enhance their value. This is not merely about the aesthetics or the immediate comfort it brings but is a critical component of ensuring the longevity and soundness of your investment. Home upkeep, house maintenance, and property care serve as the foundation for protecting what is often considered a person's most significant financial asset. 

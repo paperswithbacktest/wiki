@@ -1,6 +1,8 @@
 ---
-title: "Decentralized Finance (DeFi) Trading Models (Algo Trading)"
-description: "Explore the innovative world of DeFi trading models and algorithmic trading strategies that are reshaping the financial sector with blockchain technology."
+category: trading_strategy
+description: Explore the innovative world of DeFi trading models and algorithmic trading
+  strategies that are reshaping the financial sector with blockchain technology.
+title: Decentralized Finance (DeFi) Trading Models (Algo Trading)
 ---
 
 Decentralized Finance (DeFi) represents a paradigm shift in the financial industry, challenging and transforming traditional finance models by leveraging blockchain technology. DeFi aims to eliminate intermediaries, offering financial services—such as lending, borrowing, and trading—through decentralized platforms, thereby increasing accessibility, transparency, and efficiency. It democratizes access to financial services, enabling individuals worldwide to participate without reliance on traditional banking infrastructures.

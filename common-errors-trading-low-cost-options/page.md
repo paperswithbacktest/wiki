@@ -1,6 +1,8 @@
 ---
-title: "Common Errors in Trading Low-Cost Options (Algo Trading)"
-description: "Discover common pitfalls in low-cost options trading and how to avoid them to optimize returns and manage risk effectively using algorithmic strategies."
+category: trading_strategy
+description: Discover common pitfalls in low-cost options trading and how to avoid
+  them to optimize returns and manage risk effectively using algorithmic strategies.
+title: Common Errors in Trading Low-Cost Options (Algo Trading)
 ---
 
 Options trading is a sophisticated financial strategy that, when executed properly, can provide significant opportunities for investors. It involves buying and selling options contracts, which are financial derivatives that confer the right, but not the obligation, to buy or sell an underlying asset at a specified price before a certain expiration date. The allure of options trading lies in its potential for high returns, leveraging small amounts of capital, and its utility for hedging against market risks.

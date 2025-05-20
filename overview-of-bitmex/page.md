@@ -1,6 +1,8 @@
 ---
-title: "Overview of BitMEX (Algo Trading)"
-description: "Explore BitMEX's advanced algorithmic trading features for cryptocurrency. Discover tools for portfolio management, swift trades, and maximizing returns efficiently."
+category: trading_strategy
+description: Explore BitMEX's advanced algorithmic trading features for cryptocurrency.
+  Discover tools for portfolio management, swift trades, and maximizing returns efficiently.
+title: Overview of BitMEX (Algo Trading)
 ---
 
 Cryptocurrency trading is undergoing a dynamic transformation, spearheaded by platforms like BitMEX, which has established itself as a major player in derivatives and advanced trading solutions. As the crypto market continues to grow, traders are constantly on the lookout for more efficient methods to manage their portfolios and maximize profits. One of the pivotal developments in this sector has been the advent of automated trading, commonly known as algorithmic or algo trading.

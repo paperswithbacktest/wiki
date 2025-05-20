@@ -1,7 +1,8 @@
 ---
-title: Understanding Top-K Accuracy in Machine Learning Models
+category: quant_concept
 description: Top-K Accuracy offers a flexible way to assess model predictions by checking
   if correct labels appear in the top K results Discover more inside.
+title: Understanding Top-K Accuracy in Machine Learning Models
 ---
 
 ![Image](images/1.png)

@@ -1,6 +1,9 @@
 ---
-title: "Comparison of Technical and Fundamental Analysis (Algo Trading)"
-description: "This page explores investment strategies including fundamental analysis technical analysis and algorithmic trading highlighting techniques benefits and investor applications"
+category: trading_strategy
+description: This page explores investment strategies including fundamental analysis
+  technical analysis and algorithmic trading highlighting techniques benefits and
+  investor applications
+title: Comparison of Technical and Fundamental Analysis (Algo Trading)
 ---
 
 Investment strategies serve as essential tools for navigating the intricate landscape of financial markets. These strategies provide a framework within which investors can make decisions to enhance the potential for returns while managing risks. This article aims to explore three prominent approaches to investment: fundamental analysis, technical analysis, and algorithmic trading. Each of these methodologies brings its own set of techniques, advantages, and applications tailored to different types of investors.

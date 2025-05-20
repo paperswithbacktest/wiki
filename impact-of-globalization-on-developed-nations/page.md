@@ -1,6 +1,8 @@
 ---
-title: "Impact of Globalization on Developed Nations (Algo Trading)"
-description: "Explore how globalization affects developed nations with a focus on economic growth and financial market evolution driven by algorithmic trading innovations."
+category: quant_concept
+description: Explore how globalization affects developed nations with a focus on economic
+  growth and financial market evolution driven by algorithmic trading innovations.
+title: Impact of Globalization on Developed Nations (Algo Trading)
 ---
 
 Globalization, defined as the process by which businesses or other organizations develop international influence or start operating on an international scale, has profoundly transformed the economic landscape over recent decades. This transformative process has been particularly influential in developed countries, integrating economies, influencing financial markets, and fostering technological advancement.

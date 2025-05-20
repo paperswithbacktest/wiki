@@ -1,6 +1,13 @@
 ---
-title: "Financial data vendor (Algo Trading)"
-description: Discover the critical role financial data vendors play in the trading world, supplying essential market data, news, and analytics to traders and financial institutions. With a profound impact on algorithmic trading, these vendors ensure access to accurate, real-time data that fuels decision-making and strategy development. Explore the industry's evolution, major players, and data types vital to modern trading practices, while understanding the importance of choosing a reliable vendor to succeed in today’s fast-paced financial markets.
+category: dataset
+description: Discover the critical role financial data vendors play in the trading
+  world, supplying essential market data, news, and analytics to traders and financial
+  institutions. With a profound impact on algorithmic trading, these vendors ensure
+  access to accurate, real-time data that fuels decision-making and strategy development.
+  Explore the industry's evolution, major players, and data types vital to modern
+  trading practices, while understanding the importance of choosing a reliable vendor
+  to succeed in today’s fast-paced financial markets.
+title: Financial data vendor (Algo Trading)
 ---
 
 Financial data vendors are essential service providers that supply financial institutions, traders, and analysts with critical market data, news, analytics, and other relevant information required for making informed trading decisions. They serve as intermediaries, aggregating data from various sources such as stock exchanges, forex platforms, and financial news agencies. By doing so, they ensure that traders and investors receive comprehensive and actionable insights in real-time, which is crucial for decision-making and strategy development in financial markets.

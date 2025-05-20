@@ -1,6 +1,8 @@
 ---
-title: "EV/Ebitda (Algo Trading)"
-description: "Explore the significance of the EV/EBITDA ratio in algorithmic trading for assessing company valuation and operational efficiency quickly and effectively."
+category: trading_strategy
+description: Explore the significance of the EV/EBITDA ratio in algorithmic trading
+  for assessing company valuation and operational efficiency quickly and effectively.
+title: EV/Ebitda (Algo Trading)
 ---
 
 The EV/EBITDA ratio has emerged as a significant tool in the realm of algorithmic trading, offering traders insights into a company’s valuation and operational efficiency. As a financial metric, EV/EBITDA evaluates a firm's enterprise value against its earnings before interest, taxes, depreciation, and amortization. This ratio serves as an indicator of how much a company is valued per unit of operational cash flow.
@@ -218,4 +220,3 @@ Ultimately, the continued evolution and application of the EV/EBITDA ratio reass
 9. *The CFA Institute Research Foundation*. This portal offers various research papers and insights that are instrumental for finance professionals focused on advanced valuation techniques.
 
 10. Morningstar, Inc. The company’s website offers numerous resources on company analysis, investor education, and insights into valuation metrics, including detailed industry reports utilizing EV/EBITDA analysis.
-

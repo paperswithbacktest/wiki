@@ -1,6 +1,8 @@
 ---
-title: "Absolute Percentage Growth: Explanation and Functionality (Algo Trading)"
-description: "Discover the essential role of absolute percentage growth in algorithmic trading Explore how this key financial metric boosts investment strategy performance"
+category: quant_concept
+description: Discover the essential role of absolute percentage growth in algorithmic
+  trading Explore how this key financial metric boosts investment strategy performance
+title: 'Absolute Percentage Growth: Explanation and Functionality (Algo Trading)'
 ---
 
 Algorithmic trading, often referred to as algo trading, represents a significant advancement in the integration of technology with investment strategies. It involves the use of complex algorithms and automated programs to execute trades in financial markets, based on pre-defined criteria. This integration allows traders to process a large amount of market data quickly, thereby enhancing trading efficiency and effectiveness.
@@ -279,4 +281,3 @@ Quantitative Trading: How to Build Your Own Algorithmic Trading Business by Erne
 The Sharpe Ratio by W. F. Sharpe is an authoritative text on one of the most widely used metrics for risk-adjusted return. The book explains the mathematical foundation of the Sharpe Ratio and discusses its applications, strengths, and limitations in evaluating investment performance.
 
 Downside Risk by F. A. Sortino & R. Van der Meer introduces the Sortino Ratio, an alternative to the Sharpe Ratio that focuses on downside risk. The book provides a thorough examination of downside risk metrics and their importance in constructing portfolios that align with investor risk preferences.
-

@@ -1,6 +1,9 @@
 ---
-title: "Survivorship Bias in Investing (Algo Trading)"
-description: "Survivorship bias in investing and algo trading can skew performance analyses by ignoring failed entities skewing results and potentially leading to flawed strategies."
+category: quant_concept
+description: Survivorship bias in investing and algo trading can skew performance
+  analyses by ignoring failed entities skewing results and potentially leading to
+  flawed strategies.
+title: Survivorship Bias in Investing (Algo Trading)
 ---
 
 Survivorship bias is a logical error that occurs when researchers or analysts only consider the successful cases while ignoring the failures. This bias can lead to misleading conclusions as it overlooks the full dataset. In financial analysis and investing, survivorship bias can skew the perceived performance of mutual funds, stocks, or investment strategies by focusing solely on entities that have survived over a given time period while excluding those that have failed or been delisted. This often results in overstated performance metrics and a distorted view of risk and return.

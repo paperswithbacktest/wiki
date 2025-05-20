@@ -1,6 +1,8 @@
 ---
-title: "Comparison of Layer 1 and Layer 2 Blockchain Scaling Solutions (Algo Trading)"
-description: "Explore the differences between Layer 1 and Layer 2 blockchain solutions to understand how they address scalability challenges and enhance algo trading efficiency."
+category: quant_concept
+description: Explore the differences between Layer 1 and Layer 2 blockchain solutions
+  to understand how they address scalability challenges and enhance algo trading efficiency.
+title: Comparison of Layer 1 and Layer 2 Blockchain Scaling Solutions (Algo Trading)
 ---
 
 In blockchain technology, scalability is an essential factor that influences the capability of networks to manage heightened transaction volumes. As the demand for blockchain-based solutions intensifies, so too does the necessity for mechanisms that can process a growing number of transactions with speed and precision. Two key strategies that have become forefront approaches to these challenges are known as Layer 1 and Layer 2 scaling solutions. Layer 1 solutions involve modifications to the actual blockchain protocol, such as adjustments to block size and updates to consensus mechanisms, which aim to improve the fundamental processing capabilities of the network. Layer 2 solutions, on the other hand, typically involve off-chain methods such as rollups and side chains, designed to work atop the existing blockchain infrastructure for enhanced scalability.

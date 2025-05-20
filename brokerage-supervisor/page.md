@@ -1,6 +1,8 @@
 ---
-title: "Brokerage Supervisor (Algo Trading)"
-description: "Discover the evolving roles of brokerage supervisors and brokers in finance as they adapt to technological advancements in algorithmic trading for market efficiency."
+category: quant_concept
+description: Discover the evolving roles of brokerage supervisors and brokers in finance
+  as they adapt to technological advancements in algorithmic trading for market efficiency.
+title: Brokerage Supervisor (Algo Trading)
 ---
 
 In the evolving landscape of finance, the roles of supervisors and brokers are being redefined by technological advancements. The financial sector is witnessing a transformative shift, primarily driven by the rapid adoption of digital technologies and innovative trading methodologies. Among these innovations, algorithmic trading stands out as a significant development, reshaping how financial transactions are executed and managed.

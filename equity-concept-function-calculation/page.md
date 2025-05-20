@@ -1,6 +1,8 @@
 ---
-title: "Equity: Concept, Function, and Calculation (Algo Trading)"
-description: "Discover the core of equity's role in finance, from shareholder equity to algorithmic trading. Learn its calculation essential for financial insights."
+category: quant_concept
+description: Discover the core of equity's role in finance, from shareholder equity
+  to algorithmic trading. Learn its calculation essential for financial insights.
+title: 'Equity: Concept, Function, and Calculation (Algo Trading)'
 ---
 
 Understanding financial equity is crucial for investors and companies alike as it provides insight into the financial health and valuation of a business. Equity is the value that would be returned to a company’s shareholders if all the assets were liquidated and the company’s debts were paid off. This metric offers a snapshot of the company’s financial position, influencing both investment decisions and the strategic management of business resources.

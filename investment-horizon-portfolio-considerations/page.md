@@ -1,6 +1,8 @@
 ---
-title: "Investment Horizon and Portfolio Considerations (Algo Trading)"
-description: "Discover the essentials of investment horizon and algorithmic trading and their impact on portfolio management. Learn to optimize strategy effectively."
+category: trading_strategy
+description: Discover the essentials of investment horizon and algorithmic trading
+  and their impact on portfolio management. Learn to optimize strategy effectively.
+title: Investment Horizon and Portfolio Considerations (Algo Trading)
 ---
 
 The contemporary investment landscape is characterized by a rapid evolution driven by numerous strategies and technological advancements. Central to the art of successful investing is comprehending the concept of the investment horizon, which serves as a guiding framework for decision-making across an investor's portfolio. This article investigates key components of modern investing: investment horizon, investment strategy, portfolio management, and algorithmic trading.

@@ -1,6 +1,9 @@
 ---
-title: "Consumer Cyclicals and Noncyclicals: Overview and Examples (Algo Trading)"
-description: "Explore how consumer cyclicals and noncyclicals respond to economic cycles Discover algorithmic trading strategies to optimize your investment portfolio in these sectors"
+category: quant_concept
+description: Explore how consumer cyclicals and noncyclicals respond to economic cycles
+  Discover algorithmic trading strategies to optimize your investment portfolio in
+  these sectors
+title: 'Consumer Cyclicals and Noncyclicals: Overview and Examples (Algo Trading)'
 ---
 
 Cyclical and noncyclical sectors are fundamental components of an economy, each responding differently to economic cycles. Cyclical sectors, often known as consumer cyclicals, include industries whose performance is closely tied to the economic conditions. These sectors generally thrive during periods of economic expansion and suffer during downturns. Examples include industries such as automotive, housing, and luxury goods, where consumer spending is discretionary and influenced by their confidence and economic health.

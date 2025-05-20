@@ -1,6 +1,10 @@
 ---
-title: "AGI (Artificial General Intelligence) (Algo Trading)"
-description: Discover how Artificial General Intelligence (AGI), capable of human-like intelligence, is revolutionizing algorithmic trading. Learn about its benefits, challenges, and potential impact on the future of trading. Read more for resources on trading strategies, libraries, datasets, and becoming a quant trader.
+category: quant_concept
+description: Discover how Artificial General Intelligence (AGI), capable of human-like
+  intelligence, is revolutionizing algorithmic trading. Learn about its benefits,
+  challenges, and potential impact on the future of trading. Read more for resources
+  on trading strategies, libraries, datasets, and becoming a quant trader.
+title: AGI (Artificial General Intelligence) (Algo Trading)
 ---
 
 Artificial General Intelligence (AGI) represents a form of artificial intelligence with the cognitive capabilities comparable to humans. Unlike Artificial Narrow Intelligence (ANI), which is designed for specific tasks, AGI aims to perform any intellectual task with the same proficiency as a human being. The significance of AGI lies in its potential to understand, learn, and apply knowledge across a vast range of disciplines, which could reshape industries fundamentally.

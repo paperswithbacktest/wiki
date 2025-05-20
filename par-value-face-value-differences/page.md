@@ -1,6 +1,8 @@
 ---
-title: "Par Value and Face Value: Differences (Algo Trading)"
-description: "Explore the distinctions between par value and face value in finance and discover how algorithmic trading reshapes investment strategies and risk assessments."
+category: quant_concept
+description: Explore the distinctions between par value and face value in finance
+  and discover how algorithmic trading reshapes investment strategies and risk assessments.
+title: 'Par Value and Face Value: Differences (Algo Trading)'
 ---
 
 Understanding financial terminology is crucial for investors and traders alike, especially when navigating complex markets. Financial concepts such as face value, par value, and algorithmic trading are integral to shaping investment and trading strategies, significantly affecting decision-making processes and risk assessment. This article provides insights into what these terms mean, their applications in the financial world, and their interrelations.

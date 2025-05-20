@@ -1,6 +1,8 @@
 ---
-title: "At-or-Better Concept (Algo Trading)"
-description: "Explore the 'at-or-better' order in algorithmic trading where trades execute at a specified price or better offering enhanced control and strategic execution."
+category: quant_concept
+description: Explore the 'at-or-better' order in algorithmic trading where trades
+  execute at a specified price or better offering enhanced control and strategic execution.
+title: At-or-Better Concept (Algo Trading)
 ---
 
 The advent of algorithmic trading has fundamentally transformed the execution of trades in modern financial markets. Algorithmic trading involves the use of complex algorithms to automate trading strategies, enabling high-speed and high-frequency trade executions that were not possible with manual trading methods. This transformation has brought about significant changes in trading dynamics, where speed, accuracy, and strategic precision are paramount.

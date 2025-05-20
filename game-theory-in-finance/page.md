@@ -1,6 +1,9 @@
 ---
-title: "Game theory in finance (Algo Trading)"
-description: "Uncover how game theory revolutionizes algorithmic trading by enhancing strategic decision-making in competitive markets, optimizing trading strategies for success."
+category: quant_concept
+description: Uncover how game theory revolutionizes algorithmic trading by enhancing
+  strategic decision-making in competitive markets, optimizing trading strategies
+  for success.
+title: Game theory in finance (Algo Trading)
 ---
 
 The integration of game theory into finance, particularly in algorithmic trading, is shaping a transformative approach to decision-making within financial markets. At its core, game theory offers a robust mathematical framework designed for analyzing and predicting strategic interactions among rational agents, which, in this context, are competitive traders and sophisticated trading algorithms. By leveraging game-theoretical principles, market participants can better anticipate and respond to the actions of others in the marketplace, thus optimizing their trading strategies.

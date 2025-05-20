@@ -1,6 +1,10 @@
 ---
-title: "Liabilities in Accounting (Algo Trading)"
-description: "Explore the crucial role of financial responsibilities, accounting obligations, and liabilities in the complex financial landscape, and understand how algorithmic trading impacts them. Learn about strategic financial management and compliance to drive business success while navigating modern financial challenges."
+category: quant_concept
+description: Explore the crucial role of financial responsibilities, accounting obligations,
+  and liabilities in the complex financial landscape, and understand how algorithmic
+  trading impacts them. Learn about strategic financial management and compliance
+  to drive business success while navigating modern financial challenges.
+title: Liabilities in Accounting (Algo Trading)
 ---
 
 In the modern financial ecosystem, the interplay between financial responsibilities, accounting obligations, liabilities, and algorithmic trading is more significant than ever. The rapid advancement of technology and the increasingly complex global market dynamics have transformed the landscape, making these elements integral to efficient financial management and strategic planning. Financial responsibilities, along with accounting obligations, form the cornerstone of sound financial practices, ensuring that businesses and individuals manage their resources efficiently and maintain transparency and compliance with regulatory standards.

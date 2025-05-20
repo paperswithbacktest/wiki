@@ -1,6 +1,9 @@
 ---
-title: "Bear Stearns Acquisition by JPMorgan Chase During the 2008 Financial Crisis (Algo Trading)"
-description: "Explore the pivotal 2008 financial crisis that led to Bear Stearns' acquisition by JPMorgan Chase, examining the impacts of algorithmic trading on market dynamics."
+category: quant_concept
+description: Explore the pivotal 2008 financial crisis that led to Bear Stearns' acquisition
+  by JPMorgan Chase, examining the impacts of algorithmic trading on market dynamics.
+title: Bear Stearns Acquisition by JPMorgan Chase During the 2008 Financial Crisis
+  (Algo Trading)
 ---
 
 The 2008 financial crisis marked a pivotal moment in global economic history, leading to widespread economic turmoil and reshaping the financial landscape. Among the early and most notable casualties of this crisis was Bear Stearns, a leading investment bank that epitomized the vulnerabilities within the financial system. Bear Stearns' collapse not only signified the frailty of financial institutions during times of economic stress but also highlighted the systemic risks posed by the interconnectedness of global financial markets.

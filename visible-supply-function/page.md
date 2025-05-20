@@ -1,6 +1,9 @@
 ---
-title: "Visible Supply and Its Function (Algo Trading)"
-description: "Explore how visible supply metrics and economic indicators shape algorithmic trading strategies This article investigates into market analysis and its impact on trading success"
+category: trading_strategy
+description: Explore how visible supply metrics and economic indicators shape algorithmic
+  trading strategies This article investigates into market analysis and its impact
+  on trading success
+title: Visible Supply and Its Function (Algo Trading)
 ---
 
 In today's dynamic financial markets, the integration of economic indicators, market analysis, and visible supply metrics plays a pivotal role in shaping trading strategies and improving outcomes. Economic indicators, such as GDP growth rates, employment figures, and inflation levels, serve as barometers for assessing the economic health and future expectations of a country. These indicators support investors and traders in making informed decisions, directly affecting asset valuations across financial markets.

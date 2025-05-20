@@ -1,6 +1,9 @@
 ---
-title: "Michael Lewis - American Author (Algo Trading)"
-description: "Explore Michael Lewis's insightful take on algorithmic trading in 'Flash Boys' and his unique ability to unravel the complexities of high-frequency trading practices."
+category: quant_concept
+description: Explore Michael Lewis's insightful take on algorithmic trading in 'Flash
+  Boys' and his unique ability to unravel the complexities of high-frequency trading
+  practices.
+title: Michael Lewis - American Author (Algo Trading)
 ---
 
 Michael Lewis, a prominent figure in the world of literature and journalism, has garnered acclaim for his ability to demystify the intricate dynamics of finance. His repertoire includes influential works like 'Liar's Poker', 'Moneyball', and 'The Big Short', each of which has gained widespread recognition for its insightful analysis and engaging narrative. Among these, 'Flash Boys: A Wall Street Revolt' is particularly notable for its exploration of the world of algorithmic trading.

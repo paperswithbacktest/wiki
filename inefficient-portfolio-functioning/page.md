@@ -1,6 +1,9 @@
 ---
-title: "Inefficient Portfolio and Its Functioning (Algo Trading)"
-description: "Explore inefficient portfolios and their impact on returns and risk management in trading. Discover how algorithmic trading can optimize and enhance portfolio performance."
+category: trading_strategy
+description: Explore inefficient portfolios and their impact on returns and risk management
+  in trading. Discover how algorithmic trading can optimize and enhance portfolio
+  performance.
+title: Inefficient Portfolio and Its Functioning (Algo Trading)
 ---
 
 In today's dynamic investment landscape, effective portfolio management is crucial for maximizing returns while minimizing risk. Investors face numerous challenges, from volatile financial markets to unpredictable economic conditions, making it essential to construct portfolios that are both resilient and capable of delivering optimal performance. One significant obstacle investors encounter is the presence of inefficient portfolios, which can underperform due to poor asset allocation strategies and ineffective risk management. An inefficient portfolio fails to achieve the best possible returns for the level of risk undertaken, often due to issues such as inadequate diversification or failure to adapt to changing market environments.

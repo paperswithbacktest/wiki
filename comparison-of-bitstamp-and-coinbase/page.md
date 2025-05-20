@@ -1,6 +1,8 @@
 ---
-title: "Comparison of Bitstamp and Coinbase (Algo Trading)"
-description: "Explore the features of Coinbase and Bitstamp in algo trading. Uncover how these platforms cater to traders with automation and advanced strategies."
+category: trading_strategy
+description: Explore the features of Coinbase and Bitstamp in algo trading. Uncover
+  how these platforms cater to traders with automation and advanced strategies.
+title: Comparison of Bitstamp and Coinbase (Algo Trading)
 ---
 
 Cryptocurrency trading has emerged as a potent force in the financial world, driven by rapid technological advancements. Key to this evolution are platforms like Coinbase and Bitstamp, which stand as two of the world's leading cryptocurrency exchanges. Each platform offers its own set of unique benefits, appealing to a wide range of traders across the globe.

@@ -1,6 +1,12 @@
 ---
-title: "Markov models (hidden) (Algo Trading)"
-description: Explore the use of Hidden Markov Models (HMM) in algorithmic trading to boost strategy effectiveness. Understand how these models detect hidden market regimes to adapt strategies and improve risk-adjusted returns. Discover HMM's role in predicting market behaviors and applying them via trading platforms like QSTrader for real-time strategy enhancement. Delve into trading strategy development and risk management through regime identification using robust probabilistic models.
+category: quant_concept
+description: Explore the use of Hidden Markov Models (HMM) in algorithmic trading
+  to boost strategy effectiveness. Understand how these models detect hidden market
+  regimes to adapt strategies and improve risk-adjusted returns. Discover HMM's role
+  in predicting market behaviors and applying them via trading platforms like QSTrader
+  for real-time strategy enhancement. Delve into trading strategy development and
+  risk management through regime identification using robust probabilistic models.
+title: Markov models (hidden) (Algo Trading)
 ---
 
 In the fast-evolving world of algorithmic trading, understanding market dynamics is crucial for developing effective trading strategies. Algorithmic trading involves the use of advanced mathematical models and complex algorithms to make trading decisions at speeds and frequencies that are impossible for human traders. In this context, Hidden Markov Models (HMM) have emerged as a potent tool for uncovering latent patterns in financial data. These models are particularly effective because they are designed to work with systems where states are not directly observable, capturing underlying market conditions that drive observable price movements.

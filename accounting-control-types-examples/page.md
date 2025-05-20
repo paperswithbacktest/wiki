@@ -1,6 +1,9 @@
 ---
-title: "Accounting Control Types and Examples (Algo Trading)"
-description: "Explore the necessity of accounting controls in algorithmic trading to maintain data integrity and accuracy by using detective, preventive, and corrective measures."
+category: quant_concept
+description: Explore the necessity of accounting controls in algorithmic trading to
+  maintain data integrity and accuracy by using detective, preventive, and corrective
+  measures.
+title: Accounting Control Types and Examples (Algo Trading)
 ---
 
 In finance and business, accounting controls are essential for maintaining the integrity and accuracy of financial data. These controls are integral to a company's financial management, as they help mitigate risks associated with errors and fraud. Their significance extends beyond accounting departments and encompasses various sectors, including the high-stakes field of algorithmic trading, where precision is paramount.

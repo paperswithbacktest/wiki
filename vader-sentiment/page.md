@@ -1,6 +1,10 @@
 ---
-title: "VADER Sentiment Analysis (Algo Trading)"
-description: Explore the use of VADER Sentiment Analysis in algorithmic trading to interpret market sentiments from news and social media. Gain insights into how VADER's efficient sentiment scoring enhances trading strategies, providing a competitive edge by swiftly decoding emotional market trends.
+category: trading_strategy
+description: Explore the use of VADER Sentiment Analysis in algorithmic trading to
+  interpret market sentiments from news and social media. Gain insights into how VADER's
+  efficient sentiment scoring enhances trading strategies, providing a competitive
+  edge by swiftly decoding emotional market trends.
+title: VADER Sentiment Analysis (Algo Trading)
 ---
 
 In the world of finance and trading, the constant influx of news and social media updates plays a pivotal role in shaping market movements. Information reaches global audiences in seconds, and trading strategies must rapidly adapt to these speedy transmissions. Sentiment analysis tools such as VADER (Valence Aware Dictionary and sEntiment Reasoner) have emerged as valuable assets for algorithmic traders seeking to interpret the ever-evolving emotional undercurrents of the market. By gauging the sentiment expressed in textual data, traders can gain a strategic edge, positioning themselves ahead of potential market shifts driven by collective emotional reactions.

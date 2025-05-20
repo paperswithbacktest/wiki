@@ -1,6 +1,9 @@
 ---
-title: "Pay Czar (Algo Trading)"
-description: "Explore the origins and impact of executive pay regulation post-2008 crisis focusing on the Pay Czar's role in ensuring responsible compensation at firms with federal aid."
+category: quant_concept
+description: Explore the origins and impact of executive pay regulation post-2008
+  crisis focusing on the Pay Czar's role in ensuring responsible compensation at firms
+  with federal aid.
+title: Pay Czar (Algo Trading)
 ---
 
 The topic of executive pay regulation has gained prominence since the 2008 financial crisis. This global financial debacle highlighted the role of excessive risk-taking incentivized by unchecked executive compensation structures. In response to public outcry and economic necessity, regulatory mechanisms were introduced to mitigate systemic risks and restore confidence in the corporate governance of major financial institutions.

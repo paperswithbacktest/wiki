@@ -1,6 +1,8 @@
 ---
-title: "Trading Price-Time Priority (Algo Trading)"
-description: "Explore the principles of price-time priority in algorithmic trading and its influence on order execution, fairness, and transparency in financial markets."
+category: quant_concept
+description: Explore the principles of price-time priority in algorithmic trading
+  and its influence on order execution, fairness, and transparency in financial markets.
+title: Trading Price-Time Priority (Algo Trading)
 ---
 
 In today's fast-paced financial markets, where technology and automation have become essential, the principle of price-time priority is a key element in algorithmic trading and order execution. Price-time priority refers to the process by which orders are prioritized for execution in a trading environment, placing emphasis first on the price and then on the time the orders are submitted.

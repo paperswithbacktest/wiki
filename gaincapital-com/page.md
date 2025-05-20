@@ -1,6 +1,14 @@
 ---
-title: "GainCapital.com (Algo Trading)"
-description: Gaincapital-com specializes in providing advanced algorithmic trading platforms and APIs that enhance trading efficiency and precision for individual and institutional traders. With cutting-edge technology, Gaincapital-com offers robust tools for strategy development, real-time data analysis, and automated trade execution. Their user-friendly GAIN Trader platform and extensive API support make it easy for traders to integrate and execute complex trading strategies tailored to their needs. Gaincapital-com also offers educational resources and support, empowering traders with the knowledge to leverage their sophisticated trading systems effectively.
+category: quant_concept
+description: Gaincapital-com specializes in providing advanced algorithmic trading
+  platforms and APIs that enhance trading efficiency and precision for individual
+  and institutional traders. With cutting-edge technology, Gaincapital-com offers
+  robust tools for strategy development, real-time data analysis, and automated trade
+  execution. Their user-friendly GAIN Trader platform and extensive API support make
+  it easy for traders to integrate and execute complex trading strategies tailored
+  to their needs. Gaincapital-com also offers educational resources and support, empowering
+  traders with the knowledge to leverage their sophisticated trading systems effectively.
+title: GainCapital.com (Algo Trading)
 ---
 
 Algorithmic trading has profoundly transformed financial markets by enabling automated and rapid trade execution, thereby reducing the potential for human error and increasing operational efficiency. Gaincapital-com, operating under StoneX Financial Inc., is pivotal in facilitating algorithmic trading through its sophisticated platforms and application programming interfaces (APIs). These offerings cater to both individual and institutional traders, granting them access to the tools necessary for efficient trading.

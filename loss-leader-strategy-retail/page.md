@@ -1,6 +1,9 @@
 ---
-title: "Loss Leader Strategy in Retail (Algo Trading)"
-description: "Explore how the loss leader strategy in retail enhances sales with below-cost pricing attracting customers who buy additional high-margin items, linked to algo trading."
+category: trading_strategy
+description: Explore how the loss leader strategy in retail enhances sales with below-cost
+  pricing attracting customers who buy additional high-margin items, linked to algo
+  trading.
+title: Loss Leader Strategy in Retail (Algo Trading)
 ---
 
 In the competitive world of retail, businesses are constantly seeking innovative strategies to attract customers and boost sales. One such approach is the loss leader pricing strategy, a technique where selected products are sold at a price lower than their market value to attract customers. This strategy aims to increase the flow of potential buyers into a store or an online platform, with the expectation that these customers will purchase additional higher-margin items, thereby compensating for the initial loss on discounted products.

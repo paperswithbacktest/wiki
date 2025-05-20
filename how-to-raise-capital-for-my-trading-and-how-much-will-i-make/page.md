@@ -1,6 +1,13 @@
 ---
-title: "How to Raise Capital for My Trading and How Much Will I Make? (Algo Trading)"
-description: Discover the essential strategies for raising capital in algorithmic trading and maximizing profits. Explore the fundamentals of algo trading, understand the vital role of adequate funding, and learn about traditional and alternative funding opportunities. This comprehensive guide provides insights into building a sustainable trading approach and features success stories to inspire both novice and experienced traders. Equip yourself with the knowledge to secure resources needed to thrive in the dynamic world of algorithmic trading.
+category: trading_strategy
+description: Discover the essential strategies for raising capital in algorithmic
+  trading and maximizing profits. Explore the fundamentals of algo trading, understand
+  the vital role of adequate funding, and learn about traditional and alternative
+  funding opportunities. This comprehensive guide provides insights into building
+  a sustainable trading approach and features success stories to inspire both novice
+  and experienced traders. Equip yourself with the knowledge to secure resources needed
+  to thrive in the dynamic world of algorithmic trading.
+title: How to Raise Capital for My Trading and How Much Will I Make? (Algo Trading)
 ---
 
 Algorithmic trading, often referred to as algo trading, is the use of computer algorithms to automate trading decisions in financial markets. These algorithms execute trades at speeds and frequencies impossible for human traders, leveraging mathematical models and complex formulas to make investment decisions. This form of trading is integral to modern financial markets, enhancing market efficiency, liquidity, and reducing transaction costs through high-frequency trading and other strategies.

@@ -1,6 +1,9 @@
 ---
-title: "Essential Information on Financial Statements (Algo Trading)"
-description: "Navigate the intricate world of financial statements accounting basics and algorithmic trading Learn how to analyze financial data and optimize trading strategies"
+category: dataset
+description: Navigate the intricate world of financial statements accounting basics
+  and algorithmic trading Learn how to analyze financial data and optimize trading
+  strategies
+title: Essential Information on Financial Statements (Algo Trading)
 ---
 
 Financial statements, accounting basics, financial analysis, and algorithmic trading form an intricate network that is crucial for investors and traders. Financial statements offer a quantitative summary of a company's financial health and performance. Understanding these documents is fundamental for investors and traders as they serve as the primary source of financial data, which is essential for assessing an organization's viability and making decisions regarding investing or trading in its securities.

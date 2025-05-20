@@ -1,6 +1,8 @@
 ---
-title: "Apple's Most Profitable Business Segments (Algo Trading)"
-description: "Discover Apple's top earning business segments and how they drive profitability through strategic diversification and innovation in technology and services."
+category: trading_strategy
+description: Discover Apple's top earning business segments and how they drive profitability
+  through strategic diversification and innovation in technology and services.
+title: Apple's Most Profitable Business Segments (Algo Trading)
 ---
 
 Apple Inc. has established itself as a pioneering entity in the technology sector, consistently achieving remarkable market capitalizations and expanding into a variety of business segments. Founded in 1976 by Steve Jobs, Steve Wozniak, and Ronald Wayne, Apple has evolved from its humble beginnings, marked by the launch of the Apple I computer, into a global giant known for innovation and strategic foresight.

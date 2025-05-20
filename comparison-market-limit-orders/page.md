@@ -1,6 +1,9 @@
 ---
-title: "Comparison of Market and Limit Orders (Algo Trading)"
-description: "Discover the distinctions between market and limit orders in algorithmic trading Understand their advantages disadvantages and how they impact your investment strategy"
+category: quant_concept
+description: Discover the distinctions between market and limit orders in algorithmic
+  trading Understand their advantages disadvantages and how they impact your investment
+  strategy
+title: Comparison of Market and Limit Orders (Algo Trading)
 ---
 
 Investing in the stock market can be a rewarding venture if approached with proper knowledge and strategies. A fundamental aspect of this knowledge is understanding various stock order types, which is crucial for executing trades effectively and managing risks. Stock order types serve as the instructions to brokers or trading platforms on how to execute buying or selling transactions. Each type has unique characteristics that can align with different trading strategies and market conditions.

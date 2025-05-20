@@ -1,7 +1,8 @@
 ---
-title: Understanding Discriminative Models in Machine Learning
+category: quant_concept
 description: Discriminative models learn decision boundaries to deliver efficient
   accurate classification from spam detection to image recognition Discover more inside.
+title: Understanding Discriminative Models in Machine Learning
 ---
 
 ![Image](images/1.jpeg)

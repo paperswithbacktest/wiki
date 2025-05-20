@@ -1,6 +1,8 @@
 ---
-title: "Stock Screener: Functionality and Examples (Algo Trading)"
-description: "Explore the powerful world of stock screeners and investment tools, enhance your trading strategies and make informed decisions in the evolving finance market."
+category: trading_strategy
+description: Explore the powerful world of stock screeners and investment tools, enhance
+  your trading strategies and make informed decisions in the evolving finance market.
+title: 'Stock Screener: Functionality and Examples (Algo Trading)'
 ---
 
 In the ever-evolving world of finance, tools that help investors make informed decisions are invaluable. The integration of stock screeners, financial analysis tools, investment tools, and algorithmic trading has collectively transformed the investment landscape, providing both novice and experienced investors with a sophisticated means of navigating the stock market.

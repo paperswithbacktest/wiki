@@ -1,6 +1,9 @@
 ---
-title: "Electrum Wallet Overview (Algo Trading)"
-description: "Explore Electrum Wallet's robust security and efficiency, designed for Bitcoin algorithmic trading. Discover why traders trust Electrum for seamless, secure transactions."
+category: dataset
+description: Explore Electrum Wallet's robust security and efficiency, designed for
+  Bitcoin algorithmic trading. Discover why traders trust Electrum for seamless, secure
+  transactions.
+title: Electrum Wallet Overview (Algo Trading)
 ---
 
 Cryptocurrency trading has gained significant momentum over recent years, driven by the allure of decentralization, potential for high returns, and advancements in blockchain technology. This surge in trading activity has accentuated the crucial need for secure and efficient digital wallets to safeguard assets and facilitate seamless transactions. Electrum, a well-known Bitcoin wallet, stands out due to its unwavering focus on security and user functionality. Launched in 2011 by Thomas Voegtlin, Electrum has solidified its reputation as one of the oldest and most reliable Bitcoin wallets in the industry.

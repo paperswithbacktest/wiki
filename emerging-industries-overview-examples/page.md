@@ -1,6 +1,8 @@
 ---
-title: "Emerging Industries: Overview and Examples (Algo Trading)"
-description: "Explore how emerging industries like algorithmic trading and AI are transforming global markets with innovative technologies, driving economic growth and opportunities."
+category: quant_concept
+description: Explore how emerging industries like algorithmic trading and AI are transforming
+  global markets with innovative technologies, driving economic growth and opportunities.
+title: 'Emerging Industries: Overview and Examples (Algo Trading)'
 ---
 
 In the rapidly evolving landscape of global business, emerging industries are driving the next wave of innovation and economic growth. These industries, often characterized by novel technologies and groundbreaking approaches, are transforming the way businesses operate, offering both new opportunities and challenges. Technology plays a pivotal role, with algorithmic trading and artificial intelligence (AI) at the forefront of this transformation.

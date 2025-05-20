@@ -1,6 +1,8 @@
 ---
-title: "Direct Access Trading: Overview and Benefits (Algo Trading)"
-description: "Explore the transformative world of Direct Access Trading and Algo Trading Learn how these technologies reshape market strategies for faster and precise trades"
+category: trading_strategy
+description: Explore the transformative world of Direct Access Trading and Algo Trading
+  Learn how these technologies reshape market strategies for faster and precise trades
+title: 'Direct Access Trading: Overview and Benefits (Algo Trading)'
 ---
 
 The world of trading has undergone significant transformation due to technological advancements, ushering in new methodologies for executing trades. Among these, Direct Access Trading (DAT) and algorithmic trading, commonly known as algo trading, have emerged as pivotal innovations. These approaches have reshaped how trades are conducted, providing traders with tools to efficiently navigate the markets.

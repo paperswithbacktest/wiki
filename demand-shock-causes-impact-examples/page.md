@@ -1,6 +1,12 @@
 ---
-title: "Demand Shock: Causes, Impact, and Examples (Algo Trading)"
-description: "Explore the concept of demand shock in this detailed guide discussing its causes effects and examples in a modern economic context with a focus on algorithmic trading Learn how sudden demand changes affect market dynamics economic stability and how they interact with technological advancements and policy shifts Essential reading for policymakers businesses and investors aiming to navigate economic fluctuations and ensure market stability"
+category: quant_concept
+description: Explore the concept of demand shock in this detailed guide discussing
+  its causes effects and examples in a modern economic context with a focus on algorithmic
+  trading Learn how sudden demand changes affect market dynamics economic stability
+  and how they interact with technological advancements and policy shifts Essential
+  reading for policymakers businesses and investors aiming to navigate economic fluctuations
+  and ensure market stability
+title: 'Demand Shock: Causes, Impact, and Examples (Algo Trading)'
 ---
 
 Demand shocks constitute a vital concept within economics, referring to sudden, unexpected changes in the demand for goods and services. These shocks can be positive or negative, leading to significant fluctuations in consumption patterns and potentially causing broader economic disturbances. Understanding demand shocks is crucial for policymakers, businesses, and investors as they navigate the intricate dynamics of the economy.

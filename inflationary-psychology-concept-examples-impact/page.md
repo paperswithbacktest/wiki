@@ -1,6 +1,9 @@
 ---
-title: "Inflationary Psychology: Concept, Examples, and Impact (Algo Trading)"
-description: "Explore how inflationary psychology affects economic dynamics by shaping consumer behavior and expectations Discover the role of algorithmic trading in this context"
+category: quant_concept
+description: Explore how inflationary psychology affects economic dynamics by shaping
+  consumer behavior and expectations Discover the role of algorithmic trading in this
+  context
+title: 'Inflationary Psychology: Concept, Examples, and Impact (Algo Trading)'
 ---
 
 The interplay between psychology and economics is critical in understanding how inflation affects consumer behavior and economic dynamics. Inflation, the rate at which the general level of prices for goods and services rises, subsequently erodes purchasing power. This economic phenomenon is not solely driven by empirical data and fiscal policies but is significantly influenced by psychological elements, such as consumer expectations and emotional responses. Inflationary psychology, a term denoting how individuals' and businesses' anticipations of inflation affect their financial decisions, plays a vital role in shaping economic behavior.

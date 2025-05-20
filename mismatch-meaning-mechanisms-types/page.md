@@ -1,6 +1,8 @@
 ---
-title: "Mismatch: Meaning, Mechanisms, and Types (Algo Trading)"
-description: "Explore the intricacies of algorithmic trading mismatches their causes and effects Learn strategies to manage execution discrepancies and optimize performance"
+category: quant_concept
+description: Explore the intricacies of algorithmic trading mismatches their causes
+  and effects Learn strategies to manage execution discrepancies and optimize performance
+title: 'Mismatch: Meaning, Mechanisms, and Types (Algo Trading)'
 ---
 
 Algorithmic trading, commonly referred to as algo trading, employs advanced automated systems to facilitate trading decisions executed at remarkable speed and frequency. At its core, the process involves the utilization of complex algorithms to analyze vast datasets, identify trading opportunities, and execute trades without human intervention. The primary advantage of this technology lies in its ability to significantly reduce reaction times, thereby capturing market opportunities that human traders might miss due to inherent decision-making delays. Furthermore, algorithmic trading can enhance consistency and liquidity within the financial markets, often leading to more efficient price discovery.

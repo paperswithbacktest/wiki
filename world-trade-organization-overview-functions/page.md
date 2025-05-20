@@ -1,6 +1,9 @@
 ---
-title: "World Trade Organization: Overview and Functions (Algo Trading)"
-description: "Explore how the World Trade Organization influences global trade dynamics and how algorithmic trading reshapes international markets. Stay informed on key economic trends."
+category: quant_concept
+description: Explore how the World Trade Organization influences global trade dynamics
+  and how algorithmic trading reshapes international markets. Stay informed on key
+  economic trends.
+title: 'World Trade Organization: Overview and Functions (Algo Trading)'
 ---
 
 The evolving global economy is intricately tied to the mechanisms of international trade, with the World Trade Organization (WTO) serving as a central facilitator. Established in 1995, the WTO has grown to encompass 164 member nations, providing a structured platform for the formulation of trade agreements and the resolution of trade-related disputes. This institution is pivotal in maintaining a stable trading environment by overseeing the rules that govern international commerce.

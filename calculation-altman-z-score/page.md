@@ -1,6 +1,8 @@
 ---
-title: "Calculation of the Altman Z-Score (Algo Trading)"
-description: "Calculate the Altman Z-Score to predict bankruptcy risk with ease Integrating vital financial ratios it helps investors make informed decisions"
+category: quant_concept
+description: Calculate the Altman Z-Score to predict bankruptcy risk with ease Integrating
+  vital financial ratios it helps investors make informed decisions
+title: Calculation of the Altman Z-Score (Algo Trading)
 ---
 
 In the world of financial analysis, predicting a company's potential for bankruptcy is a critical skill for investors and analysts alike. Assessing this risk effectively can shape investment strategies, inform credit decisions, and aid in safeguarding against financial loss. One of the most widely recognized methods for evaluating bankruptcy risk is the Altman Z-Score. Developed by Edward Altman in the 1960s, this financial tool integrates various financial ratios to assess a company’s financial health and its probability of bankruptcy.

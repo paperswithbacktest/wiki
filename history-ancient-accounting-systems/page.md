@@ -1,6 +1,8 @@
 ---
-title: "History of Ancient Accounting Systems (Algo Trading)"
-description: "Explore the fascinating evolution of financial systems from ancient accounting in Mesopotamia and Egypt to today's algorithmic trading and modern finance."
+category: quant_concept
+description: Explore the fascinating evolution of financial systems from ancient accounting
+  in Mesopotamia and Egypt to today's algorithmic trading and modern finance.
+title: History of Ancient Accounting Systems (Algo Trading)
 ---
 
 The evolution of financial systems from ancient times to modern-day trading algorithms is a fascinating journey that highlights the ingenuity and adaptability of human societies. This article explores the history of accounting and bookkeeping, tracing their origins in ancient civilizations such as Mesopotamia and Egypt. These early systems were driven by the necessity to document trade transactions and taxes, leading to sophisticated methods using materials like clay tablets and papyrus. Understanding these historical roots illuminates how they laid the groundwork for today's financial technologies.

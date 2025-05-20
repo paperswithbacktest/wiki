@@ -1,6 +1,9 @@
 ---
-title: "Fisher's Separation Theorem (Algo Trading)"
-description: "Fisher's Separation Theorem bridges traditional financial theories with modern practices in corporate finance and algorithmic trading emphasizing objective profit maximization."
+category: quant_concept
+description: Fisher's Separation Theorem bridges traditional financial theories with
+  modern practices in corporate finance and algorithmic trading emphasizing objective
+  profit maximization.
+title: Fisher's Separation Theorem (Algo Trading)
 ---
 
 Fisher's Separation Theorem is a foundational concept in financial theory that connects traditional investment principles with contemporary financial practices. Introduced by economist Irving Fisher, the theorem addresses the core issue of how firms can align their investment decisions with shareholder interests, without directly catering to individual shareholder preferences. This separation between management decisions and shareholder desires forms a key part of modern corporate finance, enabling firms to focus on maximizing overall shareholder value. The theorem distinguishes the choices a firm makes from the investors’ personal consumption preferences, thus advocating for an independent approach to decision-making within companies.

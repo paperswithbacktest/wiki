@@ -1,7 +1,8 @@
 ---
-title: Efficient Broadcasting in Machine Learning with NumPy Arrays
+category: quant_concept
 description: Broadcasting in machine learning enables efficient array operations on
   mismatched shapes saving memory and accelerating performance Discover more inside
+title: Efficient Broadcasting in Machine Learning with NumPy Arrays
 ---
 
 ![Image](images/1.png)

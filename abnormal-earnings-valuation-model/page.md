@@ -1,6 +1,9 @@
 ---
-title: "Abnormal Earnings Valuation Model (Algo Trading)"
-description: "Explore the Abnormal Earnings Valuation Model and its significance in algorithmic trading strategies to understand management's resource efficiency and intrinsic value."
+category: quant_concept
+description: Explore the Abnormal Earnings Valuation Model and its significance in
+  algorithmic trading strategies to understand management's resource efficiency and
+  intrinsic value.
+title: Abnormal Earnings Valuation Model (Algo Trading)
 ---
 
 The financial world is abundant with valuation models, each designed to offer distinct perspectives on assessing a company's worth. Among these, the Abnormal Earnings Valuation Model is notable for its emphasis on evaluating management's ability to effectively utilize resources. Unlike traditional models, which may focus solely on accounting figures or market perceptions, this model shines a light on management decisions and their ability to generate value that exceeds standard expectations. By assessing a firm's capacity to produce earnings that surpass the normal required returns on equity, this model provides a nuanced understanding of a company's value creation potential.

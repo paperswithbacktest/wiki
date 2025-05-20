@@ -1,6 +1,8 @@
 ---
-title: "Economic Recessions and Potential Positive Outcomes (Algo Trading)"
-description: "Explore the potential positive outcomes of economic recessions and the opportunities they present for algorithmic trading strategies during market fluctuations."
+category: quant_concept
+description: Explore the potential positive outcomes of economic recessions and the
+  opportunities they present for algorithmic trading strategies during market fluctuations.
+title: Economic Recessions and Potential Positive Outcomes (Algo Trading)
 ---
 
 Economic recessions are periods characterized by a significant decline in economic activity across markets, typically lasting more than a few months. The indicators of a recession often include a decrease in GDP, falling incomes, a reduction in retail sales, and increasing unemployment rates. Historically, recessions have been associated with adverse outcomes such as widespread job losses, business closures, and financial instability, leading to their negative connotations. These downturns can trigger a cascade of hardships, affecting both households and businesses as they struggle to navigate the challenging economic environment.

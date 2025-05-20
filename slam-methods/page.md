@@ -1,7 +1,8 @@
 ---
-title: Essential SLAM Techniques for Robotic Mapping and Localization
+category: quant_concept
 description: SLAM enables robots to build maps and locate themselves in unknown environments
   with sensors and AI to enhance navigation Discover more inside
+title: Essential SLAM Techniques for Robotic Mapping and Localization
 ---
 
 ![Image](images/1.png)

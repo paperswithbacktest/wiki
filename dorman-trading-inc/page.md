@@ -1,6 +1,9 @@
 ---
-title: "Dorman Trading, Inc. (Algo Trading)"
-description: "Explore Dorman Trading's advanced algorithmic trading solutions, robust infrastructure, and innovative technology offerings designed to serve diverse trading needs."
+category: quant_concept
+description: Explore Dorman Trading's advanced algorithmic trading solutions, robust
+  infrastructure, and innovative technology offerings designed to serve diverse trading
+  needs.
+title: Dorman Trading, Inc. (Algo Trading)
 ---
 
 Dorman Trading, Inc. is a venerable financial services firm situated in Chicago, distinguished for its robust algorithmic trading solutions. Since its inception, the company has been a cornerstone in the trading industry, addressing the unique needs of a diverse client base, which includes professional traders, institutional investors, and individual market participants. With its roots firmly planted in traditional trading practices, Dorman Trading has continually adapted to technological advancements, ensuring its services remain cutting-edge and relevant to contemporary trading environments.

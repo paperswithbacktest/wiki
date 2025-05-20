@@ -1,6 +1,8 @@
 ---
-title: "Closed-End Indenture (Algo Trading)"
-description: "Explore the dynamic relationship between closed-end indentures and algorithmic trading to understand their impact on bond agreements and modern finance strategies."
+category: quant_concept
+description: Explore the dynamic relationship between closed-end indentures and algorithmic
+  trading to understand their impact on bond agreements and modern finance strategies.
+title: Closed-End Indenture (Algo Trading)
 ---
 
 The interplay between traditional investment mechanisms and modern technology-driven strategies in finance is marked by increasing complexity and sophistication. This article examines the convergence of bond agreements, closed-end indentures, and algorithmic trading, assessing how these elements interact and influence the financial ecosystem.

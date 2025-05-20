@@ -1,7 +1,8 @@
 ---
-title: Multimodal Machine Learning for Enhanced Data Integration
+category: quant_concept
 description: Multimodal Machine Learning combines text images and audio to boost model
   accuracy by integrating diverse data sources efficiently Discover more inside
+title: Multimodal Machine Learning for Enhanced Data Integration
 ---
 
 ![Image](images/1.webp)

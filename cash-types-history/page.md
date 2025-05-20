@@ -1,6 +1,8 @@
 ---
-title: "Cash: Types and History (Algo Trading)"
-description: "Explore the evolution and types of cash, including the impact of algorithmic trading. Understand historical currency shifts and digital transformation in finance."
+category: quant_concept
+description: Explore the evolution and types of cash, including the impact of algorithmic
+  trading. Understand historical currency shifts and digital transformation in finance.
+title: 'Cash: Types and History (Algo Trading)'
 ---
 
 The evolution of currency marks a significant milestone in the development of modern financial systems. From the rudimentary days of barter to the complex monetary frameworks that govern global economies today, understanding how money has evolved is crucial. Modern currency systems provide the foundation for economies, facilitating trade, promoting financial stability, and shaping monetary policy. Historically, as societies grew more complex, there was a need for standardized forms of exchange, leading to the inception of coins and later, paper money. These developments not only streamlined trade but also embedded social trust in these systems.

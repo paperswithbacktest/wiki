@@ -1,7 +1,8 @@
 ---
-title: Improving Model Efficiency With Input Embedding Factorization
+category: quant_concept
 description: Input Embedding Factorization reduces high dimensional data into compact
   forms that speed training and improve model generalization. Discover more inside.
+title: Improving Model Efficiency With Input Embedding Factorization
 ---
 
 ![Image](images/1.png)

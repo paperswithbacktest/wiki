@@ -1,6 +1,9 @@
 ---
-title: "Forex Pivot Points and Their Function (Algo Trading)"
-description: "Explore the significance of forex pivot points in trading. Discover how these tools help identify support and resistance levels, crucial for algorithmic trading strategies."
+category: trading_strategy
+description: Explore the significance of forex pivot points in trading. Discover how
+  these tools help identify support and resistance levels, crucial for algorithmic
+  trading strategies.
+title: Forex Pivot Points and Their Function (Algo Trading)
 ---
 
 Pivot points have long been a staple in the toolbox of forex traders due to their simplicity and effectiveness. These technical analysis tools are crucial in forex trading for identifying key support and resistance levels. Originating from the commodities markets, pivot points have evolved into essential components of trading, especially with the rise of algorithmic trading.

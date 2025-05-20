@@ -1,6 +1,8 @@
 ---
-title: "Average Price Put (Algo Trading)"
-description: "Explore the impact of algorithmic trading on average price put options, enhancing hedging strategies by optimizing execution and managing volatility effectively."
+category: trading_strategy
+description: Explore the impact of algorithmic trading on average price put options,
+  enhancing hedging strategies by optimizing execution and managing volatility effectively.
+title: Average Price Put (Algo Trading)
 ---
 
 Options trading, and particularly put options, plays a significant role in financial derivatives. A put option provides the holder the right, but not the obligation, to sell an underlying asset at a specified price before the option's expiration date. This financial instrument is crucial in hedging strategies to mitigate potential losses in portfolios and enables investors to capitalize on anticipated declines in asset prices.

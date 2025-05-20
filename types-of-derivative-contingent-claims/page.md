@@ -1,6 +1,9 @@
 ---
-title: "Types of Derivative Contingent Claims (Algo Trading)"
-description: "Explore the types of derivative contingent claims in algo trading and discover how options, futures, and swaps aid in risk management and speculative strategies."
+category: quant_concept
+description: Explore the types of derivative contingent claims in algo trading and
+  discover how options, futures, and swaps aid in risk management and speculative
+  strategies.
+title: Types of Derivative Contingent Claims (Algo Trading)
 ---
 
 Contingent claims, fundamental to modern financial markets, are financial instruments whose value or payoff is contingent upon the occurrence of certain future events. Predominantly manifested as derivatives, these instruments include options, futures, and swaps. They serve as crucial tools in risk management and speculative strategies, allowing investors to hedge against potential adverse price movements or to capitalize on market expectations.

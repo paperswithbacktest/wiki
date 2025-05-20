@@ -1,6 +1,8 @@
 ---
-title: "Stevens Capital Management (Algo Trading)"
-description: "Stevens Capital Management is a leader in algorithmic trading using advanced quantitative models and AI to revolutionize and enhance trading efficiency globally."
+category: trading_strategy
+description: Stevens Capital Management is a leader in algorithmic trading using advanced
+  quantitative models and AI to revolutionize and enhance trading efficiency globally.
+title: Stevens Capital Management (Algo Trading)
 ---
 
 Stevens Capital Management (SCM) is recognized as a prominent entity in algorithmic trading, an area that has rapidly transformed the financial industry by automating trade processes. This article examines SCM's influential role and pioneering strategies within the financial markets. Algorithmic trading refers to the use of complex algorithms to analyze market data and execute trades at speeds and volumes unattainable by human traders, significantly enhancing the efficiency and precision of trading practices.

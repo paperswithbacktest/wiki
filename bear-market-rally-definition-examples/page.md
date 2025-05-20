@@ -1,6 +1,8 @@
 ---
-title: "Bear Market Rally: Definition and Examples (Algo Trading)"
-description: "Explore bear market rallies and algo trading in volatile markets Learn how investors can strategize to navigate challenges and seize opportunities effectively"
+category: quant_concept
+description: Explore bear market rallies and algo trading in volatile markets Learn
+  how investors can strategize to navigate challenges and seize opportunities effectively
+title: 'Bear Market Rally: Definition and Examples (Algo Trading)'
 ---
 
 The stock market operates in a dynamic environment marked by cycles of upward and downward trends, commonly referred to as bull and bear markets. A bear market is typically defined by a decline in stock prices of 20% or more from recent highs, frequently accompanied by widespread pessimism among investors. These periods can result in unique challenges, such as heightened volatility and uncertainty, but also offer opportunities for investors to capitalize on the fluctuating market conditions.

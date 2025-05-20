@@ -1,6 +1,9 @@
 ---
-title: "Clearing House Electronic Subregister System (Algo Trading)"
-description: "Explore how CHESS, operated by the ASX, revolutionizes securities transactions and supports algorithmic trading, enhancing efficiency and security in financial markets."
+category: quant_concept
+description: Explore how CHESS, operated by the ASX, revolutionizes securities transactions
+  and supports algorithmic trading, enhancing efficiency and security in financial
+  markets.
+title: Clearing House Electronic Subregister System (Algo Trading)
 ---
 
 The world of finance is continuously evolving, with technology playing a pivotal role in transforming how transactions are conducted and managed. At the forefront of this transformation is the Clearing House Electronic Subregister System (CHESS), operated by the Australian Securities Exchange (ASX). CHESS represents a significant technological advancement in financial markets, offering a secure and efficient platform for the transfer of securities ownership and management of exchange operations. This article explores the complexities of CHESS, examining its fundamental role in clearing and settlement processes, as well as its significant contribution to the domain of algorithmic trading.

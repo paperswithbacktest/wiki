@@ -1,6 +1,9 @@
 ---
-title: "Immunization in Investment Strategies (Algo Trading)"
-description: "Explore investment immunization strategies that protect portfolios from interest rate fluctuations by balancing asset and liability durations with algorithmic trading."
+category: trading_strategy
+description: Explore investment immunization strategies that protect portfolios from
+  interest rate fluctuations by balancing asset and liability durations with algorithmic
+  trading.
+title: Immunization in Investment Strategies (Algo Trading)
 ---
 
 The world of finance offers a spectrum of investment strategies tailored to minimize risk and maximize returns. Among these, immunization stands out as a critical strategy, specifically engineered to shield investment portfolios from the volatility caused by fluctuating interest rates. By employing immunization, investors aim to neutralize the adverse effects that changes in interest rates might have on the net value of a portfolio. This is achieved by aligning the durations of assets and liabilities within the portfolio, effectively insulating it from external interest rate movements.

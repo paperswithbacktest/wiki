@@ -1,6 +1,8 @@
 ---
-title: "Processes Involved in Buying and Selling Shares (Algo Trading)"
-description: "Explore the intricate processes of buying and selling shares with algorithmic trading's impact on market dynamics and efficiency in stock transactions."
+category: quant_concept
+description: Explore the intricate processes of buying and selling shares with algorithmic
+  trading's impact on market dynamics and efficiency in stock transactions.
+title: Processes Involved in Buying and Selling Shares (Algo Trading)
 ---
 
 The financial markets are indispensable to the global economy, acting as robust platforms where companies can raise essential capital and investors can potentially realize returns on their investments. These markets facilitate the efficient allocation of resources, underpinning economic growth and development. Within this framework, stock trading emerges as a critical component. Historically rooted, stock trading has undergone substantial evolution, significantly influenced by technological advances that have reshaped its nature and execution.

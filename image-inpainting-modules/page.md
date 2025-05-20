@@ -1,7 +1,8 @@
 ---
-title: Advancing Image Inpainting with Contextual Residual Aggregation
+category: quant_concept
 description: Image inpainting with Contextual Residual Aggregation restores missing
   areas by analyzing full context and refining residual details Discover more inside
+title: Advancing Image Inpainting with Contextual Residual Aggregation
 ---
 
 ![Image](images/1.jpeg)

@@ -1,6 +1,8 @@
 ---
-title: "Vanuatu Vatu (Algo Trading)"
-description: "Discover the transformative potential of algorithmic trading for Vanuatu's Vatu as this emerging financial technology reshapes liquidity and market access."
+category: trading_strategy
+description: Discover the transformative potential of algorithmic trading for Vanuatu's
+  Vatu as this emerging financial technology reshapes liquidity and market access.
+title: Vanuatu Vatu (Algo Trading)
 ---
 
 The global financial landscape is evolving rapidly, with algorithmic trading emerging as a powerful tool for investors. This transformation is driven by the integration of technology in financial markets, enabling high-speed and high-frequency trading that, until recently, was not possible. Algorithmic trading uses computer algorithms to automate the execution of trades, allowing investors to benefit from enhanced precision and reduced transaction times.

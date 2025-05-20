@@ -1,6 +1,9 @@
 ---
-title: "Key Factors in Real Estate Investment (Algo Trading)"
-description: "Explore how algorithmic trading is revolutionizing real estate investment by enhancing decision-making efficiency uncovering opportunities and navigating market complexities."
+category: trading_strategy
+description: Explore how algorithmic trading is revolutionizing real estate investment
+  by enhancing decision-making efficiency uncovering opportunities and navigating
+  market complexities.
+title: Key Factors in Real Estate Investment (Algo Trading)
 ---
 
 The real estate market has long been regarded as a stable investment domain, offering the dual benefits of consistent returns and portfolio diversification. Traditionally, investments in real estate have been driven by factors such as property location, valuation, and potential for appreciation and cash flow. However, with the acceleration of technological advancements and the integration of data analytics, a new paradigm has emerged in the form of real estate market algorithmic trading, commonly referred to as 'algo trading'. 

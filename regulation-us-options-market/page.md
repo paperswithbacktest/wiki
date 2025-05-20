@@ -1,6 +1,8 @@
 ---
-title: "Regulation of the US Options Market (Algo Trading)"
-description: "Explore the intersection of U.S. options market regulations and algorithmic trading. Learn about compliance frameworks essential for market integrity and stability."
+category: quant_concept
+description: Explore the intersection of U.S. options market regulations and algorithmic
+  trading. Learn about compliance frameworks essential for market integrity and stability.
+title: Regulation of the US Options Market (Algo Trading)
 ---
 
 The options market represents a critical component of the financial landscape, providing investors with the flexibility to hedge risks, speculate on price movements, and enhance portfolio strategies. Options are financial derivatives that derive their value from an underlying asset, such as stocks, indices, or commodities. They allow investors to buy or sell an asset at a predetermined price within a specific time frame, offering unique advantages in terms of leverage and risk management.

@@ -1,6 +1,8 @@
 ---
-title: "Order Flow Imbalance Indicators (Algo Trading)"
-description: "Explore the importance of Order Flow Imbalance Indicators in high-frequency trading to gain insights into market dynamics and enhance algorithmic strategies."
+category: trading_strategy
+description: Explore the importance of Order Flow Imbalance Indicators in high-frequency
+  trading to gain insights into market dynamics and enhance algorithmic strategies.
+title: Order Flow Imbalance Indicators (Algo Trading)
 ---
 
 Order Flow Imbalance Indicators are essential instruments in algorithmic trading, particularly within the realm of high-frequency trading. These indicators are designed to identify the imbalance between buy and sell orders, providing valuable insights into market supply and demand dynamics. In high-frequency trading environments, where speed and accuracy are paramount, understanding these imbalances can give traders a significant edge.

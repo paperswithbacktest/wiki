@@ -1,6 +1,8 @@
 ---
-title: "G-Research (Algo Trading)"
-description: "Explore how G-Research revolutionizes algorithmic trading with cutting-edge models and technologies enhancing speed accuracy and efficiency in financial markets."
+category: quant_concept
+description: Explore how G-Research revolutionizes algorithmic trading with cutting-edge
+  models and technologies enhancing speed accuracy and efficiency in financial markets.
+title: G-Research (Algo Trading)
 ---
 
 Algorithmic trading is an advanced mechanism that utilizes computer programs to automate financial market transactions. By employing complex algorithms to make decisions and execute trades at speeds and frequencies that are impossible for humans, it has revolutionized the financial industry [1]. These systems rely on quantitative models, which analyze a massive array of market data, to maximize trading profitability and minimize risks [2]. Algorithmic trading has become indispensable for high-frequency trading firms, hedge funds, and various financial institutions, driving efficiency, liquidity, and accuracy in executing trades.

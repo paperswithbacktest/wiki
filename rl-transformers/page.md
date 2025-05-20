@@ -1,7 +1,8 @@
 ---
-title: Reinforcement Learning and Transformers for Contextual Decisions
+category: quant_concept
 description: Reinforcement learning and Transformers use attention and reward feedback
   to enhance decision making in language and sequential tasks. Discover more inside
+title: Reinforcement Learning and Transformers for Contextual Decisions
 ---
 
 ![Image](images/1.png)

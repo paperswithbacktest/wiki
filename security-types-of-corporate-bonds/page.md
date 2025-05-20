@@ -1,6 +1,9 @@
 ---
-title: "Security Types of Corporate Bonds (Algo Trading)"
-description: "Explore security types of corporate bonds and how algorithmic trading enhances efficiency Learn about secured vs unsecured bonds seniority features and recovery rates"
+category: quant_concept
+description: Explore security types of corporate bonds and how algorithmic trading
+  enhances efficiency Learn about secured vs unsecured bonds seniority features and
+  recovery rates
+title: Security Types of Corporate Bonds (Algo Trading)
 ---
 
 Bonds are essential instruments for achieving stability and predictability within an investment portfolio. Among these, corporate bonds play a distinct role by allowing companies to raise capital directly from investors through debt issuance. Unlike equities, which represent ownership in a company, bonds are a form of loan made by investors to the issuer, promising periodic interest payments and the return of the principal upon maturity. This setup makes bonds, including corporate bonds, a vital component of fixed income securities.

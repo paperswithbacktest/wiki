@@ -1,8 +1,14 @@
 ---
-title: "GPT (Generative Pretrained Transformer) (Algo Trading)"
-description: Discover how GPT (Generative Pretrained Transformer) by OpenAI is transforming algorithmic trading through sentiment analysis, financial report generation, and predictive modeling. Explore its ability to analyze vast amounts of text data, improve trading strategies, and provide accurate market insights. Learn about the benefits, including speed and flexibility, alongside challenges like computational costs and noise sensitivity. Embrace the potential of GPT in algo trading for more informed and efficient financial decisions.
+category: quant_concept
+description: Discover how GPT (Generative Pretrained Transformer) by OpenAI is transforming
+  algorithmic trading through sentiment analysis, financial report generation, and
+  predictive modeling. Explore its ability to analyze vast amounts of text data, improve
+  trading strategies, and provide accurate market insights. Learn about the benefits,
+  including speed and flexibility, alongside challenges like computational costs and
+  noise sensitivity. Embrace the potential of GPT in algo trading for more informed
+  and efficient financial decisions.
+title: GPT (Generative Pretrained Transformer) (Algo Trading)
 ---
-
 
 Generative Pretrained Transformer, or GPT, is a cutting-edge language model developed by OpenAI. Created to understand and generate human-like text, GPT has its origins in transformer architecture, which first emerged in the seminal paper "Attention is All You Need" by Vaswani et al. in 2017. GPT models leverage vast amounts of textual data, encompassing diverse genres and complexities, to learn the nuances of language and context. By doing so, they excel in producing text that mirrors human writing styles and responds dynamically to user inputs.
 

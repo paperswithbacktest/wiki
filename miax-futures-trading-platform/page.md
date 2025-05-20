@@ -1,6 +1,9 @@
 ---
-title: "MIAX Futures Trading Platform (Algo Trading)"
-description: "Discover MIAX Futures Trading Platform's rich history and cutting-edge technology that enhance algorithmic trading, offering expansive futures markets access."
+category: dataset
+description: Discover MIAX Futures Trading Platform's rich history and cutting-edge
+  technology that enhance algorithmic trading, offering expansive futures markets
+  access.
+title: MIAX Futures Trading Platform (Algo Trading)
 ---
 
 In the evolving landscape of futures trading, the MIAX Futures Exchange has established itself as a critical entity. This exchange, which was originally known as the Minneapolis Grain Exchange (MGEX), experienced a noteworthy transformation under the stewardship of Miami International Holdings. This transition symbolizes a significant milestone in the exchange's long and storied history.

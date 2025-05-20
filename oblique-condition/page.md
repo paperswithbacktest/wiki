@@ -1,7 +1,8 @@
 ---
-title: Leveraging Oblique Conditions for Enhanced Decision Tree Accuracy
+category: quant_concept
 description: Oblique conditions in decision trees capture complex feature interplay
   to improve model accuracy with manageable computational cost. Discover more inside.
+title: Leveraging Oblique Conditions for Enhanced Decision Tree Accuracy
 ---
 
 ![Image](images/1.png)

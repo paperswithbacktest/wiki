@@ -1,6 +1,8 @@
 ---
-title: "Lock-Up Option: Overview and Mechanism (Algo Trading)"
-description: "Discover the importance of lock-up options and algorithmic trading in financial markets. Learn how they stabilize IPOs and optimize trading strategies."
+category: quant_concept
+description: Discover the importance of lock-up options and algorithmic trading in
+  financial markets. Learn how they stabilize IPOs and optimize trading strategies.
+title: 'Lock-Up Option: Overview and Mechanism (Algo Trading)'
 ---
 
 Lock-up options are a fundamental concept in financial markets, providing mechanisms that protect companies and stakeholders during significant corporate events. At its core, a lock-up option is an agreement that restricts certain shareholders from selling their shares for a predetermined period following a company's initial public offering (IPO) or another financial transaction. This measure is often employed to stabilize the stock price by preventing an immediate sell-off of shares, thereby fostering market confidence.
@@ -166,4 +168,3 @@ For investors, the prudent integration of lock-up options and algorithmic tradin
    - **Investopedia:** Offers a broad range of articles elucidating financial concepts, including lock-up options and algorithmic trading dynamics.
 
 These resources provide a solid foundation for understanding and developing strategies involving lock-up options and algorithmic trading, suitable for both beginners and advanced practitioners in finance.
-

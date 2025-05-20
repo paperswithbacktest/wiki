@@ -1,6 +1,8 @@
 ---
-title: "Contingency Order: Overview and Examples (Algo Trading)"
-description: "Discover the power of contingency orders and algorithmic trading in financial markets Enhance your strategies with automated precision and effective risk management"
+category: trading_strategy
+description: Discover the power of contingency orders and algorithmic trading in financial
+  markets Enhance your strategies with automated precision and effective risk management
+title: 'Contingency Order: Overview and Examples (Algo Trading)'
 ---
 
 The financial markets are increasingly harnessing the power of technology to execute complex trading strategies more efficiently. With advancements in computational power and data analytics, traders now have access to sophisticated tools that enhance decision-making and execution speed. Among these tools, contingency orders and algorithmic trading stand out as particularly powerful methods for optimizing trading strategies. These technologies not only improve efficiency but also enable traders to manage risk and capitalize on market opportunities with precision.

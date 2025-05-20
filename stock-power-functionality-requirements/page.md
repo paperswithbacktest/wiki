@@ -1,6 +1,9 @@
 ---
-title: "Stock Power: Functionality and Requirements (Algo Trading)"
-description: "Discover the functionalities and requirements of algo trading with insights into share transfer and stock power for efficient trading strategies in financial markets."
+category: quant_concept
+description: Discover the functionalities and requirements of algo trading with insights
+  into share transfer and stock power for efficient trading strategies in financial
+  markets.
+title: 'Stock Power: Functionality and Requirements (Algo Trading)'
 ---
 
 Financial instruments are fundamental components of the global financial system. They serve as vehicles for investment, risk management, and funding, and they are crucial for both individual and institutional participants worldwide. At their core, financial instruments are contracts that represent monetary value and can be traded. They come in various forms, each serving distinct purposes and appealing to different types of investors.

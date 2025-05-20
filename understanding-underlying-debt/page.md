@@ -1,6 +1,8 @@
 ---
-title: "Understanding Underlying Debt (Algo Trading)"
-description: "Explore how understanding debt and related metrics influences algorithmic trading strategies Essential insights into debt dynamics for informed investing"
+category: quant_concept
+description: Explore how understanding debt and related metrics influences algorithmic
+  trading strategies Essential insights into debt dynamics for informed investing
+title: Understanding Underlying Debt (Algo Trading)
 ---
 
 Debt is a fundamental concept in finance that represents an obligation to repay borrowed money. It plays a critical role in the financial landscape, influencing the decisions of investors and traders. In the context of algorithmic trading, understanding debt and its related financial dynamics is crucial. Algorithmic trading involves using computer algorithms to execute trades at high speeds, and debt-related financial metrics can significantly impact trading strategies and risk management.

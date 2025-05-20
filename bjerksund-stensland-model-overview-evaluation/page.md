@@ -1,6 +1,8 @@
 ---
-title: "Bjerksund-Stensland Model: Overview and Evaluation (Algo Trading)"
-description: "The Bjerksund-Stensland model provides a sophisticated method for accurately pricing American options by factoring in early exercise features and dividend payments."
+category: quant_concept
+description: The Bjerksund-Stensland model provides a sophisticated method for accurately
+  pricing American options by factoring in early exercise features and dividend payments.
+title: 'Bjerksund-Stensland Model: Overview and Evaluation (Algo Trading)'
 ---
 
 The Bjerksund-Stensland model represents a significant advancement in financial modeling specifically aimed at option pricing. This sophisticated method is primarily applied to American options, which possess distinct features compared to their European counterparts. American options provide the holder with the flexibility to exercise the option at any point before expiration, introducing complexities that require advanced valuation methods such as the Bjerksund-Stensland model.

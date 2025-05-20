@@ -1,6 +1,8 @@
 ---
-title: "Comparison of North Korean and South Korean Economies (Algo Trading)"
-description: "Explore the stark economic differences between North and South Korea highlighting South Korea's global market prowess versus North Korea's isolated struggles."
+category: quant_concept
+description: Explore the stark economic differences between North and South Korea
+  highlighting South Korea's global market prowess versus North Korea's isolated struggles.
+title: Comparison of North Korean and South Korean Economies (Algo Trading)
 ---
 
 Following the Korean War, a significant economic divide developed between South Korea and North Korea. Both nations were left devastated by the conflict, but each chose a different path forward, resulting in divergent economic outcomes. South Korea embraced rapid industrialization and open-market policies, transforming itself into a technological and economic powerhouse. As of recent data, South Korea ranks as the 12th largest economy in the world, distinguished by its advanced technology sector and global influence in automobile manufacturing, electronics, and shipbuilding.

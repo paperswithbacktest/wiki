@@ -1,6 +1,8 @@
 ---
-title: "Implied Volatility in Options and Calendar Spreads (Algo Trading)"
-description: "Explore the power of implied volatility in options trading and calendar spreads learn how algorithmic trading enhances strategy execution for optimal gains"
+category: trading_strategy
+description: Explore the power of implied volatility in options trading and calendar
+  spreads learn how algorithmic trading enhances strategy execution for optimal gains
+title: Implied Volatility in Options and Calendar Spreads (Algo Trading)
 ---
 
 The world of options trading is rich with strategies designed to provide traders with a competitive advantage. Among these sophisticated strategies, the calendar spread stands out due to its unique approach to capitalizing on implied volatility. This strategy involves buying and selling options of the same class, typically calls or puts, with the same strike price but different expiration dates. The calendar spread hinges on the concept of time decay and changes in implied volatility, which can offer traders the potential for profit even when the underlying asset's price remains stable.

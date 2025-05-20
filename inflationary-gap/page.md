@@ -1,6 +1,9 @@
 ---
-title: "Inflationary Gap (Algo Trading)"
-description: "Explore the inflationary gap and its impact on economic stability Discover how algorithmic trading can help navigate market volatility during such economic conditions"
+category: quant_concept
+description: Explore the inflationary gap and its impact on economic stability Discover
+  how algorithmic trading can help navigate market volatility during such economic
+  conditions
+title: Inflationary Gap (Algo Trading)
 ---
 
 Understanding the nuances of the inflationary gap is crucial for economists and investors in macroeconomics. This economic condition occurs when the actual output of an economy surpasses its potential output, leading to upward pressure on prices, also known as inflation. The inflationary gap signifies an economy operating beyond its full employment level, wherein resources are fully utilized, causing prices to rise as demand outpaces supply.

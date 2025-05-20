@@ -1,6 +1,9 @@
 ---
-title: "Penny Stock Reform Act (Algo Trading)"
-description: "Explore the implications of the Penny Stock Reform Act on the volatile penny stock market and algorithmic trading highlighting regulatory challenges and investor protection."
+category: quant_concept
+description: Explore the implications of the Penny Stock Reform Act on the volatile
+  penny stock market and algorithmic trading highlighting regulatory challenges and
+  investor protection.
+title: Penny Stock Reform Act (Algo Trading)
 ---
 
 In an ever-evolving financial landscape, stock reform acts and financial regulation play crucial roles in ensuring market stability and investor protection. The Penny Stock Reform Act epitomizes such legislation, targeting the unpredictable and often speculative domain of penny stocks. These stocks, characterized by their low price and market capitalization, present unique challenges due to their high volatility and susceptibility to fraudulent schemes. 

@@ -1,6 +1,9 @@
 ---
-title: "Diffusion of Innovations Theory (Algo Trading)"
-description: "Explore the impact of algo trading within the context of the Diffusion of Innovations theory understanding how technology adoption is influenced by social change."
+category: quant_concept
+description: Explore the impact of algo trading within the context of the Diffusion
+  of Innovations theory understanding how technology adoption is influenced by social
+  change.
+title: Diffusion of Innovations Theory (Algo Trading)
 ---
 
 The rapid pace of technological advancements is significantly reshaping various sectors, impacting how innovations are adopted and diffused within societies. One domain experiencing profound transformation is the financial market, particularly through the implementation of algorithmic trading, also known as algo trading. This technology utilizes complex algorithms to automate trading decisions, offering enhanced speed and efficiency over traditional trading methods. The adoption and diffusion of such cutting-edge technologies are critical for understanding their broader societal impacts.

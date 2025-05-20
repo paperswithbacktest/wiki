@@ -1,6 +1,8 @@
 ---
-title: "Disadvantages of FIFO Accounting Method (Algo Trading)"
-description: "Explore the disadvantages of the FIFO accounting method in both accounting and algo trading focusing on profit overstatement and execution challenges."
+category: quant_concept
+description: Explore the disadvantages of the FIFO accounting method in both accounting
+  and algo trading focusing on profit overstatement and execution challenges.
+title: Disadvantages of FIFO Accounting Method (Algo Trading)
 ---
 
 FIFO, or First-In, First-Out, is a fundamental concept applied in both accounting and algorithmic trading. In accounting, FIFO is an inventory management technique where the oldest inventory items are recorded as sold first. This method is straightforward and aligns well with the natural flow of inventory, particularly for businesses dealing in perishable goods or items with expiration dates. By using FIFO, companies aim to match the cost of goods sold (COGS) with their most recent sales revenue, allowing for a closer approximation of the current market value of ending inventory.

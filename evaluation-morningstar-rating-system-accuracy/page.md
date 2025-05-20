@@ -1,6 +1,9 @@
 ---
-title: "Evaluation of Morningstar's Rating System Accuracy (Algo Trading)"
-description: "Discover how Morningstar's rating system and algorithmic trading collaborate to enhance investment analysis through historical fund insights and tech-driven strategies."
+category: trading_strategy
+description: Discover how Morningstar's rating system and algorithmic trading collaborate
+  to enhance investment analysis through historical fund insights and tech-driven
+  strategies.
+title: Evaluation of Morningstar's Rating System Accuracy (Algo Trading)
 ---
 
 Investment analysis is a cornerstone of strategic financial decision-making, essential for evaluating various investment opportunities to assess their potential returns and associated risks. This process involves a thorough examination of financial statements, market trends, economic conditions, and other relevant factors to forecast the growth trajectory and profitability of different investment instruments.

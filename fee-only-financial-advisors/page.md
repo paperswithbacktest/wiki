@@ -1,6 +1,9 @@
 ---
-title: "Fee-Only Financial Advisors (Algo Trading)"
-description: "Explore the advantages of fee-only financial advisors and algorithmic trading to enhance your financial strategy with unbiased guidance and automated precision."
+category: trading_strategy
+description: Explore the advantages of fee-only financial advisors and algorithmic
+  trading to enhance your financial strategy with unbiased guidance and automated
+  precision.
+title: Fee-Only Financial Advisors (Algo Trading)
 ---
 
 In the world of personal finance, managing money wisely and making informed investment decisions are pivotal for achieving financial autonomy and security. This article addresses two significant aspects of personal financial management: fee-only financial advisors and algorithmic trading (algo trading). Both elements play essential roles in enhancing one's financial strategy.

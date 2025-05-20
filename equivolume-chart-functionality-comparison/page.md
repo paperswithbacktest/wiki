@@ -1,6 +1,8 @@
 ---
-title: "Equivolume Chart: Functionality and Comparison (Algo Trading)"
-description: "Discover how Equivolume charts integrate price and volume data to provide insights into market trends, offering a valuable tool for algo trading strategies."
+category: quant_concept
+description: Discover how Equivolume charts integrate price and volume data to provide
+  insights into market trends, offering a valuable tool for algo trading strategies.
+title: 'Equivolume Chart: Functionality and Comparison (Algo Trading)'
 ---
 
 The financial world is vast and varied, filled with numerous methods and tools to analyze market movements and enhance trading techniques. These methods range from simple moving averages to more complex charting systems like Equivolume, which offers a distinctive approach by integrating price and volume data into a single visual representation. 

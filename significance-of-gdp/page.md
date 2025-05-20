@@ -1,6 +1,8 @@
 ---
-title: "Significance of GDP (Algo Trading)"
-description: "Understanding GDP is crucial in algorithmic trading as it influences market strategies by providing insights into economic health and growth potential."
+category: quant_concept
+description: Understanding GDP is crucial in algorithmic trading as it influences
+  market strategies by providing insights into economic health and growth potential.
+title: Significance of GDP (Algo Trading)
 ---
 
 Economic indicators are vital tools used by policymakers, analysts, and investors to assess the health and trajectory of financial markets and the broader economy. They serve as signals about the economic environment's current state and future direction, profoundly influencing economic growth. Among these indicators, Gross Domestic Product (GDP) stands out as a primary measure of a country's economic activity and health. GDP quantifies the total value of all goods and services produced over a specific period, offering insights into economic performance and growth potential.
@@ -272,4 +274,3 @@ In summary, economic indicators are essential tools for navigating the complexit
 9. **"The Handbook of Economic Indicators for Policy Making" by United Nations** - This handbook provides guidelines on how economic indicators are used in policy-making. It is essential for understanding the relationship between various indicators and their impact on economic strategy development. 
 
 These resources offer foundational knowledge and advanced insights into economic indicators and algorithmic trading, essential for both novice and experienced practitioners in financial markets.
-

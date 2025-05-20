@@ -1,6 +1,8 @@
 ---
-title: "Use of Leverage in Forex Trading (Algo Trading)"
-description: "Explore the role of leverage in forex trading and how algorithmic strategies optimize market navigation Learn about risk management and automation benefits"
+category: quant_concept
+description: Explore the role of leverage in forex trading and how algorithmic strategies
+  optimize market navigation Learn about risk management and automation benefits
+title: Use of Leverage in Forex Trading (Algo Trading)
 ---
 
 The foreign exchange (forex) market is the largest financial market globally, with a daily trading volume exceeding $6 trillion as of 2021, according to the Bank for International Settlements. Operating as a decentralized market, forex facilitates currency exchange between institutions, governments, businesses, and individuals across the globe. The sheer size and liquidity of the forex market render it a pivotal component of the global financial ecosystem, impacting international trade, investment flows, and economic stability.

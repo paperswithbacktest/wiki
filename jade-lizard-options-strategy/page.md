@@ -1,6 +1,8 @@
 ---
-title: "Jade Lizard Options Strategy (Algo Trading)"
-description: "Unlock the potential of the Jade Lizard options strategy in algorithmic trading to capitalize on market volatility with a neutral to bullish outlook."
+category: trading_strategy
+description: Unlock the potential of the Jade Lizard options strategy in algorithmic
+  trading to capitalize on market volatility with a neutral to bullish outlook.
+title: Jade Lizard Options Strategy (Algo Trading)
 ---
 
 The Jade Lizard strategy presents a distinctive approach to options trading, integrating components of both a short put and a short call spread. This strategy is constructed to capitalize on volatility within the market, offering traders an opportunity to profit from premium collection, provided certain conditions are met. Particularly, it suits traders who maintain a neutral to bullish perspective, making it advantageous for environments characterized by limited price fluctuations or range-bound movements.

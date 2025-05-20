@@ -1,6 +1,12 @@
 ---
-title: "Deposit Broker: Function and Mechanism (Algo Trading)"
-description: "Explore the pivotal roles of deposit brokers and algorithmic trading in the modern financial ecosystem. Learn how deposit brokers enhance liquidity and yield opportunities by connecting investors with financial institutions offering low-risk products. Understand the transformative impact of algo trading on market efficiency and investment strategies. Discover the synergy of technology, compliance, and advice driving innovation in financial services."
+category: quant_concept
+description: Explore the pivotal roles of deposit brokers and algorithmic trading
+  in the modern financial ecosystem. Learn how deposit brokers enhance liquidity and
+  yield opportunities by connecting investors with financial institutions offering
+  low-risk products. Understand the transformative impact of algo trading on market
+  efficiency and investment strategies. Discover the synergy of technology, compliance,
+  and advice driving innovation in financial services.
+title: 'Deposit Broker: Function and Mechanism (Algo Trading)'
 ---
 
 In the ever-evolving world of finance, technology continues to play a pivotal role in reshaping market dynamics. The rapidly advancing field of financial technology, or FinTech, has brought about significant changes in how financial markets operate, leading to more efficient, transparent, and accessible financial services. This article explores the intersection of investment financial services, deposit brokers, and algorithmic trading, all of which are crucial components of the modern financial ecosystem.

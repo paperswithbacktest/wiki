@@ -1,6 +1,8 @@
 ---
-title: "Types of Indexing in ETF Performance (Algo Trading)"
-description: "Explore the different types of indexing in ETF performance and how they enhance investment strategies with the power of algorithmic trading."
+category: trading_strategy
+description: Explore the different types of indexing in ETF performance and how they
+  enhance investment strategies with the power of algorithmic trading.
+title: Types of Indexing in ETF Performance (Algo Trading)
 ---
 
 Investment strategies have long served as the cornerstone of financial success for both individuals and institutions alike. In recent years, Exchange-Traded Funds (ETFs), indexing, and algorithmic trading have emerged prominently as critical components of contemporary investment strategies. ETFs, with their ability to pool various securities into a single fund that trades on stock exchanges like a stock, offer investors a diversified, cost-effective option for tracking indices or specific market sectors. Their ease of trading has made ETFs an attractive choice for investors seeking to achieve a broad market exposure with minimal hassle and reduced fees compared to traditional mutual funds.

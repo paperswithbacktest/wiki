@@ -1,7 +1,8 @@
 ---
-title: Understanding Nora Neural Oblivious Randomized Aggregation Model
+category: quant_concept
 description: Nora Neural Oblivious Randomized Aggregation enables transparent predictions
   by integrating decision trees and improving training Discover more inside
+title: Understanding Nora Neural Oblivious Randomized Aggregation Model
 ---
 
 ![Image](images/1.png)

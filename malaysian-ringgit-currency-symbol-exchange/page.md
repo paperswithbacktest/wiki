@@ -1,6 +1,8 @@
 ---
-title: "Malaysian Ringgit: Currency Symbol and Exchange (Algo Trading)"
-description: "Explore the Malaysian Ringgit's role in both traditional forex and modern algorithmic trading Discover its history value and impact on Southeast Asia."
+category: quant_concept
+description: Explore the Malaysian Ringgit's role in both traditional forex and modern
+  algorithmic trading Discover its history value and impact on Southeast Asia.
+title: 'Malaysian Ringgit: Currency Symbol and Exchange (Algo Trading)'
 ---
 
 The Malaysian Ringgit, often symbolized as RM, serves as the national currency of Malaysia. This article explores various facets of the Malaysian Ringgit, including its history, currency symbol, and its role in currency exchange and algorithmic trading. Understanding the significance of the Ringgit in the Forex market is essential for both traders and tourists. The Ringgit's presence extends beyond Malaysia, influencing trading dynamics in neighboring regions such as Indonesia and Thailand. With a focus on both historical and modern financial landscapes, this guide offers a comprehensive outlook on the Malaysian Ringgit in both economic and trading contexts.

@@ -1,7 +1,8 @@
 ---
-title: Understanding Hallucination in Machine Learning Models
+category: quant_concept
 description: Hallucination in machine learning undermines AI reliability with false
   data. Developers combat it with better data and fact checks. Discover more inside
+title: Understanding Hallucination in Machine Learning Models
 ---
 
 ![Image](images/1.png)

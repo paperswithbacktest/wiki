@@ -1,7 +1,8 @@
 ---
-title: Language Model Pre-Training Methods for Effective AI Solutions
+category: quant_concept
 description: Language model pre-training explains key strategies used by MPNet ERNIE-GEN
   ReasonBERT and K3M to boost AI understanding and efficiency Discover more inside
+title: Language Model Pre-Training Methods for Effective AI Solutions
 ---
 
 ![Image](images/1.jpeg)

@@ -1,6 +1,9 @@
 ---
-title: "Net Option Premium (Algo Trading)"
-description: "Explore the intersection of options trading, net option premium, and algorithmic trading strategies for enhanced precision and automated risk management in dynamic markets."
+category: quant_concept
+description: Explore the intersection of options trading, net option premium, and
+  algorithmic trading strategies for enhanced precision and automated risk management
+  in dynamic markets.
+title: Net Option Premium (Algo Trading)
 ---
 
 In today's dynamic financial markets, the role of options trading and financial derivatives is paramount, serving as crucial components in sophisticated trading strategies. Options, a type of derivative, offer traders specific rights to purchase or sell an underlying asset at a pre-determined price and time, without obligating them to do so. Because they derive their value from underlying assets like stocks, commodities, or indices, derivatives provide traders with versatile tools for hedging, speculation, and income generation, ultimately enhancing their trading arsenal.

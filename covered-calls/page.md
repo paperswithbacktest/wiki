@@ -1,6 +1,13 @@
 ---
-title: "Covered Calls Strategy Explained (Algo Trading)"
-description: Discover the intricacies of integrating covered call strategies into algorithmic trading. Explore how this popular options trading method may pose challenges due to its capped upside potential, risk/reward profile, and limited effectiveness in rapidly changing markets. Learn why covered calls might not align with algorithms designed to exploit significant market movements and trends. Uncover the complexities and potential drawbacks, equipping traders with insights to make informed decisions about using covered calls within automated trading systems.
+category: trading_strategy
+description: Discover the intricacies of integrating covered call strategies into
+  algorithmic trading. Explore how this popular options trading method may pose challenges
+  due to its capped upside potential, risk/reward profile, and limited effectiveness
+  in rapidly changing markets. Learn why covered calls might not align with algorithms
+  designed to exploit significant market movements and trends. Uncover the complexities
+  and potential drawbacks, equipping traders with insights to make informed decisions
+  about using covered calls within automated trading systems.
+title: Covered Calls Strategy Explained (Algo Trading)
 ---
 
 Covered calls are a prominent strategy in options trading, frequently utilized for generating additional income. This strategy involves purchasing the underlying asset, such as a stock, and simultaneously selling call options on that asset. Investors often favor covered calls in stable or moderately bullish markets due to the potential for earning option premiums, thereby providing an additional revenue stream.

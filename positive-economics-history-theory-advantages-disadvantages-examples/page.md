@@ -1,6 +1,9 @@
 ---
-title: "Positive Economics: History, Theory, Advantages and Disadvantages, Examples (Algo Trading)"
-description: "Explore the history, theory, and impact of positive economics, focusing on algorithmic trading as a practical application in modern financial markets."
+category: quant_concept
+description: Explore the history, theory, and impact of positive economics, focusing
+  on algorithmic trading as a practical application in modern financial markets.
+title: 'Positive Economics: History, Theory, Advantages and Disadvantages, Examples
+  (Algo Trading)'
 ---
 
 Studying the history of economic theory is crucial for understanding the evolution of human thought on resource allocation, decision-making, and policy formulation. By tracing the development of economic ideas, one can appreciate the shifts in paradigms that have influenced how economies operate today. Theories from thinkers like Adam Smith and John Maynard Keynes laid the groundwork for contemporary economic practices and policies, making it essential to comprehend their contributions and limitations. This historical perspective provides valuable lessons and insights that guide current and future economic strategies.

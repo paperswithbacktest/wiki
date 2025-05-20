@@ -1,6 +1,8 @@
 ---
-title: "Calculating Percentage Gain or Loss on an Investment (Algo Trading)"
-description: "Learn how to calculate percentage gains or losses on investments and optimize strategies using algorithmic trading for improved accuracy and efficiency."
+category: quant_concept
+description: Learn how to calculate percentage gains or losses on investments and
+  optimize strategies using algorithmic trading for improved accuracy and efficiency.
+title: Calculating Percentage Gain or Loss on an Investment (Algo Trading)
 ---
 
 Percentage gains and losses are fundamental concepts in the domain of investment, serving as critical indicators of performance over time. These metrics provide a way to quantify the changes in the value of an investment relative to its original value, allowing investors to assess the profitability or loss incurred. Unlike absolute changes, which only show the numerical increase or decrease in value, percentage changes contextualize these figures, making them more meaningful and comparable across different investments.

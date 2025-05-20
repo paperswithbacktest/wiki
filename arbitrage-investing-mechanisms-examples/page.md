@@ -1,6 +1,8 @@
 ---
-title: "Arbitrage in Investing: Mechanisms and Examples (Algo Trading)"
-description: "Arbitrage and algorithmic trading harness market inefficiencies and technology to maximize portfolio returns with minimal risk, transforming financial strategies."
+category: trading_strategy
+description: Arbitrage and algorithmic trading harness market inefficiencies and technology
+  to maximize portfolio returns with minimal risk, transforming financial strategies.
+title: 'Arbitrage in Investing: Mechanisms and Examples (Algo Trading)'
 ---
 
 In finance, arbitrage and algorithmic trading represent powerful strategies for generating returns. Arbitrage involves taking advantage of price differences for identical or similar financial instruments across different markets. By exploiting these discrepancies, investors can secure profits with minimal risk, given the rapid nature of buying and selling these assets. Such opportunities are often fleeting, requiring profound market understanding and swift execution.

@@ -1,6 +1,8 @@
 ---
-title: "Cost Basis: Calculation and Examples (Algo Trading)"
-description: "Understand how accurate cost basis calculations optimize trading strategies in algorithmic trading Learn methods like FIFO LIFO for significant tax impacts"
+category: quant_concept
+description: Understand how accurate cost basis calculations optimize trading strategies
+  in algorithmic trading Learn methods like FIFO LIFO for significant tax impacts
+title: 'Cost Basis: Calculation and Examples (Algo Trading)'
 ---
 
 This article explores the concept of cost basis calculation in the context of algorithmic trading. Cost basis refers to the original value of an asset, which is essential for determining capital gains taxes. In trading, precise cost basis calculations are vital for accurately assessing the profitability of trades and optimizing investment portfolios. Algorithmic trading, with its dependence on precise and instantaneous calculations, can greatly benefit from accurate cost basis determination as it affects trading strategies and financial outcomes.

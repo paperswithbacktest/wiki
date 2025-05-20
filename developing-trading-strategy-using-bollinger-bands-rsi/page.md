@@ -1,6 +1,9 @@
 ---
-title: "Developing a Trading Strategy Using Bollinger Bands and RSI (Algo Trading)"
-description: "Optimize your trading strategy with the dynamic duo of Bollinger Bands and RSI Discover how combining volatility and momentum indicators can enhance your market insights"
+category: trading_strategy
+description: Optimize your trading strategy with the dynamic duo of Bollinger Bands
+  and RSI Discover how combining volatility and momentum indicators can enhance your
+  market insights
+title: Developing a Trading Strategy Using Bollinger Bands and RSI (Algo Trading)
 ---
 
 In the world of trading, finding an effective strategy is paramount to success. Technical analysis plays a crucial role in developing such strategies by providing insights into price movements and market conditions. Among the numerous tools available to traders, the combination of the Relative Strength Index (RSI) and Bollinger Bands stands out for its effectiveness.

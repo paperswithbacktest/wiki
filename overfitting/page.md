@@ -1,6 +1,11 @@
 ---
-title: "Overfitting (Algo Trading)"
-description: Learn about overfitting, a common challenge in algorithmic trading where machine learning models become too specialized in training data and struggle to generalize new data. Discover causes and prevention strategies to build robust and efficient trading models. Continuously evaluate performance for success. Explore resources for trading strategies, libraries, and datasets.
+category: quant_concept
+description: Learn about overfitting, a common challenge in algorithmic trading where
+  machine learning models become too specialized in training data and struggle to
+  generalize new data. Discover causes and prevention strategies to build robust and
+  efficient trading models. Continuously evaluate performance for success. Explore
+  resources for trading strategies, libraries, and datasets.
+title: Overfitting (Algo Trading)
 ---
 
 Algorithmic trading refers to the use of computer algorithms to automate trading instructions in financial markets, facilitating swift and precise execution of buy and sell orders. By leveraging historical data and advanced mathematical models, algorithmic traders aim to exploit market inefficiencies, manage risk, and enhance liquidity. The significance of algorithmic trading in today's financial markets is underscored by its ability to process vast datasets at remarkable speeds, often beyond human capability, thereby allowing for more strategic and timely trading decisions.

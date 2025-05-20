@@ -1,6 +1,8 @@
 ---
-title: "Financial Guarantee: Forms and Types with Example (Algo Trading)"
-description: "Explore the pivotal role of financial guarantees in algorithmic trading examining their types forms and applications to enhance operations and manage risk."
+category: quant_concept
+description: Explore the pivotal role of financial guarantees in algorithmic trading
+  examining their types forms and applications to enhance operations and manage risk.
+title: 'Financial Guarantee: Forms and Types with Example (Algo Trading)'
 ---
 
 Financial guarantees are pivotal in maintaining the stability and functionality of the modern economy. They ensure that financial obligations are fulfilled, even when the original party responsible for the debt is unable to meet its commitments. This safeguard mechanism is essential to facilitate trust and reduce risk in various financial transactions.

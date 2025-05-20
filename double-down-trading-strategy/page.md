@@ -1,6 +1,11 @@
 ---
-title: "Double Down Trading Strategy Explained (Algo Trading)"
-description: Explore the intricacies of the double down trading strategy in algorithmic trading analyzing its rationale and intersection with other strategies like mean reversion and trend following. Understand how doubling down on declining stocks can lower average entry prices while navigating the psychological and strategic considerations essential for risk management and profitability.
+category: trading_strategy
+description: Explore the intricacies of the double down trading strategy in algorithmic
+  trading analyzing its rationale and intersection with other strategies like mean
+  reversion and trend following. Understand how doubling down on declining stocks
+  can lower average entry prices while navigating the psychological and strategic
+  considerations essential for risk management and profitability.
+title: Double Down Trading Strategy Explained (Algo Trading)
 ---
 
 Algorithmic trading has significantly altered the landscape of the stock market by empowering traders with advanced tools capable of analyzing large datasets and executing trades at remarkable speeds and accuracy. As technology proliferates, trading strategies evolve, blending computational power with financial acumen to enhance decision-making and execution processes.

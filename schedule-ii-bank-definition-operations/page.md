@@ -1,6 +1,8 @@
 ---
-title: "Schedule II Bank: Definition and Operations (Algo Trading)"
-description: "Learn about Schedule II banks in Canada their operations as foreign subsidiaries under Canadian regulations and how they leverage algorithmic trading for efficiency."
+category: quant_concept
+description: Learn about Schedule II banks in Canada their operations as foreign subsidiaries
+  under Canadian regulations and how they leverage algorithmic trading for efficiency.
+title: 'Schedule II Bank: Definition and Operations (Algo Trading)'
 ---
 
 Understanding bank classifications, such as Schedule II banks, is crucial for grasping the complexity of the financial landscape and its regulatory dynamics. These classifications delineate the operational capacities and regulatory responsibilities of financial institutions, impacting their business practices and compliance requirements. Primarily, banks in Canada are categorized into different schedules under the Bank Act, which determines their nationality, ownership structure, and permissible activities.

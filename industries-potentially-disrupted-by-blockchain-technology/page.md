@@ -1,6 +1,9 @@
 ---
-title: "Industries Potentially Disrupted by Blockchain Technology (Algo Trading)"
-description: "Explore how blockchain technology is transforming algorithmic trading by enhancing security, reducing costs, and increasing transaction efficiency across financial markets."
+category: quant_concept
+description: Explore how blockchain technology is transforming algorithmic trading
+  by enhancing security, reducing costs, and increasing transaction efficiency across
+  financial markets.
+title: Industries Potentially Disrupted by Blockchain Technology (Algo Trading)
 ---
 
 Blockchain technology has emerged as a transformative force across various industries due to its decentralized, transparent, and secure nature. Originally conceived as the underlying architecture for Bitcoin, blockchain has evolved significantly and is now applied in numerous sectors beyond cryptocurrencies. Its capability to provide a reliable and tamper-proof ledger system has made it particularly attractive to industries requiring robust audit trails and transparency. The financial sector has been one of the earliest adopters of this technology, with blockchain promising to revolutionize processes traditionally fraught with inefficiencies and opacity.

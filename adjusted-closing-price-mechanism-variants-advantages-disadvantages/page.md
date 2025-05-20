@@ -1,6 +1,10 @@
 ---
-title: "Adjusted Closing Price: Mechanism, Variants, Advantages and Disadvantages (Algo Trading)"
-description: "Explore how adjusted closing prices aid investors by providing accurate stock value reflections over time, accounting for dividends, stock splits, and corporate actions."
+category: quant_concept
+description: Explore how adjusted closing prices aid investors by providing accurate
+  stock value reflections over time, accounting for dividends, stock splits, and corporate
+  actions.
+title: 'Adjusted Closing Price: Mechanism, Variants, Advantages and Disadvantages
+  (Algo Trading)'
 ---
 
 The stock market is a complex landscape where investors and analysts seek to determine the value and future potential of securities. At the heart of this analysis lies the concept of adjusted closing prices, a critical metric that goes beyond the raw price data to provide a more accurate and meaningful depiction of a stock's value over time. Unlike unadjusted closing prices, which reflect the last trading price of a security at the end of a trading day, adjusted closing prices account for corporate actions such as dividends and stock splits that affect a company's stock value.

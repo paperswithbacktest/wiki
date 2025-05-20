@@ -1,6 +1,9 @@
 ---
-title: "Development of Trading Strategies Using Chikou Span (Algo Trading)"
-description: "Optimize your trading strategies with the Chikou Span from the Ichimoku system Learn how this tool offers unique market insights to enhance your trading skills"
+category: trading_strategy
+description: Optimize your trading strategies with the Chikou Span from the Ichimoku
+  system Learn how this tool offers unique market insights to enhance your trading
+  skills
+title: Development of Trading Strategies Using Chikou Span (Algo Trading)
 ---
 
 The Ichimoku Kinko Hyo (IKH) trading model, often simply known as Ichimoku, is a comprehensive technical analysis tool that provides insights into market trends, momentum, and support and resistance levels. Developed by the Japanese journalist Goichi Hosoda in the late 1930s and published in 1968, this model is designed to offer a clearer view of potential trading signals compared to traditional candlestick charts. One of the five key components of the Ichimoku system is the Chikou Span, also known as the Lagging Span, which plays a crucial role in validating trends and identifying potential reversals in the market.

@@ -1,6 +1,9 @@
 ---
-title: "order matching (Algo Trading)"
-description: "Order matching in algorithmic trading pairs buy and sell orders for efficient trade execution using sophisticated algorithms ensuring market efficiency and fair pricing."
+category: quant_concept
+description: Order matching in algorithmic trading pairs buy and sell orders for efficient
+  trade execution using sophisticated algorithms ensuring market efficiency and fair
+  pricing.
+title: order matching (Algo Trading)
 ---
 
 Order matching in algorithmic trading is a crucial process that ensures the efficient execution of trades within financial markets. As a cornerstone of electronic trading platforms, it pairs buy and sell orders, facilitating seamless transactions. This article examines the concept of order matching, shedding light on its significance in algorithmic trading and the intricate mechanisms that drive it. 

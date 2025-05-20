@@ -1,6 +1,8 @@
 ---
-title: "Asset Allocation Fund: Overview and Types (Algo Trading)"
-description: "Discover the fundamentals of asset allocation and types of funds, including mutual funds and ETFs, with insights into modern algorithmic trading strategies."
+category: trading_strategy
+description: Discover the fundamentals of asset allocation and types of funds, including
+  mutual funds and ETFs, with insights into modern algorithmic trading strategies.
+title: 'Asset Allocation Fund: Overview and Types (Algo Trading)'
 ---
 
 In the modern financial landscape, the complexity and diversity of investment options have created an evolving need for structured strategies. Investors face a plethora of choices, each with unique risk and return characteristics, necessitating careful consideration and informed decision-making. This article explores various investment strategies, the types of funds available, the principles of asset allocation, and the rise of algorithmic trading in fund management. 

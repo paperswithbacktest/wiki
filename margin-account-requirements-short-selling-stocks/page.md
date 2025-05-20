@@ -1,6 +1,9 @@
 ---
-title: "Margin Account Requirements for Short Selling Stocks (Algo Trading)"
-description: "Explore margin account requirements for short selling stocks and delve into the role of Regulation T in managing financial risks in algorithmic trading strategies."
+category: trading_strategy
+description: Explore margin account requirements for short selling stocks and delve
+  into the role of Regulation T in managing financial risks in algorithmic trading
+  strategies.
+title: Margin Account Requirements for Short Selling Stocks (Algo Trading)
 ---
 
 The financial markets present a myriad of trading strategies, each offering unique mechanisms and opportunities for investors. Among these, short selling, margin accounts, and algorithmic trading have become particularly prominent due to their complexity and potential for profitability. Short selling allows investors to profit from the anticipated decline in stock prices by selling shares they do not own, relying on borrowed stocks. This strategy necessitates a comprehensive understanding of market movements and the ability to predict downturns. Margin accounts, on the other hand, play a pivotal role in enabling such transactions by providing the necessary financial leverage and liquidity. These accounts let investors borrow funds to expand their trading capacity beyond personal capital limitations, subject to stringent regulatory frameworks such as Regulation T.

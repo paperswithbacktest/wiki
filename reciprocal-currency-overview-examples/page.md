@@ -1,6 +1,9 @@
 ---
-title: "Reciprocal Currency: Overview and Examples (Algo Trading)"
-description: "Explore how reciprocal currency exchange and algorithmic trading intersect to boost efficiency and profitability in global financial markets. Discover key concepts and examples."
+category: quant_concept
+description: Explore how reciprocal currency exchange and algorithmic trading intersect
+  to boost efficiency and profitability in global financial markets. Discover key
+  concepts and examples.
+title: 'Reciprocal Currency: Overview and Examples (Algo Trading)'
 ---
 
 In today's globalized economy, currency exchange is integral to international business and finance. Whether facilitating trade between nations or enabling foreign investments, the ability to effectively manage currency exchanges is crucial. With the advent of modern technologies, algorithmic trading has become instrumental in optimizing these processes. Algorithmic trading, which involves using computer algorithms to automate trading decisions, has transitioned from the stock market to currency exchange, providing numerous advantages.

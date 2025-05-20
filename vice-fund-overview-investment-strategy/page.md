@@ -1,6 +1,9 @@
 ---
-title: "Vice Fund: Overview and Investment Strategy (Algo Trading)"
-description: "Explore Vice Fund investment strategy focusing on sectors like alcohol and tobacco with algorithmic trading insights examining market dynamics and ethical investing nuances."
+category: trading_strategy
+description: Explore Vice Fund investment strategy focusing on sectors like alcohol
+  and tobacco with algorithmic trading insights examining market dynamics and ethical
+  investing nuances.
+title: 'Vice Fund: Overview and Investment Strategy (Algo Trading)'
 ---
 
 Investment strategies are continually adapting to a complex and dynamic global landscape, driven by shifts in economic conditions, ethical considerations, and technological advancements. The contemporary investor must navigate this evolving terrain, often choosing between strategies that may prioritize ethical values, capitalize on technology for better precision, or adhere to more traditional approaches focusing on profit maximization despite ethical concerns.

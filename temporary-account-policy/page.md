@@ -1,6 +1,8 @@
 ---
-title: "Temporary Account Policy (Algo Trading)"
-description: "Explore the essentials of temporary accounts, account policies, and algorithmic trading to enhance financial performance and decision-making in today's markets."
+category: quant_concept
+description: Explore the essentials of temporary accounts, account policies, and algorithmic
+  trading to enhance financial performance and decision-making in today's markets.
+title: Temporary Account Policy (Algo Trading)
 ---
 
 In today's rapidly evolving financial landscape, a firm grasp of banking and trading concepts is crucial for both investors and financial professionals. With the increasing complexity of financial markets, it is essential to understand various mechanisms and frameworks that underpin the industry. Temporary accounts are vital for managing cash flows within investment funds, allowing for efficient allocation of resources and minimizing the impact of significant cash movements on portfolio performance. They are recommended by the Global Investment Performance Standards (GIPS) to enhance transparency in fund accounting, thereby ensuring a clear and accurate portrayal of financial data.

@@ -1,7 +1,8 @@
 ---
-title: A Comprehensive Guide to A/B Testing in Machine Learning
+category: trading_strategy
 description: A/B testing in machine learning helps you compare model versions with
   real user data to drive informed decisions and boost performance Discover more inside
+title: A Comprehensive Guide to A/B Testing in Machine Learning
 ---
 
 ![Image](images/1.jpeg)

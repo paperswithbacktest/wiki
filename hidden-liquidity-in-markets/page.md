@@ -1,6 +1,9 @@
 ---
-title: "Hidden Liquidity in Markets (Algo Trading)"
-description: "Explore the dynamics of hidden liquidity in algo trading and iceberg orders to safeguard trades from market impacts, enhancing strategic anonymity and trading success."
+category: quant_concept
+description: Explore the dynamics of hidden liquidity in algo trading and iceberg
+  orders to safeguard trades from market impacts, enhancing strategic anonymity and
+  trading success.
+title: Hidden Liquidity in Markets (Algo Trading)
 ---
 
 In the world of trading, hidden liquidity is a concept that presents both significant challenges and opportunities for market participants. It particularly impacts large-cap stocks, where institutional players frequently utilize advanced techniques, such as algorithmic trading, to place iceberg orders and mask their trading intentions. This practice involves dividing large trade orders into smaller visible parts while keeping the remaining larger volume hidden from the public order book. As a result, hidden liquidity allows traders to execute substantial trades without exerting undue influence on market prices, thereby maintaining strategic anonymity.

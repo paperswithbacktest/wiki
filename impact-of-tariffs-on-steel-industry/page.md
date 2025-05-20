@@ -1,6 +1,8 @@
 ---
-title: "Impact of Tariffs on the Steel Industry (Algo Trading)"
-description: "Discover how tariffs on steel impact market dynamics and economic growth, and how algorithmic trading shapes the global steel industry's landscape."
+category: trading_strategy
+description: Discover how tariffs on steel impact market dynamics and economic growth,
+  and how algorithmic trading shapes the global steel industry's landscape.
+title: Impact of Tariffs on the Steel Industry (Algo Trading)
 ---
 
 The steel industry plays a pivotal role in the global economy, underpinning essential sectors such as manufacturing and infrastructure. As an integral material for construction and production, steel's demand and supply dynamics significantly influence economic stability and growth. In recent years, tariffs on steel imports and exports have emerged as a critical factor shaping the industry's landscape. These tariffs, designed to protect domestic industries from foreign competition, can have widespread implications across various sectors, affecting costs, market competitiveness, and international relations.

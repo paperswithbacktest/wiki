@@ -1,6 +1,8 @@
 ---
-title: "Papua New Guinea Kina (Algo Trading)"
-description: "Explore the dynamics of Papua New Guinea Kina PGK its role in the economy and the potential of algorithmic trading with this unique currency."
+category: quant_concept
+description: Explore the dynamics of Papua New Guinea Kina PGK its role in the economy
+  and the potential of algorithmic trading with this unique currency.
+title: Papua New Guinea Kina (Algo Trading)
 ---
 
 The Papua New Guinea Kina (PGK) serves as the official currency of Papua New Guinea. It was introduced in 1975, replacing the Australian Dollar, to establish monetary independence following the country's pursuit of political sovereignty. The name "kina" is derived from a type of shell traditionally used for trade, reflecting the country's cultural heritage and connection to its economic history.

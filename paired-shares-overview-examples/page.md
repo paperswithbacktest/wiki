@@ -1,6 +1,8 @@
 ---
-title: "Paired Shares: Overview and Examples (Algo Trading)"
-description: "Discover the sophistication of paired shares and algorithmic trading as powerful investment strategies to optimize returns and manage risks effectively."
+category: trading_strategy
+description: Discover the sophistication of paired shares and algorithmic trading
+  as powerful investment strategies to optimize returns and manage risks effectively.
+title: 'Paired Shares: Overview and Examples (Algo Trading)'
 ---
 
 The world of stock trading has evolved significantly over the years with the introduction of technology and advanced mathematical models. Among the many strategies available to investors, paired shares and algorithmic trading stand out as sophisticated methods aimed at optimizing returns. This article will explore a stock trading investment strategy that incorporates paired shares and algorithmic trading, offering an intricate look at how these strategies can be employed effectively.

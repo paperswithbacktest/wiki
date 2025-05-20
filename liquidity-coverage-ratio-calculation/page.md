@@ -1,6 +1,9 @@
 ---
-title: "Liquidity Coverage Ratio Calculation (Algo Trading)"
-description: "Explore how banks calculate the Liquidity Coverage Ratio (LCR) as part of Basel III regulations to manage liquidity and optimize asset management using trading algorithms."
+category: quant_concept
+description: Explore how banks calculate the Liquidity Coverage Ratio (LCR) as part
+  of Basel III regulations to manage liquidity and optimize asset management using
+  trading algorithms.
+title: Liquidity Coverage Ratio Calculation (Algo Trading)
 ---
 
 The financial stability of banks is crucial to the global economy, acting as a backbone for both national and international financial systems. One key element ensuring this stability is the Liquidity Coverage Ratio (LCR), a regulatory standard that allows banks to fulfill their short-term obligations, even amidst financial turbulence. Introduced as part of the Basel III regulations by the Basel Committee on Banking Supervision, the LCR aims to prevent financial crises by requiring banks to hold a sufficient amount of high-quality liquid assets (HQLA) to survive a 30-day stress scenario.

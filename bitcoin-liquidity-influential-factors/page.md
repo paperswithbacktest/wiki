@@ -1,6 +1,12 @@
 ---
-title: "Bitcoin Liquidity and Influential Factors (Algo Trading)"
-description: "Explore the key factors influencing Bitcoin liquidity and the role of algorithmic trading in cryptocurrency markets. Understand how liquidity affects market stability and trading efficiency, and discover the impact of realized volatility, transaction fees, and global financial stress on Bitcoin's liquidity. Learn about the essential function of exchanges in enhancing liquidity and facilitating seamless trading experiences for investors."
+category: trading_strategy
+description: Explore the key factors influencing Bitcoin liquidity and the role of
+  algorithmic trading in cryptocurrency markets. Understand how liquidity affects
+  market stability and trading efficiency, and discover the impact of realized volatility,
+  transaction fees, and global financial stress on Bitcoin's liquidity. Learn about
+  the essential function of exchanges in enhancing liquidity and facilitating seamless
+  trading experiences for investors.
+title: Bitcoin Liquidity and Influential Factors (Algo Trading)
 ---
 
 Cryptocurrency trading has garnered substantial attention due to its potential for high returns, attracting both seasoned investors and newcomers alike. At the heart of this dynamic financial arena lies Bitcoin, which continues to dominate as the most influential digital asset. Its prominence is not only due to its pioneering status but also its substantial market capitalization and widespread recognition.

@@ -1,6 +1,8 @@
 ---
-title: "Top Small-Cap Index Funds (Algo Trading)"
-description: "Explore top small-cap index funds and algorithmic trading strategies to optimize investment returns. Learn how to balance risk and growth potential effectively."
+category: trading_strategy
+description: Explore top small-cap index funds and algorithmic trading strategies
+  to optimize investment returns. Learn how to balance risk and growth potential effectively.
+title: Top Small-Cap Index Funds (Algo Trading)
 ---
 
 The financial world offers a myriad of investment opportunities and strategies, catering to various investor needs and preferences. These include investment funds, stock markets, small-cap index funds, and algorithmic trading, each playing a crucial role in the investment landscape. This article aims to explore these key investment options and strategies, providing readers with the necessary insights to make informed investment decisions.
@@ -218,4 +220,3 @@ Ultimately, the alignment of investment approaches to personal financial goals a
 - Chan, E. P. _Quantitative Trading: How to Build Your Own Algorithmic Trading Business_. This resource guides the process of establishing an algorithmic trading business, covering strategy development, backtesting, and implementation, and is particularly useful for those interested in leveraging quantitative techniques for trading.
 
 - Jansen, S. _Machine Learning for Algorithmic Trading_. This work explores the integration of machine learning models in trading strategies, covering tools and techniques that allow traders to develop and deploy robust algorithms adaptable to market changes, with Python being the primary programming language used throughout the book.
-

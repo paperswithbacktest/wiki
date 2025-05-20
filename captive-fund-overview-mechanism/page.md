@@ -1,6 +1,8 @@
 ---
-title: "Captive Fund: Overview and Mechanism (Algo Trading)"
-description: "Explore how captive funds tailor investments for parent companies enhanced by financial mechanisms and algorithmic trading for optimized returns and risk management."
+category: quant_concept
+description: Explore how captive funds tailor investments for parent companies enhanced
+  by financial mechanisms and algorithmic trading for optimized returns and risk management.
+title: 'Captive Fund: Overview and Mechanism (Algo Trading)'
 ---
 
 Captive funds, financial mechanisms, investment funds, and algorithmic trading are pivotal components in the modern financial ecosystem, each playing a distinct but interrelated role in shaping investment strategies and outcomes. Captive funds are specialized investment funds that are formed and managed primarily for the benefit of a parent company or a defined group of stakeholders. They have unique characteristics, such as tailored investment strategies to align with the parent company's objectives, which may include risk management, capital conservation, or strategic asset deployment.

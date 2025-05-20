@@ -1,6 +1,9 @@
 ---
-title: "Freelance Economy: Overview, Advantages, Disadvantages, and Examples (Algo Trading)"
-description: "Explore the growing freelance economy and algo trading a dynamic mix of tech and independent work that redefines modern employment and investment landscapes"
+category: quant_concept
+description: Explore the growing freelance economy and algo trading a dynamic mix
+  of tech and independent work that redefines modern employment and investment landscapes
+title: 'Freelance Economy: Overview, Advantages, Disadvantages, and Examples (Algo
+  Trading)'
 ---
 
 In the contemporary job landscape, two major trends have emerged: the freelance economy and algorithmic trading. Although they may seem unrelated at first glance, both involve independent work and the integration of evolving technologies. The freelance economy signifies a shift where an increasing number of individuals are opting for flexible, short-term contracts over traditional full-time employment. This model empowers workers to choose projects that align with their skills and preferences, often providing more autonomy and the potential for varied income streams.

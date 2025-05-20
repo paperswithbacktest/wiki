@@ -1,6 +1,8 @@
 ---
-title: "Japan Exchange Group (Algo Trading)"
-description: "Explore how Japan Exchange Group and Tokyo Stock Exchange leverage cutting-edge algorithmic trading technologies to enhance efficiency and drive market innovation."
+category: quant_concept
+description: Explore how Japan Exchange Group and Tokyo Stock Exchange leverage cutting-edge
+  algorithmic trading technologies to enhance efficiency and drive market innovation.
+title: Japan Exchange Group (Algo Trading)
 ---
 
 The Tokyo Stock Exchange (TSE) is one of the largest stock exchanges in the world and plays a crucial role in the global financial markets. Founded in 1878, it has evolved into a significant hub for securities trading in Japan and is integral to the economy's financial landscape. The TSE's importance is magnified by its ability to attract both domestic and international investors due to its comprehensive product offerings and advanced trading infrastructure.
@@ -136,4 +138,3 @@ Looking forward, the TSE and JPX are poised to further their influence in global
 8. **General References**
    - Popper, N. (2012). *Digital Gold: Bitcoin and the Inside Story of the Misfits and Millionaires Trying to Reinvent Money*. Harper.
    - Shiller, R. J. (2015). *Irrational Exuberance*. Princeton University Press.
-

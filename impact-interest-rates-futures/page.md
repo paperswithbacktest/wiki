@@ -1,6 +1,9 @@
 ---
-title: "Impact Of Interest Rates On Futures (Algo Trading)"
-description: "Explore how interest rates influence futures markets and the pivotal role of algorithmic trading, offering valuable insights for savvy investors seeking strategic advantage."
+category: quant_concept
+description: Explore how interest rates influence futures markets and the pivotal
+  role of algorithmic trading, offering valuable insights for savvy investors seeking
+  strategic advantage.
+title: Impact Of Interest Rates On Futures (Algo Trading)
 ---
 
 In the rapidly evolving landscape of financial markets, the interplay among futures markets, interest rates, and algorithmic trading plays a crucial role in shaping market dynamics, investment strategies, and financial stability. Understanding these relationships is essential for participants across the financial spectrum, from individual traders to institutional investors.

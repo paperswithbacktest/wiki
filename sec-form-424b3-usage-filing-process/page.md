@@ -1,6 +1,9 @@
 ---
-title: "SEC Form 424B3: Usage and Filing Process (Algo Trading)"
-description: "SEC Form 424B3 is crucial for maintaining transparency in securities offerings particularly for algorithmic trading by amending disclosures to reflect the latest information."
+category: quant_concept
+description: SEC Form 424B3 is crucial for maintaining transparency in securities
+  offerings particularly for algorithmic trading by amending disclosures to reflect
+  the latest information.
+title: 'SEC Form 424B3: Usage and Filing Process (Algo Trading)'
 ---
 
 SEC Form 424B3 is a vital document within the regulatory framework of securities offerings, serving as an amendment to a prospectus previously filed with the Securities and Exchange Commission (SEC). This form is imperative for companies to maintain transparency and ensure investors are equipped with the most up-to-date and accurate information regarding an offering. In essence, Form 424B3 is an essential component of the securities offering process, which involves issuing financial instruments such as stocks or bonds to the public in order to raise capital. The role of SEC filings in this context is to foster transparency, ensure regulatory compliance, and mitigate informational asymmetries between issuers and investors.

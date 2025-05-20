@@ -1,6 +1,15 @@
 ---
-title: "Cash Conversion Cycle (Algo Trading)"
-description: "Explore the significance of the Cash Conversion Cycle (CCC) in assessing business efficiency and its application in algorithmic trading. Understand how integrating CCC with real-time trading strategies enhances decision-making through insights into a company's liquidity and operational health. This article investigates into the components and calculations of CCC, highlighting its role in optimizing working capital for improved liquidity and financial stability. Analyze the implications of CCC across different industries, noting how sector-specific practices impact inventory turnover and cash flow management. Gain a comprehensive understanding of CCC's influence on financial strategies and sustained growth."
+category: quant_concept
+description: Explore the significance of the Cash Conversion Cycle (CCC) in assessing
+  business efficiency and its application in algorithmic trading. Understand how integrating
+  CCC with real-time trading strategies enhances decision-making through insights
+  into a company's liquidity and operational health. This article investigates into
+  the components and calculations of CCC, highlighting its role in optimizing working
+  capital for improved liquidity and financial stability. Analyze the implications
+  of CCC across different industries, noting how sector-specific practices impact
+  inventory turnover and cash flow management. Gain a comprehensive understanding
+  of CCC's influence on financial strategies and sustained growth.
+title: Cash Conversion Cycle (Algo Trading)
 ---
 
 Financial metrics are crucial for evaluating the health and performance of any business. They offer insights into various aspects of an organization's operations and financial stability, guiding decision-makers in formulating strategies for growth and sustainability. Among these metrics, the Cash Conversion Cycle (CCC) emerges as an essential tool to gauge operational efficiency. The CCC provides a comprehensive view of how efficiently a company manages its working capital, focusing on the time it takes to convert inventory into cash. 

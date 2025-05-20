@@ -1,6 +1,8 @@
 ---
-title: "Effective Yield: Calculation and Example (Algo Trading)"
-description: "Understand the concept of effective yield in algo trading. Learn its calculation and importance in modern finance for maximizing investment returns."
+category: quant_concept
+description: Understand the concept of effective yield in algo trading. Learn its
+  calculation and importance in modern finance for maximizing investment returns.
+title: 'Effective Yield: Calculation and Example (Algo Trading)'
 ---
 
 In the ever-evolving world of finance, understanding investment returns is crucial for both seasoned investors and novices. Accurate assessment of investment outcomes drives strategic decision-making and risk management. One fundamental concept aiding in this analysis is the effective yield, particularly in the context of bond investments. Effective yield is a measure that incorporates the power of compounding, thereby offering a more detailed insight into the profitability of an investment than the nominal yield, which considers only simple interest.

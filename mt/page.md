@@ -1,7 +1,8 @@
 ---
-title: Machine Learning Fundamentals Concepts Types and Applications
+category: quant_concept
 description: Machine Learning transforms data into insights through algorithms explained
   clearly from basics to ethics and deployment Discover more inside.
+title: Machine Learning Fundamentals Concepts Types and Applications
 ---
 
 ![Image](images/1.jpeg)

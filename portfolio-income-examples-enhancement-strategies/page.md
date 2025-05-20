@@ -1,6 +1,8 @@
 ---
-title: "Portfolio Income: Overview, Examples, and Enhancement Strategies (Algo Trading)"
-description: "Discover how to enhance portfolio income through diversified investment strategies, algorithmic trading, and tax advantages for sustainable earnings growth."
+category: trading_strategy
+description: Discover how to enhance portfolio income through diversified investment
+  strategies, algorithmic trading, and tax advantages for sustainable earnings growth.
+title: 'Portfolio Income: Overview, Examples, and Enhancement Strategies (Algo Trading)'
 ---
 
 Portfolio income refers to earnings generated from investment holdings, encompassing interest, dividends, and capital gains. This form of income is a crucial component of comprehensive investment strategies, as it provides a pathway for wealth accumulation beyond regular employment earnings. By leveraging a diversified portfolio, investors can access a steady flow of income with the potential for growth over time. This diversification not only spreads risk but also enhances the overall stability of an investment portfolio. 

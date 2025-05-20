@@ -1,6 +1,8 @@
 ---
-title: "BrokerTec Trading Platform (Algo Trading)"
-description: "Explore BrokerTec's cutting-edge trading platform for fixed income and FX markets featuring advanced algorithmic tools under the CME Group's innovation."
+category: quant_concept
+description: Explore BrokerTec's cutting-edge trading platform for fixed income and
+  FX markets featuring advanced algorithmic tools under the CME Group's innovation.
+title: BrokerTec Trading Platform (Algo Trading)
 ---
 
 In today’s fast-paced financial markets, technology and innovation are pivotal in shaping trading platforms that cater to a wide array of trading instruments and participants. One such platform that has made significant strides in the financial sector is BrokerTec. This platform has established itself as a leader in electronic trading, specifically focusing on fixed income and foreign exchange (FX) markets. BrokerTec’s ability to provide traders with efficient and sophisticated trading tools highlights its prominence in this highly competitive field.

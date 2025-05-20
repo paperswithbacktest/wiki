@@ -1,6 +1,13 @@
 ---
-title: "Information ratio (Algo Trading)"
-description: Discover how the Information Ratio plays a crucial role in algorithmic trading by assessing the risk-adjusted performance of trading strategies. Learn about its significance in evaluating excess returns relative to a benchmark and its effectiveness in refining trading models to maintain a competitive edge in dynamic markets. Explore the distinct benefits of the Information Ratio compared to other performance metrics, and understand its application in achieving superior returns with strategic risk management in the fast-paced world of algorithmic trading.
+category: quant_concept
+description: Discover how the Information Ratio plays a crucial role in algorithmic
+  trading by assessing the risk-adjusted performance of trading strategies. Learn
+  about its significance in evaluating excess returns relative to a benchmark and
+  its effectiveness in refining trading models to maintain a competitive edge in dynamic
+  markets. Explore the distinct benefits of the Information Ratio compared to other
+  performance metrics, and understand its application in achieving superior returns
+  with strategic risk management in the fast-paced world of algorithmic trading.
+title: Information ratio (Algo Trading)
 ---
 
 Algorithmic trading has revolutionized financial markets by providing unparalleled speed and precision in executing trades. At its core lies the efficient assessment of trading strategies using essential performance metrics. Among these metrics, the Information Ratio stands out as a critical tool for evaluating the risk-adjusted performance of an investment strategy, especially amidst the complexities of algorithmic trading.

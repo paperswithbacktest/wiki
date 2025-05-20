@@ -1,6 +1,15 @@
 ---
-title: "Comparison of Cash and Margin Accounts (Algo Trading)"
-description: "Understanding the differences between cash and margin accounts is essential for investors navigating financial markets. Cash accounts require full payment for transactions, thus minimizing risk by preventing borrowing and limiting potential losses to the initial investment, making them ideal for beginners and conservative investors. Conversely, margin accounts allow borrowing from brokers, offering leverage to amplify returns but also increasing risk with the possibility of magnified losses and margin calls. Experienced investors often use margin accounts for advanced strategies like short selling. Moreover, algorithmic trading adds complexity, as account choice influences how these trading algorithms are structured."
+category: trading_strategy
+description: Understanding the differences between cash and margin accounts is essential
+  for investors navigating financial markets. Cash accounts require full payment for
+  transactions, thus minimizing risk by preventing borrowing and limiting potential
+  losses to the initial investment, making them ideal for beginners and conservative
+  investors. Conversely, margin accounts allow borrowing from brokers, offering leverage
+  to amplify returns but also increasing risk with the possibility of magnified losses
+  and margin calls. Experienced investors often use margin accounts for advanced strategies
+  like short selling. Moreover, algorithmic trading adds complexity, as account choice
+  influences how these trading algorithms are structured.
+title: Comparison of Cash and Margin Accounts (Algo Trading)
 ---
 
 Understanding the different types of investment accounts is essential for investors aiming to effectively navigate the financial markets. Two primary types of brokerage accounts, cash accounts, and margin accounts, each offer distinct advantages and considerations that cater to diverse investment strategies and risk appetites.

@@ -1,6 +1,8 @@
 ---
-title: "ISO 14001: Overview and Implementation (Algo Trading)"
-description: "Discover how ISO 14001 helps algorithmic trading firms enhance sustainability while maintaining efficiency, offering both environmental and economic benefits."
+category: quant_concept
+description: Discover how ISO 14001 helps algorithmic trading firms enhance sustainability
+  while maintaining efficiency, offering both environmental and economic benefits.
+title: 'ISO 14001: Overview and Implementation (Algo Trading)'
 ---
 
 The intersection of environmental management and algorithmic trading has become increasingly significant with the growing imperative for sustainable business practices. Algorithmic trading, which relies heavily on computational capability and efficient data processing, often demands substantial energy resources. As global awareness regarding environmental sustainability intensifies, even industries driven by advanced technology, such as algorithmic trading, must consider their environmental impact.

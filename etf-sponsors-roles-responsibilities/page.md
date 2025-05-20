@@ -1,6 +1,9 @@
 ---
-title: "ETF Sponsors: Roles and Responsibilities (Algo Trading)"
-description: "Discover the roles and responsibilities of ETF sponsors in algorithmic trading and financial services Understand how ETFs bring efficiency and access to diverse markets"
+category: quant_concept
+description: Discover the roles and responsibilities of ETF sponsors in algorithmic
+  trading and financial services Understand how ETFs bring efficiency and access to
+  diverse markets
+title: 'ETF Sponsors: Roles and Responsibilities (Algo Trading)'
 ---
 
 Exchange-traded funds (ETFs) have become a cornerstone for investors looking to access a wide range of assets without extensive costs and complexities. As financial markets evolve, ETFs provide a versatile tool that mirrors the behavior of diversified portfolios, trading seamlessly like individual stocks. ETFs offer access to broad markets and niche sectors, catering to varied investment strategies and risk appetites.

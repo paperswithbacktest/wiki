@@ -1,6 +1,8 @@
 ---
-title: "Common Oil and Gas Exchange-Traded Funds (Algo Trading)"
-description: "Explore the surge in oil and gas ETFs and learn how algorithmic trading enhances energy investments by optimizing efficiencies and managing risks effectively."
+category: trading_strategy
+description: Explore the surge in oil and gas ETFs and learn how algorithmic trading
+  enhances energy investments by optimizing efficiencies and managing risks effectively.
+title: Common Oil and Gas Exchange-Traded Funds (Algo Trading)
 ---
 
 In recent years, there has been a notable surge in interest in energy investments, particularly within the oil and gas sectors. This rising attention is driven by the essential role energy plays in the global economy, coupled with the fluctuating demands and prices of oil and gas. As traditional energy sources continue to be pivotal in the energy mix, investors are increasingly looking for efficient ways to gain exposure to these markets, aiming for potentially lucrative returns.

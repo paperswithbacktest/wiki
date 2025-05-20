@@ -1,6 +1,8 @@
 ---
-title: "Covariance Impact on Portfolio Risk and Return (Algo Trading)"
-description: "Explore the interplay of risk and return in portfolios through the concepts of covariance and algorithmic trading to optimize investment strategies effectively."
+category: quant_concept
+description: Explore the interplay of risk and return in portfolios through the concepts
+  of covariance and algorithmic trading to optimize investment strategies effectively.
+title: Covariance Impact on Portfolio Risk and Return (Algo Trading)
 ---
 
 In today's dynamic financial market, successful investing demands both a comprehensive understanding of risk and a strategic approach to returns. Investors continuously seek ways to optimize their portfolios, aiming to balance potential risks with anticipated returns. This article explores crucial investment concepts, including investment return, portfolio risk, covariance, and algorithmic trading, all of which are fundamental to modern investment strategies.

@@ -1,6 +1,8 @@
 ---
-title: "Historical Cases of Hyperinflation (Algo Trading)"
-description: "Explore historical hyperinflation cases and the innovative role of algorithmic trading in managing economic volatility and crafting resilient financial strategies."
+category: quant_concept
+description: Explore historical hyperinflation cases and the innovative role of algorithmic
+  trading in managing economic volatility and crafting resilient financial strategies.
+title: Historical Cases of Hyperinflation (Algo Trading)
 ---
 
 Understanding the key economic challenges is crucial in today's dynamic financial landscape. Inflation and hyperinflation are recurrent themes in economic history that create significant uncertainties for individuals and businesses. Inflation is the rate at which the general level of prices for goods and services rises, consequently eroding purchasing power. Hyperinflation is an extreme form of inflation characterized by rapid and uncontrollable price increases, causing economic instability on a massive scale. Historical instances of hyperinflation highlight the vulnerabilities and systemic risks present in national economies, often resulting from fiscal mismanagement, geopolitical turmoil, or external economic pressures.

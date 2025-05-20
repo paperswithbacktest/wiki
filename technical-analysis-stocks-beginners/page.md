@@ -1,6 +1,8 @@
 ---
-title: "Technical Analysis of Stocks for Beginners (Algo Trading)"
-description: "Explore technical analysis and algorithmic trading fundamentals to enhance decision-making and potential investment returns for stock market beginners."
+category: trading_strategy
+description: Explore technical analysis and algorithmic trading fundamentals to enhance
+  decision-making and potential investment returns for stock market beginners.
+title: Technical Analysis of Stocks for Beginners (Algo Trading)
 ---
 
 Technical analysis and algorithmic trading have gained substantial traction among investors and traders, particularly those new to the stock market who seek to comprehend market fluctuations and enhance decision-making capabilities. These methodologies provide a systematic approach to analyzing financial markets by utilizing tools and strategies designed to facilitate informed decisions, mitigate emotional biases, and potentially increase investment returns.

@@ -1,6 +1,9 @@
 ---
-title: "Importance of Capital Adequacy Ratio to Shareholders (Algo Trading)"
-description: "Explore the significance of Capital Adequacy Ratio (CAR) for shareholders in banking sectors Learn how CAR ensures financial health aids in decision making and enhances trading strategies"
+category: quant_concept
+description: Explore the significance of Capital Adequacy Ratio (CAR) for shareholders
+  in banking sectors Learn how CAR ensures financial health aids in decision making
+  and enhances trading strategies
+title: Importance of Capital Adequacy Ratio to Shareholders (Algo Trading)
 ---
 
 In today's complex financial landscape, understanding key financial metrics is crucial for shareholders, especially within the banking and trading sectors. Among these metrics, the Capital Adequacy Ratio (CAR) holds significant importance as it measures a bank's available capital relative to its risk-weighted assets. This ratio provides insights into a bank's capacity to withstand financial strain, ensuring that depositors' funds are safeguarded and the broader financial system remains stable. For shareholders, a robust CAR is an indicator of the bank's financial health and resilience, thereby aiding in making informed investment decisions.

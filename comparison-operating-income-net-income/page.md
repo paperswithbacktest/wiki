@@ -1,6 +1,9 @@
 ---
-title: "Comparison of Operating Income and Net Income (Algo Trading)"
-description: "Explore the distinctions between operating income and net income in algo trading to gain insights into a company's financial performance and enhance trading strategies."
+category: quant_concept
+description: Explore the distinctions between operating income and net income in algo
+  trading to gain insights into a company's financial performance and enhance trading
+  strategies.
+title: Comparison of Operating Income and Net Income (Algo Trading)
 ---
 
 Operating income and net income are critical components in financial reporting, offering insight into a company's financial health and performance. Operating income, often called operating profit, measures the profit realized from a company's core business operations, excluding deductions for interest and taxes. It is a vital metric for assessing the efficiency and profitability of a company's operations without the influence of external financial activities. On the other hand, net income, commonly referred to as the bottom line, includes all revenues and expenses, providing a comprehensive picture of a company's profitability. This measure accounts for non-operating expenses, taxes, and interest, reflecting the company's net profit over a specific period.

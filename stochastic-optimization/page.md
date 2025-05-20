@@ -1,7 +1,8 @@
 ---
-title: Stochastic Optimization Techniques to Accelerate Model Training
+category: quant_concept
 description: Stochastic Optimization speeds model training and improves convergence
   using algorithms like SGD Adam RMSProp and advanced variants Discover more inside
+title: Stochastic Optimization Techniques to Accelerate Model Training
 ---
 
 ![Image](images/1.png)

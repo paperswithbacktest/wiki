@@ -1,6 +1,8 @@
 ---
-title: "Investment Management Beyond Stock Transactions (Algo Trading)"
-description: "Explore investment management beyond stock transactions with insights on portfolio management and algorithmic trading for optimized financial strategies."
+category: trading_strategy
+description: Explore investment management beyond stock transactions with insights
+  on portfolio management and algorithmic trading for optimized financial strategies.
+title: Investment Management Beyond Stock Transactions (Algo Trading)
 ---
 
 In today's fast-paced financial world, effective wealth management is critical to achieving financial goals. This article focuses on the intricacies of financial services, particularly exploring investment management, portfolio management, and algorithmic trading. Understanding these components and their interconnections is essential for both individual and institutional investors aiming to optimize their financial strategies. 

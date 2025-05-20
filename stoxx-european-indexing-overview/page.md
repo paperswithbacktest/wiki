@@ -1,6 +1,8 @@
 ---
-title: "STOXX European Indexing Overview (Algo Trading)"
-description: "Discover the STOXX European Indexing overview which highlights key insights into robust indices like Euro STOXX 50 and the role of algo trading."
+category: dataset
+description: Discover the STOXX European Indexing overview which highlights key insights
+  into robust indices like Euro STOXX 50 and the role of algo trading.
+title: STOXX European Indexing Overview (Algo Trading)
 ---
 
 The STOXX Index family is a crucial component of the European financial markets, serving as a benchmark for gauging the performance of leading markets across Europe. These indices, managed by Qontigo, a subsidiary of Deutsche Börse, offer a comprehensive suite of indices covering various sectors and regions, with a significant focus on European economies. The most significant among them, the Euro STOXX 50, is widely recognized as the European counterpart to the Dow Jones Industrial Average, reflecting the performance of the top 50 blue-chip companies in the Eurozone.

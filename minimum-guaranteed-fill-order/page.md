@@ -1,6 +1,14 @@
 ---
-title: "Minimum Guaranteed Fill Order (Algo Trading)"
-description: "Discover the benefits of Minimum Guaranteed Fill (MGF) orders in algorithmic trading. MGF orders ensure that retail trades are executed at the best available prices, enhancing market liquidity and investor confidence. This comprehensive guide explores MGF order functionality, advantages, and integration in trading to promote efficiency and fair access to the market, crucial during fluctuating conditions. Learn how MGF orders help maintain market stability and provide assurance of fair pricing by seamlessly completing trades even in periods of low liquidity. Uncover why MGF orders are essential for effective trading strategies."
+category: quant_concept
+description: Discover the benefits of Minimum Guaranteed Fill (MGF) orders in algorithmic
+  trading. MGF orders ensure that retail trades are executed at the best available
+  prices, enhancing market liquidity and investor confidence. This comprehensive guide
+  explores MGF order functionality, advantages, and integration in trading to promote
+  efficiency and fair access to the market, crucial during fluctuating conditions.
+  Learn how MGF orders help maintain market stability and provide assurance of fair
+  pricing by seamlessly completing trades even in periods of low liquidity. Uncover
+  why MGF orders are essential for effective trading strategies.
+title: Minimum Guaranteed Fill Order (Algo Trading)
 ---
 
 Understanding the dynamics of order execution is crucial for making informed investment decisions in stock trading. Among various order types, the Minimum Guaranteed Fill (MGF) order stands out as an essential tool in algorithmic trading. MGF orders ensure that small retail trades are executed at the best available price, thereby providing retail investors with fair access to the market even under fluctuating conditions. This article aims to provide a comprehensive overview of how MGF orders function, their distinct advantages, and their integration into the broader framework of algorithmic trading. By examining these orders, we can appreciate their role in enhancing market efficiency and investor confidence.

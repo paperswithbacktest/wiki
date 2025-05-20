@@ -1,6 +1,8 @@
 ---
-title: "SEC Form U-7D (Algo Trading)"
-description: "Explore SEC Form U-7D's crucial role in regulatory compliance for utility leasing and automated trading ensuring transparency and protecting market integrity."
+category: quant_concept
+description: Explore SEC Form U-7D's crucial role in regulatory compliance for utility
+  leasing and automated trading ensuring transparency and protecting market integrity.
+title: SEC Form U-7D (Algo Trading)
 ---
 
 Securities filings are a fundamental aspect of maintaining transparency and regulatory compliance in financial markets. The U.S. Securities and Exchange Commission (SEC) plays a pivotal role in overseeing these filings, ensuring that entities within the financial sector adhere to regulations designed to protect investors and maintain market integrity. Among these filings, Form U-7D stands out as an essential document, particularly for companies involved in utility leasing and automated trading.

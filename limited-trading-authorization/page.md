@@ -1,6 +1,8 @@
 ---
-title: "Limited Trading Authorization (Algo Trading)"
-description: "Discover the role of limited trading authorization in balancing control and autonomy in algorithmic trading for effective investment portfolio management."
+category: trading_strategy
+description: Discover the role of limited trading authorization in balancing control
+  and autonomy in algorithmic trading for effective investment portfolio management.
+title: Limited Trading Authorization (Algo Trading)
 ---
 
 Financial trading plays a pivotal role in modern markets, serving as the backbone of the global economy. The continuous buying and selling of financial instruments such as stocks, bonds, and commodities facilitate price discovery, liquidity, and risk management, thereby sustaining healthy market dynamics. This robust system enables investors to manage and grow their portfolios, contributing to overall economic stability and growth.

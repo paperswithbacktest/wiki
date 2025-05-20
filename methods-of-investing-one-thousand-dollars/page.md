@@ -1,6 +1,9 @@
 ---
-title: "Methods of Investing One Thousand Dollars (Algo Trading)"
-description: "Maximize your $1000 investment with algorithmic trading Learn how to leverage algo trading for improved efficiency and potential returns with innovative strategies"
+category: trading_strategy
+description: Maximize your $1000 investment with algorithmic trading Learn how to
+  leverage algo trading for improved efficiency and potential returns with innovative
+  strategies
+title: Methods of Investing One Thousand Dollars (Algo Trading)
 ---
 
 With a budget of only $1,000, investing can appear overwhelming. However, the emergence of algorithmic trading presents unique opportunities for both novice and seasoned investors. This article focuses on various investment strategies, particularly on initiating algorithmic trading (often referred to as algo trading) with just $1,000. 

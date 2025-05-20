@@ -1,7 +1,8 @@
 ---
-title: Understanding Machine Learning Loss Surfaces and Optimization
+category: quant_concept
 description: Loss surface shows how model errors vary with parameters and directs
   optimization to improve predictions and performance Discover more inside
+title: Understanding Machine Learning Loss Surfaces and Optimization
 ---
 
 ![Image](images/1.png)

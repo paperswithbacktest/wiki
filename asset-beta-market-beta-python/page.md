@@ -1,6 +1,13 @@
 ---
-title: "Asset Beta vs. Market Beta in Python (Algo Trading)"
-description: Discover the role of beta in algorithmic trading as a key metric for assessing stock volatility and risk. Learn how beta, a statistical measure, helps traders optimize portfolios and hedge against market fluctuations. This article provides a comprehensive guide to calculating a stock's beta using Python, offering insights into enhancing trading strategies through mathematical and programming techniques. Understand the significance of beta in evaluating systematic risk and its integration in creating balanced, efficient investment approaches in algo trading.
+category: quant_concept
+description: Discover the role of beta in algorithmic trading as a key metric for
+  assessing stock volatility and risk. Learn how beta, a statistical measure, helps
+  traders optimize portfolios and hedge against market fluctuations. This article
+  provides a comprehensive guide to calculating a stock's beta using Python, offering
+  insights into enhancing trading strategies through mathematical and programming
+  techniques. Understand the significance of beta in evaluating systematic risk and
+  its integration in creating balanced, efficient investment approaches in algo trading.
+title: Asset Beta vs. Market Beta in Python (Algo Trading)
 ---
 
 In algorithmic trading, understanding the volatility and risk associated with individual stocks is crucial. One of the key metrics used to measure this risk is the beta coefficient. Beta is a dimensionless statistical measure that evaluates a stock's volatility in relation to the overall market. It provides insights into how much a stock's price might change in response to market movements. Specifically, a stock with a beta greater than 1 is considered more volatile than the market, indicating higher risk but potentially higher returns. Conversely, a beta less than 1 signifies a stock that is less volatile, suggesting a safer investment with possibly lower returns.

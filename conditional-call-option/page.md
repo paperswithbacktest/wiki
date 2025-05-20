@@ -1,6 +1,9 @@
 ---
-title: "Conditional Call Option (Algo Trading)"
-description: "Explore the benefits of conditional call options in algo trading for enhanced risk management and precision. Learn how these strategies optimize trading outcomes."
+category: quant_concept
+description: Explore the benefits of conditional call options in algo trading for
+  enhanced risk management and precision. Learn how these strategies optimize trading
+  outcomes.
+title: Conditional Call Option (Algo Trading)
 ---
 
 Financial derivatives are essential instruments in modern financial markets, providing a versatile array of tools for risk management, speculation, and income generation. Among these instruments, conditional call options stand out for their unique provisions within the bonds market. These options offer substantial benefits to bondholders by incorporating clauses that protect against early redemption risks, thereby maintaining investment security in volatile interest rate environments.

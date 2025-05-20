@@ -1,6 +1,9 @@
 ---
-title: "United Nations Global Compact: Overview and Principles (Algo Trading)"
-description: "Explore how the UN Global Compact's principles align with algorithmic trading fostering ethical and sustainable financial practices within modern global markets."
+category: quant_concept
+description: Explore how the UN Global Compact's principles align with algorithmic
+  trading fostering ethical and sustainable financial practices within modern global
+  markets.
+title: 'United Nations Global Compact: Overview and Principles (Algo Trading)'
 ---
 
 The intersection of global governance and financial innovation marks a new frontier in sustainable finance. As the world increasingly recognizes the importance of aligning economic activities with sustainable development goals, the United Nations Global Compact (UNGC) emerges as a pivotal initiative in promoting responsible business practices worldwide. Founded on ten principles covering human rights, labor, the environment, and anti-corruption, the UNGC serves as a framework for businesses to integrate social and environmental concerns into their operations andstrategies.

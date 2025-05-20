@@ -1,6 +1,9 @@
 ---
-title: "Risk-Free Rate of Return (Algo Trading)"
-description: "Explore the critical roles of ROI, the risk-free rate, and algorithmic trading in financial decision-making Gain insights into these fundamental investment concepts"
+category: quant_concept
+description: Explore the critical roles of ROI, the risk-free rate, and algorithmic
+  trading in financial decision-making Gain insights into these fundamental investment
+  concepts
+title: Risk-Free Rate of Return (Algo Trading)
 ---
 
 In the world of finance, concepts like return on investment (ROI), the risk-free rate, financial theory, and algorithmic trading are essential. These elements are interrelated and critically influence decision-making in the financial markets. ROI is a fundamental concept that measures an investment's profitability, guiding investors in evaluating and comparing potential ventures. Meanwhile, the risk-free rate serves as the benchmark for assessing investment risk and expected returns, typically associated with secure government securities such as U.S. Treasury bills.

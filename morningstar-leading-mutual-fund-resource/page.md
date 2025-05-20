@@ -1,6 +1,8 @@
 ---
-title: "Morningstar as a Leading Mutual Fund Resource (Algo Trading)"
-description: "Optimize your investment strategies with Morningstar's mutual fund insights and algorithmic trading techniques Learn how to manage risk and maximize returns"
+category: trading_strategy
+description: Optimize your investment strategies with Morningstar's mutual fund insights
+  and algorithmic trading techniques Learn how to manage risk and maximize returns
+title: Morningstar as a Leading Mutual Fund Resource (Algo Trading)
 ---
 
 In today's rapidly evolving financial landscape, investors are increasingly focused on identifying reliable and effective tools to optimize their portfolios. With the growing complexity of global markets, traditional investment methods are often supplemented by sophisticated resources like mutual funds, Morningstar ratings, and algorithmic trading. These resources collectively play pivotal roles in shaping modern investment strategies, catering to a wide range of investor needs and preferences.

@@ -1,6 +1,9 @@
 ---
-title: "United States Department of Commerce: Role and Evolution (Algo Trading)"
-description: "Explore the critical role and evolution of the United States Department of Commerce in promoting business growth through innovation and algorithmic trading advancements."
+category: quant_concept
+description: Explore the critical role and evolution of the United States Department
+  of Commerce in promoting business growth through innovation and algorithmic trading
+  advancements.
+title: 'United States Department of Commerce: Role and Evolution (Algo Trading)'
 ---
 
 The Department of Commerce (DOC) is a crucial component of the United States government, tasked with the promotion of business, trade, and fostering economic growth throughout the nation. Established more than a century ago, the DOC has continuously adapted and refined its strategies to address the evolving demands of a global economy. This transformation is reflected in the various bureaus and offices that operate under its umbrella, each designed to support the DOC's overarching mission.

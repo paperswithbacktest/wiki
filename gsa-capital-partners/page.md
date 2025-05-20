@@ -1,6 +1,8 @@
 ---
-title: "GSA Capital Partners (Algo Trading)"
-description: "GSA Capital Partners is a leader in algorithmic trading known for using advanced technology and high-frequency strategies to impact global financial markets."
+category: trading_strategy
+description: GSA Capital Partners is a leader in algorithmic trading known for using
+  advanced technology and high-frequency strategies to impact global financial markets.
+title: GSA Capital Partners (Algo Trading)
 ---
 
 GSA Capital Partners stands as a prominent figure in algorithmic trading, known for its sophisticated trading strategies and global influence. The firm was established in 2005, marking its inception as a significant player in the financial trading sector. Over the years, GSA Capital has evolved from its foundational days, adapting to the rapid advancements in technology and the changing dynamics of financial markets. This evolution saw the firm embracing cutting-edge technology and data-driven strategies that transformed its operations and expanded its market presence globally.

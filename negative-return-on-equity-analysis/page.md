@@ -1,6 +1,9 @@
 ---
-title: "Negative Return on Equity: An Analysis (Algo Trading)"
-description: "Explore the intricacies of negative Return on Equity and its impact on investment strategies in algorithmic trading. Understand the challenges companies face."
+category: quant_concept
+description: Explore the intricacies of negative Return on Equity and its impact on
+  investment strategies in algorithmic trading. Understand the challenges companies
+  face.
+title: 'Negative Return on Equity: An Analysis (Algo Trading)'
 ---
 
 Return on Equity (ROE) is a fundamental metric used in financial analysis to evaluate a company's ability to generate profit from its shareholders' equity. It provides a snapshot of how effectively management is using a company’s assets to create earnings. Calculated as the net income divided by shareholders' equity, ROE is expressed as a percentage:

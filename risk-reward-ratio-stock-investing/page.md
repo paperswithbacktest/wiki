@@ -1,6 +1,9 @@
 ---
-title: "Risk-Reward Ratio in Stock Investing (Algo Trading)"
-description: "Explore essential strategies and the importance of risk-reward ratios in stock investing with a focus on how algorithmic trading can enhance your investment outcomes."
+category: trading_strategy
+description: Explore essential strategies and the importance of risk-reward ratios
+  in stock investing with a focus on how algorithmic trading can enhance your investment
+  outcomes.
+title: Risk-Reward Ratio in Stock Investing (Algo Trading)
 ---
 
 Investment strategies, risk-reward ratios, stock investing, and algorithmic trading are foundational concepts critical to comprehending the stock market's intricate ecosystem. Investment strategies are systematic plans created to guide an investor's selection and management of an investment portfolio. They vary from conservative approaches aimed at preserving capital to aggressive tactics seeking high returns, often tailored to align with an individual’s risk tolerance and financial goals.

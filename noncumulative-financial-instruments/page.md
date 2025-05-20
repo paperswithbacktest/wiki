@@ -1,6 +1,8 @@
 ---
-title: "Noncumulative Financial Instruments (Algo Trading)"
-description: "Explore noncumulative financial instruments and algorithmic trading to diversify investment portfolios maximize returns and improve trading efficiency."
+category: quant_concept
+description: Explore noncumulative financial instruments and algorithmic trading to
+  diversify investment portfolios maximize returns and improve trading efficiency.
+title: Noncumulative Financial Instruments (Algo Trading)
 ---
 
 In finance, the quest for innovative strategies to maximize returns and manage risks has led to the adoption of noncumulative financial instruments and algorithmic trading. Noncumulative financial instruments, particularly prevalent in the form of preferred stocks, offer a distinctive approach to pursuing steady returns. Unlike cumulative instruments, they do not retain unpaid dividends, which can affect investor decisions and preferences. While this characteristic may seem less appealing to some, it garners interest from investors who prioritize other factors, such as capital stability or compatibility with specific strategic goals.

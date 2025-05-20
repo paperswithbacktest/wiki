@@ -1,6 +1,9 @@
 ---
-title: "Close Location Value: Overview, Limitations, and Formula (Algo Trading)"
-description: "Explore Close Location Value for trading insights Discover CLV's role in technical analysis its limitations and how it complements other indicators in algo trading"
+category: quant_concept
+description: Explore Close Location Value for trading insights Discover CLV's role
+  in technical analysis its limitations and how it complements other indicators in
+  algo trading
+title: 'Close Location Value: Overview, Limitations, and Formula (Algo Trading)'
 ---
 
 Close Location Value (CLV) is a crucial element in the toolkit of technical analysts and traders, playing a significant role in understanding how an asset's closing price connects with its high and low values within a trading day. The indicator provides insights into market sentiment by evaluating whether the closing price trends toward the upper or lower end of the day's trading range. This can indicate bullish or bearish trends, which are essential cues for making informed trading decisions.

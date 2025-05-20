@@ -1,6 +1,9 @@
 ---
-title: "Manufacturing: Types, Examples, and Economic Indicators (Algo Trading)"
-description: "Explore how types of manufacturing processes and economic indicators interact with algorithmic trading for strategic financial advantages in today's markets."
+category: trading_strategy
+description: Explore how types of manufacturing processes and economic indicators
+  interact with algorithmic trading for strategic financial advantages in today's
+  markets.
+title: 'Manufacturing: Types, Examples, and Economic Indicators (Algo Trading)'
 ---
 
 In today's fast-paced financial markets, the ability to understand and act on key economic indicators is essential for making informed trading decisions. Economic indicators provide critical information about the state of the economy, which, when analyzed effectively, can lead to strategic advantages in trading. This article explores the intricate interactions between economic indicators, manufacturing processes, and algorithmic trading strategies. 

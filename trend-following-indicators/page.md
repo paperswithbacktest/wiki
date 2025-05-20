@@ -1,6 +1,10 @@
 ---
-title: "Trend Following Indicators and Algo Trading"
-description: Discover the power of trend following in trading through this comprehensive guide. Learn about different types of trends, top indicators like Moving Averages (SMA & EMA), and how they help traders maximize profits, manage risk, and make informed decisions.
+category: trading_strategy
+description: Discover the power of trend following in trading through this comprehensive
+  guide. Learn about different types of trends, top indicators like Moving Averages
+  (SMA & EMA), and how they help traders maximize profits, manage risk, and make informed
+  decisions.
+title: Trend Following Indicators and Algo Trading
 ---
 
 Trend following is a cornerstone of trading, serving as one of the most time-tested and reliable strategies across various financial markets. At its core, trend following is a methodology that capitalizes on the principle that asset prices tend to move in a particular direction over time. By identifying and positioning oneself in alignment with these trends, traders can potentially harness significant profits while also managing risks.

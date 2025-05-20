@@ -1,6 +1,9 @@
 ---
-title: "Units Per Transaction (UPT) and Calculation Methods (Algo Trading)"
-description: "Discover how Units Per Transaction (UPT) can enhance retail strategies and performance Dive into calculation methods and learn how algorithmic trading aids success"
+category: quant_concept
+description: Discover how Units Per Transaction (UPT) can enhance retail strategies
+  and performance Dive into calculation methods and learn how algorithmic trading
+  aids success
+title: Units Per Transaction (UPT) and Calculation Methods (Algo Trading)
 ---
 
 In the competitive retail industry, understanding customer behavior and optimizing sales performance are crucial for business success. One of the key metrics that retail analysts focus on is Units Per Transaction (UPT), which measures the average number of items purchased in a single transaction. This metric provides insights into customer buying patterns and helps retailers identify opportunities to enhance sales strategies through cross-selling, upselling, and other tactics.

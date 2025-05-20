@@ -1,9 +1,11 @@
 ---
-title: "How do you model and manage risk in quantitative trading?"
-description: "Learn how to model and manage risk effectively in the field of quantitative trading. This comprehensive guide covers techniques such as statistical modeling, Value-at-Risk (VaR), stress testing, backtesting, diversification, exposure limits, leverage management, and real-time monitoring."
+category: quant_concept
+description: Learn how to model and manage risk effectively in the field of quantitative
+  trading. This comprehensive guide covers techniques such as statistical modeling,
+  Value-at-Risk (VaR), stress testing, backtesting, diversification, exposure limits,
+  leverage management, and real-time monitoring.
+title: How do you model and manage risk in quantitative trading?
 ---
-
-
 
 Quantitative trading is a systematic approach to trading that utilizes mathematical models and algorithms to execute trades and generate profits. By relying on quantitative analysis, traders can process vast amounts of historical and real-time data to identify patterns and forecast future price movements. This method has gained prominence in financial markets due to its ability to make data-driven decisions, reduce human biases, and operate at high speeds, which is critical in an increasingly automated trading environment.
 

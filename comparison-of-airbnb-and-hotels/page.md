@@ -1,6 +1,8 @@
 ---
-title: "Comparison of Airbnb and Hotels (Algo Trading)"
-description: "Explore the evolving dynamics between Airbnb and hotels in the hospitality market as algorithmic trading reshapes real estate investments and industry strategies."
+category: trading_strategy
+description: Explore the evolving dynamics between Airbnb and hotels in the hospitality
+  market as algorithmic trading reshapes real estate investments and industry strategies.
+title: Comparison of Airbnb and Hotels (Algo Trading)
 ---
 
 The hospitality and real estate markets have experienced significant transformation over the past decade, driven by technological advancements and innovative investment approaches. One of the most notable developments in this space is the rise of Airbnb, a platform that has redefined how people find and utilize lodging across the globe. Unlike traditional hotels that operate through standardized service models and amenities, Airbnb leverages the sharing economy, offering a diverse range of accommodations that provide more personalized experiences. This model allows individuals to rent out their properties or spare rooms, thus creating a vast and varied marketplace for travelers seeking short-term rentals.
@@ -122,4 +124,3 @@ For those interested in data analytics within real estate, "Advances in Financia
 A comparative analysis of hotels and Airbnb is presented in "Inside Airbnb: Adding Data to the Debate" by Inside Airbnb. This project collects and analyzes data on Airbnb listings, providing insights into the impact on local communities, housing markets, and traditional hospitality sectors. The initiative encourages open data usage to assess Airbnb's footprint and fosters informed discussions on policy and urban planning.
 
 For insights into algorithmic trading, "Quantitative Trading: How to Build Your Own Algorithmic Trading Business" by Ernest P. Chan offers a foundational guide. The book details developing trading strategies, [backtesting](/wiki/backtesting), and deploying algorithms in live markets. It emphasizes quantitative finance principles and practical steps for launching an algorithmic trading venture, including handling financial data and optimizing performance for real estate investment portfolios.
-

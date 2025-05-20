@@ -1,6 +1,9 @@
 ---
-title: "Inward Arbitrage (Algo Trading)"
-description: "Explore the strategic dynamics of inward arbitrage in currency trading where algorithmic trading enhances accuracy and speed in leveraging interest rate disparities."
+category: trading_strategy
+description: Explore the strategic dynamics of inward arbitrage in currency trading
+  where algorithmic trading enhances accuracy and speed in leveraging interest rate
+  disparities.
+title: Inward Arbitrage (Algo Trading)
 ---
 
 Inward arbitrage currency trade represents a sophisticated financial strategy employed by banks to optimize fund management. This method leverages discrepancies in interest rates across various global markets to secure profits. By borrowing capital in a market exhibiting lower interest rates and reinvesting it in another market with higher rates, banks can exploit these differences to enhance their financial returns. The fundamental principle is based on capturing the spread between these divergent interest rates, often resulting in minimal risk due to the relatively stable nature of interest rate differentials. 

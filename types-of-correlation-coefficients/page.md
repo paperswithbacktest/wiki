@@ -1,6 +1,9 @@
 ---
-title: "Types of Correlation Coefficients (Algo Trading)"
-description: "Explore various types of correlation coefficients crucial for algorithmic trading to predict market movements manage risks and enhance trading strategies effectively"
+category: quant_concept
+description: Explore various types of correlation coefficients crucial for algorithmic
+  trading to predict market movements manage risks and enhance trading strategies
+  effectively
+title: Types of Correlation Coefficients (Algo Trading)
 ---
 
 Algorithmic trading integrates complex statistical tools designed to enhance decision-making and improve financial outcomes. Among these tools, correlation coefficients stand out as essential metrics, providing insights into the movement relationships between different securities. Understanding these correlations is crucial, as they can help traders identify dependencies, predict price movements, and manage risks effectively.

@@ -1,6 +1,9 @@
 ---
-title: "Importance of Gold (Algo Trading)"
-description: "Explore the importance of gold in investment portfolios and how algorithmic trading enhances efficiency and decision making, bridging traditional assets with technology."
+category: trading_strategy
+description: Explore the importance of gold in investment portfolios and how algorithmic
+  trading enhances efficiency and decision making, bridging traditional assets with
+  technology.
+title: Importance of Gold (Algo Trading)
 ---
 
 In the ever-evolving world of finance, gold and other precious metals have consistently stood out as robust and dependable investment options. Historically, these commodities have served as effective hedges against inflation and economic instability, maintaining their value over time. The allure of gold, silver, platinum, and palladium lies in their inherent scarcity and intrinsic value, making them a staple in diversified investment portfolios.

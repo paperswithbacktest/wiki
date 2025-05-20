@@ -1,6 +1,8 @@
 ---
-title: "Randomness in Deterministic Formulas (Algo Trading)"
-description: "Explore how randomness enhances deterministic formulas in algorithmic trading by improving adaptability and performance in unpredictable financial markets."
+category: quant_concept
+description: Explore how randomness enhances deterministic formulas in algorithmic
+  trading by improving adaptability and performance in unpredictable financial markets.
+title: Randomness in Deterministic Formulas (Algo Trading)
 ---
 
 Algorithmic trading refers to the use of computer programs to execute trading strategies based on predetermined rules. These algorithms leverage complex formulas to analyze market data and decide upon trade executions, often at speeds and frequencies unattainable by human traders. The essence of algorithmic trading lies in its reliance on formulas that aim to capitalize on specific patterns and inefficiencies within financial markets. These formulas, inherently deterministic, provide a structured approach to trading by enabling the creation of strategies that can be consistently applied across varying market conditions.

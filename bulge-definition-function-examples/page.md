@@ -1,6 +1,8 @@
 ---
-title: "Bulge: Definition, Function, and Examples (Algo Trading)"
-description: "Explore the role of a 'bulge' in Bollinger Bands for algorithmic trading Learn how it signals market trends and boosts trading strategies efficiently"
+category: quant_concept
+description: Explore the role of a 'bulge' in Bollinger Bands for algorithmic trading
+  Learn how it signals market trends and boosts trading strategies efficiently
+title: 'Bulge: Definition, Function, and Examples (Algo Trading)'
 ---
 
 In today's swiftly evolving trading environment, understanding the complex interplay between technical indicators and algorithmic trading is crucial for traders seeking to optimize their strategies. Technical indicators, such as Bollinger Bands®, are key in identifying market trends and potential trading opportunities. This article focuses on the concept of the 'bulge' within Bollinger Bands® and its specific application in algorithmic trading.

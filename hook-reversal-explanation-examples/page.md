@@ -1,6 +1,8 @@
 ---
-title: "Hook Reversal Explanation and Examples (Algo Trading)"
-description: "Hook reversal patterns in algo trading signal market trend changes Key in technical analysis they aid traders in identifying strategic entry and exit points"
+category: trading_strategy
+description: Hook reversal patterns in algo trading signal market trend changes Key
+  in technical analysis they aid traders in identifying strategic entry and exit points
+title: Hook Reversal Explanation and Examples (Algo Trading)
 ---
 
 Technical analysis is a methodology used in trading to forecast the direction of asset prices through the study of past market data, primarily price and volume. Its core principle is that market prices reflect all available information, thereby following trends that are attributable to market psychology, behavioral finance, and other associated factors. Traders use technical analysis to identify patterns and trends in market movements, which can be leveraged to make informed trading decisions.

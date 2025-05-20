@@ -1,6 +1,8 @@
 ---
-title: "Impact of Fiscal Deficits on Economic Growth (Algo Trading)"
-description: "Explore the complex relationship between fiscal deficits and economic growth, focusing on their influence on algorithmic trading and global market strategies."
+category: quant_concept
+description: Explore the complex relationship between fiscal deficits and economic
+  growth, focusing on their influence on algorithmic trading and global market strategies.
+title: Impact of Fiscal Deficits on Economic Growth (Algo Trading)
 ---
 
 Fiscal deficits, a situation where a government's expenditures surpass its revenues, have consistently garnered attention in economic discussions. Their significance has only magnified in today's era, characterized by rapid technological advancements and unprecedented economic globalization. As countries navigate complex financial landscapes, understanding the impacts of fiscal deficits becomes essential not only for national economic strategies but also for global market interactions.

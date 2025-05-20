@@ -1,6 +1,13 @@
 ---
-title: "Squarepoint Capital (Algo Trading)"
-description: Squarepoint Capital is a leading force in algorithmic trading, renowned for its expertise in quantitative finance and advanced trading strategies. With headquarters in New York City and a global presence across key financial hubs in Europe and Asia, Squarepoint efficiently leverages technology and big data analytics to optimize investment decisions and navigate diverse markets. The firm’s focus on innovation, risk management, and partnerships underscores its adaptability and strength in a dynamic financial landscape.
+category: quant_concept
+description: Squarepoint Capital is a leading force in algorithmic trading, renowned
+  for its expertise in quantitative finance and advanced trading strategies. With
+  headquarters in New York City and a global presence across key financial hubs in
+  Europe and Asia, Squarepoint efficiently leverages technology and big data analytics
+  to optimize investment decisions and navigate diverse markets. The firm’s focus
+  on innovation, risk management, and partnerships underscores its adaptability and
+  strength in a dynamic financial landscape.
+title: Squarepoint Capital (Algo Trading)
 ---
 
 In the fast-paced world of financial services, Squarepoint Capital stands out as a prominent player in algorithmic trading. Established as an independent firm after separating from its original establishment, Squarepoint has carved a niche for itself in leveraging quantitative techniques to drive investment decisions. With its headquarters strategically located in New York City, the firm extends its reach across the globe with additional offices in key financial hubs in Europe and Asia. This global presence enables Squarepoint to tap into diverse markets, diversify risk, and enhance returns for its clients by analyzing large data sets using advanced algorithms.

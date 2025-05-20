@@ -1,6 +1,8 @@
 ---
-title: "Natural Monopoly: Overview and Examples (Algo Trading)"
-description: "Explore natural monopolies and algorithmic trading in modern markets Learn how unique industry structures impact economic dynamics and consumer choices"
+category: quant_concept
+description: Explore natural monopolies and algorithmic trading in modern markets
+  Learn how unique industry structures impact economic dynamics and consumer choices
+title: 'Natural Monopoly: Overview and Examples (Algo Trading)'
 ---
 
 A monopoly exists when a single company or entity dominates a particular market or industry, effectively controlling the availability of a product or service and, often, its pricing. This kind of market power allows the monopolist to influence market conditions to its advantage, potentially at the expense of consumers and competitors. In the economic environment of today, understanding monopolies involves recognizing various types, their formation, and their impact on economic structures and consumer welfare.

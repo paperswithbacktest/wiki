@@ -1,6 +1,8 @@
 ---
-title: "Working Capital Calculation (Algo Trading)"
-description: "Mastering working capital and algo trading is key for businesses striving for financial stability and growth in today's dynamic finance landscape."
+category: quant_concept
+description: Mastering working capital and algo trading is key for businesses striving
+  for financial stability and growth in today's dynamic finance landscape.
+title: Working Capital Calculation (Algo Trading)
 ---
 
 In the rapidly evolving world of business finance, mastering financial management is crucial for sustaining growth and achieving stability. Financial management involves the strategic planning, organizing, directing, and controlling of financial undertakings within an organization. It extends to the application of management principles to the financial assets of these entities, playing a pivotal role in ensuring that resources are used optimally to support long-term business objectives.

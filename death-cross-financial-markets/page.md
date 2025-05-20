@@ -1,6 +1,9 @@
 ---
-title: "Death Cross in Financial Markets (Algo Trading)"
-description: "Explore the role of death cross in financial markets and algorithmic trading Learn how technical indicators and advanced trading strategies can predict market trends"
+category: trading_strategy
+description: Explore the role of death cross in financial markets and algorithmic
+  trading Learn how technical indicators and advanced trading strategies can predict
+  market trends
+title: Death Cross in Financial Markets (Algo Trading)
 ---
 
 Financial markets embody the complex and dynamic systems through which capital, goods, and services are exchanged, playing a pivotal role in the functioning and stability of global economies. They facilitate the allocation of resources, provide liquidity, and enable investors to earn returns on their investments. A robust understanding of financial markets is crucial for stakeholders, as these markets influence economic growth, dictate monetary policies, and affect everyday financial decisions.

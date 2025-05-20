@@ -1,6 +1,9 @@
 ---
-title: "Impact of Stock Splits on Share Certificates (Algo Trading)"
-description: "Explore how stock splits affect share certificates and algorithmic trading Discover their impact on corporate actions and investor strategies in financial markets"
+category: quant_concept
+description: Explore how stock splits affect share certificates and algorithmic trading
+  Discover their impact on corporate actions and investor strategies in financial
+  markets
+title: Impact of Stock Splits on Share Certificates (Algo Trading)
 ---
 
 Stock splits, share certificates, and corporate actions play significant roles in the financial landscape, each impacting investor decisions and perceptions. A stock split occurs when a company increases its number of shares to boost liquidity without changing the actual market value of the company. For instance, in a 2-for-1 split, each share is divided into two, effectively halving the price while maintaining the investor’s total value, enhancing liquidity and potentially attracting more investors. Share certificates, though historically physical documents signifying ownership, have largely transitioned to electronic records, streamlining the process of corporate actions like stock splits. Corporate actions, encompassing stock splits, dividends, and mergers, are events undertaken by a corporation that may affect its stockholders. They can influence shareholder value and alter market perceptions, making them critical considerations for investors.

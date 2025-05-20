@@ -1,6 +1,11 @@
 ---
-title: "Economist: Role, Duties, and Influence (Algo Trading)"
-description: "Explore the essential role of economists in the dynamic world of algorithmic trading. Discover how they analyze economic trends, advise on policy and business strategies, and evolve traditional models to integrate automated trading systems. Delve into the complex interplay between innovation, market stability, and financial regulations in modern global markets."
+category: quant_concept
+description: Explore the essential role of economists in the dynamic world of algorithmic
+  trading. Discover how they analyze economic trends, advise on policy and business
+  strategies, and evolve traditional models to integrate automated trading systems.
+  Delve into the complex interplay between innovation, market stability, and financial
+  regulations in modern global markets.
+title: 'Economist: Role, Duties, and Influence (Algo Trading)'
 ---
 
 The global economy is a multifaceted and interconnected system, characterized by a wide array of influences that stem from domestic and international sources. These influences span geopolitical events, technological advancements, trade policies, and financial innovations, which collectively shape the economic landscape. In navigating this complex environment, economists hold a critical position. They analyze trends, assess economic health, and develop models that provide valuable insights into potential future scenarios. Economists serve not only as academicians but also as advisors to businesses and policymakers, aiding them in making informed decisions that promote economic stability and growth.

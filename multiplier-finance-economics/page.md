@@ -1,6 +1,14 @@
 ---
-title: "Multiplier in Finance and Economics (Algo Trading)"
-description: "Explore the intersection of multiplier economics and algorithmic trading in finance with an in-depth look at how these pivotal concepts shape modern financial systems. Understand the multiplier effect, which amplifies economic activity following initial expenditure and its crucial role in fiscal policy and investment strategies. Discover the impact of algorithmic trading in enhancing market liquidity and reducing transaction costs while acknowledging the associated risks. This page provides valuable insights for traders and economists aiming to leverage these interactions in developing innovative financial strategies."
+category: quant_concept
+description: Explore the intersection of multiplier economics and algorithmic trading
+  in finance with an in-depth look at how these pivotal concepts shape modern financial
+  systems. Understand the multiplier effect, which amplifies economic activity following
+  initial expenditure and its crucial role in fiscal policy and investment strategies.
+  Discover the impact of algorithmic trading in enhancing market liquidity and reducing
+  transaction costs while acknowledging the associated risks. This page provides valuable
+  insights for traders and economists aiming to leverage these interactions in developing
+  innovative financial strategies.
+title: Multiplier in Finance and Economics (Algo Trading)
 ---
 
 Multiplier economics, finance, and algorithmic trading are pivotal concepts that have continuously shaped the landscape of modern economic and financial systems. Multiplier economics refers to the process by which an initial change in spending—typically by the government or another large economic entity—produces a greater total impact on the economy than the initial expenditure. This effect occurs because spending generates income for others, who in turn spend a proportion of their additional income, leading to further economic activity. The multiplier effect is crucial for understanding how fiscal policies can stimulate economic growth and induce broader financial stability or instability.

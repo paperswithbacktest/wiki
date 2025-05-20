@@ -1,6 +1,9 @@
 ---
-title: "discrete trading (Algo Trading)"
-description: "Explore how discrete trading revolutionizes market strategies with its scheduled, strategic trade executions aligning seamlessly with long-term investment goals."
+category: trading_strategy
+description: Explore how discrete trading revolutionizes market strategies with its
+  scheduled, strategic trade executions aligning seamlessly with long-term investment
+  goals.
+title: discrete trading (Algo Trading)
 ---
 
 In the world of finance, discrete trading, often referred to as algorithmic trading, has significantly transformed how investors and traders approach market activities. This trading strategy is characterized by its execution of trades in large, complete steps, contrasting sharply with the continuous trading method that happens constantly throughout the trading day. Discrete trading involves executing transactions at specific, predetermined intervals, allowing for strategic shifts between positions in a planned manner.

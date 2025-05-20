@@ -1,6 +1,9 @@
 ---
-title: "Unilateral Contract: Overview and Types (Algo Trading)"
-description: "Explore unilateral contracts and their impact in algorithmic trading. Learn how these contracts optimize strategies and ensure compliance in fast-paced markets."
+category: quant_concept
+description: Explore unilateral contracts and their impact in algorithmic trading.
+  Learn how these contracts optimize strategies and ensure compliance in fast-paced
+  markets.
+title: 'Unilateral Contract: Overview and Types (Algo Trading)'
 ---
 
 Understanding different types of contracts is essential for individuals and enterprises when navigating legal agreements. These contracts provide the foundation for ensuring the rights and obligations among parties are clearly defined. Unilateral contracts, a specific form of agreement, place an obligation on only one party, distinguishing them from bilateral contracts, which involve mutual obligations. This singularity makes them particularly relevant in certain business and individual scenarios.

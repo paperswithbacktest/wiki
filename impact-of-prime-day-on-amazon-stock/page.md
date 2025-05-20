@@ -1,6 +1,9 @@
 ---
-title: "Impact of Prime Day on Amazon Stock (Algo Trading)"
-description: "Explore the impact of Amazon Prime Day on AMZN stock and algorithmic trading strategies Discover how this retail event influences market trends and investor sentiment"
+category: trading_strategy
+description: Explore the impact of Amazon Prime Day on AMZN stock and algorithmic
+  trading strategies Discover how this retail event influences market trends and investor
+  sentiment
+title: Impact of Prime Day on Amazon Stock (Algo Trading)
 ---
 
 Amazon.com, Inc., listed under the ticker symbol AMZN, is one of the most prominent stocks in the global financial markets. As a pioneer in e-commerce and cloud computing, Amazon has grown into a behemoth with a diversified business model that includes online retail, Amazon Web Services (AWS), digital streaming, and artificial intelligence, among others. This diversification not only fortifies Amazon's market position but also plays a critical role in influencing global stock indices. As of recent years, Amazon's market capitalization has consistently positioned it among the top companies worldwide, reflecting its significant impact on both the Nasdaq composite and S&P 500 indices.

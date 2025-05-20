@@ -1,6 +1,8 @@
 ---
-title: "Notice Compiling: Overview and Key Components (Algo Trading)"
-description: "Explore the essentials of algorithmic trading with a focus on notice compiling document preparation and information synthesis to enhance trading strategies."
+category: quant_concept
+description: Explore the essentials of algorithmic trading with a focus on notice
+  compiling document preparation and information synthesis to enhance trading strategies.
+title: 'Notice Compiling: Overview and Key Components (Algo Trading)'
 ---
 
 Algorithmic trading, a cornerstone of modern financial markets, leverages computational algorithms to execute trades automatically at speeds and frequencies impractical for human traders. This innovative approach melds sophisticated quantitative models and real-time data analysis to optimize trading decisions. As the financial sector embraces this technology, the relevance of understanding critical components such as notice compiling, document preparation, and information synthesis becomes ever more apparent.

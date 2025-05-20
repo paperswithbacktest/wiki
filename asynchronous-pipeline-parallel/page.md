@@ -1,7 +1,8 @@
 ---
-title: Asynchronous Pipeline Parallelism for Scalable Model Training
+category: quant_concept
 description: Asynchronous pipeline parallelism speeds up model training by running
   stages concurrently and optimizing data flow for GPU speed Discover more inside
+title: Asynchronous Pipeline Parallelism for Scalable Model Training
 ---
 
 ![Image](images/1.jpeg)

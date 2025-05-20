@@ -1,6 +1,9 @@
 ---
-title: "Sinking Fund Call: Mechanism and Examples (Algo Trading)"
-description: "Explore the multifaceted world of bond investments with insights into sinking fund calls and algorithmic trading Learn how these elements can affect your portfolio's stability and returns"
+category: quant_concept
+description: Explore the multifaceted world of bond investments with insights into
+  sinking fund calls and algorithmic trading Learn how these elements can affect your
+  portfolio's stability and returns
+title: 'Sinking Fund Call: Mechanism and Examples (Algo Trading)'
 ---
 
 The financial landscape offers a variety of investment opportunities, each with its own unique characteristics and potential benefits. Among these, bond investments stand out for their ability to provide stable returns and capital preservation. Notably, bonds with call provisions and sinking funds present intriguing options for investors seeking to balance risk and reward.

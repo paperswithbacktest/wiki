@@ -1,6 +1,8 @@
 ---
-title: "EBIT to EV Multiple: Overview and Examples (Algo Trading)"
-description: "Explore the EBIT to EV multiple's role in assessing company profitability and value, enhancing algorithmic trading decisions for strategic investment insights."
+category: quant_concept
+description: Explore the EBIT to EV multiple's role in assessing company profitability
+  and value, enhancing algorithmic trading decisions for strategic investment insights.
+title: 'EBIT to EV Multiple: Overview and Examples (Algo Trading)'
 ---
 
 In the field of investment analysis, financial metrics are fundamental tools that help investors and analysts evaluate the health and potential of companies. Among these metrics, the EBIT to EV multiple, or Earnings Before Interest and Taxes to Enterprise Value, has emerged as a crucial ratio in assessing company profitability and investment attractiveness. This metric offers a lens through which the efficiency and value creation potential of a company can be gauged, making it particularly valuable in dynamic financial markets.

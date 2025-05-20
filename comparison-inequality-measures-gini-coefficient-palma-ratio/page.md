@@ -1,6 +1,10 @@
 ---
-title: "Comparison of Inequality Measures: Gini Coefficient vs. Palma Ratio (Algo Trading)"
-description: "Explore the Gini coefficient and Palma ratio two distinct measures of economic inequality crucial for understanding wealth distribution's impact on algorithmic trading."
+category: quant_concept
+description: Explore the Gini coefficient and Palma ratio two distinct measures of
+  economic inequality crucial for understanding wealth distribution's impact on algorithmic
+  trading.
+title: 'Comparison of Inequality Measures: Gini Coefficient vs. Palma Ratio (Algo
+  Trading)'
 ---
 
 The increasing concern over economic inequality has led to the development and usage of various inequality measures utilized across different fields, including economics and finance. These measures provide key insights into the distribution of income and wealth within a society, enabling stakeholders to understand and address inequality effectively. Among the most commonly used measures are the Gini coefficient and the Palma ratio. 

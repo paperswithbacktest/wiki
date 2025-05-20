@@ -1,6 +1,8 @@
 ---
-title: "Buy Side Investing: Examples and Advantages (Algo Trading)"
-description: "Explore the advantages and examples of buy-side investing and algorithmic trading Discover how technology optimizes portfolios in a competitive market"
+category: trading_strategy
+description: Explore the advantages and examples of buy-side investing and algorithmic
+  trading Discover how technology optimizes portfolios in a competitive market
+title: 'Buy Side Investing: Examples and Advantages (Algo Trading)'
 ---
 
 In finance, the continuous evolution of investment strategies is driven by technological advancements. Two pivotal elements in this transformation are buy-side investing and algorithmic trading, both of which play crucial roles in enhancing portfolio management and optimizing investment outcomes.

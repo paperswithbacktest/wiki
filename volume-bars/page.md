@@ -1,6 +1,10 @@
 ---
-title: "Volume bars (Algo Trading)"
-description: Discover how volume bars transform algo trading by prioritizing traded volume over time, offering insights into market dynamics and trading intensity. Learn how these tools refine trading strategies, validate trends, and enhance risk management, providing a competitive edge in evolving financial markets.
+category: quant_concept
+description: Discover how volume bars transform algo trading by prioritizing traded
+  volume over time, offering insights into market dynamics and trading intensity.
+  Learn how these tools refine trading strategies, validate trends, and enhance risk
+  management, providing a competitive edge in evolving financial markets.
+title: Volume bars (Algo Trading)
 ---
 
 Algorithmic trading, commonly known as algo trading, is fundamentally reshaping the landscape of financial markets. Utilizing complex algorithms and automated systems, it facilitates high-speed, high-frequency trading, enabling traders to execute orders at previously unimaginable speeds. A critical element in the analytical toolkit of algo traders is volume bars, which serve as a vital tool for assessing trading activity and identifying market trends.

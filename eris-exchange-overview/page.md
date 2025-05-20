@@ -1,6 +1,9 @@
 ---
-title: "Eris Exchange Overview (Algo Trading)"
-description: "Explore the evolution of trading through algorithmic platforms enhancing efficiency and accessibility with Eris Exchange at the forefront of this financial innovation."
+category: quant_concept
+description: Explore the evolution of trading through algorithmic platforms enhancing
+  efficiency and accessibility with Eris Exchange at the forefront of this financial
+  innovation.
+title: Eris Exchange Overview (Algo Trading)
 ---
 
 The world of trading has undergone a remarkable transformation with the advent of algorithmic trading platforms. These platforms have reshaped the trading environment by significantly enhancing efficiency and accessibility. Algorithmic trading, often referred to as 'algo' trading, leverages automated pre-programmed instructions to execute trades. This method of trading offers several advantages, notably speed, accuracy, and an unparalleled capability to process vast quantities of data. 

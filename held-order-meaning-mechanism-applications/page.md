@@ -1,6 +1,9 @@
 ---
-title: "Held Order: Meaning, Mechanism, and Applications (Algo Trading)"
-description: "Explore the fundamentals of held orders in algorithmic trading. Learn how these orders provide immediate execution, ensuring swift and effective trade actions."
+category: quant_concept
+description: Explore the fundamentals of held orders in algorithmic trading. Learn
+  how these orders provide immediate execution, ensuring swift and effective trade
+  actions.
+title: 'Held Order: Meaning, Mechanism, and Applications (Algo Trading)'
 ---
 
 In the rapidly evolving world of financial markets, algorithmic trading has become a fundamental component of trade execution, emphasizing speed and precision. The adoption of sophisticated algorithms has reshaped traditional trading paradigms by allowing instantaneous reaction to market data and conditions. With technological advancements, traders can process vast amounts of information, facilitating split-second decisions that significantly impact trading outcomes.

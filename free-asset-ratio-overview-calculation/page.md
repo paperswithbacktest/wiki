@@ -1,6 +1,8 @@
 ---
-title: "Free Asset Ratio: Overview and Calculation (Algo Trading)"
-description: "Explore how the Free Asset Ratio impacts insurance solvency and algorithmic trading strategies Learn how FAR assesses financial health in life insurance companies"
+category: quant_concept
+description: Explore how the Free Asset Ratio impacts insurance solvency and algorithmic
+  trading strategies Learn how FAR assesses financial health in life insurance companies
+title: 'Free Asset Ratio: Overview and Calculation (Algo Trading)'
 ---
 
 Understanding and assessing the financial health of companies is a fundamental aspect of informed decision-making in finance. This article focuses on the Free Asset Ratio (FAR), a pivotal financial indicator within the insurance sector, particularly emphasized in the United Kingdom. The FAR serves as a critical measure of the financial robustness and stability of life insurance companies by evaluating their ability to meet financial obligations through surplus capital. 

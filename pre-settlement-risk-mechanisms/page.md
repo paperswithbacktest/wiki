@@ -1,6 +1,9 @@
 ---
-title: "Pre-Settlement Risk and Its Mechanisms (Algo Trading)"
-description: "Explore the mechanisms of pre-settlement risk in algorithmic trading. Learn how it influences trading strategies and the role of algorithms in mitigating these risks."
+category: quant_concept
+description: Explore the mechanisms of pre-settlement risk in algorithmic trading.
+  Learn how it influences trading strategies and the role of algorithms in mitigating
+  these risks.
+title: Pre-Settlement Risk and Its Mechanisms (Algo Trading)
 ---
 
 In the world of finance, understanding the risks associated with trading and investment is crucial. Financial markets are complex systems where myriad factors can affect the value and safety of investments. One of the pivotal aspects of financial risk management is the settlement process, especially within algorithmic trading. The settlement process ensures that trades are executed accurately and that the exchange of financial instruments and funds between parties is completed as agreed. A failure or delay in this process can lead to significant financial risks, making it an essential component of the trading infrastructure.

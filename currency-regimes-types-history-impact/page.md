@@ -1,6 +1,9 @@
 ---
-title: "Currency Regimes: Types, History, Impact (Algo Trading)"
-description: "Explore the types and impacts of currency regimes and their integration with algorithmic trading Learn how these systems shape economic stability and global trade"
+category: quant_concept
+description: Explore the types and impacts of currency regimes and their integration
+  with algorithmic trading Learn how these systems shape economic stability and global
+  trade
+title: 'Currency Regimes: Types, History, Impact (Algo Trading)'
 ---
 
 Monetary systems and currency regimes are foundational components in the structuring of global financial architecture. Monetary systems encompass the set of institutions and policies governing the supply of money in an economy while currency regimes refer to the framework a country utilizes to manage its currency's exchange rate relative to other currencies. Understanding these systems is crucial due to their significant impact on international trade dynamics, economic stability, and policy formulation.

@@ -1,6 +1,8 @@
 ---
-title: "Book Value Per Share (Algo Trading)"
-description: "Unlock the potential of Book Value and BVPS in algo trading to enhance stock evaluation and optimize investment strategies with fundamental financial insights."
+category: quant_concept
+description: Unlock the potential of Book Value and BVPS in algo trading to enhance
+  stock evaluation and optimize investment strategies with fundamental financial insights.
+title: Book Value Per Share (Algo Trading)
 ---
 
 In today's fast-paced financial markets, understanding key financial metrics is essential for evaluating company performance and assessing investment potential. Among these metrics, Book Value and Book Value per Share (BVPS) are particularly significant as they offer insights into a company's intrinsic worth, independent of market fluctuations. This article investigates the uses of Book Value and BVPS, particularly in the context of algorithmic trading, where blending traditional financial metrics with advanced traders' strategies may enrich decision-making processes and yield better returns.

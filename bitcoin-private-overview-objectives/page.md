@@ -1,6 +1,9 @@
 ---
-title: "Bitcoin Private: Overview and Objectives (Algo Trading)"
-description: "Explore how Bitcoin Private combines Bitcoin's security with advanced privacy features using zk-SNARKs and the impact of algorithmic trading in volatile crypto markets."
+category: quant_concept
+description: Explore how Bitcoin Private combines Bitcoin's security with advanced
+  privacy features using zk-SNARKs and the impact of algorithmic trading in volatile
+  crypto markets.
+title: 'Bitcoin Private: Overview and Objectives (Algo Trading)'
 ---
 
 In recent years, blockchain technology and Bitcoin have emerged as pivotal forces within the global financial markets. This shift toward decentralized digital currencies is characterized by the unique features of blockchain, a distributed ledger technology that ensures transparency, security, and immutability for financial transactions. Bitcoin, as the first and most prominent cryptocurrency, has set a precedent for digital assets, influencing a wide array of sectors beyond finance, including technology, governance, and commerce.

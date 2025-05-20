@@ -1,6 +1,8 @@
 ---
-title: "SEC Regulation Best Interest (Algo Trading)"
-description: "SEC's Regulation Best Interest seeks to strengthen investor protections by aligning broker-dealer obligations with fiduciary standards, focusing on transparency."
+category: quant_concept
+description: SEC's Regulation Best Interest seeks to strengthen investor protections
+  by aligning broker-dealer obligations with fiduciary standards, focusing on transparency.
+title: SEC Regulation Best Interest (Algo Trading)
 ---
 
 In recent years, the investment advisory landscape has experienced considerable regulatory transformations aimed at enhancing investor protections. A significant development in this domain is the introduction of 'Regulation Best Interest' (Reg BI) by the Securities and Exchange Commission (SEC). Reg BI is designed to augment the standards by which financial professionals, particularly broker-dealers, interact with and serve their clients. This regulatory shift underscores the SEC’s commitment to ensuring that investment recommendations are made with the investor's best interests in mind, thereby building trust in the financial markets.

@@ -1,6 +1,9 @@
 ---
-title: "Time-Weighted Rate of Return Formula Usage (Algo Trading)"
-description: "Discover how the Time-Weighted Rate of Return formula evaluates investment performance, eliminates cash flow distortions, and enhances algorithmic trading strategies."
+category: quant_concept
+description: Discover how the Time-Weighted Rate of Return formula evaluates investment
+  performance, eliminates cash flow distortions, and enhances algorithmic trading
+  strategies.
+title: Time-Weighted Rate of Return Formula Usage (Algo Trading)
 ---
 
 Measuring investment performance accurately is essential in the financial world. One metric that provides valuable insights into investment outcomes is the Time-Weighted Rate of Return (TWR). This measure is particularly important for investment portfolios with frequent cash flows, as it offers an unbiased evaluation of performance by eliminating the distortion effects that cash inflows and outflows might cause. TWR is favored for its ability to gauge performance independently of the timing and magnitude of those cash flows.

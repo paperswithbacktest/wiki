@@ -1,6 +1,8 @@
 ---
-title: "Term Sheets: Components, Examples, and Key Terms (Algo Trading)"
-description: "Explore the essential components and significance of term sheets in algorithmic trading Learn how these documents impact investment negotiations and decisions"
+category: quant_concept
+description: Explore the essential components and significance of term sheets in algorithmic
+  trading Learn how these documents impact investment negotiations and decisions
+title: 'Term Sheets: Components, Examples, and Key Terms (Algo Trading)'
 ---
 
 A term sheet is a critical document in business finance and investment agreements, serving as a non-binding precursor to a formalized contract, such as a shareholder agreement or investment deal. This document outlines the fundamental terms and conditions between parties in a financial transaction. It typically includes key elements such as valuation, investment amount, and the types of securities to be purchased. The significance of a term sheet lies in its ability to set the groundwork for negotiations, providing both parties with a clear framework that facilitates dialogue and consensus-building before committing to legally binding contracts.

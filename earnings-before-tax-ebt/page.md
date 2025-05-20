@@ -1,6 +1,9 @@
 ---
-title: "Earnings Before Tax (EBT) (Algo Trading)"
-description: "Explore the significance of Earnings Before Tax (EBT) in assessing a company's operational efficiency, its role in algorithmic trading, and comparisons across companies."
+category: quant_concept
+description: Explore the significance of Earnings Before Tax (EBT) in assessing a
+  company's operational efficiency, its role in algorithmic trading, and comparisons
+  across companies.
+title: Earnings Before Tax (EBT) (Algo Trading)
 ---
 
 Understanding key financial metrics is crucial for accurately gauging a company's financial health. Among these metrics, Earnings Before Tax (EBT) stands out as a vital measure for investors and analysts who are evaluating a firm's operational performance. EBT reflects a company's earnings prior to the deduction of tax liabilities, offering insights into its core profitability and operational efficiency. By examining EBT, stakeholders can assess how well a company is performing before the impacts of taxation are considered. This clarity allows for more accurate comparisons of operational success across companies, irrespective of the tax regimes under which they operate.

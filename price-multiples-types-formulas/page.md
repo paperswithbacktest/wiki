@@ -1,6 +1,8 @@
 ---
-title: "Price Multiples: Types and Formulas (Algo Trading)"
-description: "Explore the crucial role of valuation ratios and price multiples in evaluating a company's financial health and their integration in algorithmic trading strategies."
+category: quant_concept
+description: Explore the crucial role of valuation ratios and price multiples in evaluating
+  a company's financial health and their integration in algorithmic trading strategies.
+title: 'Price Multiples: Types and Formulas (Algo Trading)'
 ---
 
 In the modern financial landscape, valuation ratios and price multiples play a crucial role in assessing a company's financial health and investment potential. These metrics serve as fundamental tools for investors looking to evaluate the relative value of different firms and make informed decisions about buying, holding, or selling stocks. Valuation ratios are crucial for understanding how a company performs financially compared to its peers, and they help investors gauge whether a company's stock is overvalued, undervalued, or fairly priced.

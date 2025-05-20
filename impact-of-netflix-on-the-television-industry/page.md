@@ -1,6 +1,9 @@
 ---
-title: "Impact Of Netflix On The Television Industry (Algo Trading)"
-description: "Explore the impact of Netflix on television similar to algorithmic trading in finance highlighting how technology reshapes media consumption with data-driven insights"
+category: quant_concept
+description: Explore the impact of Netflix on television similar to algorithmic trading
+  in finance highlighting how technology reshapes media consumption with data-driven
+  insights
+title: Impact Of Netflix On The Television Industry (Algo Trading)
 ---
 
 In the past decade, the television industry has experienced transformative changes, largely due to digital disruption. A key player in this revolution is Netflix, which has pioneered new models of media consumption through its streaming service platform. Netflix's innovative approach has fundamentally altered audience viewing habits by providing on-demand, ad-free content that can be accessed anytime and from anywhere. This shift from conventional broadcasting to a more personalized viewing experience has challenged traditional media networks to re-evaluate their strategies, as audiences now prefer the flexibility and convenience offered by streaming services.

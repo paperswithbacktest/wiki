@@ -1,6 +1,9 @@
 ---
-title: "Gibraltar Pound and Economy (Algo Trading)"
-description: "Explore Gibraltar's unique economy blending British and Mediterranean influences with its pivotal industries and the role of the Gibraltar Pound and algorithmic trading."
+category: quant_concept
+description: Explore Gibraltar's unique economy blending British and Mediterranean
+  influences with its pivotal industries and the role of the Gibraltar Pound and algorithmic
+  trading.
+title: Gibraltar Pound and Economy (Algo Trading)
 ---
 
 The economy of Gibraltar is characterized by a blend of British and Mediterranean influences, creating a distinct economic landscape. The key drivers are the financial services, tourism, and gaming industries, each contributing significantly to the territory's economic vitality. Gibraltar's strategic location at the entrance to the Mediterranean allows it to serve as a bustling port and a favorable travel destination. The financial services sector is particularly robust, benefiting from Gibraltar's reputation as a business-friendly and tax-efficient jurisdiction.

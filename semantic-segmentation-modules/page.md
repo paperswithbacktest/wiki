@@ -1,7 +1,8 @@
 ---
-title: Essential Modules and Techniques for Semantic Segmentation
+category: quant_concept
 description: Semantic Segmentation assigns class labels to every pixel in images with
   advanced modules for precise boundaries and scale adaptation Discover more inside
+title: Essential Modules and Techniques for Semantic Segmentation
 ---
 
 ![Image](images/1.jpeg)

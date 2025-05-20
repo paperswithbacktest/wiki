@@ -1,6 +1,15 @@
 ---
-title: "Market data (Algo Trading)"
-description: Market data is crucial for financial trading, providing real-time and historical information on prices, volumes, and other financial metrics across various instruments like stocks and commodities. This data aids traders in analyzing market conditions and executing informed trades. In algorithmic trading, market data is vital for precision and speed, enabling algorithms to react to market changes and execute trades efficiently. It also supports strategy development through backtesting. Accurate and timely delivery of market data, with essential details like ticker symbols and trade volumes, is critical for success, especially in high-frequency trading environments.
+category: dataset
+description: Market data is crucial for financial trading, providing real-time and
+  historical information on prices, volumes, and other financial metrics across various
+  instruments like stocks and commodities. This data aids traders in analyzing market
+  conditions and executing informed trades. In algorithmic trading, market data is
+  vital for precision and speed, enabling algorithms to react to market changes and
+  execute trades efficiently. It also supports strategy development through backtesting.
+  Accurate and timely delivery of market data, with essential details like ticker
+  symbols and trade volumes, is critical for success, especially in high-frequency
+  trading environments.
+title: Market data (Algo Trading)
 ---
 
 Market data is the lifeblood of financial trading, providing the crucial information traders need to make informed decisions. It encompasses a comprehensive range of data elements, including prices, volumes, and other financial metrics related to various financial instruments such as stocks, bonds, commodities, and derivatives. This data is essential for analyzing market conditions, evaluating trends, and executing trades effectively.

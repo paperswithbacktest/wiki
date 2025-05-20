@@ -1,6 +1,8 @@
 ---
-title: "Impact of News on Stock Prices (Algo Trading)"
-description: "Explore how news influences stock price volatility and the role of algorithmic trading in modern markets. Discover strategies to navigate financial complexities."
+category: trading_strategy
+description: Explore how news influences stock price volatility and the role of algorithmic
+  trading in modern markets. Discover strategies to navigate financial complexities.
+title: Impact of News on Stock Prices (Algo Trading)
 ---
 
 In the ever-evolving world of finance, the interplay between stock prices, news, market dynamics, and algorithmic trading plays a critical role in shaping the landscape of modern markets. With the advent of advanced technology, particularly algorithmic trading, there has been a significant transformation in how stock markets operate, influencing both pricing and trading decisions.

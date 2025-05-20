@@ -1,6 +1,9 @@
 ---
-title: "Split Payroll: Definition and Mechanisms (Algo Trading)"
-description: "Explore the essential mechanisms and benefits of split payroll systems for international workforces. Understand compliance, tax implications, and currency stability."
+category: quant_concept
+description: Explore the essential mechanisms and benefits of split payroll systems
+  for international workforces. Understand compliance, tax implications, and currency
+  stability.
+title: 'Split Payroll: Definition and Mechanisms (Algo Trading)'
 ---
 
 In today's globalized business environment, managing an international workforce presents unique challenges, particularly concerning payroll. Companies must navigate a complex landscape characterized by diverse tax laws, fluctuating currencies, and variable employment regulations. This complexity increases when employees are spread across multiple countries, necessitating a strategic approach to compensation that ensures both compliance and efficiency.

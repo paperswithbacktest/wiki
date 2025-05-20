@@ -1,6 +1,8 @@
 ---
-title: "Market Failure in Economics: Types and Causes (Algo Trading)"
-description: "Discover how market failures disrupt economic efficiency due to public goods, externalities, and information asymmetries, and the dual role of algo trading."
+category: quant_concept
+description: Discover how market failures disrupt economic efficiency due to public
+  goods, externalities, and information asymmetries, and the dual role of algo trading.
+title: 'Market Failure in Economics: Types and Causes (Algo Trading)'
 ---
 
 Market failure represents a critical concept in economics where markets fail to allocate resources efficiently, resulting in a net social welfare loss. This phenomenon occurs when the conditions necessary for perfect competition are not met. Market failures can significantly impact economic stability and policymaking. They arise due to various economic reasons, such as the presence of public goods, externalities, and information asymmetries. These factors disrupt the equilibrium where supply equals demand, leading to either overproduction or underproduction of goods and services.

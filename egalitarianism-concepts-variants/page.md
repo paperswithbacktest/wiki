@@ -1,6 +1,9 @@
 ---
-title: "Egalitarianism: Concepts and Variants (Algo Trading)"
-description: "Explore the multifaceted nature of egalitarianism in algorithmic trading highlighting how technological advancements democratize financial markets for equal opportunities."
+category: quant_concept
+description: Explore the multifaceted nature of egalitarianism in algorithmic trading
+  highlighting how technological advancements democratize financial markets for equal
+  opportunities.
+title: 'Egalitarianism: Concepts and Variants (Algo Trading)'
 ---
 
 Egalitarianism is a philosophical framework that emphasizes the principle of equality across diverse dimensions, such as wealth, social status, and individual rights. At its core, it asserts the belief that all individuals deserve equal respect and treatment, aiming to mitigate disparities that arise in various societal frameworks. Social equality, a vital expression of egalitarianism, endeavors to ensure that everyone possesses equal opportunities, irrespective of their background. This is achieved by addressing social stratification and promoting policies that aim to level societal playing fields.

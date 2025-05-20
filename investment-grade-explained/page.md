@@ -1,6 +1,8 @@
 ---
-title: "Investment Grade Explained (Algo Trading)"
-description: "Explore the complexities of investment grade classifications and algorithmic trading Discover how these elements enhance your financial market strategies"
+category: quant_concept
+description: Explore the complexities of investment grade classifications and algorithmic
+  trading Discover how these elements enhance your financial market strategies
+title: Investment Grade Explained (Algo Trading)
 ---
 
 In the complex world of financial markets, understanding the terminology and interconnections can greatly enhance investment strategies. The financial ecosystem is vast, encompassing various critical components such as credit ratings, investment grade classifications, and algorithmic trading. Each of these terms plays a vital role in shaping market dynamics and influencing investment decisions.

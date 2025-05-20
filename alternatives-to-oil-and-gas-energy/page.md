@@ -1,6 +1,8 @@
 ---
-title: "Alternatives to Oil and Gas Energy (Algo Trading)"
-description: "Explore new horizons in energy investment with insights on oil and gas alternatives and how algo trading optimizes sustainable energy market strategies."
+category: quant_concept
+description: Explore new horizons in energy investment with insights on oil and gas
+  alternatives and how algo trading optimizes sustainable energy market strategies.
+title: Alternatives to Oil and Gas Energy (Algo Trading)
 ---
 
 The escalating threat posed by climate change, coupled with the gradual exhaustion of fossil fuel resources, has intensified the quest for gas alternatives and oil substitutes. This global concern emphasizes the urgency of transitioning towards alternative energy sources, which are indispensable for ensuring a sustainable future. As traditional energy sectors grapple with environmental and economic challenges, the exploration of viable substitutes has become a focal point for policy makers, researchers, and businesses worldwide.

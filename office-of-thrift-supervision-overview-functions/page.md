@@ -1,6 +1,8 @@
 ---
-title: "Office of Thrift Supervision: Overview and Functions (Algo Trading)"
-description: "Explore the legacy of the Office of Thrift Supervision and its impact on financial oversight while examining algorithmic trading's role in modern markets."
+category: quant_concept
+description: Explore the legacy of the Office of Thrift Supervision and its impact
+  on financial oversight while examining algorithmic trading's role in modern markets.
+title: 'Office of Thrift Supervision: Overview and Functions (Algo Trading)'
 ---
 
 The financial landscape is in a state of constant flux, driven by innovation, globalization, and evolving market dynamics. Institutions operating within this realm must skillfully navigate intricate regulatory frameworks designed to ensure stability, transparency, and fairness. At the forefront of this regulatory environment are entities like the Office of Thrift Supervision (OTS) and practices such as algorithmic trading, both of which have significantly influenced modern financial systems.

@@ -1,6 +1,11 @@
 ---
-title: "Per Capita: Meaning, Calculation, and Applications (Algo Trading)"
-description: "Discover the intersection of statistical per capita economic measurement and algorithmic trading. Learn how these two fields synergize to enhance decision-making for investors and policymakers by combining nuanced economic evaluations with the precision and speed of algorithmic trading. Understand the applications and implications of this dynamic integration for redefined economic policy and investment strategies."
+category: quant_concept
+description: Discover the intersection of statistical per capita economic measurement
+  and algorithmic trading. Learn how these two fields synergize to enhance decision-making
+  for investors and policymakers by combining nuanced economic evaluations with the
+  precision and speed of algorithmic trading. Understand the applications and implications
+  of this dynamic integration for redefined economic policy and investment strategies.
+title: 'Per Capita: Meaning, Calculation, and Applications (Algo Trading)'
 ---
 
 Economic measurement and trading have experienced significant advancements with the integration of statistical analysis and algorithmic trading. These disciplines have bridged the gap between raw data interpretation and strategic financial decision-making, enhancing our ability to understand complex economic landscapes. Per capita economic measures, such as GDP per capita, offer refined insights into the economic performance of individual populations, allowing for accurate cross-regional comparisons. Simultaneously, algorithmic trading utilizes powerful pre-programmed algorithms to execute trades at speeds far surpassing human capabilities. When these two domains are combined, they provide a foundation for more dynamic and informed economic analysis.

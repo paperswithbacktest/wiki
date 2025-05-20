@@ -1,6 +1,9 @@
 ---
-title: "Single Monthly Mortality: Overview and Mechanism (Algo Trading)"
-description: "Understand Single Monthly Mortality to assess prepayment risk in mortgage-backed securities. Gain insights into SMM's role in investment strategies and algorithmic trading."
+category: quant_concept
+description: Understand Single Monthly Mortality to assess prepayment risk in mortgage-backed
+  securities. Gain insights into SMM's role in investment strategies and algorithmic
+  trading.
+title: 'Single Monthly Mortality: Overview and Mechanism (Algo Trading)'
 ---
 
 In the world of mortgage-backed securities (MBS), understanding key metrics is essential for investors. One such metric is the Single Monthly Mortality (SMM), which plays a vital role in assessing the prepayment risk of these securities. The SMM provides a framework for investors to evaluate the frequency at which borrowers pay off their mortgages ahead of schedule, impacting the cash flows and returns from these investments.

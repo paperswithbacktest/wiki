@@ -1,6 +1,10 @@
 ---
-title: "Python for Trading: The Ultimate Guide"
-description: Discover why Python is the go-to language in algorithmic trading, its rich libraries, community support, and interactivity making it ideal for data analysis, strategy development, and integration with other systems. Begin your trading journey with a step-by-step guide to installation and setup on various platforms.
+category: trading_strategy
+description: Discover why Python is the go-to language in algorithmic trading, its
+  rich libraries, community support, and interactivity making it ideal for data analysis,
+  strategy development, and integration with other systems. Begin your trading journey
+  with a step-by-step guide to installation and setup on various platforms.
+title: 'Python for Trading: The Ultimate Guide'
 ---
 
 Algorithmic trading, often referred to as algo-trading, harnesses computer programs to automate the process of buying and selling securities based on predefined criteria. By eliminating human emotions and allowing for rapid execution of trades at large scales, it has fundamentally transformed the financial world, accounting for a significant portion of daily trading volume on major stock exchanges.

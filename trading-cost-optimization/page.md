@@ -1,6 +1,8 @@
 ---
-title: "Trading Cost Optimization (Algo Trading)"
-description: "Optimize trading costs in algorithmic trading to boost profitability. Explore strategies to reduce both explicit and implicit costs for improved net returns."
+category: trading_strategy
+description: Optimize trading costs in algorithmic trading to boost profitability.
+  Explore strategies to reduce both explicit and implicit costs for improved net returns.
+title: Trading Cost Optimization (Algo Trading)
 ---
 
 In the fast-paced world of trading, particularly in algorithmic contexts, optimizing trading costs is paramount. The impact of trading costs on profitability is profound, as it directly affects the net returns of any trading strategy. These costs, though sometimes perceived as minor, can accumulate significantly, especially in high-frequency trading environments, which makes managing them essential. 

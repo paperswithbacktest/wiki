@@ -1,6 +1,9 @@
 ---
-title: "Residual Standard Deviation: Formula and Examples (Algo Trading)"
-description: "Explore the role of residual standard deviation in algorithmic trading models Enhance your understanding of statistical concepts and improve prediction accuracy."
+category: quant_concept
+description: Explore the role of residual standard deviation in algorithmic trading
+  models Enhance your understanding of statistical concepts and improve prediction
+  accuracy.
+title: 'Residual Standard Deviation: Formula and Examples (Algo Trading)'
 ---
 
 This article explores the intricate statistical concepts relevant to algorithmic trading, specifically focusing on the role of residual standard deviation in the understanding of financial models. Residual standard deviation serves as a key metric in finance, especially within regression analysis, for determining how well a model predicts outcomes. It effectively measures the dispersion of residual error terms in a regression model, providing insights into the accuracy and reliability of financial predictions.

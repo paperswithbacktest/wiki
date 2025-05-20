@@ -1,6 +1,9 @@
 ---
-title: "Tether (USDT): Overview and Applications (Algo Trading)"
-description: "Explore how Tether USDT stablecoin and algorithmic trading intersect to offer stability and precision in cryptocurrency investments optimizing trade execution."
+category: quant_concept
+description: Explore how Tether USDT stablecoin and algorithmic trading intersect
+  to offer stability and precision in cryptocurrency investments optimizing trade
+  execution.
+title: 'Tether (USDT): Overview and Applications (Algo Trading)'
 ---
 
 Cryptocurrencies have fundamentally transformed the financial landscape, offering a plethora of opportunities for both traders and investors. Among these digital currencies, USDT Tether stands out as a preeminent stablecoin, bridging the gap between the volatile nature of cryptocurrencies and the stability of traditional fiat currencies. Tether’s USDT is pegged to the U.S. dollar, essentially providing a digital proxy for the standard currency and ensuring price stability which is a critical feature for financial transactions. 

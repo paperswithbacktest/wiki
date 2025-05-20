@@ -1,6 +1,9 @@
 ---
-title: "Market Discipline Mechanisms and Functions (Algo Trading)"
-description: "Explore market discipline mechanisms and functions in algorithmic trading Understand the role of regulation and incentives in ensuring financial stability today"
+category: quant_concept
+description: Explore market discipline mechanisms and functions in algorithmic trading
+  Understand the role of regulation and incentives in ensuring financial stability
+  today
+title: Market Discipline Mechanisms and Functions (Algo Trading)
 ---
 
 The world of finance is undergoing a significant transformation fueled by technological advancements, which have increased the complexity of financial markets. As these markets become more intricate, several key components play crucial roles in ensuring their stability and efficiency: financial regulation, economic incentives, market discipline, and algorithmic trading.

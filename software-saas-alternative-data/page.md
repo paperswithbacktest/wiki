@@ -1,6 +1,11 @@
 ---
-title: "Software (SaaS) Alternative Data (Algo Trading)"
-description: Explore how alternative data and SaaS platforms revolutionize algorithmic trading by providing real-time market insights from unconventional sources like social media and satellite imagery. Discover the advantages of seamlessly integrating diverse data sets into trading algorithms to enhance decision-making and strategy development for optimized trading outcomes in competitive markets.
+category: dataset
+description: Explore how alternative data and SaaS platforms revolutionize algorithmic
+  trading by providing real-time market insights from unconventional sources like
+  social media and satellite imagery. Discover the advantages of seamlessly integrating
+  diverse data sets into trading algorithms to enhance decision-making and strategy
+  development for optimized trading outcomes in competitive markets.
+title: Software (SaaS) Alternative Data (Algo Trading)
 ---
 
 In the rapidly evolving landscape of financial markets, algorithmic trading has emerged as a powerful tool for both institutional and individual investors. By leveraging computer algorithms to execute trades at high speeds and frequencies, traders can capitalize on market inefficiencies and price discrepancies that traditional trading methods might miss. This shift towards algorithmic strategies has been accelerated by recent advancements in technology, which have opened doors to alternative data sources, fundamentally transforming traditional trading approaches.

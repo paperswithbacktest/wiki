@@ -1,6 +1,13 @@
 ---
-title: "Market maker (Algo Trading)"
-description: Market makers are essential to financial markets, ensuring liquidity and stability by maintaining continuous buy and sell quotes for instruments like stocks, bonds, and currencies. Their role involves establishing bid-ask spreads, managing inventory, and facilitating smoother trading conditions, which aids in price discovery and attracts market participants. Operating in major stock exchanges such as the NYSE and LSE, market makers also play a crucial role in mitigating volatility and fostering efficient market operations.
+category: quant_concept
+description: Market makers are essential to financial markets, ensuring liquidity
+  and stability by maintaining continuous buy and sell quotes for instruments like
+  stocks, bonds, and currencies. Their role involves establishing bid-ask spreads,
+  managing inventory, and facilitating smoother trading conditions, which aids in
+  price discovery and attracts market participants. Operating in major stock exchanges
+  such as the NYSE and LSE, market makers also play a crucial role in mitigating volatility
+  and fostering efficient market operations.
+title: Market maker (Algo Trading)
 ---
 
 Market makers are pivotal players in financial markets, providing essential services that underpin market stability and efficiency. By definition, a market maker is a firm or individual responsible for maintaining continuous buy and sell quotes for financial instruments such as stocks, bonds, or currencies, thus ensuring market liquidity. Liquidity is crucial because it allows for the smooth operator transition between buying and selling assets without causing drastic price changes, making it a cornerstone of functional financial systems.

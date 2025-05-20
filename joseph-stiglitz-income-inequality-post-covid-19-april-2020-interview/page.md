@@ -1,6 +1,10 @@
 ---
-title: "Joseph Stiglitz on Income Inequality Post-COVID-19: April 2020 Interview (Algo Trading)"
-description: "Explore Joseph Stiglitz's insights on income inequality magnified by COVID-19 and the impacts of algorithmic trading on financial markets' stability and economic disparities."
+category: quant_concept
+description: Explore Joseph Stiglitz's insights on income inequality magnified by
+  COVID-19 and the impacts of algorithmic trading on financial markets' stability
+  and economic disparities.
+title: 'Joseph Stiglitz on Income Inequality Post-COVID-19: April 2020 Interview (Algo
+  Trading)'
 ---
 
 The COVID-19 pandemic has spurred a complex set of challenges globally, accentuating socioeconomic issues such as income inequality. According to reports by international organizations like the World Bank, the pandemic has reversed progress on poverty reduction for the first time in over two decades, with income gaps widening as a result of economic disruptions (World Bank, 2020).

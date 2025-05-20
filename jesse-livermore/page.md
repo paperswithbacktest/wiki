@@ -1,6 +1,12 @@
 ---
-title: "Jesse Livermore: A Trading Pioneer (Algo Trading)"
-description: Explore the legacy of Jesse Livermore, a trading pioneer known for his innovative strategies and influence on modern algorithmic trading. Dive into his life story and learn about his trend-following techniques, risk management insights, and how his principles continue to shape today's trading practices. Discover the timeless lessons from his financial journey and their relevance to contemporary market dynamics.
+category: trading_strategy
+description: Explore the legacy of Jesse Livermore, a trading pioneer known for his
+  innovative strategies and influence on modern algorithmic trading. Dive into his
+  life story and learn about his trend-following techniques, risk management insights,
+  and how his principles continue to shape today's trading practices. Discover the
+  timeless lessons from his financial journey and their relevance to contemporary
+  market dynamics.
+title: 'Jesse Livermore: A Trading Pioneer (Algo Trading)'
 ---
 
 Jesse Livermore is often hailed as one of the most iconic figures in the history of trading. Known as the 'Boy Plunger,' he managed to amass and subsequently lose multimillion-dollar fortunes. Despite his tumultuous financial journey, he left an indelible mark on the trading world, influencing generations of traders. Livermore's trading exploits and strategies reflect a genius intertwined with the inherent unpredictability of financial markets. 

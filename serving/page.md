@@ -1,7 +1,8 @@
 ---
-title: Essential Guide to Machine Learning Model Serving Strategies
+category: quant_concept
 description: Machine Learning Model Serving delivers reliable real time predictions
   with deployment scaling and security best practices Discover more inside.
+title: Essential Guide to Machine Learning Model Serving Strategies
 ---
 
 ![Image](images/1.jpeg)

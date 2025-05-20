@@ -1,6 +1,9 @@
 ---
-title: "Load: Significance, Types, and Considerations (Algo Trading)"
-description: "Explore the dynamics of load in algorithmic trading Learn about different load types and their impact on profitability to optimize your trading strategies effectively"
+category: quant_concept
+description: Explore the dynamics of load in algorithmic trading Learn about different
+  load types and their impact on profitability to optimize your trading strategies
+  effectively
+title: 'Load: Significance, Types, and Considerations (Algo Trading)'
 ---
 
 Algorithmic trading represents a significant portion of the financial markets, utilizing computer algorithms to execute trades at speeds and frequencies far beyond human capabilities. This fast-paced environment is influenced by numerous factors that can significantly alter trading outcomes. One such factor critical to algorithmic strategies is the concept of 'load'—a type of fee or commission associated with trading financial instruments.

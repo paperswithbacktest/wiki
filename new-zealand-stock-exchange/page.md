@@ -1,6 +1,8 @@
 ---
-title: "New Zealand Stock Exchange (Algo Trading)"
-description: "Explore the role of the New Zealand Stock Exchange in financial markets discover its range of products and the impact of algorithmic trading on efficiency."
+category: dataset
+description: Explore the role of the New Zealand Stock Exchange in financial markets
+  discover its range of products and the impact of algorithmic trading on efficiency.
+title: New Zealand Stock Exchange (Algo Trading)
 ---
 
 The New Zealand Stock Exchange (NZX) is a prominent entity in New Zealand’s financial markets, playing a crucial role in facilitating the trade of various financial instruments, including securities, derivatives, and energy products. With its headquarters situated in Wellington, the capital city, NZX serves as a vital component of the nation's economic framework by ensuring a structured and efficient trading environment. The exchange is widely recognized for its robust trading platforms that offer a diverse range of product offerings, effectively meeting the needs of investors and market participants.

@@ -1,6 +1,8 @@
 ---
-title: "Municipal Securities Rulemaking Board (Algo Trading)"
-description: "Explore the impact of algorithmic trading on municipal securities where the MSRB ensures a stable market blending technology with regulatory frameworks."
+category: quant_concept
+description: Explore the impact of algorithmic trading on municipal securities where
+  the MSRB ensures a stable market blending technology with regulatory frameworks.
+title: Municipal Securities Rulemaking Board (Algo Trading)
 ---
 
 The financial landscape is evolving rapidly, with technology significantly impacting traditional practices. In the context of municipal securities, algorithmic trading is gaining prominence. This fusion of technology and finance reflects a broader trend where computational tools and algorithms are increasingly applied across various sectors to optimize processes, enhance efficiency, and provide new insights. Municipal securities, which are debt instruments issued by state and local governments, have traditionally been a pillar of public finance, funding infrastructure, schools, and other essential services. 

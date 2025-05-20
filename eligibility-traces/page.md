@@ -1,7 +1,8 @@
 ---
-title: Understanding Eligibility Traces in Reinforcement Learning
+category: quant_concept
 description: Eligibility traces enhance reinforcement learning by tracking actions,
   assigning credit for delayed rewards with TD lambda updates. Discover more inside.
+title: Understanding Eligibility Traces in Reinforcement Learning
 ---
 
 ![Image](images/1.png)

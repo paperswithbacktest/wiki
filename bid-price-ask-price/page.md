@@ -1,6 +1,8 @@
 ---
-title: "Bid Price and Ask Price (Algo Trading)"
-description: "Explore the critical role of bid and ask prices in trading dynamics and how algorithmic trading leverages them to improve market efficiency and strategies."
+category: quant_concept
+description: Explore the critical role of bid and ask prices in trading dynamics and
+  how algorithmic trading leverages them to improve market efficiency and strategies.
+title: Bid Price and Ask Price (Algo Trading)
 ---
 
 The financial markets fundamentally rely on the bid and ask prices, which play a critical role in shaping trading dynamics. The bid price signifies the highest price that a buyer is prepared to offer for an asset. Conversely, the ask price represents the lowest price a seller is willing to accept. The difference between these two, known as the bid-ask spread, is a vital indicator of market liquidity. A narrower spread generally suggests a more liquid market, where trades can be executed swiftly and with lower costs, while a wider spread often denotes less liquidity, leading to higher transaction costs for market participants.

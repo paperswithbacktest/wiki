@@ -1,6 +1,9 @@
 ---
-title: "Impact of Activist Investors (Algo Trading)"
-description: "Explore how activist investors and algorithmic trading are reshaping finance through tech-driven strategies and shareholder influence in modern investment landscapes."
+category: trading_strategy
+description: Explore how activist investors and algorithmic trading are reshaping
+  finance through tech-driven strategies and shareholder influence in modern investment
+  landscapes.
+title: Impact of Activist Investors (Algo Trading)
 ---
 
 In recent years, the landscape of investment has broadened to include more than just traditional stock purchases and hold strategies. Investors are increasingly exploring innovative approaches that cater to a diverse range of intentions, such as ethical concerns, profit maximization, and operational efficiencies. Three significant areas of investment—impact investment, activist investors, and algorithmic trading—are at the forefront of this evolving financial environment.

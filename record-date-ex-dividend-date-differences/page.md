@@ -1,6 +1,11 @@
 ---
-title: "Record Date and Ex-Dividend Date Differences (Algo Trading)"
-description: "Discover the intricacies of dividend investing, focusing on the importance of record and ex-dividend dates, and how the integration of algorithmic trading techniques can enhance investment strategies. Learn how to optimize trading decisions by leveraging detailed knowledge of dividend timelines for improved income generation and capital gains."
+category: trading_strategy
+description: Discover the intricacies of dividend investing, focusing on the importance
+  of record and ex-dividend dates, and how the integration of algorithmic trading
+  techniques can enhance investment strategies. Learn how to optimize trading decisions
+  by leveraging detailed knowledge of dividend timelines for improved income generation
+  and capital gains.
+title: Record Date and Ex-Dividend Date Differences (Algo Trading)
 ---
 
 Dividend investing is a popular strategy that centers on generating a steady income stream through the acquisition of stocks that pay regular dividends. Investors who adopt this approach often target companies with a robust track record of dividend payments. Such companies, frequently referred to as blue-chip stocks, offer the dual advantage of providing both the potential for capital appreciation and reliable income through dividends. As dividend investing becomes more nuanced, understanding specific dividend dates, including the record date and ex-dividend date, gains importance for strategizing effectively.

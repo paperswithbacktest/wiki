@@ -1,6 +1,8 @@
 ---
-title: "Coinage Act of 1792: History and Requirements (Algo Trading)"
-description: "Discover the pivotal role of the Coinage Act of 1792 in shaping US monetary policy revolutionizing currency with the US Mint and standardization principles."
+category: quant_concept
+description: Discover the pivotal role of the Coinage Act of 1792 in shaping US monetary
+  policy revolutionizing currency with the US Mint and standardization principles.
+title: 'Coinage Act of 1792: History and Requirements (Algo Trading)'
 ---
 
 The Coinage Act of 1792 marks a pivotal point in United States history by establishing the foundational infrastructure for the country's monetary system. It created the United States Mint, laying the groundwork for a robust and standardized currency system with the introduction of the U.S. dollar as the primary unit of currency. This legislative milestone provided the necessary framework to address the chaotic and fragmented currency situation that the young nation faced post-Revolutionary War, characterized by various forms of paper money and debt certificates lacking consistent value. 

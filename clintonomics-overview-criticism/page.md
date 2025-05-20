@@ -1,6 +1,9 @@
 ---
-title: "Clintonomics: Overview and Criticism (Algo Trading)"
-description: "Explore Clintonomics a blend of fiscal strategies and free trade policies from Bill Clinton's presidency its legacy in economic growth and modern algorithmic trading."
+category: quant_concept
+description: Explore Clintonomics a blend of fiscal strategies and free trade policies
+  from Bill Clinton's presidency its legacy in economic growth and modern algorithmic
+  trading.
+title: 'Clintonomics: Overview and Criticism (Algo Trading)'
 ---
 
 Clintonomics refers to the economic policies and philosophy that characterized the presidency of Bill Clinton from 1993 to 2001. This term encompasses a strategic approach to economic governance marked by specific fiscal and monetary policies aimed at fostering growth and achieving budget surpluses. This article outlines the primary facets of Clintonomics, examining how these policies influenced both domestic prosperity and international economic relations. Additionally, the analysis will scrutinize the successes and criticisms that arose from Clinton's economic maneuvers, providing a comprehensive understanding of his administration’s impact.

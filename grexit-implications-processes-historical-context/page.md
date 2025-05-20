@@ -1,6 +1,9 @@
 ---
-title: "Grexit: Implications, Processes, and Historical Context (Algo Trading)"
-description: "Explore the Grexit scenario and its impact on Greece and the Eurozone focusing on economic implications and the role of algorithmic trading in market stability."
+category: quant_concept
+description: Explore the Grexit scenario and its impact on Greece and the Eurozone
+  focusing on economic implications and the role of algorithmic trading in market
+  stability.
+title: 'Grexit: Implications, Processes, and Historical Context (Algo Trading)'
 ---
 
 The term 'Grexit' has occupied a prominent position in discussions about Greece's economic trajectory and its continued membership in the European Union. Originating during the country's profound sovereign debt crisis, the concept encapsulates the potential exit of Greece from the Eurozone, the monetary union of European Union countries using the euro as their currency. This potential departure raises critical questions about the economic, political, and social ramifications for Greece, the Eurozone, and the global financial ecosystem.

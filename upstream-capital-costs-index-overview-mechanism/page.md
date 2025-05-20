@@ -1,6 +1,8 @@
 ---
-title: "Upstream Capital Costs Index: Overview and Mechanism (Algo Trading)"
-description: "Explore the Upstream Capital Costs Index as a vital tool in understanding oil and natural gas capital costs and its integration with algorithmic trading."
+category: quant_concept
+description: Explore the Upstream Capital Costs Index as a vital tool in understanding
+  oil and natural gas capital costs and its integration with algorithmic trading.
+title: 'Upstream Capital Costs Index: Overview and Mechanism (Algo Trading)'
 ---
 
 The energy sector is a pivotal component of the global economy, significantly impacting geopolitical strategies and financial markets. It acts as a cornerstone for both developing and developed economies by providing the essential resources needed to power industries, transport, and households. Given its importance, understanding the financial mechanics underlying this sector is crucial for policymakers, investors, and analysts.

@@ -1,7 +1,8 @@
 ---
-title: Understanding Gradient Boosting in Machine Learning
+category: quant_concept
 description: Gradient Boosting improves model accuracy by sequentially adding decision
   trees that correct residual errors and tune hyperparameters Discover more inside.
+title: Understanding Gradient Boosting in Machine Learning
 ---
 
 ![Image](images/1.png)

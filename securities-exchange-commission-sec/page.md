@@ -1,6 +1,8 @@
 ---
-title: "Securities and Exchange Commission (SEC) (Algo Trading)"
-description: "Explore the SEC's evolving role in regulating algorithmic trading while balancing innovation, safeguarding investors, and ensuring transparent markets."
+category: quant_concept
+description: Explore the SEC's evolving role in regulating algorithmic trading while
+  balancing innovation, safeguarding investors, and ensuring transparent markets.
+title: Securities and Exchange Commission (SEC) (Algo Trading)
 ---
 
 The financial landscape has evolved significantly over the decades, characterized by rapid advancements and the introduction of innovative trading mechanisms. Regulatory bodies have found themselves in a perpetual race to match these complexities with appropriate rules and monitoring systems. Among these bodies, the Securities and Exchange Commission (SEC) stands as a cornerstone of securities market regulation, tasked with safeguarding investor interests and fostering transparent market practices.

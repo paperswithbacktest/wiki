@@ -1,6 +1,8 @@
 ---
-title: "Impact of Keynesian Economics on Economic Cycles (Algo Trading)"
-description: "Explore the impact of Keynesian economics on economic cycles and its integration with algorithmic trading strategies to balance boom-bust cycles effectively."
+category: quant_concept
+description: Explore the impact of Keynesian economics on economic cycles and its
+  integration with algorithmic trading strategies to balance boom-bust cycles effectively.
+title: Impact of Keynesian Economics on Economic Cycles (Algo Trading)
 ---
 
 Economic theory serves as a fundamental framework guiding the understanding and operation of financial markets. It encompasses various models and hypotheses aimed at interpreting market behaviors, predicting future trends, and formulating policy responses to economic challenges. One of the most influential schools of thought in economic theory is Keynesian economics, which focuses on total spending in the economy and its effects on output and inflation.
@@ -165,4 +167,3 @@ In conclusion, the synergy between Keynesian economics and algorithmic trading r
    This paper investigates how macroeconomic indicators can be used to inform algorithmic trading strategies, providing a framework for integrating economic insights into automated trading systems.
 
 For additional academic insights and practical examples, consider accessing journals such as the *Journal of Economic Perspectives* for economic theories and *The Journal of Trading* for the latest trends and research in algorithmic trading. Additionally, online resources like SSRN and JSTOR provide valuable access to scholarly articles that explore these topics in greater detail.
-

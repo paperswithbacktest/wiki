@@ -1,6 +1,9 @@
 ---
-title: "Pre-Refunding Bonds: Overview and Examples (Algo Trading)"
-description: "Explore municipal bond refinancing with pre-refunding methods and algorithmic trading trends. Gain insights on current practices and future developments in muni bonds."
+category: quant_concept
+description: Explore municipal bond refinancing with pre-refunding methods and algorithmic
+  trading trends. Gain insights on current practices and future developments in muni
+  bonds.
+title: 'Pre-Refunding Bonds: Overview and Examples (Algo Trading)'
 ---
 
 Municipal bonds, commonly referred to as "munis," serve as vital instruments for funding a myriad of public infrastructure projects such as schools, highways, and water systems. These bonds are issued by governmental entities, including states, cities, and counties, with the primary aim of generating capital for essential public services that bolster community development and economic growth. 

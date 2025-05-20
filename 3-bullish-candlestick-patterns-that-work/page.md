@@ -1,6 +1,14 @@
 ---
-title: "3 Bullish Candlestick Patterns That Work (Algo Trading)"
-description: Explore algorithmic trading through the lens of bullish candlestick patterns, essential tools for predicting upward market trends. This guide investigates into integrating patterns like Hammer, Bullish Engulfing, and Morning Star into trading systems, enhancing strategy and execution. Discover backtesting insights and how automated recognition of these patterns can optimize trading efficiency by reducing human error and capitalizing on high-frequency opportunities. Whether you're refining current systems or starting anew, this resource offers valuable perspectives on leveraging bullish patterns for improved profitability.
+category: trading_strategy
+description: Explore algorithmic trading through the lens of bullish candlestick patterns,
+  essential tools for predicting upward market trends. This guide investigates into
+  integrating patterns like Hammer, Bullish Engulfing, and Morning Star into trading
+  systems, enhancing strategy and execution. Discover backtesting insights and how
+  automated recognition of these patterns can optimize trading efficiency by reducing
+  human error and capitalizing on high-frequency opportunities. Whether you're refining
+  current systems or starting anew, this resource offers valuable perspectives on
+  leveraging bullish patterns for improved profitability.
+title: 3 Bullish Candlestick Patterns That Work (Algo Trading)
 ---
 
 ![Image](images/1.png)
@@ -258,4 +266,4 @@ In summary, **bullish candlestick patterns** can “work” in [algorithmic trad
 
 [10]: Investopedia. ["Morning Stars: How to Trade the Morning Star Candlestick Pattern."](https://www.investopedia.com/terms/m/morningstar.asp)  
 
-[11]: Strike.money. ["Morning Star Candlestick: Definition, Structure, Trading, Benefits."](https://www.strike.money/technical-analysis/morning-star)  
+[11]: Strike.money. ["Morning Star Candlestick: Definition, Structure, Trading, Benefits."](https://www.strike.money/technical-analysis/morning-star)

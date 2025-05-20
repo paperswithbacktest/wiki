@@ -1,10 +1,9 @@
 ---
-title: Optimizing Machine Learning with Pjit Partitioned JIT
+category: quant_concept
 description: Pjit boosts large machine learning model performance by partitioning
   workloads across resources and optimizing memory use. Discover more inside.
+title: Optimizing Machine Learning with Pjit Partitioned JIT
 ---
-
-
 
 ## Table of Contents
 

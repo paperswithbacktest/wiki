@@ -1,6 +1,8 @@
 ---
-title: "Top Cannabis Company Earnings (Algo Trading)"
-description: "Explore top cannabis company earnings and the role of algorithmic trading in this dynamic sector to gain insights into financial trends and industry strategies."
+category: trading_strategy
+description: Explore top cannabis company earnings and the role of algorithmic trading
+  in this dynamic sector to gain insights into financial trends and industry strategies.
+title: Top Cannabis Company Earnings (Algo Trading)
 ---
 
 The cannabis industry has experienced significant growth over the past few years, driven fundamentally by various legalization efforts across different regions and increasing consumer demand. In North America, countries like Canada have fully legalized recreational use, while numerous states in the U.S. have followed suit despite varying federal positions. These changes have catalyzed the industry's expansion, encouraging both recreational and medical markets.

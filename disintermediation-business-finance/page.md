@@ -1,6 +1,8 @@
 ---
-title: "Disintermediation in Business and Finance (Algo Trading)"
-description: "Explore the impact of disintermediation in finance as algorithmic trading and cryptocurrencies cut costs and improve efficiency by bypassing traditional intermediaries."
+category: quant_concept
+description: Explore the impact of disintermediation in finance as algorithmic trading
+  and cryptocurrencies cut costs and improve efficiency by bypassing traditional intermediaries.
+title: Disintermediation in Business and Finance (Algo Trading)
 ---
 
 Disintermediation has emerged as a significant force transforming various sectors by eliminating the necessity for intermediaries in transactions. This transformation is particularly evident in the financial industry, where disintermediation has revolutionized how producers and consumers connect directly, thereby reducing costs and enhancing efficiency. By removing traditional middlemen such as brokers and banks, both individuals and businesses can engage in more streamlined and cost-effective transactions.

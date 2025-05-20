@@ -1,6 +1,9 @@
 ---
-title: "Personal Equity Plan (Algo Trading)"
-description: "Explore the evolution of personal investment with insights on Personal Equity Plans (PEPs), Individual Savings Accounts (ISAs), and the rise of algorithmic trading."
+category: quant_concept
+description: Explore the evolution of personal investment with insights on Personal
+  Equity Plans (PEPs), Individual Savings Accounts (ISAs), and the rise of algorithmic
+  trading.
+title: Personal Equity Plan (Algo Trading)
 ---
 
 The world of investment has transformed dramatically over the years, with technological advancements ushering in new methods such as algorithmic trading. These transformations have not only reshaped how investors engage with financial markets but have also altered the tools and strategies available for personal investment management. One intriguing financial concept in this evolving landscape is the Personal Equity Plan (PEP), a once-popular investment account in the United Kingdom. PEPs were designed to encourage individual investment in domestic companies by offering tax advantages, reflecting a traditional yet impactful approach to personal finance.

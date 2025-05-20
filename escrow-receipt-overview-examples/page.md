@@ -1,6 +1,9 @@
 ---
-title: "Escrow Receipt: Overview and Examples (Algo Trading)"
-description: "Explore how escrow processes enhance security and trust in financial transactions, especially in algorithmic trading, by mitigating risks and ensuring compliance."
+category: quant_concept
+description: Explore how escrow processes enhance security and trust in financial
+  transactions, especially in algorithmic trading, by mitigating risks and ensuring
+  compliance.
+title: 'Escrow Receipt: Overview and Examples (Algo Trading)'
 ---
 
 The world of financial transactions is complex and constantly evolving. In this article, we explore how escrow processes and receipts play a vital role in financial transactions, particularly in the context of algorithmic trading. Traditionally, escrow serves as a reliable intermediary to ensure that parties involved in a transaction meet their agreed-upon obligations before any exchange of funds or assets occurs. By securely holding assets or funds until predetermined conditions are fulfilled, escrow mitigates the risks inherent in financial exchange, fostering trust and compliance.

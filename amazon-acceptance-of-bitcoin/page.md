@@ -1,6 +1,9 @@
 ---
-title: "Amazon Acceptance of Bitcoin (Algo Trading)"
-description: "Explore why Amazon hesitates to accept Bitcoin despite its growing popularity, alternative methods for spending Bitcoin on Amazon, and the exploration of tax and fee implications."
+category: quant_concept
+description: Explore why Amazon hesitates to accept Bitcoin despite its growing popularity,
+  alternative methods for spending Bitcoin on Amazon, and the exploration of tax and
+  fee implications.
+title: Amazon Acceptance of Bitcoin (Algo Trading)
 ---
 
 Cryptocurrency, particularly Bitcoin, has garnered significant attention in recent years as many businesses explore the potential benefits of adopting digital currencies. Bitcoin is a decentralized digital currency, operating without a central bank or single administrator, and can be sent from user to user on the peer-to-peer Bitcoin network without the need for intermediaries. As a pioneer in providing possibilities beyond traditional payment methods, Bitcoin has been embraced by various online platforms and organizations worldwide.

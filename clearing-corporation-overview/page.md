@@ -1,6 +1,9 @@
 ---
-title: "Clearing Corporation Overview (Algo Trading)"
-description: "Explore the crucial role of clearing corporations in financial markets as they ensure accurate trade settlements and mitigate risks, vital for algorithmic trading."
+category: quant_concept
+description: Explore the crucial role of clearing corporations in financial markets
+  as they ensure accurate trade settlements and mitigate risks, vital for algorithmic
+  trading.
+title: Clearing Corporation Overview (Algo Trading)
 ---
 
 The financial ecosystem relies heavily on the effective functioning of settlement systems and clearing corporations. These entities serve pivotal roles in ensuring that financial transactions are completed accurately and efficiently. They act as crucial intermediaries that mitigate risks and uphold stability in the global market. This article investigates how settlement systems, financial services clearing corporations, and algorithmic trading are interconnected.

@@ -1,6 +1,12 @@
 ---
-title: "Comparison of Charles Schwab and TD Ameritrade (Algo Trading)"
-description: "Explore the post-merger landscape of TD Ameritrade and Charles Schwab as two major players in the investment sector combine their strengths to offer enhanced algorithmic trading platforms. Gain insights into the unique features of TD Ameritrade's thinkorswim and Schwab's platform offerings, helping investors choose the right fit for their trading strategies. Discover how their integration promises a superior trading experience with advanced tools and broader investment capabilities."
+category: trading_strategy
+description: Explore the post-merger landscape of TD Ameritrade and Charles Schwab
+  as two major players in the investment sector combine their strengths to offer enhanced
+  algorithmic trading platforms. Gain insights into the unique features of TD Ameritrade's
+  thinkorswim and Schwab's platform offerings, helping investors choose the right
+  fit for their trading strategies. Discover how their integration promises a superior
+  trading experience with advanced tools and broader investment capabilities.
+title: Comparison of Charles Schwab and TD Ameritrade (Algo Trading)
 ---
 
 TD Ameritrade and Charles Schwab are two pivotal financial institutions that have significantly shaped the investment landscape in the United States. TD Ameritrade, established in 1975, has grown to become one of the leading brokerage services, offering comprehensive trading technology and a wide range of financial products to retail investors. Its platform, known for robust analytical tools, has served millions of individual clients and institutional traders alike. Charles Schwab, founded in 1971, ushered in a new era of discount brokerage services, emphasizing investor education and retail trading, thereby democratizing access to financial markets.

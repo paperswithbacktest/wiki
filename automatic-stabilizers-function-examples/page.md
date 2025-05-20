@@ -1,6 +1,14 @@
 ---
-title: "Automatic Stabilizers: Function and Examples (Algo Trading)"
-description: "Explore the importance of automatic stabilizers in economic stability, illustrating how these fiscal tools adjust automatically to maintain equilibrium during fluctuations. Discover their role in fiscal policy and integration with algorithmic trading, alongside their impact on corporate social responsibility and sustainability efforts. Analyze the effectiveness in various economic settings and the benefits of these systems, such as progressive taxes and welfare programs, in smoothing economic cycles without requiring government intervention. Uncover insights into their contribution to global economic frameworks and their ability to support stable growth."
+category: quant_concept
+description: Explore the importance of automatic stabilizers in economic stability,
+  illustrating how these fiscal tools adjust automatically to maintain equilibrium
+  during fluctuations. Discover their role in fiscal policy and integration with algorithmic
+  trading, alongside their impact on corporate social responsibility and sustainability
+  efforts. Analyze the effectiveness in various economic settings and the benefits
+  of these systems, such as progressive taxes and welfare programs, in smoothing economic
+  cycles without requiring government intervention. Uncover insights into their contribution
+  to global economic frameworks and their ability to support stable growth.
+title: 'Automatic Stabilizers: Function and Examples (Algo Trading)'
 ---
 
 Economic fluctuations are inherent to the business cycle, presenting challenges that often necessitate policy interventions to stabilize the economy. Among these interventions, automatic stabilizers stand out as essential fiscal tools. Automatic stabilizers encompass government policies that automatically adjust in response to economic conditions, helping to smooth economic cycles without requiring specific governmental action. By their nature, these tools mitigate the volatility of economic fluctuations, thus playing a crucial role in sustaining economic stability.

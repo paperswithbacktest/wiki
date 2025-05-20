@@ -1,6 +1,9 @@
 ---
-title: "Straight-Line Basis Calculation (Algo Trading)"
-description: "Explore how the straight-line basis simplifies depreciation in algorithmic trading enhancing decision-making by maintaining predictable and consistent asset valuation."
+category: trading_strategy
+description: Explore how the straight-line basis simplifies depreciation in algorithmic
+  trading enhancing decision-making by maintaining predictable and consistent asset
+  valuation.
+title: Straight-Line Basis Calculation (Algo Trading)
 ---
 
 Algorithmic trading, commonly known as algo trading, leverages advanced statistical models and predefined strategies to accurately determine the timing and scale of trading transactions. These models are essential for making swift and informed decisions that maximize returns and minimize risks. A crucial element within these strategies is the consideration of asset depreciation and amortization, which can significantly impact the financial outcomes of trading activities. A popular method for calculating this depreciation is the straight-line basis, valued for its straightforwardness.

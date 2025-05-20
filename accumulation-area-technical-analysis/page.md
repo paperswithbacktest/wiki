@@ -1,6 +1,9 @@
 ---
-title: "Accumulation Area in Technical Analysis (Algo Trading)"
-description: "Discover how understanding the accumulation area in technical analysis can enhance your algo trading strategy by identifying key market dynamics for strategic advantage."
+category: quant_concept
+description: Discover how understanding the accumulation area in technical analysis
+  can enhance your algo trading strategy by identifying key market dynamics for strategic
+  advantage.
+title: Accumulation Area in Technical Analysis (Algo Trading)
 ---
 
 In the world of stock trading, technical analysis is a vital tool for making informed decisions. By examining past market data, particularly price and volume, traders can identify patterns and forecast potential future movements. Among the key components of technical analysis is the concept of the accumulation area, which is particularly significant for understanding market dynamics.

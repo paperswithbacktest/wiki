@@ -1,6 +1,8 @@
 ---
-title: "Financial Statements Reporting Long-Term Debt (Algo Trading)"
-description: "Explore the essential link between financial statements, long-term debt, corporate finance, and algorithmic trading to enhance company growth and resilience."
+category: quant_concept
+description: Explore the essential link between financial statements, long-term debt,
+  corporate finance, and algorithmic trading to enhance company growth and resilience.
+title: Financial Statements Reporting Long-Term Debt (Algo Trading)
 ---
 
 In today’s rapidly evolving financial landscape, the ability to navigate corporate finance dynamics is more essential than ever. This article addresses the critical intersection of financial statements, long-term debt, corporate finance, and algorithmic trading—four cornerstones that profoundly impact a company's financial health and strategic direction. 

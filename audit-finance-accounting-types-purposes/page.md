@@ -1,6 +1,9 @@
 ---
-title: "Audit in Finance and Accounting: Types and Purposes (Algo Trading)"
-description: "Discover how accounting finance audit and algorithmic trading intersect to drive efficiency and innovation in the financial sector. Explore their roles and impacts."
+category: quant_concept
+description: Discover how accounting finance audit and algorithmic trading intersect
+  to drive efficiency and innovation in the financial sector. Explore their roles
+  and impacts.
+title: 'Audit in Finance and Accounting: Types and Purposes (Algo Trading)'
 ---
 
 In the rapidly evolving financial sector, accounting, finance, audit, and algorithmic trading converge to form a vital intersection that influences every aspect of modern finance. These disciplines, each with its distinct focus, collaboratively drive the efficiency, transparency, and innovation essential for today's competitive financial landscape.

@@ -1,6 +1,15 @@
 ---
-title: "Arrow's Impossibility Theorem: Explanation, History, and Examples (Algo Trading)"
-description: "Explore Arrow's Impossibility Theorem, a fundamental concept in social choice theory developed by economist Kenneth J. Arrow, which reveals the challenges in creating fair voting systems when more than two options exist. The theorem highlights the impossibility of fulfilling all fairness criteria, such as nondictatorship and Pareto efficiency, in ranked voting methods. This insight is critical in understanding the limitations of decision-making systems in political, economic, and algorithmic trading spheres. The article investigates into the theorem's implications, offering historical context, practical examples, and ongoing relevance in collective decision-making discussions."
+category: quant_concept
+description: Explore Arrow's Impossibility Theorem, a fundamental concept in social
+  choice theory developed by economist Kenneth J. Arrow, which reveals the challenges
+  in creating fair voting systems when more than two options exist. The theorem highlights
+  the impossibility of fulfilling all fairness criteria, such as nondictatorship and
+  Pareto efficiency, in ranked voting methods. This insight is critical in understanding
+  the limitations of decision-making systems in political, economic, and algorithmic
+  trading spheres. The article investigates into the theorem's implications, offering
+  historical context, practical examples, and ongoing relevance in collective decision-making
+  discussions.
+title: 'Arrow''s Impossibility Theorem: Explanation, History, and Examples (Algo Trading)'
 ---
 
 Arrow's Impossibility Theorem, formulated by the economist Kenneth J. Arrow, represents a pivotal insight in social choice theory, highlighting significant challenges in the design of ideal voting systems. The theorem asserts that when voters have three or more distinct options, no ranked voting system can successfully translate individual preferences into a community-wide ranking while satisfying a specific set of fairness criteria concurrently. Thus, it underscores a fundamental incompatibility, indicating that every voting system must compromise at least one of these criteria: nondictatorship, Pareto efficiency, independence of irrelevant alternatives, unrestricted domain, and social ordering. This revelation points to the inherent contradictions present in ranked voting systems, contributing to a broader understanding that the pursuit of a flawless voting process is inherently constrained.

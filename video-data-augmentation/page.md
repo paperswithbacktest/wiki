@@ -1,7 +1,8 @@
 ---
-title: Video Data Augmentation Techniques for Robust Model Training
+category: dataset
 description: Video data augmentation enriches training data with flips rotations crops
   and color tweaks to strengthen model robustness Discover more inside.
+title: Video Data Augmentation Techniques for Robust Model Training
 ---
 
 ![Image](images/1.png)

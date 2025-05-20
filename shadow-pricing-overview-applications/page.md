@@ -1,6 +1,8 @@
 ---
-title: "Shadow Pricing Overview and Applications (Algo Trading)"
-description: "Explore shadow pricing applications in algorithmic trading and economic valuation to optimize resource allocation, enhancing market efficiency and policymaking."
+category: quant_concept
+description: Explore shadow pricing applications in algorithmic trading and economic
+  valuation to optimize resource allocation, enhancing market efficiency and policymaking.
+title: Shadow Pricing Overview and Applications (Algo Trading)
 ---
 
 In today's competitive economic landscape, accurately valuing resources and making informed decisions about their allocation is crucial for both businesses and policymakers. The necessity to optimize resource allocation stems from the limited nature of resources and the need to maximize economic efficiency and social welfare. Three pivotal concepts that facilitate this optimization are shadow pricing, economic valuation, and algorithmic trading.

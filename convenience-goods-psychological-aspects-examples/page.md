@@ -1,6 +1,9 @@
 ---
-title: "Convenience Goods: Psychological Aspects and Examples (Algo Trading)"
-description: "Explore how consumer psychology and algorithmic trading intersect with convenience goods, revealing insights into shopping behaviors and technological influences on purchases."
+category: quant_concept
+description: Explore how consumer psychology and algorithmic trading intersect with
+  convenience goods, revealing insights into shopping behaviors and technological
+  influences on purchases.
+title: 'Convenience Goods: Psychological Aspects and Examples (Algo Trading)'
 ---
 
 In today's fast-paced world, the shopping behaviors of consumers are intricately shaped by a combination of psychological elements and technological progress. Consumer psychology investigates into how individuals' thoughts, beliefs, emotions, and perceptions influence their purchasing decisions. Businesses keen on adapting to rapidly evolving market dynamics must understand these psychological drivers to predict and cater to consumer needs effectively.

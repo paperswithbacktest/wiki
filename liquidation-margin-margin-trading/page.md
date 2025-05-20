@@ -1,6 +1,8 @@
 ---
-title: "Liquidation Margin in Margin Trading (Algo Trading)"
-description: "Explore liquidation margin in margin trading and its impact on algorithmic trading. Learn about types of margins and managing risks to optimize trading strategies."
+category: quant_concept
+description: Explore liquidation margin in margin trading and its impact on algorithmic
+  trading. Learn about types of margins and managing risks to optimize trading strategies.
+title: Liquidation Margin in Margin Trading (Algo Trading)
 ---
 
 The world of trading is intricate, involving detailed terminology and diversified strategies to navigate the financial markets. A significant area within this realm is margin trading, which enables traders to borrow funds to potentially amplify their returns. By obtaining additional capital, traders are able to increase their trading exposure, potentially leading to higher profits. However, this strategy also introduces increased risks, as losses can be magnified in the same proportion as gains.

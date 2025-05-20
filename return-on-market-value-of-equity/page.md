@@ -1,6 +1,9 @@
 ---
-title: "Return on Market Value of Equity (Algo Trading)"
-description: "Discover how Market Value of Equity and Return on Market Value of Equity (ROME) provide vital insights into company value and performance in algorithmic trading."
+category: quant_concept
+description: Discover how Market Value of Equity and Return on Market Value of Equity
+  (ROME) provide vital insights into company value and performance in algorithmic
+  trading.
+title: Return on Market Value of Equity (Algo Trading)
 ---
 
 The financial markets rely heavily on specific metrics that are crucial in assessing company value and performance. Among these measurements, the Market Value of Equity and Return on Market Value of Equity (ROME) offer significant insights for investors and traders. Market Value of Equity, often referred to as market capitalization, is calculated by multiplying a company's current share price by its total number of outstanding shares. This metric is vital for gauging the size and value of a business in the eyes of market participants.

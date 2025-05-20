@@ -1,6 +1,8 @@
 ---
-title: "Foreclosure Crisis: Overview and Historical Context (Algo Trading)"
-description: "Explore the impact of the 2008 foreclosure crisis and discover how algorithmic trading could enhance financial stability and prevent future economic downturns."
+category: quant_concept
+description: Explore the impact of the 2008 foreclosure crisis and discover how algorithmic
+  trading could enhance financial stability and prevent future economic downturns.
+title: 'Foreclosure Crisis: Overview and Historical Context (Algo Trading)'
 ---
 
 The 2008 financial crisis, triggered by a steep rise in mortgage defaults, had wide-ranging effects on the global economy. It revealed vulnerabilities within financial systems, notably associated with housing foreclosures, which reached unprecedented levels and significantly contributed to a broader recession. Unchecked lending practices, particularly in the subprime mortgage market, led to a wave of defaults as borrowers were unable to meet their mortgage obligations, causing lenders to foreclose on homes. This upsurge in foreclosures not only impacted individual families by displacing millions but also had ripple effects that undermined financial institutions and eroded investor confidence globally.

@@ -1,6 +1,10 @@
 ---
-title: "Accruals Effect in Algo Trading"
-description: Discover the accruals effect in quantitative trading - a stock selection strategy based on accrual information. Learn about its origins, implications, and how to exploit it for excess returns through algorithmic trading strategies and rigorous fundamental analysis. Read more on PaperswithBacktest.com.
+category: trading_strategy
+description: Discover the accruals effect in quantitative trading - a stock selection
+  strategy based on accrual information. Learn about its origins, implications, and
+  how to exploit it for excess returns through algorithmic trading strategies and
+  rigorous fundamental analysis. Read more on PaperswithBacktest.com.
+title: Accruals Effect in Algo Trading
 ---
 
 Algorithmic trading, an integral part of modern financial markets, executes trades at speeds and frequencies that are beyond human capabilities. By leveraging complex algorithms and pre-defined criteria, traders can capitalize on market inefficiencies and trends with remarkable precision and efficiency. These systems analyze vast amounts of data to make informed decisions, executing trades based on variables such as timing, price, and volume. This ability to automate trading decisions not only enhances market liquidity but also reduces transaction costs and mitigates human error, contributing significantly to the robustness of financial markets.

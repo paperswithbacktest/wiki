@@ -1,7 +1,8 @@
 ---
-title: Generative Pre-Trained Transformers Explained for Everyday Use
+category: quant_concept
 description: GPT models power chatbots content creation and translation by learning
   from large text datasets and fine tuning for versatile tasks Discover more inside
+title: Generative Pre-Trained Transformers Explained for Everyday Use
 ---
 
 ![Image](images/1.png)

@@ -1,6 +1,9 @@
 ---
-title: "Funding Mechanisms (Algo Trading)"
-description: "Explore various funding mechanisms crucial to advancing algo trading. This guide helps traders secure capital, enhance trading strategies, and sustain operations efficiently."
+category: quant_concept
+description: Explore various funding mechanisms crucial to advancing algo trading.
+  This guide helps traders secure capital, enhance trading strategies, and sustain
+  operations efficiently.
+title: Funding Mechanisms (Algo Trading)
 ---
 
 Algorithmic trading, commonly referred to as algo trading, is significantly reshaping financial markets by leveraging advanced computer algorithms to automate and execute trading decisions with precision and speed. This technological advancement not only enhances the efficiency of trading operations but also ensures optimal conditions for executing trades, thus maximizing profitability. As algo trading becomes increasingly prevalent, understanding its financial underpinnings becomes vital, particularly in the context of capital funding and financial resources.
@@ -169,4 +172,3 @@ Engaging with trading communities like EliteTrader and Stack Exchange's Quantita
 For those interested in the statistical and mathematical underpinnings of algorithmic trading, scholarly articles and journals such as the Journal of Financial Data Science provide peer-reviewed insights into the latest research in the field.
 
 Combining these resources can offer a comprehensive educational experience for traders aspiring to improve their algorithmic trading skills and secure necessary funding.
-

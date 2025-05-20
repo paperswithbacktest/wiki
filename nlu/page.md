@@ -1,7 +1,8 @@
 ---
-title: Natural Language Understanding in Machine Learning Explained
+category: quant_concept
 description: Natural Language Understanding empowers machines to interpret human intent
   and context with ML models for more natural conversations Discover more inside
+title: Natural Language Understanding in Machine Learning Explained
 ---
 
 ![Image](images/1.png)

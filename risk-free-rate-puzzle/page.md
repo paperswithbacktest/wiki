@@ -1,6 +1,9 @@
 ---
-title: "Risk-Free Rate Puzzle (Algo Trading)"
-description: "Explore the Risk-Free Rate Puzzle and its implications for algorithmic trading Learn why government bonds yield lower returns than equities and its impact on strategies"
+category: quant_concept
+description: Explore the Risk-Free Rate Puzzle and its implications for algorithmic
+  trading Learn why government bonds yield lower returns than equities and its impact
+  on strategies
+title: Risk-Free Rate Puzzle (Algo Trading)
 ---
 
 The world of finance is replete with intricate challenges and enigmatic puzzles that captivate both economists and investors alike. Understanding these puzzles is not merely an academic exercise but a crucial part of strategic financial decision-making. One such conundrum is the Risk-Free Rate Puzzle (RFRP), which challenges traditional assumptions about the expected returns on government bonds versus equities. This article will explore these financial puzzles, focusing on the RFRP, within the frameworks of economic theory and algorithmic trading (algo trading).

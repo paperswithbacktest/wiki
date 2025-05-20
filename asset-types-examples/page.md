@@ -1,6 +1,8 @@
 ---
-title: "Asset: Types and Examples (Algo Trading)"
-description: "Discover the various types of financial assets and the revolutionary role of algorithmic trading in portfolio management for enhanced investment strategies."
+category: quant_concept
+description: Discover the various types of financial assets and the revolutionary
+  role of algorithmic trading in portfolio management for enhanced investment strategies.
+title: 'Asset: Types and Examples (Algo Trading)'
 ---
 
 In today's dynamic financial landscape, comprehending the myriad types of assets and their roles in financial practices is paramount for investors and institutions alike. Assets, encompassing both tangible and intangible elements, serve as the foundation upon which individuals and organizations build their wealth and financial stability. Among the numerous advances within this domain, algorithmic trading stands out as a revolutionary technology-driven approach that is reshaping the management and trading of these assets.

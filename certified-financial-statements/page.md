@@ -1,6 +1,9 @@
 ---
-title: "Certified Financial Statements (Algo Trading)"
-description: "Certified financial statements are crucial in algo trading ensuring data accuracy for dynamic trading decisions while boosting investor trust and market stability."
+category: quant_concept
+description: Certified financial statements are crucial in algo trading ensuring data
+  accuracy for dynamic trading decisions while boosting investor trust and market
+  stability.
+title: Certified Financial Statements (Algo Trading)
 ---
 
 Financial statements serve as the cornerstone of accurate financial reporting, offering a snapshot of a company’s financial health and operational performance. These documents encompass balance sheets, income statements, and cash flow statements, each providing different insights into a company’s status. In tandem with financial certification, these statements play a crucial role in algorithmic trading, a domain that relies heavily on precise and timely data for dynamic decision-making. 
@@ -179,4 +182,3 @@ In conclusion, financial statements and certifications are indispensable to algo
 3. **Securities and Exchange Commission (SEC)**  
    [Link to SEC](https://www.sec.gov/)  
    The SEC oversees securities markets and protects investors through enforceable disclosure requirements.
-

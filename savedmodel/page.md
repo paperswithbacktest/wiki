@@ -1,7 +1,8 @@
 ---
-title: Comprehensive Guide to TensorFlow SavedModel for Deployment
+category: quant_concept
 description: TensorFlow SavedModel streamlines export load and version models for
   seamless flexible deployment across environments Discover more inside today
+title: Comprehensive Guide to TensorFlow SavedModel for Deployment
 ---
 
 ![Image](images/1.png)

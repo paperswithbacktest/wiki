@@ -1,6 +1,8 @@
 ---
-title: "Modern Portfolio Theory and Its Application by Investors (Algo Trading)"
-description: "Discover how integrating Modern Portfolio Theory with algorithmic trading empowers investors to optimize portfolios, balancing risk and return in real-time."
+category: trading_strategy
+description: Discover how integrating Modern Portfolio Theory with algorithmic trading
+  empowers investors to optimize portfolios, balancing risk and return in real-time.
+title: Modern Portfolio Theory and Its Application by Investors (Algo Trading)
 ---
 
 In today's rapidly evolving financial landscape, the integration of modern portfolio theory (MPT) with algorithmic trading offers a robust toolkit for investors striving to enhance their investment strategies. Modern Portfolio Theory, established by Harry Markowitz in the 1950s, fundamentally changed investment strategies by introducing diversification as a means to optimize risk and return. MPT suggests that by diversifying across various assets, an investor can construct a portfolio that maximizes expected return for a given level of market risk. This theory introduced the concept of the efficient frontier, a graphical representation of optimal portfolios that offer the highest return for a given level of risk.

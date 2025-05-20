@@ -1,6 +1,9 @@
 ---
-title: "Lindahl Equilibrium and Its Conditions (Algo Trading)"
-description: "Explore the intersection of Lindahl Equilibrium and algorithmic trading to discover innovative approaches in public goods provision and modern financial markets."
+category: quant_concept
+description: Explore the intersection of Lindahl Equilibrium and algorithmic trading
+  to discover innovative approaches in public goods provision and modern financial
+  markets.
+title: Lindahl Equilibrium and Its Conditions (Algo Trading)
 ---
 
 Public goods are pivotal components in the framework of societal development, defined by their non-excludability and non-rivalrous consumption. This means that individuals cannot be effectively excluded from using these goods, and one person's use does not diminish availability to others. Classic examples of public goods include national defense, clean air, and public infrastructure. Their provision is crucial as they often lead to positive externalities, fueling economic growth, improving quality of life, and ensuring equitable resource access for all members of society.

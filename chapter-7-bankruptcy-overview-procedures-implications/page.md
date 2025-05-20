@@ -1,6 +1,13 @@
 ---
-title: "Chapter 7 Bankruptcy: Overview, Procedures, and Implications (Algo Trading)"
-description: "Discover the essentials of Chapter 7 bankruptcy through this detailed guide that covers its procedures and implications. Unveil how this path can offer debt relief by discharging unsecured debts while understanding the financial repercussions it entails. Explore the intersection with algorithmic trading and grasp the complexities involved in filing, from eligibility assessment to asset liquidation. Equip yourself with insightful knowledge to navigate financial distress and make informed decisions towards financial recovery."
+category: quant_concept
+description: Discover the essentials of Chapter 7 bankruptcy through this detailed
+  guide that covers its procedures and implications. Unveil how this path can offer
+  debt relief by discharging unsecured debts while understanding the financial repercussions
+  it entails. Explore the intersection with algorithmic trading and grasp the complexities
+  involved in filing, from eligibility assessment to asset liquidation. Equip yourself
+  with insightful knowledge to navigate financial distress and make informed decisions
+  towards financial recovery.
+title: 'Chapter 7 Bankruptcy: Overview, Procedures, and Implications (Algo Trading)'
 ---
 
 Chapter 7 bankruptcy is a legal process often regarded as the last resort for individuals and businesses dealing with insurmountable debt. This form of bankruptcy, also known as liquidation bankruptcy, allows debtors to discharge their unsecured debts by liquidating non-exempt assets. While Chapter 7 offers a fresh start, the process has significant financial repercussions, including a lasting negative impact on one's credit rating and the potential loss of valuable assets.

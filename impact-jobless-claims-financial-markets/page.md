@@ -1,6 +1,10 @@
 ---
-title: "Impact of Jobless Claims on Financial Markets (Algo Trading)"
-description: "Explore how US jobless claims impact financial markets and trading strategies. Understand this key economic indicator, its role in algorithmic trading, and how it helps traders optimize decisions and gain insights into market dynamics for smarter investing."
+category: quant_concept
+description: Explore how US jobless claims impact financial markets and trading strategies.
+  Understand this key economic indicator, its role in algorithmic trading, and how
+  it helps traders optimize decisions and gain insights into market dynamics for smarter
+  investing.
+title: Impact of Jobless Claims on Financial Markets (Algo Trading)
 ---
 
 In the highly interconnected world of financial markets, staying informed about economic indicators is crucial. A well-rounded understanding of these indicators not only empowers traders and investors to make informed decisions but also enhances the accuracy of market predictions. Among these indicators, US jobless claims stand out as a critical measure for assessing the health of the labor market. Published on a weekly basis, these claims provide timely insights into the number of individuals filing for unemployment benefits, reflecting changes in employment conditions and broader economic trends.

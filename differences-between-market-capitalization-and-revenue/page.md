@@ -1,6 +1,11 @@
 ---
-title: "Differences Between Market Capitalization and Revenue (Algo Trading)"
-description: "Explore the critical distinctions between market capitalization and revenue in the context of algorithmic trading. Understand how these financial metrics impact company assessment and investment strategies. Learn about the interplay between market cap as an indicator of company value and revenue as a reflection of operational success, providing essential insights for navigating modern financial markets."
+category: quant_concept
+description: Explore the critical distinctions between market capitalization and revenue
+  in the context of algorithmic trading. Understand how these financial metrics impact
+  company assessment and investment strategies. Learn about the interplay between
+  market cap as an indicator of company value and revenue as a reflection of operational
+  success, providing essential insights for navigating modern financial markets.
+title: Differences Between Market Capitalization and Revenue (Algo Trading)
 ---
 
 The modern financial landscape is characterized by rapid advancements and innovations, significantly influencing how markets operate and investors engage with them. Three pivotal elements in this evolving scenario are algorithmic trading, revenue financial metrics, and market capitalization. These components profoundly impact how companies are evaluated and traded, serving as essential tools for investors and financial analysts.

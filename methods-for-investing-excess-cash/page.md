@@ -1,6 +1,9 @@
 ---
-title: "Methods for Investing Excess Cash (Algo Trading)"
-description: "Explore advanced methods for investing excess cash with a focus on algorithmic trading Learn about diverse strategies risk management and the evolving regulatory landscape"
+category: trading_strategy
+description: Explore advanced methods for investing excess cash with a focus on algorithmic
+  trading Learn about diverse strategies risk management and the evolving regulatory
+  landscape
+title: Methods for Investing Excess Cash (Algo Trading)
 ---
 
 Investing surplus cash can be a daunting task, especially with the myriad of options available in today’s financial markets. The decision-making process involves understanding various vehicles ranging from traditional savings accounts to complex investment products. For investors seeking to go beyond conventional savings or stock market investments, algorithmic trading presents a sophisticated option. This form of trading utilizes computer algorithms to execute trades at speeds and frequencies that are impossible for human traders.

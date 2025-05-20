@@ -1,7 +1,8 @@
 ---
-title: Understanding Momentum in Neural Network Optimization
+category: quant_concept
 description: Momentum in Machine Learning speeds up neural network training by adding
   previous updates to gradients for smoother convergence Discover more inside
+title: Understanding Momentum in Neural Network Optimization
 ---
 
 ![Image](images/1.jpeg)

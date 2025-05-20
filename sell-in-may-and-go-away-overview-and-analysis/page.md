@@ -1,6 +1,13 @@
 ---
-title: "Sell in May and Go Away: Overview and Analysis (Algo Trading)"
-description: "Explore the potential of combining the \"Sell in May and Go Away\" strategy with algorithmic trading to optimize stock market performance. This article investigates into how algorithmic systems can enhance traditional investment strategies by leveraging historical trends, minimizing emotional bias, and maximizing trade efficiency. Discover the advantages of using predefined criteria for timely market entries and exits, and learn how technology can help investors refine their approaches to respond to evolving market dynamics and improve portfolio management."
+category: trading_strategy
+description: Explore the potential of combining the "Sell in May and Go Away" strategy
+  with algorithmic trading to optimize stock market performance. This article investigates
+  into how algorithmic systems can enhance traditional investment strategies by leveraging
+  historical trends, minimizing emotional bias, and maximizing trade efficiency. Discover
+  the advantages of using predefined criteria for timely market entries and exits,
+  and learn how technology can help investors refine their approaches to respond to
+  evolving market dynamics and improve portfolio management.
+title: 'Sell in May and Go Away: Overview and Analysis (Algo Trading)'
 ---
 
 The stock market is a complex and dynamic environment where investors strive to maximize returns through various strategies. A well-known approach often discussed among investors is the "Sell in May and Go Away" strategy, which is based on the historical observation that stocks tend to underperform during the summer months, specifically from May to October. This seemingly predictable trend has led some investors to adjust their trading activities seasonally to optimize their portfolios' performance.

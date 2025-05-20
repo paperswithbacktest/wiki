@@ -1,6 +1,9 @@
 ---
-title: "Impact of Blockchain on the Automotive Industry (Algo Trading)"
-description: "Explore how blockchain is revolutionizing the automotive industry by enhancing transparency, security, and efficiency in manufacturing, smart car networks, and algorithmic trading."
+category: quant_concept
+description: Explore how blockchain is revolutionizing the automotive industry by
+  enhancing transparency, security, and efficiency in manufacturing, smart car networks,
+  and algorithmic trading.
+title: Impact of Blockchain on the Automotive Industry (Algo Trading)
 ---
 
 Blockchain technology is transforming industries worldwide, and the automotive sector is no exception. As this innovative technology continues to evolve, it is playing a crucial role in reshaping how vehicles are manufactured, operated, and traded. The potential for blockchain to enhance the automotive industry primarily lies in its ability to ensure transparency, security, and efficiency. This article explores the intersection of blockchain technology, automotive innovation, and algorithmic trading in future cars, highlighting the various ways in which these emerging technologies can coexist to create a streamlined and more efficient industry.

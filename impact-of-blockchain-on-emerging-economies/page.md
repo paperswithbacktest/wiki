@@ -1,6 +1,8 @@
 ---
-title: "Impact of Blockchain on Emerging Economies (Algo Trading)"
-description: "Explore how blockchain and algorithmic trading are reshaping emerging economies enhancing financial inclusion and market efficiency amidst local challenges."
+category: quant_concept
+description: Explore how blockchain and algorithmic trading are reshaping emerging
+  economies enhancing financial inclusion and market efficiency amidst local challenges.
+title: Impact of Blockchain on Emerging Economies (Algo Trading)
 ---
 
 In the digital age, blockchain technology and algorithmic trading are two of the most influential forces reshaping the economic landscape, particularly in emerging economies. These innovations are not just driving technological advancement but are also acting as catalysts for economic development in regions that are rapidly integrating modern tools to boost growth.

@@ -1,6 +1,8 @@
 ---
-title: "Riskless Principal and NASD Notice (Algo Trading)"
-description: "Explore riskless principal transactions and NASD guidelines in algorithmic trading Discover how brokers minimize market risk and maintain transparency in trades"
+category: quant_concept
+description: Explore riskless principal transactions and NASD guidelines in algorithmic
+  trading Discover how brokers minimize market risk and maintain transparency in trades
+title: Riskless Principal and NASD Notice (Algo Trading)
 ---
 
 Riskless principal transactions are a fundamental component of financial markets, providing an avenue for brokers to efficiently fulfill customer orders while theoretically minimizing their exposure to market risk. This concept is pivotal to maintaining market fluidity and facilitating seamless transactions. The Financial Industry Regulatory Authority (FINRA), previously known as the National Association of Securities Dealers (NASD), has established rules and guidelines to oversee these transactions, ensuring that they are conducted with transparency and fairness. Notably, the NASD guidelines, such as those detailed in notices 99-65 and 00-79, lay out the requirements for accurately reporting riskless principal trades and the necessity for brokers to clearly disclose any markups or markdowns to prevent misleading practices.

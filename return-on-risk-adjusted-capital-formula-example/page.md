@@ -1,6 +1,9 @@
 ---
-title: "Return on Risk-Adjusted Capital Formula and Example (Algo Trading)"
-description: "Explore the Return on Risk-Adjusted Capital formula used for evaluating investment profitability in algorithmic trading by balancing potential returns with risk."
+category: trading_strategy
+description: Explore the Return on Risk-Adjusted Capital formula used for evaluating
+  investment profitability in algorithmic trading by balancing potential returns with
+  risk.
+title: Return on Risk-Adjusted Capital Formula and Example (Algo Trading)
 ---
 
 Financial metrics are essential tools for evaluating investment performance, providing quantitative measures that investors and analysts utilize to make informed decisions. These metrics help assess profitability, return on investment, risk, and overall financial health. Traditional metrics like Return on Investment (ROI) and Return on Equity (ROE) have long been used to evaluate company performance. However, they may not fully account for the risks associated with investments. This is where risk-adjusted metrics, such as Return on Risk-Adjusted Capital (RORAC), become crucial.

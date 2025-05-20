@@ -1,6 +1,8 @@
 ---
-title: "Crossover in Technical Analysis (Algo Trading)"
-description: "Explore crossover strategies in technical analysis and algorithmic trading to predict market trends with precision. Learn popular strategies like Golden Cross."
+category: trading_strategy
+description: Explore crossover strategies in technical analysis and algorithmic trading
+  to predict market trends with precision. Learn popular strategies like Golden Cross.
+title: Crossover in Technical Analysis (Algo Trading)
 ---
 
 In the world of financial markets, technical analysis serves as a pivotal tool for traders and investors aiming to forecast future price movements. By analyzing historical price data and trading volumes, technical analysis attempts to identify patterns and trends that can indicate future market behavior. Among the various techniques within this discipline, crossover strategies have gained significant prominence, particularly within the evolving domain of algorithmic trading.

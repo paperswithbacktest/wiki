@@ -1,6 +1,8 @@
 ---
-title: "Oil Refinery: Functions, Services, and Operations (Algo Trading)"
-description: "Discover how oil refineries function, offering essential services in the upstream, midstream, and downstream sectors while exploring algo trading innovations."
+category: quant_concept
+description: Discover how oil refineries function, offering essential services in
+  the upstream, midstream, and downstream sectors while exploring algo trading innovations.
+title: 'Oil Refinery: Functions, Services, and Operations (Algo Trading)'
 ---
 
 The oil industry plays a pivotal role in the global economy, serving as a cornerstone for energy supply, industrial production, and transportation sectors worldwide. It acts as a critical driver of economic growth, influencing international trade balances, and underpinning the energy security strategies of nations. The intricate web of operations within the oil industry is delineated into three fundamental sectors: upstream, midstream, and downstream, each with distinct functions and contributions to the industry's overall dynamics.
@@ -157,4 +159,3 @@ Hull, J. C. *Options, Futures, and Other Derivatives*. A foundational text for u
 Aldridge, I. *High-Frequency Trading: A Practical Guide to Algorithmic Strategies and Trading Systems*. This guide outlines the implementation and effects of algorithmic trading systems, including their application and impact within oil markets.
 
 These references provide a foundational understanding of the complexities surrounding the oil industry, from historical perspectives and technical processes to modern financial applications and regulatory considerations.
-

@@ -1,7 +1,8 @@
 ---
-title: Deep Tabular Learning Models for Structured Data Insights
+category: quant_concept
 description: Deep Tabular Learning applies advanced neural architectures attention
   and ensembles to uncover complex patterns in structured data Discover more inside
+title: Deep Tabular Learning Models for Structured Data Insights
 ---
 
 ![Image](images/1.jpeg)

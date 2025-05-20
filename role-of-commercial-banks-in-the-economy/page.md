@@ -1,6 +1,12 @@
 ---
-title: "Role of Commercial Banks in the Economy (Algo Trading)"
-description: "Explore the vital functions that commercial banks fulfill in the economy, from managing deposits to providing loans that fuel growth and trade. Delve into the transformative impact of algorithmic trading on banking, enhancing efficiency and market dynamics. Understand how banks balance traditional roles with cutting-edge technologies, shaping financial stability and offering insights into the challenges and opportunities posed by automation and modern banking practices."
+category: quant_concept
+description: Explore the vital functions that commercial banks fulfill in the economy,
+  from managing deposits to providing loans that fuel growth and trade. Delve into
+  the transformative impact of algorithmic trading on banking, enhancing efficiency
+  and market dynamics. Understand how banks balance traditional roles with cutting-edge
+  technologies, shaping financial stability and offering insights into the challenges
+  and opportunities posed by automation and modern banking practices.
+title: Role of Commercial Banks in the Economy (Algo Trading)
 ---
 
 Commercial banks are integral components of the economic system, pivotal in facilitating financial operations and driving economic growth. By offering essential services such as accepting deposits, providing loans, and offering investment products, these banks enable the effective circulation of money within the economy. This dynamic fosters trade, supports businesses, and aids individuals in achieving financial goals.

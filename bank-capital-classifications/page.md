@@ -1,6 +1,9 @@
 ---
-title: "Bank Capital and Its Classifications (Algo Trading)"
-description: "Explore the essentials of bank capital, regulatory frameworks, and the impact of algorithmic trading in financial markets. Stay informed about global banking standards."
+category: quant_concept
+description: Explore the essentials of bank capital, regulatory frameworks, and the
+  impact of algorithmic trading in financial markets. Stay informed about global banking
+  standards.
+title: Bank Capital and Its Classifications (Algo Trading)
 ---
 
 In today's complex financial landscape, understanding the intricacies of bank capital, financial regulations, and algorithmic trading is crucial. These components form the backbone of modern banking systems, influencing how financial institutions manage risks and remain solvent. Bank capital serves as the financial cornerstone, differentiating a bank's assets from its liabilities, thus indicating its net worth and overall health. As global markets evolve, the classification of bank capital has become increasingly significant, with regulatory bodies implementing standards to ensure financial stability.

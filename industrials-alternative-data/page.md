@@ -1,6 +1,12 @@
 ---
-title: "Industrials Alternative Data (Algo Trading)"
-description: Discover the advantages of utilizing industrial alternative data in algorithmic trading to gain a competitive edge. Explore a range of non-traditional datasets from sensors and IoT devices within the industrial sector, revealing hidden patterns for more precise market predictions. Learn how alternative data enhances trading strategies, offering unique insights beyond conventional financial metrics and helping traders anticipate market trends and economic shifts.
+category: dataset
+description: Discover the advantages of utilizing industrial alternative data in algorithmic
+  trading to gain a competitive edge. Explore a range of non-traditional datasets
+  from sensors and IoT devices within the industrial sector, revealing hidden patterns
+  for more precise market predictions. Learn how alternative data enhances trading
+  strategies, offering unique insights beyond conventional financial metrics and helping
+  traders anticipate market trends and economic shifts.
+title: Industrials Alternative Data (Algo Trading)
 ---
 
 In the fast-paced world of financial markets, where every second counts, gaining a competitive edge is crucial for successful trading. Traders and investors continually seek methods to enhance their strategies, and algorithmic trading has emerged as a powerful tool in this quest. Algorithmic trading leverages complex algorithms to automate trading decisions, enabling rapid and precise execution of trades. One of the latest advancements in this domain is the integration of innovative data sources that can provide deeper insights into market behavior.

@@ -1,6 +1,8 @@
 ---
-title: "Rule 10b-5 and Securities Fraud (Algo Trading)"
-description: "Explore the connection between Rule 10b-5 securities fraud and algorithmic trading Discover how regulation impacts market integrity and financial stability"
+category: trading_strategy
+description: Explore the connection between Rule 10b-5 securities fraud and algorithmic
+  trading Discover how regulation impacts market integrity and financial stability
+title: Rule 10b-5 and Securities Fraud (Algo Trading)
 ---
 
 This article explores the intricate relationship between securities fraud, securities regulation, Rule 10b-5, and algorithmic trading. Securities fraud represents a significant threat to the financial industry, resulting in substantial losses for investors and undermining market integrity. This type of fraud encompasses various illicit activities such as misrepresentation, insider trading, and market manipulation, each having severe repercussions for market stability and investor trust.

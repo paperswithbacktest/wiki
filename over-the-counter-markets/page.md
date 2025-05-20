@@ -1,6 +1,9 @@
 ---
-title: "Over-the-Counter Markets (Algo Trading)"
-description: "Explore the dynamic world of Over-the-Counter markets and algorithmic trading. Discover the flexibility and efficiency these decentralized platforms offer to investors."
+category: quant_concept
+description: Explore the dynamic world of Over-the-Counter markets and algorithmic
+  trading. Discover the flexibility and efficiency these decentralized platforms offer
+  to investors.
+title: Over-the-Counter Markets (Algo Trading)
 ---
 
 The financial trading landscape is ever-evolving, marked by a multitude of platforms and practices. Among these, Over-the-Counter (OTC) markets play an indispensable role. Unlike traditional exchanges, OTC markets operate through decentralized networks, facilitating the trade of diverse financial instruments such as stocks, bonds, and derivatives directly between parties. This decentralization empowers market participants with flexibility, albeit at the cost of reduced transparency compared to centralized exchanges.

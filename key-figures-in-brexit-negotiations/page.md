@@ -1,6 +1,8 @@
 ---
-title: "Key Figures in Brexit Negotiations (Algo Trading)"
-description: "Explore the intersection of Brexit's key negotiators and the impact of algorithmic trading on financial markets during this historic geopolitical event."
+category: quant_concept
+description: Explore the intersection of Brexit's key negotiators and the impact of
+  algorithmic trading on financial markets during this historic geopolitical event.
+title: Key Figures in Brexit Negotiations (Algo Trading)
 ---
 
 The Brexit negotiations marked a significant geopolitical event, exerting profound and far-reaching impacts on both global economies and financial markets. These negotiations dictated the terms under which the United Kingdom would exit the European Union, leading to economic shifts, currency fluctuations, and an atmosphere of uncertainty, which all played a part in influencing market conditions. 

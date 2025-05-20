@@ -1,6 +1,8 @@
 ---
-title: "Use of MACD Signals in Momentum Trading (Algo Trading)"
-description: "Explore the strategic use of MACD signals in momentum trading focusing on its role in both traditional and algorithmic contexts for effective trend analysis."
+category: trading_strategy
+description: Explore the strategic use of MACD signals in momentum trading focusing
+  on its role in both traditional and algorithmic contexts for effective trend analysis.
+title: Use of MACD Signals in Momentum Trading (Algo Trading)
 ---
 
 Understanding the role of technical analysis in trading practices is an essential skill for traders at all levels of expertise. Technical analysis involves evaluating market data, primarily historical price and volume data, to forecast future market behavior. Among the myriad tools employed in technical analysis, the Moving Average Convergence Divergence (MACD) indicator stands out as a fundamental tool widely used across trading communities. 

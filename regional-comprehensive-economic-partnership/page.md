@@ -1,6 +1,8 @@
 ---
-title: "Regional Comprehensive Economic Partnership (Algo Trading)"
-description: "Explore the role of algorithmic trading within the Regional Comprehensive Economic Partnership RCEP and understand how it reshapes trade in the Asia-Pacific."
+category: trading_strategy
+description: Explore the role of algorithmic trading within the Regional Comprehensive
+  Economic Partnership RCEP and understand how it reshapes trade in the Asia-Pacific.
+title: Regional Comprehensive Economic Partnership (Algo Trading)
 ---
 
 The Regional Comprehensive Economic Partnership (RCEP) represents a substantial free trade agreement comprising 15 nations from the Asia-Pacific region. It forms one of the largest trading blocs globally, accounting for approximately one-third of the world's Gross Domestic Product (GDP), illustrating its extensive economic impact. The fundamental objective of RCEP is to enhance trade relationships, stimulate economic growth, and shape trading regulations within the Asia-Pacific region. This agreement marks a significant milestone, having been signed on November 15, 2020, including major economies such as China, Japan, and South Korea.

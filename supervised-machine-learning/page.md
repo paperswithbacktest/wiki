@@ -1,7 +1,8 @@
 ---
-title: Mastering Supervised Machine Learning Fundamentals and Techniques
+category: quant_concept
 description: Supervised machine learning provides guidance on choosing algorithms
   preparing data and avoiding overfitting to build accurate models Discover more inside
+title: Mastering Supervised Machine Learning Fundamentals and Techniques
 ---
 
 ![Image](images/1.png)

@@ -1,6 +1,8 @@
 ---
-title: "SEC Form 15F (Algo Trading)"
-description: "Explore SEC Form 15F and its impact on foreign firms deregistering from U.S. exchanges, alongside the rise of algorithmic trading in modern financial markets."
+category: quant_concept
+description: Explore SEC Form 15F and its impact on foreign firms deregistering from
+  U.S. exchanges, alongside the rise of algorithmic trading in modern financial markets.
+title: SEC Form 15F (Algo Trading)
 ---
 
 The world of securities and financial markets operates under a complex framework of forms and regulations designed to uphold transparency and ensure compliance among market participants. SEC Form 15F is among these regulatory documents, playing a critical role for foreign companies seeking to deregister from U.S. exchanges. This form is an essential tool for foreign private issuers aiming to terminate the registration of their securities with the Securities and Exchange Commission (SEC) under certain conditions. 

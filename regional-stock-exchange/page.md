@@ -1,6 +1,8 @@
 ---
-title: "Regional Stock Exchange (Algo Trading)"
-description: "Explore the synergy of regional stock exchanges and algorithmic trading in enhancing market efficiency and liquidity. Discover opportunities for local economies."
+category: quant_concept
+description: Explore the synergy of regional stock exchanges and algorithmic trading
+  in enhancing market efficiency and liquidity. Discover opportunities for local economies.
+title: Regional Stock Exchange (Algo Trading)
 ---
 
 Stock markets serve as pivotal platforms for the buying and selling of securities, enabling companies to raise capital and investors to gain part-ownership or creditor status in corporations, primarily in the form of stocks and bonds. Regional stock exchanges play a crucial role in this ecosystem by catering to local businesses and investors, often providing a more accessible and supportive environment than their national counterparts. These exchanges are integral to financial trading, offering tailored services that enhance the participation of smaller companies and individual investors in the capital markets.

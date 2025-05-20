@@ -1,6 +1,9 @@
 ---
-title: "Major Shareholders of PepsiCo (Algo Trading)"
-description: "Explore the major shareholders of PepsiCo and the role of algorithmic trading in optimizing stock investments uncovering their impact on market performance and investor confidence."
+category: dataset
+description: Explore the major shareholders of PepsiCo and the role of algorithmic
+  trading in optimizing stock investments uncovering their impact on market performance
+  and investor confidence.
+title: Major Shareholders of PepsiCo (Algo Trading)
 ---
 
 PepsiCo, Inc. (NASDAQ: PEP) is a leading global food and beverage company renowned for a vast array of popular brands that have substantial market penetration. These brands include iconic names such as Pepsi, Mountain Dew, Lay’s, Gatorade, Tropicana, and Quaker, each enjoying significant consumer following and contributing to PepsiCo's robust market presence. The company's stock, traded under the ticker symbol PEP on the Nasdaq stock market, represents a significant point of interest for both institutional and individual investors due to its stable performance, comprehensive corporate strategy, and diverse portfolio.

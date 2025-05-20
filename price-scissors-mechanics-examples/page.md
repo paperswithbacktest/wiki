@@ -1,6 +1,8 @@
 ---
-title: "Price Scissors: Mechanics and Examples (Algo Trading)"
-description: "Explore how market pricing dynamics, the price scissors theory, and algorithmic trading interact, shaping economies and guiding investor and policy strategies."
+category: quant_concept
+description: Explore how market pricing dynamics, the price scissors theory, and algorithmic
+  trading interact, shaping economies and guiding investor and policy strategies.
+title: 'Price Scissors: Mechanics and Examples (Algo Trading)'
 ---
 
 Market pricing serves as a fundamental mechanism in economics where the dynamic interplay of supply and demand dictates the prices of goods and services. This process ensures that resources are allocated efficiently across an economy, reflecting consumer preferences, production capabilities, and market conditions. However, this seemingly straightforward mechanism can be influenced by several factors, leading to complexities and disparities in pricing trends across different sectors.

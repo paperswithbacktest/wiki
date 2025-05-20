@@ -1,6 +1,14 @@
 ---
-title: "Jacobi Method in Python and NumPy (Algo Trading)"
-description: Explore how the Jacobi Method enhances algorithmic trading by solving linear equations effectively with Python and NumPy. This iterative technique offers insights into quantitative finance applications such as portfolio optimization and risk management, allowing for precise trading strategies. Understand the mathematical foundations, advantages, and potential limitations of the Jacobi Method, and discover its significant role in the financial domain. Upgrade your computational skills by leveraging Python for efficient algorithm implementation, gaining a strategic edge in the dynamic world of financial markets.
+category: quant_concept
+description: Explore how the Jacobi Method enhances algorithmic trading by solving
+  linear equations effectively with Python and NumPy. This iterative technique offers
+  insights into quantitative finance applications such as portfolio optimization and
+  risk management, allowing for precise trading strategies. Understand the mathematical
+  foundations, advantages, and potential limitations of the Jacobi Method, and discover
+  its significant role in the financial domain. Upgrade your computational skills
+  by leveraging Python for efficient algorithm implementation, gaining a strategic
+  edge in the dynamic world of financial markets.
+title: Jacobi Method in Python and NumPy (Algo Trading)
 ---
 
 The financial markets present a dynamic landscape characterized by both opportunities and uncertainties. With the advent of technology, algorithmic trading has become a crucial element influencing market behaviors. This form of trading, which involves using computers to execute trades at high speeds and with sophisticated algorithms, has revolutionized the financial industry by providing enhanced efficiency and the ability to capitalize on market movements with precision.

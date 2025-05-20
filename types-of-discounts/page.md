@@ -1,6 +1,8 @@
 ---
-title: "Types of Discounts (Algo Trading)"
-description: "Explore diverse discount strategies in algorithmic trading, including volume and seasonal discounts, as tools for optimizing trades and boosting profitability."
+category: trading_strategy
+description: Explore diverse discount strategies in algorithmic trading, including
+  volume and seasonal discounts, as tools for optimizing trades and boosting profitability.
+title: Types of Discounts (Algo Trading)
 ---
 
 Discounts and pricing strategies are pivotal elements in modern trading, serving as tools to optimize financial performance and achieve competitive advantage. These strategies include a wide range of approaches such as volume-based pricing, time-limited offers, and customer-specific terms, primarily aimed at enhancing sales volume, customer loyalty, and market penetration.

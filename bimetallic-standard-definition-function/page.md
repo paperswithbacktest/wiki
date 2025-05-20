@@ -1,6 +1,9 @@
 ---
-title: "Bimetallic Standard: Definition and Function (Algo Trading)"
-description: "Discover the concept of the bimetallic standard a monetary framework utilizing gold and silver as legal tender to enhance stability and broaden money supply."
+category: quant_concept
+description: Discover the concept of the bimetallic standard a monetary framework
+  utilizing gold and silver as legal tender to enhance stability and broaden money
+  supply.
+title: 'Bimetallic Standard: Definition and Function (Algo Trading)'
 ---
 
 The bimetallic standard, commonly known as bimetallism, represents a monetary system wherein a government designates coins made from both gold and silver as legitimate legal tender. This dual-metallic approach was historically embraced as a method to stabilize national currencies by leveraging the intrinsic value of both metals. This system primarily operated by setting a government-determined fixed ratio between gold and silver, allowing both to function concurrently as a medium of exchange. 

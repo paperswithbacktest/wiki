@@ -1,6 +1,8 @@
 ---
-title: "Put Options Explanation (Algo Trading)"
-description: "Explore the synergy between put options and algorithmic trading to optimize risk management and returns in today's volatile financial markets."
+category: quant_concept
+description: Explore the synergy between put options and algorithmic trading to optimize
+  risk management and returns in today's volatile financial markets.
+title: Put Options Explanation (Algo Trading)
 ---
 
 In today's fast-paced financial markets, investors have a plethora of options to choose from when it comes to investment strategies. As the trading landscape evolves, put options and algorithmic trading have garnered considerable attention due to their potential to enhance risk management and return optimization.

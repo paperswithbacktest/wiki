@@ -1,6 +1,8 @@
 ---
-title: "Oil Investment and Tax Incentives (Algo Trading)"
-description: "Explore strategic oil investment opportunities and tax incentives, highlighting the role of algorithmic trading. Navigate the complexities of this volatile market."
+category: trading_strategy
+description: Explore strategic oil investment opportunities and tax incentives, highlighting
+  the role of algorithmic trading. Navigate the complexities of this volatile market.
+title: Oil Investment and Tax Incentives (Algo Trading)
 ---
 
 The oil industry is a cornerstone of the global economy, serving as a fundamental resource for transportation, energy, and a myriad of industrial applications. It is a complex and dynamic sector that significantly influences international trade and political relationships. Oil's pivotal role is underscored by its status as one of the most traded commodities, with the market's movements closely watched for signs of economic shifts.

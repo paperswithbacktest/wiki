@@ -1,7 +1,8 @@
 ---
-title: Understanding Intersection Over Union in Object Detection
+category: quant_concept
 description: Intersection Over Union measures how predicted and actual object boundaries
   overlap to optimize detection models and improve accuracy Discover more inside
+title: Understanding Intersection Over Union in Object Detection
 ---
 
 ![Image](images/1.png)

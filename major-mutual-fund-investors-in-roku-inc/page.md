@@ -1,6 +1,8 @@
 ---
-title: "Major Mutual Fund Investors in Roku Inc. (Algo Trading)"
-description: "Explore major mutual fund investors in Roku Inc with a focus on the role of algorithmic trading in optimizing investment strategies and enhancing returns."
+category: dataset
+description: Explore major mutual fund investors in Roku Inc with a focus on the role
+  of algorithmic trading in optimizing investment strategies and enhancing returns.
+title: Major Mutual Fund Investors in Roku Inc. (Algo Trading)
 ---
 
 Roku Inc. has emerged as a significant force within the consumer electronics and streaming industry by offering users a simple platform to experience streaming entertainment. Established in 2002, Roku provides a diverse range of streaming devices that allow viewers to access multiple content forms such as Netflix, Hulu, and Disney+ through a single interface. This approach not only enhances the user experience but also catalyzes cutting-edge innovation in the media consumption landscape.

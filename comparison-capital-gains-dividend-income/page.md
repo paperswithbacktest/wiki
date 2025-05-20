@@ -1,6 +1,8 @@
 ---
-title: "Comparison of Capital Gains and Dividend Income (Algo Trading)"
-description: "Explore the key differences between capital gains and dividend income, and learn how algo trading impacts these investment strategies for maximizing returns."
+category: quant_concept
+description: Explore the key differences between capital gains and dividend income,
+  and learn how algo trading impacts these investment strategies for maximizing returns.
+title: Comparison of Capital Gains and Dividend Income (Algo Trading)
 ---
 
 Understanding the landscape of financial income streams is crucial for investors and traders aiming to maximize their returns. Investment returns are influenced by various components, including capital gains, investment income, dividend income, and the role of algorithmic (algo) trading in modern finance. Familiarity with these concepts allows investors to make informed decisions tailored to their financial goals.

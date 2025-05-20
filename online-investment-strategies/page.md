@@ -1,6 +1,8 @@
 ---
-title: "Online Investment Strategies (Algo Trading)"
-description: "Explore the world of digital investing and algorithmic trading and discover how online platforms provide unprecedented access and strategies for modern investors."
+category: trading_strategy
+description: Explore the world of digital investing and algorithmic trading and discover
+  how online platforms provide unprecedented access and strategies for modern investors.
+title: Online Investment Strategies (Algo Trading)
 ---
 
 In today's digital age, the landscape of investing has significantly evolved, incorporating digital investing and online platforms that provide investors with unprecedented access and flexibility. The internet and advanced technologies have democratized investing, enabling individuals to tap into a diverse array of financial products such as stocks, exchange-traded funds (ETFs), cryptocurrencies, and beyond. This broad access is available globally, allowing anyone with an internet connection to participate in financial markets.

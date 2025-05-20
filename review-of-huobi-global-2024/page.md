@@ -1,6 +1,8 @@
 ---
-title: "Review of Huobi Global 2024 (Algo Trading)"
-description: "Discover Huobi Global's 2024 capabilities and review its innovative algorithmic trading features designed for beginners and experienced crypto traders alike."
+category: trading_strategy
+description: Discover Huobi Global's 2024 capabilities and review its innovative algorithmic
+  trading features designed for beginners and experienced crypto traders alike.
+title: Review of Huobi Global 2024 (Algo Trading)
 ---
 
 The world of cryptocurrency trading is constantly evolving, and in 2024, Huobi Global remains a key player in this dynamic landscape. Founded in 2013, Huobi has risen to become one of the largest cryptocurrency exchanges globally, providing a centralized platform that facilitates the exchange of digital assets. Over the years, Huobi has built an extensive user base by offering a range of features and tools that cater to various levels of trading expertise.

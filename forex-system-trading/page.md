@@ -1,6 +1,8 @@
 ---
-title: "Forex System Trading (Algo Trading)"
-description: "Explore the competitive edge of forex trading with algorithmic systems Discover enhanced efficiency and emotion-free strategies in today's dynamic market"
+category: trading_strategy
+description: Explore the competitive edge of forex trading with algorithmic systems
+  Discover enhanced efficiency and emotion-free strategies in today's dynamic market
+title: Forex System Trading (Algo Trading)
 ---
 
 Forex trading, or foreign exchange trading, involves the buying and selling of currency pairs, a process that has seen significant transformation with the advent of technology-driven solutions like automated trading systems. Leveraging these technologies, traders can now operate in an environment that offers both enhanced opportunities and specific challenges. This article addresses currency market system trading, with a keen focus on forex trading and algorithmic trading (algo trading) strategies.

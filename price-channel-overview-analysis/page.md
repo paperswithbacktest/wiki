@@ -1,6 +1,9 @@
 ---
-title: "Price Channel: Overview and Analysis (Algo Trading)"
-description: "Explore the significance of price channels in technical analysis and their integration in algorithmic trading to optimize trade decisions and predict market trends."
+category: quant_concept
+description: Explore the significance of price channels in technical analysis and
+  their integration in algorithmic trading to optimize trade decisions and predict
+  market trends.
+title: 'Price Channel: Overview and Analysis (Algo Trading)'
 ---
 
 Technical analysis plays a crucial role in modern financial markets, offering investors and traders vital insights into price movements. This analytical method relies on historical price data and volume to predict future market behavior, allowing participants to make informed decisions. Among the various tools in technical analysis are price channels, which provide essential clues about market trends. Price channels are formed when a security's price moves between two parallel lines, indicating potential support and resistance levels. These formations help traders identify possible breakout points and make strategic decisions regarding entry and exit in trades.

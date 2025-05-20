@@ -1,6 +1,8 @@
 ---
-title: "Impact of Corporate Events on Stock and Bond Values (Algo Trading)"
-description: "Explore how corporate events impact stock and bond values, and how algorithmic trading exploits these effects to optimize investment strategies."
+category: trading_strategy
+description: Explore how corporate events impact stock and bond values, and how algorithmic
+  trading exploits these effects to optimize investment strategies.
+title: Impact of Corporate Events on Stock and Bond Values (Algo Trading)
 ---
 
 In today's rapidly evolving financial markets, the importance of understanding the complex interaction between corporate events, stock values, bond values, and algorithmic trading cannot be overstated. These elements collectively shape the landscape of strategic investment, defining both opportunities and challenges for investors. Corporate events, such as earnings announcements, mergers, and bankruptcies, hold significant sway over financial markets, often resulting in substantial shifts in asset valuations.

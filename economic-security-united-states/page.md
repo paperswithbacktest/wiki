@@ -1,6 +1,9 @@
 ---
-title: "Economic Security in the United States (Algo Trading)"
-description: "Explore the evolution of economic security and algorithmic trading in the U.S. Discover how historical milestones impact financial practices and economic stability."
+category: quant_concept
+description: Explore the evolution of economic security and algorithmic trading in
+  the U.S. Discover how historical milestones impact financial practices and economic
+  stability.
+title: Economic Security in the United States (Algo Trading)
 ---
 
 In this article, we explore the interconnected themes of economic security, U.S. history, and algorithmic trading. These elements have evolved considerably and continue to influence the dynamics of modern economic and financial practices. Economic security in the United States has been shaped by various historical milestones, public policies, and economic strategies aimed at ensuring individuals and families can meet their financial needs. From the introduction of pivotal policies such as social security to contemporary concerns about income inequality and unemployment, economic security has remained a fundamental aspect of national discourse.

@@ -1,6 +1,8 @@
 ---
-title: "Gold-Silver Ratio: Overview and Examples (Algo Trading)"
-description: "Explore the gold-silver ratio's impact on algorithmic trading to enhance investment strategies while understanding market trends for effective decision making."
+category: trading_strategy
+description: Explore the gold-silver ratio's impact on algorithmic trading to enhance
+  investment strategies while understanding market trends for effective decision making.
+title: 'Gold-Silver Ratio: Overview and Examples (Algo Trading)'
 ---
 
 The dynamics of the precious metals market, specifically the shifting values of gold and silver, hold significant importance for investors and traders alike. Central to this market is the gold-silver ratio, a critical indicator that informs trading decisions and strategy formulation. This ratio, representing the number of silver ounces needed to purchase one ounce of gold, serves as a barometer for market sentiment and economic conditions.

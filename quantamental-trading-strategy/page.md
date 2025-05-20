@@ -1,6 +1,12 @@
 ---
-title: "Quantamental Trading Strategy Explained (Algo Trading)"
-description: Discover the transformative quantamental trading strategy that fuses quantitative and fundamental analyses to enhance algorithmic trading decisions. Learn how this sophisticated approach combines statistical models with traditional financial insights for a competitive edge in complex markets. Explore techniques like machine learning and alternative data integration that enrich analysis for accurate market predictions and strategic advantage.
+category: trading_strategy
+description: Discover the transformative quantamental trading strategy that fuses
+  quantitative and fundamental analyses to enhance algorithmic trading decisions.
+  Learn how this sophisticated approach combines statistical models with traditional
+  financial insights for a competitive edge in complex markets. Explore techniques
+  like machine learning and alternative data integration that enrich analysis for
+  accurate market predictions and strategic advantage.
+title: Quantamental Trading Strategy Explained (Algo Trading)
 ---
 
 The landscape of trading strategies is undergoing a significant transformation with the integration of quantitative analysis and fundamental analysis, culminating in the innovative approach known as quantamental trading. This hybrid strategy harnesses the strengths of quantitative models—such as statistical algorithms and machine learning—to process and analyze vast datasets with precision. Simultaneously, it leverages fundamental analysis, which assesses a company's intrinsic value through financial statements and macroeconomic indicators, to inform investment decisions.

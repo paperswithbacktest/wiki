@@ -1,6 +1,9 @@
 ---
-title: "Current Price (Algo Trading)"
-description: "Discover the importance of current prices in algo trading a pivotal aspect of effective strategies Explore how pricing and algorithms shape modern trading dynamics"
+category: quant_concept
+description: Discover the importance of current prices in algo trading a pivotal aspect
+  of effective strategies Explore how pricing and algorithms shape modern trading
+  dynamics
+title: Current Price (Algo Trading)
 ---
 
 In today's fast-paced financial world, understanding the nuances of pricing in trading is crucial. The trading market encompasses a wide array of pricing terms and types, reflecting the varying worth of securities at any given moment. Prices are not only referred to as market value or cash price but also include various functions and types, such as spot prices, bid and ask prices, and trade prices. These distinctions are integral to formulating and executing effective trading strategies.

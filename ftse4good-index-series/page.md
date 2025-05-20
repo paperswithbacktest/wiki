@@ -1,6 +1,8 @@
 ---
-title: "FTSE4Good Index Series (Algo Trading)"
-description: "Explore how the FTSE4Good Index merges ESG investing with algorithmic trading offering insights into sustainable practices and rapid market adaptation."
+category: dataset
+description: Explore how the FTSE4Good Index merges ESG investing with algorithmic
+  trading offering insights into sustainable practices and rapid market adaptation.
+title: FTSE4Good Index Series (Algo Trading)
 ---
 
 The FTSE4Good Sustainable Index serves as a cornerstone in the field of Environmental, Social, and Governance (ESG) investing, providing a quantifiable measure of a company's commitment to sustainable and ethical business practices. Emerging from the need for responsible investment tools, the index is designed by FTSE Russell to gauge the performance of companies that meet globally recognized ESG standards. As investors increasingly prioritize not only financial returns but also social responsibility and environmental stewardship, indices like FTSE4Good have garnered significant traction.

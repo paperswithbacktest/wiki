@@ -1,6 +1,9 @@
 ---
-title: "Trailing Indicators and Related Concepts (Algo Trading)"
-description: "Master algo trading with insights on vital performance metrics like ROI and Sharpe ratio to optimize strategies and maintain a competitive edge in dynamic markets."
+category: trading_strategy
+description: Master algo trading with insights on vital performance metrics like ROI
+  and Sharpe ratio to optimize strategies and maintain a competitive edge in dynamic
+  markets.
+title: Trailing Indicators and Related Concepts (Algo Trading)
 ---
 
 In the world of algo trading, mastering the evaluation of performance metrics is crucial for success. Performance metrics provide quantitative measures that help traders assess the effectiveness and efficiency of their trading algorithms. These metrics enable traders to evaluate how well their algorithms are performing, identifying areas that require enhancement and adjustments. Essential performance metrics such as return on investment (ROI), Sharpe ratio, and maximum drawdown offer deep insights into both profitability and risk management capabilities of trading strategies.

@@ -1,6 +1,12 @@
 ---
-title: "Herbert A. Simon: Bounded Rationality and Artificial Intelligence Theorist (Algo Trading)"
-description: "Explore the enduring impact of Herbert A. Simon a key figure in economics and artificial intelligence whose work on bounded rationality has reshaped algorithmic trading. Discover how his insights into human decision-making processes challenge traditional economic models and enhance AI-driven financial strategies. Delve into Simon's legacy and its relevance in modern trading environments."
+category: quant_concept
+description: Explore the enduring impact of Herbert A. Simon a key figure in economics
+  and artificial intelligence whose work on bounded rationality has reshaped algorithmic
+  trading. Discover how his insights into human decision-making processes challenge
+  traditional economic models and enhance AI-driven financial strategies. Delve into
+  Simon's legacy and its relevance in modern trading environments.
+title: 'Herbert A. Simon: Bounded Rationality and Artificial Intelligence Theorist
+  (Algo Trading)'
 ---
 
 The convergence of economics, artificial intelligence (AI), and trading has led to substantial innovations in the operation of financial markets. At the heart of these advancements is Herbert A. Simon, a renowned scholar who profoundly influenced these fields with his theory of bounded rationality and his pioneering contributions to AI. Simon's work has fundamentally reshaped algorithmic trading and financial decision-making.

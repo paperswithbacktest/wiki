@@ -1,6 +1,9 @@
 ---
-title: "Market Versus Quote (Algo Trading)"
-description: "Explore the critical concepts of Market Versus Quote and algorithmic trading to understand their role in enhancing market efficiency and informed investment strategies."
+category: quant_concept
+description: Explore the critical concepts of Market Versus Quote and algorithmic
+  trading to understand their role in enhancing market efficiency and informed investment
+  strategies.
+title: Market Versus Quote (Algo Trading)
 ---
 
 In today's fast-paced financial markets, staying informed about core concepts like Market Versus Quote (MVQ) and algorithmic trading is crucial for investors, regardless of their experience level. MVQ serves as a metric that compares a security's last traded price to its most recent bid and ask prices, providing insights into market liquidity and efficiency. Understanding MVQ alongside financial quotes offers a window into market sentiment and performance, highlighting differences between market and quoted prices that may influence trading decisions.

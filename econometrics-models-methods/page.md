@@ -1,6 +1,9 @@
 ---
-title: "Econometrics: Models and Methods (Algo Trading)"
-description: "Explore the synergy of econometric models and algorithmic trading uncovering methods to enhance decision-making through data analysis risk assessment and trend forecasting"
+category: quant_concept
+description: Explore the synergy of econometric models and algorithmic trading uncovering
+  methods to enhance decision-making through data analysis risk assessment and trend
+  forecasting
+title: 'Econometrics: Models and Methods (Algo Trading)'
 ---
 
 Econometric models are mathematical representations used to describe the relationships between economic variables. These models are essential tools in the field of econometrics, where they facilitate the understanding and quantification of economic phenomena. They employ statistical techniques to test hypotheses and forecast future trends, making them invaluable in both economic research and practical applications such as algorithmic trading.

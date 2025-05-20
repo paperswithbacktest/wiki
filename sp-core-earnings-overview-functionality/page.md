@@ -1,6 +1,8 @@
 ---
-title: "S&P Core Earnings: Overview and Functionality (Algo Trading)"
-description: "Explore the significance of S&P Core Earnings, highlighting its impact on profitability analysis and synergy with algorithmic trading for optimal strategies."
+category: quant_concept
+description: Explore the significance of S&P Core Earnings, highlighting its impact
+  on profitability analysis and synergy with algorithmic trading for optimal strategies.
+title: 'S&P Core Earnings: Overview and Functionality (Algo Trading)'
 ---
 
 The landscape of corporate earnings analysis has experienced a profound transformation over the years, driven by an increasing demand for more accurate and comprehensive evaluations of a company's profitability. Traditional methods of earnings analysis have often relied heavily on net income figures, which can be distorted by one-time items and non-operational factors. In response to these limitations, S&P Core Earnings have emerged as a pivotal tool, enabling analysts to assess a company's profitability by concentrating on its core operations. Unlike conventional net income, S&P Core Earnings exclude non-recurring items and extraordinary charges, providing a more transparent view of a company's financial health by focusing on its ongoing operational capabilities.

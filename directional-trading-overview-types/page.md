@@ -1,6 +1,8 @@
 ---
-title: "Directional Trading: Overview and Types (Algo Trading)"
-description: "Explore directional trading and algo trading integration to boost earnings by predicting market trends with algorithmic precision for optimized trading strategies."
+category: trading_strategy
+description: Explore directional trading and algo trading integration to boost earnings
+  by predicting market trends with algorithmic precision for optimized trading strategies.
+title: 'Directional Trading: Overview and Types (Algo Trading)'
 ---
 
 Understanding directional trading investment analysis and trading strategies is crucial for traders aiming to optimize their earnings. Directional trading involves predicting market price movements and making decisions based on these predictions. Optimization requires a keen understanding of market trend analysis and the strategic integration of algorithmic trading, commonly known as algo trading.

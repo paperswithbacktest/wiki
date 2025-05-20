@@ -1,6 +1,14 @@
 ---
-title: "Data mining and data snooping (Algo Trading)"
-description: Explore the critical roles of data mining and data snooping in algorithmic trading, where advanced algorithms execute trades with speed and efficiency. Data mining extracts valuable patterns from large datasets, aiding in the creation of effective trading strategies that are tested and refined using historical data. Meanwhile, data snooping involves the misuse of such datasets, often leading to unreliable and overfitted strategies that underperform in live markets. Understanding these concepts is crucial for developing robust trading algorithms that maintain integrity and stability in financial markets.
+category: quant_concept
+description: Explore the critical roles of data mining and data snooping in algorithmic
+  trading, where advanced algorithms execute trades with speed and efficiency. Data
+  mining extracts valuable patterns from large datasets, aiding in the creation of
+  effective trading strategies that are tested and refined using historical data.
+  Meanwhile, data snooping involves the misuse of such datasets, often leading to
+  unreliable and overfitted strategies that underperform in live markets. Understanding
+  these concepts is crucial for developing robust trading algorithms that maintain
+  integrity and stability in financial markets.
+title: Data mining and data snooping (Algo Trading)
 ---
 
 Algorithmic trading refers to the use of computer algorithms to execute trading orders, often at speeds and frequencies beyond human capabilities. These algorithms leverage complex formulas, mathematical models, and human oversight to make decisions about buying or selling financial assets in the markets. The adoption of algorithmic trading has significantly impacted financial markets by increasing efficiency, liquidity, and the speed of transactions while reducing trading costs and human error.

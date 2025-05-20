@@ -1,6 +1,9 @@
 ---
-title: "Credit Watch: Overview, Benefits, and Drawbacks (Algo Trading)"
-description: "Discover the key aspects of credit ratings, financial assessments, and algorithmic trading Understand their impact on investment strategies and financial risk management"
+category: quant_concept
+description: Discover the key aspects of credit ratings, financial assessments, and
+  algorithmic trading Understand their impact on investment strategies and financial
+  risk management
+title: 'Credit Watch: Overview, Benefits, and Drawbacks (Algo Trading)'
 ---
 
 The financial landscape is in a state of constant flux, shaped by a myriad of factors that influence market dynamics daily. This article seeks to shed light on critical components of this landscape, namely credit ratings, financial assessments, credit watches, and algorithmic trading. These elements are interdependent and play a significant role in guiding investors and stakeholders as they navigate the complexities of the financial world.

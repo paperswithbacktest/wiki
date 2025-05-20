@@ -1,6 +1,9 @@
 ---
-title: "Index Investing: Overview and Examples (Algo Trading)"
-description: "Explore the benefits of combining index investing and algorithmic trading for a balanced strategy that enhances diversification with automated precision in financial markets."
+category: trading_strategy
+description: Explore the benefits of combining index investing and algorithmic trading
+  for a balanced strategy that enhances diversification with automated precision in
+  financial markets.
+title: 'Index Investing: Overview and Examples (Algo Trading)'
 ---
 
 The financial markets offer a plethora of opportunities for investors to grow their wealth. Among the myriad strategies available, index investing and algorithmic trading (algo trading) have emerged as prominent methods for structuring a robust investment strategy. Index investing focuses on replicating the performance of a market index, which provides investors with broad market exposure and the benefits of diversification through a passive investment approach. Popular indexes such as the S&P 500, NASDAQ 100, and Russell 2000 represent various market segments and are designed to minimize unsystematic risk.

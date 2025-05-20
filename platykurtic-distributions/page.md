@@ -1,6 +1,8 @@
 ---
-title: "Platykurtic Distributions (Algo Trading)"
-description: "Explore platykurtic distributions in algo trading to recognize markets with lower volatility, aiding in risk management and development of stable strategies."
+category: quant_concept
+description: Explore platykurtic distributions in algo trading to recognize markets
+  with lower volatility, aiding in risk management and development of stable strategies.
+title: Platykurtic Distributions (Algo Trading)
 ---
 
 Understanding statistical distributions is essential for gaining a strategic advantage in both statistical analysis and trading. Distributions describe how the values of a dataset are spread and can significantly influence investment decisions. Among the various types of distributions, the platykurtic distribution is notable for its distinct features, having thinner tails and a flatter peak compared to a normal distribution.

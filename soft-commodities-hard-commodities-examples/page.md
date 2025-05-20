@@ -1,6 +1,8 @@
 ---
-title: "Soft Commodities and Hard Commodities: Definitions and Examples (Algo Trading)"
-description: "Learn about soft and hard commodities, their differences, examples like coffee and gold, and how algorithmic trading reshapes commodity markets."
+category: quant_concept
+description: Learn about soft and hard commodities, their differences, examples like
+  coffee and gold, and how algorithmic trading reshapes commodity markets.
+title: 'Soft Commodities and Hard Commodities: Definitions and Examples (Algo Trading)'
 ---
 
 Commodities play a fundamental role in the global economy, serving as essential building blocks for various industries. They are the raw materials that fuel production and economic activity, directly impacting the supply chain and consumer pricing. There are two primary types of commodities: soft commodities and hard commodities. 

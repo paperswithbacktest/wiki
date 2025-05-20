@@ -1,6 +1,9 @@
 ---
-title: "Total Bond Fund Overview (Algo Trading)"
-description: "Explore the transformative impact of total bond funds and algorithmic trading on modern bond markets Discover how tech-driven strategies redefine bond investing"
+category: quant_concept
+description: Explore the transformative impact of total bond funds and algorithmic
+  trading on modern bond markets Discover how tech-driven strategies redefine bond
+  investing
+title: Total Bond Fund Overview (Algo Trading)
 ---
 
 Bond investing and trading have undergone profound changes due to the advent of investment funds, total bond funds, and cutting-edge technologies like algorithmic trading. Investment funds, including mutual funds and Exchange Traded Funds (ETFs), have democratized access to diversified bond portfolios, thus broadening the scope for individual and institutional investors alike. Among these, total bond funds have emerged as pivotal instruments. They aim to replicate comprehensive bond indices, thereby offering a diversified exposure to both public and private sector bonds. This approach has alleviated barriers to entry and enhanced market participation, reflecting significant advancements in the accessibility and liquidity of bond markets.

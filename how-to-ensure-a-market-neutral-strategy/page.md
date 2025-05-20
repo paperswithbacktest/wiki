@@ -1,9 +1,11 @@
 ---
-title: "How to ensure a market-neutral strategy?"
-description: "Discover how to implement and maintain a market-neutral strategy in the investment world. This article explains the concept, selecting asset peers, balancing exposure, tracking performance, managing risks, and provides resources for further learning. Minimize risk and optimize returns with this effective investment approach."
+category: trading_strategy
+description: Discover how to implement and maintain a market-neutral strategy in the
+  investment world. This article explains the concept, selecting asset peers, balancing
+  exposure, tracking performance, managing risks, and provides resources for further
+  learning. Minimize risk and optimize returns with this effective investment approach.
+title: How to ensure a market-neutral strategy?
 ---
-
-
 
 Market-neutral strategies have gained significant traction among investors seeking to cushion their portfolios from unpredictable market swings. These strategies are designed to generate returns that are independent of overall market movements, thus allowing investors to operate with reduced exposure to systematic risk. In essence, a market-neutral strategy aims to achieve a balance between long and short positions to neutralize the impact of market volatility on portfolio performance.
 

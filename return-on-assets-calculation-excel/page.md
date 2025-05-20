@@ -1,6 +1,8 @@
 ---
-title: "Return on Assets Calculation in Excel (Algo Trading)"
-description: "Learn how to calculate Return on Assets (ROA) efficiently using Excel to optimize asset performance and enhance algorithmic trading strategies."
+category: quant_concept
+description: Learn how to calculate Return on Assets (ROA) efficiently using Excel
+  to optimize asset performance and enhance algorithmic trading strategies.
+title: Return on Assets Calculation in Excel (Algo Trading)
 ---
 
 In the fast-paced landscape of financial analysis and algorithmic trading, key financial metrics are essential for evaluating asset performance and shaping effective strategies. Among these metrics, Return on Assets (ROA) plays a pivotal role in assessing a company's efficiency in generating profit from its total assets—a significant factor for fundamental analysis and informed investment decisions. ROA provides insight into how well a company leverages its assets to produce earnings, making it a critical indicator of financial health and operational efficiency.

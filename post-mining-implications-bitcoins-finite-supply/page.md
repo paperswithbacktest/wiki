@@ -1,6 +1,8 @@
 ---
-title: "Post-Mining Implications for Bitcoin's Finite Supply (Algo Trading)"
-description: "Explore the impact of Bitcoin's capped supply on demand and market dynamics while assessing algorithmic trading strategies that exploit Bitcoin's scarcity."
+category: quant_concept
+description: Explore the impact of Bitcoin's capped supply on demand and market dynamics
+  while assessing algorithmic trading strategies that exploit Bitcoin's scarcity.
+title: Post-Mining Implications for Bitcoin's Finite Supply (Algo Trading)
 ---
 
 Bitcoin, launched in 2009 by the anonymous entity Satoshi Nakamoto, has become the flagship cryptocurrency in the digital currency market. Its decentralized framework and innovative technology have positioned it as a pioneer in the transformation of financial systems worldwide. One of the most distinctive features of Bitcoin is its fixed supply cap of 21 million coins. This limit was meticulously engineered by Nakamoto to emulate the scarcity of valuable resources, such as gold, rendering Bitcoin as a stable and deflationary store of value over time.

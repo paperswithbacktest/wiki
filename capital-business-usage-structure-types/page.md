@@ -1,6 +1,8 @@
 ---
-title: "Capital in Business: Usage, Structure, and Types (Algo Trading)"
-description: "Explore the crucial role of various business capital types in financial markets and algorithmic trading to enhance strategic planning and economic growth."
+category: quant_concept
+description: Explore the crucial role of various business capital types in financial
+  markets and algorithmic trading to enhance strategic planning and economic growth.
+title: 'Capital in Business: Usage, Structure, and Types (Algo Trading)'
 ---
 
 In today's rapidly evolving landscape of business and finance, a firm grasp of capital types is crucial for both sustainable growth and strategic planning. Recognizing and effectively managing different forms of business capital is key to navigating complex economic activities. This article examines various categories of business capital and highlights their vital role in financial markets, particularly through the lens of algorithmic trading. 

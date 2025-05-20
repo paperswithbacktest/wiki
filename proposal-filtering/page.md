@@ -1,7 +1,8 @@
 ---
-title: Proposal Filtering Techniques for Efficient Object Detection
+category: quant_concept
 description: Proposal Filtering streamlines object detection by scoring and discarding
   low-value proposals to enhance performance in real time Discover more inside.
+title: Proposal Filtering Techniques for Efficient Object Detection
 ---
 
 ![Image](images/1.png)

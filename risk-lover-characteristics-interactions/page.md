@@ -1,6 +1,8 @@
 ---
-title: "Risk Lover: Characteristics and Interactions (Algo Trading)"
-description: "Explore the characteristics of risk lovers in financial markets and their impact on algorithmic trading Learn how risk preferences can shape trading strategies"
+category: quant_concept
+description: Explore the characteristics of risk lovers in financial markets and their
+  impact on algorithmic trading Learn how risk preferences can shape trading strategies
+title: 'Risk Lover: Characteristics and Interactions (Algo Trading)'
 ---
 
 Understanding risk preferences is a pivotal aspect of finance that influences decision-making for individual investors and market strategists alike. Risk preference is fundamentally about the trade-off between the potential for higher returns and the comfort of safety. This article focuses on the subset of investors known as risk lovers—individuals or entities with a predilection for risk-taking due to the potential for substantial returns. Their distinctive behavior, as framed by behavioral finance, is marked by a willingness to engage with volatile markets and seek opportunities that present higher levels of uncertainty.

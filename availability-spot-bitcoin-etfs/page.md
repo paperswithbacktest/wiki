@@ -1,9 +1,9 @@
 ---
-title: Understanding Spot Bitcoin ETF Investments and Benefits
+category: quant_concept
 description: Spot Bitcoin ETF gives direct Bitcoin price exposure via brokerages avoiding
   wallet complexities and simplifying crypto investing Discover more inside
+title: Understanding Spot Bitcoin ETF Investments and Benefits
 ---
-
 
 ![Image](images/1.png)
 

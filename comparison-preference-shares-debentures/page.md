@@ -1,6 +1,8 @@
 ---
-title: "Comparison of Preference Shares and Debentures (Algo Trading)"
-description: "Discover the differences between preference shares and debentures in algo trading. Learn how each can optimize investment strategies for better returns."
+category: quant_concept
+description: Discover the differences between preference shares and debentures in
+  algo trading. Learn how each can optimize investment strategies for better returns.
+title: Comparison of Preference Shares and Debentures (Algo Trading)
 ---
 
 In the rapidly evolving world of finance, understanding various financial instruments becomes crucial for investors aiming to optimize their portfolios. These instruments provide diverse avenues for income generation, risk management, and capital appreciation, allowing investors to tailor their strategies according to individual financial goals and market conditions. Preference shares, debentures, and algorithmic trading each play unique roles in the financial markets, offering distinct characteristics that appeal to different investor profiles.

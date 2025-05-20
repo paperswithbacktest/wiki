@@ -1,7 +1,8 @@
 ---
-title: Unawareness to Sensitive Attributes in Machine Learning
+category: quant_concept
 description: Unawareness in machine learning ensures models ignore sensitive attributes
   like race and gender to reduce bias and enhance fairness Discover more inside
+title: Unawareness to Sensitive Attributes in Machine Learning
 ---
 
 ![Image](images/1.png)

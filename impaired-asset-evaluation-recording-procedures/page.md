@@ -1,6 +1,9 @@
 ---
-title: "Impaired Asset: Evaluation and Recording Procedures (Algo Trading)"
-description: "Explore the intersection of asset impairment and algorithmic trading to enhance financial reporting accuracy and timely risk management through advanced analytics."
+category: quant_concept
+description: Explore the intersection of asset impairment and algorithmic trading
+  to enhance financial reporting accuracy and timely risk management through advanced
+  analytics.
+title: 'Impaired Asset: Evaluation and Recording Procedures (Algo Trading)'
 ---
 
 Asset impairment is a crucial aspect of financial reporting, providing a method to ensure that a company's assets are not overstated on financial statements. It typically occurs when the carrying amount of an asset exceeds its recoverable amount, indicating that the future economic benefits associated with the asset are expected to be lower than anticipated. This decrease in asset value can arise from various factors, such as market declines, technological obsolescence, or legal changes. Asset impairment plays a significant role in reflecting the true economic value of a company's assets, impacting both the balance sheet and the income statement.

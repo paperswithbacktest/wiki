@@ -1,6 +1,8 @@
 ---
-title: "Supplemental Liquidity Provider: Overview and Mechanism (Algo Trading)"
-description: "Discover how Supplemental Liquidity Providers enhance stock market efficiency through algorithmic trading boosting liquidity and fostering stable trading environments."
+category: quant_concept
+description: Discover how Supplemental Liquidity Providers enhance stock market efficiency
+  through algorithmic trading boosting liquidity and fostering stable trading environments.
+title: 'Supplemental Liquidity Provider: Overview and Mechanism (Algo Trading)'
 ---
 
 The stock market operates as a dynamic arena where securities are actively traded between buyers and sellers. This complex system relies heavily on liquidity, which functions as the essential element allowing for fluid and efficient operations. Liquidity ensures that there are sufficient volumes of both buying and selling orders at any given time, thereby aiding in stabilizing prices and reducing transaction costs for market participants.

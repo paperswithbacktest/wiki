@@ -1,6 +1,9 @@
 ---
-title: "Index Arbitrage: Definition and Examples (Algo Trading)"
-description: "Discover the intricacies of index arbitrage in algo trading gain insights into how traders exploit market inefficiencies using algorithmic tools for optimal profits."
+category: trading_strategy
+description: Discover the intricacies of index arbitrage in algo trading gain insights
+  into how traders exploit market inefficiencies using algorithmic tools for optimal
+  profits.
+title: 'Index Arbitrage: Definition and Examples (Algo Trading)'
 ---
 
 In the world of finance, market dynamics are constantly evolving, presenting both challenges and significant opportunities for traders. The complexity and fast pace of financial markets mean that those who can navigate and understand intricate trading strategies have a distinct advantage. Among these strategies, financial markets index arbitrage trading stands out for its potential to capitalize on market inefficiencies.

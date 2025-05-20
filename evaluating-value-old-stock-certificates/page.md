@@ -1,6 +1,8 @@
 ---
-title: "Evaluating the Value of Old Stock Certificates (Algo Trading)"
-description: "Discover the financial worth of old stock certificates and the impact of algorithmic trading on investment strategies to enhance your market acumen."
+category: quant_concept
+description: Discover the financial worth of old stock certificates and the impact
+  of algorithmic trading on investment strategies to enhance your market acumen.
+title: Evaluating the Value of Old Stock Certificates (Algo Trading)
 ---
 
 In the fast-paced world of finance, understanding the nuances of investment evaluation is crucial. As investors seek to navigate complex market landscapes, two key components have risen to prominence: the financial worth of stock certificates and the influence of algorithmic trading on investment strategies. Stock certificates, which represent ownership in a company, are more than mere pieces of paper or digital records; they signify tangible financial value and equity in corporate entities. Evaluating this worth requires a firm grasp of both historical context and the latest financial instruments used in today's markets.

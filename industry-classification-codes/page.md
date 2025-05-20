@@ -1,6 +1,9 @@
 ---
-title: "Industry Classification Codes (Algo Trading)"
-description: "Explore the role of industry classification codes like SIC and NAICS in algorithmic trading. Discover how these codes enhance precision in market analysis and trading strategies."
+category: dataset
+description: Explore the role of industry classification codes like SIC and NAICS
+  in algorithmic trading. Discover how these codes enhance precision in market analysis
+  and trading strategies.
+title: Industry Classification Codes (Algo Trading)
 ---
 
 The rise of industrialization significantly changed the global economic landscape, leading to the development of structured approaches to analyze and manage burgeoning industries. As various sectors expanded, it became essential to have a system that categorized businesses and industries consistently for both efficient policy-making and economic analysis. Industry classification codes, such as the Standard Industrial Classification (SIC) and the North American Industry Classification System (NAICS), were developed to address this need. These codes provide a standardized framework to categorize industries based on their primary economic activities, facilitating easier data collection, analysis, and reporting.

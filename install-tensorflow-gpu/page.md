@@ -1,6 +1,12 @@
 ---
-title: "Installing TensorFlow with GPU (Algo Trading)"
-description: Learn to install TensorFlow with GPU capabilities specifically for algorithmic trading applications. This guide explores the importance of deep learning in trading strategies and provides step-by-step instructions for setting up TensorFlow GPU to optimize model training and enhance real-time processing in trading systems. Discover how harnessing GPU power can significantly reduce training times and improve algorithmic trading efficiencies.
+category: quant_concept
+description: Learn to install TensorFlow with GPU capabilities specifically for algorithmic
+  trading applications. This guide explores the importance of deep learning in trading
+  strategies and provides step-by-step instructions for setting up TensorFlow GPU
+  to optimize model training and enhance real-time processing in trading systems.
+  Discover how harnessing GPU power can significantly reduce training times and improve
+  algorithmic trading efficiencies.
+title: Installing TensorFlow with GPU (Algo Trading)
 ---
 
 Algorithmic trading is a sophisticated method of executing trades using a set of predefined rules and algorithms. These algorithms analyze multiple market variables, such as price, volume, and time, providing a systematic approach to executing orders at the most advantageous times. The evolution of technology has significantly transformed the landscape of algorithmic trading, particularly with the integration of machine learning techniques. 

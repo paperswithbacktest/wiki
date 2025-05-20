@@ -1,6 +1,12 @@
 ---
-title: "Labor Theory of Value (Algo Trading)"
-description: "Discover the intersection of classical economics and modern finance as we explore how the labor theory of value influences algorithmic trading. Delve into the historical roots of economic thought with insights from Adam Smith and Karl Marx and understand how these theories integrate with cutting-edge trading technology. Gain valuable insights into contemporary market dynamics through the lens of economic history and the impact of algorithmic trading on financial markets today."
+category: quant_concept
+description: Discover the intersection of classical economics and modern finance as
+  we explore how the labor theory of value influences algorithmic trading. Delve into
+  the historical roots of economic thought with insights from Adam Smith and Karl
+  Marx and understand how these theories integrate with cutting-edge trading technology.
+  Gain valuable insights into contemporary market dynamics through the lens of economic
+  history and the impact of algorithmic trading on financial markets today.
+title: Labor Theory of Value (Algo Trading)
 ---
 
 Economic theory and algorithmic trading represent two pivotal areas of study and practice in understanding and navigating modern financial systems. One of the key classical economic theories is the labor theory of value (LTV), which asserts that the value of a commodity is primarily determined by the labor involved in its production. This theory, championed by economists like Adam Smith, David Ricardo, and Karl Marx, provides a foundational perspective on how value might be derived in economic activities. 

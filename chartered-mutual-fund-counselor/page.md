@@ -1,6 +1,8 @@
 ---
-title: "Chartered Mutual Fund Counselor (Algo Trading)"
-description: "Discover the enduring value of the Chartered Mutual Fund Counselor certification and its impact on mutual fund advisory through algorithmic trading strategies."
+category: quant_concept
+description: Discover the enduring value of the Chartered Mutual Fund Counselor certification
+  and its impact on mutual fund advisory through algorithmic trading strategies.
+title: Chartered Mutual Fund Counselor (Algo Trading)
 ---
 
 Navigating today’s financial landscape involves understanding a vast array of investment options, ranging from stocks and bonds to more complex derivatives and mutual funds. Alongside this diverse investment landscape exists an equally varied selection of professional certifications tailored to enhance the expertise of financial advisors and counselors. The Chartered Mutual Fund Counselor (CMFC) certification, although no longer offered, remains a significant credential that equips professionals with specialized knowledge in mutual fund strategies. Grasping how these certifications influence the advisory services offered to investors is crucial for effective financial management.

@@ -1,6 +1,8 @@
 ---
-title: "Comparison of Book Value and Carrying Value (Algo Trading)"
-description: "Discover the key differences between book value and carrying value essential for algorithmic trading and financial analysis to enhance investment strategies."
+category: quant_concept
+description: Discover the key differences between book value and carrying value essential
+  for algorithmic trading and financial analysis to enhance investment strategies.
+title: Comparison of Book Value and Carrying Value (Algo Trading)
 ---
 
 In the complex world of finance and investment, understanding key accounting terms like carrying value and book value is crucial. These terms frequently surface in discussions about asset valuation, financial statements, and investments. Carrying value represents the net value of an asset or liability as recorded on a company's balance sheet, after accounting for depreciation, amortization, or impairment. Book value, on the other hand, traditionally refers to the historical cost of an asset minus accumulated depreciation or amortization. Both of these measures are essential for investors and analysts when evaluating a company's financial health and making informed decisions regarding its asset management strategies.

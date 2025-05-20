@@ -1,6 +1,9 @@
 ---
-title: "Deep learning in finance (Algo Trading)"
-description: "Explore the transformative power of deep learning in algorithmic trading Increasing accuracy and efficiency in finance this cutting-edge tech revolutionizes markets"
+category: quant_concept
+description: Explore the transformative power of deep learning in algorithmic trading
+  Increasing accuracy and efficiency in finance this cutting-edge tech revolutionizes
+  markets
+title: Deep learning in finance (Algo Trading)
 ---
 
 The integration of advanced technologies is a critical driver of change in the ever-evolving finance sector. Among these technologies, deep learning stands out as a transformative force across various industries, including finance. As a subset of artificial intelligence, deep learning leverages neural networks with multiple layers to analyze complex data patterns, enabling systems to learn and make informed decisions with minimal human intervention. Within the financial sector, one of the most significant applications of deep learning is in algorithmic trading, often referred to as algo trading.

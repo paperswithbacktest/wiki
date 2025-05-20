@@ -1,6 +1,10 @@
 ---
-title: "Stock Picking (Algo Trading)"
-description: Delve into the world of Stock Picking, an essential technique in quantitative trading for maximizing returns through meticulous analysis of stock fundamentals and prices. Learn about the stages of stock picking, its differences with passive management, and resources to help you become a successful quant trader.
+category: trading_strategy
+description: Delve into the world of Stock Picking, an essential technique in quantitative
+  trading for maximizing returns through meticulous analysis of stock fundamentals
+  and prices. Learn about the stages of stock picking, its differences with passive
+  management, and resources to help you become a successful quant trader.
+title: Stock Picking (Algo Trading)
 ---
 
 Stock picking is the process of selecting specific stocks to include in an investment portfolio, based on various criteria such as financial analysis, market trends, and economic factors. This practice is essential in the world of investment as it seeks to maximize returns by identifying undervalued stocks or those poised for significant price increases. In algorithmic trading, stock picking holds a pivotal role as these systems leverage technological advances to automate and optimize trading strategies. By integrating stock-picking techniques, algorithmic traders aim to replicate or even surpass the decision-making processes of experienced human investors with greater speed and precision.

@@ -1,6 +1,9 @@
 ---
-title: "Mercantilism in British Colonial America (Algo Trading)"
-description: "Explore the impact of mercantilism on British colonial America and its evolution into modern trading practices like algorithmic trading emphasizing economic efficiency."
+category: quant_concept
+description: Explore the impact of mercantilism on British colonial America and its
+  evolution into modern trading practices like algorithmic trading emphasizing economic
+  efficiency.
+title: Mercantilism in British Colonial America (Algo Trading)
 ---
 
 Mercantilism was a predominant economic policy that shaped global trade from the 16th to the 18th century. This doctrine emphasized the importance of a favorable balance of trade, whereby countries aimed to maximize exports and minimize imports to accumulate wealth. Central to mercantilism was the idea that the wealth of nations could be measured by the stockpile of precious metals, such as gold and silver, they possessed. As such, resources and economic strategies were directed towards achieving a positive trade balance that would enrich the mother country.

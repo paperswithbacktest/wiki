@@ -1,6 +1,8 @@
 ---
-title: "Yield to Maturity and Its Mechanics (Algo Trading)"
-description: "Explore the vital role of Yield to Maturity in bond investments and algorithmic trading to boost trading strategies and optimize financial outcomes."
+category: quant_concept
+description: Explore the vital role of Yield to Maturity in bond investments and algorithmic
+  trading to boost trading strategies and optimize financial outcomes.
+title: Yield to Maturity and Its Mechanics (Algo Trading)
 ---
 
 In the rapidly evolving world of finance, understanding key financial metrics is crucial for optimizing investment strategies. Among these metrics, Yield to Maturity (YTM) stands out as a fundamental concept, especially in the context of bond investments. YTM provides investors with a comprehensive measure of the total expected return on a bond if held until maturity, expressed annually. Unlike the coupon rate, which only reflects the bond's periodic interest income, or the current yield, which is influenced by the bond's current price, YTM encapsulates the cumulative returns accounting for the time value of money and compounding interest.
@@ -177,4 +179,3 @@ As trading strategies evolve, investors must remain vigilant and knowledgeable a
 - **Jarrow, R. A., & Turnbull, S. M. (2000). "Derivatives Securities."** This publication focuses on derivative securities, including the valuation and application of these financial instruments within broader market strategies. Understanding derivatives is integral for investors and traders utilizing algorithms to identify and exploit arbitrage opportunities and mispricings in bond markets.
 
 These references collectively provide a solid foundation for further exploration of bond markets, yield to maturity, algorithmic trading, and the expanding role of technology in modern finance.
-

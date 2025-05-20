@@ -1,6 +1,8 @@
 ---
-title: "Uptick Rule in SEC Short Sale Regulations (Algo Trading)"
-description: "Discover how the SEC's Uptick Rule impacts short selling and algorithmic trading enhancing market stability and compliance in financial markets regulations."
+category: quant_concept
+description: Discover how the SEC's Uptick Rule impacts short selling and algorithmic
+  trading enhancing market stability and compliance in financial markets regulations.
+title: Uptick Rule in SEC Short Sale Regulations (Algo Trading)
 ---
 
 Short selling is a trading strategy used in financial markets where an investor borrows and sells a security with the intention of repurchasing it at a lower price, capturing the difference as profit. This type of transaction is often employed as a hedge against market downturns or as a speculative maneuver to capitalize on expected price declines. The practice plays a crucial role in price discovery and market efficiency by allowing traders to express negative sentiments on overvalued securities, leading to more balanced market valuations.

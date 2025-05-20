@@ -1,7 +1,8 @@
 ---
-title: Essential DataFrame Operations for Machine Learning Projects
+category: dataset
 description: DataFrame workflows help you clean transform and merge data efficiently
   for seamless machine learning model preparation. Discover more inside.
+title: Essential DataFrame Operations for Machine Learning Projects
 ---
 
 ![Image](images/1.jpeg)

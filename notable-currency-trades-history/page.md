@@ -1,6 +1,8 @@
 ---
-title: "Notable Currency Trades in History (Algo Trading)"
-description: "Explore the historical evolution of currency trading and the profound impact of algorithmic strategies on the forex market's efficiency and dynamics."
+category: trading_strategy
+description: Explore the historical evolution of currency trading and the profound
+  impact of algorithmic strategies on the forex market's efficiency and dynamics.
+title: Notable Currency Trades in History (Algo Trading)
 ---
 
 Currency trading, commonly referred to as forex trading, stands as a crucial component of the global financial ecosystem, facilitating the exchange of different national currencies. With daily transactions exceeding $6 trillion, the forex market is the largest of its kind worldwide, far surpassing equity and bond markets in terms of daily volume. This massive scale is driven by a diverse array of participants, including central banks, financial institutions, corporations, and retail traders, each with distinct purposes ranging from hedging to speculation and investment.

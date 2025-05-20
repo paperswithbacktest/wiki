@@ -1,6 +1,9 @@
 ---
-title: "Perpetual Option XPO: Meaning and Functionality With Example (Algo Trading)"
-description: "Explore the functionality of perpetual options (XPOs) in algorithmic trading. Discover how their timeless nature maximizes flexibility and long-term gains."
+category: quant_concept
+description: Explore the functionality of perpetual options (XPOs) in algorithmic
+  trading. Discover how their timeless nature maximizes flexibility and long-term
+  gains.
+title: 'Perpetual Option XPO: Meaning and Functionality With Example (Algo Trading)'
 ---
 
 Options trading is a significant component of modern financial markets, providing investors and traders with instruments for both speculation and hedging against various financial risks. Options are contractual agreements that give the holder the right, but not the obligation, to buy or sell an underlying asset at a predetermined price before or at a specific expiry date. While traditional options have defined lifespans, a particularly intriguing category within options trading is perpetual options, commonly referred to as XPOs. These options differ profoundly from their traditional counterparts as they do not come with an expiration date. This perpetual nature offers substantial flexibility to traders, removing the pressures associated with the time decay typical of standard options.

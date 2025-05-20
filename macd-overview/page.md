@@ -1,6 +1,8 @@
 ---
-title: "MACD Overview (Algo Trading)"
-description: "The Moving Average Convergence Divergence MACD is a powerful technical analysis tool used by traders to identify price momentum and predict trend reversals."
+category: trading_strategy
+description: The Moving Average Convergence Divergence MACD is a powerful technical
+  analysis tool used by traders to identify price momentum and predict trend reversals.
+title: MACD Overview (Algo Trading)
 ---
 
 The Moving Average Convergence Divergence (MACD) is a widely utilized technical analysis tool among traders for its ability to provide insights into price momentum and potential trend reversals. Developed by Gerald Appel in the late 1970s, MACD combines moving averages to assist in identifying changes in the strength, direction, momentum, and duration of a trend in a stock's price. Essential in both traditional and algorithmic trading, MACD serves as a foundational component for constructing effective trading strategies. 

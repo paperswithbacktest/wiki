@@ -1,6 +1,8 @@
 ---
-title: "Investment Unit of Indonesia (Algo Trading)"
-description: "Explore Indonesia's thriving algorithmic trading market driven by government investment in fintech strategic infrastructure and supportive regulations for investors."
+category: quant_concept
+description: Explore Indonesia's thriving algorithmic trading market driven by government
+  investment in fintech strategic infrastructure and supportive regulations for investors.
+title: Investment Unit of Indonesia (Algo Trading)
 ---
 
 Indonesia, as the largest economy in the Association of Southeast Asian Nations (ASEAN), offers a vast array of opportunities for both local and international investors. This potential is particularly evident within the context of its burgeoning technological sector, where government-backed initiatives have played a pivotal role in driving growth. Among these initiatives, algorithmic trading, which employs automated systems and mathematical models for executing trades, has witnessed significant advancement.

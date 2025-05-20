@@ -1,6 +1,9 @@
 ---
-title: "S&P BSE Sensex Index and Its Significance for the Bombay Stock Exchange (Algo Trading)"
-description: "Discover the significance of the S&P BSE Sensex for the Bombay Stock Exchange and how algorithmic trading is reshaping India's financial markets."
+category: quant_concept
+description: Discover the significance of the S&P BSE Sensex for the Bombay Stock
+  Exchange and how algorithmic trading is reshaping India's financial markets.
+title: S&P BSE Sensex Index and Its Significance for the Bombay Stock Exchange (Algo
+  Trading)
 ---
 
 Stock markets serve as vital platforms for the trading of financial securities, and they play a critical role in the global financial ecosystem. Among these, the Bombay Stock Exchange (BSE) stands out as a cornerstone of financial activity in India. Established in 1875, BSE is the oldest stock exchange in Asia and has since grown to become one of the most significant financial markets worldwide. The BSE facilitates the trading of diverse financial instruments, including equities, derivatives, and mutual funds, making it an essential hub for traders, investors, and financial institutions within India and internationally.

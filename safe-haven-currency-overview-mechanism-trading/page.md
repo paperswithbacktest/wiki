@@ -1,6 +1,8 @@
 ---
-title: "Safe Haven Currency: Overview, Mechanism, and Trading (Algo Trading)"
-description: "Explore the role of safe haven currencies in forex trading and how algorithmic trading enhances market dynamics by improving transaction speed and risk management."
+category: trading_strategy
+description: Explore the role of safe haven currencies in forex trading and how algorithmic
+  trading enhances market dynamics by improving transaction speed and risk management.
+title: 'Safe Haven Currency: Overview, Mechanism, and Trading (Algo Trading)'
 ---
 
 Currency trading, often referred to as forex trading, has become an essential component of the global financial landscape. As the largest and most liquid market in the world, the foreign exchange market facilitates the exchange of currencies, which is crucial for international trade, investment, and diversification of financial portfolios. The dynamic nature of forex trading attracts a wide array of participants, including financial institutions, corporations, governments, and individual investors, each contributing to the market's vast daily trading volume, which exceeds $6 trillion.

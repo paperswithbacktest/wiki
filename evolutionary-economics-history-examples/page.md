@@ -1,6 +1,9 @@
 ---
-title: "Evolutionary Economics: History and Examples (Algo Trading)"
-description: "Explore the dynamic relationship between evolutionary economics and algorithmic trading Discover how historical economic events shape modern financial markets and trading innovations"
+category: quant_concept
+description: Explore the dynamic relationship between evolutionary economics and algorithmic
+  trading Discover how historical economic events shape modern financial markets and
+  trading innovations
+title: 'Evolutionary Economics: History and Examples (Algo Trading)'
 ---
 
 The interplay between economic history, evolutionary economics, and algorithmic trading presents a compelling study of how historical precedents and theoretical frameworks inform modern financial markets. Historical economic milestones have long influenced the development of contemporary theories and trading practices. Examining these events, such as the Industrial Revolution or the Great Depression, reveals their enduring impact on today's economic thought and policy-making. These historical narratives have paved the way for the emergence of evolutionary economics, which seeks to explain the adaptive nature of economic systems. By viewing the economy as a dynamic and ever-evolving entity, evolutionary economics incorporates biological metaphors and concepts, emphasizing innovation, competition, and institutional change.

@@ -1,6 +1,9 @@
 ---
-title: "Human Development Index (Algo Trading)"
-description: "Explore the Human Development Index's relevance in assessing global development and its innovative application in algorithmic trading to evaluate emerging market opportunities."
+category: dataset
+description: Explore the Human Development Index's relevance in assessing global development
+  and its innovative application in algorithmic trading to evaluate emerging market
+  opportunities.
+title: Human Development Index (Algo Trading)
 ---
 
 The Human Development Index (HDI) is a comprehensive metric crafted by the United Nations to evaluate and compare economic and social development across the globe. Since its establishment in 1990, the HDI has served to underscore the significance of individual human capabilities in assessing a country's developmental progress, shifting focus from traditional economic assessments that concentrate predominantly on gross domestic product (GDP) or other financial metrics. Through this article, we aim to examine the relevance of the HDI, detail the methodology behind its measurement, and analyze the implications of its rankings and inherent limitations. Additionally, the article will review the intriguing application of indices such as the HDI in algorithmic trading, especially concerning emerging markets and trends in global development.

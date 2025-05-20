@@ -1,6 +1,8 @@
 ---
-title: "NAV Return and Market Return Comparison (Algo Trading)"
-description: "Explore the intricacies of calculating NAV and market returns in algorithmic trading Understand the impact on investment strategies and portfolio optimization"
+category: trading_strategy
+description: Explore the intricacies of calculating NAV and market returns in algorithmic
+  trading Understand the impact on investment strategies and portfolio optimization
+title: NAV Return and Market Return Comparison (Algo Trading)
 ---
 
 In the rapidly evolving landscape of financial markets, the precise calculation of returns is a fundamental aspect that investors and traders must grasp. Returns serve as the primary measure of an investment's profitability over time, influencing decision-making processes and shaping investment strategies. The importance of return calculations lies not only in quantifying gains or losses but also in their ability to compare varying types of investments, assess risk, and optimize portfolios for better financial outcomes.

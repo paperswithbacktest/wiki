@@ -1,6 +1,9 @@
 ---
-title: "Section 12D-1: Interpretation and Amendments (Algo Trading)"
-description: "Explore recent amendments to Section 12D-1 addressing algorithmic trading legalities enhancing fair market practices and investment opportunities while ensuring compliance."
+category: quant_concept
+description: Explore recent amendments to Section 12D-1 addressing algorithmic trading
+  legalities enhancing fair market practices and investment opportunities while ensuring
+  compliance.
+title: 'Section 12D-1: Interpretation and Amendments (Algo Trading)'
 ---
 
 In today's rapidly evolving financial markets, regulatory frameworks undergo constant updates to adapt to technological advancements and the growing demand for more inclusive participation. These transformations are crucial to ensure efficient, fair, and transparent market operations. One such area experiencing significant updates is algorithmic trading, particularly with respect to the legal frameworks surrounding Section 12D-1 of the Investment Company Act.

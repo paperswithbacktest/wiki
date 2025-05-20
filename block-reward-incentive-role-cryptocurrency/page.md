@@ -1,6 +1,9 @@
 ---
-title: "Block Reward and Its Incentive Role in Cryptocurrency (Algo Trading)"
-description: "Explore the pivotal role of block rewards in cryptocurrency. Discover how algorithmic trading enhances market efficiency and the evolving dynamics that shape this ecosystem."
+category: quant_concept
+description: Explore the pivotal role of block rewards in cryptocurrency. Discover
+  how algorithmic trading enhances market efficiency and the evolving dynamics that
+  shape this ecosystem.
+title: Block Reward and Its Incentive Role in Cryptocurrency (Algo Trading)
 ---
 
 The rapid advancement of blockchain technology has ushered in a transformative era in digital transactions, characterized by key concepts such as blockchain, mining, and cryptocurrency. As decentralized systems become more integral to modern finance and technology, understanding their foundational components is crucial. This article examines the core aspects of blockchain technology, focusing on block rewards and algorithmic trading, and their interconnectedness within the cryptocurrency ecosystem. Mining serves as the backbone of blockchain operations, facilitating transaction validation and network security through computational problem-solving. Miners are rewarded for their contributions, driving the cryptocurrency market's decentralized nature. 

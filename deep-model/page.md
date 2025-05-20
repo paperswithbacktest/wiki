@@ -1,7 +1,8 @@
 ---
-title: Understanding Deep Neural Networks in Machine Learning
+category: quant_concept
 description: Deep Neural Networks deliver advanced feature learning with layers that
   adapt through backpropagation and optimization techniques Discover more inside.
+title: Understanding Deep Neural Networks in Machine Learning
 ---
 
 ![Image](images/1.jpeg)

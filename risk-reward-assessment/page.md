@@ -1,6 +1,9 @@
 ---
-title: "Risk and Reward Assessment (Algo Trading)"
-description: "Algorithmic trading leverages computer power for speed, efficiency, and data-driven strategies, balancing significant opportunities with formidable risk assessment challenges."
+category: trading_strategy
+description: Algorithmic trading leverages computer power for speed, efficiency, and
+  data-driven strategies, balancing significant opportunities with formidable risk
+  assessment challenges.
+title: Risk and Reward Assessment (Algo Trading)
 ---
 
 Algorithmic trading harnesses the power of computers to execute trading orders at speeds and frequencies that a human trader cannot achieve. This approach to trading presents both significant opportunities and formidable challenges. Opportunities arise in the form of enhanced efficiency, the ability to process large volumes of data in real time, and the creation of sophisticated trading strategies that can adapt to dynamic markets. However, these opportunities are accompanied by challenges such as the need for robust risk assessment and precise decision-making. 

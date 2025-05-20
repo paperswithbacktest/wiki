@@ -1,6 +1,8 @@
 ---
-title: "List of Global Bitcoin Hotspots (Algo Trading)"
-description: "Explore the global hotspots for Bitcoin algorithmic trading learn how cities like Los Angeles and Hong Kong are shaping the future of crypto markets."
+category: dataset
+description: Explore the global hotspots for Bitcoin algorithmic trading learn how
+  cities like Los Angeles and Hong Kong are shaping the future of crypto markets.
+title: List of Global Bitcoin Hotspots (Algo Trading)
 ---
 
 Bitcoin has significantly transformed the financial landscape since its inception in 2009, offering a decentralized alternative to traditional financial systems. As the first cryptocurrency, Bitcoin introduced a novel way of transferring and storing value, leveraging blockchain technology to ensure transparency and security in transactions. Over the years, Bitcoin's influence has grown, paving the way for an entire ecosystem of digital currencies and financial innovations.

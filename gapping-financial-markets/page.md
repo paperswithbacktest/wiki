@@ -1,6 +1,9 @@
 ---
-title: "Gapping in Financial Markets (Algo Trading)"
-description: "Explore the phenomenon of gapping in financial markets and its impact on trading strategies Understand price shifts between trading sessions to enhance trading performance"
+category: trading_strategy
+description: Explore the phenomenon of gapping in financial markets and its impact
+  on trading strategies Understand price shifts between trading sessions to enhance
+  trading performance
+title: Gapping in Financial Markets (Algo Trading)
 ---
 
 Gapping in financial markets is a phenomenon characterized by a significant price discrepancy between the closing price of one trading session and the opening price of the next. This volatility is frequently fueled by impactful news events, economic announcements, or shifts in investor sentiment, which occur outside of regular trading hours. For traders, understanding gapping is essential for developing strategies that effectively leverage these abrupt market shifts. Notably, the ability to predict and react to gaps can be the difference between profit and loss.

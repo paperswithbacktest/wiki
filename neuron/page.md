@@ -1,7 +1,8 @@
 ---
-title: Fundamentals Of Neurons In Neural Networks For Machine Learning
+category: quant_concept
 description: Neurons in neural networks process weighted inputs biases and activation
   functions in active layers to learn complex patterns Discover more inside.
+title: Fundamentals Of Neurons In Neural Networks For Machine Learning
 ---
 
 ![Image](images/1.png)

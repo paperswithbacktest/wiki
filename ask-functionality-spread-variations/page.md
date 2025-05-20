@@ -1,6 +1,8 @@
 ---
-title: "Ask: Functionality and Spread Variations (Algo Trading)"
-description: "Mastering concepts like ask price, ask spread, and bid-ask spread is vital in trading. Explore their impact on algo trading and market efficiency."
+category: quant_concept
+description: Mastering concepts like ask price, ask spread, and bid-ask spread is
+  vital in trading. Explore their impact on algo trading and market efficiency.
+title: 'Ask: Functionality and Spread Variations (Algo Trading)'
 ---
 
 In the fast-paced world of financial trading, mastering key concepts such as ask price, ask spread, and bid-ask spread is fundamental for achieving success. These terms encapsulate essential elements of market dynamics, crucial for traders who seek to navigate the complexities of buying and selling financial instruments. The ask price, for instance, represents the lowest price a seller is willing to accept for a specific security, while the bid price is what a buyer is prepared to pay. The difference between these two prices is known as the bid-ask spread, which serves as a critical indicator of a market's liquidity and transaction cost metrics.

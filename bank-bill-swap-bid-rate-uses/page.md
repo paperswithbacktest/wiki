@@ -1,6 +1,8 @@
 ---
-title: "Bank Bill Swap Bid Rate and Its Uses (Algo Trading)"
-description: "Explore the Bank Bill Swap Bid Rate BBSY and its crucial role in Australian finance Learn how BBSY influences algorithmic trading and derivative pricing"
+category: quant_concept
+description: Explore the Bank Bill Swap Bid Rate BBSY and its crucial role in Australian
+  finance Learn how BBSY influences algorithmic trading and derivative pricing
+title: Bank Bill Swap Bid Rate and Its Uses (Algo Trading)
 ---
 
 The Bank Bill Swap Bid Rate (BBSY) stands as a fundamental financial benchmark within the Australian financial system, exerting substantial influence across a broad spectrum of financial instruments. As a key component in the financial landscape, the BBSY is central to interest rate swaps and financial derivatives, providing a reference point that is crucial for financial institutions and investors alike to comprehend. Its significance is underscored by its frequent use in pricing mechanisms and valuation models.

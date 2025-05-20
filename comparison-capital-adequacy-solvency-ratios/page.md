@@ -1,6 +1,8 @@
 ---
-title: "Comparison of Capital Adequacy and Solvency Ratios (Algo Trading)"
-description: "Explore how capital adequacy and solvency ratios are essential for financial stability and algorithmic trading by assessing risk and informing strategies."
+category: quant_concept
+description: Explore how capital adequacy and solvency ratios are essential for financial
+  stability and algorithmic trading by assessing risk and informing strategies.
+title: Comparison of Capital Adequacy and Solvency Ratios (Algo Trading)
 ---
 
 Understanding the key metrics that define a company's financial health is crucial in finance. This article explores important financial ratios, including the solvency ratio and the capital adequacy ratio, highlighting their relevance in financial analysis and algorithmic trading. Solvency ratios measure a company's ability to meet its long-term obligations, while capital adequacy ratios assess a bank's capacity to withstand financial shocks. This exploration aims to provide a comprehensive guide on how these ratios are used to assess financial stability and inform trading strategies.
@@ -153,4 +155,3 @@ Explore further with recommended resources on financial ratios and their applica
    - Following relevant finance and trading forums and podcasts can offer current industry perspectives and discussions on evolving financial ratios.
 
 To maintain strategic acumen, integrating insights from these diverse resources will ensure a nuanced understanding of financial ratios and their applications in modern finance and trading.
-

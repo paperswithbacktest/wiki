@@ -1,6 +1,8 @@
 ---
-title: "Primary Offering (Algo Trading)"
-description: "Explore the intricacies of IPOs and primary offerings, focusing on how algorithmic trading reshapes market dynamics, enhances liquidity, and impacts pricing."
+category: quant_concept
+description: Explore the intricacies of IPOs and primary offerings, focusing on how
+  algorithmic trading reshapes market dynamics, enhances liquidity, and impacts pricing.
+title: Primary Offering (Algo Trading)
 ---
 
 An initial public offering (IPO) is a significant milestone for a private company, signifying its shift to a publicly traded entity. This transformation offers the company access to capital markets, enabling it to raise funds by selling stock to the public. The IPO process not only helps a company to grow and expand but also increases its visibility and credibility in the market.

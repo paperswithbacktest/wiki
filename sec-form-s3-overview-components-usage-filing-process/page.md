@@ -1,6 +1,8 @@
 ---
-title: "SEC Form S-3: Overview, Components, Usage, and Filing Process (Algo Trading)"
-description: "SEC Form S-3 simplifies securities registration, crucial for efficient capital raising in algo trading by offering faster market entry for eligible firms."
+category: quant_concept
+description: SEC Form S-3 simplifies securities registration, crucial for efficient
+  capital raising in algo trading by offering faster market entry for eligible firms.
+title: 'SEC Form S-3: Overview, Components, Usage, and Filing Process (Algo Trading)'
 ---
 
 The SEC Form S-3 is an essential tool for companies aiming to efficiently register securities with the U.S. Securities and Exchange Commission (SEC). This streamlined registration process is particularly beneficial for companies that have previously met specific reporting requirements, enabling them to access capital markets more efficiently. By using Form S-3, eligible companies can expedite their offerings, thereby reducing the time and resources typically required to bring securities to market. 

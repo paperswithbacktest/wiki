@@ -1,6 +1,9 @@
 ---
-title: "Bloomberg Tools in Financial Analysis (Algo Trading)"
-description: "Explore Bloomberg's essential tools for financial analysis and algorithmic trading which offer real-time data robust analytics and efficient risk management solutions."
+category: dataset
+description: Explore Bloomberg's essential tools for financial analysis and algorithmic
+  trading which offer real-time data robust analytics and efficient risk management
+  solutions.
+title: Bloomberg Tools in Financial Analysis (Algo Trading)
 ---
 
 In the fast-paced world of financial markets, Bloomberg plays a crucial role in providing essential tools for financial analysis and algorithmic trading. Central to its suite of offerings is the Bloomberg Terminal, a platform renowned for delivering real-time market data, comprehensive analytics, and robust trading functionalities to professionals on a global scale. The Terminal's capabilities have transformed how market participants interact with financial data, enabling them to execute informed decisions swiftly and accurately.

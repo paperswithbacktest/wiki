@@ -1,6 +1,9 @@
 ---
-title: "Herfindahl-Hirschman Index: Formula and Example (Algo Trading)"
-description: "Explore the Herfindahl-Hirschman Index in algo trading to understand market concentration and competitive dynamics. Learn its formula, application, and impact."
+category: quant_concept
+description: Explore the Herfindahl-Hirschman Index in algo trading to understand
+  market concentration and competitive dynamics. Learn its formula, application, and
+  impact.
+title: 'Herfindahl-Hirschman Index: Formula and Example (Algo Trading)'
 ---
 
 The Herfindahl-Hirschman Index (HHI) is widely recognized as a fundamental tool for evaluating market concentration and competition across diverse industries. By quantifying the concentration of market power, the HHI offers crucial insights into the competitive landscape, essential for understanding market dynamics. In algorithmic trading, where precision and rapid decision-making are paramount, comprehending these dynamics through the lens of market concentration is vital for developing effective trading strategies.
@@ -105,4 +108,3 @@ Advancements in data analytics have opened new opportunities for refining HHI an
 - Chan, E. P. (2008). *Quantitative Trading: How to Build Your Own Algorithmic Trading Business*. This text provides practical guidance on setting up an algorithmic trading business, including the role of quantitative tools such as the HHI in evaluating market conditions and competitive dynamics. It offers readers insights into effectively applying HHI as part of a broader set of quantitative trading methods.
 
 - Jansen, S. (2020). *Machine Learning for Algorithmic Trading*. This book offers a modern perspective on incorporating machine learning techniques into algorithmic trading. It discusses various market analysis tools, including the HHI, for assessing market environment and devising trading strategies that align with the market's competitive landscape.
-

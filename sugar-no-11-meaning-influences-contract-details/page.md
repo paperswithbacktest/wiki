@@ -1,6 +1,8 @@
 ---
-title: "Sugar No.11: Meaning, Influences, and Contract Details (Algo Trading)"
-description: "Explore the role of Sugar No.11 futures in global trade, discover how algorithmic trading transforms sugar markets, and learn to optimize trading strategies."
+category: quant_concept
+description: Explore the role of Sugar No.11 futures in global trade, discover how
+  algorithmic trading transforms sugar markets, and learn to optimize trading strategies.
+title: 'Sugar No.11: Meaning, Influences, and Contract Details (Algo Trading)'
 ---
 
 The global sugar industry plays a crucial role in the world economy, serving as an essential commodity for numerous countries and driving economic activities spanning agriculture, trade, and manufacturing. Sugarcane and sugar beet, the primary sources of sugar production, are cultivated across diverse geographic regions, contributing significantly to the livelihood of millions of farmers. The sugar industry not only supports various economic sectors but also addresses vital food security needs by providing a stable source of energy for consumption and production processes.

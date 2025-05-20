@@ -1,6 +1,8 @@
 ---
-title: "Degrees of Freedom in Statistics (Algo Trading)"
-description: "Explore the essential concept of degrees of freedom in statistics and its implications for algorithmic trading strategies to enhance prediction accuracy."
+category: quant_concept
+description: Explore the essential concept of degrees of freedom in statistics and
+  its implications for algorithmic trading strategies to enhance prediction accuracy.
+title: Degrees of Freedom in Statistics (Algo Trading)
 ---
 
 Degrees of freedom (Df) is a fundamental concept in statistics, representing the number of independent values or observations in a dataset that can vary without violating any given restrictions. In simpler terms, it is the number of pieces of free information that are available to estimate another parameter in the context of a statistical model or test. The concept plays a crucial role in various statistical analyses, influencing everything from the shape of statistical distributions to the accuracy of model predictions.

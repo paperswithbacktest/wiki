@@ -1,6 +1,10 @@
 ---
-title: "Central African CFA Franc: Overview, Historical Context, and Economic Impact (Algo Trading)"
-description: "Explore the Central African CFA Franc its economic significance in six Central African nations and the impact of algorithmic trading on regional financial markets."
+category: quant_concept
+description: Explore the Central African CFA Franc its economic significance in six
+  Central African nations and the impact of algorithmic trading on regional financial
+  markets.
+title: 'Central African CFA Franc: Overview, Historical Context, and Economic Impact
+  (Algo Trading)'
 ---
 
 The Central African CFA Franc (XAF) is a pivotal element in the economic framework of six Central African countries: Cameroon, Central African Republic, Chad, Republic of the Congo, Equatorial Guinea, and Gabon. Serving as the common currency, the XAF facilitates trade and economic integration among these nations. Introduced in 1945, the currency is supported by the French treasury and pegged to the euro, offering stability to the region's monetary system. Understanding the XAF's historical context and current applications provides valuable insight into its impact on regional economies.

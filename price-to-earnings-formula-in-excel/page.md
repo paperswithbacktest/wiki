@@ -1,6 +1,8 @@
 ---
-title: "Price-To-Earnings Formula in Excel (Algo Trading)"
-description: "Learn how to calculate the Price-to-Earnings ratio in Excel for algorithmic trading This guide explains its importance in stock valuation and strategy development"
+category: quant_concept
+description: Learn how to calculate the Price-to-Earnings ratio in Excel for algorithmic
+  trading This guide explains its importance in stock valuation and strategy development
+title: Price-To-Earnings Formula in Excel (Algo Trading)
 ---
 
 In the fast-evolving world of finance, combining fundamental analysis with algorithmic trading is becoming increasingly essential for investors seeking a competitive edge. Fundamental analysis offers a deep dive into the intrinsic value of stocks by considering various financial metrics, with the Price-to-Earnings (P/E) ratio being a fundamental component. As a result, understanding and leveraging the P/E ratio effectively can provide critical insights into market trends and stock valuations.

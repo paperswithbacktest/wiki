@@ -1,6 +1,8 @@
 ---
-title: "Historical Capitalization Rates in New York City Real Estate (Algo Trading)"
-description: "Explore the synergy between NYC real estate and algorithmic trading to enhance investment returns by leveraging cap rate evaluations and data-driven strategies."
+category: quant_concept
+description: Explore the synergy between NYC real estate and algorithmic trading to
+  enhance investment returns by leveraging cap rate evaluations and data-driven strategies.
+title: Historical Capitalization Rates in New York City Real Estate (Algo Trading)
 ---
 
 The convergence of real estate and algorithmic trading in New York City presents a transformative opportunity for investors seeking to optimize their portfolio management and returns. Real estate, traditionally seen as a stable investment vehicle, now stands on the brink of a revolution propelled by the advanced capabilities of algorithmic trading. It is crucial to understand the foundational elements of real estate valuation, among which capitalization rates (cap rates) hold significant weight. The capitalization rate is a key metric used to evaluate the profitability of an investment property, calculated as the ratio of net operating income (NOI) to the property’s current market value. This metric assists investors in assessing the potential return on investment, enabling informed decision-making.

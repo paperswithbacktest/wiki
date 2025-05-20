@@ -1,6 +1,9 @@
 ---
-title: "Gilt-Edged Securities: History and Uses (Algo Trading)"
-description: "Explore the history and uses of gilt-edged securities in algo trading Discover how these government-backed bonds and modern trading strategies can enhance your investments"
+category: quant_concept
+description: Explore the history and uses of gilt-edged securities in algo trading
+  Discover how these government-backed bonds and modern trading strategies can enhance
+  your investments
+title: 'Gilt-Edged Securities: History and Uses (Algo Trading)'
 ---
 
 In the ever-evolving world of finance, understanding the diverse landscape of investment opportunities is crucial for investors seeking to maximize returns and manage risks. The financial markets offer a wide array of instruments catered to varying risk appetites and investment goals. Among these, gilt-edged securities, government bonds, and algorithmic trading are pivotal tools that have shaped the current financial ecosystem.

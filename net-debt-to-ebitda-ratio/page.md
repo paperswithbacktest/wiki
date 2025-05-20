@@ -1,6 +1,9 @@
 ---
-title: "Net Debt-to-EBITDA Ratio in Financial Analysis (Algo Trading)"
-description: "Explore the importance of the Net Debt-to-EBITDA ratio in algorithmic trading highlighting its role in evaluating company leverage financial stability and guiding trading strategies."
+category: quant_concept
+description: Explore the importance of the Net Debt-to-EBITDA ratio in algorithmic
+  trading highlighting its role in evaluating company leverage financial stability
+  and guiding trading strategies.
+title: Net Debt-to-EBITDA Ratio in Financial Analysis (Algo Trading)
 ---
 
 Financial ratios are indispensable tools in trading, serving as quantitative measures to evaluate a company's performance and financial health. Among these, the Net Debt-to-EBITDA ratio holds particular significance in trading, notably in algorithmic trading, where decisions are increasingly driven by data and quantitative analysis.

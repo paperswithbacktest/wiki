@@ -1,6 +1,8 @@
 ---
-title: "Tax Efficiency of Mutual Funds (Algo Trading)"
-description: "Discover how mutual funds and algo trading optimize tax efficiency to boost after-tax returns Provide insights on strategic tax management for investors"
+category: quant_concept
+description: Discover how mutual funds and algo trading optimize tax efficiency to
+  boost after-tax returns Provide insights on strategic tax management for investors
+title: Tax Efficiency of Mutual Funds (Algo Trading)
 ---
 
 In the intricate world of investing, understanding the nuances of mutual funds and their tax efficiencies is essential for optimizing returns. Mutual funds, which aggregate capital from various investors to form a diversified portfolio, can significantly influence an investor's tax obligations. This complexity arises from the fact that mutual funds often pass on tax liabilities through distributions, including dividends and capital gains. Such distributions can affect the after-tax returns that investors achieve, making tax efficiency a critical component of investment strategy.

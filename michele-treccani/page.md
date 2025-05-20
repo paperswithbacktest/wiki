@@ -1,9 +1,9 @@
 ---
-title: "Michele Treccani (Algo Trading)"
-description: "Discover Michele Treccani's journey from theoretical physics to leading roles in algorithmic trading and blockchain analytics at Algorand Foundation."
+category: quant_concept
+description: Discover Michele Treccani's journey from theoretical physics to leading
+  roles in algorithmic trading and blockchain analytics at Algorand Foundation.
+title: Michele Treccani (Algo Trading)
 ---
-
-
 
 ## Table of Contents
 

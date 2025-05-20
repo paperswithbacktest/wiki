@@ -1,6 +1,9 @@
 ---
-title: "Utilizing Credit Spreads During Market Volatility Spikes (Algo Trading)"
-description: "Harness market volatility with credit spreads and algorithmic trading Discover strategies to manage risks and seize opportunities amidst financial market fluctuations"
+category: trading_strategy
+description: Harness market volatility with credit spreads and algorithmic trading
+  Discover strategies to manage risks and seize opportunities amidst financial market
+  fluctuations
+title: Utilizing Credit Spreads During Market Volatility Spikes (Algo Trading)
 ---
 
 In today's fast-paced financial world, market volatility presents both challenges and opportunities for investors. Volatility, characterized by rapid and unpredictable changes in asset prices, can be a source of significant gains for those who understand how to navigate its complexities. Conversely, it also poses substantial risks, warranting a comprehensive understanding to mitigate potential losses.

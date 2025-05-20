@@ -1,6 +1,9 @@
 ---
-title: "Certified Stock: Definition and Function (Algo Trading)"
-description: "Explore the fusion of certified stock and algorithmic trading in finance offering innovative, automated strategies for rigorous investment assurance and efficiency."
+category: quant_concept
+description: Explore the fusion of certified stock and algorithmic trading in finance
+  offering innovative, automated strategies for rigorous investment assurance and
+  efficiency.
+title: 'Certified Stock: Definition and Function (Algo Trading)'
 ---
 
 In the world of finance, the intersection of stock investment and algorithmic trading has paved the way for a new era of strategic investment approaches. Stock trading is no longer confined to the manual buying and selling of shares by individual traders. Instead, automation and data-driven strategies have reshaped the landscape, giving rise to new concepts such as investment stock certification and certified stock algorithmic trading.

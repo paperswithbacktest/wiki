@@ -1,8 +1,9 @@
 ---
-title: Understanding Neural Network Weights Weight Initialization and Training
+category: quant_concept
 description: Neural network weights define how input features impact predictions and
   evolve through training with techniques like gradient descent and Xavier initialization
   Discover more inside.
+title: Understanding Neural Network Weights Weight Initialization and Training
 ---
 
 ![Image](images/1.jpeg)

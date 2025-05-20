@@ -1,6 +1,10 @@
 ---
-title: "Why is market microstructure important for HFT?"
-description: "Discover the crucial role of market microstructure in High-Frequency Trading (HFT). Understanding the mechanisms, rules, and information flow within markets enables HFT players to execute optimally, make informed decisions, and adapt quickly to market changes."
+category: quant_concept
+description: Discover the crucial role of market microstructure in High-Frequency
+  Trading (HFT). Understanding the mechanisms, rules, and information flow within
+  markets enables HFT players to execute optimally, make informed decisions, and adapt
+  quickly to market changes.
+title: Why is market microstructure important for HFT?
 ---
 
 Market microstructure refers to the foundation of rules, processes, and mechanisms through which financial securities are traded. It encompasses the structures that define how buyers and sellers interact, the methodologies for setting prices, and the systems ensuring transaction completion. This microlevel understanding of market functioning is vital as it directly influences price discovery, liquidity, and market efficiency. The intricacies of market microstructure are pivotal for not just traders but also policymakers and researchers aiming to optimize trading environments.

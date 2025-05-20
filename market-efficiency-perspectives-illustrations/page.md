@@ -1,6 +1,9 @@
 ---
-title: "Market Efficiency: Perspectives and Illustrations (Algo Trading)"
-description: "Explore how market efficiency intertwines with economic theories and algorithmic trading, offering insights into modern trading strategies and financial market dynamics."
+category: quant_concept
+description: Explore how market efficiency intertwines with economic theories and
+  algorithmic trading, offering insights into modern trading strategies and financial
+  market dynamics.
+title: 'Market Efficiency: Perspectives and Illustrations (Algo Trading)'
 ---
 
 The landscape of financial markets is continuously evolving with the convergence of economic theories and algorithmic trading technologies. Central to this evolution is the concept of market efficiency, which has long been a cornerstone for understanding financial markets. Originally established by the Efficient Market Hypothesis (EMH), market efficiency posits that asset prices fully reflect all available information, thereby making it impossible for investors to consistently achieve returns that exceed average market returns on a risk-adjusted basis.

@@ -1,6 +1,13 @@
 ---
-title: "Small-Cap Stocks as an Investment (Algo Trading)"
-description: "Explore the world of small-cap stocks and algorithmic trading in today's dynamic financial markets. Discover the growth potential and risks of investing in small-cap companies with market capitalizations between $300 million to $2 billion. Learn how algorithmic trading leverages cutting-edge technology to enhance trading efficiency while understanding the associated risks. This comprehensive guide provides insights into maximizing returns and navigating the complexities of small-cap stocks and algorithmic strategies."
+category: trading_strategy
+description: Explore the world of small-cap stocks and algorithmic trading in today's
+  dynamic financial markets. Discover the growth potential and risks of investing
+  in small-cap companies with market capitalizations between $300 million to $2 billion.
+  Learn how algorithmic trading leverages cutting-edge technology to enhance trading
+  efficiency while understanding the associated risks. This comprehensive guide provides
+  insights into maximizing returns and navigating the complexities of small-cap stocks
+  and algorithmic strategies.
+title: Small-Cap Stocks as an Investment (Algo Trading)
 ---
 
 The financial markets have evolved significantly over the past few decades, characterized by a diversification of investment options and technological advancements. This landscape presents a multitude of opportunities and risks for investors, particularly in small-cap stocks and algorithmic trading.

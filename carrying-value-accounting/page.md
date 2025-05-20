@@ -1,6 +1,9 @@
 ---
-title: "Carrying Value in Accounting (Algo Trading)"
-description: "Explore the key concepts of accounting carrying value algorithmic trading and balance sheets to enhance your understanding of the financial ecosystem and make informed decisions"
+category: quant_concept
+description: Explore the key concepts of accounting carrying value algorithmic trading
+  and balance sheets to enhance your understanding of the financial ecosystem and
+  make informed decisions
+title: Carrying Value in Accounting (Algo Trading)
 ---
 
 In finance and investing, understanding key terms and concepts is crucial for success. This article aims to shed light on three important topics: accounting carrying value, balance sheets, and algo trading. Each of these elements forms a cornerstone in the financial ecosystem, playing significant roles in investment decisions and financial analysis.

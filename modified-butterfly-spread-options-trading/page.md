@@ -1,6 +1,13 @@
 ---
-title: "Modified Butterfly Spread in Options Trading (Algo Trading)"
-description: "Discover the Modified Butterfly Spread, a flexible options trading strategy that combines traditional setups with modern algorithmic techniques for better market adaptability. Perfect for traders seeking balanced risk-reward scenarios in stable conditions, this approach explores broader profit zones and potential for increased returns. Explore its mechanics, advantages, and strategies for using algorithmic systems to optimize results in today's financial markets. Ideal for advanced traders looking to refine their skills and maximize opportunities in bounded markets."
+category: trading_strategy
+description: Discover the Modified Butterfly Spread, a flexible options trading strategy
+  that combines traditional setups with modern algorithmic techniques for better market
+  adaptability. Perfect for traders seeking balanced risk-reward scenarios in stable
+  conditions, this approach explores broader profit zones and potential for increased
+  returns. Explore its mechanics, advantages, and strategies for using algorithmic
+  systems to optimize results in today's financial markets. Ideal for advanced traders
+  looking to refine their skills and maximize opportunities in bounded markets.
+title: Modified Butterfly Spread in Options Trading (Algo Trading)
 ---
 
 Options trading provides traders with a diverse set of strategies designed to capitalize on various market conditions. Among these strategies, the butterfly spread is a popular choice. It offers a balanced approach that combines profit potential with effective risk management. This strategy is known for its structured setup, which traditionally involves positioning options to create a targeted "profit zone," making it particularly attractive in stable or bounded market scenarios.

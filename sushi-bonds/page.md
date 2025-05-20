@@ -1,6 +1,9 @@
 ---
-title: "Sushi Bonds (Algo Trading)"
-description: "Explore the significance of Sushi Bonds and the impact of algorithmic trading on Japanese bonds, offering insights for savvy investors seeking market advantages."
+category: quant_concept
+description: Explore the significance of Sushi Bonds and the impact of algorithmic
+  trading on Japanese bonds, offering insights for savvy investors seeking market
+  advantages.
+title: Sushi Bonds (Algo Trading)
 ---
 
 Japanese bonds are integral to the international finance landscape, offering diverse opportunities for global investors to diversify their portfolios. Central to this array of financial instruments is the Sushi Bond, a distinctive Eurobond issued by Japanese companies in foreign currencies, typically the U.S. dollar. The strategic issuance of Sushi Bonds provides Japanese corporations with access to broader capital markets while attracting investors seeking currency diversification and potentially higher yields compared to domestic bonds.

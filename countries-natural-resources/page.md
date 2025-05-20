@@ -1,6 +1,9 @@
 ---
-title: "List of Countries by Natural Resources (Algo Trading)"
-description: "Explore the synergy between natural resources and algo trading in this comprehensive guide. Understand how nations leverage resources for economic power and trading efficiency."
+category: dataset
+description: Explore the synergy between natural resources and algo trading in this
+  comprehensive guide. Understand how nations leverage resources for economic power
+  and trading efficiency.
+title: List of Countries by Natural Resources (Algo Trading)
 ---
 
 The globalization of markets and the growing economic interdependence among countries have heightened the significance of natural resources in the global economy. As the primary drivers of industrialization and modern economic development, these resources, whether renewable such as timber and water or non-renewable like oil and minerals, are foundational to various sectors, including energy, manufacturing, and agriculture. Resource-rich countries, endowed with vast reserves of these essential commodities, play pivotal roles by leveraging their natural wealth to gain a competitive edge in international trade. Nations such as Russia, the United States, and Saudi Arabia serve as key suppliers, influencing energy prices and availability worldwide.

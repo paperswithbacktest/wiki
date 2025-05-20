@@ -1,6 +1,8 @@
 ---
-title: "Nonfinancial Assets: Valuation and Examples (Algo Trading)"
-description: "Explore the valuation of nonfinancial assets like real estate and IP leveraging algo trading for enhanced management unlocking new market opportunities."
+category: quant_concept
+description: Explore the valuation of nonfinancial assets like real estate and IP
+  leveraging algo trading for enhanced management unlocking new market opportunities.
+title: 'Nonfinancial Assets: Valuation and Examples (Algo Trading)'
 ---
 
 Assets are fundamental to investment and financial strategies for both individuals and institutions. While many investors are familiar with financial assets such as stocks, bonds, and other securities, there is a distinct segment of assets known as nonfinancial assets that hold substantial value due to their physical properties rather than contractual claims. These include assets like real estate, vehicles, machinery, and even intangible intellectual properties such as patents and trademarks.

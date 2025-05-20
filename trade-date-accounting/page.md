@@ -1,6 +1,9 @@
 ---
-title: "Trade Date Accounting (Algo Trading)"
-description: "Explore the importance of trade date accounting in financial reporting. Learn how this method captures transactions at execution, enhancing financial transparency and accuracy."
+category: quant_concept
+description: Explore the importance of trade date accounting in financial reporting.
+  Learn how this method captures transactions at execution, enhancing financial transparency
+  and accuracy.
+title: Trade Date Accounting (Algo Trading)
 ---
 
 Trade date accounting is a fundamental aspect of financial reporting, essential for maintaining transparency and accuracy in financial statements. This accounting approach records financial transactions on the date when a trade is executed, rather than when the transactions are settled. Its importance has grown in modern financial markets, where timely and precise data capture is critical. As financial transactions become more complex and interconnected, trade date accounting helps ensure that financial records accurately reflect the market activities at the point of execution, providing a realistic view of a company's financial position.

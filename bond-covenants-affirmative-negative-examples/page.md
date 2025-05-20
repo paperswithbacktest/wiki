@@ -1,6 +1,9 @@
 ---
-title: "Bond Covenants: Affirmative and Negative Examples (Algo Trading)"
-description: "Discover the key differences between affirmative and negative bond covenants and their impact on algorithmic trading Learn how these covenants shape financial markets"
+category: quant_concept
+description: Discover the key differences between affirmative and negative bond covenants
+  and their impact on algorithmic trading Learn how these covenants shape financial
+  markets
+title: 'Bond Covenants: Affirmative and Negative Examples (Algo Trading)'
 ---
 
 In the world of bonds and financial agreements, covenants play a crucial role. They are legally binding terms that safeguard the interests of bond issuers and holders. Essentially, bond covenants are stipulations within a bond’s indenture that ensure borrowers uphold certain financial practices and obligations, thus protecting the lenders. These covenants are key to maintaining the balance of power between issuers and investors, mitigating risks, and preserving the financial health of both parties involved.

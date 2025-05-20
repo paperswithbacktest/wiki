@@ -1,7 +1,8 @@
 ---
-title: Understanding Tensor Processing Units and Their Advantages
+category: quant_concept
 description: Tensor Processing Units speed up AI by handling large tensor workloads
   with memory and systolic arrays for faster model training Discover more inside
+title: Understanding Tensor Processing Units and Their Advantages
 ---
 
 ![Image](images/1.jpeg)

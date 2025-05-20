@@ -1,6 +1,9 @@
 ---
-title: "Funds Management: Responsibilities and Industries (Algo Trading)"
-description: "Explore the vital roles of funds management and algorithmic trading in today's investment landscape where technology and strategic decisions drive financial growth."
+category: trading_strategy
+description: Explore the vital roles of funds management and algorithmic trading in
+  today's investment landscape where technology and strategic decisions drive financial
+  growth.
+title: 'Funds Management: Responsibilities and Industries (Algo Trading)'
 ---
 
 Investment responsibilities have evolved significantly within the financial industry. This transformation encompasses the dynamic fields of funds management and algorithmic trading, both of which are central to contemporary investment practices. Exploring the roles and duties encapsulated within these areas is paramount for investors and institutions aiming to thrive in today's complex financial environments. 
@@ -128,4 +131,3 @@ Explore key publications on fund management and algorithmic trading for deeper i
 8. **Online Courses and Lectures**: Platforms like Coursera and edX offer courses on investment strategies and financial technologies, often featuring industry experts and academics. These resources can be beneficial for staying updated on new methodologies and tools in fund management and trading.
 
 These texts and resources provide comprehensive coverage of the critical aspects of fund management and algorithmic trading, offering valuable perspectives for students, professionals, and anyone interested in finance.
-

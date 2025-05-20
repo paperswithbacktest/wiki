@@ -1,6 +1,9 @@
 ---
-title: "Trailing Earnings Per Share (Algo Trading)"
-description: "Discover the role of Trailing EPS in algorithmic trading how it provides valuable insights into a company's profitability by analyzing earnings trends over the last four quarters"
+category: quant_concept
+description: Discover the role of Trailing EPS in algorithmic trading how it provides
+  valuable insights into a company's profitability by analyzing earnings trends over
+  the last four quarters
+title: Trailing Earnings Per Share (Algo Trading)
 ---
 
 Earnings Per Share (EPS) is a fundamental financial metric employed by analysts and investors to gauge a company's profitability on a per-share basis. It encapsulates the portion of a company's profit allocated to each outstanding share of common stock, thus serving as a rudimentary measure of corporate health that informs investment decisions. Specifically, EPS is calculated by the formula:

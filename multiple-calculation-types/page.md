@@ -1,6 +1,8 @@
 ---
-title: "Multiple: Calculation and Types (Algo Trading)"
-description: "Explore the calculations and types of algorithmic trading strategies used to enhance financial outcomes. Gain insights into trend following and more."
+category: quant_concept
+description: Explore the calculations and types of algorithmic trading strategies
+  used to enhance financial outcomes. Gain insights into trend following and more.
+title: 'Multiple: Calculation and Types (Algo Trading)'
 ---
 
 The evolution of trading has brought substantial advancements with algorithmic trading at the forefront. Algorithmic trading, commonly referred to as algo trading, employs computer programs that execute trades based on predefined criteria, significantly enhancing speed and accuracy compared to traditional trading methods. This approach leverages advanced algorithms to analyze vast amounts of market data and make decisions quickly, thus optimizing both timing and execution of trades.

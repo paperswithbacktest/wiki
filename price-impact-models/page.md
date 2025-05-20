@@ -1,6 +1,8 @@
 ---
-title: "Price impact models (Algo Trading)"
-description: "Explore price impact models in algorithmic trading to understand how trades affect market prices. Discover model types and optimize trade execution."
+category: quant_concept
+description: Explore price impact models in algorithmic trading to understand how
+  trades affect market prices. Discover model types and optimize trade execution.
+title: Price impact models (Algo Trading)
 ---
 
 In the world of algorithmic trading, understanding price dynamics is crucial. Price impact models play a pivotal role in predicting how large trades affect market prices. These models are essential tools for traders, helping them optimize trade execution to minimize costs. By accurately assessing the potential impact of their trades, traders can more effectively strategize on timing and size to reduce negative influences on market price and liquidity.

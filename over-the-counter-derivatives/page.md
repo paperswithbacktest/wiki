@@ -1,6 +1,9 @@
 ---
-title: "Over-the-Counter Derivatives (Algo Trading)"
-description: "Explore the intricacies of over-the-counter derivatives and the role of algorithmic trading in modern finance focusing on risk management and market efficiency."
+category: quant_concept
+description: Explore the intricacies of over-the-counter derivatives and the role
+  of algorithmic trading in modern finance focusing on risk management and market
+  efficiency.
+title: Over-the-Counter Derivatives (Algo Trading)
 ---
 
 Financial derivatives are intricate financial instruments whose values stem from underlying assets, indices, or interest rates. These instruments play a pivotal role in modern finance, providing tools for hedging risks, speculating on future market movements, and enhancing capital efficiency. This article provides an in-depth examination of derivatives, with a spotlight on the derivative market, OTC derivatives, and algorithmic trading. Derivatives have evolved significantly, particularly with the rise of over-the-counter (OTC) derivatives, which have transformed financial risk management practices by allowing for more tailored and flexible risk mitigation strategies.

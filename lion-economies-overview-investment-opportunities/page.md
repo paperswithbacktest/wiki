@@ -1,6 +1,14 @@
 ---
-title: "Lion Economies: Overview, Investment Opportunities, and Common Questions (Algo Trading)"
-description: "Discover the dynamic potential of Lion Economies, a group of rapidly growing African nations that mirror Asia's Tiger Economies. Explore investment opportunities in sectors like technology, infrastructure, and energy, driven by strong economic growth and favorable government policies. Learn how algorithmic trading can optimize investments in these emerging markets, capitalizing on their abundant resources and young populations. Uncover strategic insights into maximizing returns and minimizing risks in Africa's burgeoning economic landscape."
+category: dataset
+description: Discover the dynamic potential of Lion Economies, a group of rapidly
+  growing African nations that mirror Asia's Tiger Economies. Explore investment opportunities
+  in sectors like technology, infrastructure, and energy, driven by strong economic
+  growth and favorable government policies. Learn how algorithmic trading can optimize
+  investments in these emerging markets, capitalizing on their abundant resources
+  and young populations. Uncover strategic insights into maximizing returns and minimizing
+  risks in Africa's burgeoning economic landscape.
+title: 'Lion Economies: Overview, Investment Opportunities, and Common Questions (Algo
+  Trading)'
 ---
 
 The term 'Lion Economies' refers to a group of African nations experiencing robust economic growth and marked by significant economic progress. These economies are characterized by their rapid development, which mirrors the so-called 'Tiger Economies' of Asia in the latter part of the 20th century. Countries such as Nigeria, South Africa, Kenya, and Ethiopia are often highlighted as key representatives of these burgeoning markets. Collectively, Lion Economies hold a strategic position in the global market landscape, given their increasingly pivotal role in the international trade network and growing consumer markets.

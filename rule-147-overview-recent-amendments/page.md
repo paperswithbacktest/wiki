@@ -1,6 +1,8 @@
 ---
-title: "Rule 147 Overview and Recent Amendments (Algo Trading)"
-description: "Explore how Rule 147 and its amendment Rule 147A modernize securities regulation for local businesses, enhancing capital raising via algorithmic trading."
+category: trading_strategy
+description: Explore how Rule 147 and its amendment Rule 147A modernize securities
+  regulation for local businesses, enhancing capital raising via algorithmic trading.
+title: Rule 147 Overview and Recent Amendments (Algo Trading)
 ---
 
 In the ever-evolving landscape of securities regulation, staying updated with recent amendments is crucial for investors, companies, and stakeholders. Securities regulation is a complex and dynamic field where rules are frequently revised to address new challenges, opportunities, and technological advances. One such rule, Rule 147, has undergone significant changes to adapt to these modern developments. Often referred to as the "safe harbor" rule, Rule 147 provides a regulatory framework for companies looking to raise capital within a particular state without undergoing the rigorous process of SEC registration, as long as specific conditions are met. Initially established in 1974, this rule was designed to facilitate intrastate offerings, particularly aiding small businesses in operating within state boundaries.
@@ -125,4 +127,4 @@ As the contours of financial markets evolve, so does the interaction between reg
 
 [5]: Lopez de Prado, Marcos. ["Advances in Financial Machine Learning."](https://www.amazon.com/Advances-Financial-Machine-Learning-Marcos/dp/1119482089) 
 
-[6]: Chan, Ernest P. ["Quantitative Trading: How to Build Your Own Algorithmic Trading Business."](https://github.com/ftvision/quant_trading_echan_book) 
+[6]: Chan, Ernest P. ["Quantitative Trading: How to Build Your Own Algorithmic Trading Business."](https://github.com/ftvision/quant_trading_echan_book)

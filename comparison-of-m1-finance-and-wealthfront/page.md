@@ -1,6 +1,14 @@
 ---
-title: "Comparison of M1 Finance and Wealthfront (Algo Trading)"
-description: "Explore the unique features and benefits of M1 Finance and Wealthfront in digital investing. M1 Finance offers fee-free, customizable portfolios with a focus on self-directed investment using Pies composed of stocks and ETFs. Wealthfront acts as a comprehensive robo-advisor with goal-based investing and advanced tax optimization. Compare these platforms to determine which aligns with your investment goals, informed by their distinct methodologies and the growing trend of algorithmic trading. Discover how each service uses technology to enhance the investment experience and support investor preferences."
+category: trading_strategy
+description: Explore the unique features and benefits of M1 Finance and Wealthfront
+  in digital investing. M1 Finance offers fee-free, customizable portfolios with a
+  focus on self-directed investment using Pies composed of stocks and ETFs. Wealthfront
+  acts as a comprehensive robo-advisor with goal-based investing and advanced tax
+  optimization. Compare these platforms to determine which aligns with your investment
+  goals, informed by their distinct methodologies and the growing trend of algorithmic
+  trading. Discover how each service uses technology to enhance the investment experience
+  and support investor preferences.
+title: Comparison of M1 Finance and Wealthfront (Algo Trading)
 ---
 
 In the ever-evolving world of digital investing, platforms like M1 Finance and Wealthfront have carved niches for themselves by offering tailored investment services to meet the needs of modern investors. Both platforms provide innovative financial solutions, but they do so through distinct methodologies that cater to various investment styles and preferences. M1 Finance combines self-directed brokerage capabilities with automated portfolio management, allowing investors to customize their investment portfolios using a feature they call "Pies." These Pies are composed of stocks and exchange-traded funds (ETFs), giving users significant control over their investment strategies without incurring management fees. In contrast, Wealthfront positions itself as a comprehensive robo-advisor, emphasizing goal-based investing through expertly designed portfolios, including advanced features like tax optimization and automated financial planning tools.

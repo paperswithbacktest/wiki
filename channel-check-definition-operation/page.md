@@ -1,6 +1,8 @@
 ---
-title: "Channel Check: Definition and Operation (Algo Trading)"
-description: "Explore the dynamics of channel checks and algorithmic trading in finance. Understand how these tools refine decision-making and risk assessment for investors."
+category: quant_concept
+description: Explore the dynamics of channel checks and algorithmic trading in finance.
+  Understand how these tools refine decision-making and risk assessment for investors.
+title: 'Channel Check: Definition and Operation (Algo Trading)'
 ---
 
 The evolving landscape of finance and trading has seen remarkable advancements, particularly with the introduction of algorithmic trading and enhanced financial analysis techniques. These developments have radically transformed how investors and traders perceive markets and make decisions, facilitating quicker, data-driven actions. This article examines two significant facets of modern trading: market research through channel checks and the implementation of trading algorithms, both of which serve to refine decision-making processes in the financial sector.

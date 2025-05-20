@@ -1,6 +1,9 @@
 ---
-title: "Face Value and Market Value in Finance (Algo Trading)"
-description: "Explore the essentials of face value and market value in finance alongside algorithmic trading Discover how these elements shape investment strategies and market dynamics"
+category: quant_concept
+description: Explore the essentials of face value and market value in finance alongside
+  algorithmic trading Discover how these elements shape investment strategies and
+  market dynamics
+title: Face Value and Market Value in Finance (Algo Trading)
 ---
 
 In finance, grasping the concepts of market value, face value, and algorithmic trading is essential for both investors and traders. These elements serve as foundational pillars, influencing decision-making and outcomes in financial markets. Understanding market value presents a real-time picture of an asset's worth as dictated by the forces of supply and demand. This contrasts with face value, which represents the nominal or original value assigned to a security by its issuer, offering a more static measurement primarily used in accounting and bond transactions.

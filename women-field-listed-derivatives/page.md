@@ -1,6 +1,8 @@
 ---
-title: "Women in the Field of Listed Derivatives (Algo Trading)"
-description: "Explore how women are transforming the financial sector in listed derivatives and algorithmic trading paving the way for gender equality and innovation."
+category: quant_concept
+description: Explore how women are transforming the financial sector in listed derivatives
+  and algorithmic trading paving the way for gender equality and innovation.
+title: Women in the Field of Listed Derivatives (Algo Trading)
 ---
 
 The financial sector has traditionally been a male-dominated field, characterized by significant gender disparities in opportunities and leadership roles. However, a wave of change is currently underway, with increasing momentum towards achieving gender equality. This shift is particularly evident in the areas of finance, listed derivatives, and algorithmic trading, where women are spearheading transformative movements to ensure equitable representation.
@@ -134,4 +136,3 @@ A unified effort, embracing both policy change and cultural shifts within organi
 3. **McKinsey & Company's 'Diversity Wins: How Inclusion Matters'**: This report by McKinsey provides a comprehensive analysis of the business case for diversity. It presents data-driven insights into how gender diversity influences financial performance, decision-making, and innovation within organizations, particularly in high-stakes environments like finance and trading.
 
 4. **Credit Suisse Research Institute's Gender 3000 Report**: The Gender 3000 report from Credit Suisse Research Institute delivers an empirical analysis of gender diversity across major global companies. It highlights the economic benefits of gender diversity, providing statistics and case studies that underscore the positive correlation between greater female representation in leadership roles and improved company performance.
-

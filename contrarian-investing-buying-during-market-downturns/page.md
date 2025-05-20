@@ -1,6 +1,8 @@
 ---
-title: "Contrarian Investing: Buying During Market Downturns (Algo Trading)"
-description: "Explore contrarian investing during market downturns and discover how combining it with algorithmic trading provides powerful strategies for savvy investors."
+category: trading_strategy
+description: Explore contrarian investing during market downturns and discover how
+  combining it with algorithmic trading provides powerful strategies for savvy investors.
+title: 'Contrarian Investing: Buying During Market Downturns (Algo Trading)'
 ---
 
 In the world of finance, market downturns can be daunting. However, these periods of uncertainty also present unique opportunities for investors willing to navigate through fear and negative sentiment. During such times, contrarian investing emerges as a powerful strategy that leverages market psychology to gain an edge when others shy away. This approach involves going against the prevailing market trends by identifying undervalued assets poised for recovery. The essence of contrarian investing is encapsulated in the famous adage by Warren Buffett: be "fearful when others are greedy, and greedy when others are fearful."

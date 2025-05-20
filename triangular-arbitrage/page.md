@@ -1,6 +1,14 @@
 ---
-title: "Triangular arbitrage (Algo Trading)"
-description: Triangular arbitrage in the Forex market involves exploiting exchange rate discrepancies among three currencies to secure a risk-free profit. By simultaneously trading three currency pairs, traders capitalize on inconsistencies in their cross-exchange rates. This advanced strategy requires swift execution, often with the aid of algorithms, due to the fleeting nature of such opportunities. Although transaction costs play a role, efficient markets adjust quickly, eliminating most profitable chances. Nonetheless, arbitrageurs contribute to market liquidity and efficiency by aligning currency prices.
+category: quant_concept
+description: Triangular arbitrage in the Forex market involves exploiting exchange
+  rate discrepancies among three currencies to secure a risk-free profit. By simultaneously
+  trading three currency pairs, traders capitalize on inconsistencies in their cross-exchange
+  rates. This advanced strategy requires swift execution, often with the aid of algorithms,
+  due to the fleeting nature of such opportunities. Although transaction costs play
+  a role, efficient markets adjust quickly, eliminating most profitable chances. Nonetheless,
+  arbitrageurs contribute to market liquidity and efficiency by aligning currency
+  prices.
+title: Triangular arbitrage (Algo Trading)
 ---
 
 Triangular arbitrage is a sophisticated yet essential concept in the foreign exchange (Forex) market, where traders exploit pricing discrepancies that exist among three different currencies. Fundamentally, it involves the simultaneous buying and selling of three currency pairs to capitalize on the differences in their exchange rates. This strategy is grounded in the principle that currencies should maintain consistent cross-exchange rates as determined by their respective pairs. When these rates deviate, it presents an arbitrage opportunity.

@@ -1,6 +1,12 @@
 ---
-title: "Recommended Books on Technical Analysis for Stock Trading (Algo Trading)"
-description: "Discover essential books on technical analysis and stock trading that offer invaluable insights into investment principles, stock trading tactics, technical analysis methodologies, and algorithmic trading strategies. Enhance your trading knowledge and skills with resources that cater to both beginners and experienced traders, guiding them through the complexities of the financial markets and empowering them with data-driven strategies and profound market insights."
+category: quant_concept
+description: Discover essential books on technical analysis and stock trading that
+  offer invaluable insights into investment principles, stock trading tactics, technical
+  analysis methodologies, and algorithmic trading strategies. Enhance your trading
+  knowledge and skills with resources that cater to both beginners and experienced
+  traders, guiding them through the complexities of the financial markets and empowering
+  them with data-driven strategies and profound market insights.
+title: Recommended Books on Technical Analysis for Stock Trading (Algo Trading)
 ---
 
 The journey to mastering stock trading and investment is paved with knowledge and strategy. Books offer invaluable insights into the world of finance, demystifying complex concepts and navigating market fluctuations. Over the years, the financial market has shown its complexity, influenced by economic, political, and social factors. To effectively maneuver through these fluctuations, a strong foundational understanding of market dynamics is essential. 

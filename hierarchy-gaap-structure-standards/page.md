@@ -1,6 +1,8 @@
 ---
-title: "Hierarchy of GAAP: Structure and Standards (Algo Trading)"
-description: "Explore the synergy between GAAP accounting standards and algorithmic trading to understand their impact on financial transparency and market dynamics."
+category: quant_concept
+description: Explore the synergy between GAAP accounting standards and algorithmic
+  trading to understand their impact on financial transparency and market dynamics.
+title: 'Hierarchy of GAAP: Structure and Standards (Algo Trading)'
 ---
 
 The intersection of accounting standards and financial reporting with algorithmic trading represents a formidable evolution in the financial industry. This evolution highlights the need for integrating regulatory frameworks with advanced trading technologies to ensure reliable financial processes. Understanding accounting frameworks such as Generally Accepted Accounting Principles (GAAP) is crucial, as these standards ensure transparency and consistency in financial documentation. They provide a systematic methodology for creating standardized financial reports, thereby bolstering investor confidence and enabling informed decision-making.

@@ -1,6 +1,8 @@
 ---
-title: "North Korean Won and Economy (Algo Trading)"
-description: "Explore the North Korean Won's role in a closed economy its challenges in international forex markets and the potential for algorithmic trading innovations."
+category: dataset
+description: Explore the North Korean Won's role in a closed economy its challenges
+  in international forex markets and the potential for algorithmic trading innovations.
+title: North Korean Won and Economy (Algo Trading)
 ---
 
 The North Korean Won, abbreviated as KPW, serves as the official currency of the Democratic People's Republic of Korea (DPRK). Characterized by its isolation from global financial markets, the KPW is emblematic of the broader economic mechanisms governing North Korea. The nature of the country's economic system, coupled with international sanctions, means that the KPW is one of the world's least convertible currencies. This lack of convertibility is a significant hurdle, as it restricts the currency's ability to function in the international forex market and limits the economic integration of North Korea with the global economy.

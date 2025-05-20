@@ -1,6 +1,8 @@
 ---
-title: "Comparative Differences Among Index Funds (Algo Trading)"
-description: "Explore the comparative differences between index funds and algorithmic trading with insights into their risk, returns, and management styles for investors."
+category: trading_strategy
+description: Explore the comparative differences between index funds and algorithmic
+  trading with insights into their risk, returns, and management styles for investors.
+title: Comparative Differences Among Index Funds (Algo Trading)
 ---
 
 Investment is a fundamental concept in finance, involving the allocation of resources, usually money, with the expectation of generating income or profit in the future. The vast landscape of investment opportunities necessitates the selection of an appropriate investment strategy tailored to an individual's financial goals, risk tolerance, and time horizon. Choosing the right strategy is paramount, as it influences the potential returns, risk exposure, and overall financial success of the investor.

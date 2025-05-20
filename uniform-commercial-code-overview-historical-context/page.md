@@ -1,6 +1,8 @@
 ---
-title: "Uniform Commercial Code: Overview and Historical Context (Algo Trading)"
-description: "Explore the intersection of the Uniform Commercial Code and algorithmic trading uncovering how commercial law adapts to tech-driven trading strategies."
+category: quant_concept
+description: Explore the intersection of the Uniform Commercial Code and algorithmic
+  trading uncovering how commercial law adapts to tech-driven trading strategies.
+title: 'Uniform Commercial Code: Overview and Historical Context (Algo Trading)'
 ---
 
 The field of commercial law is expansive and constantly adapting, driven largely by technological innovations. At the heart of this domain within the United States is the Uniform Commercial Code (UCC), an essential framework governing commercial transactions. Its structure ensures consistency and clarity across various transactions, facilitating ease of commerce. As we advance further into the 21st century, technology's role in commerce becomes increasingly pronounced. A key development in this area is algorithmic trading, where computer algorithms are employed to execute trading decisions at speeds and efficiencies unattainable by human traders alone.

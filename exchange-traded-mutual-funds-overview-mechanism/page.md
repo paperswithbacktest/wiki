@@ -1,6 +1,8 @@
 ---
-title: "Exchange-Traded Mutual Funds: Overview and Mechanism (Algo Trading)"
-description: "Explore the dynamics of Exchange-Traded Mutual Funds ETMFs and their innovative trade mechanisms Learn how algorithmic trading enhances ETMF efficiency"
+category: quant_concept
+description: Explore the dynamics of Exchange-Traded Mutual Funds ETMFs and their
+  innovative trade mechanisms Learn how algorithmic trading enhances ETMF efficiency
+title: 'Exchange-Traded Mutual Funds: Overview and Mechanism (Algo Trading)'
 ---
 
 In recent years, the financial industry has witnessed rapid advancements in investment vehicles, leading to innovative solutions designed to meet the evolving needs of investors. Among these innovations, Exchange-Traded Mutual Funds (ETMFs) have emerged as a significant development, effectively bridging the gap between traditional mutual funds and Exchange-Traded Funds (ETFs). ETMFs combine the structural elements of both mutual funds and ETFs, offering the potential for enhanced efficiency and flexibility.

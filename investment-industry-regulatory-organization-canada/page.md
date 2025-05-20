@@ -1,6 +1,9 @@
 ---
-title: "Investment Industry Regulatory Organization of Canada (Algo Trading)"
-description: "Explore the role of the Investment Industry Regulatory Organization of Canada in regulating algo trading and maintaining the integrity of Canada's financial markets."
+category: quant_concept
+description: Explore the role of the Investment Industry Regulatory Organization of
+  Canada in regulating algo trading and maintaining the integrity of Canada's financial
+  markets.
+title: Investment Industry Regulatory Organization of Canada (Algo Trading)
 ---
 
 The financial regulatory landscape in Canada is integral to maintaining market integrity and protecting investors. Central to this framework is the Investment Industry Regulatory Organization of Canada (IIROC), a national self-regulatory organization accountable for overseeing investment dealers and trading activities. IIROC's authority is grounded in Recognition Orders issued by provincial and territorial securities commissions, empowering it to set regulations, conduct compliance reviews, and enforce disciplinary actions against non-compliant firms and individuals.

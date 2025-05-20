@@ -1,6 +1,9 @@
 ---
-title: "Short Selling and Company Float (Algo Trading)"
-description: "Discover insights into short selling, company floats, and algorithmic trading in the stock market Learn how these key concepts influence investment strategies and market dynamics"
+category: quant_concept
+description: Discover insights into short selling, company floats, and algorithmic
+  trading in the stock market Learn how these key concepts influence investment strategies
+  and market dynamics
+title: Short Selling and Company Float (Algo Trading)
 ---
 
 The stock market is a pivotal component of the global financial system, enabling the buying and selling of securities such as stocks, bonds, and other financial instruments. It serves as a platform for companies to raise capital by offering ownership stakes to investors, while providing those investors opportunities to share in the growth and profits of the enterprises. The stock market is considered a barometer of economic health, influencing and reflecting societal trends and economic activities. Its significance lies in its ability to create wealth, allocate resources efficiently, and serve as a mechanism for economic growth and development.

@@ -1,6 +1,9 @@
 ---
-title: "Unrealized Losses and Their Mechanics (Algo Trading)"
-description: "Explore the mechanics of unrealized losses in algorithmic trading. Learn how they impact investment strategies, risk management, portfolio value, and tax planning."
+category: quant_concept
+description: Explore the mechanics of unrealized losses in algorithmic trading. Learn
+  how they impact investment strategies, risk management, portfolio value, and tax
+  planning.
+title: Unrealized Losses and Their Mechanics (Algo Trading)
 ---
 
 In today's dynamic financial markets, understanding investment losses, particularly unrealized losses, is crucial for both individual and institutional investors. Unrealized losses occur when the market value of an asset falls below its original purchase price, yet the asset has not been sold. They remain theoretical and are sometimes referred to as "paper losses" since they only become actual or realized losses when the asset is sold. This differentiation is vital for investment strategies and financial portfolio management, as it influences decision-making processes aimed at minimizing risk and maximizing returns.

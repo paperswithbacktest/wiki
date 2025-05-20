@@ -1,6 +1,9 @@
 ---
-title: "Historical Inflation Rates in the United States (Algo Trading)"
-description: "Explore the complex interplay of historical inflation rates and algorithmic trading in the U.S. to understand their impact on financial policies and market strategies."
+category: dataset
+description: Explore the complex interplay of historical inflation rates and algorithmic
+  trading in the U.S. to understand their impact on financial policies and market
+  strategies.
+title: Historical Inflation Rates in the United States (Algo Trading)
 ---
 
 The intricate relationship between economic rates, inflation, and algorithmic trading in U.S. history forms the backbone of financial analysis and policy-making. Understanding historical trends in these areas provides invaluable insights into future economic strategies and the development of more robust trading algorithms. This article explores the evolution of inflation rates in the U.S., the impact of economic policies, and the role of algorithmic trading in the financial ecosystem.
@@ -113,4 +116,3 @@ For those interested in a detailed exploration of inflation and trading, several
 5. **Online Courses and Lectures**: Numerous universities and platforms offer courses on economics, monetary policy, and algorithmic trading. These often include comprehensive modules on inflation's impact on economic stability and trading strategies. Platforms like Coursera and edX host lectures from prestigious institutions that cover these topics in detail.
 
 These resources provide foundational knowledge and advanced insights, enabling readers to better comprehend the dynamics of inflation and its role in the evolving landscape of algorithmic trading and economic policy development.
-

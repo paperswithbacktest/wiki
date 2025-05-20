@@ -1,6 +1,8 @@
 ---
-title: "Impact Investing: Balancing Social Good and Profit (Algo Trading)"
-description: "Explore the synergy of impact investing and algorithmic trading combining financial returns with social and environmental benefits for a sustainable future."
+category: trading_strategy
+description: Explore the synergy of impact investing and algorithmic trading combining
+  financial returns with social and environmental benefits for a sustainable future.
+title: 'Impact Investing: Balancing Social Good and Profit (Algo Trading)'
 ---
 
 Socially responsible investment (SRI) and impact investing are financial strategies that blend profit with purpose. Socially responsible investment is an investment strategy that considers both financial return and social/environmental good to bring about social change. Investors involved in SRI typically avoid industries or companies that they perceive as negative to society, such as those involved with alcohol, tobacco, or fossil fuels. Conversely, impact investing goes a step further by directly targeting investments toward companies, organizations, or funds with the intention to generate a measurable, beneficial social or environmental impact alongside a financial return. The key principles influencing impact investing include intentionality, where investors have a specific positive outcome in mind, and measurability, which involves tracking and reporting the social or environmental performance and progress of investments.

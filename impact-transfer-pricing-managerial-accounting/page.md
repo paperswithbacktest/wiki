@@ -1,6 +1,9 @@
 ---
-title: "Impact of Transfer Pricing on Managerial Accounting (Algo Trading)"
-description: "Explore the intricate relationship between transfer pricing, managerial accounting, and algorithmic trading to drive financial performance and regulatory compliance."
+category: quant_concept
+description: Explore the intricate relationship between transfer pricing, managerial
+  accounting, and algorithmic trading to drive financial performance and regulatory
+  compliance.
+title: Impact of Transfer Pricing on Managerial Accounting (Algo Trading)
 ---
 
 Understanding the interconnectedness of cost management, transfer pricing, managerial accounting, and algorithmic trading is essential in today’s global business environment. As businesses operate across diverse geographical and regulatory landscapes, these components collectively enhance financial performance and ensure regulatory compliance, which are crucial for the sustainability and growth of multinational corporations.

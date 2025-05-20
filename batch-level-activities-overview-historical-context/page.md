@@ -1,6 +1,8 @@
 ---
-title: "Batch-Level Activities: Overview and Historical Context (Algo Trading)"
-description: "Explore the synergy between Activity-Based Costing and algorithmic trading to enhance cost management, optimize resources, and drive strategic decision-making."
+category: quant_concept
+description: Explore the synergy between Activity-Based Costing and algorithmic trading
+  to enhance cost management, optimize resources, and drive strategic decision-making.
+title: 'Batch-Level Activities: Overview and Historical Context (Algo Trading)'
 ---
 
 Activity-based costing (ABC) is a sophisticated approach to cost accounting that offers a comprehensive understanding of the expenses linked to products and services. Unlike traditional costing methods, ABC assigns costs to activities based on actual resource consumption, which enhances accuracy and provides deeper insights into cost allocation. This article will explore how ABC intersects with batch-level activities and algorithmic trading, showcasing its potential for optimized cost management and superior decision-making.

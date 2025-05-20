@@ -1,7 +1,8 @@
 ---
-title: Checkpointing Strategies for Machine Learning Model Training
+category: quant_concept
 description: Machine learning checkpoints save model states during training to prevent
   progress loss and monitor performance effectively Discover more inside.
+title: Checkpointing Strategies for Machine Learning Model Training
 ---
 
 ![Image](images/1.png)

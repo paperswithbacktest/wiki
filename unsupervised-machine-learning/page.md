@@ -1,7 +1,8 @@
 ---
-title: Comprehensive Guide to Unsupervised Machine Learning Algorithms
+category: quant_concept
 description: Unsupervised machine learning uncovers hidden data patterns with clustering
   and PCA to simplify data and reveal insights Discover more inside
+title: Comprehensive Guide to Unsupervised Machine Learning Algorithms
 ---
 
 ![Image](images/1.png)

@@ -1,6 +1,8 @@
 ---
-title: "Walleye Capital (Algo Trading)"
-description: "Explore the forefront of algorithmic trading with Walleye Capital a leader in innovation and technology driving efficient financial market strategies and solutions."
+category: quant_concept
+description: Explore the forefront of algorithmic trading with Walleye Capital a leader
+  in innovation and technology driving efficient financial market strategies and solutions.
+title: Walleye Capital (Algo Trading)
 ---
 
 Walleye Capital is recognized as a leading firm in the domain of algorithmic trading, where cutting-edge technology and strategic innovation converge to optimize financial market participation. Algorithmic trading, a critical component of modern financial markets, involves the use of computer algorithms to automate trading processes. This methodology enhances the speed, efficiency, and accuracy of trades, allowing for rapid execution that far surpasses human capabilities. As financial markets become increasingly complex and globally connected, the need for advanced technological solutions has escalated, making algorithmic trading an indispensable tool for accessing liquidity and managing trading risks effectively.

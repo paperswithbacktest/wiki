@@ -1,6 +1,9 @@
 ---
-title: "Non-Traded Real Estate Investment Trust (Algo Trading)"
-description: "Explore the unique benefits of non-traded REITs in real estate investing, including reduced volatility and consistent income, empowered by algorithmic trading insights."
+category: trading_strategy
+description: Explore the unique benefits of non-traded REITs in real estate investing,
+  including reduced volatility and consistent income, empowered by algorithmic trading
+  insights.
+title: Non-Traded Real Estate Investment Trust (Algo Trading)
 ---
 
 Real Estate Investment Trusts (REITs) have established themselves as a popular vehicle for individuals eager to invest in real estate. While publicly traded REITs are widely recognized, non-traded REITs offer a distinct set of benefits that warrant closer examination. Typically, REITs enable investors to gain exposure to real estate markets without the need to directly purchase properties, thus simplifying the investment process and diversifying portfolios.

@@ -1,6 +1,9 @@
 ---
-title: "Discounting Working Capital in Net Present Value (Algo Trading)"
-description: "Explore the integration of NPV, working capital, and algorithmic trading to optimize investment strategies and improve financial decision-making in dynamic markets."
+category: quant_concept
+description: Explore the integration of NPV, working capital, and algorithmic trading
+  to optimize investment strategies and improve financial decision-making in dynamic
+  markets.
+title: Discounting Working Capital in Net Present Value (Algo Trading)
 ---
 
 In the ever-evolving world of finance, professionals employ numerous methodologies and tools to maximize investment returns and manage risks. Financial markets have grown increasingly complex, necessitating a keen understanding of various principles and techniques to navigate them effectively. Among these, discounting, Net Present Value (NPV), working capital, and algorithmic trading stand out as pivotal elements in modern investment strategies.

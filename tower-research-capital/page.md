@@ -1,6 +1,8 @@
 ---
-title: "Tower Research Capital (Algo Trading)"
-description: "Explore Tower Research Capital's rise in algorithmic trading since 1998 with innovative strategies focused on speed precision and advanced technology."
+category: quant_concept
+description: Explore Tower Research Capital's rise in algorithmic trading since 1998
+  with innovative strategies focused on speed precision and advanced technology.
+title: Tower Research Capital (Algo Trading)
 ---
 
 Tower Research Capital has established itself as a formidable entity in the domain of algorithmic trading, where it applies state-of-the-art strategies to navigate financial markets. Since its inception in 1998 by Mark Gorton, the firm has emerged as a leading global financial services provider specializing in algorithmic and quantitative trading. This article intends to explore Tower Research Capital's development, its unique approach to algorithmic trading, and the subsequent impact on financial markets.

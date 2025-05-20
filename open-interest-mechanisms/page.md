@@ -1,6 +1,8 @@
 ---
-title: "Open Interest and Its Mechanisms (Algo Trading)"
-description: "Explore how open interest insights enhance algorithmic trading strategies improving decision-making process and market predictability in financial markets."
+category: quant_concept
+description: Explore how open interest insights enhance algorithmic trading strategies
+  improving decision-making process and market predictability in financial markets.
+title: Open Interest and Its Mechanisms (Algo Trading)
 ---
 
 Financial markets are crucial components of the global economy, serving as platforms where individuals, institutions, and governments can trade financial securities, commodities, and other fungible assets. These markets facilitate the efficient allocation of resources, enable capital formation, and promote economic growth by providing a venue for buying and selling. They are characterized by various types, including equities, bonds, foreign exchange (forex), and commodities, each serving different purposes and attracting various participants. Financial markets are the backbone of the economic infrastructure, influencing economic stability, investment flows, and overall economic health.

@@ -1,6 +1,9 @@
 ---
-title: "Value Averaging and Its Application (Algo Trading)"
-description: "Explore the synergy of value averaging and algorithmic trading to enhance investment strategy efficiency Learn how automation optimizes returns and minimizes errors"
+category: trading_strategy
+description: Explore the synergy of value averaging and algorithmic trading to enhance
+  investment strategy efficiency Learn how automation optimizes returns and minimizes
+  errors
+title: Value Averaging and Its Application (Algo Trading)
 ---
 
 Value investing is a fundamental investment strategy where investors seek stocks that they believe are undervalued by the market. By purchasing these undervalued stocks, investors aim to build a robust investment portfolio that has the potential for long-term capital appreciation. The crux of value investing is the assessment of intrinsic value, which involves evaluating a company's fundamental characteristics, such as earnings, dividends, and growth potential, to ascertain their true worth as opposed to their market price. This method contrasts with growth investing, which focuses on companies expected to grow at an above-average rate.

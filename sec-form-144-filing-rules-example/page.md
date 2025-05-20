@@ -1,6 +1,9 @@
 ---
-title: "SEC Form 144: Filing Rules and Example (Algo Trading)"
-description: "Learn about SEC Form 144 filing rules for selling restricted securities and its impact on algorithmic trading to ensure regulatory compliance and market transparency."
+category: quant_concept
+description: Learn about SEC Form 144 filing rules for selling restricted securities
+  and its impact on algorithmic trading to ensure regulatory compliance and market
+  transparency.
+title: 'SEC Form 144: Filing Rules and Example (Algo Trading)'
 ---
 
 The world of securities trading is inherently complex, characterized by an intricate web of regulatory compliance requirements aimed at ensuring transparency and fairness in the financial markets. Among these regulations, SEC Form 144 plays a pivotal role for individuals and entities involved in selling restricted or control securities. SEC Form 144 is a notification filed with the U.S. Securities and Exchange Commission (SEC) by insiders of a company—such as directors, officers, or significant shareholders—who wish to sell securities that are not freely tradable, often due to holding restrictions imposed by the securities laws.

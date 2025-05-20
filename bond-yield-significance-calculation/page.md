@@ -1,6 +1,15 @@
 ---
-title: "Bond Yield: Significance and Calculation (Algo Trading)"
-description: "Discover the significance of bond yields and their calculation in optimizing investment strategies amid today's financial landscape. This article explores how bond yields serve as key indicators for fixed-income investments and the transformative role of algorithmic trading in enhancing efficiency and market precision. By examining various types of bond yields, such as coupon yield, current yield, and yield to maturity, alongside their calculations, readers gain insights into evaluating potential returns and risks. Whether you're a seasoned investor or new to investing, equip yourself with the knowledge to maximize financial gains by understanding the intricacies of modern investment strategies."
+category: quant_concept
+description: Discover the significance of bond yields and their calculation in optimizing
+  investment strategies amid today's financial landscape. This article explores how
+  bond yields serve as key indicators for fixed-income investments and the transformative
+  role of algorithmic trading in enhancing efficiency and market precision. By examining
+  various types of bond yields, such as coupon yield, current yield, and yield to
+  maturity, alongside their calculations, readers gain insights into evaluating potential
+  returns and risks. Whether you're a seasoned investor or new to investing, equip
+  yourself with the knowledge to maximize financial gains by understanding the intricacies
+  of modern investment strategies.
+title: 'Bond Yield: Significance and Calculation (Algo Trading)'
 ---
 
 Understanding the complex landscape of investment strategies can significantly enhance portfolio returns. In today's financial environment, three core components—bond yields, investment returns, and algorithmic trading—play a pivotal role in shaping effective investment strategies. Bond yields, representing the return an investor earns from holding bonds, serve as a crucial indicator of potential income from fixed-income securities. Investment returns, defined by the profit or loss from capital investments, are essential for assessing the efficacy of any investment strategy through methods such as absolute and risk-adjusted returns.

@@ -1,6 +1,10 @@
 ---
-title: "Trading Earnings (Algo Trading)"
-description: Discover the concept of Trading Earnings, its impact on markets, and strategies for maximizing profits in algorithmic trading based on corporate earnings announcements. Learn about pre- and post-earnings announcement drifts, and how quantitative traders exploit this opportunity using predictive models and data analysis.
+category: trading_strategy
+description: Discover the concept of Trading Earnings, its impact on markets, and
+  strategies for maximizing profits in algorithmic trading based on corporate earnings
+  announcements. Learn about pre- and post-earnings announcement drifts, and how quantitative
+  traders exploit this opportunity using predictive models and data analysis.
+title: Trading Earnings (Algo Trading)
 ---
 
 Algorithmic trading, commonly known as algo trading, involves the use of computer algorithms to execute trading orders based on pre-defined criteria. This technology-driven approach has revolutionized financial markets, offering traders and institutions the ability to process vast amounts of data and execute trades at speeds and frequencies that human traders cannot match. As a result, algo trading has gained immense popularity, becoming a dominant force in today's financial landscape.

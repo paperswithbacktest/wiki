@@ -1,6 +1,8 @@
 ---
-title: "Point-and-Figure Chart Usage in Trading (Algo Trading)"
-description: "Discover how Point-and-Figure charts enhance trading strategies by focusing solely on price movements. Explore their unique advantages in algorithmic trading."
+category: trading_strategy
+description: Discover how Point-and-Figure charts enhance trading strategies by focusing
+  solely on price movements. Explore their unique advantages in algorithmic trading.
+title: Point-and-Figure Chart Usage in Trading (Algo Trading)
 ---
 
 Point-and-Figure (P&F) charts are a distinctive form of technical analysis that focuses exclusively on price movements without considering time. Unlike conventional charting methods such as candlestick or bar charts, which display price action within specific time frames, P&F charts solely emphasize price changes. This approach allows traders to concentrate on significant price movements and trends, effectively filtering out the noise associated with time-bound fluctuations.

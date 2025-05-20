@@ -1,6 +1,9 @@
 ---
-title: "Downside Risk and Calculation Methods (Algo Trading)"
-description: "Explore downside risk and effective calculation methods in algorithmic trading to safeguard investments and enhance returns, focusing on managing potential losses."
+category: quant_concept
+description: Explore downside risk and effective calculation methods in algorithmic
+  trading to safeguard investments and enhance returns, focusing on managing potential
+  losses.
+title: Downside Risk and Calculation Methods (Algo Trading)
 ---
 
 Financial risk encompasses the various uncertainties and potential financial losses that investors and traders face in the financial markets. It is a critical factor in trading and investment, as improper management of risk can lead to significant financial losses. Financial risk can arise from fluctuations in market prices, interest rates, and foreign exchange rates, among other factors. Understanding and managing financial risk is vital to protect assets and achieve sustainable returns.

@@ -1,6 +1,9 @@
 ---
-title: "Restructuring Charges (Algo Trading)"
-description: "Explore how restructuring charges in algorithmic trading impact financial statements and investor strategies. Understand these charges for better financial insights."
+category: quant_concept
+description: Explore how restructuring charges in algorithmic trading impact financial
+  statements and investor strategies. Understand these charges for better financial
+  insights.
+title: Restructuring Charges (Algo Trading)
 ---
 
 In today's fast-paced business environment, companies face constant pressure to adapt and evolve to maintain their competitive edge. Business restructuring has emerged as a strategic initiative aimed at enhancing a company's operational efficiency, financial health, and market adaptability. This strategic maneuver can involve a wide range of activities, including reorganizing a company's operations, altering its structural framework, or realigning its financial resources. 

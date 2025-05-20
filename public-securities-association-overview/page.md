@@ -1,6 +1,9 @@
 ---
-title: "Public Securities Association Overview (Algo Trading)"
-description: "Discover the transformative impact of algorithmic trading and the legacy of the Public Securities Association in shaping modern financial strategies and prepayment models."
+category: quant_concept
+description: Discover the transformative impact of algorithmic trading and the legacy
+  of the Public Securities Association in shaping modern financial strategies and
+  prepayment models.
+title: Public Securities Association Overview (Algo Trading)
 ---
 
 Algorithmic trading, often referred to as 'algo trading', plays a critical role in modern financial markets. It represents a transformative departure from traditional human-led trading methods to sophisticated, automation-driven processes. This transition has been facilitated by significant technological advancements, allowing for enhanced speed, precision, and efficiency of trade execution.

@@ -1,6 +1,9 @@
 ---
-title: "Acquisition Cost in Business Accounting (Algo Trading)"
-description: "Explore acquisition costs in business accounting and algorithmic trading, examining their components, effects on financial statements, and strategies to optimize them."
+category: quant_concept
+description: Explore acquisition costs in business accounting and algorithmic trading,
+  examining their components, effects on financial statements, and strategies to optimize
+  them.
+title: Acquisition Cost in Business Accounting (Algo Trading)
 ---
 
 Understanding the cost of acquiring assets and services is crucial in both finance and business accounting. These costs, often referred to as acquisition costs, are comprehensive and encompass various elements such as the purchase price, transportation, installation, and applicable taxes. They represent the total expense incurred by a business or individual when obtaining an asset or service. Inaccurate estimation of these costs can lead to poor investment decisions and flawed financial reporting.

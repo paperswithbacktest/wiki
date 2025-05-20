@@ -1,6 +1,8 @@
 ---
-title: "Impact of War on the U.S. Stock Market (Algo Trading)"
-description: "Explore the impact of financial market tensions, including currency and trade wars, on the U.S. stock market and algorithmic trading strategies."
+category: quant_concept
+description: Explore the impact of financial market tensions, including currency and
+  trade wars, on the U.S. stock market and algorithmic trading strategies.
+title: Impact of War on the U.S. Stock Market (Algo Trading)
 ---
 
 Financial markets constitute a broad array of environments where buyers and sellers engage in the trade of financial securities, commodities, and other fungible assets at prices determined by supply and demand. These markets are central to the functioning of capitalist economies, enabling capital allocation, economic growth, and liquidity provision. Key components of financial markets include the stock market, bond market, commodities market, and derivatives market. 

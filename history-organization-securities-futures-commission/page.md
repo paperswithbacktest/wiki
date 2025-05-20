@@ -1,6 +1,9 @@
 ---
-title: "History and Organization of the Securities and Futures Commission (Algo Trading)"
-description: "Explore the pivotal role of the Securities and Futures Commission in regulating and enhancing the integrity of Hong Kong's financial markets through robust oversight."
+category: quant_concept
+description: Explore the pivotal role of the Securities and Futures Commission in
+  regulating and enhancing the integrity of Hong Kong's financial markets through
+  robust oversight.
+title: History and Organization of the Securities and Futures Commission (Algo Trading)
 ---
 
 The Securities and Futures Commission (SFC) serves as a crucial regulatory authority ensuring the integrity and stability of Hong Kong's securities and futures markets. Since its establishment, the SFC has been integral to fostering a fair, efficient, and transparent marketplace. Its regulations are tailored to confront both long-standing and emerging challenges, thereby safeguarding investor interests and upholding market integrity. In the face of rapid technological advancements, the SFC has placed a particular emphasis on managing algorithmic trading, recognizing its growing role in modern financial markets. This focus ensures that such trading practices are conducted within a robust regulatory framework that aligns with global standards and minimizes systemic risks.

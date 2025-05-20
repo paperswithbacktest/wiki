@@ -1,6 +1,8 @@
 ---
-title: "Tradable Commodities and Their Functionality (Algo Trading)"
-description: "Explore how commodities trading, powered by algorithmic technology, drives global market dynamics and investment strategies in today's interconnected economy."
+category: quant_concept
+description: Explore how commodities trading, powered by algorithmic technology, drives
+  global market dynamics and investment strategies in today's interconnected economy.
+title: Tradable Commodities and Their Functionality (Algo Trading)
 ---
 
 Commodities play a pivotal role in the global economy, serving as essential inputs for various industries and contributing significantly to economic growth and development. By definition, commodities are basic goods used in commerce that are interchangeable with other goods of the same type. They are generally classified into four main categories: energy, metals, agriculture, and livestock. Energy commodities include oil, natural gas, and coal, which are crucial for powering industries and households. Metals like gold, silver, and copper are vital for manufacturing and investment purposes. Agricultural commodities such as wheat, rice, and corn are fundamental for global food security, while livestock commodities cover products like cattle and wool.

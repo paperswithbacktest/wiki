@@ -1,6 +1,8 @@
 ---
-title: "Advantages and Disadvantages of Raising Minimum Wage (Algo Trading)"
-description: "Raising the minimum wage impacts economic equity and employment, while algorithmic trading influences market dynamics. Explore these complex economic interactions."
+category: quant_concept
+description: Raising the minimum wage impacts economic equity and employment, while
+  algorithmic trading influences market dynamics. Explore these complex economic interactions.
+title: Advantages and Disadvantages of Raising Minimum Wage (Algo Trading)
 ---
 
 Understanding the intricate dynamics of modern economies requires a multifaceted examination of various components that interact in complex ways. Among these, the labor market, minimum wage policies, and algorithmic trading stand out as crucial elements with a significant impact on economic landscapes. Each of these components plays a distinct role in shaping the financial ecosystems that underlie broader economic outcomes.

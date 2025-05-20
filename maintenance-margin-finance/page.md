@@ -1,6 +1,12 @@
 ---
-title: "Maintenance Margin in Finance (Algo Trading)"
-description: "Explore the critical concept of maintenance margin in finance, particularly in algorithmic trading. Understand how this essential mechanism helps manage leveraged positions, ensuring effective risk management and sustainable trading practices. Learn how maintenance margin differs from initial margin, its role in preventing margin calls, and how it protects both traders and brokers from excessive market volatility."
+category: quant_concept
+description: Explore the critical concept of maintenance margin in finance, particularly
+  in algorithmic trading. Understand how this essential mechanism helps manage leveraged
+  positions, ensuring effective risk management and sustainable trading practices.
+  Learn how maintenance margin differs from initial margin, its role in preventing
+  margin calls, and how it protects both traders and brokers from excessive market
+  volatility.
+title: Maintenance Margin in Finance (Algo Trading)
 ---
 
 Stock trading encompasses a broad spectrum of strategies and tools aimed at maximizing profits and managing potential losses. Among these tools, the concept of 'maintenance margin' plays a vital role, especially in leveraged trading scenarios. Leveraged trading allows traders to control larger positions with a relatively smaller amount of capital, intensifying both the potential gains and risks. Maintenance margin is the minimum equity amount that must be present in a margin account to keep positions open. 

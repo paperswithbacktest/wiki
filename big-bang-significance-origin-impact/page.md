@@ -1,6 +1,8 @@
 ---
-title: "Big Bang: Significance, Origin, and Impact (Algo Trading)"
-description: "Explore the parallels between the Big Bang theory in cosmology and the transformative impact of algo trading on financial markets through advanced analytics."
+category: quant_concept
+description: Explore the parallels between the Big Bang theory in cosmology and the
+  transformative impact of algo trading on financial markets through advanced analytics.
+title: 'Big Bang: Significance, Origin, and Impact (Algo Trading)'
 ---
 
 The universe is a complex and fascinating expanse filled with mysteries waiting to be unraveled. Cosmology, as a discipline, seeks to understand the universe in its entirety, encompassing its structure, origins, and potential destinies. Central to cosmological thought is the Big Bang theory, which provides a comprehensive explanation for the inception of our universe. This paradigm suggests that the universe expanded from a singularly small, hot, and dense initial state, a concept that transformed our understanding of cosmological evolution.

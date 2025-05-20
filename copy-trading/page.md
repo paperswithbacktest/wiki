@@ -1,6 +1,8 @@
 ---
-title: "Copy trading (Algo Trading)"
-description: "Explore how copy trading and algorithmic trading redefine market participation enabling both novice and experienced traders to capitalize on expert strategies."
+category: quant_concept
+description: Explore how copy trading and algorithmic trading redefine market participation
+  enabling both novice and experienced traders to capitalize on expert strategies.
+title: Copy trading (Algo Trading)
 ---
 
 Copy trading and algorithmic trading have significantly redefined individual participation in financial markets by reducing the need for extensive experience traditionally associated with trading. These contemporary techniques have democratized market access, particularly benefiting novice investors. This article aims to explore the intricate world of copy trading, sometimes equated with algorithmic trading, shedding light on how it diverges from classic trading approaches and the advantages it presents to both beginners and seasoned traders.

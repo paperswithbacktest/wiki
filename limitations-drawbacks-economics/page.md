@@ -1,6 +1,9 @@
 ---
-title: "Limitations and Drawbacks of Economics (Algo Trading)"
-description: "Explore the limitations of economics in the age of algorithmic trading challenging traditional theories and highlighting the need for updated models and policies."
+category: quant_concept
+description: Explore the limitations of economics in the age of algorithmic trading
+  challenging traditional theories and highlighting the need for updated models and
+  policies.
+title: Limitations and Drawbacks of Economics (Algo Trading)
 ---
 
 Economics, traditionally viewed as a cornerstone of understanding how societies allocate resources, has increasingly come under intense scrutiny. Critics have noted that while the field offers valuable insights, it is not without significant limitations. Central to these criticisms is the foundational assumption of rational behavior among economic agents, which often diverges from real-world behavior. This discrepancy has been magnified by recent developments in financial markets, notably algorithmic trading—a technological advancement that employs complex algorithms to execute trades at astonishing speeds and volumes.
@@ -70,4 +73,3 @@ Furthermore, the emphasis on interdisciplinary collaboration will play a pivotal
 - Additional academic literature on behavioral economics and algorithmic trading provides in-depth analysis and empirical studies on integrating psychological aspects into economic models. These works emphasize the necessity of adapting economic theories to account for technological advancements, especially in the context of high-frequency trading environments. Key contributors in this field include Richard H. Thaler and Daniel Kahneman, whose works on behavioral economics have significantly influenced contemporary economic thought.
 
 These references and readings are essential for anyone looking to understand the evolving landscape of economics, especially in light of technological advancements like algorithmic trading.
-

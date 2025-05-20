@@ -1,6 +1,9 @@
 ---
-title: "Common Stock Equivalent (Algo Trading)"
-description: "Explore the role of common stock equivalents in algorithmic trading and their impact on trading efficiency. Learn how these instruments enhance algo-trading strategies."
+category: quant_concept
+description: Explore the role of common stock equivalents in algorithmic trading and
+  their impact on trading efficiency. Learn how these instruments enhance algo-trading
+  strategies.
+title: Common Stock Equivalent (Algo Trading)
 ---
 
 In today's fast-paced financial markets, the advancement of technology has led to the rise of algorithmic trading, transforming the way trades are executed, with unparalleled speed and precision. This form of trading relies on sophisticated computer algorithms that can process a vast amount of data and execute trades at microsecond intervals, outperforming traditional manual trading methods. At the heart of this technological evolution lies the concept of 'stock equivalent common stock', a critical component in the algorithmic trading landscape.

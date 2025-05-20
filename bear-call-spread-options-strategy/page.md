@@ -1,6 +1,12 @@
 ---
-title: "Bear Call Spread Options Strategy (Algo Trading)"
-description: "Explore the bear call spread options strategy, a conservative trading approach ideal for markets anticipating modest declines. This article offers a comprehensive guide, detailing its mechanics, optimal scenarios, risk management, and integration into algo trading. Learn how to balance potential profits with limited risk exposure, making it an effective tool for traders aiming to capitalize on minimal bearish market trends while maintaining a controlled investment strategy."
+category: trading_strategy
+description: Explore the bear call spread options strategy, a conservative trading
+  approach ideal for markets anticipating modest declines. This article offers a comprehensive
+  guide, detailing its mechanics, optimal scenarios, risk management, and integration
+  into algo trading. Learn how to balance potential profits with limited risk exposure,
+  making it an effective tool for traders aiming to capitalize on minimal bearish
+  market trends while maintaining a controlled investment strategy.
+title: Bear Call Spread Options Strategy (Algo Trading)
 ---
 
 The bear call spread is a strategic tool within the options trading landscape favored by traders who anticipate a decline in the price of an underlying asset. Unlike more aggressive strategies that may entail significant risks, the bear call spread is characterized by its limited risk and reward profile, making it a prudent choice for those seeking to manage exposure in uncertain market conditions. 

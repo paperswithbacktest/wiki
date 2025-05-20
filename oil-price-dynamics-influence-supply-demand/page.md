@@ -1,6 +1,9 @@
 ---
-title: "Oil Price Dynamics: Influence of Supply and Demand (Algo Trading)"
-description: "Explore the intricate dynamics of oil pricing impacted by supply and demand along with algorithmic trading offering insights crucial for navigating global markets."
+category: quant_concept
+description: Explore the intricate dynamics of oil pricing impacted by supply and
+  demand along with algorithmic trading offering insights crucial for navigating global
+  markets.
+title: 'Oil Price Dynamics: Influence of Supply and Demand (Algo Trading)'
 ---
 
 The global oil market holds significant influence over the world economy, primarily because of its extensive use in various industries and its critical role in energy production. Oil is a fundamental resource affecting everything from transportation and manufacturing to domestic energy consumption. As such, its pricing dynamics have far-reaching implications, impacting national economies and global trade patterns.

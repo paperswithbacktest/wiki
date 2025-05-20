@@ -1,6 +1,8 @@
 ---
-title: "Causes of the 2008 Financial Crisis (Algo Trading)"
-description: "Explore the multifaceted causes of the 2008 financial crisis focusing on economic bubbles and algorithmic trading's role in market volatility."
+category: quant_concept
+description: Explore the multifaceted causes of the 2008 financial crisis focusing
+  on economic bubbles and algorithmic trading's role in market volatility.
+title: Causes of the 2008 Financial Crisis (Algo Trading)
 ---
 
 The 2008 financial crisis stands as a significant episode in modern economic history, marking a period of extreme instability with long-lasting effects on global markets and economies. This crisis, often referred to as the Great Recession, unfolded due to a complex amalgamation of factors, including the bursting of major economic bubbles and the extensive utilization of algorithmic trading. An economic bubble occurs when the prices of assets rise significantly above their fundamental value, driven by speculative demand—a phenomenon that was observed in the housing market leading up to the financial collapse. The rapid price inflation in the housing sector eventually gave way to a sharp decline, setting off a chain reaction across financial systems worldwide.

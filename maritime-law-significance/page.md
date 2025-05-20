@@ -1,6 +1,8 @@
 ---
-title: "Maritime Law and Its Significance (Algo Trading)"
-description: "Explore the significance of maritime law and its impact on algorithmic trading in the shipping industry. Understand legal frameworks, challenges, and innovations."
+category: quant_concept
+description: Explore the significance of maritime law and its impact on algorithmic
+  trading in the shipping industry. Understand legal frameworks, challenges, and innovations.
+title: Maritime Law and Its Significance (Algo Trading)
 ---
 
 Admiralty law, frequently referred to as maritime law, is an essential framework that regulates activities on the seas and navigable waters. As global commerce intensifies, these regulations help maintain order and resolve disputes in the maritime industry. With the advent of algorithmic trading in the shipping and transportation sectors, it becomes increasingly crucial to understand the convergence of admiralty law and technology.

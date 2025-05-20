@@ -1,6 +1,8 @@
 ---
-title: "Short Selling Amazon Stock (Algo Trading)"
-description: "Explore short selling and algorithmic trading strategies on Amazon stock for potential profits in volatile markets with our comprehensive investment guide."
+category: trading_strategy
+description: Explore short selling and algorithmic trading strategies on Amazon stock
+  for potential profits in volatile markets with our comprehensive investment guide.
+title: Short Selling Amazon Stock (Algo Trading)
 ---
 
 In the ever-evolving world of stock trading, Amazon stock stands out as a focal point for investors and traders. Known for its significant influence in the stock market, Amazon has maintained its position as a leading tech giant with a robust business model that draws the attention of market participants globally. This prominence is partly due to the company’s continuous innovation and expansion in various sectors, making its shares an attractive investment option.

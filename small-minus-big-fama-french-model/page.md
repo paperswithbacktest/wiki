@@ -1,6 +1,8 @@
 ---
-title: "Small Minus Big in Fama-French Model (Algo Trading)"
-description: "Explore the SMB factor in the Fama-French Model for algorithmic trading to enhance strategies by targeting small-cap stocks with higher return potential."
+category: trading_strategy
+description: Explore the SMB factor in the Fama-French Model for algorithmic trading
+  to enhance strategies by targeting small-cap stocks with higher return potential.
+title: Small Minus Big in Fama-French Model (Algo Trading)
 ---
 
 The landscape of trading has transformed extensively with the emergence of algorithmic trading, providing traders with sophisticated tools designed to optimize portfolio performance. These tools rely heavily on quantitative models to drive trading decisions, among which the Fama-French Three-Factor Model stands out for its efficacy in enhancing trading strategies. Developed by economists Eugene Fama and Kenneth French, this model introduces three critical factors that significantly influence stock returns, notably expanding on the traditional Capital Asset Pricing Model (CAPM).
@@ -199,4 +201,3 @@ Ongoing research and continuous refinement of the model are fundamental to unloc
 - Python for Finance: Mastering Data-Driven Finance by Yves Hilpisch. This book offers practical guidance on using Python for financial analytics, including data manipulation, statistical modeling, and backtesting strategies. It is an invaluable resource for traders seeking to implement quantitative finance approaches in Python.
 
 - Quantitative Value: A Practitioner's Guide to Automating Intelligent Investment and Eliminating Behavioral Errors by Wesley R. Gray and Tobias E. Carlisle. This guide focuses on quantitative value investing techniques, emphasizing the role of automation and systematization in eliminating human biases. The book is essential for those interested in quantifying investment strategies while dealing with behavioral finance issues.
-

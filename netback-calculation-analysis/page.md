@@ -1,6 +1,9 @@
 ---
-title: "Netback Calculation and Analysis (Algo Trading)"
-description: "Explore the role of netback calculations and algorithmic trading in the oil and gas industry Discover how these strategies optimize profitability and trading decisions."
+category: quant_concept
+description: Explore the role of netback calculations and algorithmic trading in the
+  oil and gas industry Discover how these strategies optimize profitability and trading
+  decisions.
+title: Netback Calculation and Analysis (Algo Trading)
 ---
 
 The oil and gas industry remains a pivotal pillar in global energy supply, characterized by its substantial data handling and intricate computational needs. Over the years, pricing strategies within this sector have seen considerable evolution, driven largely by technological advancements. These developments have significantly influenced the integration of netback calculations and algorithmic trading into the industry's pricing strategies.

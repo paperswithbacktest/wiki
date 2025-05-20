@@ -1,6 +1,9 @@
 ---
-title: "World Economic Outlook with Examples (Algo Trading)"
-description: "Explore the intricate global economic outlook and the impact of factors like trade dynamics and algorithmic trading. Discover challenges and opportunities ahead."
+category: quant_concept
+description: Explore the intricate global economic outlook and the impact of factors
+  like trade dynamics and algorithmic trading. Discover challenges and opportunities
+  ahead.
+title: World Economic Outlook with Examples (Algo Trading)
 ---
 
 The global economy functions as an intricate tapestry of markets and governmental policies, influencing the economic frameworks of countries across the globe. This intricate system is shaped by the ebbs and flows of international trade and finance, making it imperative for stakeholders such as policymakers, investors, and businesses to closely monitor and understand the global economic outlook. In the face of rapid changes and complexities, grasping the dynamics of the world economy is more vital than ever.

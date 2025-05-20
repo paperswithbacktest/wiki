@@ -1,6 +1,9 @@
 ---
-title: "SEC Form 25: Purpose and Considerations (Algo Trading)"
-description: "Understanding SEC Form 25 and its implications is crucial for businesses navigating delisting decisions and leveraging algo trading in a dynamic financial environment."
+category: quant_concept
+description: Understanding SEC Form 25 and its implications is crucial for businesses
+  navigating delisting decisions and leveraging algo trading in a dynamic financial
+  environment.
+title: 'SEC Form 25: Purpose and Considerations (Algo Trading)'
 ---
 
 The financial landscape is constantly evolving, and navigating its complexities requires an understanding of various regulations and processes. Among these, SEC Form 25 plays a vital role in the delisting and deregistration processes of public companies from stock exchanges. Delisting refers to the removal of a company's securities from a stock exchange, fundamentally impacting a company's public trading status. Deregistration follows delisting, signifying the cessation of mandatory financial reporting to the Securities and Exchange Commission (SEC) for companies that meet specific criteria.

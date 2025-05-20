@@ -1,6 +1,8 @@
 ---
-title: "Efficiency Principle in Economics (Algo Trading)"
-description: "Discover how economic efficiency drives algorithmic trading by optimizing resource use reducing costs and enhancing decision-making through complex algorithms."
+category: quant_concept
+description: Discover how economic efficiency drives algorithmic trading by optimizing
+  resource use reducing costs and enhancing decision-making through complex algorithms.
+title: Efficiency Principle in Economics (Algo Trading)
 ---
 
 The modern economic landscape is dominated by the quest for efficiency, a pursuit that underpins the strategies of businesses and governments worldwide. Economic efficiency holds a crucial position as it strives to maximize outputs while minimizing inputs, ensuring optimal use of resources. It is a principle that resonates across various sectors, with algorithmic trading emerging as a significant area where economic efficiency is both essential and critically examined.

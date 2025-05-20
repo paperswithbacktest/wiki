@@ -1,6 +1,8 @@
 ---
-title: "Money Manager: Roles, Responsibilities, and Compensation (Algo Trading)"
-description: "Explore the roles and responsibilities of money managers and delve into the world of algo trading, focusing on their impact on modern financial strategies."
+category: trading_strategy
+description: Explore the roles and responsibilities of money managers and delve into
+  the world of algo trading, focusing on their impact on modern financial strategies.
+title: 'Money Manager: Roles, Responsibilities, and Compensation (Algo Trading)'
 ---
 
 The world of finance is evolving rapidly with the integration of technological advancements, and managing investments efficiently has become crucial for both individuals and institutions. As global financial markets become increasingly complex, financial management, investment strategies, and the role of money managers are at the forefront of this transformation. These elements are foundational to ensuring that both personal and institutional finances are managed to maximize returns and minimize risks.

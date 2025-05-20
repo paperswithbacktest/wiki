@@ -1,6 +1,9 @@
 ---
-title: "Consumption Function: Formula, Assumptions, Implications (Algo Trading)"
-description: "Explore the relationship between the consumption function, economic assumptions, and algorithmic trading, and their implications for economic growth, stability, and market efficiency."
+category: quant_concept
+description: Explore the relationship between the consumption function, economic assumptions,
+  and algorithmic trading, and their implications for economic growth, stability,
+  and market efficiency.
+title: 'Consumption Function: Formula, Assumptions, Implications (Algo Trading)'
 ---
 
 Understanding the intricate relationships within an economy is crucial for economists, policymakers, and investors. These relationships dictate how resources are allocated, how markets respond to various stimuli, and in turn, how strategies are formulated to steer economic growth and stability. This article explores key concepts such as economic assumptions, economic formulas, the consumption function, and algorithmic trading. Each of these components plays a pivotal role in shaping the landscape of modern economics.

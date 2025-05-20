@@ -1,6 +1,9 @@
 ---
-title: "Historical Record Temperature Low (Algo Trading)"
-description: "Explore the impact of record low temperatures on algorithmic trading and discover how integrating weather data offers fresh insights and strategic advantages for traders."
+category: trading_strategy
+description: Explore the impact of record low temperatures on algorithmic trading
+  and discover how integrating weather data offers fresh insights and strategic advantages
+  for traders.
+title: Historical Record Temperature Low (Algo Trading)
 ---
 
 In recent years, the increasing occurrence of climatic changes has exerted considerable influence across various sectors, with financial trading being no exception. The integration of weather data into trading strategies has emerged as a groundbreaking approach, particularly in an era marked by unprecedented climatic phenomena, including record low temperatures. This article aims to examine the profound effects that such climatic conditions have on algorithmic trading, thereby providing traders with fresh insights and opportunities for strategy enhancement.

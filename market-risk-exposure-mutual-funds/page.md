@@ -1,6 +1,9 @@
 ---
-title: "Market Risk Exposure of Mutual Funds (Algo Trading)"
-description: "Explore the dynamics of mutual funds market risk exposure and algorithmic trading Learn about strategies for managing investment risk in the evolving financial landscape"
+category: trading_strategy
+description: Explore the dynamics of mutual funds market risk exposure and algorithmic
+  trading Learn about strategies for managing investment risk in the evolving financial
+  landscape
+title: Market Risk Exposure of Mutual Funds (Algo Trading)
 ---
 
 In recent years, the financial landscape has undergone significant transformation, driven by technological advancements and the emergence of innovative investment strategies. Among the key elements shaping this new landscape are mutual funds, market risks, and algorithmic trading. Each plays a crucial role in modern investment planning, offering different approaches and tools for managing assets and assessing risk.
@@ -170,4 +173,3 @@ In this ever-evolving financial environment, the synergy between human insight a
     - Analyzes performance persistence in hedge funds, offering insights into algorithmic strategies over multiple periods.
 
 These resources provide comprehensive information on mutual fund investments, algorithmic trading, and the associated market risks, suitable for both academic and practical applications.
-

@@ -1,6 +1,8 @@
 ---
-title: "USD/CHF: Overview, Functionality, and Recent Developments (Algo Trading)"
-description: "Explore the dynamics of trading the USD/CHF pair using algorithmic strategies to leverage forex market analysis and make informed trading decisions."
+category: trading_strategy
+description: Explore the dynamics of trading the USD/CHF pair using algorithmic strategies
+  to leverage forex market analysis and make informed trading decisions.
+title: 'USD/CHF: Overview, Functionality, and Recent Developments (Algo Trading)'
 ---
 
 In the world of forex trading, currency pairs represent a core component that traders routinely engage with. Among the array of available pairs, the USD/CHF pairing is distinguished by its distinct characteristics. The USD/CHF pair encapsulates the exchange rate between the U.S. dollar and the Swiss franc, and it has earned a reputation for its stability and appeal as a safe-haven currency pair. 

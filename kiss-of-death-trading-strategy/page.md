@@ -1,6 +1,14 @@
 ---
-title: "Kiss of Death Trading Strategy Explained (Algo Trading)"
-description: "Dive into the complexities of the Kiss of Death trading strategy: a powerful yet rare signal associated with market downturns and economic recessions. Learn about its role in algorithmic trading and how it relates to significant historical market crashes. Unpack the setup involving the 21-day exponential moving average and discover strategies for effective integration within trading algorithms. This comprehensive guide offers insights into backtesting the Kiss of Death's effectiveness and explores how traders can manage risks and enhance trading decisions in an unpredictable market."
+category: trading_strategy
+description: 'Dive into the complexities of the Kiss of Death trading strategy: a
+  powerful yet rare signal associated with market downturns and economic recessions.
+  Learn about its role in algorithmic trading and how it relates to significant historical
+  market crashes. Unpack the setup involving the 21-day exponential moving average
+  and discover strategies for effective integration within trading algorithms. This
+  comprehensive guide offers insights into backtesting the Kiss of Death''s effectiveness
+  and explores how traders can manage risks and enhance trading decisions in an unpredictable
+  market.'
+title: Kiss of Death Trading Strategy Explained (Algo Trading)
 ---
 
 The stock market, with its inherently unpredictable dynamics, presents a formidable challenge for traders. This unpredictability is particularly pronounced for those who depend on algorithmic trading strategies, which are built to respond to market patterns and signals. Among the various indicators that traders and analysts monitor is the ominously named "Kiss of Death." This signal is recognized for its historical association with significant downturns in the market, having preceded notable economic recessions.
@@ -227,4 +235,4 @@ To effectively implement the Kiss of Death strategy, a diligent combination of h
 
 [5]: ["Quantitative Trading: How to Build Your Own Algorithmic Trading Business"](https://books.google.com/books/about/Quantitative_Trading.html?id=j70yEAAAQBAJ) by Ernest P. Chan. 
 
-[6]: Wilmott, P. (2006). ["Paul Wilmott Introduces Quantitative Finance"](https://www.amazon.com/Paul-Wilmott-Introduces-Quantitative-Finance/dp/0470319585). John Wiley & Sons. 
+[6]: Wilmott, P. (2006). ["Paul Wilmott Introduces Quantitative Finance"](https://www.amazon.com/Paul-Wilmott-Introduces-Quantitative-Finance/dp/0470319585). John Wiley & Sons.

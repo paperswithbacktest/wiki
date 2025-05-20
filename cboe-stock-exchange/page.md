@@ -1,6 +1,8 @@
 ---
-title: "CBOE Stock Exchange (Algo Trading)"
-description: "Discover the impact and legacy of the CBOE Stock Exchange, a pioneer in electronic trading since 2007, shaping modern algorithmic trading strategies."
+category: quant_concept
+description: Discover the impact and legacy of the CBOE Stock Exchange, a pioneer
+  in electronic trading since 2007, shaping modern algorithmic trading strategies.
+title: CBOE Stock Exchange (Algo Trading)
 ---
 
 The CBOE Stock Exchange (CBSX) has played a significant role in the evolution of electronic trading platforms since its inception in 2007. As one of the pioneering entities in providing a fully electronic environment for trading both stocks and options, CBSX was designed to maximize efficiency and speed, which are crucial for modern trading practices. This article will explore the creation, operational strategies, and the ultimate closure of CBSX, providing a comprehensive overview of its impact on the market.

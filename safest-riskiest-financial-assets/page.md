@@ -1,6 +1,9 @@
 ---
-title: "Safest and Riskiest Financial Assets (Algo Trading)"
-description: "Explore the relationship between financial assets and algo trading to optimize returns while managing risk. Key insights on asset safety, trading strategies, and market dynamics."
+category: trading_strategy
+description: Explore the relationship between financial assets and algo trading to
+  optimize returns while managing risk. Key insights on asset safety, trading strategies,
+  and market dynamics.
+title: Safest and Riskiest Financial Assets (Algo Trading)
 ---
 
 Understanding financial assets is crucial for any investor seeking to make informed decisions. Financial assets, such as stocks, bonds, mutual funds, and exchange-traded funds (ETFs), form the backbone of investment strategies. These intangible assets represent ownership claims and carry varying degrees of risk and return, influencing how portfolios are constructed and managed.

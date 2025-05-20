@@ -1,6 +1,8 @@
 ---
-title: "Leading Investment Fund Families (Algo Trading)"
-description: "Explore the pivotal role of investment fund families in portfolio management and the evolution of algorithmic trading for optimized financial strategies."
+category: quant_concept
+description: Explore the pivotal role of investment fund families in portfolio management
+  and the evolution of algorithmic trading for optimized financial strategies.
+title: Leading Investment Fund Families (Algo Trading)
 ---
 
 The investment landscape comprises a vast array of options, each offering unique advantages and risks. Among these, fund families represent a noteworthy concept, playing a pivotal role in the structuring and management of investment portfolios. This article aims to examine the role and significance of fund families within the broader financial ecosystem, their connections with financial institutions, the variety of investment funds they oversee, and their adaptation to the rise of algorithmic trading technologies.

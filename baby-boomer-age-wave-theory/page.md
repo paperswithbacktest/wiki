@@ -1,6 +1,8 @@
 ---
-title: "Baby Boomer Age Wave Theory (Algo Trading)"
-description: "Explore how Baby Boomer trends Age Wave theory and algorithmic trading intersect offering unique insights into economy shifts and investment strategies."
+category: quant_concept
+description: Explore how Baby Boomer trends Age Wave theory and algorithmic trading
+  intersect offering unique insights into economy shifts and investment strategies.
+title: Baby Boomer Age Wave Theory (Algo Trading)
 ---
 
 The intersection of Baby Boomer demographic trends, Age Wave theory, and algorithmic trading is a fascinating convergence of socio-economic forces and technological innovation that provides critical insights into the current and future trajectories of global economies. Each element, on its own, presents significant influence on economic patterns, but their collective impact offers a nuanced understanding of market dynamics and investment strategies. 

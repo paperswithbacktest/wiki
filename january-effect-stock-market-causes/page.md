@@ -1,6 +1,8 @@
 ---
-title: "January Effect in the Stock Market and Its Causes (Algo Trading)"
-description: "Explore the fascinating January Effect in the stock market where seasonal trends impact small-cap stocks each January and learn about its causes and implications."
+category: quant_concept
+description: Explore the fascinating January Effect in the stock market where seasonal
+  trends impact small-cap stocks each January and learn about its causes and implications.
+title: January Effect in the Stock Market and Its Causes (Algo Trading)
 ---
 
 The stock market is a complex and dynamic system influenced by a multitude of factors, from economic indicators to investor sentiment. Among these influences are market trends and seasonal effects, which can have a significant impact on stock prices. One such phenomenon is the January Effect, a seasonal pattern where stock prices, particularly those of small-cap stocks, historically show an increase during the month of January. First observed in the mid-20th century, the January Effect has been a topic of both interest and debate among investors and financial analysts.

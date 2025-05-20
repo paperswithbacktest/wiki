@@ -1,6 +1,9 @@
 ---
-title: "Man Group PLC (Algo Trading)"
-description: "Discover Man Group's evolution into a global investment leader known for hedge fund expertise and pioneering algorithmic trading. Explore its innovative strategies."
+category: quant_concept
+description: Discover Man Group's evolution into a global investment leader known
+  for hedge fund expertise and pioneering algorithmic trading. Explore its innovative
+  strategies.
+title: Man Group PLC (Algo Trading)
 ---
 
 Man Group is a significant entity in financial services, widely recognized for its expertise in hedge fund operations and innovation in algorithmic trading. Established in 1783 and currently headquartered in London, UK, Man Group has significantly expanded its operations worldwide and now employs over 1,800 professionals across the globe. The company's extensive history is marked by a transformative journey from its origins in the trade of sugar to becoming a leader in financial service innovations. 

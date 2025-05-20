@@ -1,6 +1,12 @@
 ---
-title: "Frictional and Structural Unemployment Differences (Algo Trading)"
-description: "Explore the economic impact of frictional and structural unemployment in this insightful article. Understand how technological advancements like algorithmic trading influence these unemployment types and reshape financial markets. Learn about the dynamics of labor markets and strategies to mitigate unemployment through education and retraining programs. Discover how fostering an adaptive workforce can sustain economic resilience amidst evolving employment landscapes."
+category: quant_concept
+description: Explore the economic impact of frictional and structural unemployment
+  in this insightful article. Understand how technological advancements like algorithmic
+  trading influence these unemployment types and reshape financial markets. Learn
+  about the dynamics of labor markets and strategies to mitigate unemployment through
+  education and retraining programs. Discover how fostering an adaptive workforce
+  can sustain economic resilience amidst evolving employment landscapes.
+title: Frictional and Structural Unemployment Differences (Algo Trading)
 ---
 
 In this article, we will examine the differences between structural and frictional unemployment, focusing on their economic impact. Structural unemployment arises from significant shifts in the economy, often due to technological advancements or globalization that alter the demand for specific skills. Conversely, frictional unemployment results from short-term transitions as individuals move between jobs or enter the workforce, and is typically voluntary.

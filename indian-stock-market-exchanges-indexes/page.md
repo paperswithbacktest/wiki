@@ -1,6 +1,8 @@
 ---
-title: "Indian Stock Market: Exchanges and Indexes Overview (Algo Trading)"
-description: "Explore the Indian stock market's exchanges and indexes with a focus on algorithmic trading. Discover how technology shapes trading and investment strategies."
+category: quant_concept
+description: Explore the Indian stock market's exchanges and indexes with a focus
+  on algorithmic trading. Discover how technology shapes trading and investment strategies.
+title: 'Indian Stock Market: Exchanges and Indexes Overview (Algo Trading)'
 ---
 
 The Indian stock market is a cornerstone of the country's financial system, offering a platform for corporations to raise capital and investors to participate in economic growth. It comprises several stock exchanges, the most prominent being the National Stock Exchange (NSE) and the Bombay Stock Exchange (BSE). These exchanges facilitate the buying and selling of stocks, bonds, and other financial instruments. Traditionally, trading activities were conducted manually, but technological advancements have transformed the landscape into a highly automated environment.
@@ -119,5 +121,4 @@ Thus, as the Indian stock market advances, staying abreast of developments and p
 
 [6]: Deboeck, G. J. (1994). ["Trading on the Edge: Neural, Genetic, and Fuzzy Systems for Chaotic Financial Markets."](https://dl.acm.org/doi/book/10.5555/528266) Wiley. 
 
-[7]: Patel, I., & Deshpande, D. (2018). "Algorithmic Trading in India: An Empirical Study." International Journal of Trade, Economics and Finance, 9(3). 
-
+[7]: Patel, I., & Deshpande, D. (2018). "Algorithmic Trading in India: An Empirical Study." International Journal of Trade, Economics and Finance, 9(3).

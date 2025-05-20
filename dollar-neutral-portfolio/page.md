@@ -1,6 +1,14 @@
 ---
-title: "Dollar-neutral portfolio (Algo Trading)"
-description: Explore the intricacies of dollar-neutral strategies in algorithmic trading designed to mitigate market risk by balancing long and short positions to negate broader market movements. By focusing on isolating alpha independent of market direction this approach becomes appealing amid volatility and economic uncertainty highlighting its growing relevance in the fast-paced trading world. Dive into how algorithmic strategies leverage technology to achieve precision in executing balanced investment portfolios enhancing their capability to maintain stability and optimize returns regardless of market conditions.
+category: trading_strategy
+description: Explore the intricacies of dollar-neutral strategies in algorithmic trading
+  designed to mitigate market risk by balancing long and short positions to negate
+  broader market movements. By focusing on isolating alpha independent of market direction
+  this approach becomes appealing amid volatility and economic uncertainty highlighting
+  its growing relevance in the fast-paced trading world. Dive into how algorithmic
+  strategies leverage technology to achieve precision in executing balanced investment
+  portfolios enhancing their capability to maintain stability and optimize returns
+  regardless of market conditions.
+title: Dollar-neutral portfolio (Algo Trading)
 ---
 
 A dollar-neutral strategy in algorithmic trading refers to a market-neutral approach where an investor maintains a portfolio balanced in such a way that the value of long positions equals the value of short positions. The primary objective is to eliminate the influence of broader market movements on portfolio returns. These strategies are increasingly significant as they focus on isolating alpha, or returns attributable to the investor's specific skill in selecting investments, independent of the market's overall direction.

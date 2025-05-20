@@ -1,6 +1,12 @@
 ---
-title: "Bid-ask spread estimator (Algo Trading)"
-description: Explore the significance of bid-ask spreads and the role of estimators in algorithmic trading. Learn how understanding and minimizing the spread can optimize trading strategies, reduce costs, and improve execution quality. Discover how tight spreads indicate high liquidity and assess market conditions effectively. Uncover popular estimation techniques and their impact on enhancing trading decisions and profitability in real-time environments.
+category: quant_concept
+description: Explore the significance of bid-ask spreads and the role of estimators
+  in algorithmic trading. Learn how understanding and minimizing the spread can optimize
+  trading strategies, reduce costs, and improve execution quality. Discover how tight
+  spreads indicate high liquidity and assess market conditions effectively. Uncover
+  popular estimation techniques and their impact on enhancing trading decisions and
+  profitability in real-time environments.
+title: Bid-ask spread estimator (Algo Trading)
 ---
 
 In algorithmic trading, understanding the bid-ask spread is crucial for optimizing trading strategies. The bid-ask spread represents the difference between the highest price a buyer is willing to pay for an asset (the bid) and the lowest price a seller is willing to accept (the ask). It serves as a key indicator of market liquidity and trading costs, playing a pivotal role in the dynamics of financial markets.

@@ -1,6 +1,8 @@
 ---
-title: "Using Excel for Investment Improvement (Algo Trading)"
-description: "Enhance your investment strategies and automate trading systems using Excel's robust functionalities for managing data and performing financial calculations."
+category: trading_strategy
+description: Enhance your investment strategies and automate trading systems using
+  Excel's robust functionalities for managing data and performing financial calculations.
+title: Using Excel for Investment Improvement (Algo Trading)
 ---
 
 In the rapidly evolving landscape of investment, technology has become an indispensable tool, reshaping the way investors develop and manage their portfolios. Among these technological advancements, Microsoft Excel has emerged as a pivotal platform for creating sophisticated investment strategies and automating trading systems. Its robust functionalities and user-friendly interface have made it a favored choice not only for individual investors but also for institutional traders.

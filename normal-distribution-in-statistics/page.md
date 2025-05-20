@@ -1,6 +1,9 @@
 ---
-title: "Normal Distribution in Statistics (Algo Trading)"
-description: "Explore how the normal distribution aids algorithmic trading by helping traders interpret market data, predict movements and refine strategies for better decision-making."
+category: quant_concept
+description: Explore how the normal distribution aids algorithmic trading by helping
+  traders interpret market data, predict movements and refine strategies for better
+  decision-making.
+title: Normal Distribution in Statistics (Algo Trading)
 ---
 
 In algorithmic trading, understanding statistical concepts is crucial. Statistics serve as the backbone for many automated decision-making processes, providing traders with mathematical frameworks to interpret past market data and predict future movements. One of the fundamental concepts in statistics is the normal distribution, often referred to as the Gaussian distribution. Recognizable by its bell-shaped curve, the normal distribution is pivotal in analyzing patterns within financial datasets, aiding traders in drawing meaningful insights.

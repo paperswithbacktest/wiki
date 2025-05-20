@@ -1,6 +1,9 @@
 ---
-title: "Construction of a Trading Indicator (Algo Trading)"
-description: "Discover how trading indicators are vital in crafting effective trading strategies by providing insights into market dynamics and supporting algorithmic trading decisions."
+category: trading_strategy
+description: Discover how trading indicators are vital in crafting effective trading
+  strategies by providing insights into market dynamics and supporting algorithmic
+  trading decisions.
+title: Construction of a Trading Indicator (Algo Trading)
 ---
 
 In the ever-evolving financial markets, trading indicators are indispensable tools for investors and traders, serving as the backbone of both manual and algorithmic trading strategies. These mathematical calculations, derived from price, volume, or open interest data, provide insights into market dynamics and assist in predicting future trends. Trading indicators play a pivotal role in financial analysis by offering a systematic approach to understanding market behavior. 

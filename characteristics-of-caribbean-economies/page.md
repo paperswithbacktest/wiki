@@ -1,6 +1,8 @@
 ---
-title: "Characteristics of Caribbean Economies (Algo Trading)"
-description: "Explore the diverse economies of the Caribbean with insights into tourism financial services and algorithmic trading highlighting growth and resilience opportunities"
+category: dataset
+description: Explore the diverse economies of the Caribbean with insights into tourism
+  financial services and algorithmic trading highlighting growth and resilience opportunities
+title: Characteristics of Caribbean Economies (Algo Trading)
 ---
 
 The Caribbean region is renowned for its captivating landscapes and diverse cultures, which play a significant role in its economy. This vibrant area consists of numerous islands and coastal territories, each contributing to a rich tapestry of cultural and economic diversity. Tourism stands out as a crucial economic driver, attracting millions of visitors annually with its pristine beaches, historical sites, and lively festivals. However, the economic portrait of the Caribbean extends beyond tourism. The region's economies are characterized by a variety of traits such as agriculture, offshore financial services, and in some countries, the exploitation of natural resources.

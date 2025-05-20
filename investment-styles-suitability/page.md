@@ -1,6 +1,9 @@
 ---
-title: "Investment Styles and Their Suitability (Algo Trading)"
-description: "Explore suitable investment styles from traditional methods like value investing to modern techniques like algorithmic trading, optimizing your strategies for better financial outcomes."
+category: trading_strategy
+description: Explore suitable investment styles from traditional methods like value
+  investing to modern techniques like algorithmic trading, optimizing your strategies
+  for better financial outcomes.
+title: Investment Styles and Their Suitability (Algo Trading)
 ---
 
 In today's fast-paced financial world, comprehending various investment styles and choosing the most suitable one for your financial strategy is essential. As investors navigate the complexities of the financial landscape, aligning investment choices with financial goals through the right strategies is paramount. Investment suitability involves matching your financial objectives with appropriate strategies, which include both traditional and modern approaches. Traditional strategies, such as value or growth investing, focus on fundamental analysis and long-term valuation. Modern strategies, including algorithmic trading (algo trading), leverage technology to enhance decision-making processes.

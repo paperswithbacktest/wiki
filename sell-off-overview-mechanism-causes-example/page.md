@@ -1,6 +1,8 @@
 ---
-title: "Sell-Off: Overview, Mechanism, Causes, and Illustrative Example (Algo Trading)"
-description: "Explore the dynamics of sell-offs including mechanisms and causes with insights into algorithmic trading in volatile markets to enhance trade strategy."
+category: quant_concept
+description: Explore the dynamics of sell-offs including mechanisms and causes with
+  insights into algorithmic trading in volatile markets to enhance trade strategy.
+title: 'Sell-Off: Overview, Mechanism, Causes, and Illustrative Example (Algo Trading)'
 ---
 
 In the fast-paced world of finance, market fluctuations present a perpetual challenge to investors and traders alike. A key phenomenon that manifests during such times is the sell-off, which can significantly influence market stability and investor confidence. A sell-off generally involves the rapid selling of securities, leading to a sharp decline in asset prices. This can result in considerable volatility, potentially cascading into further market instability.

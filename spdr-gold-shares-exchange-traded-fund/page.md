@@ -1,6 +1,8 @@
 ---
-title: "SPDR Gold Shares Exchange-Traded Fund (Algo Trading)"
-description: "Explore the dynamics of the SPDR Gold Shares ETF in algorithmic trading Discover how GLD can enhance portfolios with convenient gold market exposure"
+category: trading_strategy
+description: Explore the dynamics of the SPDR Gold Shares ETF in algorithmic trading
+  Discover how GLD can enhance portfolios with convenient gold market exposure
+title: SPDR Gold Shares Exchange-Traded Fund (Algo Trading)
 ---
 
 Gold is a timeless asset revered for its intrinsic value and historical significance. Throughout history, gold has been a symbol of wealth and power, often used as currency and a store of value. Its role as a reliable economic pillar is renowned, with the metal offering a safe haven during times of financial instability. This resilience and trust make gold a favored choice among investors, particularly during periods of economic volatility.

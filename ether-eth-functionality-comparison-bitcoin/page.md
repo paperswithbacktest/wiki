@@ -1,6 +1,8 @@
 ---
-title: "Ether (ETH): Functionality and Comparison with Bitcoin (Algo Trading)"
-description: "Explore the key dynamics between Ether and Bitcoin in cryptocurrency markets and how algorithmic trading impacts trading strategies and market efficiency."
+category: quant_concept
+description: Explore the key dynamics between Ether and Bitcoin in cryptocurrency
+  markets and how algorithmic trading impacts trading strategies and market efficiency.
+title: 'Ether (ETH): Functionality and Comparison with Bitcoin (Algo Trading)'
 ---
 
 Cryptocurrency trading involves the exchange of digital currencies on various trading platforms. It has gained immense popularity due to the high volatility and potential for substantial returns in this nascent market. The cryptocurrency market operates 24/7, which appeals to individual traders and institutional investors seeking diversification and hedge opportunities. 

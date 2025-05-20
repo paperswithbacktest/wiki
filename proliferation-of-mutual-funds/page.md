@@ -1,6 +1,9 @@
 ---
-title: "Proliferation of Mutual Funds (Algo Trading)"
-description: "Explore mutual funds and algorithmic trading examining their principles and impact on financial markets Gain insights to inform more effective investment decisions"
+category: quant_concept
+description: Explore mutual funds and algorithmic trading examining their principles
+  and impact on financial markets Gain insights to inform more effective investment
+  decisions
+title: Proliferation of Mutual Funds (Algo Trading)
 ---
 
 The financial market is a complex environment characterized by a wide variety of investment instruments and strategies designed to cater to the diverse needs of investors aiming to expand their wealth. Among these strategies, mutual funds and algorithmic trading, also known as algo trading, are prominent due to their distinct benefits and contributions to the financial landscape. Mutual funds offer a pooled investment approach, allowing investors to gain access to a diversified portfolio managed by professional fund managers, thus reducing individual risk and providing ease of market entry. On the other hand, algorithmic trading employs sophisticated computer algorithms to conduct trades at speeds and volumes unattainable by human traders, often optimizing decision-making and reducing emotional biases that can impact trade outcomes.

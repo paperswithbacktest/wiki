@@ -1,6 +1,8 @@
 ---
-title: "Interest-Only Strips (Algo Trading)"
-description: "Explore the complex world of interest-only strips in algo trading understand their impact on investment strategies and learn how to optimize financial portfolios."
+category: quant_concept
+description: Explore the complex world of interest-only strips in algo trading understand
+  their impact on investment strategies and learn how to optimize financial portfolios.
+title: Interest-Only Strips (Algo Trading)
 ---
 
 In finance, understanding complex instruments like financial derivatives and interest-only (IO) strips can significantly impact investment strategies. Financial derivatives are contractual structures whose value is linked to the performance of underlying assets, such as stocks, bonds, commodities, or interest rates. Among these, IO strips represent a particularly specialized derivative; they are typically derived from mortgage-backed securities and focus on the interest payments alone, offering investors a unique cash flow stream.

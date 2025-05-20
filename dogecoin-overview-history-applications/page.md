@@ -1,6 +1,9 @@
 ---
-title: "Dogecoin: Overview, History, and Applications (Algo Trading)"
-description: "Explore Dogecoin's roots as a fun cryptocurrency and its growth into a popular asset. Delve into how algo trading strategies enhance trading efficiency in volatile crypto markets."
+category: quant_concept
+description: Explore Dogecoin's roots as a fun cryptocurrency and its growth into
+  a popular asset. Delve into how algo trading strategies enhance trading efficiency
+  in volatile crypto markets.
+title: 'Dogecoin: Overview, History, and Applications (Algo Trading)'
 ---
 
 Dogecoin (DOGE) is a cryptocurrency that originated as a parody in 2013 but rapidly gained traction due to its vibrant community and use of the Shiba Inu dog meme. Originally created as a "joke currency" by software engineers Billy Markus and Jackson Palmer, Dogecoin distinguishes itself by having a friendly and approachable image, as well as a large supply driven by its inflationary nature. From its humble beginnings, Dogecoin has experienced substantial growth, at times reaching a significant market capitalization and becoming part of mainstream digital culture. Its popularity has been bolstered by endorsements from public figures such as Elon Musk, which have contributed to notable surges in its value and trading volume.

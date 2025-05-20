@@ -1,6 +1,9 @@
 ---
-title: "Option Writing: Long and Short Strategies (Algo Trading)"
-description: "Discover the benefits of options trading with algorithmic strategies Learn about long and short options strategies and how automation refines trading efficiency"
+category: trading_strategy
+description: Discover the benefits of options trading with algorithmic strategies
+  Learn about long and short options strategies and how automation refines trading
+  efficiency
+title: 'Option Writing: Long and Short Strategies (Algo Trading)'
 ---
 
 In the world of financial markets, options trading and algorithmic trading serve as advanced techniques that empower investors to make more informed decisions. Options trading involves contracts that grant the buyer the right, but not the obligation, to buy or sell an underlying asset at a predetermined price within a certain period. This flexibility introduces a rich array of strategic opportunities for traders, particularly through the use of short and long strategies. Short strategies, often involving selling options, are typically employed by investors who anticipate minimal movement or a decline in the value of an asset. On the other hand, long strategies, which involve purchasing options, are favored by those expecting significant asset price movement in a specific direction.

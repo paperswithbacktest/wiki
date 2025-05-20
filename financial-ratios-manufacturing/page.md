@@ -1,6 +1,8 @@
 ---
-title: "Financial Ratios in Manufacturing (Algo Trading)"
-description: "Explore essential financial ratios in manufacturing and their role in algorithmic trading Learn how these metrics drive efficiency and investment strategies"
+category: trading_strategy
+description: Explore essential financial ratios in manufacturing and their role in
+  algorithmic trading Learn how these metrics drive efficiency and investment strategies
+title: Financial Ratios in Manufacturing (Algo Trading)
 ---
 
 Financial analysis plays a pivotal role in the manufacturing industry, offering critical insights into operational efficiency, financial health, and overall performance. The manufacturing sector, characterized by complex supply chains, significant capital investments, and substantial variable costs, relies heavily on rigorous financial analysis to maintain competitiveness and sustainability. Key financial metrics and ratios serve as indispensable tools for executives and stakeholders, enabling them to evaluate and enhance operational processes, cost management, and profitability.

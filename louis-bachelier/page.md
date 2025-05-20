@@ -1,6 +1,8 @@
 ---
-title: "Louis Bachelier (Algo Trading)"
-description: "Explore Louis Bachelier's groundbreaking contributions to financial mathematics and algorithmic trading, showcasing his lasting influence on modern trading systems."
+category: quant_concept
+description: Explore Louis Bachelier's groundbreaking contributions to financial mathematics
+  and algorithmic trading, showcasing his lasting influence on modern trading systems.
+title: Louis Bachelier (Algo Trading)
 ---
 
 Louis Bachelier, a French mathematician born in 1870, is widely recognized as a pioneer in the burgeoning field of financial mathematics. His innovative insights have laid the groundwork for what is today known as algorithmic trading. In 1900, Bachelier published his groundbreaking thesis, "Théorie de la spéculation," which introduced mathematical techniques to finance, setting the stage for modern financial modeling and algorithmic trading systems.

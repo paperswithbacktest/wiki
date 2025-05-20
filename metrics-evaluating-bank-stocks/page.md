@@ -1,6 +1,8 @@
 ---
-title: "Metrics for Evaluating Bank Stocks (Algo Trading)"
-description: "Explore key metrics to evaluate bank stocks and enhance algorithmic trading strategies. Gain insights to make informed decisions in financial markets."
+category: trading_strategy
+description: Explore key metrics to evaluate bank stocks and enhance algorithmic trading
+  strategies. Gain insights to make informed decisions in financial markets.
+title: Metrics for Evaluating Bank Stocks (Algo Trading)
 ---
 
 Evaluating bank stocks and employing algorithmic trading strategies are crucial activities for investors and analysts within financial markets. By integrating financial metrics that are specific to banks with key performance indicators derived from algorithmic trading strategies, decision-making processes can be significantly enhanced. This article focuses on critical evaluation metrics for bank stock analysis and essential tools for assessing the performance of algorithmic trading strategies. The insights offered are designed to assist both traditional equity investors and participants in the burgeoning field of algorithmic trading. These methodologies, grounded in robust analytical frameworks, serve as pivotal resources in navigating the complexities of modern financial markets.
@@ -124,4 +126,3 @@ By embracing both methodologies, investors can make more informed decisions that
 [6]: Damodaran, A. (2012). ["Investment Valuation: Tools and Techniques for Determining the Value of Any Asset."](https://books.google.com/books/about/Investment_Valuation.html?id=5SRHAAAAQBAJ) Wiley Finance.
 
 [7]: ["The Handbook of Mortgage-Backed Securities"](https://www.amazon.com/Handbook-Mortgage-Backed-Securities-7th/dp/0198785771) by Frank J. Fabozzi
-

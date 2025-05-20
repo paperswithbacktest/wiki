@@ -1,6 +1,9 @@
 ---
-title: "Cypriot Pound: Overview and History (Algo Trading)"
-description: "Explore the history of the Cypriot Pound and its economic impact on Cyprus, alongside the evolving role of algorithmic trading in leveraging historical currency trends."
+category: quant_concept
+description: Explore the history of the Cypriot Pound and its economic impact on Cyprus,
+  alongside the evolving role of algorithmic trading in leveraging historical currency
+  trends.
+title: 'Cypriot Pound: Overview and History (Algo Trading)'
 ---
 
 The Cypriot Pound (CYP), once the official currency of Cyprus, holds a pivotal place in the economic history of the island. This article aims to explore the evolution of the Cypriot Pound from its inception to its eventual replacement by the Euro, an event that signaled a significant shift in the economic landscape of Cyprus. In addition, the article examines the growing relevance of algorithmic trading in the context of historical currencies, highlighting the potential integration of past economic trends into modern financial strategies.

@@ -1,6 +1,9 @@
 ---
-title: "Quantitative Trading: Overview, Examples, and Profitability (Algo Trading)"
-description: "Explore quantitative trading's role in today's financial markets with insights into how mathematical models and data-driven strategies increase trading efficiency."
+category: quant_concept
+description: Explore quantitative trading's role in today's financial markets with
+  insights into how mathematical models and data-driven strategies increase trading
+  efficiency.
+title: 'Quantitative Trading: Overview, Examples, and Profitability (Algo Trading)'
 ---
 
 Quantitative trading is an investment strategy that relies on mathematical models to identify and capitalize on trading opportunities. By systematically analyzing large volumes of data, quantitative trading seeks to predict price movements and execute trades based on statistical and mathematical computations. In the current financial markets, where milliseconds can determine success, quantitative trading plays a crucial role. With the availability of vast datasets and computational power, it allows traders and financial institutions to implement strategies with precision and speed that human judgment and traditional trading methods cannot match.

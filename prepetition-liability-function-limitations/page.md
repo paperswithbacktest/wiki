@@ -1,6 +1,8 @@
 ---
-title: "Prepetition Liability: Definition, Function, and Limitations (Algo Trading)"
-description: "Explore the intricacies of prepetition liability in algorithmic trading examining its impact on bankruptcy, financial obligations, and strategic management."
+category: quant_concept
+description: Explore the intricacies of prepetition liability in algorithmic trading
+  examining its impact on bankruptcy, financial obligations, and strategic management.
+title: 'Prepetition Liability: Definition, Function, and Limitations (Algo Trading)'
 ---
 
 Algorithmic trading, a method that employs advanced mathematical models and computer systems to execute trades at speeds and frequencies that humans cannot comprehend, has transformed financial markets over the past few decades. Its reliance on intricate algorithms and vast computational power allows traders to leverage data and time efficiencies, potentially increasing their profitability. However, when combined with financial obligations and the complexities of bankruptcy proceedings, algorithmic trading presents unique challenges that require careful management and strategic planning.

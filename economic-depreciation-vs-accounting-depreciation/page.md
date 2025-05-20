@@ -1,6 +1,9 @@
 ---
-title: "Economic Depreciation vs. Accounting Depreciation (Algo Trading)"
-description: "Explore the differences between economic and accounting depreciation and their impact on algorithmic trading strategies to optimize risk management and asset valuation."
+category: quant_concept
+description: Explore the differences between economic and accounting depreciation
+  and their impact on algorithmic trading strategies to optimize risk management and
+  asset valuation.
+title: Economic Depreciation vs. Accounting Depreciation (Algo Trading)
 ---
 
 Depreciation plays a crucial role in the field of finance and accounting, representing the loss of value of assets over time. Recognizing the nuances of depreciation is essential not only for accurate financial reporting but also for strategic asset management. Two primary types of depreciation exist: economic and accounting depreciation, each having its unique attributes and implications.

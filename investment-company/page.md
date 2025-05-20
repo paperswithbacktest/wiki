@@ -1,6 +1,8 @@
 ---
-title: "Investment Company (Algo Trading)"
-description: "Discover how investment companies and algorithmic trading strategies help investors navigate financial markets maximize returns and manage risk effectively."
+category: trading_strategy
+description: Discover how investment companies and algorithmic trading strategies
+  help investors navigate financial markets maximize returns and manage risk effectively.
+title: Investment Company (Algo Trading)
 ---
 
 The financial landscape is vast and continually changing, with investment companies positioned at the heart of this activity. These entities are crucial in managing and growing assets for both individual investors and large institutions. Investment companies offer a broad spectrum of financial services. These services range from investment funds, which provide structured financial products for a variety of investor needs, to advanced trading strategies such as algorithmic trading. 

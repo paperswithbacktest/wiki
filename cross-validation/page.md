@@ -1,6 +1,8 @@
 ---
-title: "Cross-validation (Algo Trading)"
-description: "Discover the importance of advanced cross-validation techniques in algorithmic trading and learn how methods like CPCV can improve model reliability and performance."
+category: quant_concept
+description: Discover the importance of advanced cross-validation techniques in algorithmic
+  trading and learn how methods like CPCV can improve model reliability and performance.
+title: Cross-validation (Algo Trading)
 ---
 
 Algorithmic trading relies heavily on accurate model validation to manage the temporal nature and complexities of financial data. It necessitates an understanding of advanced statistical methods to ensure models are both robust and reliable when applied to market data. Traditional cross-validation techniques, common in other fields like general machine learning, often prove inadequate in the context of financial markets, primarily due to the risk of data leakage and the tendency to overfit models to historical data. 
@@ -172,4 +174,3 @@ Practitioners in the field of quantitative finance and algorithmic trading are e
 
 4. **'Quantitative Trading' by Ernest P. Chan**  
    Chan's work focuses on bridging the gap between theory and practice in algorithmic trading. By outlining a step-by-step approach to building automated trading systems, Chan covers crucial aspects such as risk management and backtesting strategies. The book is a valuable resource for traders seeking to apply quantitative methods to financial markets, highlighting the importance of robust validation techniques, such as CPCV, to ensure that trading algorithms perform reliably in real-world scenarios.
-

@@ -1,6 +1,9 @@
 ---
-title: "Economic Embargo: Examples and Effects (Algo Trading)"
-description: "Explore the impacts of economic embargoes and algorithmic trading in international trade Discover how these restrictions affect countries and markets worldwide"
+category: quant_concept
+description: Explore the impacts of economic embargoes and algorithmic trading in
+  international trade Discover how these restrictions affect countries and markets
+  worldwide
+title: 'Economic Embargo: Examples and Effects (Algo Trading)'
 ---
 
 Trade restrictions, including economic embargoes, have been a longstanding tool in international relations, used to exert pressure on targeted countries in order to influence their policies or behaviors. These measures can range from the complete cessation of trade with a country to targeted restrictions on particular goods or services. While the primary intention of such restrictions is often political, the economic ramifications are complex and affect both the country imposing the embargo and the nation that is targeted.

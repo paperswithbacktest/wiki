@@ -1,6 +1,9 @@
 ---
-title: "Energy Trust (Algo Trading)"
-description: "Explore the dynamic intersection of energy trusts, fund management, and algorithmic trading offering insights into investment strategies and sustainability opportunities."
+category: trading_strategy
+description: Explore the dynamic intersection of energy trusts, fund management, and
+  algorithmic trading offering insights into investment strategies and sustainability
+  opportunities.
+title: Energy Trust (Algo Trading)
 ---
 
 The interplay between trust funds, energy trusts, energy management, and algorithmic trading is an emerging area of interest for investors and market participants. Trust funds, historically viewed as stable financial vehicles, now intersect with energy management—a critical component in today's tech-driven landscape—adding a layer of sophistication to investment strategies. Energy management encompasses the efficient use and conservation of energy resources, which has become imperative as global sustainability goals are prioritized. In parallel, algorithmic trading is transforming the way energy markets operate by employing advanced technology for executing trades quickly based on pre-defined rules and criteria.

@@ -1,6 +1,8 @@
 ---
-title: "NAB Business Confidence Index: Overview and Function (Algo Trading)"
-description: "Explore the role of the NAB Business Confidence Index in Australia's economy and its impact on algorithmic trading providing insights for strategic decision-making."
+category: dataset
+description: Explore the role of the NAB Business Confidence Index in Australia's
+  economy and its impact on algorithmic trading providing insights for strategic decision-making.
+title: 'NAB Business Confidence Index: Overview and Function (Algo Trading)'
 ---
 
 The NAB Business Confidence Index is a key economic indicator in Australia, offering valuable insights into the prevailing business environment and sentiment across the nation. This index plays a significant role for economists, traders, and businesses who rely on it to gauge the future economic outlook, thereby facilitating informed decision-making. This established index is derived from comprehensive surveys assessing various business conditions, which include forward orders, capital expenditures, and inflation expectations. As a result, it serves as a critical tool in understanding economic health and trends.

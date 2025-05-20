@@ -1,6 +1,9 @@
 ---
-title: "Greenfield and Brownfield Investments (Algo Trading)"
-description: "Explore the intricacies of greenfield and brownfield investments in algo trading Discover how FDIs drive global business expansion and capitalize on market opportunities"
+category: quant_concept
+description: Explore the intricacies of greenfield and brownfield investments in algo
+  trading Discover how FDIs drive global business expansion and capitalize on market
+  opportunities
+title: Greenfield and Brownfield Investments (Algo Trading)
 ---
 
 Foreign direct investments (FDIs) play a crucial role in global business expansion, facilitating the flow of capital across borders and contributing to economic growth and job creation. FDIs occur when a company or individual acquires a lasting interest in a foreign business entity, typically signifying a level of control or significant influence over the enterprise. This form of investment is pivotal not only for the capital infusion it provides but also for the transfer of technology, management skills, and enhanced market access that often accompany it.

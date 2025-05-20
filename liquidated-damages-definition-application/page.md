@@ -1,6 +1,8 @@
 ---
-title: "Liquidated Damages: Definition and Application (Algo Trading)"
-description: "Explore how liquidated damages within algorithmic trading contracts provide a structured approach to manage breach risks, ensuring security and compliance."
+category: quant_concept
+description: Explore how liquidated damages within algorithmic trading contracts provide
+  a structured approach to manage breach risks, ensuring security and compliance.
+title: 'Liquidated Damages: Definition and Application (Algo Trading)'
 ---
 
 Contract law serves as the foundation for the enforcement of agreements across various sectors, establishing the duties and rights of the parties involved. Penalty clauses are an essential aspect of contract law, acting as deterrents and remedies for breaches. These clauses specify the consequences that will follow if a party fails to fulfill their contractual obligations. They are crucial for ensuring compliance and fostering trust between entities engaging in complex transactions.

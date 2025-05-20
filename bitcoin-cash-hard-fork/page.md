@@ -1,6 +1,9 @@
 ---
-title: "Bitcoin Cash Hard Fork (Algo Trading)"
-description: "Explore Bitcoin Cash's hard fork origins and its impact on algorithmic trading in the dynamic crypto landscape highlighting key interactions and investor insights."
+category: quant_concept
+description: Explore Bitcoin Cash's hard fork origins and its impact on algorithmic
+  trading in the dynamic crypto landscape highlighting key interactions and investor
+  insights.
+title: Bitcoin Cash Hard Fork (Algo Trading)
 ---
 
 This article explores the intersection of Bitcoin Cash, cryptocurrency hard forks, and algorithmic trading, providing a detailed overview of each concept and how they interact. Bitcoin Cash (BCH) has established itself as a key player in the cryptocurrency market after its inception from a Bitcoin (BTC) hard fork. This development occurred as a response to ongoing debates within the Bitcoin community regarding transaction scalability, resulting in the formation of Bitcoin Cash in August 2017. Bitcoin Cash sought to address the scalability issues by increasing block sizes, aiming to facilitate faster and cheaper transactions compared to Bitcoin.

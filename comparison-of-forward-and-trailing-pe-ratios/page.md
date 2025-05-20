@@ -1,6 +1,9 @@
 ---
-title: "Comparison of Forward and Trailing P/E Ratios (Algo Trading)"
-description: "Understanding trailing and forward P/E ratios is essential for algo trading offering insights into stock valuation through historical performance and future potential."
+category: quant_concept
+description: Understanding trailing and forward P/E ratios is essential for algo trading
+  offering insights into stock valuation through historical performance and future
+  potential.
+title: Comparison of Forward and Trailing P/E Ratios (Algo Trading)
 ---
 
 In the fast-paced world of financial trading, understanding key metrics is crucial for success. Among these metrics, the trailing and forward Price-to-Earnings (P/E) ratios are fundamental in evaluating stock performance. The P/E ratio, a measure of how much investors are willing to pay per dollar of earnings, serves as a benchmark for assessing a company's valuation. The trailing P/E ratio, based on past earnings, provides insights into how a company has performed, while the forward P/E ratio uses projected earnings to gauge future potential. In algorithmic trading, where rapid decision-making with precise calculations is essential, these ratios become particularly relevant.

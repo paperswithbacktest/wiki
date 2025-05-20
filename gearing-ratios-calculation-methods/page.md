@@ -1,6 +1,11 @@
 ---
-title: "Gearing Ratios and Calculation Methods (Algo Trading)"
-description: "Explore the significance of gearing ratios in evaluating financial leverage and their integration into algorithmic trading strategies. Understand key ratios like Debt-to-Equity and Interest Coverage to refine algo trading signals and enhance decision-making in the financial markets. Discover calculation methods to leverage these insights effectively."
+category: quant_concept
+description: Explore the significance of gearing ratios in evaluating financial leverage
+  and their integration into algorithmic trading strategies. Understand key ratios
+  like Debt-to-Equity and Interest Coverage to refine algo trading signals and enhance
+  decision-making in the financial markets. Discover calculation methods to leverage
+  these insights effectively.
+title: Gearing Ratios and Calculation Methods (Algo Trading)
 ---
 
 Financial ratios are critical tools used by analysts and investors to assess a company's financial health. They offer quantifiable metrics that provide insights into various dimensions of a company's operations, including its profitability, liquidity, efficiency, and leverage. By distilling complex financial statements into comprehensible numbers, financial ratios facilitate a deeper understanding of a firm's performance and risk profile, enabling more informed decision-making.

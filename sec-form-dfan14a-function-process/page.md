@@ -1,6 +1,8 @@
 ---
-title: "SEC Form DFAN14A: Function and Process (Algo Trading)"
-description: "Explore the importance of SEC Form DFAN14A in proxy statements and algorithmic trading. Enhance shareholder communication and investment decisions with this guide."
+category: quant_concept
+description: Explore the importance of SEC Form DFAN14A in proxy statements and algorithmic
+  trading. Enhance shareholder communication and investment decisions with this guide.
+title: 'SEC Form DFAN14A: Function and Process (Algo Trading)'
 ---
 
 In this article, we will explore the pivotal role of SEC Form DFAN14A in shareholder communication, proxy statements, and its relevance in the context of algorithmic trading. SEC Form DFAN14A is integral to the governance landscape, particularly in the arena of non-management proxy solicitations. This document enables third parties to communicate their positions on various corporate governance issues, thereby influencing shareholder voting decisions and strategic directions.
@@ -141,4 +143,3 @@ In conclusion, SEC Form DFAN14A and the synergy of proxy statements with algorit
 5. Lopez de Prado, M. "Advances in Financial Machine Learning." This book covers state-of-the-art techniques in machine learning as applied to financial market data, offering practitioners methodologies to refine algorithmic trading strategies. The book is invaluable for professionals seeking quantitative tools to enhance market analysis and trading. It is available through various academic and professional book retailers.
 
 These resources provide a foundational understanding and practical insights for stakeholders involved in proxy analysis, shareholder communication, and algorithmic trading.
-

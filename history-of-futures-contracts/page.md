@@ -1,6 +1,8 @@
 ---
-title: "History of Futures Contracts (Algo Trading)"
-description: "Explore the history of futures contracts and their transformation through algorithmic trading which enhances speed and efficiency in modern markets."
+category: quant_concept
+description: Explore the history of futures contracts and their transformation through
+  algorithmic trading which enhances speed and efficiency in modern markets.
+title: History of Futures Contracts (Algo Trading)
 ---
 
 The fast-evolving world of finance has witnessed significant advancements in trading technologies, particularly in the domain of financial contracts such as futures. Futures are standardized agreements to buy or sell an asset at a specified future date and price, providing a mechanism for participants to hedge against price volatility. These financial instruments are integral to risk management and have long been used to stabilize markets by allowing traders and institutions to speculate on price movements of various assets.

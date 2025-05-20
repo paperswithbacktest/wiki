@@ -1,6 +1,13 @@
 ---
-title: "Fixed-width window fracdiff (FFD) method (Algo Trading)"
-description: Discover the Fixed-Width Window Fractional Differencing (FFD) method, a vital tool in algorithmic trading for managing non-stationary financial data. Enhance your trading models by achieving stationarity without erasing predictive memory, ensuring more reliable forecasts and robust strategies. Explore how fractional differentiation maintains essential data structure while aligning with statistical assumptions, and learn practical application techniques for improved financial analysis and decision-making.
+category: quant_concept
+description: Discover the Fixed-Width Window Fractional Differencing (FFD) method,
+  a vital tool in algorithmic trading for managing non-stationary financial data.
+  Enhance your trading models by achieving stationarity without erasing predictive
+  memory, ensuring more reliable forecasts and robust strategies. Explore how fractional
+  differentiation maintains essential data structure while aligning with statistical
+  assumptions, and learn practical application techniques for improved financial analysis
+  and decision-making.
+title: Fixed-width window fracdiff (FFD) method (Algo Trading)
 ---
 
 In algorithmic trading, accurately processing and interpreting financial data is crucial. A sophisticated approach to addressing this challenge is the Fixed-Width Window Fractional Differencing (FFD) method. This technique is essential for managing non-stationary time series data, a prevalent issue in finance, requiring methods that handle varying memory characteristics while maintaining data integrity.

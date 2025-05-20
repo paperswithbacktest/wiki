@@ -1,6 +1,8 @@
 ---
-title: "DeMarker Indicator and Trading Strategies (Algo Trading)"
-description: "Explore the DeMarker Indicator in trading to predict market trends. Learn its use in identifying overbought and oversold conditions for better trading strategies."
+category: trading_strategy
+description: Explore the DeMarker Indicator in trading to predict market trends. Learn
+  its use in identifying overbought and oversold conditions for better trading strategies.
+title: DeMarker Indicator and Trading Strategies (Algo Trading)
 ---
 
 In the world of technical analysis, the DeMarker Indicator (DeM) emerges as a sophisticated tool employed by traders to forecast market trends. Originally developed by Thomas DeMark, the indicator seeks to evaluate the demand for an asset by comparing price movements over different trading periods. This technical oscillator assists traders in identifying overbought and oversold market conditions, facilitating more informed trading decisions.

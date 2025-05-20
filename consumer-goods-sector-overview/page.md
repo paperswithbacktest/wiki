@@ -1,6 +1,8 @@
 ---
-title: "Consumer Goods Sector Overview (Algo Trading)"
-description: "Explore how algorithmic trading is transforming the consumer goods sector by enhancing market dynamics, stock liquidity, and investor strategies through technology."
+category: quant_concept
+description: Explore how algorithmic trading is transforming the consumer goods sector
+  by enhancing market dynamics, stock liquidity, and investor strategies through technology.
+title: Consumer Goods Sector Overview (Algo Trading)
 ---
 
 The consumer goods sector encompasses a broad range of industries that focus on producing and selling goods directly to consumers. These goods include everyday items such as food, beverages, clothing, and electronics, crucially driving economic activity and reflecting consumer confidence and spending patterns. Historically, the sector has developed through traditional retail channels, but recent technological advancements and changing consumer behaviors have significantly reshaped its landscape. 

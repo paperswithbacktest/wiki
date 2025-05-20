@@ -1,6 +1,8 @@
 ---
-title: "Breadth of Market Theory (Algo Trading)"
-description: "Explore how market theory, investment analysis, and algorithmic trading enhance investment strategies by leveraging market breadth to optimize trading decisions."
+category: quant_concept
+description: Explore how market theory, investment analysis, and algorithmic trading
+  enhance investment strategies by leveraging market breadth to optimize trading decisions.
+title: Breadth of Market Theory (Algo Trading)
 ---
 
 In today's fast-paced financial environment, market theory and investment analysis have become essential tools for investors seeking to navigate complex markets. Market theory provides a structured understanding of financial market dynamics, aiding investors in making informed decisions. Investment analysis, on the other hand, focuses on evaluating the potential profitability, risk, and growth opportunities of various financial instruments. Together, these frameworks form the bedrock of strategic investment decision-making.

@@ -1,7 +1,8 @@
 ---
-title: Understanding Validation Loss in Machine Learning Models
+category: quant_concept
 description: Validation loss helps you monitor model performance on unseen data and
   prevent overfitting by guiding adjustments during training Discover more inside.
+title: Understanding Validation Loss in Machine Learning Models
 ---
 
 ![Image](images/1.png)

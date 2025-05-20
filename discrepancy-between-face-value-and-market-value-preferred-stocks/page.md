@@ -1,6 +1,8 @@
 ---
-title: "Discrepancy Between Face Value and Market Value of Preferred Stocks (Algo Trading)"
-description: "Discover the key differences between face value and market value of preferred stocks and how algorithmic trading enhances their valuation for informed investments."
+category: quant_concept
+description: Discover the key differences between face value and market value of preferred
+  stocks and how algorithmic trading enhances their valuation for informed investments.
+title: Discrepancy Between Face Value and Market Value of Preferred Stocks (Algo Trading)
 ---
 
 Preferred stocks, a significant component of the financial markets, represent a unique class of investment that offers features of both equity and fixed-income securities. These stocks provide investors with the potential benefits of regular income and, in some cases, additional features like convertibility into common stock. Unlike common stocks, preferred stocks typically do not confer voting rights, yet they often offer fixed dividends—making them appealing to income-focused investors. At the same time, they hold priority over common stock in the event of bankruptcy, thus providing a buffer of financial safety.

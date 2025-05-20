@@ -1,6 +1,8 @@
 ---
-title: "Arbitrage Mutual Funds: Overview and Analysis (Algo Trading)"
-description: "Explore arbitrage mutual funds through the lens of algo trading to understand investment strategies, risks, and profit opportunities for optimized returns."
+category: trading_strategy
+description: Explore arbitrage mutual funds through the lens of algo trading to understand
+  investment strategies, risks, and profit opportunities for optimized returns.
+title: 'Arbitrage Mutual Funds: Overview and Analysis (Algo Trading)'
 ---
 
 Investing is a fundamental component of economic growth and personal wealth accumulation. It represents the act of allocating resources, usually money, in order to generate income or profit. The quest for higher returns has led investors to explore various strategies that can optimize their investment portfolios. Among the plethora of investment opportunities, arbitrage, mutual funds, and algorithmic trading stand out as prominent techniques with distinct characteristics and appeal.

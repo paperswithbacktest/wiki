@@ -1,6 +1,8 @@
 ---
-title: "Real Estate Investing for Beginners (Algo Trading)"
-description: "Explore real estate investing for beginners with a focus on algorithmic trading Discover strategies to enhance returns and navigate the market confidently"
+category: trading_strategy
+description: Explore real estate investing for beginners with a focus on algorithmic
+  trading Discover strategies to enhance returns and navigate the market confidently
+title: Real Estate Investing for Beginners (Algo Trading)
 ---
 
 Real estate investing is recognized as a profitable avenue for diversifying an investment portfolio, offering the potential for both passive income and capital gains. As an asset class, real estate presents opportunities unique from traditional securities, providing tangible benefits such as regular rental earnings and long-term value appreciation. However, the complexities of real estate markets necessitate thorough research and strategic decision-making to maximize these investment benefits.

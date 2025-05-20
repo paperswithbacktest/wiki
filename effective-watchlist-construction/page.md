@@ -1,6 +1,9 @@
 ---
-title: "Effective Watchlist Construction (Algo Trading)"
-description: "Learn how to construct an effective watchlist for algo trading Master techniques for optimizing portfolios and utilizing algorithmic trading to gain market insights"
+category: trading_strategy
+description: Learn how to construct an effective watchlist for algo trading Master
+  techniques for optimizing portfolios and utilizing algorithmic trading to gain market
+  insights
+title: Effective Watchlist Construction (Algo Trading)
 ---
 
 The financial markets are constantly evolving and the integration of technology has provided investors and traders with innovative tools. Among these advances, watchlist investing, portfolio management, and algorithmic (algo) trading stand out as transformative developments. These concepts are key components that empower market participants in the modern trading environment. 

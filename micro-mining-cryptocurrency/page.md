@@ -1,6 +1,8 @@
 ---
-title: "Micro Mining in Cryptocurrency (Algo Trading)"
-description: "Explore the dynamic world of cryptocurrency with insights into micro mining and algorithmic trading Discover how tech transforms digital currency generation"
+category: quant_concept
+description: Explore the dynamic world of cryptocurrency with insights into micro
+  mining and algorithmic trading Discover how tech transforms digital currency generation
+title: Micro Mining in Cryptocurrency (Algo Trading)
 ---
 
 The digital landscape of today is marked by rapid advancements, particularly in sectors like cryptocurrency mining and algorithmic trading. Both domains epitomize the innovative synergy between finance and technology, forming essential components of the modern digital economy. This article focuses on three key concepts that underpin these sectors: micro mining, cryptocurrency mining processes, and algorithmic trading. Each of these phenomena plays a crucial role in the broader cryptocurrency ecosystem, influencing how digital currencies are generated, managed, and traded.

@@ -1,6 +1,13 @@
 ---
-title: "Interactive Brokers Demo Account Signup Tutorial (Algo Trading)"
-description: Learn how to get started with algorithmic trading using the Interactive Brokers demo account. This tutorial provides a step-by-step guide to signing up and utilizing the features of IBKR's demo account, offering a risk-free environment to test trading strategies. Explore realistic market simulations, advanced trading tools, and access to global markets to refine your skills and enhance decision-making in algorithmic trading. Discover the advantages of using IBKR's platform over competitors and prepare effectively for live market conditions.
+category: trading_strategy
+description: Learn how to get started with algorithmic trading using the Interactive
+  Brokers demo account. This tutorial provides a step-by-step guide to signing up
+  and utilizing the features of IBKR's demo account, offering a risk-free environment
+  to test trading strategies. Explore realistic market simulations, advanced trading
+  tools, and access to global markets to refine your skills and enhance decision-making
+  in algorithmic trading. Discover the advantages of using IBKR's platform over competitors
+  and prepare effectively for live market conditions.
+title: Interactive Brokers Demo Account Signup Tutorial (Algo Trading)
 ---
 
 Algorithmic trading has become increasingly popular among traders and investors due to its ability to execute orders swiftly and reduce human error. Leveraging algorithms, traders can meticulously analyze vast datasets, identify profitable opportunities, and execute trades within milliseconds. This not only helps in capturing favorable prices but also enhances trading efficiency and precision.

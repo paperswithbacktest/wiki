@@ -1,6 +1,8 @@
 ---
-title: "Order in Financial Markets: Mechanisms and Types (Algo Trading)"
-description: "Explore the essentials of order types and trading mechanisms in financial markets Discover how algorithmic trading optimizes strategies for trader success"
+category: quant_concept
+description: Explore the essentials of order types and trading mechanisms in financial
+  markets Discover how algorithmic trading optimizes strategies for trader success
+title: 'Order in Financial Markets: Mechanisms and Types (Algo Trading)'
 ---
 
 The world of financial markets is vast and intricate, with traders having access to a multitude of tools and strategies designed to optimize their trading endeavors. This article will offer a comprehensive exploration of some of the most fundamental concepts critical to trading: order types, trading mechanisms, and algorithmic trading. For both novice and seasoned traders, gaining a thorough understanding of these elements is crucial for navigating the evolving landscape of financial markets with confidence and precision.

@@ -1,6 +1,15 @@
 ---
-title: "Fundamental Trading (Algo Trading)"
-description: "Explore the dynamic world of fundamental and algorithmic trading in this insightful article. Discover how fundamental trading assesses a company’s financial health through in-depth analysis of earnings reports and corporate activities to determine intrinsic stock value for long-term investments. Learn about the innovative realm of algorithmic trading, where automated systems execute rapid trades based on predefined criteria, capitalizing on market inefficiencies. Gain a deeper understanding of these distinct methodologies and their implications for modern trading, equipping investors to make informed decisions that align with their financial objectives and risk tolerance."
+category: trading_strategy
+description: Explore the dynamic world of fundamental and algorithmic trading in this
+  insightful article. Discover how fundamental trading assesses a company’s financial
+  health through in-depth analysis of earnings reports and corporate activities to
+  determine intrinsic stock value for long-term investments. Learn about the innovative
+  realm of algorithmic trading, where automated systems execute rapid trades based
+  on predefined criteria, capitalizing on market inefficiencies. Gain a deeper understanding
+  of these distinct methodologies and their implications for modern trading, equipping
+  investors to make informed decisions that align with their financial objectives
+  and risk tolerance.
+title: Fundamental Trading (Algo Trading)
 ---
 
 In the fast-paced world of investing, various strategies and trading types play crucial roles for traders and investors. This article focuses specifically on fundamental trading and algorithmic trading, two prominent methodologies in financial markets.

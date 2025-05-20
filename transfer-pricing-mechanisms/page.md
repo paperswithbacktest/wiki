@@ -1,6 +1,8 @@
 ---
-title: "Transfer Pricing and Its Mechanisms (Algo Trading)"
-description: "Explore the intricacies of transfer pricing and algo trading to optimize tax strategies, compliance, and global operations for multinational enterprises."
+category: quant_concept
+description: Explore the intricacies of transfer pricing and algo trading to optimize
+  tax strategies, compliance, and global operations for multinational enterprises.
+title: Transfer Pricing and Its Mechanisms (Algo Trading)
 ---
 
 Understanding transfer pricing and its implications within intercompany transactions is essential for multinational enterprises (MNEs). Transfer pricing involves setting prices for goods, services, and intangibles exchanged between subsidiaries of the same global corporation. This practice significantly impacts tax liabilities as it influences where profits appear in different tax jurisdictions, potentially affecting the overall tax burden of the enterprise. Consequently, the strategic manipulation of transfer prices can lead to substantial tax advantages, demonstrating its critical role in corporate financial planning.

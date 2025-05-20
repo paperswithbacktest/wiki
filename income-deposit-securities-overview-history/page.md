@@ -1,6 +1,8 @@
 ---
-title: "Income Deposit Securities: Overview and History (Algo Trading)"
-description: "Explore the role of income deposit securities IDS and fixed-income securities in investment strategies, amidst the rise of algorithmic trading in financial markets."
+category: quant_concept
+description: Explore the role of income deposit securities IDS and fixed-income securities
+  in investment strategies, amidst the rise of algorithmic trading in financial markets.
+title: 'Income Deposit Securities: Overview and History (Algo Trading)'
 ---
 
 The investment landscape is characterized by its vast array of options, ranging from traditional securities to cutting-edge algorithmic trading strategies. This article aims to provide a comprehensive exploration of prominent investment options such as income deposit securities (IDS) and fixed-income securities, including their historical development and contemporary significance. Through a detailed examination of these investment instruments, their mechanisms, benefits, and risks will be illuminated, alongside the significant impact of technological advancements on their operation and the broader investment landscape.

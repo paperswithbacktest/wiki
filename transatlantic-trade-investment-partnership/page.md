@@ -1,6 +1,8 @@
 ---
-title: "Transatlantic Trade and Investment Partnership (Algo Trading)"
-description: "Explore the complexities of the Transatlantic Trade and Investment Partnership its goals controversies and enduring influence on global trade discussions."
+category: quant_concept
+description: Explore the complexities of the Transatlantic Trade and Investment Partnership
+  its goals controversies and enduring influence on global trade discussions.
+title: Transatlantic Trade and Investment Partnership (Algo Trading)
 ---
 
 The Transatlantic Trade and Investment Partnership (TTIP) was a proposed comprehensive trade agreement between the European Union (EU) and the United States, designed to enhance trade and stimulate economic growth. Envisioned as the largest bilateral trade agreement in history, TTIP aimed to create an unprecedented economic collaboration between the two most significant economic regions globally. The strategic initiative was anticipated to set a benchmark for future global trade agreements, demonstrating the potential for extensive economic partnerships of this scale.

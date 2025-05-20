@@ -1,6 +1,8 @@
 ---
-title: "American Depositary Shares (Algo Trading)"
-description: "Explore the potential of American Depositary Shares and algorithmic trading to diversify investment portfolios by accessing foreign equities through US exchanges."
+category: quant_concept
+description: Explore the potential of American Depositary Shares and algorithmic trading
+  to diversify investment portfolios by accessing foreign equities through US exchanges.
+title: American Depositary Shares (Algo Trading)
 ---
 
 In today's interconnected global economy, investment opportunities are not confined to domestic markets. The advent of American Depositary Shares (ADS) and algorithmic trading has opened new avenues for U.S. investors, allowing them to access foreign equities while optimizing trading strategies. By employing these two financial mechanisms, investors can broaden their investment portfolios and potentially increase their returns by leveraging international market dynamics.

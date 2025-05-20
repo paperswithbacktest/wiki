@@ -1,10 +1,9 @@
 ---
-title: Comprehensive Guide to Building Machine Learning Pipelines
+category: quant_concept
 description: Machine learning pipelines automate preprocessing modeling and evaluation
   for consistent reliable results while streamlining workflow Discover more inside
+title: Comprehensive Guide to Building Machine Learning Pipelines
 ---
-
-
 
 ## Table of Contents
 

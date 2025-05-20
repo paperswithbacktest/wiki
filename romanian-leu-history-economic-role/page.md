@@ -1,6 +1,8 @@
 ---
-title: "Romanian Leu: History and Economic Role (Algo Trading)"
-description: "Explore the Romanian Leu's historical evolution and its crucial role in Romania's economy, including the rise of algorithmic trading and its modern implications."
+category: quant_concept
+description: Explore the Romanian Leu's historical evolution and its crucial role
+  in Romania's economy, including the rise of algorithmic trading and its modern implications.
+title: 'Romanian Leu: History and Economic Role (Algo Trading)'
 ---
 
 The Romanian Leu (RON), functioning as the official currency of Romania, holds a pivotal role in the nation's financial framework and economic stability. Since its introduction in the 19th century, the leu has mirrored Romania's socio-economic transformations, reflecting both historical milestones and numerous economic reforms crucial to the country's fiscal evolution. This article focuses on dissecting the leu’s historical trajectory, its contribution to Romania's economic landscape, and the burgeoning influence of algorithmic trading in shaping its modern dynamics.

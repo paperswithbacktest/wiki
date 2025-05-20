@@ -1,6 +1,8 @@
 ---
-title: "Comparative Analysis of Amazon and eBay (Algo Trading)"
-description: "Explore the comparative analysis of Amazon and eBay in algorithmic trading insights into their financial performance and strategic priorities."
+category: trading_strategy
+description: Explore the comparative analysis of Amazon and eBay in algorithmic trading
+  insights into their financial performance and strategic priorities.
+title: Comparative Analysis of Amazon and eBay (Algo Trading)
 ---
 
 The e-commerce industry, characterized by rapid growth and technological innovation, has witnessed significant contributions from leading players such as Amazon and eBay. Both companies have played vital roles in shaping the global electronic commerce landscape, each with distinctive business models and strategic approaches.

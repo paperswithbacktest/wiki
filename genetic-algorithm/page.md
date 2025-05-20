@@ -1,7 +1,8 @@
 ---
-title: Genetic Algorithms Explained A Deep Dive Into Optimization
+category: quant_concept
 description: Genetic Algorithm offers an approach to solving optimization problems
   by evolving solutions through selection and crossover Discover more inside
+title: Genetic Algorithms Explained A Deep Dive Into Optimization
 ---
 
 ![Image](images/1.png)

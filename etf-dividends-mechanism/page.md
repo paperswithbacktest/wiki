@@ -1,6 +1,8 @@
 ---
-title: "ETF Dividends Mechanism (Algo Trading)"
-description: "Explore how dividends, ETFs, and algorithmic trading intertwine to enhance returns and manage risks while optimizing modern investment strategies effectively."
+category: quant_concept
+description: Explore how dividends, ETFs, and algorithmic trading intertwine to enhance
+  returns and manage risks while optimizing modern investment strategies effectively.
+title: ETF Dividends Mechanism (Algo Trading)
 ---
 
 Dividends represent periodic distributions of a portion of a company's earnings to shareholders, often viewed as a sign of corporate financial health and a source of passive income for investors. These payments can be in the form of cash or reinvested to purchase more shares, contributing to the compounding growth of one's investment over time. The importance of dividends lies in their ability to enhance overall returns, reduce portfolio volatility, and provide a steady income stream, especially appealing in low-interest-rate environments.

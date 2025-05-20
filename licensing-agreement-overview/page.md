@@ -1,6 +1,9 @@
 ---
-title: "Licensing Agreement Overview (Algo Trading)"
-description: "Explore the benefits of licensing agreements in algorithmic trading to boost profits and minimize risks through effective use of intellectual property assets."
+category: quant_concept
+description: Explore the benefits of licensing agreements in algorithmic trading to
+  boost profits and minimize risks through effective use of intellectual property
+  assets.
+title: Licensing Agreement Overview (Algo Trading)
 ---
 
 In today's fast-paced business world, leveraging various contract types, such as licensing agreements, can significantly enhance both business operations and profits. These agreements serve as legal instruments that enable companies to capitalize on intellectual property (IP) while fostering innovation and collaboration. By granting rights to use specific intellectual properties, businesses can enter new markets efficiently, augment brand equity, and minimize risks associated with direct market entry.

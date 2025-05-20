@@ -1,6 +1,8 @@
 ---
-title: "Balance Sheet: Do Accounts Always Equal? (Algo Trading)"
-description: "Discover how balance sheet analysis underpins algorithmic trading strategies offering insights into financial health by aligning assets liabilities and equity."
+category: quant_concept
+description: Discover how balance sheet analysis underpins algorithmic trading strategies
+  offering insights into financial health by aligning assets liabilities and equity.
+title: 'Balance Sheet: Do Accounts Always Equal? (Algo Trading)'
 ---
 
 In the intricate landscape of financial analysis, the balance sheet stands as a foundational pillar, closely intertwined with financial statements. These statements serve as a crucial tool in assessing a company's financial health, guiding stakeholders through the decision-making process. Financial statements, including the balance sheet, income statement, and cash flow statement, provide a comprehensive view of a firm's operations, facilitating informed decisions regarding investments, credit extension, and operational strategies.
@@ -290,4 +292,3 @@ Incorporating the information from all financial statements delivers a comprehen
    - "Python for Finance" by Yves Hilpisch. This book teaches Python programming with applications in financial data analysis and algorithmic trading, making it a good start for beginners interested in integrating coding with financial analysis.
 
 These resources serve as a foundation for anyone looking to deepen their understanding of balance sheet analysis and its applications in algorithmic trading, offering both theoretical foundations and practical tools.
-

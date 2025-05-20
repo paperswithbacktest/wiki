@@ -1,6 +1,9 @@
 ---
-title: "Oligopsony: Definition, Mechanisms, and Examples (Algo Trading)"
-description: "Explore the influence of oligopsony on market structures with examples from industries like fast food and cocoa while examining the role of algorithmic trading."
+category: quant_concept
+description: Explore the influence of oligopsony on market structures with examples
+  from industries like fast food and cocoa while examining the role of algorithmic
+  trading.
+title: 'Oligopsony: Definition, Mechanisms, and Examples (Algo Trading)'
 ---
 
 Understanding market structures is crucial in appreciating how financial markets function, as they provide the framework within which economic agents operate and make decisions. One particular market structure, oligopsony, illustrates the dynamics when a few large buyers dominate purchasing in a market. This typically results in the exertion of considerable influence over pricing and supply chains, impacting suppliers' business practices and sustainable production capabilities. Familiar examples of oligopsony dynamics are observed in industries such as fast food and cocoa, where a limited number of companies exert significant control over large portions of the market.

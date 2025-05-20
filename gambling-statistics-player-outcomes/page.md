@@ -1,6 +1,12 @@
 ---
-title: "Gambling Statistics and Player Outcomes (Algo Trading)"
-description: "Explore the intricate relationship between gambling and algorithmic trading through probabilities and statistical models. This page investigates into the influence of player odds and casino statistics on gambling outcomes and how algorithmic trading uses data-driven strategies. Discover how probability theory guides decisions in both gambling and financial markets while exploring methods that attempt to optimize benefits and minimize risks."
+category: quant_concept
+description: Explore the intricate relationship between gambling and algorithmic trading
+  through probabilities and statistical models. This page investigates into the influence
+  of player odds and casino statistics on gambling outcomes and how algorithmic trading
+  uses data-driven strategies. Discover how probability theory guides decisions in
+  both gambling and financial markets while exploring methods that attempt to optimize
+  benefits and minimize risks.
+title: Gambling Statistics and Player Outcomes (Algo Trading)
 ---
 
 Gambling, odds, and statistics hold significant importance in the worlds of casinos and financial trading. This relationship is deeply rooted in the calculation of probabilities and the application of statistical models, which together form the backbone of strategy and prediction in these domains. The outcomes in gambling are heavily influenced by player odds and casino statistics, while algorithmic trading relies on sophisticated computational methods to inform decisions in financial markets.

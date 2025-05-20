@@ -1,7 +1,8 @@
 ---
-title: Sample Re-Weighting In Machine Learning For Imbalanced Data
+category: quant_concept
 description: Sample re-weighting helps machine learning models address data imbalance
   by prioritizing rare samples to improve accuracy and fairness Discover more inside
+title: Sample Re-Weighting In Machine Learning For Imbalanced Data
 ---
 
 ![Image](images/1.png)

@@ -1,6 +1,9 @@
 ---
-title: "Ladder Option: Overview, Functionality, and Example (Algo Trading)"
-description: "Explore the overview, functionality, and example of ladder options in algo trading. Learn how to lock in profits strategically using advanced trading techniques."
+category: quant_concept
+description: Explore the overview, functionality, and example of ladder options in
+  algo trading. Learn how to lock in profits strategically using advanced trading
+  techniques.
+title: 'Ladder Option: Overview, Functionality, and Example (Algo Trading)'
 ---
 
 Ladder options are a type of exotic option in the world of financial derivatives known for their structured approach to profit-taking. Unlike vanilla options, which provide the holder with the right, but not the obligation, to buy or sell an underlying asset at a specified price before expiration, ladder options introduce multiple price levels, or "rungs," which create opportunities to lock in profits incrementally as the asset price hits these levels. This characteristic makes ladder options particularly appealing for traders looking to secure gains while maintaining exposure to further price movements.

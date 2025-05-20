@@ -1,6 +1,9 @@
 ---
-title: "market resiliency (Algo Trading)"
-description: "Explore the concept of Market Resilience in trading analytics to understand how markets quickly stabilize after significant trades This metric is essential for traders seeking stability and informed decision-making."
+category: quant_concept
+description: Explore the concept of Market Resilience in trading analytics to understand
+  how markets quickly stabilize after significant trades This metric is essential
+  for traders seeking stability and informed decision-making.
+title: market resiliency (Algo Trading)
 ---
 
 Market Resilience (MR) has emerged as a vital metric within trading analytics, serving as an indicator of market stability following significant trading activities. In the context of today's dynamic financial markets, MR provides a crucial measure of how swiftly and effectively a market can absorb substantial trades and return to equilibrium. This capability is essential for maintaining orderly trading environments and minimizing the disruptive effects of volatility.

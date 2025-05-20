@@ -1,6 +1,9 @@
 ---
-title: "Loss Carryforward in Taxation (Algo Trading)"
-description: "Explore the advantages of loss carryforward in algo trading understand tax implications offsetting future gains with past losses to reduce tax liabilities effectively."
+category: quant_concept
+description: Explore the advantages of loss carryforward in algo trading understand
+  tax implications offsetting future gains with past losses to reduce tax liabilities
+  effectively.
+title: Loss Carryforward in Taxation (Algo Trading)
 ---
 
 In the world of finance and trading, tax rules play a crucial role in shaping strategies as they directly impact profitability and long-term success. Among these tax strategies, understanding how loss carryforward works is essential. Loss carryforward allows traders to apply losses incurred during a specific financial period to offset gains in future periods, thereby reducing taxable income. This can be particularly advantageous in volatile markets, where losses in one year might be recuperated in subsequent periods. 

@@ -1,6 +1,8 @@
 ---
-title: "Reasons for Corporate Exchange Listings (Algo Trading)"
-description: "Explore why companies switch stock exchanges focusing on liquidity, costs, and regulations. Discover the impact of algo trading on market dynamics."
+category: quant_concept
+description: Explore why companies switch stock exchanges focusing on liquidity, costs,
+  and regulations. Discover the impact of algo trading on market dynamics.
+title: Reasons for Corporate Exchange Listings (Algo Trading)
 ---
 
 The global financial landscape is characterized by constant change and adaptation, prompting companies to make strategic decisions to align more closely with their evolving business objectives. One notable strategy involves altering stock exchange listings. This decision is influenced by factors such as liquidity, cost, prestige, and regulatory concerns. Corporations may choose to transfer between exchanges, like moving from the New York Stock Exchange (NYSE) to Nasdaq, or initiate cross-listing on multiple platforms to enhance their visibility and investor reach.

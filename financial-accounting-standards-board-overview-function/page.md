@@ -1,6 +1,9 @@
 ---
-title: "Financial Accounting Standards Board: Overview and Function (Algo Trading)"
-description: "Explore the crucial role of the Financial Accounting Standards Board in setting accounting standards and its impact on financial reporting and algorithmic trading."
+category: quant_concept
+description: Explore the crucial role of the Financial Accounting Standards Board
+  in setting accounting standards and its impact on financial reporting and algorithmic
+  trading.
+title: 'Financial Accounting Standards Board: Overview and Function (Algo Trading)'
 ---
 
 The Financial Accounting Standards Board (FASB) plays a crucial role in the establishment of accounting standards within the United States. As an independent, private-sector organization, FASB is responsible for developing the Generally Accepted Accounting Principles (GAAP) that govern the preparation of financial statements for publicly traded and some privately held companies. These standards are designed to ensure transparency, consistency, and comparability of financial reporting, which is essential for informed decision-making by investors, creditors, and other stakeholders.

@@ -1,6 +1,8 @@
 ---
-title: "Boundary Conditions and Their Functionality (Algo Trading)"
-description: "Optimize your algorithmic trading strategies by understanding the crucial role of boundary conditions in defining operational limits and managing market complexities."
+category: quant_concept
+description: Optimize your algorithmic trading strategies by understanding the crucial
+  role of boundary conditions in defining operational limits and managing market complexities.
+title: Boundary Conditions and Their Functionality (Algo Trading)
 ---
 
 Algorithmic trading represents a foundational element of today's financial markets, effectively operating at the confluence of physics, mathematics, and cutting-edge computing technologies. These disciplines collectively support the continuous evolution of trading strategies that can handle the increasing complexity and speed of the markets. At the core of this sophisticated system lie boundary conditions and mathematical principles, which are vital in refining and optimizing trading strategies.

@@ -1,6 +1,9 @@
 ---
-title: "Health Care Risk Management (Algo Trading)"
-description: "Explore how advanced algorithms from trading are redefining healthcare risk management, enhancing patient safety, and improving care quality through data-driven strategies."
+category: quant_concept
+description: Explore how advanced algorithms from trading are redefining healthcare
+  risk management, enhancing patient safety, and improving care quality through data-driven
+  strategies.
+title: Health Care Risk Management (Algo Trading)
 ---
 
 The integration of advanced algorithms in sectors beyond their conventional applications, such as finance, is setting the stage for significant developments in healthcare risk management and patient safety. This evolution is marked by the shift towards leveraging sophisticated data management techniques, traditionally used in algorithmic trading, to enhance healthcare operations.

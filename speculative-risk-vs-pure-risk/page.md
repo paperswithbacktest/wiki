@@ -1,6 +1,8 @@
 ---
-title: "Speculative Risk Vs. Pure Risk (Algo Trading)"
-description: "Explore the crucial differences between speculative and pure risk in algo trading Discover strategies to navigate these risks for greater market success"
+category: quant_concept
+description: Explore the crucial differences between speculative and pure risk in
+  algo trading Discover strategies to navigate these risks for greater market success
+title: Speculative Risk Vs. Pure Risk (Algo Trading)
 ---
 
 In finance, understanding risk is fundamental to developing effective trading and investment strategies. In this landscape, algorithmic trading has emerged as a powerful tool, employing complex mathematical models and fast computing to exploit market opportunities. The success of these strategies, however, relies on a deep comprehension of the types of risk involved—pure risk and speculative risk—and the implementation of advanced risk management techniques.

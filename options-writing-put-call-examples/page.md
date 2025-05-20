@@ -1,6 +1,8 @@
 ---
-title: "Options Writing: Put and Call Examples (Algo Trading)"
-description: "Unlock insights into options trading with put and call examples and discover how algorithmic trading enhances strategy, speeds execution, and optimizes outcomes."
+category: quant_concept
+description: Unlock insights into options trading with put and call examples and discover
+  how algorithmic trading enhances strategy, speeds execution, and optimizes outcomes.
+title: 'Options Writing: Put and Call Examples (Algo Trading)'
 ---
 
 Options trading has witnessed a marked increase in popularity over recent years, reflecting a growing interest among investors and traders seeking to optimize their portfolios and capitalize on market movements. Options, which are contracts providing the right but not the obligation to buy or sell an asset at a specified price before a certain date, come principally in two forms: call options and put options. Call options allow traders to buy an asset at a predetermined price, while put options enable the sale of an asset under similar conditions. These instruments offer strategic advantages such as leverage, risk management, and portfolio diversification.
@@ -164,4 +166,3 @@ For those interested in delving deeper into the intricacies of algorithmic optio
 [6]: Das, S. R. (2003). ["Computational Models for Options Pricing."](https://srdas.github.io/Papers/BlackScholesNN.pdf) Springer.
 
 [7]: Engel, A., & Last, C. (2018). ["Algorithmic Trading Demystified."](https://onlinelibrary.wiley.com/doi/full/10.1111/1745-9133.12358) Springer.
-

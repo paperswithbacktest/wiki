@@ -1,6 +1,9 @@
 ---
-title: "International Financial Reporting Standards (Algo Trading)"
-description: "Explore the essential role of International Financial Reporting Standards in algorithmic trading enhancing transparency and data accuracy for global financial markets."
+category: quant_concept
+description: Explore the essential role of International Financial Reporting Standards
+  in algorithmic trading enhancing transparency and data accuracy for global financial
+  markets.
+title: International Financial Reporting Standards (Algo Trading)
 ---
 
 In today's globalized world, financial reporting standards are essential for maintaining transparency and comparability across international markets. They serve as a universal language for financial statements, facilitating cross-border transactions and investments. International Financial Reporting Standards (IFRS) have emerged as the preferred global accounting framework, with 168 jurisdictions adopting these standards. The widespread adoption of IFRS underscores its importance in promoting clarity and consistency in financial reporting, enabling businesses and investors to make more informed decisions.

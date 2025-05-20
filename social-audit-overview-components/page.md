@@ -1,6 +1,9 @@
 ---
-title: "Social Audit Overview and Components (Algo Trading)"
-description: "Explore the role of social audits in promoting corporate accountability and ethical practices, especially within algorithmic trading, enhancing stakeholder trust and sustainability."
+category: quant_concept
+description: Explore the role of social audits in promoting corporate accountability
+  and ethical practices, especially within algorithmic trading, enhancing stakeholder
+  trust and sustainability.
+title: Social Audit Overview and Components (Algo Trading)
 ---
 
 In today's fast-paced and increasingly transparent business environment, organizations are more scrutinized than ever before. With heightened public awareness and access to information, stakeholders demand greater accountability and ethical conduct from businesses. As such, corporate accountability has become a pivotal aspect of any successful business strategy, influencing public perception and investor confidence.

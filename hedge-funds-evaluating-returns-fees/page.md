@@ -1,6 +1,8 @@
 ---
-title: "Hedge Funds: Evaluating Returns and Fees (Algo Trading)"
-description: "Explore hedge fund returns and fees with a focus on algorithmic trading Discover the impact of high fees on performance and if modern tech optimizes gains"
+category: trading_strategy
+description: Explore hedge fund returns and fees with a focus on algorithmic trading
+  Discover the impact of high fees on performance and if modern tech optimizes gains
+title: 'Hedge Funds: Evaluating Returns and Fees (Algo Trading)'
 ---
 
 Hedge funds have maintained a prominent position in the landscape of global finance, often captivating investors and financial analysts with their aggressive investment strategies and capacity for high-stakes trading. These funds are structured to pool capital from accredited individuals or institutional investors aiming to generate substantial returns. To achieve these outcomes, hedge funds employ a variety of sophisticated trading strategies that set them apart from traditional investment vehicles.

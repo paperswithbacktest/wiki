@@ -1,6 +1,8 @@
 ---
-title: "Value of Risk: Overview and Examples (Algo Trading)"
-description: "Explore the complexities of algorithmic trading with insights into risk management strategies and the Value of Risk to align financial goals and compliance."
+category: quant_concept
+description: Explore the complexities of algorithmic trading with insights into risk
+  management strategies and the Value of Risk to align financial goals and compliance.
+title: 'Value of Risk: Overview and Examples (Algo Trading)'
 ---
 
 The financial landscape has undergone significant transformations with the introduction and growth of algorithmic trading. This sophisticated trading method, using algorithms to make high-speed, automated financial decisions, has reshaped markets by increasing trading volumes and enhancing market liquidity. However, it also introduces a new spectrum of financial risks that need to be comprehensively understood to maintain profitability and adhere to regulatory standards.

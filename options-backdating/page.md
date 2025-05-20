@@ -1,6 +1,9 @@
 ---
-title: "Options Backdating (Algo Trading)"
-description: "Explore the dynamics of corporate governance, stock options backdating, and algorithmic trading, focusing on their ethical and regulatory implications for businesses."
+category: quant_concept
+description: Explore the dynamics of corporate governance, stock options backdating,
+  and algorithmic trading, focusing on their ethical and regulatory implications for
+  businesses.
+title: Options Backdating (Algo Trading)
 ---
 
 Corporate governance plays a pivotal role in determining the ethical and legal boundaries within which businesses operate. It encompasses the framework of rules, relationships, systems, and processes within and by which authority is exercised and controlled in corporations. A sound corporate governance structure ensures accountability, fairness, and transparency in a company's relationship with all its stakeholders, including shareholders, management, customers, and the community.

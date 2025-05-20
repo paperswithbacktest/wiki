@@ -1,6 +1,9 @@
 ---
-title: "Managed Accounts and Mutual Funds: Comparison and Functionality (Algo Trading)"
-description: "Gain insights into the nuances between managed accounts mutual funds and algorithmic trading Discover how each investment type functions to optimize your strategy"
+category: quant_concept
+description: Gain insights into the nuances between managed accounts mutual funds
+  and algorithmic trading Discover how each investment type functions to optimize
+  your strategy
+title: 'Managed Accounts and Mutual Funds: Comparison and Functionality (Algo Trading)'
 ---
 
 In the intricate world of investments, selecting the right type of investment account can be pivotal for maximizing returns while managing risks. Investors today have an array of options, each with distinct attributes that cater to varying needs and objectives. Through this article, we aim to compare managed accounts, mutual funds, and algorithmic trading, three popular investment vehicles, thereby aiding investors in making informed decisions.

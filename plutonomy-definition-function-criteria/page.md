@@ -1,6 +1,8 @@
 ---
-title: "Plutonomy: Definition, Function, and Criteria (Algo Trading)"
-description: "Explore the impact of plutonomy and algorithmic trading on wealth inequality and economic theories Learn how these concepts shape modern economic landscapes"
+category: quant_concept
+description: Explore the impact of plutonomy and algorithmic trading on wealth inequality
+  and economic theories Learn how these concepts shape modern economic landscapes
+title: 'Plutonomy: Definition, Function, and Criteria (Algo Trading)'
 ---
 
 The widening gap between the rich and the poor is an increasingly pressing issue in today's global economy. As wealth becomes more concentrated in the hands of a few, significant socio-economic concerns arise regarding equity, economic stability, and democratic governance. This article examines the interconnected themes of wealth inequality, plutonomy, economic theory, and algorithmic trading, shedding light on their roles in shaping the modern economic landscape.

@@ -1,6 +1,9 @@
 ---
-title: "Comparison of Cash Dividends and Stock Dividends (Algo Trading)"
-description: "Compare cash dividends, providing immediate income, and stock dividends, offering equity growth. Explore their impact on portfolio strategy and financial goals."
+category: quant_concept
+description: Compare cash dividends, providing immediate income, and stock dividends,
+  offering equity growth. Explore their impact on portfolio strategy and financial
+  goals.
+title: Comparison of Cash Dividends and Stock Dividends (Algo Trading)
 ---
 
 The stock market offers a multitude of strategies aimed at maximizing investor returns, enabling both novice and experienced investors to tailor their approaches to meet distinct financial objectives. Traditional investment strategies, such as dividends, provide a foundational means through which investors can earn income and grow their portfolios. Dividends, typically issued in cash or as additional stock shares, serve as a testament to a company's profitability and financial health, rewarding shareholders through consistent financial returns.

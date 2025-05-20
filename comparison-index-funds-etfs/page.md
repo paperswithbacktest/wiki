@@ -1,6 +1,12 @@
 ---
-title: "Comparison of Index Funds and ETFs (Algo Trading)"
-description: "Explore the distinctions between ETFs, Index Funds, and Algorithmic Trading to enhance your investment strategy. This comprehensive guide evaluates the benefits and drawbacks of each investment vehicle, highlighting their unique features and how they align with different financial goals. Provide yourself with the necessary insights to make informed and empowered investment decisions in today's complex financial landscape."
+category: trading_strategy
+description: Explore the distinctions between ETFs, Index Funds, and Algorithmic Trading
+  to enhance your investment strategy. This comprehensive guide evaluates the benefits
+  and drawbacks of each investment vehicle, highlighting their unique features and
+  how they align with different financial goals. Provide yourself with the necessary
+  insights to make informed and empowered investment decisions in today's complex
+  financial landscape.
+title: Comparison of Index Funds and ETFs (Algo Trading)
 ---
 
 In today's dynamic financial markets, investors have a multitude of tools and strategies to consider for wealth enhancement. Exchange-Traded Funds (ETFs), Index Funds, and Algorithmic Trading stand out among the popular choices due to their unique attributes and alignment with various investment objectives.

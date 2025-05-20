@@ -1,6 +1,12 @@
 ---
-title: "Cholesky Decomposition in Python and NumPy (Algo Trading)"
-description: Explore the efficiency of Cholesky Decomposition in algorithmic trading with Python and NumPy. This method optimizes trading strategies by transforming matrices, providing computational benefits and numerical stability. Learn its application in portfolio management and risk assessment, enhancing precision and speed in trading decisions. Discover how NumPy supports these processes, offering robust tools for financial data analysis.
+category: quant_concept
+description: Explore the efficiency of Cholesky Decomposition in algorithmic trading
+  with Python and NumPy. This method optimizes trading strategies by transforming
+  matrices, providing computational benefits and numerical stability. Learn its application
+  in portfolio management and risk assessment, enhancing precision and speed in trading
+  decisions. Discover how NumPy supports these processes, offering robust tools for
+  financial data analysis.
+title: Cholesky Decomposition in Python and NumPy (Algo Trading)
 ---
 
 Algorithmic trading has transformed the financial markets by allowing traders to automate trading decisions based on well-defined rules and complex mathematical models. Among various mathematical techniques employed in this domain, Cholesky Decomposition stands out, particularly for its efficiency in handling matrices that exhibit numerical stability and computation intensive tasks. It is a matrix factorization method that transforms a Hermitian and positive-definite matrix into the product of a lower triangular matrix and its conjugate transpose, providing computational benefits and ensuring precision in results.

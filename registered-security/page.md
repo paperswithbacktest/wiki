@@ -1,6 +1,9 @@
 ---
-title: "Registered Security (Algo Trading)"
-description: "Explore the complexities of financial instruments, registered securities, and algorithmic trading while understanding regulation's role in ensuring market integrity."
+category: quant_concept
+description: Explore the complexities of financial instruments, registered securities,
+  and algorithmic trading while understanding regulation's role in ensuring market
+  integrity.
+title: Registered Security (Algo Trading)
 ---
 
 In today's complex financial markets, understanding financial instruments, registered securities, and regulation has become essential for investors and market participants. Financial instruments, ranging from equities to derivatives, play a fundamental role in enabling capital flow and investment. The nuances of registered securities and the regulatory frameworks around them, such as the role of the Securities and Exchange Commission (SEC) in the United States, are critical in ensuring transparency and compliance.

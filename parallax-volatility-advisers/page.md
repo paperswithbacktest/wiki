@@ -1,6 +1,9 @@
 ---
-title: "Parallax Volatility Advisers (Algo Trading)"
-description: "Explore Parallax Volatility Advisers to learn their innovative approach to algorithmic trading with a focus on volatility strategies for optimal market performance."
+category: trading_strategy
+description: Explore Parallax Volatility Advisers to learn their innovative approach
+  to algorithmic trading with a focus on volatility strategies for optimal market
+  performance.
+title: Parallax Volatility Advisers (Algo Trading)
 ---
 
 Parallax Volatility Advisers has established itself as a prominent entity in the domain of algorithmic trading, particularly with its emphasis on volatility strategies. This article aims to provide an insight into who Parallax Volatility Advisers are, their distinct approach to algorithmic trading, and their influence on the financial markets. The focus will be on the mechanics of their trading systems, the role of volatility in their strategies, and the attributes that distinguish Parallax Volatility Advisers from their industry rivals.

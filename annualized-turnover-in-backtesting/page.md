@@ -1,6 +1,11 @@
 ---
-title: "Annualized turnover in backtesting (Algo Trading)"
-description: Gain a deep understanding of annualized turnover in algorithmic trading backtesting and its vital role in refining strategies. Discover how this key metric evaluates trade frequency within portfolios, impacting both transaction costs and strategy efficiency. Learn to balance trading opportunities with cost minimization for successful strategy optimization.
+category: trading_strategy
+description: Gain a deep understanding of annualized turnover in algorithmic trading
+  backtesting and its vital role in refining strategies. Discover how this key metric
+  evaluates trade frequency within portfolios, impacting both transaction costs and
+  strategy efficiency. Learn to balance trading opportunities with cost minimization
+  for successful strategy optimization.
+title: Annualized turnover in backtesting (Algo Trading)
 ---
 
 In the competitive world of algorithmic trading, backtesting serves as a fundamental process essential for determining the potential success of trading strategies. By allowing traders to simulate the performance of their strategies using historical market data, backtesting provides insights into how their strategies might perform in real market conditions. One of the key metrics used in this evaluation is annualized turnover. This metric plays a crucial role in assessing the efficiency and viability of trading strategies.

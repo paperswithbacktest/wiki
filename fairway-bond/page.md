@@ -1,6 +1,8 @@
 ---
-title: "Fairway Bond (Algo Trading)"
-description: "Explore the benefits and strategies of fairway bond investments blended with algorithmic trading to optimize returns while managing risks in bond markets."
+category: trading_strategy
+description: Explore the benefits and strategies of fairway bond investments blended
+  with algorithmic trading to optimize returns while managing risks in bond markets.
+title: Fairway Bond (Algo Trading)
 ---
 
 In finance, investors constantly seek innovative strategies promising solid returns while managing risk. One such strategy is fairway bond investment, a type of bond recognized for its floating interest rates. Fairway bonds, often referred to as index floaters or range accrual notes, feature interest payments linked to a benchmark interest rate or index, which fluctuate within a predefined range. This structure makes them particularly attractive for investors anticipating stable interest rates, offering a balance between risk and return that traditional fixed-rate bonds may not provide.

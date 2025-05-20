@@ -1,6 +1,9 @@
 ---
-title: "Commodity Selection Index: Overview and Functionality (Algo Trading)"
-description: "Explore the Commodity Selection Index CSI a vital tool in commodities trading for identifying short-term opportunities Ensures informed decision-making in volatile markets"
+category: trading_strategy
+description: Explore the Commodity Selection Index CSI a vital tool in commodities
+  trading for identifying short-term opportunities Ensures informed decision-making
+  in volatile markets
+title: 'Commodity Selection Index: Overview and Functionality (Algo Trading)'
 ---
 
 In today's fast-paced trading environment, algorithmic and quantitative tools have significantly transformed the financial landscape, especially in commodities trading. Among these tools, the Commodity Selection Index (CSI) plays a critical role. The CSI is a technical indicator that helps traders identify short-term trading opportunities in the commodities market, which is often characterized by rapid price movements and high volatility.

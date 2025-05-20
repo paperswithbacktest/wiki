@@ -1,6 +1,9 @@
 ---
-title: "Canadian-Originated Preferred Securities (Algo Trading)"
-description: "Discover how Canadian-originated preferred securities and algorithmic trading reshape the investment landscape, offering strategic advantages in a tech-driven market."
+category: trading_strategy
+description: Discover how Canadian-originated preferred securities and algorithmic
+  trading reshape the investment landscape, offering strategic advantages in a tech-driven
+  market.
+title: Canadian-Originated Preferred Securities (Algo Trading)
 ---
 
 In recent years, the financial markets have increasingly embraced technology and innovation, significantly altering the landscape of securities trading. This shift is particularly evident in the Canadian securities market, where a convergence of traditional and modern financial instruments is reshaping investment strategies. At the heart of this transformation are Canadian-originated preferred securities (COPrS) and the burgeoning field of algorithmic trading.

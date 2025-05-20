@@ -1,6 +1,10 @@
 ---
-title: "Liquidity Risk Premium (Algo Trading)"
-description: Discover the concept of Liquidity Risk Premium in finance and its significance in algorithmic trading. Learn how academic research supports this risk factor, its impact on less liquid assets, and risks to consider. Maximize returns while managing risks with algo strategies. Explore resources for further study.
+category: quant_concept
+description: Discover the concept of Liquidity Risk Premium in finance and its significance
+  in algorithmic trading. Learn how academic research supports this risk factor, its
+  impact on less liquid assets, and risks to consider. Maximize returns while managing
+  risks with algo strategies. Explore resources for further study.
+title: Liquidity Risk Premium (Algo Trading)
 ---
 
 Financial markets serve as the backbone of the global economic infrastructure, facilitating the exchange of financial instruments, raising capital, allocating resources, and managing risks. Within these markets, algorithmic trading has emerged as a dominant force, revolutionizing how trades are executed. Algorithmic trading employs sophisticated mathematical models and algorithms to execute orders rapidly and efficiently, often leveraging high-frequency trading (HFT) techniques. These strategies have become pivotal as they minimize human error, optimize execution speed, and capitalize on market inefficiencies at scales beyond human capability.

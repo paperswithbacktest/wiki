@@ -1,6 +1,9 @@
 ---
-title: "Illegal Insider Trading: Definition and Mechanisms (Algo Trading)"
-description: "Explore the complexities of illegal insider trading and its implications for financial markets Understanding securities fraud mechanisms and the role of algorithmic trading"
+category: quant_concept
+description: Explore the complexities of illegal insider trading and its implications
+  for financial markets Understanding securities fraud mechanisms and the role of
+  algorithmic trading
+title: 'Illegal Insider Trading: Definition and Mechanisms (Algo Trading)'
 ---
 
 Securities fraud is a critical issue in financial markets, encompassing various illegal activities that deceive investors and manipulate financial asset prices, ultimately undermining the integrity of the markets. The impact of securities fraud is profound, leading to significant financial losses and eroding trust among investors. Notable forms of securities fraud include Ponzi schemes, pump-and-dump schemes, and insider trading. Each of these fraudulent activities can distort market operations, affect investor decision-making, and lead to significant legal repercussions for the perpetrators.

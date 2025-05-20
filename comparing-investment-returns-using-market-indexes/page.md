@@ -1,6 +1,8 @@
 ---
-title: "Comparing Investment Returns Using Market Indexes (Algo Trading)"
-description: "Unlock insights into market indexes and algorithmic trading Explore how benchmarks like the S&P 500 shape investment returns and refine trading strategies"
+category: trading_strategy
+description: Unlock insights into market indexes and algorithmic trading Explore how
+  benchmarks like the S&P 500 shape investment returns and refine trading strategies
+title: Comparing Investment Returns Using Market Indexes (Algo Trading)
 ---
 
 Market indexes are fundamental tools in the world of finance, providing essential benchmarks for investors to assess the performance of their portfolios. These indexes serve as snapshots of market segments, offering a reference point for investment returns. For example, major market indexes like the S&P 500, Dow Jones Industrial Average, and Nasdaq 100 are commonly used as proxies for broader market performance. By comparing their portfolio returns to these benchmarks, investors gain insights into whether they are outperforming or underperforming the market.

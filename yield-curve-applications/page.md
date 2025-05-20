@@ -1,6 +1,9 @@
 ---
-title: "Yield Curve and Its Applications (Algo Trading)"
-description: "Explore the pivotal role of the yield curve in financial analysis and algorithmic trading. Discover how market dynamics shape investment strategies for optimal returns."
+category: trading_strategy
+description: Explore the pivotal role of the yield curve in financial analysis and
+  algorithmic trading. Discover how market dynamics shape investment strategies for
+  optimal returns.
+title: Yield Curve and Its Applications (Algo Trading)
 ---
 
 Investment strategies are pivotal in navigating the complex world of finance, providing structured approaches to maximizing returns while effectively managing risk. These strategies are formulated to help investors achieve their financial goals by choosing an appropriate mix of financial instruments. A key aspect of successful investment strategy is understanding market dynamics, which is where financial analysis plays a critical role. By thoroughly evaluating financial data, investors can make informed decisions, identifying potential opportunities and risks that the market presents.

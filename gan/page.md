@@ -1,7 +1,8 @@
 ---
-title: Generative Adversarial Networks for Realistic Data Creation
+category: quant_concept
 description: Generative Adversarial Networks power realistic image and data creation
   through adversarial neural training with continuous feedback Discover more inside
+title: Generative Adversarial Networks for Realistic Data Creation
 ---
 
 ![Image](images/1.webp)

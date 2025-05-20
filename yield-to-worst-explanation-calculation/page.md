@@ -1,6 +1,8 @@
 ---
-title: "Yield to Worst: Explanation and Calculation (Algo Trading)"
-description: "Understand Yield to Worst in algo trading Learn to calculate this key bond metric optimize trades with precision and manage risks for better returns"
+category: quant_concept
+description: Understand Yield to Worst in algo trading Learn to calculate this key
+  bond metric optimize trades with precision and manage risks for better returns
+title: 'Yield to Worst: Explanation and Calculation (Algo Trading)'
 ---
 
 In the world of finance, making informed investment decisions is essential for optimizing returns and minimizing risks. One of the critical metrics used by investors to evaluate potential investments, especially in the bond market, is the Yield to Worst (YTW). YTW represents the lowest potential yield that a bondholder can receive, assuming the issuer exercises all call options before the maturity date. This metric is particularly relevant in assessing callable bonds, where the issuer has the option to repay the bond before its maturity date, often when interest rates decline.

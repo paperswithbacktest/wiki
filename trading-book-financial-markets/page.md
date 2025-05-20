@@ -1,6 +1,9 @@
 ---
-title: "Trading Book in Financial Markets (Algo Trading)"
-description: "Explore the complexities of algorithmic trading and trading books in financial markets Discover strategies for investment and risk management in this dynamic arena"
+category: trading_strategy
+description: Explore the complexities of algorithmic trading and trading books in
+  financial markets Discover strategies for investment and risk management in this
+  dynamic arena
+title: Trading Book in Financial Markets (Algo Trading)
 ---
 
 Algorithmic trading, or algo trading, represents a significant advancement within financial markets, gaining considerable traction in recent years. By leveraging computer programs to execute trades based on predefined criteria, algorithmic trading enhances efficiency and decision-making capabilities that are beyond human capacity. This article focuses on key aspects of financial markets investment, particularly emphasizing trading books and algorithmic trading. 

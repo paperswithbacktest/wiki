@@ -1,6 +1,11 @@
 ---
-title: "Slippage in Finance (Algo Trading)"
-description: "Explore the concept of slippage in finance and algorithmic trading where the difference between projected and actual trade prices can impact trading strategies especially during market volatility or low liquidity Learn about its causes in different markets its effects on execution price and strategies to minimize slippage to optimize trading outcomes"
+category: quant_concept
+description: Explore the concept of slippage in finance and algorithmic trading where
+  the difference between projected and actual trade prices can impact trading strategies
+  especially during market volatility or low liquidity Learn about its causes in different
+  markets its effects on execution price and strategies to minimize slippage to optimize
+  trading outcomes
+title: Slippage in Finance (Algo Trading)
 ---
 
 Slippage is a term in finance and trading that describes the difference between the projected price of a trade and the actual price at which it is executed. This variance can be particularly noticeable in situations of market volatility, potentially affecting the efficiency and success of trading strategies. Both novice and seasoned traders can find themselves challenged by slippage, as it demands careful consideration in the planning of trades.

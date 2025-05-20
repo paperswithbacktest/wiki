@@ -1,6 +1,8 @@
 ---
-title: "Bond Washing in Fixed Income Markets (Algo Trading)"
-description: "Explore the evolution of bond markets focusing on fixed income investments and algorithmic trading plus uncover strategies like bond washing and their impacts."
+category: quant_concept
+description: Explore the evolution of bond markets focusing on fixed income investments
+  and algorithmic trading plus uncover strategies like bond washing and their impacts.
+title: Bond Washing in Fixed Income Markets (Algo Trading)
 ---
 
 The financial world has undergone substantial transformation with the advent of novel investment strategies, reshaping how portfolios are structured and managed. Among the foundational elements of a diversified investment portfolio are bond investments and fixed income assets. These instruments have traditionally provided investors with steadiness through regular returns and mitigated against market volatility. Fixed income securities, such as bonds, are critical in stabilizing an investment portfolio by offering predictable income streams and serving as a hedge against more volatile asset classes.
@@ -167,4 +169,3 @@ Ernest P. Chan's "Algorithmic Trading: Winning Strategies" examines the transfor
 Marcos Lopez de Prado's "Advances in Financial Machine Learning" investigates into the intersection of machine learning and finance. The work provides insights into how machine learning can be applied for analyzing financial data, optimizing trading strategies, and improving market predictions, highlighting the sophisticated tools driving contemporary algorithmic trading.
 
 Salih N. Neftci's "Principles of Financial Engineering" serves as an authoritative text on the design and application of financial instruments and derivatives. It covers mathematical models and practical strategies to manage financial risks and create innovative trading solutions, making it a crucial reference for financial engineers and investors alike.
-

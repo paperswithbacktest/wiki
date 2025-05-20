@@ -1,6 +1,9 @@
 ---
-title: "Productivity and Costs Overview (Algo Trading)"
-description: "Explore the impact of algorithmic trading on productivity and economic costs. Discover how this tech-driven trend optimizes trade execution and market efficiency."
+category: quant_concept
+description: Explore the impact of algorithmic trading on productivity and economic
+  costs. Discover how this tech-driven trend optimizes trade execution and market
+  efficiency.
+title: Productivity and Costs Overview (Algo Trading)
 ---
 
 Algorithmic trading, the use of computer algorithms to execute trading strategies, has significantly reshaped financial markets. This paradigm shift has introduced new opportunities and challenges, transforming how traders, institutions, and economies interact. Algorithmic trading harnesses technology to automate transactions, enabling rapid and high-volume trades that were previously impossible. This innovation has improved market efficiency by optimizing trade execution and reducing transaction costs.
@@ -157,4 +160,3 @@ Understanding the dynamics between economic costs, productivity, and algorithmic
    - Though not directly targeted at algorithmic trading, this article sheds light on financial market behaviors that algorithmic strategies often seek to exploit, addressed through the lens of public offerings and their performance.
 
 These resources collectively provide a foundational understanding of algorithmic trading, from its economic impacts to its technical intricacies, assisting in grasping the complexities of this evolving domain.
-

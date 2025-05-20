@@ -1,6 +1,9 @@
 ---
-title: "Quantitative Easing and the Absence of Hyperinflation (Algo Trading)"
-description: "Explore the intricate relationship between hyperinflation, quantitative easing, monetary policy, and algorithmic trading in shaping today's global financial landscape."
+category: quant_concept
+description: Explore the intricate relationship between hyperinflation, quantitative
+  easing, monetary policy, and algorithmic trading in shaping today's global financial
+  landscape.
+title: Quantitative Easing and the Absence of Hyperinflation (Algo Trading)
 ---
 
 The complex landscape of modern finance is significantly shaped by the interplay of hyperinflation, monetary policy, quantitative easing (QE), and algorithmic trading. These elements collectively contribute to the dynamics of global markets and economic strategies, especially during periods of uncertainty. Hyperinflation represents an extreme condition of economic instability, marked by an exponential increase in prices and a subsequent loss of currency value, while monetary policy, within the arsenal of central banks, strives to maintain economic equilibrium and prevent such crises. 

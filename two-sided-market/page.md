@@ -1,6 +1,9 @@
 ---
-title: "Two-Sided Market (Algo Trading)"
-description: "Explore the transformative power of two-sided markets in algorithmic trading Learn how platforms connect user groups optimize interactions and drive sustainable growth"
+category: quant_concept
+description: Explore the transformative power of two-sided markets in algorithmic
+  trading Learn how platforms connect user groups optimize interactions and drive
+  sustainable growth
+title: Two-Sided Market (Algo Trading)
 ---
 
 In today's digital economy, the two-sided market business model has become increasingly prevalent. These platforms effectively connect two distinct user groups, facilitating interactions and transactions between them while creating value for both sides. Companies like Uber and Airbnb have thrived using this model, revolutionizing their respective industries by efficiently linking customers to service providers. This innovative approach not only fosters a competitive advantage but also transforms traditional market structures by leveraging network effects.

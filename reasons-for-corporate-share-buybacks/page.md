@@ -1,6 +1,8 @@
 ---
-title: "Reasons for Corporate Share Buybacks (Algo Trading)"
-description: "Explore the reasons behind corporate share buybacks and how algorithmic trading optimizes these strategies to boost shareholder value and market confidence."
+category: quant_concept
+description: Explore the reasons behind corporate share buybacks and how algorithmic
+  trading optimizes these strategies to boost shareholder value and market confidence.
+title: Reasons for Corporate Share Buybacks (Algo Trading)
 ---
 
 In corporate finance, stock repurchases, or share buybacks, are essential strategies used by companies to increase shareholder value. By buying back shares, a company reduces the number of outstanding shares, which can positively impact its stock price. This reduction in shares often leads to improved financial ratios, such as earnings per share (EPS) and return on equity (ROE), making the company more attractive to investors.
@@ -226,4 +228,3 @@ The forward-thinking application of algorithmic trading in buybacks aligns with 
 10. **Marosi, Andras, and Nadia N. Massoud. "Why Do Firms Use Stock Buybacks to Distribute Cash? An Empirical Examination." Journal of Financial Economics.** This article investigates cash distribution via buybacks, comparing it with alternatives like dividends, and analyzing the incentives involved.
 
 These references provide a comprehensive foundation for understanding the strategic, financial, and regulatory aspects of share buybacks and algorithmic trading.
-

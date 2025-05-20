@@ -1,6 +1,8 @@
 ---
-title: "Green Bonds: Types, Buying Process, and FAQs (Algo Trading)"
-description: "Explore the synergy between green bonds and algorithmic trading to uncover how they offer investors financial returns and environmental benefits."
+category: quant_concept
+description: Explore the synergy between green bonds and algorithmic trading to uncover
+  how they offer investors financial returns and environmental benefits.
+title: 'Green Bonds: Types, Buying Process, and FAQs (Algo Trading)'
 ---
 
 In an era where sustainable finance is increasingly prioritized, understanding the synergy between green bonds and algorithmic trading is crucial for future-focused investors. Green bonds, as a financial instrument, are designed to fund projects with positive environmental impacts, thereby aligning investments with the broader goals of environmental sustainability. These bonds finance a variety of initiatives, such as renewable energy projects, energy efficiency improvements, and sustainable water management systems. Their commitment to strict environmental criteria and reporting obligations distinguishes them from traditional bonds, providing transparency and accountability that appeal to environmentally conscious investors.

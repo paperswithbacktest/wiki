@@ -1,6 +1,8 @@
 ---
-title: "Insider Information: Examples and Legal Issues (Algo Trading)"
-description: "Explore the complexities of insider trading and algorithmic trading impacting financial markets while understanding the legal framework and ethical challenges."
+category: quant_concept
+description: Explore the complexities of insider trading and algorithmic trading impacting
+  financial markets while understanding the legal framework and ethical challenges.
+title: 'Insider Information: Examples and Legal Issues (Algo Trading)'
 ---
 
 Insider trading often brings to mind images of stock market scandals and corporate misconduct. At its core, insider trading involves the buying or selling of stocks based on confidential information that is not available to the general public. This type of trading can provide significant financial advantages to those with access to privileged information, but it also undermines the principle of fair market practices, potentially harming uninformed investors.

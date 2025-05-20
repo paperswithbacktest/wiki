@@ -1,6 +1,8 @@
 ---
-title: "Debt-to-Capital Ratio (Algo Trading)"
-description: "Explore the significance of the debt-to-capital ratio in evaluating financial leverage and risk management, crucial for optimizing algorithmic trading strategies."
+category: quant_concept
+description: Explore the significance of the debt-to-capital ratio in evaluating financial
+  leverage and risk management, crucial for optimizing algorithmic trading strategies.
+title: Debt-to-Capital Ratio (Algo Trading)
 ---
 
 The world of finance is intricate and under perpetual change, characterized by a multitude of tools and metrics designed to evaluate a company's financial health. Among these analytical tools, financial ratios play a pivotal role. They are indispensable for assessing a company's risk and profitability, providing foundational insights that shape investment strategies. This article zeroes in on one specific financial metric: the debt-to-capital ratio. This metric is of paramount importance within the broader context of capital structure analysis and its consequential application in algorithmic trading.
@@ -181,4 +183,3 @@ Books, articles, and resources provide valuable insights into financial ratios a
    - For those interested in capital structure, *Capital Structure and Corporate Financing Decisions: Theory, Evidence, and Practice* by H. Kent Baker and Gerald S. Martin offers an in-depth exploration of how companies manage their capital structures and the strategic use of debt.
 
 These recommended resources should serve as a solid foundation for anyone seeking to enhance their understanding of financial ratios and their practical applications in evaluating company health and constructing sophisticated trading strategies.
-

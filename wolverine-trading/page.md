@@ -1,6 +1,8 @@
 ---
-title: "Wolverine Trading (Algo Trading)"
-description: "Wolverine Trading excels in algorithmic trading utilizing advanced strategies and technology to enhance market efficiency and maintain a competitive edge."
+category: trading_strategy
+description: Wolverine Trading excels in algorithmic trading utilizing advanced strategies
+  and technology to enhance market efficiency and maintain a competitive edge.
+title: Wolverine Trading (Algo Trading)
 ---
 
 Wolverine Trading is a prominent player in the financial markets, known for its expertise in employing advanced trading strategies. Established as a leader in proprietary trading, Wolverine Trading has significantly impacted the financial sector through its innovative approaches, particularly in algorithmic trading. The firm's strategic use of technology and sophisticated trading algorithms has positioned it as a vital institution in modern finance.

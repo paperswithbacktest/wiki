@@ -1,6 +1,9 @@
 ---
-title: "Market Value and Intrinsic Value Comparison (Algo Trading)"
-description: "Explore the differences and interactions between market value and intrinsic value in the context of algorithmic trading to enhance trading strategies and investment decisions."
+category: quant_concept
+description: Explore the differences and interactions between market value and intrinsic
+  value in the context of algorithmic trading to enhance trading strategies and investment
+  decisions.
+title: Market Value and Intrinsic Value Comparison (Algo Trading)
 ---
 
 In the ever-evolving world of finance and investment, understanding the value of assets is crucial for making informed decisions. Two pivotal concepts often discussed in asset valuation are intrinsic value and market value. Intrinsic value represents the perceived or calculated 'true' value of an asset, built upon underlying fundamentals like cash flow, growth prospects, and the overall financial health of the asset in question. Market value, on the other hand, is the current price at which an asset is being traded in financial markets, directly influenced by supply and demand dynamics, investor sentiment, and prevailing market conditions.

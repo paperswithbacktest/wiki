@@ -1,6 +1,8 @@
 ---
-title: "RevPAR in Hospitality Industry (Algo Trading)"
-description: "Leverage algorithmic trading strategies to enhance hotel revenue management and maximize RevPAR with data-driven insights and predictive analytics."
+category: quant_concept
+description: Leverage algorithmic trading strategies to enhance hotel revenue management
+  and maximize RevPAR with data-driven insights and predictive analytics.
+title: RevPAR in Hospitality Industry (Algo Trading)
 ---
 
 In the competitive landscape of the hospitality industry, hotels continually strive to enhance their performance and maximize profitability. This pursuit has led to the adoption of sophisticated metrics and strategies. One such metric, Revenue per Available Room (RevPAR), serves as a key performance indicator by assessing a hotel's effectiveness in filling available rooms at an average rate. RevPAR is calculated by multiplying a hotel's average daily room rate (ADR) by its occupancy rate or by dividing total room revenue by the number of available rooms. This metric provides valuable insights into revenue performance, yet to obtain a comprehensive view, it must be used alongside additional indicators of profitability and costs.

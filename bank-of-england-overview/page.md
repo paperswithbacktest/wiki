@@ -1,6 +1,9 @@
 ---
-title: "Bank of England Overview (Algo Trading)"
-description: "Explore how the Bank of England ensures financial stability in the UK and its pivotal role in regulating algorithmic trading within the modern financial ecosystem."
+category: quant_concept
+description: Explore how the Bank of England ensures financial stability in the UK
+  and its pivotal role in regulating algorithmic trading within the modern financial
+  ecosystem.
+title: Bank of England Overview (Algo Trading)
 ---
 
 The UK financial system, characterized by its complexity and multifaceted nature, positions the Bank of England at its core as the cornerstone of monetary and financial stability. Serving as the United Kingdom's central bank, the Bank of England wields considerable influence over the country's economic health. Its primary responsibilities include managing monetary policy, supervising financial institutions, and ensuring the smooth functioning of the financial system. This article aims to provide a comprehensive exploration of the UK's financial system, with a focus on the historical progression and transformations of the Bank of England. 

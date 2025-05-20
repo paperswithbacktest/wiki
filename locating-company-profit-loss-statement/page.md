@@ -1,6 +1,8 @@
 ---
-title: "Locating a Company's Profit and Loss Statement (Algo Trading)"
-description: "Locate important insights in a profit and loss statement to guide financial decisions in algorithmic trading and assess a company's financial health effectively."
+category: dataset
+description: Locate important insights in a profit and loss statement to guide financial
+  decisions in algorithmic trading and assess a company's financial health effectively.
+title: Locating a Company's Profit and Loss Statement (Algo Trading)
 ---
 
 The profit and loss (P&L) statement stands as a cornerstone in the financial and corporate domain, playing a vital role in assessing a company's fiscal well-being. Often referred to as the income statement, this financial document provides an extensive overview of a company's revenues, costs, and profitability over a given timeframe. By detailing these financial metrics, the P&L statement enables businesses to gauge operational success and make informed financial decisions.

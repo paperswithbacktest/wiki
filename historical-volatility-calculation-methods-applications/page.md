@@ -1,6 +1,8 @@
 ---
-title: "Historical Volatility: Calculation Methods and Applications (Algo Trading)"
-description: "Discover how historical volatility informs risk management and strategy optimization in algorithmic trading by assessing price fluctuations and future variability."
+category: quant_concept
+description: Discover how historical volatility informs risk management and strategy
+  optimization in algorithmic trading by assessing price fluctuations and future variability.
+title: 'Historical Volatility: Calculation Methods and Applications (Algo Trading)'
 ---
 
 Volatility plays a pivotal role in financial markets by shaping investment decisions and guiding risk management strategies. In financial terms, volatility refers to the degree of variation in the price of a financial instrument over time, reflecting the level of uncertainty or risk about the size of changes in an asset's value. Understanding and analyzing volatility is crucial for market participants as it helps in assessing potential risks and rewards associated with investment choices.

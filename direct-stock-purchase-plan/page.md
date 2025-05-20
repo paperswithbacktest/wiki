@@ -1,6 +1,11 @@
 ---
-title: "Direct Stock Purchase Plan (Algo Trading)"
-description: "Explore the synergy between Direct Stock Purchase Plans (DSPPs) and algorithmic trading to enhance investment strategies. Discover how DSPPs facilitate cost-effective, direct company ownership, while algo trading optimizes trade execution. Ideal for investors aiming for incremental investment growth and strategic market participation without brokerage fees."
+category: trading_strategy
+description: Explore the synergy between Direct Stock Purchase Plans (DSPPs) and algorithmic
+  trading to enhance investment strategies. Discover how DSPPs facilitate cost-effective,
+  direct company ownership, while algo trading optimizes trade execution. Ideal for
+  investors aiming for incremental investment growth and strategic market participation
+  without brokerage fees.
+title: Direct Stock Purchase Plan (Algo Trading)
 ---
 
 Direct Stock Purchase Plans (DSPPs) have become a significant mechanism within the financial market, allowing individual investors to purchase shares directly from a company without the mediation of brokers. This not only democratizes the investment process but also reduces costs typically associated with trading. DSPPs offer investors a direct avenue for participating in equity markets, facilitating ownership in companies and allowing them to capitalize on potential long-term growth. The appeal of DSPPs is particularly relevant for individuals seeking to invest smaller amounts incrementally, making it a suitable option for those aiming to bypass traditional brokerage accounts and associated fees.

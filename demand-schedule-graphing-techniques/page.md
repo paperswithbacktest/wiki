@@ -1,6 +1,8 @@
 ---
-title: "Demand Schedule: Overview and Graphing Techniques (Algo Trading)"
-description: "Explore demand schedules and graphing techniques crucial for algo trading and economic analysis Learn how supply and demand concepts shape market decisions"
+category: quant_concept
+description: Explore demand schedules and graphing techniques crucial for algo trading
+  and economic analysis Learn how supply and demand concepts shape market decisions
+title: 'Demand Schedule: Overview and Graphing Techniques (Algo Trading)'
 ---
 
 Supply and demand are fundamental economic concepts that underpin market dynamics. Supply refers to the quantity of a good or service that producers are willing and able to offer for sale at different prices, while demand represents the quantity that consumers are ready to purchase at various price points. These forces interact to establish market equilibrium, where the quantity supplied equals the quantity demanded, and this interaction is pivotal in shaping pricing and production decisions within markets.

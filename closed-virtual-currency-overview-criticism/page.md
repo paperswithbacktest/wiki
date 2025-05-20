@@ -1,6 +1,8 @@
 ---
-title: "Closed Virtual Currency: Overview and Criticism (Algo Trading)"
-description: "Explore closed virtual currencies and their impact on algorithmic trading Discover the benefits and challenges of digital currency in the financial landscape"
+category: quant_concept
+description: Explore closed virtual currencies and their impact on algorithmic trading
+  Discover the benefits and challenges of digital currency in the financial landscape
+title: 'Closed Virtual Currency: Overview and Criticism (Algo Trading)'
 ---
 
 Virtual currencies, as the name suggests, exist in a digital format and are not tied to any physical form. Unlike traditional currencies issued by governments and central banks, virtual currencies are often decentralized and rely on cryptographic technology to secure transactions and control the creation of new units. Their significance in the financial ecosystem has grown remarkably over the past decade, driven largely by the promise of innovative technologies like blockchain, which offer potential advantages in terms of transaction efficiency and security.

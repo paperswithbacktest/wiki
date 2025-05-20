@@ -1,6 +1,8 @@
 ---
-title: "Human Capital: Types, Examples, and Economic Impact (Algo Trading)"
-description: "Explore the crucial impact of human capital on economic growth, focusing on its role in algorithmic trading and the diverse skills driving innovation."
+category: quant_concept
+description: Explore the crucial impact of human capital on economic growth, focusing
+  on its role in algorithmic trading and the diverse skills driving innovation.
+title: 'Human Capital: Types, Examples, and Economic Impact (Algo Trading)'
 ---
 
 Human capital refers to the stock of skills, knowledge, experience, and attributes embodied in individuals that contribute to their economic productivity. This intangible asset is increasingly recognized as a crucial element in modern economies, where the prowess of a nation's workforce can significantly determine its competitive advantage on the global stage. Advanced skills and education levels bolster innovation, enhance economic resilience, and lead to increased economic output. 

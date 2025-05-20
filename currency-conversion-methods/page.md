@@ -1,6 +1,8 @@
 ---
-title: "Currency Conversion Methods (Algo Trading)"
-description: "Explore effective currency conversion methods in algo trading with insights into exchange rates economic dynamics and the role of automated strategies."
+category: quant_concept
+description: Explore effective currency conversion methods in algo trading with insights
+  into exchange rates economic dynamics and the role of automated strategies.
+title: Currency Conversion Methods (Algo Trading)
 ---
 
 In today's interconnected world, understanding exchange rates and currency conversion is essential for both businesses and individuals. Exchange rates represent the value of one currency in terms of another and are pivotal in international trade and finance. These rates are influenced by various factors such as economic indicators, market sentiments, and geopolitical events, making their understanding crucial for informed decision-making.

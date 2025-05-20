@@ -1,6 +1,9 @@
 ---
-title: "Options Contract Extension: Roll Forward (Algo Trading)"
-description: "Explore roll forward strategies in algorithmic trading to efficiently manage options contracts Extend expiring positions with precision for optimal market gains"
+category: trading_strategy
+description: Explore roll forward strategies in algorithmic trading to efficiently
+  manage options contracts Extend expiring positions with precision for optimal market
+  gains
+title: 'Options Contract Extension: Roll Forward (Algo Trading)'
 ---
 
 In the fast-paced world of trading, remaining attuned to market dynamics is essential for success. The evolving nature of financial markets demands strategies that allow traders to effectively manage their positions. One such strategy, roll forward, provides a means to efficiently manage options contracts, particularly within algorithmic trading.

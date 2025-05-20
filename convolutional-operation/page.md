@@ -1,7 +1,8 @@
 ---
-title: Understanding Convolutional Operations in Neural Networks
+category: quant_concept
 description: Convolutional operations in CNNs extract key image features by sliding
   filters to detect patterns and improve predictions Discover more inside
+title: Understanding Convolutional Operations in Neural Networks
 ---
 
 ![Image](images/1.jpeg)

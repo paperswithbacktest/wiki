@@ -1,6 +1,8 @@
 ---
-title: "Tunisian Dinar: Overview and History (Algo Trading)"
-description: "Explore the Tunisian Dinar's history and role in Tunisia's economy Learn about its introduction algorithmic trading and closed currency status"
+category: dataset
+description: Explore the Tunisian Dinar's history and role in Tunisia's economy Learn
+  about its introduction algorithmic trading and closed currency status
+title: 'Tunisian Dinar: Overview and History (Algo Trading)'
 ---
 
 The Tunisian Dinar (TND) serves as the official currency of the Republic of Tunisia, a North African nation with a diverse economy. Abbreviated as TND and often represented by the symbol DT, the dinar plays a critical role in the economic framework of Tunisia. Its value and management are significant to both the financial stability and economic growth of the country, influencing sectors ranging from agriculture and petroleum to tourism and mining.

@@ -1,6 +1,8 @@
 ---
-title: "Investment Products and Examples (Algo Trading)"
-description: "Explore investment products including stocks, bonds, mutual funds, and algorithmic trading This page offers insights into optimizing portfolio performance"
+category: quant_concept
+description: Explore investment products including stocks, bonds, mutual funds, and
+  algorithmic trading This page offers insights into optimizing portfolio performance
+title: Investment Products and Examples (Algo Trading)
 ---
 
 Financial markets offer a plethora of investment opportunities, ranging from traditional financial products to advanced algorithmic trading strategies. With these opportunities comes the need for investors to comprehend the diverse landscape of financial products and the integration of algorithmic trading to optimize returns. Traditional investment products, such as stocks, bonds, and mutual funds, have long been the cornerstone of portfolio management, each catering to different risk profiles and investment goals. 

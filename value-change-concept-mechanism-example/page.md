@@ -1,6 +1,9 @@
 ---
-title: "Value Change: Concept, Mechanism, and Example (Algo Trading)"
-description: "Explore the concept of value change in algorithmic trading including its importance for investors techniques to monitor value fluctuations and examples of its impact."
+category: quant_concept
+description: Explore the concept of value change in algorithmic trading including
+  its importance for investors techniques to monitor value fluctuations and examples
+  of its impact.
+title: 'Value Change: Concept, Mechanism, and Example (Algo Trading)'
 ---
 
 Value change in stock trading refers to the fluctuations in the price of a stock over a specific period. This change is a crucial metric utilized by investors and financial analysts to assess the performance and potential of stocks within the financial markets. Understanding value change is vital as it provides insights into market trends, investor sentiment, and the broader economic landscape, thereby aiding in making informed investment decisions.

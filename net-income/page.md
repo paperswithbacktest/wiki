@@ -1,6 +1,10 @@
 ---
-title: "Net Income (Algo Trading)"
-description: "Gain insights into net income and its role in algorithmic trading performance. Learn about the importance of net income as a key financial metric, helping traders enhance strategies for optimized decision-making and increased profitability by understanding financial performance and net income integration."
+category: quant_concept
+description: Gain insights into net income and its role in algorithmic trading performance.
+  Learn about the importance of net income as a key financial metric, helping traders
+  enhance strategies for optimized decision-making and increased profitability by
+  understanding financial performance and net income integration.
+title: Net Income (Algo Trading)
 ---
 
 Understanding financial performance and profit calculation is fundamental in algorithmic trading. This article highlights key concepts, offering insights into net income and its significance in financial performance within algorithmic trading.

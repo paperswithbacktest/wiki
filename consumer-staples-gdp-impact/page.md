@@ -1,6 +1,8 @@
 ---
-title: "Consumer Staples and Their Impact on GDP (Algo Trading)"
-description: "Explore how consumer staples contribute to GDP stability. Understand their continuous demand and the impact of algorithmic trading on this economic sector."
+category: quant_concept
+description: Explore how consumer staples contribute to GDP stability. Understand
+  their continuous demand and the impact of algorithmic trading on this economic sector.
+title: Consumer Staples and Their Impact on GDP (Algo Trading)
 ---
 
 The modern economy is characterized by a intricate network of various sectors, each contributing to its growth and stability. Among these sectors, consumer staples occupy a pivotal role due to their non-cyclical nature. These essential goods and services, including food, beverages, and household products, maintain a steady demand regardless of economic fluctuations, providing a stabilizing force within the economy. This article will discuss how consumer staples contribute to Gross Domestic Product (GDP), their economic importance, and the potential impacts of algorithmic trading on this sector.

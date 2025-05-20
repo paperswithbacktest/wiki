@@ -1,6 +1,8 @@
 ---
-title: "Price to Free Cash Flow Ratio: Overview and Calculation (Algo Trading)"
-description: "Explore the Price to Free Cash Flow ratio to assess company valuation and cash flow. Discover its role in algorithmic trading and investment analysis."
+category: quant_concept
+description: Explore the Price to Free Cash Flow ratio to assess company valuation
+  and cash flow. Discover its role in algorithmic trading and investment analysis.
+title: 'Price to Free Cash Flow Ratio: Overview and Calculation (Algo Trading)'
 ---
 
 Financial ratios are essential tools for investors, providing critical insights into a company's financial health and performance. Among these ratios, the Price to Free Cash Flow (P/FCF) stands out as a valuable metric for assessing a company's valuation concerning its cash flow. This ratio offers a distinct perspective compared to more traditional measures such as the Price to Earnings (P/E) ratio, focusing on the company's ability to generate cash that can be used for expansion, dividends, or debt reduction.

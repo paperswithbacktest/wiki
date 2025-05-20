@@ -1,6 +1,8 @@
 ---
-title: "Covered Straddle: Functionality and Examples (Algo Trading)"
-description: "Explore the covered straddle strategy in algo trading Discover how owning an asset and selling call and put options can profit in stable markets with automation"
+category: quant_concept
+description: Explore the covered straddle strategy in algo trading Discover how owning
+  an asset and selling call and put options can profit in stable markets with automation
+title: 'Covered Straddle: Functionality and Examples (Algo Trading)'
 ---
 
 Understanding financial derivatives is crucial for modern trading strategies, providing traders with tools to manage risks and exploit market opportunities. Financial derivatives are contracts that derive their value from the performance of underlying entities, such as assets, indices, or interest rates. Among these derivatives, options are particularly instrumental as they offer the right, though not the obligation, to buy or sell an asset at a predetermined price within a set timeframe. This flexibility allows traders to construct various strategies tailored to different market conditions and risk appetites.

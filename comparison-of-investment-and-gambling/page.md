@@ -1,6 +1,9 @@
 ---
-title: "Comparison of Investment and Gambling (Algo Trading)"
-description: "Explore the differences and intersections between investment gambling and algorithmic trading in today's financial markets to understand financial risk management."
+category: quant_concept
+description: Explore the differences and intersections between investment gambling
+  and algorithmic trading in today's financial markets to understand financial risk
+  management.
+title: Comparison of Investment and Gambling (Algo Trading)
 ---
 
 In finance, the lines between investment, gambling, and algorithmic trading often blur. The evolution of financial markets has brought about complex systems where technology and traditional practices intersect, reshaping how individuals and institutions engage with financial assets. Despite their differences, investment, gambling, and algorithmic trading share a common denominator: financial risk. This article explores the concepts of financial risk, investment, gambling, and algorithmic trading, and how they intersect in today's market. Understanding these concepts is crucial for anyone looking to navigate the financial landscape successfully.

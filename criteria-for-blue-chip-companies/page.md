@@ -1,6 +1,8 @@
 ---
-title: "Criteria for Blue Chip Companies (Algo Trading)"
-description: "Explore the integration of algorithmic trading with blue chip stocks, known for stability and strong market presence, to enhance investment strategies."
+category: trading_strategy
+description: Explore the integration of algorithmic trading with blue chip stocks,
+  known for stability and strong market presence, to enhance investment strategies.
+title: Criteria for Blue Chip Companies (Algo Trading)
 ---
 
 Blue chip stocks represent shares in nationally recognized, well-established, and financially sound companies. These entities have demonstrated their ability to endure economic challenges and remain resilient over time, often characterized by their large market capitalization, reliable earnings, and a history of consistent dividend payments. In the stock market, blue chip stocks are held in high regard due to their stability and perceived reliability, making them a cornerstone of conservative investment strategies. Renowned examples include corporations such as Apple, Microsoft, and Johnson & Johnson.

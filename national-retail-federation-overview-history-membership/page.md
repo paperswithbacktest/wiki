@@ -1,6 +1,9 @@
 ---
-title: "National Retail Federation: Overview, History, and Membership (Algo Trading)"
-description: "Explore the role of the National Retail Federation in the retail sector its advocacy for tech advancement and how membership benefits entities through algotrading insights"
+category: dataset
+description: Explore the role of the National Retail Federation in the retail sector
+  its advocacy for tech advancement and how membership benefits entities through algotrading
+  insights
+title: 'National Retail Federation: Overview, History, and Membership (Algo Trading)'
 ---
 
 The National Retail Federation (NRF) is a central figure in the global retail industry, serving as a vital consortium for retail partners worldwide. Founded in 1911, it boasts a broad membership across numerous retail sectors, effectively representing the diverse landscape of the industry. As technological integration becomes pivotal in shaping retail operations, NRF's influence in pioneering data-driven solutions and advocating for technological progression is notably relevant. 

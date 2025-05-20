@@ -1,6 +1,8 @@
 ---
-title: "Trading Average Price Option (Algo Trading)"
-description: "Explore the benefits of Trading Average Price Options in algorithmic trading. TAPOs offer a unique price structure and risk management in volatile markets."
+category: trading_strategy
+description: Explore the benefits of Trading Average Price Options in algorithmic
+  trading. TAPOs offer a unique price structure and risk management in volatile markets.
+title: Trading Average Price Option (Algo Trading)
 ---
 
 Financial trading involves the buying and selling of financial instruments such as stocks, bonds, currencies, and derivatives with the goal of generating profit. Within this complex ecosystem, options play a vital role as they provide investors with the ability to hedge risks, speculate on future price movements, and enhance the returns of their portfolios. Options are derivatives that grant the buyer the right, but not the obligation, to buy or sell an underlying asset at a predetermined price within a specific timeframe.

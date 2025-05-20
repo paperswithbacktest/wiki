@@ -1,6 +1,8 @@
 ---
-title: "SEC Form 20-F: Overview and Filing Requirements (Algo Trading)"
-description: "Learn about the SEC Form 20-F its role in algorithmic trading and the filing requirements crucial for foreign issuers trading in U.S. financial markets."
+category: dataset
+description: Learn about the SEC Form 20-F its role in algorithmic trading and the
+  filing requirements crucial for foreign issuers trading in U.S. financial markets.
+title: 'SEC Form 20-F: Overview and Filing Requirements (Algo Trading)'
 ---
 
 The complexity of global financial markets often necessitates specific regulatory forms for foreign entities that trade securities in the U.S. One such requirement is the Securities and Exchange Commission (SEC) Form 20-F. This form serves as a crucial annual filing requirement for foreign private issuers trading in U.S. markets, ensuring that these entities provide a standardized set of financial data and operational insights to American investors. This standardization is imperative, as it allows investors to make informed decisions by evaluating foreign companies on a comparable basis with domestic firms.

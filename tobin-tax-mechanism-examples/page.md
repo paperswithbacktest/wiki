@@ -1,6 +1,9 @@
 ---
-title: "Tobin Tax: Mechanism and Examples (Algo Trading)"
-description: "Explore the Tobin Tax a form of Financial Transaction Tax aimed at curbing market speculation and volatility Enhance understanding of its mechanisms and global impact"
+category: quant_concept
+description: Explore the Tobin Tax a form of Financial Transaction Tax aimed at curbing
+  market speculation and volatility Enhance understanding of its mechanisms and global
+  impact
+title: 'Tobin Tax: Mechanism and Examples (Algo Trading)'
 ---
 
 The Financial Transactions Tax (FTT) is a policy instrument that has sparked extensive discussion among various stakeholders, including economists, policymakers, and actors in financial markets. At its core, an FTT is designed to impose a levy on specific types of financial transactions, potentially acting as a mechanism to curb excessive speculation, stabilize markets, and generate public revenue. Within this domain, the Tobin Tax stands as a prominent variant, conceptualized by Nobel Laureate James Tobin in the aftermath of the Bretton Woods system's collapse in the early 1970s. Tobin envisioned this tax specifically targeting short-term currency trades with the primary aim of reducing speculative activity that could destabilize currency markets.

@@ -1,6 +1,12 @@
 ---
-title: "Causes and Impact of Supply Shocks (Algo Trading)"
-description: "Explore the significant impacts of supply shocks on market dynamics in an interconnected global economy. Understand the consequences of positive and negative supply shocks and their effects on economic growth and inflation. Gain insights into the importance of informed decision-making for investors and policymakers, and discover how market dynamics and algorithmic trading can efficiently manage risks and stabilize markets amidst these disruptions."
+category: quant_concept
+description: Explore the significant impacts of supply shocks on market dynamics in
+  an interconnected global economy. Understand the consequences of positive and negative
+  supply shocks and their effects on economic growth and inflation. Gain insights
+  into the importance of informed decision-making for investors and policymakers,
+  and discover how market dynamics and algorithmic trading can efficiently manage
+  risks and stabilize markets amidst these disruptions.
+title: Causes and Impact of Supply Shocks (Algo Trading)
 ---
 
 In an interconnected global economy, supply shocks can have significant impacts on market dynamics. Such shocks emerge from unexpected events that lead to interruptions in the supply chain, altering the global market equilibrium. Supply shocks are changes in the availability of commodities or goods that can either be sudden increases, known as positive supply shocks, or sudden decrease, referred to as negative supply shocks. For instance, technological advancements may enhance production efficiency and supply, while natural disasters may curtail it.

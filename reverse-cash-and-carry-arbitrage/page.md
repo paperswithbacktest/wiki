@@ -1,6 +1,8 @@
 ---
-title: "Reverse Cash-and-Carry Arbitrage (Algo Trading)"
-description: "Explore reverse cash-and-carry arbitrage using algorithmic trading to exploit market inefficiencies between spot and futures prices for potential profits."
+category: trading_strategy
+description: Explore reverse cash-and-carry arbitrage using algorithmic trading to
+  exploit market inefficiencies between spot and futures prices for potential profits.
+title: Reverse Cash-and-Carry Arbitrage (Algo Trading)
 ---
 
 The world of financial investments offers a plethora of strategies aimed at optimizing returns and minimizing risks. Among these, arbitrage strategies have gained prominence for their potential to exploit pricing inefficiencies. Arbitrage involves the simultaneous purchase and sale of an asset to profit from a difference in its price across markets. This approach is often considered low risk since it capitalizes on market imbalances, ensuring a profit if executed correctly.

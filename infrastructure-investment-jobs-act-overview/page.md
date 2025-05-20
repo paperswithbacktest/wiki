@@ -1,6 +1,9 @@
 ---
-title: "Infrastructure Investment and Jobs Act Overview (Algo Trading)"
-description: "Explore the impact of infrastructure investments under the Jobs Act on algorithmic trading with a focus on economic growth job creation and technological advancements."
+category: quant_concept
+description: Explore the impact of infrastructure investments under the Jobs Act on
+  algorithmic trading with a focus on economic growth job creation and technological
+  advancements.
+title: Infrastructure Investment and Jobs Act Overview (Algo Trading)
 ---
 
 The Jobs Act and the Infrastructure Investment and Jobs Act (IIJA) represent monumental strides in modernizing and revitalizing the United States' infrastructure landscape. These legislative acts are designed to foster economic growth and job creation by addressing the long-standing infrastructural deficits in the country. The IIJA, in particular, allocates substantial federal funding for infrastructure projects, aiming to modernize transportation systems, expand broadband access, and upgrade utilities. This comprehensive investment in foundational systems is expected to boost not only traditional sectors but also catalyze new opportunities across various technological fields.

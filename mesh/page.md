@@ -1,7 +1,8 @@
 ---
-title: Understanding Mesh Architecture for Machine Learning Models
+category: quant_concept
 description: Mesh architecture provides a structured grid of nodes to capture spatial
   relationships in data and optimize machine learning models Discover more inside
+title: Understanding Mesh Architecture for Machine Learning Models
 ---
 
 ![Image](images/1.png)

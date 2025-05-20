@@ -1,6 +1,9 @@
 ---
-title: "Accounting Insolvency: Overview and Case Studies (Algo Trading)"
-description: "Explore accounting insolvency in the context of algo trading with this insightful analysis featuring real-world case studies to understand financial distress risks."
+category: quant_concept
+description: Explore accounting insolvency in the context of algo trading with this
+  insightful analysis featuring real-world case studies to understand financial distress
+  risks.
+title: 'Accounting Insolvency: Overview and Case Studies (Algo Trading)'
 ---
 
 The dynamics of financial markets have experienced substantial transformations due to advancements in technology and financial innovation. The integration of these fields has led to the emergence and adoption of algorithmic trading (algo trading) as a pivotal mechanism for managing financial portfolios. This transformation has occurred alongside an increasing focus on accounting insolvency and financial distress, topics that are essential across various financial disciplines.

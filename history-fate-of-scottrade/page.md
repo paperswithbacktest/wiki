@@ -1,6 +1,9 @@
 ---
-title: "History and Fate of Scottrade (Algo Trading)"
-description: "Explore the history and acquisition of Scottrade a pivotal brokerage firm and its impact on algorithmic trading reshaping brokerages in today's financial landscape."
+category: quant_concept
+description: Explore the history and acquisition of Scottrade a pivotal brokerage
+  firm and its impact on algorithmic trading reshaping brokerages in today's financial
+  landscape.
+title: History and Fate of Scottrade (Algo Trading)
 ---
 
 Brokerages play a crucial role in the financial sector, acting as intermediaries essential for facilitating transactions in various markets. They connect buyers and sellers of assets, provide financial advice, and offer diverse investment platforms to cater to both individual and institutional investors. Over the decades, brokerages have evolved with technological advancements, shifting from traditional trading floors to digital platforms that emphasize speed and data-driven decision-making.

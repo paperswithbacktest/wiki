@@ -1,6 +1,8 @@
 ---
-title: "Impact of Fracking on Natural Gas Prices (Algo Trading)"
-description: "Explore how fracking impacts natural gas prices and the role of algorithmic trading in shaping energy markets. Navigate this complex energy landscape."
+category: trading_strategy
+description: Explore how fracking impacts natural gas prices and the role of algorithmic
+  trading in shaping energy markets. Navigate this complex energy landscape.
+title: Impact of Fracking on Natural Gas Prices (Algo Trading)
 ---
 
 The modern energy market is a complex ecosystem where natural gas prices play a significant role. As one of the primary sources of energy, natural gas is a critical component in the production of electricity, heating, and as industrial feedstock. The intricacies of its pricing are influenced by several factors, including supply and demand dynamics, geopolitical events, and regional production capacities. These factors create a multifaceted market where strategic decisions are paramount for both producers and consumers.

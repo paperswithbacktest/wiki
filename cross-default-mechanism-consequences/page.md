@@ -1,6 +1,9 @@
 ---
-title: "Cross Default: Mechanism and Consequences (Algo Trading)"
-description: "Explore the complexities of cross-default mechanisms and their impact on financial agreements Learn how these provisions affect lenders and borrowers alike in managing risks"
+category: quant_concept
+description: Explore the complexities of cross-default mechanisms and their impact
+  on financial agreements Learn how these provisions affect lenders and borrowers
+  alike in managing risks
+title: 'Cross Default: Mechanism and Consequences (Algo Trading)'
 ---
 
 Understanding the nuances of financial agreements is paramount for both lenders and borrowers in the financial sector. These agreements often contain various provisions and default clauses, which serve as tools to manage and mitigate risks. Among the most complex are cross-default and loan default provisions. This article aims to clarify these concepts and elucidate their importance in financial dealings.

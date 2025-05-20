@@ -1,6 +1,9 @@
 ---
-title: "Components of Financial Modeling (Algo Trading)"
-description: "Explore the crucial components of financial modeling for algorithmic trading and financial analysis Understand its role in predicting outcomes and making informed decisions"
+category: quant_concept
+description: Explore the crucial components of financial modeling for algorithmic
+  trading and financial analysis Understand its role in predicting outcomes and making
+  informed decisions
+title: Components of Financial Modeling (Algo Trading)
 ---
 
 In the rapidly evolving world of finance, technological advancements have transformed the landscape with sophisticated tools and methodologies. Among these, financial modeling stands out as a crucial component in financial analysis and algorithmic trading. It provides a structured framework for evaluating and forecasting financial performance, essential for making informed decisions in an increasingly complex market environment. Financial models are indispensable for professionals and traders, enabling them to assess potential investment opportunities, predict financial outcomes, and formulate strategic responses to economic shifts.

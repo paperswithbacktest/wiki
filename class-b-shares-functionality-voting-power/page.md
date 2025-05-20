@@ -1,6 +1,9 @@
 ---
-title: "Class B Shares: Functionality and Voting Power (Algo Trading)"
-description: "Discover the dynamics of Class B shares and their role in algorithmic trading Understand how reduced voting power and accessibility impact investment strategies"
+category: quant_concept
+description: Discover the dynamics of Class B shares and their role in algorithmic
+  trading Understand how reduced voting power and accessibility impact investment
+  strategies
+title: 'Class B Shares: Functionality and Voting Power (Algo Trading)'
 ---
 
 In the complex world of investing, understanding the nuances of share structures is crucial for maximizing returns and managing risks. Among various types, Class B shares emerge as a popular form of common stock with distinct characteristics. These shares are typically structured with reduced voting power compared to Class A shares, making them more accessible to a broader range of investors. This accessibility can influence the strategic decisions made by companies regarding capital structure and control.
@@ -111,4 +114,3 @@ Informed knowledge of share class distinctions is indispensable for traders and 
 - **Optimal Enterprise Risk Trading by David Durrett**: Durrett's work discusses risk management strategies within trading environments, providing frameworks and methodologies for optimizing enterprise risk trading decisions.
 
 - **Mechanisms of Market Efficiency by Sanford J. Grossman and Joseph E. Stiglitz**: This paper analyzes the various mechanisms that contribute to market efficiency, challenging the notion of perfectly efficient markets and highlighting the role of information asymmetry and transaction costs in trading strategies.
-

@@ -1,6 +1,9 @@
 ---
-title: "Weighted Average Rating Factor (WARF) (Algo Trading)"
-description: "Explore how the Weighted Average Rating Factor (WARF) serves as a vital credit risk metric in algorithmic trading enhancing portfolio evaluation and risk management."
+category: quant_concept
+description: Explore how the Weighted Average Rating Factor (WARF) serves as a vital
+  credit risk metric in algorithmic trading enhancing portfolio evaluation and risk
+  management.
+title: Weighted Average Rating Factor (WARF) (Algo Trading)
 ---
 
 In today's rapidly evolving financial landscape, understanding the nuances of credit risk management is essential for investors and financial analysts alike. The Weighted Average Rating Factor (WARF) has emerged as a pivotal metric in evaluating the credit quality of investment portfolios. By consolidating individual credit ratings into a singular measure, WARF provides a clear view of the portfolio's overall credit risk, which is crucial in navigating the complexities of modern financial markets.

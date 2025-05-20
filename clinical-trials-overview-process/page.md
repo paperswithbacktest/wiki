@@ -1,6 +1,9 @@
 ---
-title: "Clinical Trials: Overview and Process (Algo Trading)"
-description: "Explore the integration of clinical trials and algo trading examining their processes challenges and intersections to unlock synergies in medical investment and innovation."
+category: quant_concept
+description: Explore the integration of clinical trials and algo trading examining
+  their processes challenges and intersections to unlock synergies in medical investment
+  and innovation.
+title: 'Clinical Trials: Overview and Process (Algo Trading)'
 ---
 
 The integration of clinical trials, drug testing, and medical research forms the backbone of modern healthcare innovation, enabling the development of new therapies that address unmet medical needs. Clinical trials are the systematic studies conducted to evaluate the safety and efficacy of new drugs or treatment protocols, facilitating the transition from laboratory research to practical healthcare solutions. Meanwhile, the increasingly complex world of drug testing demands rigorous methodologies to ensure that medicinal products meet stringent regulatory standards, primarily governed by agencies like the U.S. Food and Drug Administration (FDA).

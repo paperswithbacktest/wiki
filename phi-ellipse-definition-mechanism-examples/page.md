@@ -1,6 +1,8 @@
 ---
-title: "Phi Ellipse: Definition, Mechanism, and Examples (Algo Trading)"
-description: "Discover how phi-ellipses integrate geometric principles into algorithmic trading to enhance trend analysis and market prediction in this insightful guide."
+category: quant_concept
+description: Discover how phi-ellipses integrate geometric principles into algorithmic
+  trading to enhance trend analysis and market prediction in this insightful guide.
+title: 'Phi Ellipse: Definition, Mechanism, and Examples (Algo Trading)'
 ---
 
 In mathematics and finance, the integration of geometric principles with algorithmic trading presents intriguing possibilities. One notable example of this intersection is the use of elliptical geometry in algorithmic trading strategies. This article focuses on the interaction between elliptical geometry, with particular attention to the phi-ellipse, and its applications in algorithmic trading.

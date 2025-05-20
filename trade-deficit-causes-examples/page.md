@@ -1,6 +1,8 @@
 ---
-title: "Trade Deficit: Causes and Examples (Algo Trading)"
-description: "Explore trade deficits and their economic impact through algorithmic trading insights. Learn how imports, exports, and policies shape global trade dynamics."
+category: quant_concept
+description: Explore trade deficits and their economic impact through algorithmic
+  trading insights. Learn how imports, exports, and policies shape global trade dynamics.
+title: 'Trade Deficit: Causes and Examples (Algo Trading)'
 ---
 
 International trade significantly contributes to shaping the global economy by facilitating the exchange of goods, services, and capital across international borders. It allows countries to expand their markets, access resources that are not available domestically, and leverage comparative advantages. One of the critical aspects to consider in international trade is the trade balance, which is the difference between the value of a country's exports and imports. A trade deficit occurs when imports exceed exports, resulting in a negative balance of trade. This scenario can be indicative of various economic dynamics, including strong consumer demand, competitive currency valuations, or economic policy decisions. Trade deficits are a central topic in international economics, as they can have diverse and far-reaching implications for economic stability, currency valuation, and industrial growth.

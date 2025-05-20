@@ -1,6 +1,9 @@
 ---
-title: "Systemic Risk in Banking: Causes and Examples (Algo Trading)"
-description: "Explore systemic risk in banking and how algorithmic trading impacts financial stability. Understand causes, examples, and regulatory measures to mitigate risks."
+category: quant_concept
+description: Explore systemic risk in banking and how algorithmic trading impacts
+  financial stability. Understand causes, examples, and regulatory measures to mitigate
+  risks.
+title: 'Systemic Risk in Banking: Causes and Examples (Algo Trading)'
 ---
 
 In the modern financial landscape, systemic risk, financial stability, and banking risk are crucial concerns for investors and policymakers. The intricate dynamics within these areas are increasingly compounded by the rise of algorithmic trading, a method that employs automated systems to execute trades at extraordinarily high speeds. This has introduced new complexities, necessitating a detailed examination of how these factors interconnect.

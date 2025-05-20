@@ -1,6 +1,8 @@
 ---
-title: "SEC Form S-6 (Algo Trading)"
-description: "Discover how SEC Form S-6 regulates the fast-evolving world of algo trading by ensuring transparency and protecting investor interests in algorithm-driven UITs."
+category: quant_concept
+description: Discover how SEC Form S-6 regulates the fast-evolving world of algo trading
+  by ensuring transparency and protecting investor interests in algorithm-driven UITs.
+title: SEC Form S-6 (Algo Trading)
 ---
 
 Algorithmic trading, commonly referred to as algo trading, is fundamentally transforming the securities trading landscape. This method leverages complex algorithms and rapid data processing to make trading decisions at speeds and volumes that are unattainable for human traders. The rapid growth of algo trading underscores the need for robust regulatory frameworks to maintain market integrity and investor protection.

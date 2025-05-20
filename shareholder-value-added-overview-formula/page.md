@@ -1,6 +1,8 @@
 ---
-title: "Shareholder Value Added: Overview and Formula (Algo Trading)"
-description: "Explore how Shareholder Value Added can enhance trading strategies by focusing on long-term value creation beyond costs in algorithmic trading contexts"
+category: quant_concept
+description: Explore how Shareholder Value Added can enhance trading strategies by
+  focusing on long-term value creation beyond costs in algorithmic trading contexts
+title: 'Shareholder Value Added: Overview and Formula (Algo Trading)'
 ---
 
 Shareholder Value Added (SVA) is a financial performance metric that measures the true value a company generates for its shareholders. This concept encompasses the idea that a company should generate returns above its cost of capital, thereby increasing the wealth of its shareholders. SVA is calculated by taking the difference between Net Operating Profit After Tax (NOPAT) and the capital charge (which is the cost of capital multiplied by the economic capital employed). SVA = NOPAT - (Cost of Capital × Economic Capital Employed).

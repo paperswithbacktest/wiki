@@ -1,6 +1,13 @@
 ---
-title: "How Many Dividend Stocks Should You Own? (Algo Trading)"
-description: Explore the ideal number of dividend stocks to include in an algorithmic trading portfolio. Learn how dividend stocks provide regular income and stability, appealing to risk-averse investors. Discover how algorithmic trading optimizes portfolio management, enhances efficiency, and maximizes dividend capture through precise trade execution. Gain insights on balancing diversification, risk tolerance, and investment objectives to craft a well-rounded dividend stock strategy leveraging advanced trading technologies.
+category: trading_strategy
+description: Explore the ideal number of dividend stocks to include in an algorithmic
+  trading portfolio. Learn how dividend stocks provide regular income and stability,
+  appealing to risk-averse investors. Discover how algorithmic trading optimizes portfolio
+  management, enhances efficiency, and maximizes dividend capture through precise
+  trade execution. Gain insights on balancing diversification, risk tolerance, and
+  investment objectives to craft a well-rounded dividend stock strategy leveraging
+  advanced trading technologies.
+title: How Many Dividend Stocks Should You Own? (Algo Trading)
 ---
 
 Dividend stocks represent a unique class of equities that offer investors a share in the company's profit in the form of regular cash payouts. These stocks are particularly appealing for investors seeking not just capital appreciation but also a steady income stream. Companies that pay dividends are typically well-established with a history of profitability, making dividend stocks an attractive option for risk-averse investors. The relevance of dividend stocks in trading is underscored by their dual benefit of providing income and the potential for price appreciation, which contributes to their popularity among long-term investors.

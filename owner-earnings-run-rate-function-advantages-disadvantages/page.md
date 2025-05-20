@@ -1,6 +1,9 @@
 ---
-title: "Owner Earnings Run Rate: Definition, Function, Advantages and Disadvantages (Algo Trading)"
-description: "Unlock key insights into financial performance through run rate analysis and owner earnings to enhance algorithmic trading strategies and business planning."
+category: quant_concept
+description: Unlock key insights into financial performance through run rate analysis
+  and owner earnings to enhance algorithmic trading strategies and business planning.
+title: 'Owner Earnings Run Rate: Definition, Function, Advantages and Disadvantages
+  (Algo Trading)'
 ---
 
 In finance, understanding key metrics is crucial for achieving success. This article explores important financial concepts, including run rate analysis, owner earnings, and algorithmic trading.

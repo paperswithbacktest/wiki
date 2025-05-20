@@ -1,6 +1,9 @@
 ---
-title: "Market Reaction to News (Algo Trading)"
-description: "Explore the impact of news on algorithmic trading and market reactions Discover how news analytics are integrated into trading models to predict trends effectively."
+category: trading_strategy
+description: Explore the impact of news on algorithmic trading and market reactions
+  Discover how news analytics are integrated into trading models to predict trends
+  effectively.
+title: Market Reaction to News (Algo Trading)
 ---
 
 Algorithmic trading, commonly referred to as algo trading, is the execution of trades on financial markets using automated systems that utilize pre-set instructions. These systems leverage complex mathematical algorithms to make high-speed decisions and transactions, often beyond human speed and accuracy. In the contemporary financial landscape, algorithmic trading accounts for a significant portion of trading activities globally, greatly influencing market liquidity and efficiency.

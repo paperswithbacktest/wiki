@@ -1,6 +1,9 @@
 ---
-title: "Corporate Social Responsibility Trends (Algo Trading)"
-description: "Explore the intersection of CSR and algorithmic trading with trends like integrating CSR into business strategies, remote work for engagement, and demand for transparency."
+category: quant_concept
+description: Explore the intersection of CSR and algorithmic trading with trends like
+  integrating CSR into business strategies, remote work for engagement, and demand
+  for transparency.
+title: Corporate Social Responsibility Trends (Algo Trading)
 ---
 
 In today's rapidly evolving business landscape, Corporate Social Responsibility (CSR) has emerged as a critical component for organizations aiming for sustainable growth. With increasing awareness of social and environmental issues, stakeholders expect companies to take responsibility for their impact on the world. As such, CSR is no longer just a peripheral consideration but a core element of strategic business operations. 

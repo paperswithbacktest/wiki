@@ -1,6 +1,12 @@
 ---
-title: "Comparison of Money Market and Capital Market (Algo Trading)"
-description: "Explore the distinction between money markets and capital markets, each catering to unique financial needs. Money markets focus on short-term, highly liquid, and low-risk instruments like Treasury bills, facilitating quick liquidity management. Conversely, capital markets address long-term investment through stocks and bonds, crucial for capital formation and economic growth. Learn how algorithmic trading reshapes these markets by enhancing transaction efficiency and liquidity."
+category: quant_concept
+description: Explore the distinction between money markets and capital markets, each
+  catering to unique financial needs. Money markets focus on short-term, highly liquid,
+  and low-risk instruments like Treasury bills, facilitating quick liquidity management.
+  Conversely, capital markets address long-term investment through stocks and bonds,
+  crucial for capital formation and economic growth. Learn how algorithmic trading
+  reshapes these markets by enhancing transaction efficiency and liquidity.
+title: Comparison of Money Market and Capital Market (Algo Trading)
 ---
 
 Financial markets are comprehensive systems that facilitate the buying and selling of financial instruments, playing an indispensable role in economic dynamics. They comprise various segments, notably the money market and the capital market, each serving unique purposes with distinct financial products and goals. The money market primarily addresses short-term financing needs, trading instruments such as Treasury bills and commercial paper, characterized by high liquidity and low risk. In contrast, the capital market focuses on long-term securities, including stocks and bonds, which are vital for capital formation and economic growth.

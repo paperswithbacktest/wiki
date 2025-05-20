@@ -1,6 +1,9 @@
 ---
-title: "History of Mutual Funds (Algo Trading)"
-description: "Explore the evolution of mutual funds and algorithmic trading Discover how these investment tools have shaped financial strategies and broadened market access"
+category: quant_concept
+description: Explore the evolution of mutual funds and algorithmic trading Discover
+  how these investment tools have shaped financial strategies and broadened market
+  access
+title: History of Mutual Funds (Algo Trading)
 ---
 
 Understanding the landscape of investment vehicles is crucial for any investor aiming to diversify their portfolio. The financial market offers a wide array of options, including traditional vehicles like stocks and bonds, as well as more complex ones like mutual funds and exchange-traded funds (ETFs). Among these, mutual funds and algorithmic trading have garnered attention for their unique attributes and historical performance. Mutual funds, which pool resources from multiple investors to invest in diversified portfolios, provide opportunities to reduce risk through professional management. Algorithmic trading, on the other hand, leverages advanced technologies to execute trades with speed and precision, minimizing human error and allowing for the deployment of complex strategies.

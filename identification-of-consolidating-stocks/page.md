@@ -1,6 +1,8 @@
 ---
-title: "Identification of Consolidating Stocks (Algo Trading)"
-description: "Explore investment strategies and technical analysis to identify consolidating stocks through algorithmic trading for optimized portfolio management."
+category: trading_strategy
+description: Explore investment strategies and technical analysis to identify consolidating
+  stocks through algorithmic trading for optimized portfolio management.
+title: Identification of Consolidating Stocks (Algo Trading)
 ---
 
 The dynamic world of investing offers numerous strategies for traders and investors to explore. With the financial markets becoming increasingly complex, understanding investment strategies, technical analysis, stock consolidation, and algorithmic trading can be pivotal in maximizing returns. Each of these elements plays a crucial role in how investors approach the market, offering various pathways to achieve financial growth.

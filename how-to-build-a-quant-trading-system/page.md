@@ -1,9 +1,12 @@
 ---
-title: "How to build a quant trading system?"
-description: "Learn how to build a successful quantitative trading system from scratch. This comprehensive guide covers training, strategy development, data acquisition, backtesting, optimization, paper trading, deployment, continuous monitoring, risk management, and improvement. Dive in for a step-by-step approach to mastering quant trading."
+category: trading_strategy
+description: Learn how to build a successful quantitative trading system from scratch.
+  This comprehensive guide covers training, strategy development, data acquisition,
+  backtesting, optimization, paper trading, deployment, continuous monitoring, risk
+  management, and improvement. Dive in for a step-by-step approach to mastering quant
+  trading.
+title: How to build a quant trading system?
 ---
-
-
 
 Building a quantitative trading system requires a combination of knowledge in finance, mathematics, statistics, and programming. Here's a detailed guide to help you create your own system.
 

@@ -1,6 +1,14 @@
 ---
-title: "Executing Broker: Overview and Functions (Algo Trading)"
-description: "Discover the crucial role of executing brokers in stock and algorithmic trading within today's investment landscape. Learn how these intermediaries process trades for hedge funds and institutional investors, ensuring efficient execution and adherence to best practices. Explore the distinctions between executing and clearing brokers, the impact of algorithmic trading platforms, and the strategies employed to enhance trade execution quality. This comprehensive guide equips traders and investors with essential insights to optimize trading strategies in an evolving market."
+category: quant_concept
+description: Discover the crucial role of executing brokers in stock and algorithmic
+  trading within today's investment landscape. Learn how these intermediaries process
+  trades for hedge funds and institutional investors, ensuring efficient execution
+  and adherence to best practices. Explore the distinctions between executing and
+  clearing brokers, the impact of algorithmic trading platforms, and the strategies
+  employed to enhance trade execution quality. This comprehensive guide equips traders
+  and investors with essential insights to optimize trading strategies in an evolving
+  market.
+title: 'Executing Broker: Overview and Functions (Algo Trading)'
 ---
 
 In the modern investment landscape, executing broker services play a pivotal role, particularly in stock and algorithmic trading. Executing brokers are intermediaries that handle the critical task of processing buy or sell orders for clients, which often include hedge funds and institutional investors. They ensure that trades are executed efficiently and in alignment with regulatory best execution mandates. 

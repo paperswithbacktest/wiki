@@ -1,6 +1,8 @@
 ---
-title: "Three White Soldiers Candlestick Pattern in Trading (Algo Trading)"
-description: "Discover how the Three White Soldiers candlestick pattern can signal bullish market reversals in trading and enhance algorithms for better decision-making."
+category: trading_strategy
+description: Discover how the Three White Soldiers candlestick pattern can signal
+  bullish market reversals in trading and enhance algorithms for better decision-making.
+title: Three White Soldiers Candlestick Pattern in Trading (Algo Trading)
 ---
 
 The art of trading is a complex discipline that employs a variety of tools and strategies aimed at predicting market movements. Among the arsenal of technical analysis tools, the 'Three White Soldiers' candlestick pattern stands out for its ability to signal bullish market reversals effectively. This pattern is pivotal for traders who rely on visual cues to identify potential turning points in the market, making it a valuable asset in both manual and algorithmic trading. 

@@ -1,6 +1,9 @@
 ---
-title: "Floating-Rate Notes: Key Information (Algo Trading)"
-description: "Explore the synergy of floating-rate notes and algorithmic trading to understand their role in optimizing investment returns and managing interest rate risks."
+category: quant_concept
+description: Explore the synergy of floating-rate notes and algorithmic trading to
+  understand their role in optimizing investment returns and managing interest rate
+  risks.
+title: 'Floating-Rate Notes: Key Information (Algo Trading)'
 ---
 
 Floating-rate notes (FRNs) are distinct financial instruments characterized by their variable interest rates, which are typically linked to established benchmark rates such as the London Interbank Offered Rate (LIBOR), the Secured Overnight Financing Rate (SOFR), or the Federal Funds Rate. This linkage allows FRNs to automatically adjust their interest payments in response to shifting market conditions, making them particularly appealing during periods of rising interest rates. Unlike fixed-rate bonds, FRNs provide investors with the opportunity to capitalize on changing interest environments, offering a hedge against interest rate risks.

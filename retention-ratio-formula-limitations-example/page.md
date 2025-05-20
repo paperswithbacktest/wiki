@@ -1,6 +1,13 @@
 ---
-title: "Retention Ratio: Formula, Limitations, and Example (Algo Trading)"
-description: "Explore the significance of the retention ratio as a crucial financial metric in assessing a company's growth potential and strategic focus. This comprehensive guide highlights the calculation methods, limitations, and the role of the retention ratio in algorithmic trading and financial analysis. Understand how retained earnings influence reinvestment strategies and the balance between rewarding shareholders and fostering expansion for a well-rounded investment perspective. Discover the insights this ratio provides and how it can inform your investment decisions."
+category: quant_concept
+description: Explore the significance of the retention ratio as a crucial financial
+  metric in assessing a company's growth potential and strategic focus. This comprehensive
+  guide highlights the calculation methods, limitations, and the role of the retention
+  ratio in algorithmic trading and financial analysis. Understand how retained earnings
+  influence reinvestment strategies and the balance between rewarding shareholders
+  and fostering expansion for a well-rounded investment perspective. Discover the
+  insights this ratio provides and how it can inform your investment decisions.
+title: 'Retention Ratio: Formula, Limitations, and Example (Algo Trading)'
 ---
 
 The financial world is filled with numerous metrics and ratios that help evaluate a company's health and growth prospects. One such metric that plays a pivotal role in this assessment is the retention ratio. It serves as a crucial indicator, offering insights into a company's ability to reinvest its earnings and its overall growth potential. By analyzing how much profit a company retains as opposed to distributing as dividends, the retention ratio helps investors and analysts gauge the strategic focus of a company. Whether a business is aiming for expansion or preferring to reward shareholders with dividends can be discerned from this ratio.

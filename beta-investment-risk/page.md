@@ -1,6 +1,9 @@
 ---
-title: "Beta in Investment Risk (Algo Trading)"
-description: "Explore the role of beta in investment risk assessment and the impact of algorithmic trading on financial strategies for maximizing returns and minimizing risks."
+category: quant_concept
+description: Explore the role of beta in investment risk assessment and the impact
+  of algorithmic trading on financial strategies for maximizing returns and minimizing
+  risks.
+title: Beta in Investment Risk (Algo Trading)
 ---
 
 In the world of finance, investment strategies are constantly evolving to maximize returns while minimizing risks. These strategies are shaped by a deep understanding of financial concepts and the application of advanced technologies. One of the key concepts in understanding investment risk is 'beta'. Beta measures the volatility of an asset in relation to the market as a whole. It acts as an indicator of the risk associated with a particular asset, providing insight into how much that asset's price might fluctuate compared to market movements. Assets with higher beta values typically exhibit greater volatility and potentially higher returns, while assets with lower beta values tend to be more stable.

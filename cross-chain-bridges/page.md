@@ -1,6 +1,8 @@
 ---
-title: "Cross-Chain Bridges (Algo Trading)"
-description: "Explore blockchain interoperability and cross-chain bridges key in cryptocurrency trading. Learn how they enhance trading efficiency with secure asset transfers."
+category: quant_concept
+description: Explore blockchain interoperability and cross-chain bridges key in cryptocurrency
+  trading. Learn how they enhance trading efficiency with secure asset transfers.
+title: Cross-Chain Bridges (Algo Trading)
 ---
 
 The rapid evolution of blockchain technology has fundamentally transformed various industries by enabling secure and transparent transactions. This technology underpins cryptocurrencies such as Bitcoin and Ethereum, and its applications extend beyond digital currencies into sectors such as supply chain management, healthcare, and finance. However, a significant obstacle obstructing broader adoption is the lack of interoperability between different blockchain networks. Each blockchain operates its independent ecosystem, often leading to siloed operations and limited interaction capabilities. This fragmentation curtails the potential for utilizing blockchain across distributed and decentralized platforms. 

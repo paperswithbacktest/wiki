@@ -1,6 +1,8 @@
 ---
-title: "Imputed Interest: Overview and Calculation Methods (Algo Trading)"
-description: "Explore imputed interest in finance covering its significance, calculation methods, and its role in algo trading to enhance market strategies."
+category: quant_concept
+description: Explore imputed interest in finance covering its significance, calculation
+  methods, and its role in algo trading to enhance market strategies.
+title: 'Imputed Interest: Overview and Calculation Methods (Algo Trading)'
 ---
 
 Interest calculation represents a core element of the financial sector, influencing everything from personal loans to complex financial instruments like bonds and derivatives. The methods of calculating interest can vary significantly, tailored to fit different financial products and scenarios. Among these, the concept of imputed interest holds particular importance due to its tax implications. Imputed interest accounts for interest that is considered to have been paid for tax purposes, even if no actual payment has occurred. This is particularly relevant in situations involving below-market-rate loans or no-interest loans, where determining the fair taxable amount becomes essential.

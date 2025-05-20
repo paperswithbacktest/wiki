@@ -1,6 +1,8 @@
 ---
-title: "Algorithmic Market Making (Algo Trading)"
-description: "Explore the synergy of algorithmic trading and market making how advanced algorithms drive liquidity and efficiency in financial markets worldwide."
+category: quant_concept
+description: Explore the synergy of algorithmic trading and market making how advanced
+  algorithms drive liquidity and efficiency in financial markets worldwide.
+title: Algorithmic Market Making (Algo Trading)
 ---
 
 In the ever-evolving landscape of finance, technology is continuously reshaping traditional practices, with algorithmic trading playing a pivotal role in these transformations. Algorithmic trading leverages complex mathematical models and algorithms to automate the trading process, thereby enhancing the speed and precision of trade execution. As technology advances, these algorithms have become increasingly sophisticated, enabling market participants to execute trades faster and more efficiently than ever before.

@@ -1,6 +1,9 @@
 ---
-title: "Social Impact Bond: Overview and Mechanism (Algo Trading)"
-description: "Explore how Social Impact Bonds leverage private investments for societal challenges aligning financial returns with meaningful social outcomes through innovative mechanisms."
+category: quant_concept
+description: Explore how Social Impact Bonds leverage private investments for societal
+  challenges aligning financial returns with meaningful social outcomes through innovative
+  mechanisms.
+title: 'Social Impact Bond: Overview and Mechanism (Algo Trading)'
 ---
 
 Social Impact Bonds (SIBs) represent a novel financial instrument that marries traditional finance with social welfare objectives. They are designed to channel private investment towards social programs, with returns to investors being contingent on the success of these initiatives. The primary aim of SIBs is to address and fund societal challenges, ranging from education and healthcare to housing and employment, by incentivizing successful social outcomes. This structure not only aligns with the goals of impact investing—which seeks to generate measurable social or environmental benefits alongside financial returns—but also promotes accountability in social projects through its outcomes-based payment model.

@@ -1,6 +1,8 @@
 ---
-title: "SEC Form 15-12B (Algo Trading)"
-description: "Explore SEC Form 15-12B and its role in the deregistration of securities. Discover how it impacts algorithmic trading, market dynamics, and liquidity strategies."
+category: quant_concept
+description: Explore SEC Form 15-12B and its role in the deregistration of securities.
+  Discover how it impacts algorithmic trading, market dynamics, and liquidity strategies.
+title: SEC Form 15-12B (Algo Trading)
 ---
 
 SEC Form 15-12B is a critical document in the financial sector, primarily associated with the process of deregistering securities. This form serves as a formal certification for the termination of registration for a class of securities under the Securities Exchange Act of 1934. Understanding this form and the broader deregistration process is crucial for companies, especially those involved in algorithmic trading on securities exchanges. As algorithmic trading relies on the swift execution of trades, the deregistration of securities can significantly impact market dynamics, affecting both liquidity and trading strategies.

@@ -1,6 +1,8 @@
 ---
-title: "Coattail Investing: Mechanism and Example (Algo Trading)"
-description: "Explore coattail investing and algorithmic trading to enhance your investment strategy gain insights on mimicking successful investors and tech-driven trade execution."
+category: trading_strategy
+description: Explore coattail investing and algorithmic trading to enhance your investment
+  strategy gain insights on mimicking successful investors and tech-driven trade execution.
+title: 'Coattail Investing: Mechanism and Example (Algo Trading)'
 ---
 
 Understanding financial markets and crafting an effective investment strategy is crucial for both novice and seasoned investors. In today's rapidly evolving economic environment, identifying and employing the right strategies can lead to substantial financial gains while mitigating potential risks. This article explores two prominent investment strategies: coattail investing and algorithmic trading. Each strategy offers unique approaches and tools, enabling investors to maximize their returns and manage their portfolios more efficiently. 

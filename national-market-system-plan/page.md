@@ -1,6 +1,9 @@
 ---
-title: "National Market System Plan (Algo Trading)"
-description: "Discover how the National Market System Plan promotes transparency and efficiency in U.S. equity markets by supporting algorithmic trading and enhancing competition."
+category: quant_concept
+description: Discover how the National Market System Plan promotes transparency and
+  efficiency in U.S. equity markets by supporting algorithmic trading and enhancing
+  competition.
+title: National Market System Plan (Algo Trading)
 ---
 
 The National Market System (NMS) Plan serves as a cornerstone in the regulation of U.S. equity markets, established to ensure transparency, efficiency, and fairness. Originating from legislative efforts by the U.S. Congress and refined by the Securities and Exchange Commission (SEC), the NMS Plan mandates the integration of various trading venues into a cohesive system. This integration facilitates better price discovery and enhances market competition, vital components in today’s complex financial markets.

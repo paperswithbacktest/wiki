@@ -1,6 +1,9 @@
 ---
-title: "Cash Delivery: Overview, Examples, Advantages and Disadvantages (Algo Trading)"
-description: "Explore the benefits and challenges of cash delivery and algorithmic trading in financial markets Learn how these strategies affect liquidity and investor decisions"
+category: quant_concept
+description: Explore the benefits and challenges of cash delivery and algorithmic
+  trading in financial markets Learn how these strategies affect liquidity and investor
+  decisions
+title: 'Cash Delivery: Overview, Examples, Advantages and Disadvantages (Algo Trading)'
 ---
 
 In financial transactions, technologies such as cash delivery and algorithmic trading have significantly transformed the landscape. These methods have introduced new efficiencies and opportunities, reshaping how markets operate and how financial strategies are executed. This article explores the pros and cons of these financial mechanisms, providing insights for investors and financial professionals. By understanding the advantages and drawbacks of both cash delivery and algo trading, stakeholders can make more informed decisions, ultimately enhancing their ability to navigate the financial markets effectively.

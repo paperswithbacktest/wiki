@@ -1,6 +1,9 @@
 ---
-title: "Impact of Deflationary Shocks on the Economy (Algo Trading)"
-description: "Explore the impact of deflationary shocks on the economy and the role of algorithmic trading in amplifying market volatility during these challenging conditions."
+category: quant_concept
+description: Explore the impact of deflationary shocks on the economy and the role
+  of algorithmic trading in amplifying market volatility during these challenging
+  conditions.
+title: Impact of Deflationary Shocks on the Economy (Algo Trading)
 ---
 
 A deflationary shock refers to a sudden and significant decrease in the general price levels within an economy, often triggered by a decline in consumer demand, excessive supply, or a contraction in the money supply. Unlike disinflation, which is a reduction in the rate of inflation, a deflationary shock signals outright decreases in prices, potentially leading to negative inflation rates. This can have profound effects on both consumers and businesses. For consumers, the immediate benefit might be an increase in purchasing power as prices fall. However, in a prolonged deflationary environment, consumers may delay purchases in anticipation of further price drops, leading to a decrease in overall demand. For businesses, deflationary shocks often result in shrinking revenue and profit margins as prices drop, which may compel them to cut costs, often through workforce reductions or scaled-back production.

@@ -1,6 +1,8 @@
 ---
-title: "Maximum Drawdown and Calculation Formula (Algo Trading)"
-description: "Explore the importance of maximum drawdown in algorithmic trading Understand this key metric for managing investment risk and optimizing trading strategies"
+category: quant_concept
+description: Explore the importance of maximum drawdown in algorithmic trading Understand
+  this key metric for managing investment risk and optimizing trading strategies
+title: Maximum Drawdown and Calculation Formula (Algo Trading)
 ---
 
 In the world of finance and investment, understanding and managing risk is paramount. Investors employ a range of financial metrics to evaluate and assess the risk associated with trading strategies. Among these metrics, 'maximum drawdown' is widely regarded as a critical measure, particularly in the context of algorithmic trading, where fast-paced decisions and precise risk assessments are essential.

@@ -1,6 +1,9 @@
 ---
-title: "Administrative Expenses: Overview and Examples (Algo Trading)"
-description: "Explore the significance of administrative expenses in algorithmic trading With a focus on cost management strategies learn how these expenses impact profit margins"
+category: quant_concept
+description: Explore the significance of administrative expenses in algorithmic trading
+  With a focus on cost management strategies learn how these expenses impact profit
+  margins
+title: 'Administrative Expenses: Overview and Examples (Algo Trading)'
 ---
 
 Understanding business expenses is crucial for any enterprise aiming to maximize profitability, as effective expense management can directly influence a company's bottom line. In the competitive field of algorithmic trading, where the margins can be razor-thin and efficiency is paramount, a comprehensive understanding of business costs is essential. Business expenses encompass all costs incurred during the course of operations and can be categorized into various types, including fixed, variable, direct, and indirect costs. Among these, administrative expenses play a pivotal role in day-to-day business operations.

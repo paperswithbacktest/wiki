@@ -1,6 +1,8 @@
 ---
-title: "Capital Investment Factors and Their Functions (Algo Trading)"
-description: "Explore key factors influencing capital investments and the role of algorithmic trading in the evolving market to optimize financial strategies and improve returns."
+category: trading_strategy
+description: Explore key factors influencing capital investments and the role of algorithmic
+  trading in the evolving market to optimize financial strategies and improve returns.
+title: Capital Investment Factors and Their Functions (Algo Trading)
 ---
 
 In a rapidly evolving financial market, comprehending the factors that drive investment decisions is essential for both individual and institutional investors. Investment strategies are increasingly being defined by sophisticated analyses of various quantitative and qualitative factors. Key aspects include understanding the dynamics of investment factors, conducting thorough financial analyses, and effectively managing capital investments. The emergence of algorithmic trading is reshaping the landscape, providing innovative methods for executing and optimizing trades. 

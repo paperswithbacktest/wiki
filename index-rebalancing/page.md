@@ -1,6 +1,9 @@
 ---
-title: "Index Rebalancing (Algo Trading)"
-description: "Explore the vital role of index rebalancing in investment strategy and portfolio management Learn how algorithmic trading enhances precision and efficiency in rebalancing"
+category: trading_strategy
+description: Explore the vital role of index rebalancing in investment strategy and
+  portfolio management Learn how algorithmic trading enhances precision and efficiency
+  in rebalancing
+title: Index Rebalancing (Algo Trading)
 ---
 
 Index rebalancing refers to the process of realigning the weightings of a portfolio of assets. This is done by periodically buying or selling assets to maintain a desired level of asset allocation or risk. It is a critical component of a comprehensive investment strategy, which encompasses making decisions aimed at achieving specific financial goals, aligned with an investor's risk tolerance. Portfolio management is the science and art of selecting and overseeing a group of investments that meet the long-term financial objectives and risk tolerance of an investor. Lastly, algorithmic trading involves the use of computer algorithms to execute trading orders, often incorporating complex strategies at speeds and frequencies that are impossible for humans alone.

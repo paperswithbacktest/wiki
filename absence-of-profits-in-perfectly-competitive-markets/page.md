@@ -1,6 +1,8 @@
 ---
-title: "Absence of Profits in Perfectly Competitive Markets (Algo Trading)"
-description: "Explore how perfect competition principles relate to algorithmic trading in financial markets analyzing its impacts on market profits and dynamics."
+category: quant_concept
+description: Explore how perfect competition principles relate to algorithmic trading
+  in financial markets analyzing its impacts on market profits and dynamics.
+title: Absence of Profits in Perfectly Competitive Markets (Algo Trading)
 ---
 
 The economic theory of perfect competition provides a foundational framework for understanding market dynamics. In this theoretical model, numerous small firms produce identical products, and no single entity possesses the market power to influence prices. Firms in such a setting are price takers, and the forces of supply and demand solely govern the market price. This environment serves as an ideal benchmark in economic studies, although real-world markets seldom achieve the pure conditions of perfect competition.

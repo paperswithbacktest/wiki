@@ -1,6 +1,8 @@
 ---
-title: "Forex Options Trading Feasibility (Algo Trading)"
-description: "Explore the feasibility of forex options trading and algorithmic strategies in the evolving currency market Gain insights into risk management and trading efficiency"
+category: trading_strategy
+description: Explore the feasibility of forex options trading and algorithmic strategies
+  in the evolving currency market Gain insights into risk management and trading efficiency
+title: Forex Options Trading Feasibility (Algo Trading)
 ---
 
 The currency market, also known as the foreign exchange (forex) market, is a fundamental component of global finance, facilitating the exchange of currencies necessary for international trade, investment, and economic stability. As the largest and most liquid financial market in the world, it supports transactions exceeding $6 trillion per day as of 2021. Forex trading represents the buying and selling of currency pairs, allowing participants to profit from changes in exchange rates. Major currency pairs include how the euro (EUR) trades against the US dollar (USD) or the Japanese yen (JPY) against the British pound (GBP).

@@ -1,6 +1,9 @@
 ---
-title: "Equity Market Neutral Strategy in Stock Trading (Algo Trading)"
-description: "Equity market neutral stock trading strategies minimize market exposure with balanced long and short positions using algorithms for consistent returns and reduced risk."
+category: trading_strategy
+description: Equity market neutral stock trading strategies minimize market exposure
+  with balanced long and short positions using algorithms for consistent returns and
+  reduced risk.
+title: Equity Market Neutral Strategy in Stock Trading (Algo Trading)
 ---
 
 The world of stock trading is vast and complex, with various strategies designed to cater to different market conditions and investor goals. One prominent strategy within this domain is the equity market neutral strategy, which seeks to deliver consistent returns regardless of whether the overall market is trending upwards, downwards, or remaining stagnant. This approach involves crafting a portfolio with equal values in long and short positions, thereby minimizing exposure to market volatility and emphasizing stock selection over broader market trends.

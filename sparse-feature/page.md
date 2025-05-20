@@ -1,7 +1,8 @@
 ---
-title: Handling Sparse Features in Machine Learning Models
+category: quant_concept
 description: Sparse features improve model efficiency and reduce memory by focusing
   on nonzero data for faster, more accurate predictions. Discover more inside
+title: Handling Sparse Features in Machine Learning Models
 ---
 
 ![Image](images/1.jpeg)

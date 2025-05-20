@@ -1,6 +1,8 @@
 ---
-title: "Economic Impact of Korean Reunification (Algo Trading)"
-description: "Explore how the reunification of North and South Korea could transform algorithmic trading in global markets by leveraging unique economic synergies."
+category: quant_concept
+description: Explore how the reunification of North and South Korea could transform
+  algorithmic trading in global markets by leveraging unique economic synergies.
+title: Economic Impact of Korean Reunification (Algo Trading)
 ---
 
 The potential reunification of North and South Korea is a subject that has captured the interest of economists, political analysts, and policymakers worldwide due to its significant geopolitical and economic implications. The peninsula, divided since the end of World War II, presents a stark contrast between North Korea's centrally planned and isolated economy and South Korea's vibrant, free-market system. Merging these two disparate economies presents not only complex challenges but also unprecedented opportunities, especially within the global economic framework.

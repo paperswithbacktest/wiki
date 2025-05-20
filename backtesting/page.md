@@ -1,6 +1,10 @@
 ---
-title: "Backtesting for Algo Trading"
-description: Discover the importance of backtesting in algo trading – a methodical process that simulates trading strategies using historical data. Learn how it helps assess strategy feasibility, refine approaches, and provides valuable insights for improved performance.
+category: trading_strategy
+description: Discover the importance of backtesting in algo trading – a methodical
+  process that simulates trading strategies using historical data. Learn how it helps
+  assess strategy feasibility, refine approaches, and provides valuable insights for
+  improved performance.
+title: Backtesting for Algo Trading
 ---
 
 Backtesting, in trading and finance, is a methodical process where traders simulate their trading strategies using historical data. This simulation allows traders to see how their strategy would have performed in the past, making it a vital tool for assessing the feasibility of a trading plan before risking actual capital. The primary aim is to validate the strategy's effectiveness and to refine it if necessary.

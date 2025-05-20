@@ -1,6 +1,9 @@
 ---
-title: "Euro Exchange-Traded Fund: Overview and Functionality (Algo Trading)"
-description: "Discover how Euro Exchange-Traded Funds (ETFs) leverage algorithmic trading to optimize investment strategies Explore the benefits of Euro ETFs and their market dynamics"
+category: quant_concept
+description: Discover how Euro Exchange-Traded Funds (ETFs) leverage algorithmic trading
+  to optimize investment strategies Explore the benefits of Euro ETFs and their market
+  dynamics
+title: 'Euro Exchange-Traded Fund: Overview and Functionality (Algo Trading)'
 ---
 
 The past decade has witnessed a marked increase in the popularity of Euro Exchange-Traded Funds (ETFs) among investors. This surge in interest is largely attributed to the evolving financial landscape within the Eurozone and the growing quest for diverse investment portfolios. Traditionally, ETFs are investment funds traded on stock exchanges, much like stocks. They hold assets such as stocks, commodities, or bonds and generally operate with an arbitrage mechanism designed to keep trading close to its net asset value, though deviations can occasionally occur.

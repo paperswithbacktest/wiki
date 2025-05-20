@@ -1,6 +1,8 @@
 ---
-title: "Pass-Through Certificate: Function and Mechanism (Algo Trading)"
-description: "Explore how pass-through certificates offer fixed income by pooling mortgage assets while algorithmic trading reshapes markets with automated trade execution."
+category: quant_concept
+description: Explore how pass-through certificates offer fixed income by pooling mortgage
+  assets while algorithmic trading reshapes markets with automated trade execution.
+title: 'Pass-Through Certificate: Function and Mechanism (Algo Trading)'
 ---
 
 In the complex world of investment, understanding the various financial instruments is crucial for making informed decisions and achieving financial goals. Among the diverse array of investment options, pass-through certificates and algorithmic trading are two notable instruments that investors can explore to diversify their portfolios and potentially enhance returns.

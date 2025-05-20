@@ -1,6 +1,9 @@
 ---
-title: "Full Ratchet Anti-Dilution Mechanism and Alternatives (Algo Trading)"
-description: "Explore the essentials of full ratchet anti-dilution provisions in venture capital and algorithmic trading. Learn how they protect early investors from dilution in volatile markets."
+category: quant_concept
+description: Explore the essentials of full ratchet anti-dilution provisions in venture
+  capital and algorithmic trading. Learn how they protect early investors from dilution
+  in volatile markets.
+title: Full Ratchet Anti-Dilution Mechanism and Alternatives (Algo Trading)
 ---
 
 In the fast-paced world of venture capital and algorithmic trading, a thorough understanding of complex financial instruments and investment terms like 'anti-dilution' provisions is essential. These provisions are designed to shield early investors from the dilutive effects that occur when new shares are issued at a price lower than the original investment. This article focuses on full ratchet investment terms, a specific type of anti-dilution provision, which adjust an investor's conversion price to the lowest sale price of new shares in future financing rounds. This mechanism ensures investors maintain their ownership percentage, protecting their initial stake from being significantly diminished by later, lower-priced financing rounds.

@@ -1,6 +1,9 @@
 ---
-title: "Labor-Intensive Industries (Algo Trading)"
-description: "Explore how labor-intensive industries such as agriculture and construction leverage algorithmic trading to enhance efficiency and optimize decision-making processes."
+category: trading_strategy
+description: Explore how labor-intensive industries such as agriculture and construction
+  leverage algorithmic trading to enhance efficiency and optimize decision-making
+  processes.
+title: Labor-Intensive Industries (Algo Trading)
 ---
 
 In today's rapidly evolving market landscape, understanding the various facets of industries and trading strategies is crucial. The dynamic interplay between traditional labor-intensive industries and contemporary technological advancements such as algorithmic trading exemplifies this transformation. Labor-intensive industries, characterized by their heavy reliance on human labor, include sectors such as agriculture, hospitality, and construction. These industries have historically thrived in economies with abundant and cost-effective labor. However, as the global economy transitions into a more digital era, the integration of advanced technologies is becoming essential.

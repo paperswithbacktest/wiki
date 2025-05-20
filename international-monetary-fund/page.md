@@ -1,6 +1,9 @@
 ---
-title: "International Monetary Fund (Algo Trading)"
-description: "Explore the interplay between IMF policies and algorithmic trading. Learn how global financial challenges are addressed with evolving tech and economic stability efforts."
+category: quant_concept
+description: Explore the interplay between IMF policies and algorithmic trading. Learn
+  how global financial challenges are addressed with evolving tech and economic stability
+  efforts.
+title: International Monetary Fund (Algo Trading)
 ---
 
 The International Monetary Fund (IMF) is a cornerstone institution in global finance, established to promote international monetary cooperation, secure financial stability, and facilitate international trade. As a specialized agency of the United Nations, the IMF provides financial assistance to member countries facing balance of payments problems, aiming to stabilize economies and foster sustainable economic growth. Its critical functions include offering policy advice, financial lending, and serving as a forum for cooperation on monetary issues. With 190 member countries as of 2023, the IMF exerts significant influence over global economic policies and practices, continuously adapting to address emerging challenges in the global financial system.

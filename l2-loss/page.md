@@ -1,7 +1,8 @@
 ---
-title: Essential Guide to L2 Loss for Machine Learning Regression
+category: quant_concept
 description: L2 Loss measures the average of squared errors to optimize regression
   models for accurate predictions and smoother training. Discover more inside.
+title: Essential Guide to L2 Loss for Machine Learning Regression
 ---
 
 ![Image](images/1.png)

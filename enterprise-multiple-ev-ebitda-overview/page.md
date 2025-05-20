@@ -1,6 +1,9 @@
 ---
-title: "Enterprise Multiple EV/EBITDA Overview (Algo Trading)"
-description: "Explore how the Enterprise Multiple EV/EBITDA metric enhances algorithmic trading strategies by providing insightful company valuations for informed investment decisions."
+category: quant_concept
+description: Explore how the Enterprise Multiple EV/EBITDA metric enhances algorithmic
+  trading strategies by providing insightful company valuations for informed investment
+  decisions.
+title: Enterprise Multiple EV/EBITDA Overview (Algo Trading)
 ---
 
 In financial valuation, the Enterprise Multiple (EV/EBITDA) is an essential metric for analyzing company value, especially with the increasing sophistication of algorithmic trading. This article highlights the importance of the Enterprise Multiple in evaluating a company's economic profile and potential growth. By applying this metric, investors can make more informed decisions regarding a company's financial health, thereby enhancing their investment strategies.

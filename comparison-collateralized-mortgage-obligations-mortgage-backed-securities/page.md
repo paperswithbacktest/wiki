@@ -1,6 +1,9 @@
 ---
-title: "Comparison of Collateralized Mortgage Obligations and Mortgage-Backed Securities (Algo Trading)"
-description: "Discover the dynamics of mortgage-backed securities and collateralized mortgage obligations coupled with algorithmic trading to optimize investment returns."
+category: trading_strategy
+description: Discover the dynamics of mortgage-backed securities and collateralized
+  mortgage obligations coupled with algorithmic trading to optimize investment returns.
+title: Comparison of Collateralized Mortgage Obligations and Mortgage-Backed Securities
+  (Algo Trading)
 ---
 
 In today's fast-paced financial markets, the convergence of mortgage-backed securities (MBS), collateralized mortgage obligations (CMO), and algorithmic trading has captured significant attention as investors seek ways to maximize their returns. This integration has transformed traditional trading strategies by offering more precise, efficient, and dynamic approaches to participating in the mortgage securities market.

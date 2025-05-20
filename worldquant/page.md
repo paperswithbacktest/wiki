@@ -1,6 +1,15 @@
 ---
-title: "WorldQuant (Algo Trading)"
-description: WorldQuant LLC, founded in 2007 by Igor Tulchinsky, is a leading global firm specializing in hedge fund and quantitative investment management. Known for leveraging algorithmic trading and data-driven strategies, WorldQuant excels with its innovative use of quantitative models, machine learning, and extensive data analytics. With over 24 global offices, the firm focuses on statistical arbitrage to capitalize on market inefficiencies. WorldQuant's technological platforms like WebSim enable the development and testing of trading strategies, while initiatives like the Global Alphathon attract top talent, reinforcing its position as a pioneer in quantitative finance.
+category: trading_strategy
+description: WorldQuant LLC, founded in 2007 by Igor Tulchinsky, is a leading global
+  firm specializing in hedge fund and quantitative investment management. Known for
+  leveraging algorithmic trading and data-driven strategies, WorldQuant excels with
+  its innovative use of quantitative models, machine learning, and extensive data
+  analytics. With over 24 global offices, the firm focuses on statistical arbitrage
+  to capitalize on market inefficiencies. WorldQuant's technological platforms like
+  WebSim enable the development and testing of trading strategies, while initiatives
+  like the Global Alphathon attract top talent, reinforcing its position as a pioneer
+  in quantitative finance.
+title: WorldQuant (Algo Trading)
 ---
 
 WorldQuant LLC is a prominent international player in the hedge fund and quantitative investment management sectors. Founded in 2007 by Igor Tulchinsky, this company has made a name for itself by harnessing the power of algorithmic trading and quantitative investing methods. As the financial markets become increasingly data-driven, WorldQuant stands out for its innovative methodologies that integrate advanced data analytics and technology.

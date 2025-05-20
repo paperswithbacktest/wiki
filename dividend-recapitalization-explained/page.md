@@ -1,6 +1,8 @@
 ---
-title: "Dividend Recapitalization Explained (Algo Trading)"
-description: "Discover how dividend recapitalization and algorithmic trading intersect in corporate finance to enhance shareholder value and optimize trading efficiency."
+category: quant_concept
+description: Discover how dividend recapitalization and algorithmic trading intersect
+  in corporate finance to enhance shareholder value and optimize trading efficiency.
+title: Dividend Recapitalization Explained (Algo Trading)
 ---
 
 Corporate finance is an extensive field centered on the financial activities of corporations, specifically focusing on how organizations raise, manage, and allocate funds to achieve their objectives. It encompasses a range of activities, from everyday financial operations to significant capital transactions. These activities are integral to the financial strategy, a critical element that helps companies align their financial capabilities with strategic goals to maximize shareholder value. 

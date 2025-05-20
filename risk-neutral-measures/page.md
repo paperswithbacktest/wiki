@@ -1,6 +1,9 @@
 ---
-title: "Risk-Neutral Measures (Algo Trading)"
-description: "Risk-neutral measures simplify derivative pricing by standardizing asset valuations, using risk-free rates and streamlining financial models for algorithmic trading."
+category: quant_concept
+description: Risk-neutral measures simplify derivative pricing by standardizing asset
+  valuations, using risk-free rates and streamlining financial models for algorithmic
+  trading.
+title: Risk-Neutral Measures (Algo Trading)
 ---
 
 Risk-neutral measures are integral to finance, especially in the fields of derivative pricing and asset valuation. These measures allow financial models to be simplified by eliminating the influence of individual risk preferences. This is achieved through modifying expected return assumptions, thereby establishing a standardized methodology for assessing future asset prices. This approach enables assets to be evaluated using risk-free interest rates rather than expected risky returns.
@@ -170,4 +173,3 @@ Shreve, S.E. (2004). *Stochastic Calculus for Finance I: The Binomial Asset Pric
 Duffie, D. (2001). *Dynamic Asset Pricing Theory*. Princeton University Press. Duffie's book delves into the theoretical aspects of asset pricing, including the use of risk-neutral measures within the broader framework of dynamic financial models.
 
 Black, F., & Scholes, M. (1973). "The Pricing of Options and Corporate Liabilities." *Journal of Political Economy*. This seminal paper introduces the Black-Scholes model, a cornerstone of modern financial theory, employing risk-neutral measures to derive option pricing formulas pivotal in financial engineering.
-

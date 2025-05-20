@@ -1,6 +1,9 @@
 ---
-title: "Locked Market (Algo Trading)"
-description: "Explore the transformative impact of algorithmic trading on financial markets Discover how technology enhances speed efficiency and precision in modern trading"
+category: quant_concept
+description: Explore the transformative impact of algorithmic trading on financial
+  markets Discover how technology enhances speed efficiency and precision in modern
+  trading
+title: Locked Market (Algo Trading)
 ---
 
 In today's rapidly evolving financial landscape, the stock market and trading have undergone significant transformations. Over the past several decades, technological advancements have drastically altered how financial markets operate, introducing new dynamics and complexities. Central to this evolution is the emergence and proliferation of algorithmic trading, a process wherein computer algorithms execute trades on behalf of investors, informed by a set of predetermined criteria and sophisticated mathematical models.

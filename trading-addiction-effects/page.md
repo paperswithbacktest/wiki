@@ -1,6 +1,9 @@
 ---
-title: "Trading Addiction and Its Effects (Algo Trading)"
-description: "Explore the intersection of trading addiction and algorithmic trading highlighting its impact on financial behavior and offering insights for responsible trading practices."
+category: quant_concept
+description: Explore the intersection of trading addiction and algorithmic trading
+  highlighting its impact on financial behavior and offering insights for responsible
+  trading practices.
+title: Trading Addiction and Its Effects (Algo Trading)
 ---
 
 Trading in financial markets is often characterized by high stakes, rapid decision-making, and the potential for substantial financial gains. This engaging environment can be exhilarating for participants, driving them toward success and wealth. However, much like gambling, trading carries inherent risks, which may lead to addiction. The thrill of potentially high returns can foster compulsive trading behaviors, impacting individuals' financial health and overall well-being.

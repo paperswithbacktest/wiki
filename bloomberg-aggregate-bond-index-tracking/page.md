@@ -1,6 +1,15 @@
 ---
-title: "Bloomberg Aggregate Bond Index and Its Tracking (Algo Trading)"
-description: "Explore the synergy between the Bloomberg Aggregate Bond Index and algorithmic trading as this page dives into how 'the Agg' serves as a foundational benchmark for forming refined trading strategies in the bond market. Learn about the significance of understanding the diverse composition of the Agg, including its exclusion of high-yield and select municipal securities, and uncover insights into how algorithmic trading transforms investment paradigms by enhancing efficiency and precision in trade execution. Discover strategic uses of algorithmic tools in navigating interest rate dynamics and market volatility within the context of the fixed-income securities market."
+category: dataset
+description: Explore the synergy between the Bloomberg Aggregate Bond Index and algorithmic
+  trading as this page dives into how 'the Agg' serves as a foundational benchmark
+  for forming refined trading strategies in the bond market. Learn about the significance
+  of understanding the diverse composition of the Agg, including its exclusion of
+  high-yield and select municipal securities, and uncover insights into how algorithmic
+  trading transforms investment paradigms by enhancing efficiency and precision in
+  trade execution. Discover strategic uses of algorithmic tools in navigating interest
+  rate dynamics and market volatility within the context of the fixed-income securities
+  market.
+title: Bloomberg Aggregate Bond Index and Its Tracking (Algo Trading)
 ---
 
 The Bloomberg Aggregate Bond Index, colloquially referred to as 'the Agg,' is a fundamental benchmark in the fixed-income securities sector. It is a comprehensive indicator for tracking the performance of investment-grade, U.S.-dollar-denominated, fixed-rate taxable bonds. Serving as a counterpart to the Wilshire 5000 Total Stock Index in equity markets, the Agg is often employed by portfolio managers, fund managers, and investors to gauge the overall health and performance of the bond market.

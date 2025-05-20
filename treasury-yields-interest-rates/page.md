@@ -1,6 +1,15 @@
 ---
-title: "Treasury Yields and Interest Rates (Algo Trading)"
-description: "Explore the interconnected world of treasury yields and interest rates and their impact on financial markets and algorithmic trading in this insightful article. Understand how interest rates set by central banks influence economic activities by affecting consumer behavior and business investments, shaping borrowing costs and savings. Discover how treasury yields signal investor confidence and affect financial products, highlighting how the yield curve indicates economic trends. Gain insights into algorithmic trading's role in market efficiency and liquidity, along with associated risks. This article offers a comprehensive understanding for investors and traders to develop informed strategies."
+category: quant_concept
+description: Explore the interconnected world of treasury yields and interest rates
+  and their impact on financial markets and algorithmic trading in this insightful
+  article. Understand how interest rates set by central banks influence economic activities
+  by affecting consumer behavior and business investments, shaping borrowing costs
+  and savings. Discover how treasury yields signal investor confidence and affect
+  financial products, highlighting how the yield curve indicates economic trends.
+  Gain insights into algorithmic trading's role in market efficiency and liquidity,
+  along with associated risks. This article offers a comprehensive understanding for
+  investors and traders to develop informed strategies.
+title: Treasury Yields and Interest Rates (Algo Trading)
 ---
 
 Financial markets serve as a complex, interconnected system through which financial assets are exchanged, influencing and reflecting the economic health of a country or the global economy. They are comprised of various components, such as stock exchanges, bond markets, forex platforms, and derivative markets. Each of these components facilitates different types of financial transactions, contributing to the overall liquidity, capital allocation, and price discovery that underpin the modern economic landscape.

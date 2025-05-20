@@ -1,6 +1,8 @@
 ---
-title: "Arbitrage Opportunities in Electronic Markets (Algo Trading)"
-description: "Discover the world of arbitrage trading in electronic markets with strategies that leverage algorithmic techniques for identifying and exploiting price discrepancies."
+category: trading_strategy
+description: Discover the world of arbitrage trading in electronic markets with strategies
+  that leverage algorithmic techniques for identifying and exploiting price discrepancies.
+title: Arbitrage Opportunities in Electronic Markets (Algo Trading)
 ---
 
 The modern financial markets present numerous opportunities for traders to profit from price discrepancies across various platforms. Arbitrage, a seasoned trading strategy, involves exploiting these discrepancies for risk-free gains. It capitalizes on market inefficiencies, allowing traders to buy an asset at a lower price in one market and sell it at a higher price in another. This can be achieved without assuming significant risks, making arbitrage a highly attractive strategy.

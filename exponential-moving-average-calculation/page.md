@@ -1,6 +1,12 @@
 ---
-title: "Exponential Moving Average Calculation (Algo Trading)"
-description: "This page provides an in-depth exploration of the Exponential Moving Average (EMA) and its significance in algorithmic trading. Learn about its calculation method and practical applications within trading strategies, designed to enhance traders' analytical tools for better market trend analysis. Discover how the EMA offers a more responsive measure to price changes, helping traders navigate complex financial markets with improved accuracy and confidence."
+category: quant_concept
+description: This page provides an in-depth exploration of the Exponential Moving
+  Average (EMA) and its significance in algorithmic trading. Learn about its calculation
+  method and practical applications within trading strategies, designed to enhance
+  traders' analytical tools for better market trend analysis. Discover how the EMA
+  offers a more responsive measure to price changes, helping traders navigate complex
+  financial markets with improved accuracy and confidence.
+title: Exponential Moving Average Calculation (Algo Trading)
 ---
 
 Technical indicators play a pivotal role in the world of trading, serving as essential tools that aid investors in making informed decisions. Among these indicators, the Exponential Moving Average (EMA) is notably prominent, providing traders with critical insights into market trends. The EMA is celebrated for its ability to give more weight to recent price data, thus offering a more current snapshot of market movements compared to other moving averages. This inherent quality allows the EMA to react swiftly to price changes, making it invaluable for capturing the direction of a trend over a specified period.

@@ -1,6 +1,8 @@
 ---
-title: "Fulcrum Point: Definition and Functionality (Algo Trading)"
-description: "Discover the concepts of fulcrum points and mechanical leverage in algo trading. Learn how these tools can potentially enhance market strategies and profits."
+category: quant_concept
+description: Discover the concepts of fulcrum points and mechanical leverage in algo
+  trading. Learn how these tools can potentially enhance market strategies and profits.
+title: 'Fulcrum Point: Definition and Functionality (Algo Trading)'
 ---
 
 In the world of finance and trading, understanding the dynamics of market movements is crucial for success. Financial markets are inherently complex, with myriad factors influencing price movements and investor behavior. In this intricate landscape, terms like 'fulcrum point' and 'mechanical leverage,' while traditionally associated with physics, have emerged as significant concepts in financial trading, especially in the context of algorithmic trading. 

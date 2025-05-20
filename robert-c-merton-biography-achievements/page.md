@@ -1,6 +1,8 @@
 ---
-title: "Robert C. Merton: Biography and Achievements (Algo Trading)"
-description: "Explore the life and achievements of Robert C. Merton an eminent economist whose work on the Black-Scholes-Merton model reshaped finance and algorithmic trading."
+category: quant_concept
+description: Explore the life and achievements of Robert C. Merton an eminent economist
+  whose work on the Black-Scholes-Merton model reshaped finance and algorithmic trading.
+title: 'Robert C. Merton: Biography and Achievements (Algo Trading)'
 ---
 
 Robert C. Merton is a distinguished American economist recognized for his substantial contributions to finance and economics. Born on July 31, 1944, Merton has left a lasting mark on financial mathematics, most notably through his work on the Black-Scholes-Merton model. This model, developed in collaboration with Fischer Black and Myron Scholes, revolutionized the valuation of options, offering a systematic approach to pricing that has become integral to modern financial practices.

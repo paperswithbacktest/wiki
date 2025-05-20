@@ -1,6 +1,9 @@
 ---
-title: "Taxation of Mutual Funds (Algo Trading)"
-description: "Explore how taxation, mutual funds, and algorithmic trading converge to impact financial strategies. Learn to optimize investments for tax efficiency and returns."
+category: trading_strategy
+description: Explore how taxation, mutual funds, and algorithmic trading converge
+  to impact financial strategies. Learn to optimize investments for tax efficiency
+  and returns.
+title: Taxation of Mutual Funds (Algo Trading)
 ---
 
 The interplay between taxes, investments, mutual funds, and algorithmic trading represents a critical confluence in modern finance, shaping the landscape of financial decision-making and portfolio management. These areas intersect in ways that can significantly influence both individual and institutional financial strategies. Understanding their interactions allows investors to optimize their portfolios for enhanced returns while managing tax liabilities effectively.

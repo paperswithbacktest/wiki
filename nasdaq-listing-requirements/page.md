@@ -1,6 +1,8 @@
 ---
-title: "NASDAQ Listing Requirements (Algo Trading)"
-description: "Explore NASDAQ's listing essentials and how algorithmic trading reshapes market dynamics, ensuring efficient, tech-driven, high-speed equity exchanges."
+category: quant_concept
+description: Explore NASDAQ's listing essentials and how algorithmic trading reshapes
+  market dynamics, ensuring efficient, tech-driven, high-speed equity exchanges.
+title: NASDAQ Listing Requirements (Algo Trading)
 ---
 
 The NASDAQ Stock Market, established in 1971, is a pivotal player in global finance, representing a multitude of sectors and industries. Known for its electronic trading model, NASDAQ has cemented its reputation as a tech-heavy exchange, attracting innovative companies such as Apple, Microsoft, and Amazon. Its significance stems from providing a platform that facilitates the trading of equities for companies poised at the technological forefront, thus influencing a broad spectrum of economic activities and investment strategies.

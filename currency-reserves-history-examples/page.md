@@ -1,6 +1,8 @@
 ---
-title: "Currency Reserves: History and Examples (Algo Trading)"
-description: "Explore the balance between foreign exchange reserves, currency management, and algorithmic trading in finance, highlighting their roles in economic resilience."
+category: quant_concept
+description: Explore the balance between foreign exchange reserves, currency management,
+  and algorithmic trading in finance, highlighting their roles in economic resilience.
+title: 'Currency Reserves: History and Examples (Algo Trading)'
 ---
 
 In global finance, the interaction between foreign exchange reserves, currency reserves, and monetary policy is crucial for maintaining economic stability. Central banks utilize these reserves strategically to minimize financial risks and support monetary policy objectives. This involves a careful balance between holding currency reserves and implementing monetary policies that foster economic resilience.
@@ -98,4 +100,3 @@ In conclusion, the strategic integration and management of foreign exchange rese
 - Lopez de Prado, M. 'Advances in Financial Machine Learning.' Wiley. This book provides a comprehensive overview of how machine learning techniques are being applied in financial markets, focusing on the advancements and challenges in implementing these methods in trading and investment strategies.
 
 - Lyons, R. K. 'The Microstructure Approach to Exchange Rates.' The MIT Press. This work investigates into the microstructures that govern foreign exchange markets, offering a detailed examination of how market mechanisms affect currency prices and exchange rate movements.
-

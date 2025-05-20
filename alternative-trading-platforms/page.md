@@ -1,6 +1,9 @@
 ---
-title: "Alternative Trading Platforms (Algo Trading)"
-description: "Explore the transformative impact of algorithmic trading on global financial markets Discover its role in enhancing efficiency and liquidity alongside emerging challenges"
+category: quant_concept
+description: Explore the transformative impact of algorithmic trading on global financial
+  markets Discover its role in enhancing efficiency and liquidity alongside emerging
+  challenges
+title: Alternative Trading Platforms (Algo Trading)
 ---
 
 Financial markets have undergone significant transformations over the past few decades, driven by technological advancements and globalization. Central to these changes are stock exchanges, which serve as pivotal platforms for the trading of financial instruments such as stocks and bonds. Traditionally, trading in financial markets involved physical exchanges where human traders conducted transactions in person. However, the advent of technology has drastically redefined this landscape, particularly with the emergence of electronic trading systems that have replaced the conventional open-outcry method in many instances. 

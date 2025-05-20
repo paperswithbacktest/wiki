@@ -1,6 +1,8 @@
 ---
-title: "Oil Companies and Refinery Operations (Algo Trading)"
-description: "Explore how refinery operations and algorithmic trading shape the oil industry, enhancing efficiency and adaptability in a dynamic market environment."
+category: quant_concept
+description: Explore how refinery operations and algorithmic trading shape the oil
+  industry, enhancing efficiency and adaptability in a dynamic market environment.
+title: Oil Companies and Refinery Operations (Algo Trading)
 ---
 
 The oil industry is a cornerstone of the global economy, providing essential energy resources and playing a critical role in various sectors, including transportation, manufacturing, and residential heating. Its significance is underscored by the fact that petroleum products remain among the most traded commodities worldwide, influencing geopolitical relationships and economic policies.

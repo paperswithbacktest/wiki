@@ -1,6 +1,9 @@
 ---
-title: "Successful Efforts and Full Cost Accounting (Algo Trading)"
-description: "Explore the impact of Successful Efforts and Full Cost accounting on financial reporting in the oil and gas sector and its influence on algorithmic trading strategies."
+category: quant_concept
+description: Explore the impact of Successful Efforts and Full Cost accounting on
+  financial reporting in the oil and gas sector and its influence on algorithmic trading
+  strategies.
+title: Successful Efforts and Full Cost Accounting (Algo Trading)
 ---
 
 Accounting plays a pivotal role in how financial health is represented, especially for companies involved in oil and gas exploration. Two primary methodologies used in this sector are Successful Efforts (SE) and Full Cost (FC) accounting. Each method comes with distinct implications for financial reporting and strategy. Successful Efforts accounting capitalizes only on the expenses related to successful exploration activities. In contrast, Full Cost accounting allows for the capitalization of all exploration costs, regardless of outcome. Both methods impact the balance sheet and ultimately influence how stakeholders perceive a company's earnings and cash flows.

@@ -1,6 +1,9 @@
 ---
-title: "Nobel Memorial Prize in Economic Sciences (Algo Trading)"
-description: "Explore the Nobel Prize in Economic Sciences' impact on algorithmic trading shaping innovative strategies through groundbreaking economic theories for trading excellence."
+category: quant_concept
+description: Explore the Nobel Prize in Economic Sciences' impact on algorithmic trading
+  shaping innovative strategies through groundbreaking economic theories for trading
+  excellence.
+title: Nobel Memorial Prize in Economic Sciences (Algo Trading)
 ---
 
 The Nobel Memorial Prize in Economic Sciences is widely acknowledged as one of the most esteemed accolades for professionals in the economics field. Since its establishment, this prestigious award has recognized the profound contributions of economists whose theoretical advancements and empirical findings have not only reshaped the academic landscape but also influenced practical financial markets, notably through the burgeoning domain of algorithmic trading.

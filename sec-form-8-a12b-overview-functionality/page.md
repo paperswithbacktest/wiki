@@ -1,6 +1,8 @@
 ---
-title: "SEC Form 8-A12B Overview and Functionality (Algo Trading)"
-description: "Explore the role of SEC Form 8-A12B in securities registration and algorithmic trading's impact on market efficiency enabling informed investment decisions."
+category: quant_concept
+description: Explore the role of SEC Form 8-A12B in securities registration and algorithmic
+  trading's impact on market efficiency enabling informed investment decisions.
+title: SEC Form 8-A12B Overview and Functionality (Algo Trading)
 ---
 
 Stock exchange listings and securities registration play pivotal roles in the financial markets, facilitating the trading of securities while ensuring transparency and compliance for both issuers and investors. At the center of these processes is the SEC Form 8-A12B, a crucial document that enables companies to register their securities under Section 12(b) of the Securities Exchange Act of 1934. This form not only establishes the legal framework essential for listing on national exchanges but also reinforces market integrity by mandating key disclosures from issuers.

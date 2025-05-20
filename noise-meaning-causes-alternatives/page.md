@@ -1,6 +1,8 @@
 ---
-title: "Noise: Meaning, Causes, and Alternatives (Algo Trading)"
-description: "Explore the meaning of noise in financial markets. Understand how it affects algorithmic trading and discover strategies to mitigate its impact."
+category: quant_concept
+description: Explore the meaning of noise in financial markets. Understand how it
+  affects algorithmic trading and discover strategies to mitigate its impact.
+title: 'Noise: Meaning, Causes, and Alternatives (Algo Trading)'
 ---
 
 Algorithmic trading plays a pivotal role in the contemporary financial landscape, enabling trades to occur at speeds and frequencies that surpass human capabilities. This technological advancement leverages complex algorithms to analyze market data and execute trades, often capitalizing on fleeting opportunities that would be missed by manual trading. However, algorithmic trading is not without its challenges, the foremost being the pervasive influence of noise within financial markets.

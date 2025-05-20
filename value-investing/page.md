@@ -1,6 +1,14 @@
 ---
-title: "Value investing (Algo Trading)"
-description: Explore the synergy between time-tested value investing principles and cutting-edge algorithmic trading techniques. This article investigates into how technology enhances traditional investment methods, highlighting the process of identifying undervalued securities by analyzing financial fundamentals. By merging value investing's disciplined approach with the precision of algorithms, investors can achieve more accurate and timely trade executions. Discover how the convergence of these strategies offers a compelling opportunity to optimize investment decisions by harnessing both intrinsic value assessments and modern computational power.
+category: trading_strategy
+description: Explore the synergy between time-tested value investing principles and
+  cutting-edge algorithmic trading techniques. This article investigates into how
+  technology enhances traditional investment methods, highlighting the process of
+  identifying undervalued securities by analyzing financial fundamentals. By merging
+  value investing's disciplined approach with the precision of algorithms, investors
+  can achieve more accurate and timely trade executions. Discover how the convergence
+  of these strategies offers a compelling opportunity to optimize investment decisions
+  by harnessing both intrinsic value assessments and modern computational power.
+title: Value investing (Algo Trading)
 ---
 
 Value investing is a financial strategy that focuses on identifying and purchasing securities that appear to be undervalued by the market. This approach relies heavily on analyzing a company's fundamentals to determine its intrinsic value, which is compared to its current market price. When the market price is significantly lower than the intrinsic value, a value investor may consider it an opportunity to buy, anticipating that the market will eventually recognize the company's true worth.

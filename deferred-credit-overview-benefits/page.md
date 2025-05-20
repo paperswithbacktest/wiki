@@ -1,6 +1,8 @@
 ---
-title: "Deferred Credit: Overview and Benefits (Algo Trading)"
-description: "Discover how deferred credit ensures accurate financial statements by aligning revenue with business operations. Key for compliance and strategic planning."
+category: quant_concept
+description: Discover how deferred credit ensures accurate financial statements by
+  aligning revenue with business operations. Key for compliance and strategic planning.
+title: 'Deferred Credit: Overview and Benefits (Algo Trading)'
 ---
 
 Deferred credit is a fundamental concept in the realms of finance and accounting, integral to ensuring that a company’s financial statements accurately reflect its economic activity. It refers to money received by a business for goods or services yet to be delivered or performed. Until the related work is done or the product is delivered, the amounts received are recorded as a liability. This concept is crucial as it aligns the recognition of revenue with the actual operations of a business, adhering to the accrual accounting principles.

@@ -1,6 +1,8 @@
 ---
-title: "Homemade Dividends: Explanation and Mechanism (Algo Trading)"
-description: "Discover how homemade dividends empower investors by providing control over income, offering flexibility and customization, and enhancing portfolio management."
+category: quant_concept
+description: Discover how homemade dividends empower investors by providing control
+  over income, offering flexibility and customization, and enhancing portfolio management.
+title: 'Homemade Dividends: Explanation and Mechanism (Algo Trading)'
 ---
 
 In today's investment landscape, creating a diversified portfolio that generates income is both challenging and rewarding. Investors often grapple with the complexities of balancing risk and return while aiming for steady income growth. Four key strategies are currently at the forefront of maximizing investment returns: homemade dividends, portfolio management, investment income diversification, and algorithmic trading.

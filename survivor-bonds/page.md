@@ -1,6 +1,9 @@
 ---
-title: "Survivor Bonds (Algo Trading)"
-description: "Explore survivor bonds and their role in hedging longevity risk, emphasized with the advancements in algorithmic trading for efficient management in complex markets."
+category: quant_concept
+description: Explore survivor bonds and their role in hedging longevity risk, emphasized
+  with the advancements in algorithmic trading for efficient management in complex
+  markets.
+title: Survivor Bonds (Algo Trading)
 ---
 
 In today's rapidly evolving economic landscape, understanding the intricacies of modern financial instruments is essential for investors, policymakers, and financial institutions. One such instrument gaining attention is the survivor bond, a unique financial security pivotal in mitigating longevity risk—the risk that individuals will live longer than expected, thus posing financial challenges for pension funds and insurance companies.

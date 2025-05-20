@@ -1,6 +1,8 @@
 ---
-title: "Economic Impact of Generative Artificial Intelligence (Algo Trading)"
-description: "Explore the profound economic impacts of generative AI in algorithmic trading as it reshapes financial landscapes by enhancing strategies and market adaptability."
+category: quant_concept
+description: Explore the profound economic impacts of generative AI in algorithmic
+  trading as it reshapes financial landscapes by enhancing strategies and market adaptability.
+title: Economic Impact of Generative Artificial Intelligence (Algo Trading)
 ---
 
 Artificial Intelligence (AI) has emerged as a revolutionary technology, significantly transforming various industries by automating processes, enhancing decision-making, and enabling predictive analytics. AI systems are designed to perform tasks that traditionally require human intelligence, including speech recognition, visual perception, and language translation. These capabilities have led to applications across healthcare, finance, manufacturing, and more, driving efficiency and innovation.

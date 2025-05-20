@@ -1,6 +1,9 @@
 ---
-title: "Comparison of Sharpe Ratio and Treynor Ratio (Algo Trading)"
-description: "Explore key investment metrics including Sharpe and Treynor Ratios to understand risk-adjusted returns and the role of algorithmic trading in enhancing performance."
+category: trading_strategy
+description: Explore key investment metrics including Sharpe and Treynor Ratios to
+  understand risk-adjusted returns and the role of algorithmic trading in enhancing
+  performance.
+title: Comparison of Sharpe Ratio and Treynor Ratio (Algo Trading)
 ---
 
 The modern financial landscape is increasingly shaped by sophisticated tools and metrics that enhance investment decision-making. With the advent of technology and the integration of data analytics, professionals and individual investors alike have access to a plethora of resources to evaluate investment performance rigorously. Central to this evaluation process are investment metrics, financial ratios, risk-adjusted return measures, and algorithmic trading strategies.

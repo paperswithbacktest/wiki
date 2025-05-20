@@ -1,6 +1,9 @@
 ---
-title: "Distribution Stock: Definition and Sales Process (Algo Trading)"
-description: "Unlock the intricacies of distribution stock in algorithmic trading. Learn the roles of institutional investors and the impact on market stability and prices."
+category: quant_concept
+description: Unlock the intricacies of distribution stock in algorithmic trading.
+  Learn the roles of institutional investors and the impact on market stability and
+  prices.
+title: 'Distribution Stock: Definition and Sales Process (Algo Trading)'
 ---
 
 In the fast-paced world of stock trading, understanding the mechanisms behind stock sales and distribution is crucial. The stock market operates on complex dynamics where large-scale transactions can significantly impact overall market stability and individual stock prices. As such, grasping the intricacies of distribution stocks becomes essential for both individual and institutional investors aiming to navigate this environment effectively.

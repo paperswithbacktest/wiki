@@ -1,6 +1,8 @@
 ---
-title: "CME Group Commodity Offerings (Algo Trading)"
-description: "Discover CME Group's diverse commodity offerings that shape global markets through advanced algorithmic trading for efficient risk management and market precision."
+category: quant_concept
+description: Discover CME Group's diverse commodity offerings that shape global markets
+  through advanced algorithmic trading for efficient risk management and market precision.
+title: CME Group Commodity Offerings (Algo Trading)
 ---
 
 The global commodity trading landscape has undergone significant transformation with the development of derivatives markets and the proliferation of algorithmic trading. Central to this evolution is the CME Group, a leading exchange that has been instrumental in shaping modern commodity trading through its diversified derivatives products. Originally established in the mid-19th century in Chicago, CME Group has expanded its offerings to include a wide array of physical commodities such as grains, dairy, and meats, thereby establishing itself as a cornerstone of global commodity exchanges.

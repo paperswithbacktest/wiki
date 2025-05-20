@@ -1,7 +1,8 @@
 ---
-title: Understanding Adversarial Attacks in Machine Learning Security
+category: quant_concept
 description: Adversarial attacks exploit tiny input tweaks to reveal weaknesses and
   guide defenses through adversarial training and sanitization Discover more inside
+title: Understanding Adversarial Attacks in Machine Learning Security
 ---
 
 ![Image](images/1.png)

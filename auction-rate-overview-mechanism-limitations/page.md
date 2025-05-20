@@ -1,6 +1,8 @@
 ---
-title: "Auction Rate: Overview, Mechanism, and Limitations (Algo Trading)"
-description: "Explore auction rate securities and algorithmic trading to optimize portfolios, navigate financial limitations, and enhance risk management and decision-making."
+category: quant_concept
+description: Explore auction rate securities and algorithmic trading to optimize portfolios,
+  navigate financial limitations, and enhance risk management and decision-making.
+title: 'Auction Rate: Overview, Mechanism, and Limitations (Algo Trading)'
 ---
 
 In the rapidly evolving financial landscape, investors are constantly exploring new mechanisms to optimize their portfolios. Among these mechanisms, auction rate securities, financial limitations, investment strategies, and algorithmic trading play pivotal roles in modern investment approaches. This article aims to provide a comprehensive overview of these components, exploring their intersections and unique benefits as part of a cohesive investment framework.
@@ -104,4 +106,3 @@ Staying abreast of market trends and continuously updating one's understanding o
 - Books and articles discussing the historical evolution of financial markets and trading technologies furnish crucial context and foresight into future trends. Notable works include "Flash Boys: A Wall Street Revolt" by Michael Lewis, which investigates the rise of high-frequency trading, and "Principles" by Ray Dalio, giving insights into investment strategies and economic systems.
 
 These resources collectively offer a comprehensive foundation for understanding auction rate securities, algorithmic trading, and the ever-evolving landscape of financial markets.
-

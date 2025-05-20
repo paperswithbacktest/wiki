@@ -1,6 +1,9 @@
 ---
-title: "Zero-Beta Portfolio (Algo Trading)"
-description: "Zero-beta portfolios offer stable returns by eliminating market risk with algorithmic trading optimizing their composition to maintain neutrality for investors."
+category: trading_strategy
+description: Zero-beta portfolios offer stable returns by eliminating market risk
+  with algorithmic trading optimizing their composition to maintain neutrality for
+  investors.
+title: Zero-Beta Portfolio (Algo Trading)
 ---
 
 An investment strategy is a systematic plan designed to allocate assets in a way that balances risk and reward. Central to this approach is managing portfolios effectively to minimize risks and enhance potential returns. Over time, investors have increasingly explored sophisticated strategies to achieve these goals, with zero-beta portfolios and algorithmic trading at the forefront of this evolution.

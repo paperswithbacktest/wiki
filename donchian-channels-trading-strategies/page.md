@@ -1,6 +1,8 @@
 ---
-title: "Application of Donchian Channels in Trading Strategies (Algo Trading)"
-description: "Discover how Donchian Channels can enhance algorithmic trading strategies by identifying trends, assessing market volatility, and detecting breakout signals."
+category: trading_strategy
+description: Discover how Donchian Channels can enhance algorithmic trading strategies
+  by identifying trends, assessing market volatility, and detecting breakout signals.
+title: Application of Donchian Channels in Trading Strategies (Algo Trading)
 ---
 
 Technical analysis is a cornerstone in the trading world, offering a systematic approach to evaluating securities by analyzing statistical trends gathered from trading activity, such as price movement and volume. The significance of technical analysis lies in its ability to provide traders with tools to interpret market dynamics and predict future price movements. This predictive power is crucial as it aids traders in decision-making processes, thus potentially enhancing profitability and risk management.

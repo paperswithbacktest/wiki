@@ -1,6 +1,14 @@
 ---
-title: "Perpetual Futures Explained (Algo Trading)"
-description: "Explore the world of perpetual futures and their growing importance in the cryptocurrency sector, alongside the transformative potential of algorithmic trading. Understand how perpetual futures allow indefinite position holding, offering traders flexibility in volatile markets. Discover the role of funding rates in aligning futures with spot market prices, and learn how algorithmic trading enhances trade execution by processing vast data efficiently. This article equips you with insights and strategies to navigate the complexities of perpetual futures and leverage algorithmic trading for better market results."
+category: quant_concept
+description: Explore the world of perpetual futures and their growing importance in
+  the cryptocurrency sector, alongside the transformative potential of algorithmic
+  trading. Understand how perpetual futures allow indefinite position holding, offering
+  traders flexibility in volatile markets. Discover the role of funding rates in aligning
+  futures with spot market prices, and learn how algorithmic trading enhances trade
+  execution by processing vast data efficiently. This article equips you with insights
+  and strategies to navigate the complexities of perpetual futures and leverage algorithmic
+  trading for better market results.
+title: Perpetual Futures Explained (Algo Trading)
 ---
 
 In recent years, financial markets have experienced significant innovations, introducing new trading instruments that have attracted the attention of both novice and experienced traders. Among these innovations, perpetual futures contracts have emerged as a noteworthy financial derivative, particularly within the rapidly evolving cryptocurrency sector. Unlike traditional futures contracts, perpetual futures do not have a set expiration date, allowing traders to hold positions indefinitely. This characteristic has made them especially appealing in volatile markets, where swift price movements can create short-term trading opportunities.

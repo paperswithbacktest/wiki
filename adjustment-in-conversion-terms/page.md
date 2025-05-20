@@ -1,6 +1,9 @@
 ---
-title: "Adjustment in Conversion Terms (Algo Trading)"
-description: "Explore adjustment in conversion terms and algorithmic trading in financial markets Discover how these concepts protect investors and enhance trading strategies in a digital era"
+category: quant_concept
+description: Explore adjustment in conversion terms and algorithmic trading in financial
+  markets Discover how these concepts protect investors and enhance trading strategies
+  in a digital era
+title: Adjustment in Conversion Terms (Algo Trading)
 ---
 
 The global financial landscape is a complex system where terms like 'adjustment conversion process' and 'algorithmic trading' have become integral components. As markets continue to evolve, understanding these concepts becomes essential for individuals involved in securities, trading, or investments. These elements substantially influence the dynamics of financial markets, altering how trades are executed and affecting investment outcomes.

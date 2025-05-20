@@ -1,6 +1,12 @@
 ---
-title: "MultiCharts Trading Strategies Explained (Algo Trading)"
-description: Discover the powerful features of MultiCharts, an advanced trading platform optimized for algorithmic trading. With its robust backtesting capabilities and seamless integration with various brokers and data feeds, MultiCharts is ideal for both novice and experienced traders. Utilize its sophisticated charting tools, comprehensive portfolio management, and automated trading options to develop and efficiently execute trading strategies while minimizing market risks.
+category: trading_strategy
+description: Discover the powerful features of MultiCharts, an advanced trading platform
+  optimized for algorithmic trading. With its robust backtesting capabilities and
+  seamless integration with various brokers and data feeds, MultiCharts is ideal for
+  both novice and experienced traders. Utilize its sophisticated charting tools, comprehensive
+  portfolio management, and automated trading options to develop and efficiently execute
+  trading strategies while minimizing market risks.
+title: MultiCharts Trading Strategies Explained (Algo Trading)
 ---
 
 MultiCharts is a sophisticated trading platform designed to facilitate algorithmic trading, offering a host of features that cater to the needs of both beginner and experienced traders. As algorithmic trading continues to grow, MultiCharts provides an environment where trading strategies can be developed, tested, and deployed with high precision and efficiency. Algorithmic trading involves using automated pre-programmed trading instructions accounting for variables such as time, price, and volume, minimizing emotions in trading and providing speed and accuracy to exploit market opportunities.

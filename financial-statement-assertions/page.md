@@ -1,6 +1,8 @@
 ---
-title: "Financial Statement Assertions (Algo Trading)"
-description: "Explore the integral relationship between financial statements and accounting assertions in algorithmic trading to make informed and optimized investment decisions."
+category: quant_concept
+description: Explore the integral relationship between financial statements and accounting
+  assertions in algorithmic trading to make informed and optimized investment decisions.
+title: Financial Statement Assertions (Algo Trading)
 ---
 
 The intricate interplay between financial statements and accounting assertions is paramount for both investors and businesses. Financial statements provide a comprehensive overview of a company's financial health, serving as fundamental tools for stakeholders seeking to understand an entity's fiscal position. They encompass balance sheets, income statements, and cash flow reports, each offering unique insights into different financial aspects of a business. These documents are the backbone of financial analysis and decision-making processes across various domains, including the rapidly advancing field of algorithmic trading.

@@ -1,7 +1,8 @@
 ---
-title: Understanding Working Memory Models In Machine Learning
+category: quant_concept
 description: Working memory models in machine learning enable dynamic storage and
   retrieval for language tasks using attention mechanisms. Discover more inside.
+title: Understanding Working Memory Models In Machine Learning
 ---
 
 ![Image](images/1.png)

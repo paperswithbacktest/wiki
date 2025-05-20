@@ -1,6 +1,12 @@
 ---
-title: "Analysis of Systematic Crypto Trading Strategies in 2021"
-description: Explore the systematic crypto trading strategies of 2021 with insights into their effectiveness and implementation across various cryptocurrencies. Learn about price-based and non-price-based approaches utilizing blockchain metrics and machine learning to navigate volatile markets and predict movements. Discover the evolution of crypto strategies adapted from traditional finance and the factors contributing to their success.
+category: trading_strategy
+description: Explore the systematic crypto trading strategies of 2021 with insights
+  into their effectiveness and implementation across various cryptocurrencies. Learn
+  about price-based and non-price-based approaches utilizing blockchain metrics and
+  machine learning to navigate volatile markets and predict movements. Discover the
+  evolution of crypto strategies adapted from traditional finance and the factors
+  contributing to their success.
+title: Analysis of Systematic Crypto Trading Strategies in 2021
 ---
 
 The rise of cryptocurrencies has ushered in a new era of financial innovation, with Bitcoin and its counterparts taking center stage as transformative forces in the global economy. Since the inception of Bitcoin in 2009, the cryptocurrency landscape has rapidly expanded, featuring a diverse array of digital assets vying for market attention. As the market has evolved, so too has the interest in developing systematic trading strategies, particularly those geared towards exploiting the unique opportunities and challenges presented by cryptocurrencies.

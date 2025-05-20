@@ -1,6 +1,8 @@
 ---
-title: "Impact of Spinoffs on Investors in Parent and Subsidiary Companies (Algo Trading)"
-description: "Explore how corporate spinoffs influence investor strategies in parent and subsidiary companies, with a focus on algorithmic trading and market dynamics."
+category: trading_strategy
+description: Explore how corporate spinoffs influence investor strategies in parent
+  and subsidiary companies, with a focus on algorithmic trading and market dynamics.
+title: Impact of Spinoffs on Investors in Parent and Subsidiary Companies (Algo Trading)
 ---
 
 The corporate landscape is witnessing a notable increase in the frequency of spinoffs, which has become a prominent strategy for companies looking to optimize their operations and enhance shareholder value. A spinoff is a form of corporate realignment where a parent company creates an independent company by distributing new shares of its subsidiary, typically to existing shareholders. This maneuver is distinct from other forms of corporate restructuring, such as mergers or acquisitions, as it allows the parent company to focus on its core operations while granting the newly formed entity the ability to pursue its own strategic objectives.

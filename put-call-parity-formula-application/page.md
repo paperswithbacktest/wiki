@@ -1,6 +1,9 @@
 ---
-title: "Put-Call Parity: Formula and Application (Algo Trading)"
-description: "Explore the concept of put-call parity and its applications in algorithmic trading Learn how this principle aids in identifying arbitrage opportunities and market equilibrium"
+category: quant_concept
+description: Explore the concept of put-call parity and its applications in algorithmic
+  trading Learn how this principle aids in identifying arbitrage opportunities and
+  market equilibrium
+title: 'Put-Call Parity: Formula and Application (Algo Trading)'
 ---
 
 Financial derivatives are vital instruments in today's complex financial markets. These contracts derive their value from underlying assets such as stocks, bonds, commodities, currencies, interest rates, or market indexes. Among the most prominent derivatives are options, specifically call and put options, which provide traders with the right, but not the obligation, to buy or sell an asset at a predetermined price before or at a set expiration date.

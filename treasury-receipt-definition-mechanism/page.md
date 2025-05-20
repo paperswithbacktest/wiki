@@ -1,6 +1,9 @@
 ---
-title: "Treasury Receipt: Definition and Mechanism (Algo Trading)"
-description: "Explore the benefits of investing in treasury receipts and the impact of algorithmic trading in modern finance Gain insights into risk management and investment strategies"
+category: quant_concept
+description: Explore the benefits of investing in treasury receipts and the impact
+  of algorithmic trading in modern finance Gain insights into risk management and
+  investment strategies
+title: 'Treasury Receipt: Definition and Mechanism (Algo Trading)'
 ---
 
 In the ever-evolving financial landscape, understanding the critical elements of financial instruments is crucial. This article explores key areas such as investment in treasury receipts, the role of algorithmic trading, and their collective impact on the market.

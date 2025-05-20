@@ -1,6 +1,12 @@
 ---
-title: "How to Download Data from Yahoo Finance with Python (Algo Trading)"
-description: Learn how to download data from Yahoo Finance using Python's yfinance library designed for algorithmic trading and financial analysis. This guide explores the installation, setup, and use of key components like yf.Ticker and yf.download to retrieve historical market data. Understand the benefits and limitations of yfinance in accessing comprehensive financial information without needing extensive setup, making it an ideal tool for beginners in trading.
+category: dataset
+description: Learn how to download data from Yahoo Finance using Python's yfinance
+  library designed for algorithmic trading and financial analysis. This guide explores
+  the installation, setup, and use of key components like yf.Ticker and yf.download
+  to retrieve historical market data. Understand the benefits and limitations of yfinance
+  in accessing comprehensive financial information without needing extensive setup,
+  making it an ideal tool for beginners in trading.
+title: How to Download Data from Yahoo Finance with Python (Algo Trading)
 ---
 
 Algorithmic trading, the technique of utilizing computer programs and systems to execute trades at speeds and frequencies impossible for human traders, has dramatically transformed financial markets. It relies heavily on complex algorithms and vast datasets to identify trading opportunities and execute orders with precision. The key to successful algorithmic trading lies in the quality and availability of financial data, which serves as the foundation for decision-making processes in trading strategies.

@@ -1,6 +1,9 @@
 ---
-title: "Reasons for Discrepancies in Stock Buyout Pricing (Algo Trading)"
-description: "Explore the intricacies of stock buyout pricing discrepancies, from market speculation to regulatory challenges, and how algorithmic trading exploits these gaps."
+category: trading_strategy
+description: Explore the intricacies of stock buyout pricing discrepancies, from market
+  speculation to regulatory challenges, and how algorithmic trading exploits these
+  gaps.
+title: Reasons for Discrepancies in Stock Buyout Pricing (Algo Trading)
 ---
 
 In the world of investing, stock buyouts present intriguing opportunities and challenges for traders due to the often observed differential between the targeted buyout price and the current market price of a stock. This discrepancy arises from a variety of factors, including market speculation, regulatory hurdles, and the overall financial health of the companies involved. When a buyout is announced, the target company's stock price usually witnesses a significant surge; however, it doesn't always hit the proposed buyout price immediately. This price gap can be attributed to uncertainties about whether the deal will close at the announced terms. 

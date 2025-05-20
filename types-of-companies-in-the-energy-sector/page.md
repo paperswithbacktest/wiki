@@ -1,6 +1,9 @@
 ---
-title: "Types of Companies in the Energy Sector (Algo Trading)"
-description: "Explore the diverse energy sector and discover how algorithmic trading is revolutionizing oil gas renewables and utilities by enhancing efficiencies and opportunities."
+category: quant_concept
+description: Explore the diverse energy sector and discover how algorithmic trading
+  is revolutionizing oil gas renewables and utilities by enhancing efficiencies and
+  opportunities.
+title: Types of Companies in the Energy Sector (Algo Trading)
 ---
 
 The energy sector is a cornerstone of the global economy, representing a vast network of companies dedicated to producing, transforming, and distributing energy across different markets. This sector includes an array of enterprises ranging from traditional oil and gas companies to innovative renewable energy firms and utilities. As the world drives towards more efficient and sustainable energy systems, technological advancements have become pivotal. Among these advancements is algorithmic trading, a technology that is increasingly influencing the energy markets by enhancing efficiencies and supporting better decision-making processes.

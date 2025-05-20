@@ -1,6 +1,8 @@
 ---
-title: "Intercontinental Exchange Group (Algo Trading)"
-description: "ICE, a leader in global finance, revolutionizes trading with algorithmic strategies, owning the NYSE and enhancing financial markets' efficiency and integrity."
+category: quant_concept
+description: ICE, a leader in global finance, revolutionizes trading with algorithmic
+  strategies, owning the NYSE and enhancing financial markets' efficiency and integrity.
+title: Intercontinental Exchange Group (Algo Trading)
 ---
 
 The Intercontinental Exchange Group Inc. (ICE) represents a pivotal entity in global finance, functioning as a leading operator of exchanges and clearing houses globally. Founded in 2000, ICE has expanded its influence through strategic acquisitions and enhancements in technological infrastructure, becoming an integral player in various financial markets including energy, commodities, and equities. ICE's network encompasses the New York Stock Exchange, multiple regulated exchanges, and clearing houses, contributing to its expansive role in facilitating the efficient allocation of capital and resources within these markets.

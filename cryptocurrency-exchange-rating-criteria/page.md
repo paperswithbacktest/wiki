@@ -1,6 +1,8 @@
 ---
-title: "Cryptocurrency Exchange Rating Criteria (Algo Trading)"
-description: "Discover exchange rating criteria essential for algorithmic trading in cryptocurrencies. Learn how security, fees, and features influence trading strategies."
+category: trading_strategy
+description: Discover exchange rating criteria essential for algorithmic trading in
+  cryptocurrencies. Learn how security, fees, and features influence trading strategies.
+title: Cryptocurrency Exchange Rating Criteria (Algo Trading)
 ---
 
 The cryptocurrency market has witnessed remarkable expansion, fostering the rise of algorithmic trading within this domain. Algorithmic trading encompasses the use of sophisticated algorithms to perform trades automatically, thereby eliminating the influence of human emotions and enhancing operational efficiency. This automated approach relies on pre-set rules or complex mathematical models to execute trades at the optimal time, potentially generating profits with minimal human intervention.

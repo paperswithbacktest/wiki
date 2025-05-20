@@ -1,6 +1,8 @@
 ---
-title: "Eurocurrency Market: History and Types (Algo Trading)"
-description: "Discover the role and evolution of Eurocurrency markets in global finance exploring their history types and the impact of algorithmic trading on efficiency"
+category: quant_concept
+description: Discover the role and evolution of Eurocurrency markets in global finance
+  exploring their history types and the impact of algorithmic trading on efficiency
+title: 'Eurocurrency Market: History and Types (Algo Trading)'
 ---
 
 The global financial landscape encompasses a diverse array of markets and instruments that underpin international trade, investment, and liquidity movements. Among these, Eurocurrency financial markets serve as a pivotal element within the international finance ecosystem. These markets function by allowing currencies to be deposited in banks beyond their countries of origin, thereby facilitating greater global capital flow and offering potential advantages such as favorable interest rates due to their relative deregulation. As a historical context, the emergence of Eurocurrency markets began in the post-World War II period, with the Eurodollar—a U.S. dollar deposited in European banks—remaining one of the most influential and longstanding examples.

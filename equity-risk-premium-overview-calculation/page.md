@@ -1,6 +1,10 @@
 ---
-title: "Equity Risk Premium: Overview and Calculation (Algo Trading)"
-description: "Explore the complexities of equity risk premium and its crucial role in financial investment strategies. Learn how this key financial metric influences algorithmic trading and risk assessment to maximize returns and optimize portfolio management. Gain insights into essential concepts for informed investment decisions."
+category: quant_concept
+description: Explore the complexities of equity risk premium and its crucial role
+  in financial investment strategies. Learn how this key financial metric influences
+  algorithmic trading and risk assessment to maximize returns and optimize portfolio
+  management. Gain insights into essential concepts for informed investment decisions.
+title: 'Equity Risk Premium: Overview and Calculation (Algo Trading)'
 ---
 
 The world of finance is characterized by a complex array of terms and concepts that significantly influence investment decisions. Among these are financial calculations such as the equity risk premium, investment risk, and algorithmic trading. Understanding these principles is essential for investors and financial professionals aiming to craft effective strategies for maximizing returns while managing risks. 

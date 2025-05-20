@@ -1,6 +1,8 @@
 ---
-title: "Game Theory Strategies in Decision-Making (Algo Trading)"
-description: "Explore how game theory and algorithmic trading strategies enhance decision-making in finance Gain insights into market dynamics and competitive edge methods"
+category: trading_strategy
+description: Explore how game theory and algorithmic trading strategies enhance decision-making
+  in finance Gain insights into market dynamics and competitive edge methods
+title: Game Theory Strategies in Decision-Making (Algo Trading)
 ---
 
 In the rapidly evolving world of finance, strategic decision-making is more crucial than ever. The financial markets are characterized by their complexity and volatility, demanding sophisticated tools and methodologies to navigate successfully. Among the various approaches that have gained prominence, game theory and algorithmic trading stand out as powerful instruments for enhancing decision-making strategies.

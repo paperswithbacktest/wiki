@@ -1,6 +1,8 @@
 ---
-title: "Market Value Added: Benefits and Calculation (Algo Trading)"
-description: "Discover Market Value Added and its integration in algorithmic trading Learn how MVA assesses corporate performance and enhances trading strategy potential"
+category: quant_concept
+description: Discover Market Value Added and its integration in algorithmic trading
+  Learn how MVA assesses corporate performance and enhances trading strategy potential
+title: 'Market Value Added: Benefits and Calculation (Algo Trading)'
 ---
 
 Market Value Added (MVA) is an essential financial metric that quantifies the value a company creates for its shareholders. It is derived from the difference between the company's market value and the capital invested by shareholders and bondholders. This metric is pivotal in corporate finance as it offers a comprehensive measure of a company's ability to generate wealth and assess management's performance. By focusing on value creation, MVA provides insights into the effectiveness of managerial decisions and long-term corporate success.

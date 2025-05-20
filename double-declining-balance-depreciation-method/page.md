@@ -1,6 +1,8 @@
 ---
-title: "Double-Declining Balance Depreciation Method (Algo Trading)"
-description: "Explore the Double-Declining Balance depreciation method used for rapid asset depreciation. Ideal for technology-focused industries and algorithmic trading."
+category: quant_concept
+description: Explore the Double-Declining Balance depreciation method used for rapid
+  asset depreciation. Ideal for technology-focused industries and algorithmic trading.
+title: Double-Declining Balance Depreciation Method (Algo Trading)
 ---
 
 The Double-Declining Balance (DDB) depreciation method is an accelerated depreciation technique widely used in accounting. It is especially advantageous for businesses that aim to recognize higher depreciation expenses in the initial years of an asset's useful life. This approach allows companies to align depreciation expenses more closely with the asset's actual value consumption, offering a more precise reflection of its financial wear and tear. The DDB method is distinct for its rapid depreciation rate, typically twice as fast as that of traditional straight-line methods. 
@@ -137,4 +139,3 @@ As financial environments continue to evolve, grasping the nuances of DDB and it
 [5]: ["Algorithmic Trading and DMA: An introduction to direct access trading strategies"](https://www.amazon.com/Algorithmic-Trading-DMA-introduction-strategies/dp/0956399207) by Barry Johnson
 
 [6]: ["International Accounting Standards"](https://www.iasplus.com/en/standards/ias) by IFRS Foundation
-

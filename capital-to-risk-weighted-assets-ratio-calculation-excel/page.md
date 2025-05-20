@@ -1,6 +1,8 @@
 ---
-title: "Capital-To-Risk Weighted Assets Ratio Calculation in Excel (Algo Trading)"
-description: "Calculate the Capital-To-Risk Weighted Assets Ratio in Excel to assess bank stability and enhance algorithmic trading strategies using financial insights."
+category: quant_concept
+description: Calculate the Capital-To-Risk Weighted Assets Ratio in Excel to assess
+  bank stability and enhance algorithmic trading strategies using financial insights.
+title: Capital-To-Risk Weighted Assets Ratio Calculation in Excel (Algo Trading)
 ---
 
 The integration of Excel in the domains of financial analysis and algorithmic trading represents a transformative development in the financial industry. This article focuses on the application of Excel in calculating the Capital-To-Risk Weighted Assets Ratio (CRAR) for banks and explores its utility in algorithmic trading environments.
@@ -240,5 +242,4 @@ These resources collectively offer a robust foundation for anyone looking to enh
 
 [6]: Hull, J. C. (2018). ["Options, Futures, and Other Derivatives"](https://www.semanticscholar.org/paper/Options%2C-Futures%2C-and-Other-Derivatives-Hull/89bdee500c8623864fc9eb7a471546aa713acc44) (9th ed.). Pearson.
 
-[7]: Bodie, Z., Kane, A., & Marcus, A. J. (2020). ["Investments"](https://www.mheducation.com/highered/product/Investments-Bodie.html) (12th ed.). McGraw-Hill Education. 
-
+[7]: Bodie, Z., Kane, A., & Marcus, A. J. (2020). ["Investments"](https://www.mheducation.com/highered/product/Investments-Bodie.html) (12th ed.). McGraw-Hill Education.

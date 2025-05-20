@@ -1,7 +1,8 @@
 ---
-title: Unlock Neural Network Efficiency With Intra-Layer Parallelism
+category: quant_concept
 description: Intra-Layer Parallelism speeds up neural networks by splitting layer
   tasks across hardware cores for efficient training and inference Discover more inside
+title: Unlock Neural Network Efficiency With Intra-Layer Parallelism
 ---
 
 ![Image](images/1.png)

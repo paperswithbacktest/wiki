@@ -1,6 +1,9 @@
 ---
-title: "Order Imbalance in Trading and Its Causes (Algo Trading)"
-description: "Understand order imbalance in trading and effective strategies to leverage its dynamics with algorithmic tools Gain insights into market sentiment and price movements"
+category: trading_strategy
+description: Understand order imbalance in trading and effective strategies to leverage
+  its dynamics with algorithmic tools Gain insights into market sentiment and price
+  movements
+title: Order Imbalance in Trading and Its Causes (Algo Trading)
 ---
 
 Order imbalance trading strategies play a pivotal role in financial markets, influencing price movements and market liquidity. A comprehensive understanding of market dynamics and the integration of algorithmic trading have become essential for traders seeking to gain a competitive edge. This article will explore the concept of order imbalance, its effects on market dynamics, and effective trading strategies that leverage these principles.

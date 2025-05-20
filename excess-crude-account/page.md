@@ -1,6 +1,8 @@
 ---
-title: "Excess Crude Account (Algo Trading)"
-description: "Explore how algorithmic trading can optimize Nigeria's oil revenue management by improving transparency and efficiency to stabilize the economy and boost governance."
+category: quant_concept
+description: Explore how algorithmic trading can optimize Nigeria's oil revenue management
+  by improving transparency and efficiency to stabilize the economy and boost governance.
+title: Excess Crude Account (Algo Trading)
 ---
 
 Nigeria's oil revenue is a cornerstone of its economy, contributing significantly to national income and fiscal stability. As Africa's largest oil producer, the country relies heavily on the petroleum sector, which accounts for approximately 90% of its export earnings and over 60% of government revenues. This reliance underscores its critical role in shaping economic policies and national development strategies.

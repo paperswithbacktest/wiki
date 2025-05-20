@@ -1,6 +1,8 @@
 ---
-title: "Example of a Profit and Loss Statement (Algo Trading)"
-description: "Explore how Profit and Loss statements enhance algorithmic trading strategies by providing key financial insights for optimizing trades and maximizing returns."
+category: trading_strategy
+description: Explore how Profit and Loss statements enhance algorithmic trading strategies
+  by providing key financial insights for optimizing trades and maximizing returns.
+title: Example of a Profit and Loss Statement (Algo Trading)
 ---
 
 In the contemporary finance landscape, financial statements and algorithmic trading have become essential tools for investors and traders. The Profit and Loss (P&L) statement holds significant importance as it encapsulates a company’s overall financial performance over a specific period. By detailing revenues, expenses, and net income, these statements offer a snapshot of operational efficiency and financial health, essential metrics for informed investment decisions.
@@ -232,4 +234,3 @@ Aronson, D.'s work, "Evidence-Based Technical Analysis," emphasizes the importan
 Jansen, S. presents "Machine Learning for Algorithmic Trading," offering a practical guide for implementing machine learning techniques in trading algorithms. The book covers various strategies, including the development of machine learning models for predicting asset returns, making it a valuable resource for enhancing trading systems.
 
 Chan, E. in "Quantitative Trading: How to Build Your Own Algorithmic Trading Business," provides insights into building algorithmic trading strategies and developing a trading infrastructure. Chan discusses vital elements, such as back-testing and risk management, which are critical for creating a robust and profitable trading business.
-

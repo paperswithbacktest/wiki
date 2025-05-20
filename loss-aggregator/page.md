@@ -1,7 +1,8 @@
 ---
-title: Loss Aggregator in Machine Learning for Reliable Model Training
+category: quant_concept
 description: Loss Aggregator improves training by merging loss values into a unified
   metric that guides optimization and balances tasks. Discover more inside.
+title: Loss Aggregator in Machine Learning for Reliable Model Training
 ---
 
 ![Image](images/1.jpeg)

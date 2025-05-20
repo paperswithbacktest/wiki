@@ -1,6 +1,8 @@
 ---
-title: "Lorenz Curve (Algo Trading)"
-description: "Explore income inequality the Lorenz curve and algorithmic trading with insights into economic distribution shaping policies in today's financial markets."
+category: quant_concept
+description: Explore income inequality the Lorenz curve and algorithmic trading with
+  insights into economic distribution shaping policies in today's financial markets.
+title: Lorenz Curve (Algo Trading)
 ---
 
 This article aims to explore the interconnected themes of economic distribution, income inequality, the Lorenz curve, and algorithmic trading. These elements play critical roles in understanding and shaping modern economic landscapes. 

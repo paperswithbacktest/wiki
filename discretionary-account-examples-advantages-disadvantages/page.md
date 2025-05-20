@@ -1,6 +1,8 @@
 ---
-title: "Discretionary Account: Examples, Advantages, and Disadvantages (Algo Trading)"
-description: "Discover the pros and cons of discretionary accounts in algo trading including how tailored strategies and automation transform modern portfolio management."
+category: trading_strategy
+description: Discover the pros and cons of discretionary accounts in algo trading
+  including how tailored strategies and automation transform modern portfolio management.
+title: 'Discretionary Account: Examples, Advantages, and Disadvantages (Algo Trading)'
 ---
 
 Discretionary accounts have become an increasingly popular choice for investors who prefer not to be involved in the day-to-day management of their investment portfolios. Managed by brokers or financial advisors, these accounts offer tailored investment strategies that align with the client's financial goals and risk tolerance. By granting authority to investment professionals, clients can benefit from expertise in asset allocation, risk management, and market analysis.

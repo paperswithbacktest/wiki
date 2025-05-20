@@ -1,6 +1,8 @@
 ---
-title: "Volatility Skew and Market Sentiment (Algo Trading)"
-description: "Explore how volatility skew and market sentiment impact algorithmic trading strategies and decision-making by providing insights into market conditions."
+category: quant_concept
+description: Explore how volatility skew and market sentiment impact algorithmic trading
+  strategies and decision-making by providing insights into market conditions.
+title: Volatility Skew and Market Sentiment (Algo Trading)
 ---
 
 Volatility skew, market sentiment, and financial indicators significantly impact algorithmic trading, influencing both strategy development and decision-making processes. These interconnected elements provide traders with valuable insights that can be harnessed to enhance the performance and efficiency of trading algorithms.

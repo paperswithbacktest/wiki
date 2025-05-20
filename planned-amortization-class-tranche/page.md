@@ -1,6 +1,8 @@
 ---
-title: "Planned Amortization Class Tranche (Algo Trading)"
-description: "Discover the role of Planned Amortization Class tranches in structured finance and algorithmic trading offering stability and risk management for investors."
+category: quant_concept
+description: Discover the role of Planned Amortization Class tranches in structured
+  finance and algorithmic trading offering stability and risk management for investors.
+title: Planned Amortization Class Tranche (Algo Trading)
 ---
 
 In the complex world of structured finance, Planned Amortization Class (PAC) tranches play a significant role in offering stability to investors. As a crucial component of collateralized mortgage obligations (CMOs), PAC tranches are designed to provide more predictable cash flows by mitigating risks such as prepayment and extension issues commonly associated with asset-backed securities.

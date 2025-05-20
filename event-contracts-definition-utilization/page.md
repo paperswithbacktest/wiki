@@ -1,6 +1,8 @@
 ---
-title: "Event Contracts: Definition and Utilization (Algo Trading)"
-description: "Explore how event and financial trading contracts enhance algorithmic trading strategies Discover their role in risk management and speculative opportunities"
+category: quant_concept
+description: Explore how event and financial trading contracts enhance algorithmic
+  trading strategies Discover their role in risk management and speculative opportunities
+title: 'Event Contracts: Definition and Utilization (Algo Trading)'
 ---
 
 Contracts are foundational elements in the finance and trading sector, providing the necessary clarity and legal framework for transactions. Within this landscape, event contracts and financial trading contracts have become increasingly significant. This article examines the application of these contracts, particularly highlighting their integration within algorithmic trading. Algorithmic trading thrives on speed, accuracy, and automation, and these contracts are critical tools in such environments.

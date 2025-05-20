@@ -1,6 +1,8 @@
 ---
-title: "Cognitive and Emotional Investing Bias: Differences (Algo Trading)"
-description: "Explore the impact of cognitive and emotional biases in algorithmic trading Learn how these biases can affect investment decisions and ways to mitigate them"
+category: quant_concept
+description: Explore the impact of cognitive and emotional biases in algorithmic trading
+  Learn how these biases can affect investment decisions and ways to mitigate them
+title: 'Cognitive and Emotional Investing Bias: Differences (Algo Trading)'
 ---
 
 In the world of investing, biases can significantly impact decision-making processes. This article explores the complexities of cognitive and emotional biases, paying particular attention to their implications in algorithmic trading. Cognitive biases in investing often stem from established beliefs that are not always factual, affecting how information is interpreted and decisions are formed. On the other hand, emotional biases arise from personal feelings and experiences, leading to real-time decision-making swayed by emotions.

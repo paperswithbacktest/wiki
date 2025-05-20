@@ -1,6 +1,8 @@
 ---
-title: "Common Size Balance Sheet (Algo Trading)"
-description: "Unlock insights into financial health and enhance algorithmic trading strategies with common size balance sheet analysis, enabling precise market predictions."
+category: quant_concept
+description: Unlock insights into financial health and enhance algorithmic trading
+  strategies with common size balance sheet analysis, enabling precise market predictions.
+title: Common Size Balance Sheet (Algo Trading)
 ---
 
 The dynamic world of finance requires a robust understanding of financial statements and their application across various sectors. One prevailing financial statement is the balance sheet, which is crucial for understanding a company's financial health. It offers a snapshot of what a company owns and owes, spotlighting its assets, liabilities, and shareholders' equity at a specific point in time.
@@ -247,4 +249,3 @@ This data-driven approach enhances risk management by providing data-backed insi
 8. **"Financial Modeling" by Simon Benninga**: This book covers practical aspects of financial modeling using Excel and VBA, offering case studies and examples that incorporate balance sheet data. It's an excellent resource for those looking to apply balance sheet analysis in realistic financial scenarios.
 
 By exploring these resources, readers can expand their knowledge of financial analysis and enhance their understanding of how balance sheets play a critical role in both traditional and algorithmic trading strategies.
-

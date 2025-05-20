@@ -1,6 +1,9 @@
 ---
-title: "Role and Functions of Investment Banks (Algo Trading)"
-description: "Explore the pivotal roles of investment banks in capital raising and the impact of algorithmic trading in enhancing market efficiency within financial services."
+category: quant_concept
+description: Explore the pivotal roles of investment banks in capital raising and
+  the impact of algorithmic trading in enhancing market efficiency within financial
+  services.
+title: Role and Functions of Investment Banks (Algo Trading)
 ---
 
 The financial services industry is a cornerstone of the global economy, facilitating a multitude of essential services. Central to these services are investment banking and algorithmic trading, both of which significantly influence modern market operations. Investment banking functions as a specialized sector within financial institutions, engaging in intricate financial transactions such as mergers and acquisitions (M&A) and initial public offerings (IPOs). These activities are vital not only for effective capital raising but also for the optimal distribution of financial resources. 

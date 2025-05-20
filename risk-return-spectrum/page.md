@@ -1,6 +1,8 @@
 ---
-title: "Risk-return spectrum (Algo Trading)"
-description: "Explore the risk-return spectrum in algorithmic trading to balance financial gains against potential losses with strategic risk management and informed decisions."
+category: quant_concept
+description: Explore the risk-return spectrum in algorithmic trading to balance financial
+  gains against potential losses with strategic risk management and informed decisions.
+title: Risk-return spectrum (Algo Trading)
 ---
 
 The risk-return spectrum is a foundational concept in finance, encapsulating the trade-off between the risk associated with an investment and its expected returns. In essence, it highlights the relationship where higher potential returns come with increased risk, and conversely, lower risk typically offers lesser returns. This understanding is pivotal in algorithmic trading, a field where strategies are formulated and executed by algorithms designed to capitalize on market opportunities.

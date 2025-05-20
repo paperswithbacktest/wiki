@@ -1,6 +1,9 @@
 ---
-title: "Toxic Debt and Assets: Definition and Function (Algo Trading)"
-description: "Understand the intricacies of toxic debt and assets and their impact on financial stability through algorithmic trading dynamics. Explore strategies to mitigate risks."
+category: quant_concept
+description: Understand the intricacies of toxic debt and assets and their impact
+  on financial stability through algorithmic trading dynamics. Explore strategies
+  to mitigate risks.
+title: 'Toxic Debt and Assets: Definition and Function (Algo Trading)'
 ---
 
 In today's interconnected financial world, understanding the risks posed by toxic debt and toxic assets is crucial for maintaining economic stability. Toxic debt refers to loans or financial obligations that have a high probability of default, posing significant risks to lenders and investors. Toxic assets, on the other hand, are investments that become difficult to sell or have significantly depreciated in value, often due to external market factors or a collapse in demand. These financial instruments can affect the broader economy, as evidenced by historical events like the 2008 financial crisis.

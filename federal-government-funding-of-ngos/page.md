@@ -1,6 +1,8 @@
 ---
-title: "Federal Government Funding of NGOs (Algo Trading)"
-description: "Explore how federal funding and algorithmic trading can enhance NGO operations Learn about government support and innovative finance strategies for NGOs"
+category: quant_concept
+description: Explore how federal funding and algorithmic trading can enhance NGO operations
+  Learn about government support and innovative finance strategies for NGOs
+title: Federal Government Funding of NGOs (Algo Trading)
 ---
 
 Non-Governmental Organizations (NGOs) serve as a crucial component of civil society, addressing a myriad of social, environmental, cultural, and humanitarian issues worldwide. These organizations operate independently from government establishments, relying primarily on donations, grants, and volunteer efforts to fulfill their mission-driven objectives. NGOs contribute significantly to areas such as poverty alleviation, education, health care, environmental protection, and human rights advocacy, often filling gaps left by governmental and commercial entities.

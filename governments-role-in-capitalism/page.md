@@ -1,6 +1,8 @@
 ---
-title: "Government's Role in Capitalism (Algo Trading)"
-description: "Explore the government's role in capitalism and algorithmic trading Discover how economic policies shape markets and influence trading practices in today’s economy"
+category: quant_concept
+description: Explore the government's role in capitalism and algorithmic trading Discover
+  how economic policies shape markets and influence trading practices in today’s economy
+title: Government's Role in Capitalism (Algo Trading)
 ---
 
 Economic policy, capitalism, government role, and algorithmic trading are pivotal concepts that shape contemporary financial and economic landscapes. **Economic policy** refers to the strategic decisions and actions undertaken by a government to influence its economy's functioning. These policies typically involve fiscal measures, such as taxation and government spending, and monetary measures, like interest rates and money supply. Economic policies serve to stabilize economies, foster growth, and minimize unemployment.

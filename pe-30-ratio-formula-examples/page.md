@@ -1,6 +1,8 @@
 ---
-title: "P/E 30 Ratio: Formula and Examples (Algo Trading)"
-description: "Discover how the P/E ratio aids stock valuation and its role in algorithmic trading. Enhance your investments by understanding this key financial metric."
+category: quant_concept
+description: Discover how the P/E ratio aids stock valuation and its role in algorithmic
+  trading. Enhance your investments by understanding this key financial metric.
+title: 'P/E 30 Ratio: Formula and Examples (Algo Trading)'
 ---
 
 Stock valuation is a crucial component for investors seeking to make informed decisions in financial markets. At the forefront of this valuation process is the Price-to-Earnings (P/E) ratio, a key metric that helps evaluate a stock's value. By comparing the company's market price per share with its earnings per share (EPS), the P/E ratio provides insights into whether a stock is fairly priced, overvalued, or undervalued.
@@ -156,4 +158,3 @@ For those seeking to expand their knowledge on stock valuation and the use of P/
    - The CFA Institute's website offers articles and continuing education on financial analysis, providing resources on the latest methodologies in stock valuation.
 
 These resources provide a balanced mix of theoretical foundations and practical applications, crucial for investors and professionals eager to excel in financial analysis and trading strategies.
-

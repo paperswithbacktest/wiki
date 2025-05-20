@@ -1,6 +1,8 @@
 ---
-title: "Calculating R-Squared in Excel (Algo Trading)"
-description: "Learn how to calculate R-Squared in Excel to enhance your algorithmic trading strategies. Master regression models to improve financial predictions."
+category: trading_strategy
+description: Learn how to calculate R-Squared in Excel to enhance your algorithmic
+  trading strategies. Master regression models to improve financial predictions.
+title: Calculating R-Squared in Excel (Algo Trading)
 ---
 
 Algorithmic trading, also known as algo trading, refers to the use of computer algorithms to execute trades in the financial markets. These algorithms can process vast amounts of data at high speed, enabling traders to capitalize on market inefficiencies and make informed decisions with minimal human intervention. The growing reliance on algorithmic trading systems is transforming the financial landscape, offering increased efficiency, reduced transaction costs, and improved execution speeds.

@@ -1,6 +1,9 @@
 ---
-title: "Mario Draghi: Significance in Economics (Algo Trading)"
-description: "Explore Mario Draghi's economic policies and their impact on the evolving world of algorithmic trading reflecting on how central bank strategies shape financial technologies."
+category: quant_concept
+description: Explore Mario Draghi's economic policies and their impact on the evolving
+  world of algorithmic trading reflecting on how central bank strategies shape financial
+  technologies.
+title: 'Mario Draghi: Significance in Economics (Algo Trading)'
 ---
 
 Algorithmic trading has become a cornerstone of modern financial markets, leveraging computer algorithms to execute trades at speeds and volumes that humans cannot match. This form of trading uses complex mathematical models and algorithms to make decisions on buying or selling financial instruments, often leveraging real-time data to optimize trade execution efficiency. The increasing relevance of algorithmic trading is marked by its contribution to liquidity, market efficiency, and the diminishment of human error in trading processes.

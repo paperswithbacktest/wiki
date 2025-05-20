@@ -1,6 +1,8 @@
 ---
-title: "Differences Between Industrial and Consumer Goods (Algo Trading)"
-description: "Explore how algorithmic trading impacts consumer and industrial goods markets, examining market dynamics and the role of technology in trading strategies."
+category: quant_concept
+description: Explore how algorithmic trading impacts consumer and industrial goods
+  markets, examining market dynamics and the role of technology in trading strategies.
+title: Differences Between Industrial and Consumer Goods (Algo Trading)
 ---
 
 Consumer and industrial goods represent two fundamental categories within the world of commerce, each holding a significant role in market dynamics and economic structures. Consumer goods are items bought by individuals for personal use, such as clothing, electronics, and food. These goods are further categorized into durable goods, which have a longer life span like cars and appliances, and nondurable goods, which are consumed quickly, such as food and cleaning products. Industrial goods, on the other hand, are used by businesses during the production of other goods or services. These include machinery, raw materials, and components that are significant for manufacturing processes.

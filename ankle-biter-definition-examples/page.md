@@ -1,6 +1,9 @@
 ---
-title: "Ankle Biter: Definition and Examples (Algo Trading)"
-description: "Explore the world of ankle biters in algorithmic trading where small-cap stocks offer unique opportunities for traders due to their volatility and growth potential."
+category: quant_concept
+description: Explore the world of ankle biters in algorithmic trading where small-cap
+  stocks offer unique opportunities for traders due to their volatility and growth
+  potential.
+title: 'Ankle Biter: Definition and Examples (Algo Trading)'
 ---
 
 The term 'ankle biter' may conjure up images of small dogs or young children, but in finance and trading, it denotes a specific type of entity. In the landscape of algorithmic trading, an area experiencing rapid growth in financial markets, understanding the nuances of 'ankle biters' has become increasingly important. These entities are characterized as stocks from companies with low market capitalizations, often falling under the categories of micro-cap and small-cap stocks. Engaging with ankle biters can be crucial for algorithmic traders who are looking to exploit opportunities in these smaller, often more volatile markets.

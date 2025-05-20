@@ -1,6 +1,9 @@
 ---
-title: "Non-Commercial Traders: Definition and Operations (Algo Trading)"
-description: "Discover the world of non-commercial traders and algorithmic trading Learn how speculative activities and advanced algorithms influence market liquidity and trends"
+category: quant_concept
+description: Discover the world of non-commercial traders and algorithmic trading
+  Learn how speculative activities and advanced algorithms influence market liquidity
+  and trends
+title: 'Non-Commercial Traders: Definition and Operations (Algo Trading)'
 ---
 
 In the world of modern finance, trading operations have significantly transformed with the rise of various market participants, notably non-commercial traders. Non-commercial traders, often comprising individual investors and hedge funds, engage in the markets primarily for speculative purposes rather than for hedging or managing risk as commercial traders do. These market players focus on predicting price movements to profit from potential trends, thereby contributing significantly to market liquidity and signaling shifts in pricing dynamics.

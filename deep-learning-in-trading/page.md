@@ -1,6 +1,9 @@
 ---
-title: "Deep Learning in Trading (Algo Trading)"
-description: "Explore the transformative impact of deep learning on algorithmic trading Discover how AI enhances market analysis and boosts trading strategies for financial success"
+category: trading_strategy
+description: Explore the transformative impact of deep learning on algorithmic trading
+  Discover how AI enhances market analysis and boosts trading strategies for financial
+  success
+title: Deep Learning in Trading (Algo Trading)
 ---
 
 Deep learning in trading, commonly referred to as algorithmic trading, stands at the forefront of financial market analysis. This emerging technology leverages advanced AI techniques to enhance market predictions and inform strategic decision-making processes for traders and financial institutions. This article focuses on the impact and applications of deep learning in algorithmic trading, providing an extensive overview of developing, implementing, and deploying deep learning models within trading systems.

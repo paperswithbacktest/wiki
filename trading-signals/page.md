@@ -1,6 +1,8 @@
 ---
-title: "Trading signals (Algo Trading)"
-description: "Enhance your trading strategies with advanced algo trading signals for precise market entry and exit. Stay competitive and maximize profitability effortlessly."
+category: trading_strategy
+description: Enhance your trading strategies with advanced algo trading signals for
+  precise market entry and exit. Stay competitive and maximize profitability effortlessly.
+title: Trading signals (Algo Trading)
 ---
 
 Trading signals have increasingly become a vital component for traders navigating the complexities of financial markets. These indicators enable traders to make well-informed decisions by leveraging real-time data and analysis, thus allowing for more precise entry and exit points in trades. In particular, trading signals play a significant role in algorithmic trading, also known as Algo Trading—a method of executing trading orders using automated, pre-programmed trading instructions accounting for variables such as time, price, and volume.

@@ -1,6 +1,8 @@
 ---
-title: "Appropriated Retained Earnings: Concept and Examples (Algo Trading)"
-description: "Explore appropriated retained earnings and algorithmic trading in finance. Understand their role in financial planning and enhancing investor strategies."
+category: quant_concept
+description: Explore appropriated retained earnings and algorithmic trading in finance.
+  Understand their role in financial planning and enhancing investor strategies.
+title: 'Appropriated Retained Earnings: Concept and Examples (Algo Trading)'
 ---
 
 In finance, understanding the various aspects of financial statements is crucial for investors and companies alike. These statements serve as a comprehensive snapshot of an entity's financial health, encompassing elements such as assets, liabilities, and shareholder equity. Among the critical components of financial management are retained earnings, appropriated earnings, and algorithmic trading, each playing a pivotal role in strategic decision-making processes.

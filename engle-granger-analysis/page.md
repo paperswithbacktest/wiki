@@ -1,6 +1,13 @@
 ---
-title: "Engle-Granger analysis (Algo Trading)"
-description: Explore the application of Engle-Granger analysis in algorithmic trading with a focus on cointegration's role in financial strategies. Understand how this method aids in identifying long-term equilibrium relationships between asset prices, enabling traders to leverage predictable co-movements for enhanced trading strategies. Through detailed insights into the fundamentals and mechanics of Engle-Granger analysis, discover tools for improving trading outcomes and risk management in the evolving landscape of algorithmic trading.
+category: quant_concept
+description: Explore the application of Engle-Granger analysis in algorithmic trading
+  with a focus on cointegration's role in financial strategies. Understand how this
+  method aids in identifying long-term equilibrium relationships between asset prices,
+  enabling traders to leverage predictable co-movements for enhanced trading strategies.
+  Through detailed insights into the fundamentals and mechanics of Engle-Granger analysis,
+  discover tools for improving trading outcomes and risk management in the evolving
+  landscape of algorithmic trading.
+title: Engle-Granger analysis (Algo Trading)
 ---
 
 The evolving landscape of algorithmic trading increasingly incorporates sophisticated statistical methods to improve trading strategies. One such technique is Engle-Granger analysis, which is used primarily to understand cointegration in time series data. Cointegration is essential in financial econometrics as it helps identify long-term equilibrium relationships between different financial instruments, allowing traders to exploit predictable co-movements.

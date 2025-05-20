@@ -1,6 +1,9 @@
 ---
-title: "Currency Issuance Authority in Canada (Algo Trading)"
-description: "Explore the complexities of currency issuance and algorithmic trading in Canada, revealing their impact on monetary policies and the evolving economic landscape."
+category: quant_concept
+description: Explore the complexities of currency issuance and algorithmic trading
+  in Canada, revealing their impact on monetary policies and the evolving economic
+  landscape.
+title: Currency Issuance Authority in Canada (Algo Trading)
 ---
 
 Currency issuance and the concept of money printing in Canada are topics that are often misunderstood. The complexity arises from the various mechanisms through which money is introduced into the economy and how these actions are perceived by the public. Unlike the simplistic notion of merely printing physical cash, money creation involves intricate processes mainly orchestrated by the Bank of Canada and financial institutions across the country. The Bank of Canada plays a pivotal role in this mechanism, impacting the nation’s monetary policy and economy. It engages in currency issuance by acquiring government securities and other financial assets, which effectively increases the monetary base. Furthermore, private banks contribute to this expansion by issuing new loans, thereby increasing the money supply within the economy. 

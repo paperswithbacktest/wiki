@@ -1,7 +1,8 @@
 ---
-title: Efficient Data Pipelines With TensorFlow Dataset API
+category: dataset
 description: TensorFlow Dataset API streamlines data loading, preprocessing and pipelining
   to boost training efficiency and scalability Discover more inside.
+title: Efficient Data Pipelines With TensorFlow Dataset API
 ---
 
 ![Image](images/1.png)

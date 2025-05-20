@@ -1,6 +1,8 @@
 ---
-title: "EUV Technology and Function (Algo Trading)"
-description: "Explore how EUV lithography revolutionizes algorithmic trading by enhancing computing power and microchip efficiency, driving faster trade execution."
+category: quant_concept
+description: Explore how EUV lithography revolutionizes algorithmic trading by enhancing
+  computing power and microchip efficiency, driving faster trade execution.
+title: EUV Technology and Function (Algo Trading)
 ---
 
 Extreme Ultraviolet (EUV) lithography has emerged as a pivotal innovation in semiconductor manufacturing. This technology utilizes extremely short wavelengths of light, approximately 13.5 nanometers, to produce highly detailed and complex microchips. These microchips are crucial for the advancement of technologies such as artificial intelligence (AI), 5G telecommunications, and automation systems. By offering a method to create smaller and more efficient chips, EUV lithography supports the miniaturization and performance enhancement of electronic devices, aligning with the industry's continuous push for more compact and powerful technology components.

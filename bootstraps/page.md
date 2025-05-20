@@ -1,6 +1,12 @@
 ---
-title: "Bootstraps (Algo Trading)"
-description: Explore the intricacies of algorithmic trading with a focus on bootstrapping techniques. Understand how this resampling method enhances model estimations by replicating data variations, improving predictive capabilities, and evaluating performance. Discover the role of bootstrap aggregation in creating stable and robust trading strategies through bagging, random forests, and boosting, providing a foundation for effective risk management and market opportunities.
+category: trading_strategy
+description: Explore the intricacies of algorithmic trading with a focus on bootstrapping
+  techniques. Understand how this resampling method enhances model estimations by
+  replicating data variations, improving predictive capabilities, and evaluating performance.
+  Discover the role of bootstrap aggregation in creating stable and robust trading
+  strategies through bagging, random forests, and boosting, providing a foundation
+  for effective risk management and market opportunities.
+title: Bootstraps (Algo Trading)
 ---
 
 Algorithmic trading, also known as algo trading, involves the execution of trades in financial markets through automated systems that follow pre-designed instructions. These instructions incorporate critical variables such as time, price, and volume. By doing so, algorithmic trading enhances the efficiency and speed of transaction processes, enabling traders to capitalize on market opportunities with minimal delay.

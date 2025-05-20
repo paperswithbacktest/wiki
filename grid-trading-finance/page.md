@@ -1,6 +1,9 @@
 ---
-title: "Grid Trading in Finance (Algo Trading)"
-description: "Explore the intricacies of grid trading in finance a strategic method employed in forex and crypto to capitalize on market volatility through automated trade grids."
+category: trading_strategy
+description: Explore the intricacies of grid trading in finance a strategic method
+  employed in forex and crypto to capitalize on market volatility through automated
+  trade grids.
+title: Grid Trading in Finance (Algo Trading)
 ---
 
 In the world of finance trading, strategies are critical for capturing market opportunities, while simultaneously managing risk. Grid trading is one such strategy that is widely used in finance markets, including forex and crypto markets. As an algorithm-based strategy, grid trading capitalizes on market volatility by systematically placing buy and sell orders at set intervals, both above and below a chosen base price. This approach forms a 'grid' pattern, facilitating profits from market fluctuations without relying on predictions about market direction.

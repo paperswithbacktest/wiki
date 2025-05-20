@@ -1,6 +1,9 @@
 ---
-title: "Bourse: Definition, History, and Examples (Algo Trading)"
-description: "Explore the evolution of bourses from manual trading centers to advanced algorithmic trading hubs highlighting key historical transitions shaping today's markets."
+category: quant_concept
+description: Explore the evolution of bourses from manual trading centers to advanced
+  algorithmic trading hubs highlighting key historical transitions shaping today's
+  markets.
+title: 'Bourse: Definition, History, and Examples (Algo Trading)'
 ---
 
 Stock exchanges, often termed bourses in Europe, have experienced profound transformations throughout history. Originating as centers for manual trading, these markets have transitioned into highly sophisticated arenas dominated by automated systems. The evolution from hands-on transactions to advanced algorithmic trading marks a significant leap in the functionality and efficiency of financial markets.

@@ -1,6 +1,8 @@
 ---
-title: "Chart Formation and Functionality with Examples (Algo Trading)"
-description: "Explore the power of chart patterns in algo trading to predict market trends. Learn their role in strategic decision-making and gain a competitive edge."
+category: trading_strategy
+description: Explore the power of chart patterns in algo trading to predict market
+  trends. Learn their role in strategic decision-making and gain a competitive edge.
+title: Chart Formation and Functionality with Examples (Algo Trading)
 ---
 
 In trading, understanding and utilizing chart patterns is a crucial skill for technical analysts. By analyzing historical price data, traders can recognize patterns that help predict future price movements, thereby enabling informed decision-making. Chart patterns provide a visual representation of the ongoing psychological dynamics in the market, reflecting the interplay between supply and demand. As traders look for strategic entry and exit points, these formations serve as vital tools for market analysis.

@@ -1,6 +1,8 @@
 ---
-title: "Ease of Movement Indicator (Algo Trading)"
-description: "Ease of Movement (EMV) is a key trading indicator combining volume and price data to assess stock movement fluidity aiding trend analysis and trading decisions."
+category: trading_strategy
+description: Ease of Movement (EMV) is a key trading indicator combining volume and
+  price data to assess stock movement fluidity aiding trend analysis and trading decisions.
+title: Ease of Movement Indicator (Algo Trading)
 ---
 
 Ease of Movement (EMV) is a significant technical analysis tool, leveraging the combined data of volume and price to evaluate the fluidity of stock price movements. This indicator plays a pivotal role in aiding traders to assess the strength and sustainability of market trends. By integrating both volume and price information, EMV provides insights into market behavior that cannot be discerned from price data alone.

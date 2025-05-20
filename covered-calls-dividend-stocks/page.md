@@ -1,6 +1,8 @@
 ---
-title: "Covered Calls on Dividend Stocks (Algo Trading)"
-description: "Explore how covered calls on dividend stocks can boost income through option premiums and dividends using algorithmic trading for precision and efficiency."
+category: trading_strategy
+description: Explore how covered calls on dividend stocks can boost income through
+  option premiums and dividends using algorithmic trading for precision and efficiency.
+title: Covered Calls on Dividend Stocks (Algo Trading)
 ---
 
 Options trading and dividend stocks are financial strategies that have increasingly captured the interest of investors aiming to enhance their portfolio returns. Options trading involves buying and selling contracts that grant the right—but not the obligation—to buy or sell stocks at a predetermined price before a specified date. This flexibility allows investors to potentially secure significant gains while managing risks. On the other hand, dividend stocks represent shares in companies that regularly distribute a portion of their profits to shareholders in the form of dividends, thus providing a steady income stream alongside potential capital appreciation.

@@ -1,6 +1,9 @@
 ---
-title: "Freight Derivatives (Algo Trading)"
-description: "Explore the crucial role of freight derivatives in the shipping industry as they aid in risk management and stabilize financial performance amidst market volatility."
+category: quant_concept
+description: Explore the crucial role of freight derivatives in the shipping industry
+  as they aid in risk management and stabilize financial performance amidst market
+  volatility.
+title: Freight Derivatives (Algo Trading)
 ---
 
 Freight derivatives are vital financial instruments utilized in the shipping and finance industries. They offer indispensable tools for managing the inherent volatility within freight markets. By allowing stakeholders such as shipowners, charterers, and traders to hedge against unpredictable changes in freight rates, these derivatives play a significant role in stabilizing financial performance and optimizing risk management strategies. The shipping industry's complex and volatile nature often leads to fluctuating freight rates, impacting companies' profitability and economic stability. Freight derivatives provide a mechanism for these entities to mitigate such price risks effectively, enhancing their ability to maintain consistent financial operations.
@@ -171,4 +174,4 @@ As the maritime industry continues to evolve, those who master the application o
 
 [4]: Nomikos, N. K., & Alizadeh, A. (2002). ["Risk Management in the Shipping Industry: The Theory and Practice of Hedging Freight Rate Risk."](https://pmc.ncbi.nlm.nih.gov/articles/PMC5719095/)00074-0) Maritime Policy & Management.
 
-[5]: Geman, H., & Nguyen, V.-N. (2005). ["Soybean Inventory and Forward Curve Dynamics."](https://www.jstor.org/stable/20110399) The Review of Financial Studies. 
+[5]: Geman, H., & Nguyen, V.-N. (2005). ["Soybean Inventory and Forward Curve Dynamics."](https://www.jstor.org/stable/20110399) The Review of Financial Studies.

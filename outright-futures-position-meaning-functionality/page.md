@@ -1,6 +1,8 @@
 ---
-title: "Outright Futures Position: Meaning and Functionality (Algo Trading)"
-description: "Explore outright futures positions and algorithmic trading to enhance your trading precision and risk management in the dynamic futures markets."
+category: trading_strategy
+description: Explore outright futures positions and algorithmic trading to enhance
+  your trading precision and risk management in the dynamic futures markets.
+title: 'Outright Futures Position: Meaning and Functionality (Algo Trading)'
 ---
 
 Algorithmic trading has fundamentally transformed the landscape of financial markets by enabling traders to execute trades with unparalleled speed and efficiency. This type of trading harnesses the power of advanced computational algorithms to make trading decisions, allowing for the execution of orders at a speed and frequency impossible for human traders. With algorithmic trading, market participants can react to market fluctuations almost instantaneously, which helps in capturing opportunities that may only be available for fractions of a second. This has not only increased the liquidity of the markets but also tightened bid-ask spreads, benefiting all market participants.

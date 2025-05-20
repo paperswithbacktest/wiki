@@ -1,6 +1,9 @@
 ---
-title: "Impact of Daily Trading Limits on Traders (Algo Trading)"
-description: "Discover how daily trading limits impact traders by shaping strategies, ensuring market stability, and influencing price movements in algorithmic trading environments."
+category: quant_concept
+description: Discover how daily trading limits impact traders by shaping strategies,
+  ensuring market stability, and influencing price movements in algorithmic trading
+  environments.
+title: Impact of Daily Trading Limits on Traders (Algo Trading)
 ---
 
 Daily trading limits are crucial tools implemented in financial markets to maintain order and protect traders from extreme volatility. These mechanisms set bounds on the maximum price movement that a security can experience within a single trading day. By doing so, they serve as a safeguard against erratic market behavior that could otherwise lead to significant financial losses. This article focuses on the concept of daily trading limits, their impact on trading activities, and the intersection with algorithmic trading.

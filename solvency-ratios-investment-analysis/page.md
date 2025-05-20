@@ -1,6 +1,8 @@
 ---
-title: "Solvency Ratios in Investment Analysis (Algo Trading)"
-description: "Explore the integration of solvency ratios in algo trading to enhance financial analysis understand long-term viability and optimize investment strategies."
+category: quant_concept
+description: Explore the integration of solvency ratios in algo trading to enhance
+  financial analysis understand long-term viability and optimize investment strategies.
+title: Solvency Ratios in Investment Analysis (Algo Trading)
 ---
 
 In the world of finance, understanding investment analysis is essential for making informed decisions. The complexity of this field emanates from the myriad aspects it encompasses, including the evaluation of financial statements, ratios, and market trends. These components provide a structured approach to deciphering the potential of various assets and financial securities, which is critical for investors seeking to optimize their portfolios.
@@ -188,4 +190,3 @@ For those interested in expanding their knowledge of financial analysis and algo
 6. Online courses from platforms like Coursera and edX can offer interactive learning experiences. Courses that focus on financial analysis, such as 'Financial Analysis and Decision Making' by the University of Michigan, or algo trading, such as 'Algorithmic Trading Strategies' by the University of California, Berkeley, provide structured learning paths and practical projects.
 
 By engaging with these resources, investors and finance professionals can deepen their understanding, enhance their strategies, and stay abreast of the latest trends in investment analysis and algorithmic trading.
-

@@ -1,6 +1,9 @@
 ---
-title: "Securitization: Process, Benefits, and Drawbacks (Algo Trading)"
-description: "Explore the complex world of securitization and algorithmic trading Discover how these financial processes impact market dynamics while balancing innovation and risk."
+category: quant_concept
+description: Explore the complex world of securitization and algorithmic trading Discover
+  how these financial processes impact market dynamics while balancing innovation
+  and risk.
+title: 'Securitization: Process, Benefits, and Drawbacks (Algo Trading)'
 ---
 
 In the rapidly evolving world of finance, securitization, investment risks, financial processes, and algorithmic trading are interrelated concepts that significantly impact market dynamics. Securitization involves the pooling of various financial assets to create securities that are then sold to investors, fundamentally altering how liquidity is managed within the banking sector. On the other hand, investment risks are inherent in these financial products, often complicating the investors' ability to accurately assess the value and future performance of their investments, particularly with complex instruments like mortgage-backed securities (MBS) and collateralized debt obligations (CDOs).

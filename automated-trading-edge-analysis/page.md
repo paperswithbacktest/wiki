@@ -1,6 +1,13 @@
 ---
-title: "Automated Trading Edge Analysis"
-description: Explore the revolution in financial markets brought by automated trading through algorithmic precision and computational power. Understand how trading edge analysis helps exploit market inefficiencies by leveraging sophisticated tools and algorithms. Discover the advantages of using systems like Quantpedia for profitable strategy implementation, highlighting the integration of statistical methods and empirical data in trading. Gain insights into edge analysis for enhanced market navigation and trading performance.
+category: trading_strategy
+description: Explore the revolution in financial markets brought by automated trading
+  through algorithmic precision and computational power. Understand how trading edge
+  analysis helps exploit market inefficiencies by leveraging sophisticated tools and
+  algorithms. Discover the advantages of using systems like Quantpedia for profitable
+  strategy implementation, highlighting the integration of statistical methods and
+  empirical data in trading. Gain insights into edge analysis for enhanced market
+  navigation and trading performance.
+title: Automated Trading Edge Analysis
 ---
 
 Automated trading has revolutionized the implementation of trading strategies in financial markets by leveraging computational power and algorithmic precision. This evolution has paved the way for traders to harness complex algorithms to execute trades with speed and accuracy, minimizing human errors and optimizing performance. Central to this advancement is the concept of trading edge analysis, a critical element in algorithmic trading. Trading edges are essentially insights or conditions that provide a probabilistic advantage in market operations, allowing traders to exploit inefficiencies and gain an edge over competitors.

@@ -1,6 +1,9 @@
 ---
-title: "Y-Share: Overview and Functionality (Algo Trading)"
-description: "Explore the synergy between Y-Shares and algo trading where institutional investors leverage low-cost Y-Shares with high-speed transactions for optimized returns."
+category: trading_strategy
+description: Explore the synergy between Y-Shares and algo trading where institutional
+  investors leverage low-cost Y-Shares with high-speed transactions for optimized
+  returns.
+title: 'Y-Share: Overview and Functionality (Algo Trading)'
 ---
 
 In the rapidly evolving world of finance, the integration of algorithmic trading mechanisms with Y-Share investments presents a unique opportunity for investors. Algorithmic trading, commonly referred to as algo trading, utilizes computer algorithms to execute transactions at speeds and with precision beyond human capability. This technology relies on predefined instructions to buy or sell shares, ensuring swift and efficient trade execution. Such strategies are crucial in seizing fleeting market opportunities and optimizing trade execution in the fast-paced financial markets.

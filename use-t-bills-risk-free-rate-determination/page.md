@@ -1,6 +1,9 @@
 ---
-title: "Use of T-Bills in Risk-Free Rate Determination (Algo Trading)"
-description: "Explore the significance of T-Bills in determining the risk-free rate for financial models. Learn how algo trading optimizes T-Bill strategies in today's markets."
+category: quant_concept
+description: Explore the significance of T-Bills in determining the risk-free rate
+  for financial models. Learn how algo trading optimizes T-Bill strategies in today's
+  markets.
+title: Use of T-Bills in Risk-Free Rate Determination (Algo Trading)
 ---
 
 The financial markets form a complex ecosystem where a multitude of instruments and agents interact, impacting interest rates and guiding investment decisions. Among these instruments, the risk-free rate holds particular importance as a fundamental benchmark in various financial models and investment evaluations. The risk-free rate is essentially the theoretical return on an investment with zero risk and is often represented by the yields on government-issued securities, notably U.S. Treasury Bills (T-Bills). These short-term securities are lauded for their perceived safety, underpinned by the unwavering creditworthiness of the U.S. government.
@@ -175,4 +178,3 @@ T-Bills continue to hold relevance as an investment tool, despite evolving marke
 9. **Investopedia** – An online resource that provides a variety of articles on financial markets, risk-free rates, Treasury Bills, and algorithmic trading. [investopedia.com](https://www.investopedia.com)
 
 10. **"Machine Learning for Asset Managers" by Marcos López de Prado** – This book explores the application of machine learning techniques in asset management, providing insight into algorithmic improvements for T-Bill investment strategies.
-

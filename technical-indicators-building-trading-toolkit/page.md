@@ -1,6 +1,9 @@
 ---
-title: "Technical Indicators for Building a Trading Toolkit (Algo Trading)"
-description: "Explore the strategic synergy of technical indicators and algo trading to enhance trading strategies and success by leveraging data-driven insights and automation."
+category: trading_strategy
+description: Explore the strategic synergy of technical indicators and algo trading
+  to enhance trading strategies and success by leveraging data-driven insights and
+  automation.
+title: Technical Indicators for Building a Trading Toolkit (Algo Trading)
 ---
 
 Technical indicators are integral to financial analysis, functioning as vital tools that traders and analysts use to forecast future price movements based on historical data. These indicators provide quantitative insights into market dynamics, enabling traders to identify trends, momentum, volatility, and volume, which are crucial dimensions for informed trading decisions. By distilling vast amounts of historical data into actionable insights, technical indicators help traders anticipate potential price changes, thereby aiding in the development of effective trading strategies.

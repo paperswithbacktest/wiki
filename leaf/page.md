@@ -1,7 +1,8 @@
 ---
-title: Leaf Machine Learning Framework Simplifies Decision Tree Modeling
+category: quant_concept
 description: Leaf machine learning framework makes it easy to build and interpret
   decision tree and ensemble models with intuitive preprocessing Discover more inside
+title: Leaf Machine Learning Framework Simplifies Decision Tree Modeling
 ---
 
 ![Image](images/1.png)

@@ -1,6 +1,12 @@
 ---
-title: "Moving Average: Applications, Calculation, and Examples (Algo Trading)"
-description: "Explore the critical role of moving averages in financial analysis and algorithmic trading. This comprehensive guide highlights their function in smoothing price data, identifying trends, and assisting traders with informed decisions. Understand the differences between Simple Moving Average (SMA) and Exponential Moving Average (EMA), and learn how to incorporate these tools into trading strategies to enhance analytical capabilities and forecast market movements effectively."
+category: quant_concept
+description: Explore the critical role of moving averages in financial analysis and
+  algorithmic trading. This comprehensive guide highlights their function in smoothing
+  price data, identifying trends, and assisting traders with informed decisions. Understand
+  the differences between Simple Moving Average (SMA) and Exponential Moving Average
+  (EMA), and learn how to incorporate these tools into trading strategies to enhance
+  analytical capabilities and forecast market movements effectively.
+title: 'Moving Average: Applications, Calculation, and Examples (Algo Trading)'
 ---
 
 In the world of financial analysis and algorithmic trading, technical indicators are essential tools that assist traders in making informed decisions using historical data and market trends. Among these indicators, the moving average is particularly noteworthy as it serves a fundamental role in smoothing price data and identifying trends. The moving average is extensively utilized to determine the general direction of an asset's price movement and to forecast future trends, thereby providing critical insights for traders.

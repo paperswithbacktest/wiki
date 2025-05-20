@@ -1,6 +1,8 @@
 ---
-title: "Banks and Bad Debt Write-Offs (Algo Trading)"
-description: "Explore how banks manage bad debt write-offs and the role of algorithmic trading in financial management to optimize decision-making and risk assessment."
+category: quant_concept
+description: Explore how banks manage bad debt write-offs and the role of algorithmic
+  trading in financial management to optimize decision-making and risk assessment.
+title: Banks and Bad Debt Write-Offs (Algo Trading)
 ---
 
 In the complex landscape of finance, understanding the concepts of write-offs, bad debt, banking, and algorithmic trading is essential. These financial terms and activities are interconnected and play significant roles in the economy. Write-offs, for instance, are necessary actions in accounting that allow businesses to maintain accurate financial records by acknowledging the diminished or nullified value of an asset. This is particularly critical in banking, where the management of write-offs, especially regarding bad debt, can significantly influence a bank's financial health and stability. Bad debt arises when entities fail to meet their financial obligations, and managing this efficiently is crucial for sustained financial performance.

@@ -1,6 +1,8 @@
 ---
-title: "Comprehensive Guide to Game Theory (Algo Trading)"
-description: "Explore the synergy between algorithmic trading and game theory strategies. Learn how these key concepts shape trading tactics and enhance market prediction."
+category: quant_concept
+description: Explore the synergy between algorithmic trading and game theory strategies.
+  Learn how these key concepts shape trading tactics and enhance market prediction.
+title: Comprehensive Guide to Game Theory (Algo Trading)
 ---
 
 Algorithmic trading, the process of using computer algorithms to automatically make trading decisions, has revolutionized modern financial markets by enhancing the speed, efficiency, and precision of trade execution. In an era where milliseconds can mean the difference between profit and loss, algorithmic trading enables traders to process vast datasets and execute complex strategies at speeds unreachable by human traders. Its significance is underscored by its widespread adoption across various asset classes including equities, futures, and currencies, where it facilitates market-making, arbitrage, and liquidity provision.

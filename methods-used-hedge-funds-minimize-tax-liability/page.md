@@ -1,6 +1,8 @@
 ---
-title: "Methods Used by Hedge Funds to Minimize Tax Liability (Algo Trading)"
-description: "Explore how hedge funds utilize advanced algorithmic trading and strategic tax techniques to enhance returns and minimize tax liabilities for investors."
+category: trading_strategy
+description: Explore how hedge funds utilize advanced algorithmic trading and strategic
+  tax techniques to enhance returns and minimize tax liabilities for investors.
+title: Methods Used by Hedge Funds to Minimize Tax Liability (Algo Trading)
 ---
 
 Hedge funds are sophisticated investment vehicles designed primarily for accredited investors, typically those with a high net worth. These funds employ a wide range of intricate investment strategies to achieve superior returns, often outpacing traditional investment vehicles. A defining feature of hedge funds is their ability to employ techniques aimed at minimizing tax liabilities, thus enhancing net returns for investors.

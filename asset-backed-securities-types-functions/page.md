@@ -1,6 +1,8 @@
 ---
-title: "Asset-Backed Securities: Types and Functions (Algo Trading)"
-description: "Discover the dynamics of asset-backed securities and the role of algorithmic trading in modern financial markets. Gain insights on ABS types and trading strategies."
+category: quant_concept
+description: Discover the dynamics of asset-backed securities and the role of algorithmic
+  trading in modern financial markets. Gain insights on ABS types and trading strategies.
+title: 'Asset-Backed Securities: Types and Functions (Algo Trading)'
 ---
 
 Asset-backed securities (ABS) are financial instruments that are collateralized by a pool of underlying assets, such as loans, leases, credit card receivables, or mortgages. These securities are significant in the financial market because they enable the original lenders to convert illiquid assets into liquid instruments, thus providing them with the opportunity to offload credit risk and improve balance sheet management. Moreover, for investors, ABS offer an attractive investment vehicle by providing diversification and potentially higher yields compared to traditional fixed-income securities.

@@ -1,6 +1,9 @@
 ---
-title: "Confederation of British Industry (Algo Trading)"
-description: "Explore how the Confederation of British Industry navigates algorithmic trading's impact, enhancing market efficiency while addressing fairness and volatility concerns."
+category: quant_concept
+description: Explore how the Confederation of British Industry navigates algorithmic
+  trading's impact, enhancing market efficiency while addressing fairness and volatility
+  concerns.
+title: Confederation of British Industry (Algo Trading)
 ---
 
 The Confederation of British Industry (CBI) serves as a key advocate and representative for British businesses, spanning a multitude of sectors. Established to influence policy-making and support economic development, the CBI provides a collective voice to its members, addressing various industrial challenges and opportunities. As technological advancements reshape the global economic landscape, industries, including those in the UK, face continuous evolution.

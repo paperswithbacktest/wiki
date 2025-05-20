@@ -1,6 +1,11 @@
 ---
-title: "Comparison of Short Selling and Put Options (Algo Trading)"
-description: "Explore the distinct investment strategies of short selling and put options to navigate bearish market conditions and optimize trading with algorithmic techniques. Delve into each method's mechanics to understand how they help investors manage risks and enhance returns. Discover the potential rewards and challenges of executing these strategies in today's dynamic financial landscape."
+category: trading_strategy
+description: Explore the distinct investment strategies of short selling and put options
+  to navigate bearish market conditions and optimize trading with algorithmic techniques.
+  Delve into each method's mechanics to understand how they help investors manage
+  risks and enhance returns. Discover the potential rewards and challenges of executing
+  these strategies in today's dynamic financial landscape.
+title: Comparison of Short Selling and Put Options (Algo Trading)
 ---
 
 Investing strategies encompass a broad spectrum, catering to diverse market conditions and investor objectives. While some strategies are designed to capitalize on market appreciation, others are crafted to profit from declines in asset prices or fluctuations in market volatility. This article investigates sophisticated investment strategies such as put options, short selling, and algorithmic trading, each offering unique approaches to navigating financial markets.

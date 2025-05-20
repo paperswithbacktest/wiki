@@ -1,6 +1,9 @@
 ---
-title: "John F. Nash Jr.: Education, Achievements, and Legacy (Algo Trading)"
-description: "Explore John F Nash Jr's profound impact on mathematics and economics from game theory and Nash Equilibrium to algorithmic trading strategies enhancing financial markets."
+category: quant_concept
+description: Explore John F Nash Jr's profound impact on mathematics and economics
+  from game theory and Nash Equilibrium to algorithmic trading strategies enhancing
+  financial markets.
+title: 'John F. Nash Jr.: Education, Achievements, and Legacy (Algo Trading)'
 ---
 
 John F. Nash Jr.'s legacy as a mathematician extends significantly beyond his foundational contributions to game theory. His work encompasses crucial developments in differential geometry and partial differential equations, where his insights have substantially influenced diverse fields such as economics and the development of trading models. Nash's theories, particularly the concept of Nash Equilibrium, provide a framework for understanding strategic interactions in competitive environments. This concept is vital in economics for modeling decision-making processes where the outcome for each participant depends on the choices of others.

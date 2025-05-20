@@ -1,7 +1,8 @@
 ---
-title: Diffusion Models in Machine Learning Explained and Applied
+category: quant_concept
 description: Diffusion Models add and remove noise step by step to create realistic
   data and simplify generative tasks with stability and control Discover more inside
+title: Diffusion Models in Machine Learning Explained and Applied
 ---
 
 ![Image](images/1.png)

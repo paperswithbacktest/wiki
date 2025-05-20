@@ -1,6 +1,8 @@
 ---
-title: "Capital Appreciation: Overview and Examples (Algo Trading)"
-description: "Explore the synergy of asset valuation, capital appreciation, and algorithmic trading to optimize investment strategies and leverage cutting-edge innovations."
+category: quant_concept
+description: Explore the synergy of asset valuation, capital appreciation, and algorithmic
+  trading to optimize investment strategies and leverage cutting-edge innovations.
+title: 'Capital Appreciation: Overview and Examples (Algo Trading)'
 ---
 
 Investment growth has consistently been a primary objective for investors aiming to enhance their financial portfolios. At the core of this pursuit are several key concepts: asset valuation, capital appreciation, and algorithmic trading. These elements are crucial as they interact to form the foundation of successful investment strategies. Asset valuation helps investors determine the true worth of investments, serving as a guide for making informed buying and selling decisions. Capital appreciation, on the other hand, is the increase in the value of an asset and is a fundamental driver of portfolio growth, realized when assets are sold for a profit.

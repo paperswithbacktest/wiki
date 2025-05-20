@@ -1,6 +1,8 @@
 ---
-title: "Qualifying Disposition (Algo Trading)"
-description: "Unlock the potential of qualifying dispositions in algorithmic trading for tax-efficient investment strategies while maximizing returns in financial markets."
+category: quant_concept
+description: Unlock the potential of qualifying dispositions in algorithmic trading
+  for tax-efficient investment strategies while maximizing returns in financial markets.
+title: Qualifying Disposition (Algo Trading)
 ---
 
 Financial transactions are fundamental elements in the world of investing and trading, forming the basis upon which market activities are conducted. For modern investors and traders, a thorough understanding of these transactions is paramount, as they dictate the flow of capital and influence decision-making processes. Among the various facets of financial transactions, qualifying dispositions stand out due to their significant role in tax-efficient investment strategies. These transactions, typically involving the sale or transfer of stock acquired through incentive stock options (ISOs) or employee stock purchase plans (ESPPs), offer the potential for favorable tax treatment, thereby affecting the overall profitability of investment endeavors.

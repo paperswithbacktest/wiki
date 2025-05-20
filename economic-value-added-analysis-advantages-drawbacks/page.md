@@ -1,6 +1,8 @@
 ---
-title: "Economic Value Added: Analysis, Advantages, and Drawbacks (Algo Trading)"
-description: "Explore Economic Value Added as a financial metric for assessing profitability above capital cost and its impact on algorithmic trading strategies for businesses."
+category: quant_concept
+description: Explore Economic Value Added as a financial metric for assessing profitability
+  above capital cost and its impact on algorithmic trading strategies for businesses.
+title: 'Economic Value Added: Analysis, Advantages, and Drawbacks (Algo Trading)'
 ---
 
 Economic Value Added (EVA) is a prominent financial metric employed to gauge a company’s true economic profit. As opposed to traditional accounting measures, EVA provides a lens through which businesses can assess their real economic viability by determining whether they are generating returns above their cost of capital. By evaluating the surplus generated after covering the capital cost, EVA offers insights into a company’s genuine profitability and efficiency.

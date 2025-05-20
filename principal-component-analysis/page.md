@@ -1,6 +1,9 @@
 ---
-title: "Principal Component Analysis (Algo Trading)"
-description: "Leverage Principal Component Analysis (PCA) in algorithmic trading to reduce data complexity while maintaining key patterns for more robust and efficient strategies."
+category: quant_concept
+description: Leverage Principal Component Analysis (PCA) in algorithmic trading to
+  reduce data complexity while maintaining key patterns for more robust and efficient
+  strategies.
+title: Principal Component Analysis (Algo Trading)
 ---
 
 In the fast-evolving world of algorithmic trading, leveraging the power of data analytics is crucial for gaining a competitive edge. The ability to process and interpret large volumes of financial data rapidly can define the success or failure of trading strategies. Among the various techniques available, Principal Component Analysis (PCA) stands out as a powerful method for simplifying high-dimensional data. By reducing the complexity of data while preserving essential patterns, PCA facilitates an improved understanding and subsequent action upon these datasets.
@@ -162,4 +165,3 @@ Lopez de Prado, M. (2018) offers insights into the application of [machine learn
 Pearson, K. (1901) introduced the concept of PCA through his seminal work on fitting lines and planes to point systems in space. His contributions laid the groundwork for the mathematical formulation of PCA, allowing for the simplification of data structures through linear transformations.
 
 Shlens, J. (2014) provides a tutorial that serves as an accessible introduction to PCA. This guide expounds on the mathematical foundations and practical implementations of PCA, making it a valuable resource for beginners and practitioners seeking to understand the technique's application in data simplification.
-

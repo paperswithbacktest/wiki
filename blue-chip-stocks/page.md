@@ -1,6 +1,12 @@
 ---
-title: "Blue Chip Stocks (Algo Trading)"
-description: "Explore the essential concepts of stock market investment, blue chip stocks, and algorithmic trading to enhance your financial growth strategy. Discover how these pillars can optimize your investment portfolio, offering stability and efficient trading methods in today's dynamic markets. Learn how to balance risk with returns by integrating high-performing blue chip stocks and leveraging the precision of algorithmic trading to capitalize on market inefficiencies."
+category: trading_strategy
+description: Explore the essential concepts of stock market investment, blue chip
+  stocks, and algorithmic trading to enhance your financial growth strategy. Discover
+  how these pillars can optimize your investment portfolio, offering stability and
+  efficient trading methods in today's dynamic markets. Learn how to balance risk
+  with returns by integrating high-performing blue chip stocks and leveraging the
+  precision of algorithmic trading to capitalize on market inefficiencies.
+title: Blue Chip Stocks (Algo Trading)
 ---
 
 In the rapidly evolving world of investment, having a firm grasp of concepts such as stock market investment, blue chip stocks, and algorithmic trading is crucial for optimizing financial growth. These three pillars are instrumental in shaping modern investment strategies and enhancing portfolio performance.

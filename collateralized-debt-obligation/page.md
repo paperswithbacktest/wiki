@@ -1,6 +1,14 @@
 ---
-title: "Collateralized Debt Obligation (Algo Trading)"
-description: "Discover the intricacies of Collateralized Debt Obligations and their connection to securitization and algo trading. Explore how these financial instruments pool assets like loans and bonds, transforming them into tradable securities. Learn about algorithmic trading's role in enhancing speed and efficiency in trading operations. Understand the interplay between CDOs, structured finance, and algo trading, and their combined impact on managing risk, accessing capital, and shaping investment strategies in modern financial markets. This article aims to provide a comprehensive overview of these concepts and their significance in today's economy."
+category: quant_concept
+description: Discover the intricacies of Collateralized Debt Obligations and their
+  connection to securitization and algo trading. Explore how these financial instruments
+  pool assets like loans and bonds, transforming them into tradable securities. Learn
+  about algorithmic trading's role in enhancing speed and efficiency in trading operations.
+  Understand the interplay between CDOs, structured finance, and algo trading, and
+  their combined impact on managing risk, accessing capital, and shaping investment
+  strategies in modern financial markets. This article aims to provide a comprehensive
+  overview of these concepts and their significance in today's economy.
+title: Collateralized Debt Obligation (Algo Trading)
 ---
 
 Collateralized Debt Obligations (CDOs) are financial instruments that pool various assets, such as bonds, loans, and other types of debt, to create a new security that can be sold to investors. The process through which these assets are gathered and repackaged is known as securitization. Securitization enables the conversion of often illiquid assets into tradable securities, facilitating greater liquidity and diversification in financial markets. Structured finance refers to the complex financial instruments and strategies employed to manage risk and achieve specific financing goals, often involving the use of CDOs and securitization.

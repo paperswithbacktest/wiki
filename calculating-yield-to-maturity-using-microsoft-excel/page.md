@@ -1,6 +1,8 @@
 ---
-title: "Calculating Yield to Maturity Using Microsoft Excel (Algo Trading)"
-description: "Learn how to calculate yield to maturity (YTM) in Excel for better bond investment decisions and algorithmic trading strategies. Master bond analytics."
+category: quant_concept
+description: Learn how to calculate yield to maturity (YTM) in Excel for better bond
+  investment decisions and algorithmic trading strategies. Master bond analytics.
+title: Calculating Yield to Maturity Using Microsoft Excel (Algo Trading)
 ---
 
 Understanding bond calculations and yield to maturity (YTM) is essential for investors focusing on fixed-income securities. Yield to maturity provides a comprehensive measure of a bond's potential returns, given its current price, coupon payments, and time to maturity. It is an integral part of bond valuation, helping investors compare different bonds and assess the risk-return trade-off for potential investments. By estimating the annual return an investor can expect if the bond is held until maturity, YTM serves as a benchmark for making informed investment decisions.

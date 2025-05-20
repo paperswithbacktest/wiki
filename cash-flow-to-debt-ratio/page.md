@@ -1,6 +1,9 @@
 ---
-title: "Cash Flow-to-Debt Ratio (Algo Trading)"
-description: "Explore the importance of cash flow-to-debt ratio in algorithmic trading Understand how this metric aids investment strategies by assessing a firm's debt repayment capacity"
+category: quant_concept
+description: Explore the importance of cash flow-to-debt ratio in algorithmic trading
+  Understand how this metric aids investment strategies by assessing a firm's debt
+  repayment capacity
+title: Cash Flow-to-Debt Ratio (Algo Trading)
 ---
 
 Financial metrics are pivotal in assessing a company's financial health, especially when considering investment and trading decisions. Key indicators such as the cash flow-to-debt ratio and the debt ratio are essential tools in this evaluation process. These ratios provide a comprehensive view of a firm's stability and operational efficiency by quantifying aspects of its financial structure and performance. 

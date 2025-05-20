@@ -1,6 +1,8 @@
 ---
-title: "Inverted Market: Causes and Examples (Algo Trading)"
-description: "Explore the causes and examples of inverted markets in algo trading Discover how algorithmic strategies can navigate these market conditions effectively"
+category: quant_concept
+description: Explore the causes and examples of inverted markets in algo trading Discover
+  how algorithmic strategies can navigate these market conditions effectively
+title: 'Inverted Market: Causes and Examples (Algo Trading)'
 ---
 
 The financial market landscape is a complex and constantly shifting environment where new trends and innovations emerge. In recent years, significant transformations have occurred in the futures and trading sectors, reshaping how market participants engage with these financial instruments. The ever-evolving dynamics of these markets are a result of various influencing factors, including economic trends, technological advancements, and global events. Understanding these changes is crucial for investors and traders who aim to capitalize on opportunities and mitigate risks.

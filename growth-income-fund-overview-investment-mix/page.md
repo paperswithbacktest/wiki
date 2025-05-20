@@ -1,6 +1,8 @@
 ---
-title: "Growth and Income Fund: Overview and Investment Mix (Algo Trading)"
-description: "Explore how growth and income funds combined with algo trading offer a balanced investment strategy for consistent returns in a volatile market."
+category: trading_strategy
+description: Explore how growth and income funds combined with algo trading offer
+  a balanced investment strategy for consistent returns in a volatile market.
+title: 'Growth and Income Fund: Overview and Investment Mix (Algo Trading)'
 ---
 
 In today's volatile market, investors are keenly aware of the necessity to balance growth and income to achieve financial stability and long-term success. They seek diversified strategies that can accommodate market fluctuations while ensuring consistent returns. This article explores the use of growth and income funds as part of an investment strategy, highlighting their roles in achieving financial goals amidst market uncertainties.

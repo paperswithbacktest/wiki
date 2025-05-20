@@ -1,6 +1,9 @@
 ---
-title: "Impact of Intangible Assets on Stock Valuation (Algo Trading)"
-description: "Explore how intangible assets and algorithmic trading shape stock valuation strategies highlighting their impact on modern financial markets and investment insights."
+category: quant_concept
+description: Explore how intangible assets and algorithmic trading shape stock valuation
+  strategies highlighting their impact on modern financial markets and investment
+  insights.
+title: Impact of Intangible Assets on Stock Valuation (Algo Trading)
 ---
 
 Financial markets are complex ecosystems influenced by a myriad of factors, chief among them being stock valuation, intangible assets, and algorithmic trading. These three elements form the backbone of modern finance, with each playing a critical role in shaping investment strategies and financial analysis.

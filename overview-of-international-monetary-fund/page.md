@@ -1,6 +1,8 @@
 ---
-title: "Overview of the International Monetary Fund (Algo Trading)"
-description: "Discover the intersection of algorithmic trading and AI with the IMF's role in economic stability Explore challenges, opportunities, and regulatory needs"
+category: quant_concept
+description: Discover the intersection of algorithmic trading and AI with the IMF's
+  role in economic stability Explore challenges, opportunities, and regulatory needs
+title: Overview of the International Monetary Fund (Algo Trading)
 ---
 
 The International Monetary Fund (IMF) holds a critical position in the global economy by offering financial assistance and guidance to 190 member nations, each striving for economic stability and growth. This institution plays an essential role in maintaining global financial stability, fostering economic growth, and providing a framework for economic policy evaluations. As financial markets become increasingly complex with the integration of algorithmic trading and artificial intelligence (AI), the intersection of these technologies with the IMF's objectives becomes a matter of considerable interest.

@@ -1,6 +1,9 @@
 ---
-title: "Tokenization in Finance (Algo Trading)"
-description: "Explore how tokenization and algorithmic trading intersect to innovate finance enhancing liquidity transparency and efficiency through digital assets on blockchain."
+category: quant_concept
+description: Explore how tokenization and algorithmic trading intersect to innovate
+  finance enhancing liquidity transparency and efficiency through digital assets on
+  blockchain.
+title: Tokenization in Finance (Algo Trading)
 ---
 
 Tokenization in finance refers to the process of converting rights to an asset into a digital token on a blockchain. This technological advancement has gained increasing significance as it promises to reshape traditional financial systems by enhancing efficiency, transparency, and accessibility. At its core, tokenization involves the creation of digital representations of assets, which grants ownership through unique tokens stored and verified on blockchain networks. As a result, various asset categories, such as real estate, equities, bonds, and commodities, can be tokenized, opening the door for novel financial products and services.

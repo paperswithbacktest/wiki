@@ -1,6 +1,9 @@
 ---
-title: "History of International Trade Agreements (Algo Trading)"
-description: "Explore the evolution of international trade agreements and the impact of algorithmic trading. Discover how historical accords and modern technology shape global commerce."
+category: quant_concept
+description: Explore the evolution of international trade agreements and the impact
+  of algorithmic trading. Discover how historical accords and modern technology shape
+  global commerce.
+title: History of International Trade Agreements (Algo Trading)
 ---
 
 The world of international trade and finance is shaped by historical decisions and modern technology. At the core of this development are trade agreements, which have been instrumental in establishing the framework for the present-day global economy. These agreements serve as formal accords between countries, aimed at fostering trade by reducing barriers such as tariffs and import quotas. Through centuries, they have evolved from simple bilateral treaties to complex multilateral arrangements involving numerous nations with diverse economic interests.

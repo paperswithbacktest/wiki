@@ -1,6 +1,8 @@
 ---
-title: "EBITDA to Interest Coverage Ratio (Algo Trading)"
-description: "Optimize investment strategies with the EBITDA-to-interest coverage ratio, a key metric for evaluating financial health and improving trading performance."
+category: quant_concept
+description: Optimize investment strategies with the EBITDA-to-interest coverage ratio,
+  a key metric for evaluating financial health and improving trading performance.
+title: EBITDA to Interest Coverage Ratio (Algo Trading)
 ---
 
 Understanding key financial ratios is crucial for evaluating a company's financial health. Among these, the EBITDA-to-interest coverage ratio is an essential metric for assessing a company’s ability to meet its debt obligations. It measures how comfortably a company can pay interest on its outstanding debt with its earnings before interest, taxes, depreciation, and amortization (EBITDA). A higher ratio suggests a robust financial position, indicating that the company is well-equipped to handle its debt payments, thereby offering more security to investors and creditors.

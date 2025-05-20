@@ -1,6 +1,14 @@
 ---
-title: "Memorial Day Effect in Trading Explained (Algo Trading)"
-description: Explore the intriguing Memorial Day effect on trading as we delve into how this U.S. federal holiday, marking a pause in stock market operations, impacts algorithmic trading. With markets closed on this commemorative day, traders must adjust their strategies to navigate changes in liquidity and volatility surrounding the holiday. Discover insights into optimizing algorithmic systems for these shifts and learn effective strategies to capitalize on predictable market dynamics during this period. Unlock the potential for enhanced trading performance by understanding the Memorial Day holiday's influence on market behavior.
+category: trading_strategy
+description: Explore the intriguing Memorial Day effect on trading as we delve into
+  how this U.S. federal holiday, marking a pause in stock market operations, impacts
+  algorithmic trading. With markets closed on this commemorative day, traders must
+  adjust their strategies to navigate changes in liquidity and volatility surrounding
+  the holiday. Discover insights into optimizing algorithmic systems for these shifts
+  and learn effective strategies to capitalize on predictable market dynamics during
+  this period. Unlock the potential for enhanced trading performance by understanding
+  the Memorial Day holiday's influence on market behavior.
+title: Memorial Day Effect in Trading Explained (Algo Trading)
 ---
 
 Memorial Day is a significant federal holiday in the United States, observed on the last Monday of May each year. This holiday commemorates the men and women who died while serving in the U.S. military, providing a moment of national reflection and gratitude. However, for traders and investors, Memorial Day carries additional implications that extend beyond its commemorative purpose. Understanding the trading schedule around Memorial Day is crucial, as it affects the operational dynamics of financial markets.

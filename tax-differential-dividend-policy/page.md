@@ -1,6 +1,9 @@
 ---
-title: "Tax Differential in Dividend Policy (Algo Trading)"
-description: "Explore the impact of tax differentials on corporate dividend policies and algorithmic trading. Understand how these elements influence investor strategies and corporate growth."
+category: quant_concept
+description: Explore the impact of tax differentials on corporate dividend policies
+  and algorithmic trading. Understand how these elements influence investor strategies
+  and corporate growth.
+title: Tax Differential in Dividend Policy (Algo Trading)
 ---
 
 In the complex world of corporate finance, dividend policies significantly influence investment strategies and corporate growth. Dividend policy refers to the approach a company takes to determine the size and pattern of cash distributions to its shareholders, reflecting a balance between reinvestment in the business and rewarding investors. The framework surrounding dividend payouts has far-reaching implications, affecting shareholder value and shaping market perceptions.

@@ -1,6 +1,9 @@
 ---
-title: "Unfair Trade Practices and Deceptive Methods (Algo Trading)"
-description: "Explore the impact of algorithmic trading's unfair practices on business ethics and market integrity Discover how innovations pose challenges in today's trading environment"
+category: quant_concept
+description: Explore the impact of algorithmic trading's unfair practices on business
+  ethics and market integrity Discover how innovations pose challenges in today's
+  trading environment
+title: Unfair Trade Practices and Deceptive Methods (Algo Trading)
 ---
 
 In the modern financial landscape, algorithmic trading has revolutionized how trading occurs, offering both significant opportunities and controversies. Algorithms, capable of processing vast amounts of data at unparalleled speeds, have transformed trading operations by improving efficiency and minimizing human errors. However, this technological advancement is not without its drawbacks. Algorithmic trading can be associated with unfair trade practices, which pose challenges to traditional business ethics.

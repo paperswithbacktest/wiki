@@ -1,6 +1,8 @@
 ---
-title: "Yield to Average Life (Algo Trading)"
-description: "Explore the role of Yield-to-Average Life in bond investments and algorithmic trading to optimize bond selection and enhance portfolio returns effectively."
+category: quant_concept
+description: Explore the role of Yield-to-Average Life in bond investments and algorithmic
+  trading to optimize bond selection and enhance portfolio returns effectively.
+title: Yield to Average Life (Algo Trading)
 ---
 
 The world of bond investments is intricate, characterized by diverse metrics that investors use to gauge potential returns. Among these metrics is the Yield-to-Average Life, which is instrumental in assessing a bond's yield by considering its average maturity instead of its stated maturity date. This calculation is particularly relevant for bonds with features such as sinking funds or options for early redemption, as it provides a more realistic estimation of anticipated returns.

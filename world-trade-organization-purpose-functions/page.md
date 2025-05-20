@@ -1,6 +1,9 @@
 ---
-title: "World Trade Organization: Purpose and Functions (Algo Trading)"
-description: "Explore the essential functions and purposes of the World Trade Organization in global trade, its impact on algorithmic trading, and its role in shaping economic policies."
+category: quant_concept
+description: Explore the essential functions and purposes of the World Trade Organization
+  in global trade, its impact on algorithmic trading, and its role in shaping economic
+  policies.
+title: 'World Trade Organization: Purpose and Functions (Algo Trading)'
 ---
 
 Understanding the significant role of the World Trade Organization (WTO) is essential for stakeholders in international commerce. As a pivotal entity, the WTO facilitates smooth and predictable trade flows between its 164 member nations. This article will examine the functions and purposes of the WTO and its interaction with contemporary trading techniques like algorithmic trading. Additionally, it will consider how the WTO shapes global trade, address the controversies it faces, and evaluate its effectiveness in the current economic context.

@@ -1,6 +1,9 @@
 ---
-title: "Off-Balance Sheet Activities: Types and Examples (Algo Trading)"
-description: "Explore the impact of off-balance sheet activities on financial health and algorithmic trading Learn types examples and regulations shaping modern financial landscapes"
+category: quant_concept
+description: Explore the impact of off-balance sheet activities on financial health
+  and algorithmic trading Learn types examples and regulations shaping modern financial
+  landscapes
+title: 'Off-Balance Sheet Activities: Types and Examples (Algo Trading)'
 ---
 
 In today's complex financial landscape, off-balance sheet (OBS) activities play a critical role in financial reporting and strategic management. These activities allow firms to present a financial position that might not fully reflect their economic obligations or resources. OBS activities can significantly influence financial metrics, such as debt-to-equity ratios, by keeping certain liabilities or assets outside the traditional balance sheet, thereby affecting a company's transaction capabilities and perceived financial health.

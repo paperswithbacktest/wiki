@@ -1,6 +1,8 @@
 ---
-title: "Infrastructure Trust: Definition and Mechanisms (Algo Trading)"
-description: "Discover how algorithmic trading and infrastructure trusts are transforming investments with new opportunities and challenges in global financial markets."
+category: quant_concept
+description: Discover how algorithmic trading and infrastructure trusts are transforming
+  investments with new opportunities and challenges in global financial markets.
+title: 'Infrastructure Trust: Definition and Mechanisms (Algo Trading)'
 ---
 
 The financial markets have undergone significant transformation with the integration of advanced technology, playing pivotal roles in reshaping investment mechanisms. Two essential components at the forefront of this evolution are algorithmic trading and infrastructure trusts. These components not only redefine how investments are conducted but also present a complex interplay that offers novel opportunities and challenges to investors globally.

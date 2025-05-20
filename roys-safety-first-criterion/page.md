@@ -1,6 +1,9 @@
 ---
-title: "Roy's Safety-First Criterion (Algo Trading)"
-description: "Discover Roy's Safety-First Criterion for effective risk management in algorithmic trading Stay ahead in volatile markets by prioritizing safety and stable returns"
+category: quant_concept
+description: Discover Roy's Safety-First Criterion for effective risk management in
+  algorithmic trading Stay ahead in volatile markets by prioritizing safety and stable
+  returns
+title: Roy's Safety-First Criterion (Algo Trading)
 ---
 
 In the complex world of investment and trading, effective risk management is crucial for achieving stable and sustainable returns. A pivotal strategy in managing investment risk is Roy's Safety-First Criterion, commonly known as the Safety-First Ratio (SFRatio). This criterion offers a structured approach to risk management by focusing on maintaining a minimum return threshold for investments, an aspect that is particularly beneficial in algorithmic trading environments where precision and reliability are paramount.

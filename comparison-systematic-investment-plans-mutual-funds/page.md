@@ -1,6 +1,9 @@
 ---
-title: "Comparison of Systematic Investment Plans and Mutual Funds (Algo Trading)"
-description: "Learn about Systematic Investment Plans (SIPs), Mutual Funds, and Algo Trading with this comprehensive comparison designed to guide informed investment decisions."
+category: trading_strategy
+description: Learn about Systematic Investment Plans (SIPs), Mutual Funds, and Algo
+  Trading with this comprehensive comparison designed to guide informed investment
+  decisions.
+title: Comparison of Systematic Investment Plans and Mutual Funds (Algo Trading)
 ---
 
 Investing can indeed appear overwhelming due to the numerous choices available, each with its own set of complexities and benefits. This article addresses this challenge by providing insights into three prominent investment options: Systematic Investment Plans (SIPs), Mutual Funds, and Algorithmic Trading (Algo Trading). These investment avenues offer distinct advantages and can be personalized to suit diverse financial objectives. 

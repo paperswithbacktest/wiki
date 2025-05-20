@@ -1,6 +1,8 @@
 ---
-title: "Dual Currency Deposits (Algo Trading)"
-description: "Explore dual currency and foreign exchange deposits offering high returns with exposure to currency fluctuations and benefits from algorithmic trading advancements."
+category: trading_strategy
+description: Explore dual currency and foreign exchange deposits offering high returns
+  with exposure to currency fluctuations and benefits from algorithmic trading advancements.
+title: Dual Currency Deposits (Algo Trading)
 ---
 
 In today’s global financial landscape, investors are constantly seeking innovative ways to enhance returns while managing risks. Among the myriad of investment strategies available, dual currency deposits (DCDs) and foreign exchange deposits stand out as compelling options for those interested in currency investment. 

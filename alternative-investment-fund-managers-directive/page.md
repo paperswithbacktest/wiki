@@ -1,6 +1,8 @@
 ---
-title: "Alternative Investment Fund Managers Directive (Algo Trading)"
-description: "Explore the regulatory landscape of AIFMD and its impact on algorithmic trading in alternative investment funds ensuring market integrity and investor protection."
+category: quant_concept
+description: Explore the regulatory landscape of AIFMD and its impact on algorithmic
+  trading in alternative investment funds ensuring market integrity and investor protection.
+title: Alternative Investment Fund Managers Directive (Algo Trading)
 ---
 
 The Alternative Investment Fund Managers Directive (AIFMD) holds a pivotal role in the regulation of alternative investment funds (AIFs), serving as a cornerstone for financial stability and investor protection within the European Union. AIFs, distinct from traditional mutual funds, encompass a broad range of investment vehicles, including hedge funds, private equity funds, and real estate funds. Their significance has been steadily growing in global markets, driven by their ability to offer diversified investment opportunities and potentially higher returns. This rise in prominence underscores the necessity for a robust regulatory framework to safeguard market integrity and protect investors.

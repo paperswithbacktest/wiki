@@ -1,6 +1,8 @@
 ---
-title: "Types of Costs in Cost Accounting (Algo Trading)"
-description: "Explore the diverse types of costs in cost accounting, emphasizing their significance in algorithmic trading. Enhance strategic decisions and maximize profitability."
+category: quant_concept
+description: Explore the diverse types of costs in cost accounting, emphasizing their
+  significance in algorithmic trading. Enhance strategic decisions and maximize profitability.
+title: Types of Costs in Cost Accounting (Algo Trading)
 ---
 
 Cost accounting plays a pivotal role in the business environment by enabling organizations to meticulously track and analyze production costs. This analytical process allows companies to understand the financial intricacies of their operations, ensuring each stage of production is optimized for cost efficiency. In doing so, businesses can enhance their competitive edge by identifying cost-saving opportunities and making informed strategic decisions.

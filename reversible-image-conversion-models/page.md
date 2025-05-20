@@ -1,7 +1,8 @@
 ---
-title: Reversible Image Conversion Models for Data Security and Imaging
+category: quant_concept
 description: Reversible Image Conversion Models enable secure transformations efficiently
   and preserve details for medical imaging and data privacy Discover more inside
+title: Reversible Image Conversion Models for Data Security and Imaging
 ---
 
 ![Image](images/1.gif)

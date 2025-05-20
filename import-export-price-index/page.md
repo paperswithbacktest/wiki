@@ -1,6 +1,9 @@
 ---
-title: "Import and Export Price Index (Algo Trading)"
-description: "Explore the role of import and export price indexes in algo trading and global economics helping businesses strategize, manage risks, and optimize trading efficiency."
+category: dataset
+description: Explore the role of import and export price indexes in algo trading and
+  global economics helping businesses strategize, manage risks, and optimize trading
+  efficiency.
+title: Import and Export Price Index (Algo Trading)
 ---
 
 The global market is influenced by a variety of price indexes that significantly impact trading activities. Among these, import and export price indexes hold particular importance for businesses engaged in international trade. These indexes provide crucial insights into the price trends of goods and services traded across borders, offering a window into global demand and supply dynamics. 

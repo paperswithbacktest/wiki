@@ -1,6 +1,8 @@
 ---
-title: "Passive ETF: Overview and Functionality (Algo Trading)"
-description: "Explore how passive ETFs and algorithmic trading can optimize investment strategies by enhancing liquidity reducing costs and improving returns effectively."
+category: quant_concept
+description: Explore how passive ETFs and algorithmic trading can optimize investment
+  strategies by enhancing liquidity reducing costs and improving returns effectively.
+title: 'Passive ETF: Overview and Functionality (Algo Trading)'
 ---
 
 Exchange-traded funds (ETFs) have fundamentally transformed the investment landscape by offering a flexible and diversified mechanism to invest in a wide range of asset classes. Unlike traditional mutual funds, ETFs are traded on stock exchanges, similar to individual stocks, which significantly enhances their liquidity and accessibility. This characteristic allows investors to enter and exit positions more efficiently, promoting a more agile investment strategy suitable for various market conditions. 

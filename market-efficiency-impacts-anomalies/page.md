@@ -1,6 +1,8 @@
 ---
-title: "Market Efficiency: Impacts and Anomalies (Algo Trading)"
-description: "Explore how algorithmic trading leverages market anomalies to enhance efficiency and return potential in financial markets through advanced strategies."
+category: quant_concept
+description: Explore how algorithmic trading leverages market anomalies to enhance
+  efficiency and return potential in financial markets through advanced strategies.
+title: 'Market Efficiency: Impacts and Anomalies (Algo Trading)'
 ---
 
 Financial markets are complex systems where assets are traded, influenced by myriad factors including economic indicators, investor behavior, and institutional policies. The Efficient Market Hypothesis (EMH) suggests that financial markets fully reflect all available information at any given time, thereby making it impossible to consistently achieve returns in excess of average market returns on a risk-adjusted basis. This hypothesis underscores three forms of market efficiency: strong, semi-strong, and weak, each with varying degrees of information reflection in asset prices.

@@ -1,6 +1,12 @@
 ---
-title: "Comparison of Physical Gold and Gold ETFs for Affordable Investment (Algo Trading)"
-description: "This article explores the distinctions between physical gold and gold ETFs as investment options, discusses the advantages and disadvantages of each, and highlights the growing importance of algorithmic trading in gold ETFs. Whether you seek direct ownership of tangible assets or prefer the liquidity and reduced costs of ETFs, this guide aims to help you make informed investment decisions that align with your financial goals and risk tolerance."
+category: trading_strategy
+description: This article explores the distinctions between physical gold and gold
+  ETFs as investment options, discusses the advantages and disadvantages of each,
+  and highlights the growing importance of algorithmic trading in gold ETFs. Whether
+  you seek direct ownership of tangible assets or prefer the liquidity and reduced
+  costs of ETFs, this guide aims to help you make informed investment decisions that
+  align with your financial goals and risk tolerance.
+title: Comparison of Physical Gold and Gold ETFs for Affordable Investment (Algo Trading)
 ---
 
 Gold has served as a reliable store of value and a financial safety net for centuries, widely recognized for its stability during times of economic uncertainty. Its enduring appeal as an investment can be attributed to its intrinsic value and limited availability. In today's diverse financial landscape, investors can approach gold investment through various channels, primarily physical gold and gold Exchange Traded Funds (ETFs). 

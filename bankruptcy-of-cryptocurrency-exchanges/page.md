@@ -1,6 +1,9 @@
 ---
-title: "Bankruptcy of Cryptocurrency Exchanges (Algo Trading)"
-description: "Discover the complexities of cryptocurrency exchange insolvencies and the role of algorithmic trading in these dynamics Learn about risks and regulatory challenges"
+category: quant_concept
+description: Discover the complexities of cryptocurrency exchange insolvencies and
+  the role of algorithmic trading in these dynamics Learn about risks and regulatory
+  challenges
+title: Bankruptcy of Cryptocurrency Exchanges (Algo Trading)
 ---
 
 Cryptocurrency exchanges have emerged as pivotal components in the financial technology landscape, providing platforms for the trading and management of digital assets. These exchanges facilitate transactions involving a wide variety of cryptocurrencies, each with unique attributes and market dynamics. However, along with the opportunities they offer, these platforms are fraught with significant risks and complexities.

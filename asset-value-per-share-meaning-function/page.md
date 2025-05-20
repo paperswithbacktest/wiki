@@ -1,6 +1,8 @@
 ---
-title: "Asset Value Per Share: Meaning and Function (Algo Trading)"
-description: "Explore the significance of asset value per share and its role in investment analysis Discover how metrics like NAV and TBVPS guide strategic financial decisions"
+category: quant_concept
+description: Explore the significance of asset value per share and its role in investment
+  analysis Discover how metrics like NAV and TBVPS guide strategic financial decisions
+title: 'Asset Value Per Share: Meaning and Function (Algo Trading)'
 ---
 
 The interconnected world of finance has evolved dramatically, driven by globalization, technological advancements, and regulatory changes. Within this complex ecosystem, financial metrics play a pivotal role in guiding investment decisions. These metrics provide investors with insights into a company's financial health, performance, and valuation, acting as a compass for navigating the intricate waters of financial markets.
@@ -296,4 +298,3 @@ Other essential readings for deeper understanding include market analysis report
 Recommended [books](/wiki/algo-trading-books) and online resources for beginners and professionals:
 - Bernstein, P. L. (1993). *Capital Ideas: The Improbable Origins of Modern Wall Street*. An introduction to the evolution of financial theories and their application.
 - [Coursera: Financial Markets](https://www.coursera.org/learn/financial-markets): An online course that covers basic principles of finance and quantitative trading techniques suitable for both beginners and seasoned professionals.
-

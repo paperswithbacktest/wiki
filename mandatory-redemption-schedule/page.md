@@ -1,6 +1,8 @@
 ---
-title: "Mandatory Redemption Schedule (Algo Trading)"
-description: "Learn about mandatory redemption schedules in bond markets their role in mitigating default risks and their influence on algorithmic trading strategies."
+category: quant_concept
+description: Learn about mandatory redemption schedules in bond markets their role
+  in mitigating default risks and their influence on algorithmic trading strategies.
+title: Mandatory Redemption Schedule (Algo Trading)
 ---
 
 The world of finance is immersed in a sea of complex terminologies and intricate processes that can often present challenges to those who are not well-versed in the field. Among the diverse concepts circulating within financial markets, the term "mandatory redemption schedule" stands out as one that regularly attracts attention from participants in the bond markets. 

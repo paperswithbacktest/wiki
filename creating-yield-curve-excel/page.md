@@ -1,6 +1,8 @@
 ---
-title: "Creating a Yield Curve in Excel (Algo Trading)"
-description: "Master Excel to create and analyze yield curves for algorithmic trading Discover financial modeling techniques to boost your trading accuracy and insights"
+category: quant_concept
+description: Master Excel to create and analyze yield curves for algorithmic trading
+  Discover financial modeling techniques to boost your trading accuracy and insights
+title: Creating a Yield Curve in Excel (Algo Trading)
 ---
 
 In the ever-evolving world of finance, mastering tools and strategies can give traders and analysts a significant edge in the market. Financial modeling, Excel, yield curves, and algorithmic trading are fundamental concepts that intertwine to support informed investment decisions. Each plays a critical role in navigating the complexities of markets and optimizing financial performance.

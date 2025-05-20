@@ -1,6 +1,9 @@
 ---
-title: "Inevitability of Economic Recessions (Algo Trading)"
-description: "Explore the inevitability of economic recessions and the role of algorithmic trading in economic cycles, examining their impact on stability and potential mitigation strategies."
+category: quant_concept
+description: Explore the inevitability of economic recessions and the role of algorithmic
+  trading in economic cycles, examining their impact on stability and potential mitigation
+  strategies.
+title: Inevitability of Economic Recessions (Algo Trading)
 ---
 
 Economic recessions are periods marked by negative economic growth, increasing unemployment rates, and a decline in consumer demand. These downturns significantly impact both individuals and businesses, leading to debates among economists regarding whether recessions are an intrinsic aspect of economic cycles, particularly within capitalist economies. Capitalist economies often follow a cyclical pattern of growth and contraction, suggesting that recessions could be inevitable outcomes of these cycles.

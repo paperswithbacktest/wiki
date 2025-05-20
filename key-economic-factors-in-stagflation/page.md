@@ -1,6 +1,8 @@
 ---
-title: "Key Economic Factors in Stagflation (Algo Trading)"
-description: "Explore the key economic factors in stagflation and algorithmic trading Learn how inflation and stagflation impact markets and the role of trading technologies"
+category: quant_concept
+description: Explore the key economic factors in stagflation and algorithmic trading
+  Learn how inflation and stagflation impact markets and the role of trading technologies
+title: Key Economic Factors in Stagflation (Algo Trading)
 ---
 
 The economic concepts of inflation, stagflation, and algorithmic trading form the bedrock of contemporary financial systems. In an era where global economies are intricately linked, understanding these elements is crucial for navigating economic landscapes. Inflation, often defined as the sustained increase in the general price level of goods and services, directly impacts purchasing power and economic stability. Stagflation, a more complex phenomenon, challenges traditional economic theories by combining stagnant economic growth with high inflation and unemployment rates. These concepts underscore the necessity of robust economic strategies to address unpredictable market conditions.

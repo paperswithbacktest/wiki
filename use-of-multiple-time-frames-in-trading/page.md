@@ -1,6 +1,12 @@
 ---
-title: "Use of Multiple Time Frames in Trading (Algo Trading)"
-description: "Leverage the power of multiple time frames in trading to gain a competitive edge by analyzing both long-term trends and short-term market movements. This approach enhances strategic decision-making, allowing traders to refine entry and exit points using technical analysis and algorithmic trading. Discover how integrating these methods can improve profitability by adapting to dynamic market conditions and streamlining processes through automation."
+category: trading_strategy
+description: Leverage the power of multiple time frames in trading to gain a competitive
+  edge by analyzing both long-term trends and short-term market movements. This approach
+  enhances strategic decision-making, allowing traders to refine entry and exit points
+  using technical analysis and algorithmic trading. Discover how integrating these
+  methods can improve profitability by adapting to dynamic market conditions and streamlining
+  processes through automation.
+title: Use of Multiple Time Frames in Trading (Algo Trading)
 ---
 
 In the fast-evolving world of trading, leveraging the power of both technical analysis and algorithmic trading across multiple time frames has become crucial for securing a competitive edge. Multiple time frame analysis provides traders with a comprehensive perspective by evaluating market movements over various time scales. This method allows traders to perceive broad trends alongside immediate market conditions, enhancing the accuracy of their strategic decisions.

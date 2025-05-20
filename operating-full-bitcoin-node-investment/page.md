@@ -1,6 +1,8 @@
 ---
-title: "Operating a Full Bitcoin Node for Investment Purposes (Algo Trading)"
-description: "Explore how operating a full Bitcoin node can enhance investment strategies through algorithmic trading and support the decentralized finance ecosystem."
+category: trading_strategy
+description: Explore how operating a full Bitcoin node can enhance investment strategies
+  through algorithmic trading and support the decentralized finance ecosystem.
+title: Operating a Full Bitcoin Node for Investment Purposes (Algo Trading)
 ---
 
 In the evolving world of finance, cryptocurrency has emerged as a revolutionary force, disrupting traditional banking systems and investment paradigms. At the forefront of this digital currency movement is Bitcoin, which has not only pioneered the concept of decentralized money but also laid the foundation for the proliferation of thousands of alternative cryptocurrencies. As of its inception, Bitcoin has provided a novel approach to how financial transactions can be conducted securely and transparently, without the need for intermediaries.

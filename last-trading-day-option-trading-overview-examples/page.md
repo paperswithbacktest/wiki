@@ -1,6 +1,9 @@
 ---
-title: "Last Trading Day in Option Trading: Overview and Examples (Algo Trading)"
-description: "Explore the significance of the last trading day in options trading, highlighting the impact of volatility and the strategic benefits of algorithmic trading."
+category: quant_concept
+description: Explore the significance of the last trading day in options trading,
+  highlighting the impact of volatility and the strategic benefits of algorithmic
+  trading.
+title: 'Last Trading Day in Option Trading: Overview and Examples (Algo Trading)'
 ---
 
 The last trading day in financial markets offers a unique and intensified setting that commands the attention of traders worldwide, particularly those engaged in options and algorithmic trading. This critical day marks the expiration of various derivative contracts, manifesting increased volatility and trading activity as participants finalize their positions.

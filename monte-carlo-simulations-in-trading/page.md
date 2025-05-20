@@ -1,6 +1,8 @@
 ---
-title: "Monte Carlo simulations in trading (Algo Trading)"
-description: "Explore the role of Monte Carlo simulations in algorithmic trading to assess risk and enhance strategy performance by modeling diverse market scenarios."
+category: quant_concept
+description: Explore the role of Monte Carlo simulations in algorithmic trading to
+  assess risk and enhance strategy performance by modeling diverse market scenarios.
+title: Monte Carlo simulations in trading (Algo Trading)
 ---
 
 Monte Carlo simulations have become a cornerstone in algorithmic trading, providing traders with a statistical framework to evaluate and refine their strategies. These simulations employ random sampling techniques to model and analyze the behavior of financial markets, allowing traders to assess risk and performance effectively. Through simulating a multitude of possible market scenarios, traders can gain insights into potential outcomes of their trading strategies, helping them make data-driven decisions.

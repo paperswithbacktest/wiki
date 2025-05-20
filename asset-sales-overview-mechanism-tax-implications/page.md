@@ -1,6 +1,8 @@
 ---
-title: "Asset Sales: Overview, Mechanism, and Tax Implications (Algo Trading)"
-description: "Explore the mechanics of asset sales and their tax implications, including how algorithmic trading optimizes these transactions for both buyers and sellers."
+category: quant_concept
+description: Explore the mechanics of asset sales and their tax implications, including
+  how algorithmic trading optimizes these transactions for both buyers and sellers.
+title: 'Asset Sales: Overview, Mechanism, and Tax Implications (Algo Trading)'
 ---
 
 In an era where financial transactions underpin business operations, understanding how asset sales work and their tax implications is crucial for both buyers and sellers. Asset sales are a fundamental component of many business strategies, serving purposes such as raising capital, restructuring, or divesting non-core components. These transactions involve the transfer of ownership of various assets, and are distinct from stock sales, where entire business entities are transferred.

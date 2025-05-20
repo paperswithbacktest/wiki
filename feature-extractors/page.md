@@ -1,7 +1,8 @@
 ---
-title: Advanced Feature Extraction Techniques in Machine Learning
+category: quant_concept
 description: Feature Extraction uses advanced pyramid networks to transform raw images
   into multiscale feature maps for precise object detection Discover more inside
+title: Advanced Feature Extraction Techniques in Machine Learning
 ---
 
 ![Image](images/1.png)

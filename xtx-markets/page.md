@@ -1,6 +1,14 @@
 ---
-title: "XTX Markets (Algo Trading)"
-description: XTX Markets is a prominent algorithmic trading firm based in London, known for its advanced market-making and liquidity services. Founded in 2015 by Alexander Gerko, it has become a key player in financial markets by using sophisticated algorithms and machine learning. XTX operates globally, offering liquidity across equities, forex, commodities, and fixed income. It quickly rose to be a top foreign exchange market provider and has expanded its reach to the U.S. and Singapore. With a focus on technological innovation and social responsibility, XTX is a leader in the financial industry.
+category: quant_concept
+description: XTX Markets is a prominent algorithmic trading firm based in London,
+  known for its advanced market-making and liquidity services. Founded in 2015 by
+  Alexander Gerko, it has become a key player in financial markets by using sophisticated
+  algorithms and machine learning. XTX operates globally, offering liquidity across
+  equities, forex, commodities, and fixed income. It quickly rose to be a top foreign
+  exchange market provider and has expanded its reach to the U.S. and Singapore. With
+  a focus on technological innovation and social responsibility, XTX is a leader in
+  the financial industry.
+title: XTX Markets (Algo Trading)
 ---
 
 XTX Markets Limited is a leading algorithmic trading firm, headquartered in London, renowned for its sophisticated approach to market making and liquidity provision. Since its inception in January 2015 by Alexander Gerko, XTX Markets has swiftly carved out a prominent position within the financial markets. The company's strengths lie in its ability to deploy advanced algorithms and machine learning techniques to efficiently trade across various financial venues. As an electronic liquidity provider, XTX Markets operates globally, optimizing trading strategies to capitalize on market inefficiencies. This strategic prowess enables the firm to remain at the forefront of the competitive algorithmic trading industry.

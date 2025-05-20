@@ -1,6 +1,9 @@
 ---
-title: "Fixed-Rule Policy: Overview, Types, Advantages, and Disadvantages (Algo Trading)"
-description: "Discover the key aspects of fixed-rule policies in algorithmic trading explore their application types and understand the advantages and challenges they present."
+category: trading_strategy
+description: Discover the key aspects of fixed-rule policies in algorithmic trading
+  explore their application types and understand the advantages and challenges they
+  present.
+title: 'Fixed-Rule Policy: Overview, Types, Advantages, and Disadvantages (Algo Trading)'
 ---
 
 Algorithmic trading, commonly known as algo trading, has experienced significant growth and transformation in recent years. This popularity surge is primarily attributed to the precision and efficiency it brings to the financial markets. At its core, algorithmic trading involves using computer programs to execute trades at speeds and frequencies impossible for human traders. One of the pivotal components of these systems is the use of fixed-rule policies. These are predefined criteria embedded within trading algorithms, which automate decision-making processes and eliminate human interventions that could introduce bias or inconsistency.

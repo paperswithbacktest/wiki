@@ -1,6 +1,9 @@
 ---
-title: "Dollar Bear (Algo Trading)"
-description: "Explore dynamic currency markets with insights into the potential bear phase for the US dollar Learn how algorithmic trading can empower traders amidst uncertainties"
+category: trading_strategy
+description: Explore dynamic currency markets with insights into the potential bear
+  phase for the US dollar Learn how algorithmic trading can empower traders amidst
+  uncertainties
+title: Dollar Bear (Algo Trading)
 ---
 
 The currency market is highly dynamic, with currency values constantly shifting due to a wide range of influences, including economic indicators, political events, and market sentiment. Among the global currencies, the US dollar has long been a dominant force, serving as a benchmark for international trade and finance. Its strength has often been seen as a reflection of the United States' economic health and geopolitical influence. However, there are indicators suggesting that the US dollar may be facing a prolonged period of depreciation, signaling a potential bear market. 

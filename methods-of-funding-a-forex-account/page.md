@@ -1,6 +1,8 @@
 ---
-title: "Methods of Funding a Forex Account (Algo Trading)"
-description: "Explore secure and efficient methods to fund your forex account. Learn about wire transfers, credit cards, e-wallets, and cryptocurrencies to enhance trading."
+category: trading_strategy
+description: Explore secure and efficient methods to fund your forex account. Learn
+  about wire transfers, credit cards, e-wallets, and cryptocurrencies to enhance trading.
+title: Methods of Funding a Forex Account (Algo Trading)
 ---
 
 The forex market, commonly known as FX, is a vibrant platform where currencies from around the globe are traded continuously. Representing the largest financial market in the world, forex trades amount to trillions of dollars each day. This constant exchange is driven by various factors, including international trade, investments, and geopolitical events that influence currency values.

@@ -1,6 +1,15 @@
 ---
-title: "Capital Loss (Algo Trading)"
-description: "Explore the intricate dynamics of capital gains and losses in today's financial landscape, essential for informed investment strategies and tax implications. This comprehensive guide investigates into the role of algorithmic trading in modern markets, offering insights into optimizing trading strategies and enhancing portfolio performance through advanced technology. Learn about effective risk management, tax-loss harvesting, and the benefits of integrating AI into trading, empowering investors to make smarter decisions and achieve superior investment outcomes. Stay competitive by mastering these critical concepts and utilizing cutting-edge tools for financial success."
+category: quant_concept
+description: Explore the intricate dynamics of capital gains and losses in today's
+  financial landscape, essential for informed investment strategies and tax implications.
+  This comprehensive guide investigates into the role of algorithmic trading in modern
+  markets, offering insights into optimizing trading strategies and enhancing portfolio
+  performance through advanced technology. Learn about effective risk management,
+  tax-loss harvesting, and the benefits of integrating AI into trading, empowering
+  investors to make smarter decisions and achieve superior investment outcomes. Stay
+  competitive by mastering these critical concepts and utilizing cutting-edge tools
+  for financial success.
+title: Capital Loss (Algo Trading)
 ---
 
 In today's financial market landscape, understanding capital gains and losses is crucial for every investor. These concepts not only affect the profitability of investments but also have significant tax implications. Capital gains refer to the profit realized when an asset is sold for more than its purchase price, whereas capital losses occur when an asset is sold for less than its purchase price. Investors must consider these components to strategically manage their portfolios and optimize their returns over time.

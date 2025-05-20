@@ -1,6 +1,9 @@
 ---
-title: "Overview of the Cannabis Industry (Algo Trading)"
-description: "Explore the merger of the cannabis industry and algorithmic trading underscoring growth potential through innovation in volatile markets fostering new investment avenues."
+category: trading_strategy
+description: Explore the merger of the cannabis industry and algorithmic trading underscoring
+  growth potential through innovation in volatile markets fostering new investment
+  avenues.
+title: Overview of the Cannabis Industry (Algo Trading)
 ---
 
 The cannabis industry, once stigmatized and strictly regulated, is now witnessing unprecedented growth as legislative frameworks shift towards legalization and societal acceptance increases. This transformation is not limited to traditional markets; it invites a convergence with technological advancements reshaping numerous industries. One such evolution is the application of algorithmic trading in financial markets, which utilizes sophisticated computer programs to execute trades at optimal prices and speeds. The intersection of these two dynamic fields—cannabis and algorithmic trading—presents unique opportunities and challenges for investors and stakeholders.

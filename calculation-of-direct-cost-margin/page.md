@@ -1,6 +1,8 @@
 ---
-title: "Calculation of Direct Cost Margin (Algo Trading)"
-description: "Explore the calculation of direct cost margin in algorithmic trading. Learn how understanding direct costs enhances trading strategies and boosts profitability."
+category: quant_concept
+description: Explore the calculation of direct cost margin in algorithmic trading.
+  Learn how understanding direct costs enhances trading strategies and boosts profitability.
+title: Calculation of Direct Cost Margin (Algo Trading)
 ---
 
 Cost accounting plays a pivotal role in financial analysis and decision-making by providing detailed insights into the costs associated with a company's operations. It allows businesses to evaluate their financial performance, streamline their operations, and make informed strategic decisions. One of the critical components of cost accounting is the analysis of direct costs, which are expenses that can be directly attributed to the production of goods or services. Understanding these costs is essential for determining a company's profitability margin.

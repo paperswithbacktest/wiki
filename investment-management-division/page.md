@@ -1,6 +1,8 @@
 ---
-title: "Investment Management Division (Algo Trading)"
-description: "Explore algorithmic trading within investment management and asset management divisions Learn how technology transforms strategies for efficient investment solutions"
+category: trading_strategy
+description: Explore algorithmic trading within investment management and asset management
+  divisions Learn how technology transforms strategies for efficient investment solutions
+title: Investment Management Division (Algo Trading)
 ---
 
 The financial world is an ever-evolving landscape, driven significantly by technological advancements. Among the notable areas undergoing substantial transformation are asset management and investment management. These sectors have seen a paradigm shift with the introduction and growth of algorithmic trading, which has revolutionized operations and investment strategies.

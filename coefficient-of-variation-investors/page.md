@@ -1,6 +1,9 @@
 ---
-title: "Coefficient of Variation and Its Importance to Investors (Algo Trading)"
-description: "Discover how the Coefficient of Variation aids investors by evaluating risk-adjusted returns, enhancing investment analysis, and optimizing algorithmic trading strategies."
+category: quant_concept
+description: Discover how the Coefficient of Variation aids investors by evaluating
+  risk-adjusted returns, enhancing investment analysis, and optimizing algorithmic
+  trading strategies.
+title: Coefficient of Variation and Its Importance to Investors (Algo Trading)
 ---
 
 Investment analysis employs a multitude of metrics to evaluate the efficiency and risk of potential investment opportunities. Among these, the Coefficient of Variation (COV) stands out for its significance in finance. The COV is a valuable measure that assists investors in understanding the relationship between risk and expected return, allowing for more informed decision-making.

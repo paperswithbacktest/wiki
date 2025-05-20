@@ -1,10 +1,9 @@
 ---
-title: Understanding Ranking Techniques in Machine Learning
+category: quant_concept
 description: Ranking in machine learning sorts items by relevance to enhance search
   and recommendations in real time driving user engagement Discover more inside
+title: Understanding Ranking Techniques in Machine Learning
 ---
-
-
 
 ## Table of Contents
 

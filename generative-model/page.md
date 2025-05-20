@@ -1,7 +1,8 @@
 ---
-title: Understanding Generative Models in Machine Learning
+category: quant_concept
 description: Generative models in machine learning generate realistic images, text
   and music by learning data patterns and distributions Discover more inside
+title: Understanding Generative Models in Machine Learning
 ---
 
 ![Image](images/1.png)

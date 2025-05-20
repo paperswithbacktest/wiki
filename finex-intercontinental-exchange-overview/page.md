@@ -1,6 +1,8 @@
 ---
-title: "Finex and Intercontinental Exchange: Overview and Functionality (Algo Trading)"
-description: "Explore the impact of algorithmic trading and Finex's role in advancing financial markets within ICE highlighting benefits like efficiency and market adaptability."
+category: quant_concept
+description: Explore the impact of algorithmic trading and Finex's role in advancing
+  financial markets within ICE highlighting benefits like efficiency and market adaptability.
+title: 'Finex and Intercontinental Exchange: Overview and Functionality (Algo Trading)'
 ---
 
 The financial markets have experienced profound changes with the rise of technology, most notably through the advent of algorithmic trading. This method has revolutionized the way trading is conducted, facilitating increased speed, efficiency, and precision in executing transactions. Finex, now a crucial component of the Intercontinental Exchange (ICE), has played a significant role in the evolution of financial instruments and currency product trading. By integrating within ICE, Finex has contributed to the modern trading landscape governed by complex algorithms.

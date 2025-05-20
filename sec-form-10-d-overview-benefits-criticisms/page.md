@@ -1,6 +1,9 @@
 ---
-title: "SEC Form 10-D: Overview, Benefits, and Criticisms (Algo Trading)"
-description: "SEC Form 10-D is critical for transparency in asset-backed securities reporting essential for investor confidence and regulatory compliance in algorithmic trading."
+category: dataset
+description: SEC Form 10-D is critical for transparency in asset-backed securities
+  reporting essential for investor confidence and regulatory compliance in algorithmic
+  trading.
+title: 'SEC Form 10-D: Overview, Benefits, and Criticisms (Algo Trading)'
 ---
 
 The Securities and Exchange Commission (SEC) Form 10-D plays a critical role in financial reporting and regulatory compliance, particularly in asset-backed securities (ABS). As the Asset-Backed Issuer Distribution Report, Form 10-D is a key mechanism for delivering transparent, timely, and detailed information about distributions and the status of asset-level information associated with securities. This transparency is vital for investors who rely on accurate data to make informed decisions and for regulators who need to ensure the integrity of the financial markets.

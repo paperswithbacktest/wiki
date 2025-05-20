@@ -1,6 +1,8 @@
 ---
-title: "Gold Standard: Mechanism and Example (Algo Trading)"
-description: "Explore the evolution of monetary systems from the gold standard to fiat currency and algorithmic trading Learn how these impact modern finance and economics"
+category: quant_concept
+description: Explore the evolution of monetary systems from the gold standard to fiat
+  currency and algorithmic trading Learn how these impact modern finance and economics
+title: 'Gold Standard: Mechanism and Example (Algo Trading)'
 ---
 
 The monetary system has undergone profound transformations over the centuries, shaping the economic landscape across the globe. Initially, economies relied on bartering before evolving into systems characterized by the gold standard and fiat currency. This article examines how these economic frameworks and the advent of algorithmic trading influence contemporary financial systems.
@@ -92,4 +94,3 @@ Hendershott, T., & Riordan, R. (2011). "Algorithmic Trading and Information." Th
 Investopedia articles on "The Gold Standard", "Fiat Money", and "Algorithmic Trading". These articles provide an accessible introduction to key concepts in monetary systems and modern trading techniques. They are useful for understanding the basics and gaining foundational knowledge. Visit [Investopedia](https://www.investopedia.com).
 
 Philadelphia Fed Research in Focus: "Lessons Learned from the Gold Standard: Implications for Inflation, Output, and the Money Supply". This publication explores the historical lessons of the gold standard and their implications for current economic policies, particularly with respect to managing inflation and monetary supply dynamics. Accessible at: [Philadelphia Fed](https://www.philadelphiafed.org/research-and-data/publications/research-in-focus/).
-

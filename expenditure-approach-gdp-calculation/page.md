@@ -1,6 +1,9 @@
 ---
-title: "Expenditure Approach to GDP Calculation (Algo Trading)"
-description: "Explore how the expenditure approach calculates GDP by analyzing consumer spending, government expenditure, investments, and net exports, crucial for economic insights."
+category: quant_concept
+description: Explore how the expenditure approach calculates GDP by analyzing consumer
+  spending, government expenditure, investments, and net exports, crucial for economic
+  insights.
+title: Expenditure Approach to GDP Calculation (Algo Trading)
 ---
 
 Gross Domestic Product (GDP) stands as a fundamental economic indicator, widely used to gauge the size and health of an economy. Its significance extends to various stakeholders, including policymakers, economists, and investors, who rely on it to assess economic performance and guide decision-making processes. GDP essentially measures the total monetary value of all finished goods and services produced within a country's borders over a specific period, usually annually or quarterly.

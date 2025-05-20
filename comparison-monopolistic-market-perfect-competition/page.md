@@ -1,6 +1,8 @@
 ---
-title: "Comparison of Monopolistic Market and Perfect Competition (Algo Trading)"
-description: "Explore how monopolistic markets and perfect competition differ, focusing on their impact on pricing, competition, and the role of algorithmic trading."
+category: quant_concept
+description: Explore how monopolistic markets and perfect competition differ, focusing
+  on their impact on pricing, competition, and the role of algorithmic trading.
+title: Comparison of Monopolistic Market and Perfect Competition (Algo Trading)
 ---
 
 Understanding the landscape of market structures is essential for grasping how economies function. Market structures significantly influence how businesses operate, how prices are determined, and how resources are allocated. Two primary types of market structures often discussed in economic theory are monopolistic markets and perfect competition. Each represents a different mechanism of market operation with its own set of characteristics, advantages, and challenges.

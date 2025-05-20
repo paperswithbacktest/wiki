@@ -1,6 +1,9 @@
 ---
-title: "Personal Income and Outlays (Algo Trading)"
-description: "Explore how technology reshapes personal finance and investment through personal income, outlays, and algorithmic trading strategies for optimal financial management."
+category: quant_concept
+description: Explore how technology reshapes personal finance and investment through
+  personal income, outlays, and algorithmic trading strategies for optimal financial
+  management.
+title: Personal Income and Outlays (Algo Trading)
 ---
 
 In recent years, personal financial management has increasingly integrated technology-driven solutions, transforming how individuals handle their economic activities. Among the key concepts entwined with this evolution are outlays and personal income, each serving as fundamental pillars for establishing effective financial management. Personal income, which constitutes an individual's total earnings from various sources, and personal outlays, encompassing expenditure on goods and services, are vital metrics for assessing financial health and sustainability. Understanding these elements is essential for crafting strategies that align spending with income, fostering savings, and achieving financial goals.

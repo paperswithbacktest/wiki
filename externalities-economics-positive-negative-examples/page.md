@@ -1,6 +1,8 @@
 ---
-title: "Externalities in Economics: Positive and Negative Examples (Algo Trading)"
-description: "Discover the significance of externalities in economics and algorithmic trading including examples of positive and negative impacts on market dynamics."
+category: quant_concept
+description: Discover the significance of externalities in economics and algorithmic
+  trading including examples of positive and negative impacts on market dynamics.
+title: 'Externalities in Economics: Positive and Negative Examples (Algo Trading)'
 ---
 
 The concept of externalities is central to understanding market efficiencies and imperfections. In economics, externalities refer to costs or benefits experienced by a third party who did not choose to incur those costs or benefits. These externalities can be both positive and negative, influencing individuals and society in diverse ways.

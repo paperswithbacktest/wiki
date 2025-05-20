@@ -1,6 +1,9 @@
 ---
-title: "Meme Stocks As Investment Vehicles (Algo Trading)"
-description: "Explore the impact of meme stocks and algorithmic trading on modern investment strategies, blending traditional and innovative financial practices for informed decisions."
+category: trading_strategy
+description: Explore the impact of meme stocks and algorithmic trading on modern investment
+  strategies, blending traditional and innovative financial practices for informed
+  decisions.
+title: Meme Stocks As Investment Vehicles (Algo Trading)
 ---
 
 Understanding the financial markets has been a dynamic process influenced by an intricate mix of technological advancements and cultural shifts. Over time, stock market operations have been significantly transformed, particularly with the advent of digital technologies that have broadened access and understanding. Traditional investment strategies, which have long been the backbone of financial markets, are now intersecting with new trends, notably the rise of meme stocks and algorithmic trading.

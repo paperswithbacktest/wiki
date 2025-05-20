@@ -1,6 +1,8 @@
 ---
-title: "History and Future of Stellar Cryptocurrency (Algo Trading)"
-description: "Explore Stellar cryptocurrency's potential in digital finance and algorithmic trading with low fees, fast processing, and seamless cross-border capabilities."
+category: trading_strategy
+description: Explore Stellar cryptocurrency's potential in digital finance and algorithmic
+  trading with low fees, fast processing, and seamless cross-border capabilities.
+title: History and Future of Stellar Cryptocurrency (Algo Trading)
 ---
 
 In the fast-paced world of cryptocurrency, Stellar has established itself as a leading blockchain platform. It is renowned for enabling affordable and efficient cross-border transactions, which has made it popular among both financial institutions and individual users. Stellar's native currency, Lumens (XLM), plays a central role in this process by ensuring transaction integrity and security.

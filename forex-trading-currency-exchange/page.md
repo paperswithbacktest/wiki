@@ -1,6 +1,8 @@
 ---
-title: "Forex Trading and Currency Exchange (Algo Trading)"
-description: "Discover the transformative world of forex trading and currency exchange through algorithmic trading Explore how technology is reshaping financial markets"
+category: trading_strategy
+description: Discover the transformative world of forex trading and currency exchange
+  through algorithmic trading Explore how technology is reshaping financial markets
+title: Forex Trading and Currency Exchange (Algo Trading)
 ---
 
 The landscape of finance is undergoing rapid transformation, primarily propelled by technological advancements. At the forefront of this evolution is the Foreign Exchange Market (FX), which stands as one of the largest and most liquid global financial markets. Forex trading, deeply embedded within this dynamic environment, has witnessed significant changes, largely due to the advent of technology-driven methodologies like algorithmic trading. 

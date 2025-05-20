@@ -1,6 +1,8 @@
 ---
-title: "Discount Window: Usage and Purpose in Banking (Algo Trading)"
-description: "Explore the impact of the banking discount window and algorithmic trading on modern finance. Discover how these tools interplay in today's banking environment."
+category: quant_concept
+description: Explore the impact of the banking discount window and algorithmic trading
+  on modern finance. Discover how these tools interplay in today's banking environment.
+title: 'Discount Window: Usage and Purpose in Banking (Algo Trading)'
 ---
 
 The evolving landscape of financial services has been significantly impacted by innovations and practices like algorithmic trading and mechanisms such as the banking discount window. These elements are reshaping modern banking and trading environments, introducing new dynamics that require a deep understanding from stakeholders across the financial spectrum. 

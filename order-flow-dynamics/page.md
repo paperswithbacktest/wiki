@@ -1,6 +1,9 @@
 ---
-title: "Order Flow Dynamics (Algo Trading)"
-description: "Discover the power of order flow dynamics in algorithmic trading and enhance your market insights Gain an edge with real-time analysis of buy and sell orders"
+category: quant_concept
+description: Discover the power of order flow dynamics in algorithmic trading and
+  enhance your market insights Gain an edge with real-time analysis of buy and sell
+  orders
+title: Order Flow Dynamics (Algo Trading)
 ---
 
 Order Flow Dynamics in algorithmic trading is an emerging concept that offers a significant edge to traders wanting to understand market mechanics more deeply. The core idea revolves around analyzing the flow of buy and sell orders, which allows traders to gauge the supply and demand dynamics effectively. By understanding these dynamics, traders gain insights into the subtle forces driving price fluctuations and market trends.

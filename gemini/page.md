@@ -1,7 +1,8 @@
 ---
-title: Exploring Google Gemini Machine Learning Model Capabilities
+category: quant_concept
 description: Google Gemini multitask model handles text images and video for versatile
   AI applications with high accuracy and low latency Discover more inside
+title: Exploring Google Gemini Machine Learning Model Capabilities
 ---
 
 ![Image](images/1.jpeg)

@@ -1,6 +1,9 @@
 ---
-title: "Predictive Capabilities of the Bond Yield Curve (Algo Trading)"
-description: "Explore how bond yield curves influence economic forecasting and algorithmic trading with insights on interest rates and market conditions, enhancing investment strategies."
+category: quant_concept
+description: Explore how bond yield curves influence economic forecasting and algorithmic
+  trading with insights on interest rates and market conditions, enhancing investment
+  strategies.
+title: Predictive Capabilities of the Bond Yield Curve (Algo Trading)
 ---
 
 The relationship between bond yield curves and economic forecasting is essential for understanding financial markets. Yield curves, which graphically represent the varying interest rates of debt securities against their maturities, are indispensable tools for policymakers, investors, and economic analysts. These curves serve as essential financial indicators that provide insights into market expectations regarding future interest rates and economic conditions.

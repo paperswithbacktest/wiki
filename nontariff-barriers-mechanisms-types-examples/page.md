@@ -1,6 +1,9 @@
 ---
-title: "Nontariff Barriers: Mechanisms, Types, and Examples (Algo Trading)"
-description: "Explore the influence of non-tariff barriers on international trade and algorithmic trading Discover strategies to mitigate their impact and optimize market efficiency"
+category: quant_concept
+description: Explore the influence of non-tariff barriers on international trade and
+  algorithmic trading Discover strategies to mitigate their impact and optimize market
+  efficiency
+title: 'Nontariff Barriers: Mechanisms, Types, and Examples (Algo Trading)'
 ---
 
 In the intricate world of international trade, non-tariff barriers (NTBs) are increasingly shaping the trade landscape alongside algorithmic trading, a major force in financial markets. NTBs, often manifesting as quotas, embargoes, and licensing requirements, exert significant influence over the flow of goods between nations. This article explores the nature of non-tariff barriers, their various forms, and their implications for global trade dynamics. By limiting the flow of goods and services, NTBs create market inefficiencies and drive up consumer prices, potentially reducing available choices.

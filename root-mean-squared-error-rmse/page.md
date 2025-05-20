@@ -1,7 +1,8 @@
 ---
-title: Root Mean Squared Error RMSE Explained for Machine Learning
+category: quant_concept
 description: Root Mean Squared Error shows average prediction error in original units,
   and penalizes large mistakes for better model insight Discover more inside
+title: Root Mean Squared Error RMSE Explained for Machine Learning
 ---
 
 ![Image](images/1.png)

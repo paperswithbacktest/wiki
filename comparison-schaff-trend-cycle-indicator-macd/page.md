@@ -1,6 +1,9 @@
 ---
-title: "Comparison of Schaff Trend Cycle Indicator and MACD (Algo Trading)"
-description: "Explore the benefits of Schaff Trend Cycle and MACD indicators for algorithmic trading Learn how these tools optimize trading strategies through insights into market trends"
+category: trading_strategy
+description: Explore the benefits of Schaff Trend Cycle and MACD indicators for algorithmic
+  trading Learn how these tools optimize trading strategies through insights into
+  market trends
+title: Comparison of Schaff Trend Cycle Indicator and MACD (Algo Trading)
 ---
 
 The world of trading is a dynamic space filled with a variety of indicators designed to forecast potential market moves. Among these tools, the Moving Average Convergence Divergence (MACD) and the Schaff Trend Cycle (STC) are particularly noted for their effectiveness in technical analysis. These indicators serve as powerful methods for traders, offering valuable insights into market trends and reversals.

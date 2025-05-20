@@ -1,6 +1,8 @@
 ---
-title: "Clean Float: Mechanism and Limitations (Algo Trading)"
-description: "Explore the dynamics of clean float exchange rates in the currency market highlighting their advantages and limitations amid the rise of algorithmic trading."
+category: quant_concept
+description: Explore the dynamics of clean float exchange rates in the currency market
+  highlighting their advantages and limitations amid the rise of algorithmic trading.
+title: 'Clean Float: Mechanism and Limitations (Algo Trading)'
 ---
 
 The currency market is a dynamic financial arena where various exchange rate mechanisms define how currencies are valued across the globe. Among these mechanisms, the clean float stands out as a significant feature. A clean float, also known as a pure floating exchange rate, is determined entirely by the forces of supply and demand, devoid of governmental intervention. This system is prevalent among many of the world’s major currencies, marking a departure from managed exchange rate regimes where central authorities actively influence currency valuation.

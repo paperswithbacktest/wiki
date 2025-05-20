@@ -1,7 +1,8 @@
 ---
-title: Understanding Behavior Policy in Reinforcement Learning
+category: quant_concept
 description: Behavior policy in reinforcement learning guides agent exploration and
   balances exploitation to boost performance efficiently. Discover more inside.
+title: Understanding Behavior Policy in Reinforcement Learning
 ---
 
 ![Image](images/1.jpeg)

@@ -1,6 +1,8 @@
 ---
-title: "State Capital Investment Corporation (Algo Trading)"
-description: "Explore the pivotal role of State Capital Investment Corporation in Vietnam's economy through strategic capital management and algorithmic trading insights."
+category: quant_concept
+description: Explore the pivotal role of State Capital Investment Corporation in Vietnam's
+  economy through strategic capital management and algorithmic trading insights.
+title: State Capital Investment Corporation (Algo Trading)
 ---
 
 The State Capital Investment Corporation (SCIC) plays a pivotal role in Vietnam's economic landscape, functioning as a dynamic agent of the state to manage and invest capital from state-owned enterprises (SOEs). Established in 2005, SCIC was created to optimize the state’s capital, transforming the operational efficiency of SOEs and contributing to Vietnam’s transition towards a socialist-oriented market economy. SCIC’s foundational aim was to restructure and enhance the performance of SOEs, ensuring sustainable economic growth and modernization ([Vietnam General Statistics Office](https://www.gso.gov.vn/)).

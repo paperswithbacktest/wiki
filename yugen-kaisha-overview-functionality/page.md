@@ -1,6 +1,8 @@
 ---
-title: "Yugen Kaisha: Overview and Functionality (Algo Trading)"
-description: "Explore the evolution of Yugen Kaisha YK a limited liability company in Japan from 1940 to 2006 and its impact on SMEs and algorithmic trading practices"
+category: quant_concept
+description: Explore the evolution of Yugen Kaisha YK a limited liability company
+  in Japan from 1940 to 2006 and its impact on SMEs and algorithmic trading practices
+title: 'Yugen Kaisha: Overview and Functionality (Algo Trading)'
 ---
 
 The Yugen Kaisha (YK) was a distinct corporate structure in Japan characterized by its function as a limited liability company from its inception in 1940 until its abolition in 2006. This article examines the historical development and structural characteristics of YK, as well as its conversion to other business forms and its implications for algorithmic trading, commonly known as algo trading. 

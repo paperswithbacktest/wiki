@@ -1,6 +1,13 @@
 ---
-title: "Modified Gross Lease and Rent Calculations (Algo Trading)"
-description: "Gain insight into Modified Gross Leases in commercial real estate with this comprehensive guide. Understand how this hybrid lease balances flexibility and cost-sharing by combining elements of gross and net leases. Discover how tenants benefit from predictable expenses with fixed base rent while sharing variable costs like utilities. Explore algorithmic trading's role in rent calculations and commercial leasing strategies. Enhance your knowledge of structured leases and technological tools to optimize leasing decisions and foster successful landlord-tenant relationships."
+category: quant_concept
+description: Gain insight into Modified Gross Leases in commercial real estate with
+  this comprehensive guide. Understand how this hybrid lease balances flexibility
+  and cost-sharing by combining elements of gross and net leases. Discover how tenants
+  benefit from predictable expenses with fixed base rent while sharing variable costs
+  like utilities. Explore algorithmic trading's role in rent calculations and commercial
+  leasing strategies. Enhance your knowledge of structured leases and technological
+  tools to optimize leasing decisions and foster successful landlord-tenant relationships.
+title: Modified Gross Lease and Rent Calculations (Algo Trading)
 ---
 
 In commercial real estate, comprehensive knowledge of lease types is vital for both landlords and tenants to assess financial commitments accurately and foster successful leasing relationships. One significant type is the Modified Gross Lease, which serves as a convenient blending of gross and net lease characteristics. This hybrid model achieves a balance between flexibility and cost-sharing and thus can be attractive to parties on both sides of the leasing agreement. 

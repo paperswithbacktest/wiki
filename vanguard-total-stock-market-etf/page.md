@@ -1,6 +1,8 @@
 ---
-title: "Vanguard Total Stock Market ETF (Algo Trading)"
-description: "Explore how algorithmic trading enhances investment strategies with Vanguard ETFs offering cost-effective, diversified assets optimizing portfolio performance."
+category: trading_strategy
+description: Explore how algorithmic trading enhances investment strategies with Vanguard
+  ETFs offering cost-effective, diversified assets optimizing portfolio performance.
+title: Vanguard Total Stock Market ETF (Algo Trading)
 ---
 
 The stock market is a cornerstone of the global financial system, providing a platform for companies to raise capital and for investors to build wealth. By enabling the buying and selling of securities, such as stocks and bonds, the stock market facilitates the efficient allocation of resources, helping economies grow and evolve. For individual investors, the stock market represents a significant avenue for wealth-building, offering opportunities to benefit from company growth and to achieve financial goals through strategically diversified portfolios.

@@ -1,6 +1,13 @@
 ---
-title: "Markets in Crypto-Assets (MiCA) (Algo Trading)"
-description: "Explore the Markets in Crypto-Assets (MiCA) regulation, a groundbreaking EU framework aimed at safeguarding financial stability and investor protection within the rapidly expanding cryptocurrency sector. MiCA provides a structured environment for crypto-assets and algorithmic trading, fostering transparency and compliance across the market. Learn about its key features, historical context, and implications for stakeholders as it reshapes the regulatory landscape to ensure sustainable growth and innovation in digital finance."
+category: quant_concept
+description: Explore the Markets in Crypto-Assets (MiCA) regulation, a groundbreaking
+  EU framework aimed at safeguarding financial stability and investor protection within
+  the rapidly expanding cryptocurrency sector. MiCA provides a structured environment
+  for crypto-assets and algorithmic trading, fostering transparency and compliance
+  across the market. Learn about its key features, historical context, and implications
+  for stakeholders as it reshapes the regulatory landscape to ensure sustainable growth
+  and innovation in digital finance.
+title: Markets in Crypto-Assets (MiCA) (Algo Trading)
 ---
 
 The cryptocurrency market has undergone substantial growth, evolving from a specialized interest to a widespread global phenomenon. This rapid expansion has necessitated a regulatory framework to ensure that investor protection and market stability are maintained effectively. In response to this need, the European Union introduced the 'Markets in Crypto-Assets' (MiCA) regulation, marking a pivotal step in the governance of this rapidly developing sector.
@@ -135,4 +142,4 @@ It is imperative for investors, cryptocurrency firms, and policymakers to mainta
 
 [9]: European Central Bank. (2021). ["Eurosystem Report on the Digital Euro."](https://www.ecb.europa.eu/pub/pdf/other/Eurosystem_report_on_the_public_consultation_on_a_digital_euro~539fa8cd8d.en.pdf)
 
-[10]: Chan, E. P. (2009). ["Quantitative Trading: How to Build Your Own Algorithmic Trading Business."](https://github.com/ftvision/quant_trading_echan_book) Wiley. 
+[10]: Chan, E. P. (2009). ["Quantitative Trading: How to Build Your Own Algorithmic Trading Business."](https://github.com/ftvision/quant_trading_echan_book) Wiley.

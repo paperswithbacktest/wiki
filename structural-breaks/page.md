@@ -1,6 +1,10 @@
 ---
-title: "Structural breaks (Algo Trading)"
-description: Explore how structural breaks influence algorithmic trading and the strategies to mitigate their impact. Learn about detecting these disruptions using machine learning and traditional methods to enhance trading performance and resilience in evolving financial markets.
+category: quant_concept
+description: Explore how structural breaks influence algorithmic trading and the strategies
+  to mitigate their impact. Learn about detecting these disruptions using machine
+  learning and traditional methods to enhance trading performance and resilience in
+  evolving financial markets.
+title: Structural breaks (Algo Trading)
 ---
 
 Algorithmic trading, commonly referred to as algo trading, has revolutionized the way financial markets operate by automating trade execution based on pre-programmed instructions. This methodology leverages the power of computers to make rapid trading decisions, often within milliseconds, thus maximizing the efficiency and potential profitability of trades. Despite its advantages, algo trading faces significant challenges, one of which is the occurrence of structural breaks.

@@ -1,6 +1,13 @@
 ---
-title: "Interest (Algo Trading)"
-description: "Explore the dynamic interplay of interest rates, foundational finance principles, and algorithmic trading in the modern financial landscape. Understand how interest rates influence economic trends and market behaviors, the core principles guiding financial decision-making, and how algorithmic trading is transforming market transactions with speed and accuracy. This comprehensive overview offers valuable insights into the interconnected components shaping today's financial ecosystem, essential for anyone interested in finance or trading."
+category: quant_concept
+description: Explore the dynamic interplay of interest rates, foundational finance
+  principles, and algorithmic trading in the modern financial landscape. Understand
+  how interest rates influence economic trends and market behaviors, the core principles
+  guiding financial decision-making, and how algorithmic trading is transforming market
+  transactions with speed and accuracy. This comprehensive overview offers valuable
+  insights into the interconnected components shaping today's financial ecosystem,
+  essential for anyone interested in finance or trading.
+title: Interest (Algo Trading)
 ---
 
 In the rapidly evolving landscape of finance, the integration of interest economics, foundational finance principles, and algorithmic trading presents both intriguing opportunities and challenges. These interconnected components significantly influence the financial ecosystem today, making an understanding of their nuances essential for individuals interested in finance or trading.

@@ -1,6 +1,8 @@
 ---
-title: "B2B Robo-Advisor: Definition And Functionality (Algo Trading)"
-description: "Explore how B2B robo-advisors redefine financial management with tailored algorithmic trading solutions helping businesses leverage data for strategic growth."
+category: quant_concept
+description: Explore how B2B robo-advisors redefine financial management with tailored
+  algorithmic trading solutions helping businesses leverage data for strategic growth.
+title: 'B2B Robo-Advisor: Definition And Functionality (Algo Trading)'
 ---
 
 In today's fast-paced financial world, businesses are constantly seeking innovative solutions to enhance their operations. One such innovation is automated financial advice, which has emerged as a transformative tool in the B2B sector, powered by the rise of robo-advisors. These digital platforms leverage advanced algorithms, data analytics, and machine learning to provide seamless financial management services tailored specifically for business needs.

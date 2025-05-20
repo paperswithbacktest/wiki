@@ -1,6 +1,8 @@
 ---
-title: "Biofuel: Examples and Limitations (Algo Trading)"
-description: "Explore the potential of biofuels in reducing carbon emissions and the role of algorithmic trading in energy markets while facing scalability challenges."
+category: quant_concept
+description: Explore the potential of biofuels in reducing carbon emissions and the
+  role of algorithmic trading in energy markets while facing scalability challenges.
+title: 'Biofuel: Examples and Limitations (Algo Trading)'
 ---
 
 The increasing demands for sustainable energy solutions have propelled biofuels to a prominent position within the renewable energy landscape. As society strives to minimize its carbon footprint, biofuels offer a promising alternative to traditional fossil fuels, with the potential to significantly curb emissions across various sectors. This exploration into the current state of biofuels investigates into their potential advantages and inherent drawbacks, alongside examining the emerging role of algorithmic trading in the energy market.

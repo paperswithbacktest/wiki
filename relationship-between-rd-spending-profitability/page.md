@@ -1,6 +1,9 @@
 ---
-title: "Relationship Between R&D Spending and Profitability (Algo Trading)"
-description: "Explore how R&D spending impacts profitability through innovation and algorithmic trading insights Discover strategies for driving business growth and market success"
+category: quant_concept
+description: Explore how R&D spending impacts profitability through innovation and
+  algorithmic trading insights Discover strategies for driving business growth and
+  market success
+title: Relationship Between R&D Spending and Profitability (Algo Trading)
 ---
 
 Business economics, profitability, research and development (R&D), and algorithmic trading are critical components of today's business environment, all of which are interconnected in shaping how modern enterprises strategize and operate. These elements collectively influence how businesses develop new products, gain competitive advantages, and optimize financial outcomes.

@@ -1,6 +1,9 @@
 ---
-title: "Phillips Curve Economic Theory (Algo Trading)"
-description: "Explore the relationship between inflation and unemployment through the Phillips Curve theory alongside the impact of algorithmic trading on these economic variables."
+category: quant_concept
+description: Explore the relationship between inflation and unemployment through the
+  Phillips Curve theory alongside the impact of algorithmic trading on these economic
+  variables.
+title: Phillips Curve Economic Theory (Algo Trading)
 ---
 
 Economic theory is a fundamental framework that helps in understanding how economies function, examining the relationships between various economic variables, and predicting the potential outcomes of economic activities. It encompasses numerous subfields, each addressing different aspects of economic interactions. Two critical macroeconomic indicators within this framework are inflation and unemployment. 

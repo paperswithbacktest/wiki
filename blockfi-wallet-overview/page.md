@@ -1,6 +1,9 @@
 ---
-title: "BlockFi Wallet Overview (Algo Trading)"
-description: "Explore BlockFi Wallet's innovative financial services including crypto wallets and algorithmic trading Learn how BlockFi bridges traditional finance with modern crypto."
+category: quant_concept
+description: Explore BlockFi Wallet's innovative financial services including crypto
+  wallets and algorithmic trading Learn how BlockFi bridges traditional finance with
+  modern crypto.
+title: BlockFi Wallet Overview (Algo Trading)
 ---
 
 The financial landscape is experiencing a significant transformation with the rise of cryptocurrency as a crucial component. Platforms such as BlockFi are leading this transformation by providing unique financial services, including crypto wallets and algorithmic trading. These innovative services not only redefine how individuals engage with digital currencies but also bridge the gap between traditional finance and modern crypto economies.

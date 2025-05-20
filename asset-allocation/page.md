@@ -1,6 +1,14 @@
 ---
-title: "Asset allocation (Algo Trading)"
-description: Discover how algorithmic trading is revolutionizing asset allocation by utilizing computational algorithms to enhance investment strategies. This modern approach optimizes portfolio distribution, balances risk and return, and improves market responsiveness through the integration of machine learning and data-driven insights. Explore its role in analyzing financial data, forecasting asset performance, and enabling dynamic, precise, and adaptive asset management. Uncover the potential for machine learning to transform traditional allocation strategies, driving superior investment outcomes in today's fast-paced financial landscape.
+category: quant_concept
+description: Discover how algorithmic trading is revolutionizing asset allocation
+  by utilizing computational algorithms to enhance investment strategies. This modern
+  approach optimizes portfolio distribution, balances risk and return, and improves
+  market responsiveness through the integration of machine learning and data-driven
+  insights. Explore its role in analyzing financial data, forecasting asset performance,
+  and enabling dynamic, precise, and adaptive asset management. Uncover the potential
+  for machine learning to transform traditional allocation strategies, driving superior
+  investment outcomes in today's fast-paced financial landscape.
+title: Asset allocation (Algo Trading)
 ---
 
 Asset allocation is a fundamental concept in investment management, involving the distribution of investments across different asset classes, such as stocks, bonds, and commodities. The objective is to balance risk and return according to an investor's financial goals and risk tolerance. In recent years, algorithmic trading has introduced new dimensions to asset allocation by utilizing computational algorithms to optimize the distribution of assets within a portfolio. This approach can provide a dynamic and systematic process, aiming to maximize returns while managing risk more effectively.

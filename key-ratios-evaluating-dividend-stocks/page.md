@@ -1,6 +1,8 @@
 ---
-title: "Key Ratios for Evaluating Dividend Stocks (Algo Trading)"
-description: "Explore how key financial ratios aid in evaluating dividend stocks and the role of algorithmic trading in refining investment strategies for optimal returns."
+category: trading_strategy
+description: Explore how key financial ratios aid in evaluating dividend stocks and
+  the role of algorithmic trading in refining investment strategies for optimal returns.
+title: Key Ratios for Evaluating Dividend Stocks (Algo Trading)
 ---
 
 Investing strategies have undergone considerable transformation over the decades, with dividend stocks gaining prominence as a preferred choice for both passive income seekers and value investors. These stocks, which return a portion of a company's earnings to shareholders in the form of dividends, have long been favored for their ability to provide a steady income stream and their potential for stability during market fluctuations.

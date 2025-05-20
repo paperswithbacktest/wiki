@@ -1,6 +1,14 @@
 ---
-title: "Feature analysts (Algo Trading)"
-description: Algorithmic trading relies heavily on feature analysts who enhance trading strategies through feature engineering. These professionals transform raw data into insightful variables to improve predictive models. By focusing on data cleaning, feature selection, and creation, feature analysts ensure that trading models are equipped with high-quality inputs. They work closely with quantitative researchers to refine model accuracy and handle market dynamics. Understanding these roles and challenges is crucial for optimizing algorithmic trading and maintaining model performance amidst evolving financial markets.
+category: trading_strategy
+description: Algorithmic trading relies heavily on feature analysts who enhance trading
+  strategies through feature engineering. These professionals transform raw data into
+  insightful variables to improve predictive models. By focusing on data cleaning,
+  feature selection, and creation, feature analysts ensure that trading models are
+  equipped with high-quality inputs. They work closely with quantitative researchers
+  to refine model accuracy and handle market dynamics. Understanding these roles and
+  challenges is crucial for optimizing algorithmic trading and maintaining model performance
+  amidst evolving financial markets.
+title: Feature analysts (Algo Trading)
 ---
 
 Algorithmic trading has significantly reshaped the financial markets by employing advanced computational techniques and data analytics. This evolution has enabled traders to execute orders faster and more efficiently than traditional trading methods. A fundamental aspect of optimizing algorithmic trading strategies is feature engineering—the process of transforming raw data into informative variables that can improve predictive models. These refined variables, or "features," are pivotal in capturing market dynamics and enhancing trading strategies’ overall performance.

@@ -1,7 +1,8 @@
 ---
-title: Understanding Sparsity in Machine Learning Models for Efficiency
+category: quant_concept
 description: Sparsity in machine learning makes models faster and more interpretable
   by zeroing out unimportant features and reducing overfitting Discover more inside
+title: Understanding Sparsity in Machine Learning Models for Efficiency
 ---
 
 ![Image](images/1.png)
@@ -97,4 +98,3 @@ Another technique is called knowledge distillation. This involves training a sma
 [6]: LeCun, Y., & Bengio, Y. (1998). [“Convolutional Networks for Images, Speech, and Time Series.”](https://dl.acm.org/doi/10.5555/303568.303704) In The Handbook of Brain Theory and Neural Networks. MIT Press.
 
 [7]: Ng, A. Y. (2004). [“Feature Selection, L1 vs. L2 Regularization, and Rotational Invariance.”](https://dl.acm.org/doi/10.1145/1015330.1015435) In Proceedings of the 21st International Conference on Machine Learning (ICML).
-

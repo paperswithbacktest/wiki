@@ -1,6 +1,8 @@
 ---
-title: "Barrels Per Day: Explanation and Alternatives (Algo Trading)"
-description: "Explore how barrels per day impact oil markets and discover renewable energy alternatives. Learn about algorithmic trading's role in energy investment."
+category: quant_concept
+description: Explore how barrels per day impact oil markets and discover renewable
+  energy alternatives. Learn about algorithmic trading's role in energy investment.
+title: 'Barrels Per Day: Explanation and Alternatives (Algo Trading)'
 ---
 
 The energy industry serves as a vital pillar of the global economy, with oil production often gauged through the metric of barrels per day (B/D). This measure not only reflects the scale of production but also influences price dynamics and economic stability worldwide. In recent years, as the detrimental environmental impact of fossil fuel consumption becomes increasingly evident, there is a growing shift towards sustainable energy alternatives. Among these, solar, wind, hydroelectric, and geothermal energies have come to the forefront as viable replacements, backed by technological advancements and global adoption. 
@@ -101,4 +103,3 @@ A unified effort encompassing policy support, research and development investmen
 - Alaska Airlines. "Biofuel-Powered Flight History." This reference highlights a case study in the practical application of biofuels within the aviation industry. It details Alaska Airlines' pioneering efforts in the use of biofuels for commercial flights, demonstrating the real-world implications and benefits of transitioning to more sustainable energy sources in transportation.
 
 - International Renewable Energy Agency (IRENA). "Global Renewables Outlook." This report provides an overview of the current status and future prospects of renewable energy worldwide. It covers the growth trajectories, potential impacts on energy systems, and the socio-economic benefits of adopting renewable energy technologies. The report serves as a vital resource for understanding global trends and policy frameworks that support the shift towards sustainable energy.
-

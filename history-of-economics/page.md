@@ -1,6 +1,8 @@
 ---
-title: "History of Economics (Algo Trading)"
-description: "Explore the history of economics from early theories to the rise of algorithmic trading highlighting key developments and their impact on modern financial markets."
+category: quant_concept
+description: Explore the history of economics from early theories to the rise of algorithmic
+  trading highlighting key developments and their impact on modern financial markets.
+title: History of Economics (Algo Trading)
 ---
 
 The world of economics is vast and multifaceted, encompassing diverse theories, historical developments, and contemporary advancements. At its core, economics seeks to understand how societies allocate resources and how individuals and institutions respond to incentives. Understanding the development of economic theory offers crucial insights into the functioning of economies by shedding light on fundamental principles such as supply and demand, market dynamics, and fiscal policies. These theories provide the framework for analyzing economic behavior and predicting the outcomes of various economic activities.

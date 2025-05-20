@@ -1,6 +1,9 @@
 ---
-title: "Floating Charge: Usage and Example (Algo Trading)"
-description: "Explore floating charge finance and algorithmic trading to understand secured loans and market dynamics, helping investors and professionals navigate finance efficiently."
+category: quant_concept
+description: Explore floating charge finance and algorithmic trading to understand
+  secured loans and market dynamics, helping investors and professionals navigate
+  finance efficiently.
+title: 'Floating Charge: Usage and Example (Algo Trading)'
 ---
 
 In this article, we will explore the intersecting realms of floating charge finance, secured lending, and algorithmic trading. These financial mechanisms represent critical aspects of modern finance, influencing how businesses secure funding and how markets operate at high efficiency and speed. As we venture into these topics, it is essential to recognize the strategic role they play. Understanding their intricacies not only empowers investors and financial professionals but also provides them with significant advantages in navigating the rapidly changing financial landscape.

@@ -1,6 +1,9 @@
 ---
-title: "Smithsonian Agreement: Overview and Mechanism (Algo Trading)"
-description: "Discover the Smithsonian Agreement's pivotal role in reshaping global finance explore its impact on exchange rates and relevance in today's algo trading landscape."
+category: quant_concept
+description: Discover the Smithsonian Agreement's pivotal role in reshaping global
+  finance explore its impact on exchange rates and relevance in today's algo trading
+  landscape.
+title: 'Smithsonian Agreement: Overview and Mechanism (Algo Trading)'
 ---
 
 The Smithsonian Agreement represents a pivotal moment in the economic history of international finance. Reached in December 1971, it was a temporary accord among the world's major economies, aiming to stabilize the global financial system by adjusting fixed exchange rates and impacting currency values. This agreement emerged as a critical response to the challenges posed by the Bretton Woods system, which had established a fixed exchange rate regime post-World War II, anchored on the U.S. dollar's convertibility to gold.

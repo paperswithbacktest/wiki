@@ -1,6 +1,8 @@
 ---
-title: "Top Investment Funds for Capital Preservation (Algo Trading)"
-description: "Explore top investment funds focusing on capital preservation through algorithmic trading to protect and maintain your investments in volatile markets."
+category: trading_strategy
+description: Explore top investment funds focusing on capital preservation through
+  algorithmic trading to protect and maintain your investments in volatile markets.
+title: Top Investment Funds for Capital Preservation (Algo Trading)
 ---
 
 In today's volatile financial markets, ensuring financial security has become a paramount concern for many investors. Market fluctuations, geopolitical tensions, and economic uncertainties can significantly impact investment portfolios, making capital preservation a key strategic objective. This article examines capital preservation investment funds and their critical function in maintaining financial stability, especially when enhanced through algorithmic trading.

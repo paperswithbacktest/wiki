@@ -1,6 +1,8 @@
 ---
-title: "Nonparametric Statistics Overview and Examples (Algo Trading)"
-description: "Explore the advantages of nonparametric statistics in algorithmic trading Discover how these flexible methods enhance data analysis and trading strategies"
+category: quant_concept
+description: Explore the advantages of nonparametric statistics in algorithmic trading
+  Discover how these flexible methods enhance data analysis and trading strategies
+title: Nonparametric Statistics Overview and Examples (Algo Trading)
 ---
 
 In the ever-evolving landscape of financial markets, the integration of data analysis and statistical methods is indispensable. Modern trading systems increasingly rely on sophisticated statistical techniques to interpret complex market data and inform trading decisions. Among these techniques, nonparametric statistics have become a focal point, offering robust methodologies that diverge from traditional parametric approaches which often presuppose specific data distributions.

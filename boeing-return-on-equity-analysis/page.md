@@ -1,6 +1,9 @@
 ---
-title: "Boeing's Return on Equity Analysis (Algo Trading)"
-description: "Explore Boeing's financial health through an in-depth analysis of its Return on Equity ROE trends and compare them with competitors like Airbus and Lockheed Martin."
+category: quant_concept
+description: Explore Boeing's financial health through an in-depth analysis of its
+  Return on Equity ROE trends and compare them with competitors like Airbus and Lockheed
+  Martin.
+title: Boeing's Return on Equity Analysis (Algo Trading)
 ---
 
 Understanding a company's financial health is crucial for investors, and one of the key metrics used is Return on Equity (ROE). ROE is a financial ratio that measures a corporation's profitability in relation to shareholders' equity, providing insight into how effectively a company uses investments to generate profits. Boeing, a major player in the aerospace industry, has exhibited varied ROE figures over the years, drawing attention from financial analysts aiming to comprehend its operational efficiency and profitability trends. This article focuses on Boeing's ROE, examining its historical trends and how they align with those of industry peers.

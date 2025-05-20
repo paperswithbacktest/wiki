@@ -1,6 +1,8 @@
 ---
-title: "SEC Form 24F-2: Function and Application (Algo Trading)"
-description: "Understand SEC Form 24F-2 and its crucial role in algorithmic trading compliance for investment companies ensuring transparent and efficient market operations."
+category: quant_concept
+description: Understand SEC Form 24F-2 and its crucial role in algorithmic trading
+  compliance for investment companies ensuring transparent and efficient market operations.
+title: 'SEC Form 24F-2: Function and Application (Algo Trading)'
 ---
 
 In the rapidly evolving landscape of investment, understanding regulatory frameworks is essential for companies and investors alike. Regulatory compliance ensures that financial markets operate smoothly and transparently, safeguarding both individual and institutional investors. Among these regulatory requirements, SEC Form 24F-2 plays a pivotal role in the registration and functioning of investment companies.

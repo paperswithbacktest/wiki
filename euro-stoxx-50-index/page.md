@@ -1,6 +1,9 @@
 ---
-title: "EURO STOXX 50 Index Overview (Algo Trading)"
-description: "Explore the EURO STOXX 50 index and its interaction with algorithmic trading techniques offering insights into the European financial markets and trading strategies."
+category: quant_concept
+description: Explore the EURO STOXX 50 index and its interaction with algorithmic
+  trading techniques offering insights into the European financial markets and trading
+  strategies.
+title: EURO STOXX 50 Index Overview (Algo Trading)
 ---
 
 The European markets play a crucial role in the global financial landscape, with the EURO STOXX 50 index serving as a key benchmark for the performance of major blue-chip stocks within the Eurozone. Established in 1998, the EURO STOXX 50 represents 50 of the largest and most liquid stocks in the euro area, providing investors with a snapshot of the overall economic health and corporate performance within Europe. Its composition includes leading companies across diverse sectors from countries such as Germany, France, Spain, and Italy, reflecting the geographical diversity of the European economy.

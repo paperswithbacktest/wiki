@@ -1,6 +1,8 @@
 ---
-title: "Book Value: Concepts, Formula, and Examples (Algo Trading)"
-description: "Explore the significance of book value as a core financial metric in evaluating a company's net asset value essential for strategic investment decisions."
+category: quant_concept
+description: Explore the significance of book value as a core financial metric in
+  evaluating a company's net asset value essential for strategic investment decisions.
+title: 'Book Value: Concepts, Formula, and Examples (Algo Trading)'
 ---
 
 In the world of finance and investment, understanding a company's true worth is paramount for making informed decisions. Book value, a core financial metric, plays a significant role in this evaluation by offering a snapshot of a company's net asset value, which is calculated by subtracting total liabilities from total assets. This article examines the concept of book value, its significance in valuation, and its application in modern financial strategies.

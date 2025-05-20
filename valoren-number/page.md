@@ -1,6 +1,9 @@
 ---
-title: "Valoren Number (Algo Trading)"
-description: "Discover the crucial role of Valoren Numbers in Swiss financial markets Enable seamless algorithmic trading and enhance trading efficiency by reducing errors through precise security identification"
+category: quant_concept
+description: Discover the crucial role of Valoren Numbers in Swiss financial markets
+  Enable seamless algorithmic trading and enhance trading efficiency by reducing errors
+  through precise security identification
+title: Valoren Number (Algo Trading)
 ---
 
 In the evolving landscape of financial markets, accurate identification of securities is crucial for efficient trading. The Valoren Number, a unique identifier employed in the Swiss financial system, serves a vital role in distinguishing financial instruments, thereby facilitating seamless transactions. As the financial markets increasingly rely on advanced technologies and trading strategies, the importance of employing precise security identifiers like Valoren Numbers cannot be overstated.

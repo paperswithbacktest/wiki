@@ -1,6 +1,9 @@
 ---
-title: "Representation of Index Futures Contracts (Algo Trading)"
-description: "Discover the world of index futures contracts and algo trading Explore how these financial instruments and strategies enable investors to hedge risks and seize market opportunities"
+category: quant_concept
+description: Discover the world of index futures contracts and algo trading Explore
+  how these financial instruments and strategies enable investors to hedge risks and
+  seize market opportunities
+title: Representation of Index Futures Contracts (Algo Trading)
 ---
 
 The landscape of financial markets has evolved dramatically with the advent of advanced technology and trading strategies. Financial derivatives, such as index futures and futures contracts, play a pivotal role in the global financial ecosystem. These derivatives are essentially contracts whose values are derived from underlying financial assets, allowing investors and institutions to hedge against risks, speculate on financial movements, and optimize their portfolios.

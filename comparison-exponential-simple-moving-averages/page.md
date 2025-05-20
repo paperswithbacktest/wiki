@@ -1,6 +1,8 @@
 ---
-title: "Comparison of Exponential and Simple Moving Averages (Algo Trading)"
-description: "Compare Exponential and Simple Moving Averages with this detailed guide for algorithmic trading Understand how these two tools help forecast price trends"
+category: trading_strategy
+description: Compare Exponential and Simple Moving Averages with this detailed guide
+  for algorithmic trading Understand how these two tools help forecast price trends
+title: Comparison of Exponential and Simple Moving Averages (Algo Trading)
 ---
 
 In trading, moving averages are essential tools used by traders to analyze price trends and forecast future price movements. They are used to smooth out price data over a specific period, helping to filter out the noise and provide a clearer view of market trends. Among the various types of moving averages, the Simple Moving Average (SMA) and the Exponential Moving Average (EMA) are the most commonly used.

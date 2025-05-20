@@ -1,6 +1,9 @@
 ---
-title: "February 2018 Stock Market Volatility Event (Algo Trading)"
-description: "Explore the February 2018 stock market crash driven by algorithmic trading Volmageddon's impact on market stability and the downfall of inverse volatility products."
+category: trading_strategy
+description: Explore the February 2018 stock market crash driven by algorithmic trading
+  Volmageddon's impact on market stability and the downfall of inverse volatility
+  products.
+title: February 2018 Stock Market Volatility Event (Algo Trading)
 ---
 
 The stock market has always been characterized by periods of highs and lows, but the events of February 2018 marked a particularly unusual episode known as 'Volmageddon.' During this period, the financial world witnessed an unprecedented spike in market volatility, largely influenced by the mechanics of algorithmic trading. This significant shift from the stability experienced in the preceding year raised pertinent questions about the role of technology-driven trading strategies in exacerbating market upheavals.

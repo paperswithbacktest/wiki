@@ -1,7 +1,8 @@
 ---
-title: Tabular Q-Learning Explained A Guide to Reinforcement Learning
+category: quant_concept
 description: Tabular Q-Learning enables agents to learn optimal actions by updating
   Q-values through trial and error in simple environments. Discover more inside.
+title: Tabular Q-Learning Explained A Guide to Reinforcement Learning
 ---
 
 ![Image](images/1.png)

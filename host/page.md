@@ -1,7 +1,8 @@
 ---
-title: Setting Up a Host Machine for Efficient Machine Learning
+category: quant_concept
 description: Host Machine setup for machine learning covers hardware OS configuration
   and virtualization to improve performance and security. Discover more inside
+title: Setting Up a Host Machine for Efficient Machine Learning
 ---
 
 ![Image](images/1.jpeg)

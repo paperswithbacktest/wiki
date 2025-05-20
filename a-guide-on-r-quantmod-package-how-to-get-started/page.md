@@ -1,6 +1,14 @@
 ---
-title: "A Guide on R Quantmod Package (Algo Trading)"
-description: Explore the quantmod package in R designed to aid traders and quantitative analysts in developing and testing algorithmic trading strategies efficiently. This guide highlights the package's functionalities including its role in financial data analysis and strategy implementation. Understand how quantmod facilitates trading model generation and backtesting while providing detailed insights for both seasoned and novice traders. Learn about its comprehensive features for automating initial data acquisition and performing complex visualizations and analyses. Maximize your trading strategy potential with this versatile R package.
+category: trading_strategy
+description: Explore the quantmod package in R designed to aid traders and quantitative
+  analysts in developing and testing algorithmic trading strategies efficiently. This
+  guide highlights the package's functionalities including its role in financial data
+  analysis and strategy implementation. Understand how quantmod facilitates trading
+  model generation and backtesting while providing detailed insights for both seasoned
+  and novice traders. Learn about its comprehensive features for automating initial
+  data acquisition and performing complex visualizations and analyses. Maximize your
+  trading strategy potential with this versatile R package.
+title: A Guide on R Quantmod Package (Algo Trading)
 ---
 
 The quantmod package in R is a robust tool designed for traders and quantitative analysts aiming to develop and test algorithmic trading strategies efficiently. Characterized by its capacity to streamline the process of creating and analyzing trading models, quantmod stands out as a critical resource for those interested in financial data analysis and strategy implementation. This article focuses on elucidating the myriad functionalities of quantmod, particularly its ability to facilitate the generation and backtesting of trading models.

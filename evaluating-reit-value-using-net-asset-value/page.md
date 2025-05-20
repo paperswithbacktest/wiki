@@ -1,6 +1,12 @@
 ---
-title: "Evaluating REIT Value Using Net Asset Value (Algo Trading)"
-description: "Discover how Net Asset Value (NAV) serves as a cornerstone in evaluating Real Estate Investment Trusts (REITs), offering insights into their true worth versus market prices. This article explores the influence of algorithmic trading on REIT valuation, helping investors navigate the complex real estate investment landscape by integrating traditional metrics with modern trading technologies for optimized portfolio strategies."
+category: quant_concept
+description: Discover how Net Asset Value (NAV) serves as a cornerstone in evaluating
+  Real Estate Investment Trusts (REITs), offering insights into their true worth versus
+  market prices. This article explores the influence of algorithmic trading on REIT
+  valuation, helping investors navigate the complex real estate investment landscape
+  by integrating traditional metrics with modern trading technologies for optimized
+  portfolio strategies.
+title: Evaluating REIT Value Using Net Asset Value (Algo Trading)
 ---
 
 In the world of real estate investment trusts (REITs), determining the true value of an investment is essential for making informed financial decisions and optimizing returns. Central to this evaluation is the Net Asset Value (NAV), a critical metric that serves as a benchmark for assessing the inherent value of a REIT in contrast to its market price. NAV provides insights into a REIT’s underlying asset value minus liabilities, typically expressed on a per-share basis. This metric aids investors in determining whether a REIT is undervalued, offering potential buy opportunities, or overvalued, indicating potential risks.

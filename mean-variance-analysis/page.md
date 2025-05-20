@@ -1,6 +1,8 @@
 ---
-title: "Mean-Variance Analysis (Algo Trading)"
-description: "Explore mean-variance analysis in portfolio theory and algorithmic trading Discover strategies to optimize risk and return in dynamic financial markets"
+category: quant_concept
+description: Explore mean-variance analysis in portfolio theory and algorithmic trading
+  Discover strategies to optimize risk and return in dynamic financial markets
+title: Mean-Variance Analysis (Algo Trading)
 ---
 
 In the ever-evolving world of finance, investors continually seek strategies that balance the dual objectives of maximizing returns and minimizing risk. One pivotal approach firmly rooted in this pursuit is mean-variance analysis, which serves as a cornerstone of modern portfolio theory. 

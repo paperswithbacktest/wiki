@@ -1,6 +1,8 @@
 ---
-title: "Losing Your Shirt: Meaning and Origins (Algo Trading)"
-description: "Explore the vivid idiom 'losing your shirt' its origins and relevance in algorithmic trading Understand potential risks and protect your investments"
+category: quant_concept
+description: Explore the vivid idiom 'losing your shirt' its origins and relevance
+  in algorithmic trading Understand potential risks and protect your investments
+title: 'Losing Your Shirt: Meaning and Origins (Algo Trading)'
 ---
 
 In the world of finance and investment, idioms often capture the essential essence of market experience. These phrases, rich in metaphor and anecdotes, can convey the highs and lows of financial endeavors with remarkable clarity. One such idiom is "losing your shirt," which, while colorful, denotes a very real and stressful financial scenario. This phrase paints a picture of an investor who has suffered substantial financial losses, often as a result of risky decisions or unforeseen market shifts.

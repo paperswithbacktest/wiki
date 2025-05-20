@@ -1,6 +1,9 @@
 ---
-title: "Baltic Exchange Overview and Functionality (Algo Trading)"
-description: "Discover the role of the Baltic Exchange in global maritime trade how algo trading is reshaping freight rates and market transparency in the shipping industry."
+category: quant_concept
+description: Discover the role of the Baltic Exchange in global maritime trade how
+  algo trading is reshaping freight rates and market transparency in the shipping
+  industry.
+title: Baltic Exchange Overview and Functionality (Algo Trading)
 ---
 
 The shipping market has long been a cornerstone of global trade, enabling the movement of goods across international borders and oceans. This market is driven primarily by freight rates, which are influenced by a variety of factors, including demand, supply, and global economic conditions. Freight rates serve as critical indicators for the cost of transporting goods over sea, impacting the pricing and scheduling decisions within the global supply chain.

@@ -1,6 +1,8 @@
 ---
-title: "Impact of Baby Boomers on Social Security Solvency (Algo Trading)"
-description: "Explore the impact of Baby Boomers on Social Security's solvency alongside algorithmic trading's influence on market dynamics and economic factors."
+category: quant_concept
+description: Explore the impact of Baby Boomers on Social Security's solvency alongside
+  algorithmic trading's influence on market dynamics and economic factors.
+title: Impact of Baby Boomers on Social Security Solvency (Algo Trading)
 ---
 
 In recent years, the sustainability of Social Security has become a pressing concern, influenced significantly by the impending retirement of the Baby Boomer generation. This demographic shift poses substantial challenges as the demand for Social Security benefits is projected to increase sharply, thereby straining the system's resources. Concurrently, advancements in financial technology, notably algorithmic trading, have introduced new dynamics into the economic landscape. Algorithmic trading, which employs complex algorithms to trade financial securities rapidly, has the potential to indirectly affect economic factors related to Social Security through its impact on market efficiency and investment returns.

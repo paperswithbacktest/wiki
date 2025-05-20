@@ -1,6 +1,8 @@
 ---
-title: "Introducing Broker: Role, Registration, and Examples (Algo Trading)"
-description: "Unlock the world of introducing brokers in trading Discover their roles registration processes and how algotrading is reshaping the brokerage landscape"
+category: quant_concept
+description: Unlock the world of introducing brokers in trading Discover their roles
+  registration processes and how algotrading is reshaping the brokerage landscape
+title: 'Introducing Broker: Role, Registration, and Examples (Algo Trading)'
 ---
 
 The landscape of trading is undergoing significant changes, with introducing brokers (IBs) gaining prominence as key players within this environment. As the trading field becomes more complex, IBs are increasingly critical, serving as intermediaries between clients and futures commission merchants (FCMs). This mechanism allows for the efficient handling of client relationships while FCMs focus on trade execution.

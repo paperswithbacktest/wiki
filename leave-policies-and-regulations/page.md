@@ -1,6 +1,8 @@
 ---
-title: "Leave Policies and Regulations (Algo Trading)"
-description: "Discover how understanding and implementing leave policies enhances productivity and compliance in high-stress sectors like algorithmic trading for optimal welfare."
+category: quant_concept
+description: Discover how understanding and implementing leave policies enhances productivity
+  and compliance in high-stress sectors like algorithmic trading for optimal welfare.
+title: Leave Policies and Regulations (Algo Trading)
 ---
 
 Understanding employee leave policies is essential for fostering a productive and compliant workplace. These policies form a fundamental component of human resources management, offering a structured approach to employee time-off entitlements. Their importance extends across various industries, including algorithmic trading, a sector known for its fast-paced and demanding work environment.

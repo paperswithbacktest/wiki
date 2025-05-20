@@ -1,6 +1,8 @@
 ---
-title: "Delayed Perpetuity: Concepts and Calculations (Algo Trading)"
-description: "Explore the critical role of delayed perpetuity in finance and algorithmic trading understanding its application in creating stable long-term income streams."
+category: quant_concept
+description: Explore the critical role of delayed perpetuity in finance and algorithmic
+  trading understanding its application in creating stable long-term income streams.
+title: 'Delayed Perpetuity: Concepts and Calculations (Algo Trading)'
 ---
 
 Financial calculations, particularly those involving perpetuity, are fundamental to grasping sophisticated investment strategies. Perpetuity, a financial concept where a stream of equal payments continues indefinitely, plays a critical role in valuing investments where long-term, stable cash flow is essential. This article examines perpetuity with a focus on delayed perpetuity, its variations, and its application within diverse financial instruments and algorithmic trading frameworks.

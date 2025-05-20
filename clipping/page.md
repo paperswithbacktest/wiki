@@ -1,7 +1,8 @@
 ---
-title: Clipping Techniques in Machine Learning for Stable Training
+category: quant_concept
 description: Clipping in machine learning controls extreme data and gradient values
   to maintain stable training and prevent exploding gradients Discover more inside.
+title: Clipping Techniques in Machine Learning for Stable Training
 ---
 
 ![Image](images/1.jpeg)

@@ -1,6 +1,8 @@
 ---
-title: "Kappa: Meaning, Function, and Measurement (Algo Trading)"
-description: "Explore the vital role of the Kappa statistic in algorithmic trading to ensure strategy reliability and minimize the impact of chance on decision-making."
+category: quant_concept
+description: Explore the vital role of the Kappa statistic in algorithmic trading
+  to ensure strategy reliability and minimize the impact of chance on decision-making.
+title: 'Kappa: Meaning, Function, and Measurement (Algo Trading)'
 ---
 
 Algorithmic trading represents a synergy of quantitative analysis and technology, where complex statistical models guide the execution of trades, aiming for both speed and precision. It encompasses a broad spectrum of techniques, from high-frequency trading to arbitrage and market making. The objective is to identify patterns or signals that can lead to profitable trades, minimizing human intervention.

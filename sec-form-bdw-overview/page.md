@@ -1,6 +1,9 @@
 ---
-title: "SEC Form BDW Overview (Algo Trading)"
-description: "Learn about SEC Form BDW's vital role in broker-dealer market exits. Understand its significance in regulatory compliance, especially for algorithmic trading."
+category: quant_concept
+description: Learn about SEC Form BDW's vital role in broker-dealer market exits.
+  Understand its significance in regulatory compliance, especially for algorithmic
+  trading.
+title: SEC Form BDW Overview (Algo Trading)
 ---
 
 Understanding the intricacies of the financial market involves comprehending various regulatory forms and processes. Broker-dealers, who act as intermediaries facilitating the buying and selling of securities, need to navigate a complex regulatory landscape to maintain compliance and protect their businesses. Among these regulations, the SEC Form BDW is a pivotal document for broker-dealers who wish to cease operations and exit the market, either partially or entirely. This mandatory form, filed with the Securities and Exchange Commission (SEC), facilitates the orderly withdrawal of a broker-dealer's registration.

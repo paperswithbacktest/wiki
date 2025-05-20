@@ -1,6 +1,14 @@
 ---
-title: "Financial Ratios in the Automotive Industry (Algo Trading)"
-description: "Explore the critical role of financial ratios in evaluating the performance and financial health of companies within the automotive industry in this informative guide. Discover how essential metrics like Debt-to-Equity, Inventory Turnover, and Return on Equity provide insights into a firm's leverage, efficiency, and profitability. Additionally, learn about the integration of algorithmic trading techniques for more comprehensive financial analysis. This synergy between traditional and modern financial approaches offers a strategic advantage for investors navigating the dynamic automotive market."
+category: trading_strategy
+description: Explore the critical role of financial ratios in evaluating the performance
+  and financial health of companies within the automotive industry in this informative
+  guide. Discover how essential metrics like Debt-to-Equity, Inventory Turnover, and
+  Return on Equity provide insights into a firm's leverage, efficiency, and profitability.
+  Additionally, learn about the integration of algorithmic trading techniques for
+  more comprehensive financial analysis. This synergy between traditional and modern
+  financial approaches offers a strategic advantage for investors navigating the dynamic
+  automotive market.
+title: Financial Ratios in the Automotive Industry (Algo Trading)
 ---
 
 The automotive industry represents a significant portion of the global economy, with an estimated market valuation of $2.7 trillion in 2024. This expansive sector impacts economic structures worldwide, necessitating rigorous financial analysis for investors seeking to make informed decisions. Within this context, financial ratios serve as vital tools for comparing firms' performance across the industry. Three crucial financial ratios—Debt-to-Equity, Inventory Turnover, and Return on Equity—offer insights into a company's financial health, efficiency, and profitability. 

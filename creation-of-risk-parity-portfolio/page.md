@@ -1,6 +1,8 @@
 ---
-title: "Creation of a Risk Parity Portfolio (Algo Trading)"
-description: "Discover how risk parity and algorithmic trading can optimize portfolio diversification by balancing risk across asset classes and automating trading strategies."
+category: trading_strategy
+description: Discover how risk parity and algorithmic trading can optimize portfolio
+  diversification by balancing risk across asset classes and automating trading strategies.
+title: Creation of a Risk Parity Portfolio (Algo Trading)
 ---
 
 In investing, balancing risk and return is essential, with risk parity and algorithmic trading providing key strategies for portfolio diversification. Risk parity focuses on allocating risk equally across asset classes rather than merely distributing capital. This method aims to enhance diversification by minimizing the impact of market volatility on a portfolio's returns, promoting a more stable investment performance. Unlike traditional strategies that often prioritize a fixed capital allocation, such as a 60/40 split between equities and fixed income, risk parity seeks to balance the contribution of each asset's risk to the overall portfolio.

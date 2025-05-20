@@ -1,6 +1,8 @@
 ---
-title: "Range Accrual Options: Types and Calculations (Algo Trading)"
-description: "Explore range accrual options in algo trading as these financial derivatives offer high returns within set index ranges through careful risk management."
+category: quant_concept
+description: Explore range accrual options in algo trading as these financial derivatives
+  offer high returns within set index ranges through careful risk management.
+title: 'Range Accrual Options: Types and Calculations (Algo Trading)'
 ---
 
 Financial derivatives provide investors with sophisticated tools to engage with financial markets, enhancing their ability to hedge risk, speculate, or increase leverage. Among these derivatives, range accrual options stand out by offering attractive return possibilities predicated on the performance of a specific underlying index. These unique options derive their appeal from the potential for high returns when the underlying index maintains a position within a predetermined range over a specified period.

@@ -1,6 +1,8 @@
 ---
-title: "Anomalies in Market Data (Algo Trading)"
-description: "Discover how identifying market data anomalies can offer trading opportunities to algorithmic traders by exploiting deviations in financial patterns for profit."
+category: quant_concept
+description: Discover how identifying market data anomalies can offer trading opportunities
+  to algorithmic traders by exploiting deviations in financial patterns for profit.
+title: Anomalies in Market Data (Algo Trading)
 ---
 
 Understanding anomalies in market data is crucial for algorithmic traders seeking to capitalize on inefficiencies. Anomalies refer to deviations from expected behaviors or values in financial markets, presenting both challenges and opportunities for traders. These deviations may be caused by a variety of factors, including but not limited to market sentiment, macroeconomic events, and irregular investor behavior.

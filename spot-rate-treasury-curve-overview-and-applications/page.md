@@ -1,6 +1,9 @@
 ---
-title: "Spot Rate Treasury Curve: Overview and Applications (Algo Trading)"
-description: "Explore the intersection of algorithmic trading and financial analysis using the treasury curve and spot rates to enhance trading strategies and economic insights."
+category: quant_concept
+description: Explore the intersection of algorithmic trading and financial analysis
+  using the treasury curve and spot rates to enhance trading strategies and economic
+  insights.
+title: 'Spot Rate Treasury Curve: Overview and Applications (Algo Trading)'
 ---
 
 The intersection of financial analysis and algorithmic trading has emerged as a transformative force in the financial sector, significantly altering how investors leverage market indicators. At the core of this transformation lies the comprehension of the treasury curve and spot rates, both of which are instrumental in crafting robust and efficient trading algorithms. The treasury curve, which graphically represents the yields on U.S. Treasury securities across various maturities, serves as a vital barometer of economic sentiment, influencing interest rate forecasts and investment strategies.

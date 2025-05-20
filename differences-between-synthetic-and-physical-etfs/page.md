@@ -1,6 +1,8 @@
 ---
-title: "Differences Between Synthetic and Physical ETFs (Algo Trading)"
-description: "Discover the crucial differences between synthetic and physical ETFs and their roles in algo trading. Learn about their structures, benefits, and risks."
+category: quant_concept
+description: Discover the crucial differences between synthetic and physical ETFs
+  and their roles in algo trading. Learn about their structures, benefits, and risks.
+title: Differences Between Synthetic and Physical ETFs (Algo Trading)
 ---
 
 Exchange-traded funds (ETFs) are integral investment vehicles in financial markets, offering diverse and flexible options for investors. Predominantly, ETFs can be categorized into two types: physical ETFs and synthetic ETFs. These distinct forms differ fundamentally in how they track and replicate the performance of their underlying indices.

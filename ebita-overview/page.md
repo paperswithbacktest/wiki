@@ -1,6 +1,9 @@
 ---
-title: "EBITA Overview (Algo Trading)"
-description: "Explore the key features of EBITA in evaluating a company's operational efficiency by excluding interest taxes and amortization influences essential for algo trading."
+category: quant_concept
+description: Explore the key features of EBITA in evaluating a company's operational
+  efficiency by excluding interest taxes and amortization influences essential for
+  algo trading.
+title: EBITA Overview (Algo Trading)
 ---
 
 Earnings Before Interest, Taxes, and Amortization (EBITA) is a key financial metric utilized in evaluating a company's profitability without the influence of non-operational costs and tax liabilities. EBITA offers a clearer picture of a company's operational efficiency by excluding expenses related to interest, taxes, and amortization. This metric helps analysts and investors to assess whether a company's core business operations are profitable by focusing purely on its operating performance. Unlike net income, which includes all expenses and income, EBITA provides a more focused view, enabling better comparison across companies and industries, especially those with varying tax situations and capital structures.

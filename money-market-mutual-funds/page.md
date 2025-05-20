@@ -1,6 +1,9 @@
 ---
-title: "Money Market Mutual Funds (Algo Trading)"
-description: "Explore how money market funds, mutual funds, and algorithmic trading can enhance investment strategies for optimal portfolio performance and financial goals."
+category: quant_concept
+description: Explore how money market funds, mutual funds, and algorithmic trading
+  can enhance investment strategies for optimal portfolio performance and financial
+  goals.
+title: Money Market Mutual Funds (Algo Trading)
 ---
 
 In today's financial landscape, navigating investment options such as money market funds and mutual funds is essential for informed investment strategies. Understanding the unique features and characteristics of these investment vehicles can significantly impact portfolio performance and financial goals. Money market funds are designed to provide capital preservation and liquidity, making them an attractive option for risk-averse investors. These funds invest in high-quality, short-term debt securities, ensuring a stable and secure investment environment.
@@ -84,4 +87,3 @@ Chan, E. P. (2009). *Quantitative Trading: How to Build Your Own Algorithmic Tra
 Amerig, C., & Kiazim, O. (2023). *Money Market Funds: Risk, Regulation, and Reform*. This publication examines the landscape of money market funds, addressing the associated risks, regulatory environment, and potential reforms that impact these investment vehicles.
 
 Webb, R. I. (2013). *Shock Markets: Trading Lessons for Volatile Times*. Webb discusses strategies for navigating market volatility and provides lessons that are applicable to managing investment portfolios during times of financial uncertainty.
-

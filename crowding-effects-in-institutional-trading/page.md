@@ -1,6 +1,8 @@
 ---
-title: "crowding effects in institutional trading (Algo Trading)"
-description: "Explore the impact of crowding effects in institutional algorithmic trading and how simultaneous trading strategies influence market dynamics and price stability."
+category: quant_concept
+description: Explore the impact of crowding effects in institutional algorithmic trading
+  and how simultaneous trading strategies influence market dynamics and price stability.
+title: crowding effects in institutional trading (Algo Trading)
 ---
 
 Institutional trading has experienced a transformative shift with the advent and integration of algorithmic trading. This technology-driven approach has fundamentally altered how trades are executed, fostering a landscape where efficiency and speed are paramount. Amidst this evolution, one critical aspect that has emerged is the concept of crowding effects, often referred to as 'co-impact'. This phenomenon occurs when multiple institutional investors, employing similar trading strategies, execute their trades simultaneously, significantly influencing market dynamics.

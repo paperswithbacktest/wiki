@@ -1,6 +1,8 @@
 ---
-title: "National Income Accounting: Mechanisms and Examples (Algo Trading)"
-description: "Explore how national income accounting and economic indicators shape financial analysis through algorithmic trading, offering insights for informed decision-making."
+category: quant_concept
+description: Explore how national income accounting and economic indicators shape
+  financial analysis through algorithmic trading, offering insights for informed decision-making.
+title: 'National Income Accounting: Mechanisms and Examples (Algo Trading)'
 ---
 
 Economic indicators are critical tools for assessing the health of a country's economy. They offer quantitative measures that provide insights into various economic aspects such as growth, employment, and inflation. Among these indicators, national income and income accounting are pivotal. They encompass a range of economic activities and transactions that contribute to understanding the overall economic performance of a nation. These indicators form a framework for evaluating trends and predicting future economic conditions, which is vital for both policymakers and investors.

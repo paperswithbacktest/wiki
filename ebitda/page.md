@@ -1,6 +1,11 @@
 ---
-title: "Ebitda (Algo Trading)"
-description: "Explore how EBITDA is used in algorithmic trading to assess company performance and guide investment strategies. Understand the calculation and utility of EBITDA alongside its benefits and limitations. Discover the role of algorithmic trading in processing financial data to improve trading efficiency and identify opportunities by focusing on operational profitability rather than market fluctuations."
+category: quant_concept
+description: Explore how EBITDA is used in algorithmic trading to assess company performance
+  and guide investment strategies. Understand the calculation and utility of EBITDA
+  alongside its benefits and limitations. Discover the role of algorithmic trading
+  in processing financial data to improve trading efficiency and identify opportunities
+  by focusing on operational profitability rather than market fluctuations.
+title: Ebitda (Algo Trading)
 ---
 
 In today's competitive financial landscape, understanding key financial metrics is crucial for evaluating business performance. One such important metric is EBITDA (Earnings Before Interest, Taxes, Depreciation, and Amortization). EBITDA offers insight into a company's operational efficiency by focusing on earnings generated from core business activities, excluding non-operational expenses such as interest, taxes, depreciation, and amortization. This makes EBITDA a popular choice for analysts and investors seeking to compare companies across different sectors and capital structures.

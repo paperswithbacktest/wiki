@@ -1,6 +1,8 @@
 ---
-title: "Association of International Bond Dealers (Algo Trading)"
-description: "Explore the role of the Association of International Bond Dealers in shaping the bond market and how algorithmic trading is revolutionizing global finance."
+category: quant_concept
+description: Explore the role of the Association of International Bond Dealers in
+  shaping the bond market and how algorithmic trading is revolutionizing global finance.
+title: Association of International Bond Dealers (Algo Trading)
 ---
 
 The international bond market forms a substantial part of global finance by facilitating the flow of capital across borders, enabling governments, corporations, and other entities to raise funds and manage financial risk. This transnational marketplace involves the issuance and trading of debt securities, which include government bonds, corporate bonds, and Eurobonds, among others. Crucial to the functioning of this market are bond dealers who act as intermediaries between buyers and sellers, providing liquidity and contributing to efficient price discovery. Many of these dealers are affiliated with professional organizations such as the Association of International Bond Dealers (AIBD). Founded with the agenda of fostering standardized practices and ensuring the integrity of international bond markets, the AIBD has been a pivotal entity in guiding the development of a cohesive framework for bond trading.

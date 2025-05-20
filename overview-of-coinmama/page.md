@@ -1,6 +1,8 @@
 ---
-title: "Overview of Coinmama (Algo Trading)"
-description: "Coinmama offers a beginner-friendly cryptocurrency trading platform, prioritizing simplicity, user security, and support, but with limited crypto options."
+category: quant_concept
+description: Coinmama offers a beginner-friendly cryptocurrency trading platform,
+  prioritizing simplicity, user security, and support, but with limited crypto options.
+title: Overview of Coinmama (Algo Trading)
 ---
 
 Cryptocurrency exchanges have become fundamental to the landscape of digital assets, offering platforms for the trading, buying, and selling of various digital currencies. Among these exchanges, Coinmama stands out for its simplicity and user-friendly nature, catering primarily to beginners entering the cryptocurrency market. Established in 2013 and headquartered in Ireland, Coinmama has positioned itself as a convenient gateway for those new to digital currency investment, focusing on ease of use and straightforward navigation.

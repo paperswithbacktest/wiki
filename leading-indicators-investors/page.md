@@ -1,6 +1,9 @@
 ---
-title: "Leading Indicators and Their Use by Investors (Algo Trading)"
-description: "Explore how investors leverage leading economic indicators like the PMI and CCI, combined with algorithmic trading, to refine strategies and optimize returns in volatile markets."
+category: trading_strategy
+description: Explore how investors leverage leading economic indicators like the PMI
+  and CCI, combined with algorithmic trading, to refine strategies and optimize returns
+  in volatile markets.
+title: Leading Indicators and Their Use by Investors (Algo Trading)
 ---
 
 Investment strategies in today's volatile economic landscape require a comprehensive understanding of key economic indicators. These indicators are pivotal in helping investors make informed decisions by anticipating future market movements. By analyzing economic indicators, investors can gain insights into potential market trends, allowing them to adjust their investment strategies proactively. This article examines various investment strategies, the role played by leading economic indicators, and the impact of algorithmic trading on investment decisions. 

@@ -1,6 +1,9 @@
 ---
-title: "Leo Melamed: Financial Pioneer (Algo Trading)"
-description: "Explore the pioneering contributions of Leo Melamed to financial markets, from revolutionizing futures trading to advancing electronic trading technology and algorithms."
+category: quant_concept
+description: Explore the pioneering contributions of Leo Melamed to financial markets,
+  from revolutionizing futures trading to advancing electronic trading technology
+  and algorithms.
+title: 'Leo Melamed: Financial Pioneer (Algo Trading)'
 ---
 
 Leo Melamed is a distinguished figure in the financial markets, renowned for his groundbreaking work in the establishment and proliferation of financial futures. Born in Bialystok, Poland, in 1932, Melamed immigrated to the United States, where his career trajectory led him to become a pivotal force within the Chicago Mercantile Exchange (CME). As the Chairman Emeritus of CME Group, he has played a critical role in transforming the global financial trading environment through the introduction of innovative practices and technologies.
@@ -108,4 +111,4 @@ As we continue to witness rapid changes in market dynamics characterized by incr
 
 [9] Kane, E.J. (1988). "How Market Forces Influence the Structure of Financial Regulation." In "Regulation and the Economic Aspects of the Markets," Federal Reserve Bank of Atlanta.
 
-[10] Chance, D. M., & Brooks, R. (2013). "An Introduction to Derivatives and Risk Management." Cengage Learning. 
+[10] Chance, D. M., & Brooks, R. (2013). "An Introduction to Derivatives and Risk Management." Cengage Learning.

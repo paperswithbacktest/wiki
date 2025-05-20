@@ -1,6 +1,9 @@
 ---
-title: "Comparison of Variable and Fixed Costs (Algo Trading)"
-description: "Understand variable and fixed costs in algo trading to optimize strategies and boost profitability. Learn how these expenses impact decision-making and trading outcomes."
+category: quant_concept
+description: Understand variable and fixed costs in algo trading to optimize strategies
+  and boost profitability. Learn how these expenses impact decision-making and trading
+  outcomes.
+title: Comparison of Variable and Fixed Costs (Algo Trading)
 ---
 
 In the fast-paced world of algorithmic trading, understanding the components of cost structures is crucial for maximizing profitability. Algorithmic trading, which uses complex algorithms to automate trading decisions and execute orders at optimal speeds, is significantly impacted by how costs are managed. The efficiency of a trading strategy is not solely determined by its ability to generate profits but also by how well it manages costs associated with executing trades.

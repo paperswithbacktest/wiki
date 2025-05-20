@@ -1,6 +1,9 @@
 ---
-title: "Types and Examples of Trade Protectionism (Algo Trading)"
-description: "Explore the interplay of trade protectionism and algo trading through examples like tariffs and subsidies Learn how policies shape global markets and strategies"
+category: quant_concept
+description: Explore the interplay of trade protectionism and algo trading through
+  examples like tariffs and subsidies Learn how policies shape global markets and
+  strategies
+title: Types and Examples of Trade Protectionism (Algo Trading)
 ---
 
 Protectionism is a pivotal concept in global trade, characterized by government actions and policies that restrict or restrain international trade to protect domestic industries from foreign competition. This approach to trade policy has been significant historically and continues to shape international markets to this day. Trade protectionism can manifest in various forms, including but not limited to tariffs, quotas, subsidies, and anti-dumping measures. Each type of protectionist policy has distinct effects on trade dynamics, influencing the competitive landscape and the economic interactions between nations.

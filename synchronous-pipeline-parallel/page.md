@@ -1,7 +1,8 @@
 ---
-title: Efficient Large Model Training with Synchronous Pipeline Parallel
+category: quant_concept
 description: Synchronous Pipeline Parallel efficiently accelerates model training
   across GPUs by synchronizing micro-batches to ensure accuracy Discover more inside
+title: Efficient Large Model Training with Synchronous Pipeline Parallel
 ---
 
 ![Image](images/1.jpeg)

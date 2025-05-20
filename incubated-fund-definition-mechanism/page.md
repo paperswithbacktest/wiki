@@ -1,6 +1,8 @@
 ---
-title: "Incubated Fund: Definition and Mechanism (Algo Trading)"
-description: "Explore incubated funds and their role in algorithmic trading Discover how innovation in financial strategies can optimize returns and manage risks effectively"
+category: quant_concept
+description: Explore incubated funds and their role in algorithmic trading Discover
+  how innovation in financial strategies can optimize returns and manage risks effectively
+title: 'Incubated Fund: Definition and Mechanism (Algo Trading)'
 ---
 
 Investment strategies within financial markets have undergone substantial transformation with the advent of modern technological mechanisms. These advancements have revolutionized how financial instruments and markets operate, offering novel ways for investors to optimize returns while effectively managing risks.
@@ -208,4 +210,3 @@ When these components are synthesized, investors gain a significant competitive 
 - Aronson, D. 'Evidence-Based Technical Analysis: Applying the Scientific Method and Statistical Inference to Trading Signals.' Aronson's work highlights the importance of using scientific methods in technical analysis for trading, emphasizing proper statistical testing to validate trading signals.
 
 - Chan, E. P. 'Quantitative Trading: How to Build Your Own Algorithmic Trading Business.' Chan's book is a guide to starting an algorithmic trading venture, offering practical advice on system design, data sourcing, and risk management techniques. It serves as a foundational text for traders seeking to implement algorithmic solutions within their investment strategies.
-

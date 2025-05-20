@@ -1,6 +1,15 @@
 ---
-title: "Structural Adjustment Programs (Algo Trading)"
-description: "Explore the complex interplay between Structural Adjustment Programs (SAPs), economic reforms, and financial market evolution. This article investigates into the effects of SAPs, notably those implemented by the IMF and World Bank, on global economies amidst the rise of algorithmic trading. Examining SAPs' historical goals to foster adaptable markets, the piece highlights both the economic benefits and social challenges they pose. It also discusses how algorithmic trading is reshaping market dynamics, offering insights into striking a balance between economic efficiency and socio-economic inclusivity. Discover the dual forces shaping the future of global economies."
+category: quant_concept
+description: Explore the complex interplay between Structural Adjustment Programs
+  (SAPs), economic reforms, and financial market evolution. This article investigates
+  into the effects of SAPs, notably those implemented by the IMF and World Bank, on
+  global economies amidst the rise of algorithmic trading. Examining SAPs' historical
+  goals to foster adaptable markets, the piece highlights both the economic benefits
+  and social challenges they pose. It also discusses how algorithmic trading is reshaping
+  market dynamics, offering insights into striking a balance between economic efficiency
+  and socio-economic inclusivity. Discover the dual forces shaping the future of global
+  economies.
+title: Structural Adjustment Programs (Algo Trading)
 ---
 
 The intricate relationship between structural adjustment programs (SAPs), economic reforms, and the evolution of financial markets presents a fascinating study of economic dynamics. Structural Adjustment Programs have long been a subject of intense debates with divergent viewpoints on their efficacy. Implemented primarily by the International Monetary Fund (IMF) and the World Bank, these programs have historically aimed to create more adaptable and market-oriented economies by imposing conditions for loans and financial aid. Although proponents argue that SAPs can lead to competitive economic environments and reduced dependency on foreign aid, critics highlight potential adverse effects, including heightened social inequality and the erosion of welfare systems in economically vulnerable nations.
@@ -112,4 +121,4 @@ In conclusion, the interplay between structural adjustment programs and algorith
 
 [5]: International Monetary Fund, ["Structural Adjustment and Economic Growth."](https://www.researchgate.net/publication/233868994_The_Impacts_of_the_World_Bank_and_IMF_Structural_Adjustment_Programmes_on_Africa_The_Case_Study_of_Cote_D'Ivoire_Senegal_Uganda_and_Zimbabwe) 
 
-[6]: World Bank, ["Adjustment Lending Retrospective."](https://documents.worldbank.org/en/publication/documents-reports/documentdetail/363591468313755270/adjustment-lending-retrospective) 
+[6]: World Bank, ["Adjustment Lending Retrospective."](https://documents.worldbank.org/en/publication/documents-reports/documentdetail/363591468313755270/adjustment-lending-retrospective)

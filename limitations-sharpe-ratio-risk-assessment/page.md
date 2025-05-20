@@ -1,6 +1,8 @@
 ---
-title: "Limitations of the Sharpe Ratio in Risk Assessment (Algo Trading)"
-description: "Discover the inherent limitations of the Sharpe Ratio in assessing risk and optimizing strategies in algorithmic trading to enhance decision-making."
+category: quant_concept
+description: Discover the inherent limitations of the Sharpe Ratio in assessing risk
+  and optimizing strategies in algorithmic trading to enhance decision-making.
+title: Limitations of the Sharpe Ratio in Risk Assessment (Algo Trading)
 ---
 
 The Sharpe Ratio, pioneered by Nobel laureate William F. Sharpe, stands as a cornerstone in the field of investment analysis. This metric is designed to evaluate the risk-adjusted return of an investment, offering valuable insights into the relationship between risk and return. Essentially, it measures how well the return on an investment compensates for the risk taken. 

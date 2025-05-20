@@ -1,7 +1,8 @@
 ---
-title: Understanding Least Squares Regression in Machine Learning
+category: quant_concept
 description: Least Squares Regression underpins accurate predictions by minimizing
   error and guiding coefficient estimation in regression models Discover more inside.
+title: Understanding Least Squares Regression in Machine Learning
 ---
 
 ![Image](images/1.jpeg)

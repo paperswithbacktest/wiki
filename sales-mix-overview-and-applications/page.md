@@ -1,6 +1,8 @@
 ---
-title: "Sales Mix Overview and Applications (Algo Trading)"
-description: "Explore how product assortment, sales mix, and algorithmic trading enhance growth and profitability by aligning offerings with market needs in a dynamic era."
+category: trading_strategy
+description: Explore how product assortment, sales mix, and algorithmic trading enhance
+  growth and profitability by aligning offerings with market needs in a dynamic era.
+title: Sales Mix Overview and Applications (Algo Trading)
 ---
 
 In an era characterized by rapid technological advancements and shifting consumer preferences, businesses must continuously refine their operational strategies to sustain growth and profitability. This necessitates a nuanced understanding of product assortment, strategic business planning, sales mix, and algorithmic trading. Product assortment, the variety of products a company offers, is fundamental in catering to diverse consumer demands and establishing strong brand loyalty. Meanwhile, strategic planning with a focus on product mix helps businesses align their offerings with market needs and organizational goals.

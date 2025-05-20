@@ -1,6 +1,8 @@
 ---
-title: "algorithmic execution benchmarks (Algo Trading)"
-description: "Explore algorithmic execution benchmarks that evaluate trading performance, such as VWAP and TWAP Optimize strategies, reduce costs, and enhance efficiency"
+category: quant_concept
+description: Explore algorithmic execution benchmarks that evaluate trading performance,
+  such as VWAP and TWAP Optimize strategies, reduce costs, and enhance efficiency
+title: algorithmic execution benchmarks (Algo Trading)
 ---
 
 Algorithmic trading is the process of using computer algorithms to automate trading decisions and execute trades in financial markets. This approach allows for the rapid processing of large volumes of data and the execution of transactions at high speed, often exploiting minute price differentials across various markets. Algorithmic trading is significant in modern financial markets as it enhances liquidity, reduces transaction costs, and mitigates human biases in decision making. It is widely used by institutional investors, hedge funds, and other market participants to implement complex trading strategies.

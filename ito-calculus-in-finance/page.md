@@ -1,6 +1,8 @@
 ---
-title: "Ito calculus in finance (Algo Trading)"
-description: "Explore how Itô calculus enhances algorithmic trading by modeling asset price dynamics and enabling high-speed, accurate trading strategies."
+category: quant_concept
+description: Explore how Itô calculus enhances algorithmic trading by modeling asset
+  price dynamics and enabling high-speed, accurate trading strategies.
+title: Ito calculus in finance (Algo Trading)
 ---
 
 Algorithmic trading, a cornerstone of contemporary financial markets, involves the use of sophisticated computer algorithms to execute trading decisions without human intervention. This approach allows for high-speed and high-frequency trading, capable of responding to market changes with precision and efficiency. At the heart of these algorithmic systems lies stochastic calculus, a mathematical framework that is indispensable in modeling the random behavior of asset prices.

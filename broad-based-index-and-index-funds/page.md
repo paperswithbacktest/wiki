@@ -1,6 +1,8 @@
 ---
-title: "Broad-Based Index and Broad Index Funds (Algo Trading)"
-description: "Discover broad-based index investment indexing funds and algorithmic trading essentials Explore diversification cost-effective strategies and tech advancements"
+category: trading_strategy
+description: Discover broad-based index investment indexing funds and algorithmic
+  trading essentials Explore diversification cost-effective strategies and tech advancements
+title: Broad-Based Index and Broad Index Funds (Algo Trading)
 ---
 
 Broad-based index investment, index funds, and algorithmic trading are pivotal components in the landscape of modern finance. Broad-based indices, such as the S&P 500 and the NASDAQ Composite, serve as benchmarks that reflect the performance of a wide spectrum of the market. By investing in these indices, investors can achieve diversification, a strategy that mitigates risk by spreading investments across various asset classes. This diversification forms the backbone of passive investment strategies, allowing investors to mirror market returns without engaging in frequent buying and selling.

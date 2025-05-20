@@ -1,7 +1,8 @@
 ---
-title: Understanding Large Language Models Architecture and Applications
+category: quant_concept
 description: Large Language Models use transformer architecture to generate humanlike
   language for content creation and customer service Discover more inside.
+title: Understanding Large Language Models Architecture and Applications
 ---
 
 ![Image](images/1.png)

@@ -1,6 +1,9 @@
 ---
-title: "Technical Indicators in Stock Analysis (Algo Trading)"
-description: "Discover how technical indicators and algo trading revolutionize stock analysis, enabling investors to make informed, data-driven decisions in complex markets."
+category: trading_strategy
+description: Discover how technical indicators and algo trading revolutionize stock
+  analysis, enabling investors to make informed, data-driven decisions in complex
+  markets.
+title: Technical Indicators in Stock Analysis (Algo Trading)
 ---
 
 Investment strategies and stock analysis are foundational components in the financial markets, assisting investors in making informed decisions. As the financial landscape becomes increasingly complex, investors leverage various methodologies to navigate this terrain successfully. Among these methodologies, technical indicators and algorithmic (algo) trading strategies have garnered significant attention. These tools provide a systematic and analytical approach to understanding market trends and executing trades, significantly enhancing investment outcomes.

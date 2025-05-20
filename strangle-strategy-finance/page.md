@@ -1,6 +1,9 @@
 ---
-title: "Strangle Strategy in Finance (Algo Trading)"
-description: "Explore the flexible strangle strategy in options trading designed to leverage significant price shifts through algorithmic trading. Learn its mechanics and benefits."
+category: trading_strategy
+description: Explore the flexible strangle strategy in options trading designed to
+  leverage significant price shifts through algorithmic trading. Learn its mechanics
+  and benefits.
+title: Strangle Strategy in Finance (Algo Trading)
 ---
 
 Options trading offers a vast array of strategies tailored to varying market conditions and risk appetites. Among these, the strangle strategy stands out as a flexible technique aimed at capitalizing on substantial price shifts, regardless of direction. A strangle involves simultaneously holding positions in both a call and a put option with different strike prices, typically out-of-the-money. This strategy is particularly advantageous in volatile markets where significant price movements are anticipated but the direction is uncertain.

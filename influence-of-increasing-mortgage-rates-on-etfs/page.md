@@ -1,6 +1,8 @@
 ---
-title: "Influence of Increasing Mortgage Rates on Exchange-Traded Funds (Algo Trading)"
-description: "Explore how rising mortgage rates impact ETFs and algo trading Learn about their interplay and what it means for investors in today's financial landscape"
+category: quant_concept
+description: Explore how rising mortgage rates impact ETFs and algo trading Learn
+  about their interplay and what it means for investors in today's financial landscape
+title: Influence of Increasing Mortgage Rates on Exchange-Traded Funds (Algo Trading)
 ---
 
 In the complex world of finance, four elements frequently come to the forefront: mortgage rates, financial markets, ETFs, and algorithmic trading. Understanding the interplay among these can provide deeper insights into investment strategies. This article explores how these components interact and influence the broader financial ecosystem. We will examine each element and highlight key impacts on investors and market participants. By the end, readers will have a comprehensive understanding of these essential finance components. 

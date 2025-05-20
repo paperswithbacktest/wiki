@@ -1,6 +1,9 @@
 ---
-title: "Non-Convertible Currency (Algo Trading)"
-description: "Explore the multifaceted world of non-convertible currencies in algo trading Learn how algorithmic trading navigates the complexities and opportunities in restricted markets"
+category: quant_concept
+description: Explore the multifaceted world of non-convertible currencies in algo
+  trading Learn how algorithmic trading navigates the complexities and opportunities
+  in restricted markets
+title: Non-Convertible Currency (Algo Trading)
 ---
 
 In the ever-evolving landscape of global finance, currency exchange plays a crucial role in international trade and investment. The seamless flow of capital across borders facilitates economic growth, enhances liquidity, and enables businesses to take advantage of global opportunities. However, the international foreign exchange market is not without its challenges, particularly in the context of non-convertible currencies and the associated restrictions they impose.

@@ -1,6 +1,8 @@
 ---
-title: "Economic Sociology (Algo Trading)"
-description: "Explore how economic sociology views algorithmic trading through a social lens examining how embeddedness and relational dynamics influence modern markets."
+category: quant_concept
+description: Explore how economic sociology views algorithmic trading through a social
+  lens examining how embeddedness and relational dynamics influence modern markets.
+title: Economic Sociology (Algo Trading)
 ---
 
 Economic sociology is a field that examines the social dimensions of economic phenomena, positioning the economy as a subsystem enmeshed within the broader fabric of society. This perspective challenges the conventional economic narrative that often isolates economic behavior from its social context. By understanding economic systems as embedded within societal frameworks, economic sociology offers a unique lens through which we can interpret complex interactions that drive modern markets.

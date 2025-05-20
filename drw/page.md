@@ -1,6 +1,9 @@
 ---
-title: "DRW (Algo Trading)"
-description: "Discover DRW's innovative approach in the dynamic world of algorithmic trading and explore how cutting-edge tech drives global market opportunities and strategies."
+category: trading_strategy
+description: Discover DRW's innovative approach in the dynamic world of algorithmic
+  trading and explore how cutting-edge tech drives global market opportunities and
+  strategies.
+title: DRW (Algo Trading)
 ---
 
 DRW Holdings, LLC, commonly known as DRW, has established itself as a formidable entity in the field of algorithmic trading, a sector that has revolutionized the way financial markets operate. As a prominent trader, DRW leverages cutting-edge technology and sophisticated algorithmic strategies to make split-second trading decisions, enabling it to capitalize on opportunities across various asset classes around the globe.

@@ -1,6 +1,9 @@
 ---
-title: "Comptroller General (Algo Trading)"
-description: "Explore the roles of fiscal oversight and government finance in economic governance. Learn how algorithmic trading enhances efficiency in public finance management."
+category: quant_concept
+description: Explore the roles of fiscal oversight and government finance in economic
+  governance. Learn how algorithmic trading enhances efficiency in public finance
+  management.
+title: Comptroller General (Algo Trading)
 ---
 
 Understanding the roles and responsibilities in fiscal oversight is crucial for efficient government finance management. Fiscal oversight serves as a cornerstone in ensuring that public funds are used effectively, responsibly, and transparently. As governments worldwide grapple with increasingly complex financial landscapes, driven by both domestic policies and global economic trends, the need for stringent fiscal oversight mechanisms becomes apparent. These mechanisms are vital not only in maintaining budget integrity but also in building public trust and economic stability.
@@ -124,4 +127,3 @@ Ultimately, the alignment of fiscal oversight, adept comptrollers, and financial
 [6]: Naufa, A. Y., Nurhayati, M. S., & Suhartono, D. (2020). ["Algorithmic Trading and the Future Landscape of Government Debt Management"](https://scholar.google.com/citations?user=EFrC0yMAAAAJ&hl=en). IOP Conference Series: Earth and Environmental Science, 442, 012049.
 
 [7]: Bodie, Z., Kane, A., & Marcus, A. J. (2018). ["Investments"](https://www.mheducation.com/highered/product/Investments-Bodie.html), 11th ed. McGraw-Hill Education.
-

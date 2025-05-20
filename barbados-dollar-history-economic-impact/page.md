@@ -1,6 +1,8 @@
 ---
-title: "Barbados Dollar: History and Economic Impact (Algo Trading)"
-description: "Explore the Barbados Dollar's impact on the economy and its role in algorithmic trading offering insights into forex market stability and investment strategies."
+category: quant_concept
+description: Explore the Barbados Dollar's impact on the economy and its role in algorithmic
+  trading offering insights into forex market stability and investment strategies.
+title: 'Barbados Dollar: History and Economic Impact (Algo Trading)'
 ---
 
 The Barbados Dollar (BBD) is integral to the Barbadian economy, serving as a cornerstone for the nation's financial stability. Established by the Central Bank of Barbados, the BBD facilitates economic activities, including tourism and offshore financial services, which are essential components of the Gross Domestic Product (GDP). The currency's peg to the US dollar at a fixed rate of Bds$2 to $1 ensures exchange rate stability, thus fostering investor confidence and making Barbados an attractive destination for international business.

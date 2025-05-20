@@ -1,6 +1,8 @@
 ---
-title: "Dow Jones Commodity Index: Overview and Functionality (Algo Trading)"
-description: "Explore the role of the Dow Jones Commodity Index in commodity trading and algorithmic strategies to enhance market insights and investment performance."
+category: quant_concept
+description: Explore the role of the Dow Jones Commodity Index in commodity trading
+  and algorithmic strategies to enhance market insights and investment performance.
+title: 'Dow Jones Commodity Index: Overview and Functionality (Algo Trading)'
 ---
 
 Understanding the nuances of commodity trading can seem daunting, but with the right tools and knowledge, it becomes much more accessible. In the vast world of finance, commodities hold a unique position as physical goods traded in markets, covering sectors such as agriculture, energy, and metals. One instrumental tool that provides a window into this complex market is the Dow Jones Commodity Index (DJCI). This index offers a broad overview of the commodities market, serving as a critical resource for investors and traders looking to diversify their portfolios and hedge against various market risks.

@@ -1,6 +1,8 @@
 ---
-title: "Disclosure Requirements for Private Companies (Algo Trading)"
-description: "Explore the impact of financial disclosure requirements on private companies, particularly in the context of algorithmic trading, to understand market dynamics."
+category: quant_concept
+description: Explore the impact of financial disclosure requirements on private companies,
+  particularly in the context of algorithmic trading, to understand market dynamics.
+title: Disclosure Requirements for Private Companies (Algo Trading)
 ---
 
 Financial disclosure serves as a critical component of market transparency and investor protection, distinguishing the financial landscape between public and private companies. Public companies are generally required to provide comprehensive financial disclosures as part of regulatory obligations, ensuring transparency for investors and stakeholders. These disclosures are typically mandated by regulatory bodies such as the U.S. Securities and Exchange Commission (SEC) and encompass financial statements, performance metrics, and other relevant information.

@@ -1,6 +1,9 @@
 ---
-title: "SEC 30-Day Yield Calculation and Examples (Algo Trading)"
-description: "Explore key financial concepts such as SEC yield and 30-day yield that enhance investment strategies in algo trading Learn to maximize returns while managing risks"
+category: quant_concept
+description: Explore key financial concepts such as SEC yield and 30-day yield that
+  enhance investment strategies in algo trading Learn to maximize returns while managing
+  risks
+title: SEC 30-Day Yield Calculation and Examples (Algo Trading)
 ---
 
 In today's complex financial landscape, understanding yield metrics is vital for investors seeking to maximize their returns. As the financial market evolves, a firm grasp of these metrics is crucial for navigating the intricacies of investment options. This article introduces key financial concepts such as SEC yield, 30-day yield, investment performance, and algorithmic trading. Each concept plays a significant role in shaping effective investment strategies and maximizing returns while managing risks.

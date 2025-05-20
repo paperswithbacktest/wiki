@@ -1,6 +1,9 @@
 ---
-title: "Crypto Lending: Overview and Types (Algo Trading)"
-description: "Discover the transformative potential of crypto lending and algorithmic trading. Learn how blockchain reshapes financial landscapes with innovative lending options."
+category: quant_concept
+description: Discover the transformative potential of crypto lending and algorithmic
+  trading. Learn how blockchain reshapes financial landscapes with innovative lending
+  options.
+title: 'Crypto Lending: Overview and Types (Algo Trading)'
 ---
 
 The world of cryptocurrency is transforming at an unprecedented rate, blending seamlessly with traditional financial systems to create novel opportunities and services. A burgeoning area within this transformation is crypto lending, which leverages blockchain technology to deliver innovative solutions for loans and investments. By providing a decentralized platform for lending and borrowing digital assets, crypto lending harnesses the unique capabilities of blockchain, such as transparency, security, and efficiency, thus altering the conventional dynamics of finance.

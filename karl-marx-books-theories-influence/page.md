@@ -1,6 +1,9 @@
 ---
-title: "Karl Marx: Books, Theories, and Influence (Algo Trading)"
-description: "Explore the intersection of Karl Marx's theories and algorithmic trading in finance, analyzing the socio-economic implications, power dynamics, and potential inequalities."
+category: quant_concept
+description: Explore the intersection of Karl Marx's theories and algorithmic trading
+  in finance, analyzing the socio-economic implications, power dynamics, and potential
+  inequalities.
+title: 'Karl Marx: Books, Theories, and Influence (Algo Trading)'
 ---
 
 The modern financial markets are ever-evolving, constantly integrating new technologies to enhance efficiency and profitability. One such significant innovation is algorithmic trading, a transformative approach that leverages complex algorithms to automate trading strategies. This method capitalizes on speed and precision, executing trades at a pace unimaginable to human traders. As financial markets embrace these advancements, the socio-economic implications of such technologies merit thorough examination.

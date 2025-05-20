@@ -1,7 +1,8 @@
 ---
-title: Key Information Retrieval Methods for Advanced Machine Learning
+category: quant_concept
 description: Information Retrieval methods from SERAC to TILDEv2 and ReInfoSelect
   boost ML search accuracy and efficiency across domains Discover more inside
+title: Key Information Retrieval Methods for Advanced Machine Learning
 ---
 
 ![Image](images/1.jpeg)

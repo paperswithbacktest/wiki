@@ -1,6 +1,15 @@
 ---
-title: "LSV Asset Management (Algo Trading)"
-description: LSV Asset Management is a pioneer in the investment management sector, renowned for its innovative use of quantitative and algorithmic trading strategies. Founded in 1994 by esteemed finance professors, the firm blends behavioral finance insights with rigorous quantitative analysis to identify market inefficiencies. LSV's systematic approach leverages mathematical models to optimize portfolio management and enhance value investing, ensuring robust and data-driven investment solutions for its clients. Headquartered in Chicago, LSV remains at the forefront of financial innovation, consistently delivering value through strategic asset management and advanced algorithmic trading techniques.
+category: trading_strategy
+description: LSV Asset Management is a pioneer in the investment management sector,
+  renowned for its innovative use of quantitative and algorithmic trading strategies.
+  Founded in 1994 by esteemed finance professors, the firm blends behavioral finance
+  insights with rigorous quantitative analysis to identify market inefficiencies.
+  LSV's systematic approach leverages mathematical models to optimize portfolio management
+  and enhance value investing, ensuring robust and data-driven investment solutions
+  for its clients. Headquartered in Chicago, LSV remains at the forefront of financial
+  innovation, consistently delivering value through strategic asset management and
+  advanced algorithmic trading techniques.
+title: LSV Asset Management (Algo Trading)
 ---
 
 LSV Asset Management has established itself as a significant force within the investment management industry, known for its innovative strategies and academic roots. Founded in 1994 by a trio of renowned finance professors—Josef Lakonishok, Andrei Shleifer, and Robert W. Vishny—the firm quickly gained attention for its unique approach to asset management. These founders brought with them a wealth of knowledge and expertise, particularly in the fields of behavioral finance and value investing, which has continued to inform the firm's strategies over the decades.

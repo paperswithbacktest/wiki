@@ -1,6 +1,9 @@
 ---
-title: "Digital Gold Currency (Algo Trading)"
-description: "Explore the innovative blend of traditional gold investment and digital finance with Digital Gold Currency offering stability, algorithmic trading benefits, and challenges."
+category: quant_concept
+description: Explore the innovative blend of traditional gold investment and digital
+  finance with Digital Gold Currency offering stability, algorithmic trading benefits,
+  and challenges.
+title: Digital Gold Currency (Algo Trading)
 ---
 
 Digital Gold Currency (DGC) represents an intriguing fusion of traditional gold investment with the modern world of digital finance. Rooted in the intrinsic value and historical stability of gold, DGC offers an evolved method of engaging with gold by transforming it into a form of electronic currency. This mechanism relies on gold reserves housed in secure vaults, allowing digital transactions that reflect the value of physical gold. This transformation not only retains the value inherent in gold investments but also introduces the flexibility and convenience synonymous with digital exchanges.

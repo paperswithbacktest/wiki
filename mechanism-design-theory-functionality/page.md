@@ -1,6 +1,9 @@
 ---
-title: "Mechanism Design Theory and Its Functionality (Algo Trading)"
-description: "Explore mechanism design theory's role in algorithmic trading to achieve desired economic outcomes amidst strategic behavior and incomplete information in markets."
+category: quant_concept
+description: Explore mechanism design theory's role in algorithmic trading to achieve
+  desired economic outcomes amidst strategic behavior and incomplete information in
+  markets.
+title: Mechanism Design Theory and Its Functionality (Algo Trading)
 ---
 
 Mechanism design theory is a foundational aspect of economic modeling, integral to understanding and guiding the outcomes of myriad economic and social interactions. By considering how individuals follow their own self-interest, mechanism design provides frameworks to align these interests with socially desirable outcomes. As a subset of game theory, mechanism design involves constructing games in a manner that ensures players, acting rationally with their private information, lead to outcomes that fulfill specified objectives.

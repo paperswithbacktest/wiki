@@ -1,6 +1,8 @@
 ---
-title: "Economic Indicators of China (Algo Trading)"
-description: "Explore China's economic indicators and GDP to navigate global markets. Insights into growth, industry, trade, and algorithmic trading guide informed decisions."
+category: dataset
+description: Explore China's economic indicators and GDP to navigate global markets.
+  Insights into growth, industry, trade, and algorithmic trading guide informed decisions.
+title: Economic Indicators of China (Algo Trading)
 ---
 
 China, as the world’s second-largest economy, plays a pivotal role in global economic dynamics. Understanding its Gross Domestic Product (GDP) and various economic indicators is crucial for analysts and investors seeking to navigate the complexities of international markets. China's economic significance is underscored by its rapid growth over the past few decades, transitioning from a centrally planned economy to a more market-oriented one.

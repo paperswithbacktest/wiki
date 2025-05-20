@@ -1,6 +1,8 @@
 ---
-title: "Swing Trading: Benefits and Drawbacks (Algo Trading)"
-description: "Explore the benefits and drawbacks of swing trading and algorithmic trading in this insightful article Discover how these strategies impact modern investors"
+category: trading_strategy
+description: Explore the benefits and drawbacks of swing trading and algorithmic trading
+  in this insightful article Discover how these strategies impact modern investors
+title: 'Swing Trading: Benefits and Drawbacks (Algo Trading)'
 ---
 
 In the ever-evolving world of finance, investing has become a multifaceted field. Investors are increasingly faced with a broad spectrum of strategies, each offering distinct opportunities and challenges. Among the plethora of investment techniques, swing trading and algorithmic trading have emerged as prominent strategies favored by many modern investors.

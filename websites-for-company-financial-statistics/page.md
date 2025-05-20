@@ -1,6 +1,8 @@
 ---
-title: "Websites for Company Financial Statistics (Algo Trading)"
-description: "Explore how company financial statistics and financial data drive informed investment strategies and decision-making in algo trading and corporate finance."
+category: dataset
+description: Explore how company financial statistics and financial data drive informed
+  investment strategies and decision-making in algo trading and corporate finance.
+title: Websites for Company Financial Statistics (Algo Trading)
 ---
 
 Finance has embraced a data-driven approach, where financial statistics and financial data serve as crucial components of investment strategies and decision-making processes. Companies are increasingly relying on finance analytics to not only evaluate current market conditions but also to predict future trends, enabling them to make more informed decisions that align with their strategic objectives. This analytical approach has become central to gaining a competitive edge in the financial sector.

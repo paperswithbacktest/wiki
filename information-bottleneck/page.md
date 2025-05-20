@@ -1,7 +1,8 @@
 ---
-title: Information Bottleneck Method for Efficient Machine Learning
+category: quant_concept
 description: Information Bottleneck method balances compression and predictive power
   to focus models on key features for improved performance Discover more inside
+title: Information Bottleneck Method for Efficient Machine Learning
 ---
 
 ![Image](images/1.png)

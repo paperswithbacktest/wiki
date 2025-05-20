@@ -1,6 +1,8 @@
 ---
-title: "Impact of the Bretton Woods System (Algo Trading)"
-description: "Explore how the historical Bretton Woods System and modern algorithmic trading have shaped global finance, impacting economic strategies and market operations."
+category: quant_concept
+description: Explore how the historical Bretton Woods System and modern algorithmic
+  trading have shaped global finance, impacting economic strategies and market operations.
+title: Impact of the Bretton Woods System (Algo Trading)
 ---
 
 The world of finance is in a constant state of evolution, shaped by a myriad of factors including historical agreements, technological advancements, and global economic policies. This article will explore the intersection of several critical components that have significantly influenced modern financial markets: the Bretton Woods System and algorithmic trading. Understanding these elements provides insights into past economic strategies and how they continue to mold the financial landscape.

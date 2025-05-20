@@ -1,6 +1,8 @@
 ---
-title: "Trade Finance: Overview and Benefits (Algo Trading)"
-description: "Discover how trade finance and algorithmic trading enhance international trade by reducing risks and boosting efficiency Explore their vital financial benefits"
+category: quant_concept
+description: Discover how trade finance and algorithmic trading enhance international
+  trade by reducing risks and boosting efficiency Explore their vital financial benefits
+title: 'Trade Finance: Overview and Benefits (Algo Trading)'
 ---
 
 Trade finance and algorithmic trading play crucial roles in the global trading landscape by offering unique yet interconnected benefits to traders and financial institutions. Trade finance encompasses a range of financial tools designed to support international trade. It enables importers and exporters to mitigate risks associated with cross-border transactions, such as currency fluctuations, political instability, and creditworthiness of trading partners. Through financial instruments like letters of credit, trade finance provides the necessary assurance and liquidity that facilitate smooth international trade operations.

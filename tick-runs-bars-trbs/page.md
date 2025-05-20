@@ -1,6 +1,14 @@
 ---
-title: "Tick runs bars (TRBs) (Algo Trading)"
-description: Explore how Tick Runs Bars (TRBs) revolutionize algorithmic trading by offering a precise depiction of market activities. Unlike the traditional time bars, TRBs adapt to actual trade flows, forming bars based on sequences of similar trades reaching a set threshold. This method uncovers critical market dynamics that time-based approaches often miss, enhancing insight into supply and demand pressures. By incorporating these dynamically formed bars into trading strategies, traders can develop agile responses, significantly improving execution and prediction accuracy in volatile markets where timely decision-making is crucial.
+category: quant_concept
+description: Explore how Tick Runs Bars (TRBs) revolutionize algorithmic trading by
+  offering a precise depiction of market activities. Unlike the traditional time bars,
+  TRBs adapt to actual trade flows, forming bars based on sequences of similar trades
+  reaching a set threshold. This method uncovers critical market dynamics that time-based
+  approaches often miss, enhancing insight into supply and demand pressures. By incorporating
+  these dynamically formed bars into trading strategies, traders can develop agile
+  responses, significantly improving execution and prediction accuracy in volatile
+  markets where timely decision-making is crucial.
+title: Tick runs bars (TRBs) (Algo Trading)
 ---
 
 Algorithmic trading has profoundly transformed financial markets by employing systematic and efficient strategies to execute trades. Central to this approach is the utilization of various data structures known as bars, which are used to segment and analyze financial data. Traditionally, time bars have been the cornerstone, sampling data at regular time intervals, typically minutes, hours, or days. However, as trading technology and market dynamics have evolved, so has the need for more sophisticated methodologies that can capture the intricacies of market movements. 
@@ -123,4 +131,3 @@ Easley, Lopez de Prado, and O’Hara's "The Microstructure of Financial Markets"
 Investopedia offers accessible articles on algorithmic trading and financial data types, providing a solid foundation for beginners and a quick reference for experienced traders. These articles cover definitions, explanations of key concepts, and practical applications of various trading strategies. Investopedia’s content spans from basic introductions to complex topics like high-frequency trading, offering a comprehensive overview of the tools and techniques employed in algorithmic trading today.
 
 These resources collectively offer both theoretical insights and practical guidance on leveraging advanced data structures such as Tick Runs Bars in algorithmic trading, equipping traders with the knowledge needed to refine their strategies and improve execution in the fast-paced financial markets.
-

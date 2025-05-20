@@ -1,6 +1,9 @@
 ---
-title: "Overview of Systemically Important Financial Institutions (Algo Trading)"
-description: "Explore how Systemically Important Financial Institutions SIFIs impact global financial stability by blending traditional finance with cutting-edge algorithmic trading."
+category: quant_concept
+description: Explore how Systemically Important Financial Institutions SIFIs impact
+  global financial stability by blending traditional finance with cutting-edge algorithmic
+  trading.
+title: Overview of Systemically Important Financial Institutions (Algo Trading)
 ---
 
 Systemically Important Financial Institutions (SIFIs) are a critical component in maintaining the stability of the global financial system. These entities are often referred to as "too big to fail" due to their significant size, market influence, and the potential systemic impact their failure could have on the broader economy. The identification and regulation of SIFIs are essential to mitigating risks that could lead to financial crises, similar to the one experienced in 2008.

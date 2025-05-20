@@ -1,7 +1,8 @@
 ---
-title: Understanding False Positive Rate in Machine Learning Models
+category: quant_concept
 description: False Positive Rate quantifies how often a model misclassifies negatives
   as positives informing threshold adjustments for reliability Discover more inside
+title: Understanding False Positive Rate in Machine Learning Models
 ---
 
 ![Image](images/1.png)

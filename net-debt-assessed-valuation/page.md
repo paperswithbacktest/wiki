@@ -1,6 +1,8 @@
 ---
-title: "Net Debt and Assessed Valuation (Algo Trading)"
-description: "Discover the key roles of net debt and assessed valuation in finance and their impact on algorithmic trading strategies for investors and analysts."
+category: quant_concept
+description: Discover the key roles of net debt and assessed valuation in finance
+  and their impact on algorithmic trading strategies for investors and analysts.
+title: Net Debt and Assessed Valuation (Algo Trading)
 ---
 
 In the modern financial landscape, understanding core financial metrics is indispensable for investors, analysts, and traders. Among these metrics, net debt, assessed valuation, and algorithmic trading play vital roles. They are intricately linked, influencing financial analysis, strategic planning, and risk management.
@@ -153,4 +155,3 @@ For those seeking a comprehensive understanding of financial metrics such as net
    - **Bloomberg and Reuters Financial Analysis Articles**: Both platforms regularly publish articles exploring the application of financial metrics in current market scenarios, helpful for understanding real-world applications of theoretical concepts.
 
 These references collectively cater to those interested in mastering financial metrics and applying them to investment and trading strategies, enabling a thorough analysis and strategic decision-making.
-

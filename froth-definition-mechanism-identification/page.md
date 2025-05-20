@@ -1,6 +1,9 @@
 ---
-title: "Froth: Definition, Mechanism, and Identification (Algo Trading)"
-description: "Explore algorithmic trading and its role in detecting market froth through computational techniques to enhance financial stability and protect investors from bubbles."
+category: quant_concept
+description: Explore algorithmic trading and its role in detecting market froth through
+  computational techniques to enhance financial stability and protect investors from
+  bubbles.
+title: 'Froth: Definition, Mechanism, and Identification (Algo Trading)'
 ---
 
 Algorithmic trading, the practice of using complex algorithms to automate trading activities, has become an integral component of modern financial markets. It encompasses a wide range of strategies that leverage computational power to execute trades with speed and precision unattainable through manual methods. The adoption of algorithmic trading has been accelerated by advancements in technology, the increased availability of big data, and the demand for greater efficiency and reduced transaction costs. As of now, algorithmic trading accounts for a significant portion of the trading volume in various financial exchanges globally. 

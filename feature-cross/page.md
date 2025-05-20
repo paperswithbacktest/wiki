@@ -1,7 +1,8 @@
 ---
-title: Understanding Feature Crosses in Machine Learning Models
+category: quant_concept
 description: Feature crosses help machine learning models capture complex interactions
   between data points and improve prediction accuracy. Discover more inside
+title: Understanding Feature Crosses in Machine Learning Models
 ---
 
 ![Image](images/1.png)

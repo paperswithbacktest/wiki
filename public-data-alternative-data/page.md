@@ -1,6 +1,11 @@
 ---
-title: "Public Data Alternative Data (Algo Trading)"
-description: Explore the use of public and alternative data in algorithmic trading to enhance market insights and optimize strategies. Discover how traders combine traditional and non-traditional data sources to gain a competitive edge with timely and unique information. Learn about the benefits and challenges of integrating diverse data sets like social media sentiment and satellite imagery.
+category: dataset
+description: Explore the use of public and alternative data in algorithmic trading
+  to enhance market insights and optimize strategies. Discover how traders combine
+  traditional and non-traditional data sources to gain a competitive edge with timely
+  and unique information. Learn about the benefits and challenges of integrating diverse
+  data sets like social media sentiment and satellite imagery.
+title: Public Data Alternative Data (Algo Trading)
 ---
 
 In the rapidly evolving financial markets, obtaining an informational edge is crucial for traders to succeed. As the landscape becomes increasingly competitive, the ability to leverage data beyond traditional sources has become vital for informed decision making. Traditional data sources, such as financial statements and market reports, have long served as the backbone of investment strategies, providing a reliable foundation for assessing market conditions and company performance. However, the widespread availability of these data types limits their uniqueness, as most market participants have access to the same information, thus rapidly pricing such information into the market.

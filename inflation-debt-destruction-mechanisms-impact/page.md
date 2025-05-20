@@ -1,6 +1,9 @@
 ---
-title: "Inflation and Debt Destruction: Mechanisms and Impact (Algo Trading)"
-description: "Explore inflation, debt destruction, and their economic impact alongside the role of algorithmic trading. Understand market dynamics to better navigate fiscal challenges."
+category: quant_concept
+description: Explore inflation, debt destruction, and their economic impact alongside
+  the role of algorithmic trading. Understand market dynamics to better navigate fiscal
+  challenges.
+title: 'Inflation and Debt Destruction: Mechanisms and Impact (Algo Trading)'
 ---
 
 In the modern economic landscape, inflation and national debt are critical topics influencing fiscal policies and global markets. Inflation, the rate at which general price levels increase, erodes the purchasing power of money and has significant implications for both consumers and economies. National debt, the total amount borrowed by a government, affects fiscal stability and influences long-term economic growth. Together, these factors are pivotal in shaping monetary policy and economic strategies.
@@ -150,4 +153,3 @@ Thus, the evolution of economic strategies involves a harmonious blend of histor
    - *"Debt and Inflation: The Role of Monetary Policy,"* by the International Monetary Fund. A thorough exploration of how monetary policy can balance the effects of inflation on national debt.
 
 These references and readings offer a deeper understanding of the interconnected dynamics of inflation, debt, and algorithmic trading, providing valuable insights for further academic and practical exploration.
-

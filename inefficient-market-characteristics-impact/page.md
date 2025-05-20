@@ -1,6 +1,8 @@
 ---
-title: "Inefficient Market: Characteristics and Impact (Algo Trading)"
-description: "Explore the characteristics and impacts of inefficient markets in algorithmic trading Uncover opportunities and strategies to exploit market inefficiencies"
+category: quant_concept
+description: Explore the characteristics and impacts of inefficient markets in algorithmic
+  trading Uncover opportunities and strategies to exploit market inefficiencies
+title: 'Inefficient Market: Characteristics and Impact (Algo Trading)'
 ---
 
 Market efficiency and inefficiency are pivotal concepts that define the dynamics of financial markets. The Efficient Market Hypothesis (EMH) posits that asset prices fully reflect all available information, thus suggesting that it is impossible to consistently achieve higher returns than the overall market without assuming additional risk. However, the real-world financial markets are often influenced by factors that prevent prices from perfectly reflecting all information, leading to market inefficiencies.

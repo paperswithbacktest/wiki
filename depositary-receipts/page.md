@@ -1,6 +1,9 @@
 ---
-title: "Depositary Receipts (Algo Trading)"
-description: "Explore how depositary receipts and algorithmic trading revolutionize global financial markets enabling streamlined international investments and data-driven trading."
+category: quant_concept
+description: Explore how depositary receipts and algorithmic trading revolutionize
+  global financial markets enabling streamlined international investments and data-driven
+  trading.
+title: Depositary Receipts (Algo Trading)
 ---
 
 Investment securities such as depositary receipts and the advent of algorithmic trading have revolutionized the global financial markets. The innovative blend of these financial instruments with technology-driven trading strategies has transformed how investors engage with international markets. Depositary receipts play a pivotal role in simplifying international investment by allowing investors to hold shares in foreign companies through domestically traded instruments. This mechanism effectively bridges geographical and regulatory gaps, providing a streamlined path for cross-border equity investment.
@@ -128,4 +131,3 @@ Alan C. Shapiro's "Multinational Financial Management" is a comprehensive textbo
 To comprehend the influence of liquidity and market efficiency on trading practices, which are central to algorithmic trading, the seminal work by Chordia, Roll, and Subrahmanyam titled "Liquidity and Market Efficiency" is crucial. This research investigates into how liquidity conditions affect market operations, a key consideration for both traditional and algorithmic trading strategies.
 
 Lastly, Lopez de Prado's "Advances in Financial Machine Learning" provides expansive coverage on the role of machine learning in finance, including algorithmic trading. This book is essential for understanding how cutting-edge technologies and data analytics are applied to optimize trading decisions and improve financial outcomes. Through practical examples, it illustrates how machine learning techniques can be harnessed to enhance trading algorithms, making it particularly useful for traders looking to integrate these technologies into their strategies.
-

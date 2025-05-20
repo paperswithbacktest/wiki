@@ -1,7 +1,8 @@
 ---
-title: Ensemble Machine Learning Methods for Enhanced Model Accuracy
+category: trading_strategy
 description: Ensemble learning combines diverse models to boost accuracy enhance robustness
   and reduce overfitting with bagging boosting stacking Discover more inside
+title: Ensemble Machine Learning Methods for Enhanced Model Accuracy
 ---
 
 ![Image](images/1.png)

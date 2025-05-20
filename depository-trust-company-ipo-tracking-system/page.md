@@ -1,6 +1,9 @@
 ---
-title: "Depository Trust Company IPO Tracking System (Algo Trading)"
-description: "Enhance your IPO strategies with the Depository Trust Company IPO Tracking System, leveraging advanced technology to monitor transactions and prevent unauthorized share flipping."
+category: dataset
+description: Enhance your IPO strategies with the Depository Trust Company IPO Tracking
+  System, leveraging advanced technology to monitor transactions and prevent unauthorized
+  share flipping.
+title: Depository Trust Company IPO Tracking System (Algo Trading)
 ---
 
 Initial Public Offerings (IPOs) hold a crucial position in the financial markets as they represent the transition of a private company to a public one, allowing it to raise capital from the public. This process not only provides companies with funds necessary for expansion and development but also gives investors access to new investment opportunities and a share of ownership in potentially high-growth companies. IPOs are often seen as a barometer of market sentiment and can significantly impact stock market dynamics.

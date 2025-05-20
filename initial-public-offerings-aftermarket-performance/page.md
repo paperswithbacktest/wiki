@@ -1,6 +1,9 @@
 ---
-title: "Initial Public Offerings and Aftermarket Performance (Algo Trading)"
-description: "Explore the dynamic interplay between IPOs, aftermarket performance, and algorithmic trading to understand their impact on market behavior and investment decisions."
+category: quant_concept
+description: Explore the dynamic interplay between IPOs, aftermarket performance,
+  and algorithmic trading to understand their impact on market behavior and investment
+  decisions.
+title: Initial Public Offerings and Aftermarket Performance (Algo Trading)
 ---
 
 The intersection of financial markets, aftermarket performance, IPOs, and algorithmic trading forms a dynamic and intricate landscape within the investment sphere. This article examines the interplay of these components, revealing their influence on both short-term and long-term market dynamics. Financial markets provide a structure for trading a variety of assets, playing a crucial role in economic growth. IPOs, or initial public offerings, serve as a gateway for private companies to access public capital, impacting stock market behavior significantly, especially in the form of aftermarket performance, which assesses the stock's performance once it begins trading publicly. 

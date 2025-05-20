@@ -1,7 +1,8 @@
 ---
-title: Understanding Word Embedding for Effective Machine Learning
+category: quant_concept
 description: Word embedding turns words into vectors that capture context and relationships
   to improve NLP tasks and fine tune models Discover more inside.
+title: Understanding Word Embedding for Effective Machine Learning
 ---
 
 ![Image](images/1.png)

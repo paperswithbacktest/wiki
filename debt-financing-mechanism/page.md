@@ -1,6 +1,8 @@
 ---
-title: "Debt Financing Mechanism (Algo Trading)"
-description: "Explore the dynamic interplay between debt financing and algorithmic trading to understand how these financial mechanisms drive business growth and efficiency."
+category: quant_concept
+description: Explore the dynamic interplay between debt financing and algorithmic
+  trading to understand how these financial mechanisms drive business growth and efficiency.
+title: Debt Financing Mechanism (Algo Trading)
 ---
 
 Understanding the intricate world of finance involves exploring various mechanisms of funding and trading that facilitate economic growth and sustainability. This article focuses on critical financial instruments such as business funding and debt financing, while also addressing modern innovations like algorithmic trading. Each of these elements plays a significant role in shaping the financial landscape, providing essential support and growth opportunities for businesses and investors alike.

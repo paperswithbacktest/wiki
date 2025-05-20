@@ -1,6 +1,9 @@
 ---
-title: "Front End Ratio: Overview and Calculation (Algo Trading)"
-description: "Explore how front-end mortgage and debt-to-income ratios enhance algo trading strategies by assessing financial health, optimizing decisions, and managing risk."
+category: quant_concept
+description: Explore how front-end mortgage and debt-to-income ratios enhance algo
+  trading strategies by assessing financial health, optimizing decisions, and managing
+  risk.
+title: 'Front End Ratio: Overview and Calculation (Algo Trading)'
 ---
 
 In today's financial landscape, a solid grasp of key financial metrics is essential for making informed investment and borrowing decisions. Two pivotal metrics that significantly impact both personal and wider financial markets are the Debt-to-Income (DTI) ratio and the front-end mortgage ratio. Understanding these ratios can provide a clearer picture of financial health and risk assessment for both individuals and institutions. 

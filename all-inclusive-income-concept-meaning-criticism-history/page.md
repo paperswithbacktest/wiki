@@ -1,6 +1,9 @@
 ---
-title: "All-Inclusive Income Concept: Meaning, Criticism, and History (Algo Trading)"
-description: "Explore the all-inclusive income concept in accounting highlighting its expansive approach to income reporting. Learn about the criticisms and history of this method."
+category: quant_concept
+description: Explore the all-inclusive income concept in accounting highlighting its
+  expansive approach to income reporting. Learn about the criticisms and history of
+  this method.
+title: 'All-Inclusive Income Concept: Meaning, Criticism, and History (Algo Trading)'
 ---
 
 Income is a fundamental concept in economics, representing the monetary gain an individual or entity accrues over a period of time. It is essential for understanding economic performance and is a key indicator in assessing an organization’s financial health. Income is typically classified into different types, such as earned income, investment income, and passive income, each playing a unique role in economic analysis and policy-making.

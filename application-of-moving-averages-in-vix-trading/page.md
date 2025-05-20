@@ -1,6 +1,8 @@
 ---
-title: "Application of Moving Averages in VIX Trading (Algo Trading)"
-description: "Explore strategies using moving averages in VIX trading to identify market trends and volatility. Learn how to leverage these tools in algorithmic trading."
+category: trading_strategy
+description: Explore strategies using moving averages in VIX trading to identify market
+  trends and volatility. Learn how to leverage these tools in algorithmic trading.
+title: Application of Moving Averages in VIX Trading (Algo Trading)
 ---
 
 The VIX, or Cboe Volatility Index, is a pivotal indicator of market sentiment, frequently referred to as the 'fear index.' This financial instrument encapsulates the market's expectations of volatility over a 30-day forward period, extrapolated from the price patterns of S&P 500 index options. It's widely utilized by investors and traders to gauge the level of risk, fear, or stress in the market.

@@ -1,6 +1,9 @@
 ---
-title: "Book-to-Ship Ratio: Definition and Application (Algo Trading)"
-description: "Explore how the book-to-ship ratio aids in optimizing supply chains and inventory management. Learn its application in algorithmic trading for enhanced operations."
+category: quant_concept
+description: Explore how the book-to-ship ratio aids in optimizing supply chains and
+  inventory management. Learn its application in algorithmic trading for enhanced
+  operations.
+title: 'Book-to-Ship Ratio: Definition and Application (Algo Trading)'
 ---
 
 In today’s competitive business landscape, efficient supply chain management is crucial for success. Companies are constantly seeking ways to optimize their operations to remain competitive and responsive to customer demands. A pivotal aspect of this optimization is the effective management of inventory, where key metrics play an essential role. Among these metrics, the book-to-ship ratio stands out as one of the most critical.

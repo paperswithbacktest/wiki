@@ -1,9 +1,12 @@
 ---
-title: "Fundamental Analysis (Algo Trading)"
-description: Delve into the world of fundamental analysis, a key component of quantitative trading, and explore its role in algo trading. Learn how to assess a stock's intrinsic value by analyzing economic and financial factors. From top-down vs bottom-up analysis to qualitative and quantitative fundamentals, discover the importance of this approach for optimizing trading strategies and maximizing returns.
+category: quant_concept
+description: Delve into the world of fundamental analysis, a key component of quantitative
+  trading, and explore its role in algo trading. Learn how to assess a stock's intrinsic
+  value by analyzing economic and financial factors. From top-down vs bottom-up analysis
+  to qualitative and quantitative fundamentals, discover the importance of this approach
+  for optimizing trading strategies and maximizing returns.
+title: Fundamental Analysis (Algo Trading)
 ---
-
-
 
 Fundamental analysis is a crucial method in trading that involves assessing a company's intrinsic value by examining related economic, financial, and other qualitative and quantitative factors. This type of analysis is pivotal for investors looking to understand a company's actual worth through factors like financial statements, earnings reports, and market conditions, ultimately aiding in making informed investment decisions. By focusing on the underlying factors that influence an asset’s price, fundamental analysis aims to identify securities currently undervalued or overvalued. Unlike short-term-focused trading techniques, such as technical analysis, fundamental analysis tends to offer insights into the long-term viability and growth prospects of a company.
 

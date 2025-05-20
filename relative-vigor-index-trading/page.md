@@ -1,6 +1,8 @@
 ---
-title: "Relative Vigor Index in Trading (Algo Trading)"
-description: "Explore the Relative Vigor Index for insights into market momentum and trends Ideal for algorithmic trading Enhance trading strategies and decision-making"
+category: trading_strategy
+description: Explore the Relative Vigor Index for insights into market momentum and
+  trends Ideal for algorithmic trading Enhance trading strategies and decision-making
+title: Relative Vigor Index in Trading (Algo Trading)
 ---
 
 The Relative Vigor Index (RVI) is a prevalent technical indicator in the trading community, valued for its ability to assess market momentum effectively. Traders rely on the RVI to measure the strength and direction of market trends, which aids in making informed trading decisions. The use of technical indicators such as the RVI is integral to the practice of algorithmic trading, where predetermined criteria guide the execution of trades through automated systems.

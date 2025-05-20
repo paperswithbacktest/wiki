@@ -1,6 +1,8 @@
 ---
-title: "Capital Asset Pricing Model in Security Market Line (Algo Trading)"
-description: "Explore CAPM and SML in algorithmic trading as they assess risk and optimize returns Understanding these models aids in making informed financial decisions"
+category: quant_concept
+description: Explore CAPM and SML in algorithmic trading as they assess risk and optimize
+  returns Understanding these models aids in making informed financial decisions
+title: Capital Asset Pricing Model in Security Market Line (Algo Trading)
 ---
 
 The Capital Asset Pricing Model (CAPM) and the Security Market Line (SML) are integral components of financial theory, primarily utilized in assessing the expected returns of securities given their inherent risk levels. Developed in the 1960s, these models play a pivotal role in modern finance, enhancing the understanding of investment risk and return dynamics. They build on foundational concepts from diversification and modern portfolio theory, which emphasize the importance of balancing risk and reward within investment portfolios.

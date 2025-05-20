@@ -1,6 +1,9 @@
 ---
-title: "Drawing Account and Its Functionality (Algo Trading)"
-description: "Explore essential finance concepts including the drawing account for partnerships, financial management strategies, accounting principles, and algorithmic trading dynamics."
+category: quant_concept
+description: Explore essential finance concepts including the drawing account for
+  partnerships, financial management strategies, accounting principles, and algorithmic
+  trading dynamics.
+title: Drawing Account and Its Functionality (Algo Trading)
 ---
 
 In the ever-evolving world of finance, understanding essential concepts such as the drawing account, financial management, accounting, and algorithmic trading is crucial. The drawing account serves as a key financial mechanism in partnerships and sole proprietorships, allowing the tracking of an owner's withdrawals, affecting overall equity and financial statements. It plays a vital role in reflecting true financial conditions and facilitating transparent ownership management.

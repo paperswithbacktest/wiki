@@ -1,6 +1,9 @@
 ---
-title: "Comparison of Return on Investment and Internal Rate of Return (Algo Trading)"
-description: "Explore the significance of internal rate of return in algorithmic trading and investment analysis Learn how IRR enhances decision making by simplifying profitability assessments"
+category: quant_concept
+description: Explore the significance of internal rate of return in algorithmic trading
+  and investment analysis Learn how IRR enhances decision making by simplifying profitability
+  assessments
+title: Comparison of Return on Investment and Internal Rate of Return (Algo Trading)
 ---
 
 Understanding investment metrics is crucial for making informed financial decisions. In this article, we examine the internal rate of return (IRR) and its significance in investment analysis, with a specific focus on algorithmic trading. 

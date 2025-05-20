@@ -1,6 +1,8 @@
 ---
-title: "Causes of Stock Price Decline (Algo Trading)"
-description: "Explore factors causing stock price declines with a focus on economic influences and how algorithmic trading can amplify market volatility and impact."
+category: quant_concept
+description: Explore factors causing stock price declines with a focus on economic
+  influences and how algorithmic trading can amplify market volatility and impact.
+title: Causes of Stock Price Decline (Algo Trading)
 ---
 
 The stock market is a crucial component of the global financial system, serving as a platform where equities, bonds, and other securities are traded. It provides companies the opportunity to raise capital and investors the potential to earn returns. Stock markets facilitate economic activity by enabling the efficient allocation of resources, thereby supporting economic growth and development. According to the World Bank, the total market capitalization of listed domestic companies worldwide reached $93 trillion in 2019, highlighting the pivotal role that stock markets play in global finance.

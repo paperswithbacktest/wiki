@@ -1,6 +1,8 @@
 ---
-title: "Trial Balance: Functionality, Purpose, and Requirements (Algo Trading)"
-description: "Explore the role of trial balances in accounting and algorithmic trading. Understand how these tools support accurate financial reporting and strategic decision-making."
+category: quant_concept
+description: Explore the role of trial balances in accounting and algorithmic trading.
+  Understand how these tools support accurate financial reporting and strategic decision-making.
+title: 'Trial Balance: Functionality, Purpose, and Requirements (Algo Trading)'
 ---
 
 In the financial world, the trial balance stands as a fundamental component of accounting, serving as a preliminary checkpoint in the preparation of financial statements. It is indispensable for businesses to grasp the trial balance's importance, as it provides a structured summary of all ledger accounts at a specific point, ensuring that total debits equate total credits. This arithmetic verification is essential for the reliability and accuracy of a company’s accounting records.

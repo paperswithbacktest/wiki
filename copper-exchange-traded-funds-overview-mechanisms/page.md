@@ -1,6 +1,9 @@
 ---
-title: "Copper Exchange-Traded Funds: Overview and Mechanisms (Algo Trading)"
-description: "Explore Copper ETFs and the impact of algorithmic trading on investing strategies. Learn how to leverage Copper ETFs for diversified, efficient market exposure."
+category: quant_concept
+description: Explore Copper ETFs and the impact of algorithmic trading on investing
+  strategies. Learn how to leverage Copper ETFs for diversified, efficient market
+  exposure.
+title: 'Copper Exchange-Traded Funds: Overview and Mechanisms (Algo Trading)'
 ---
 
 Exchange-Traded Funds (ETFs) represent a pivotal innovation in the landscape of investment strategies, providing investors with a diverse array of financial instruments bundled within a single, tradable security. Originating in the early 1990s, ETFs have witnessed a rapid growth trajectory, attracting both retail and institutional investors for their unique ability to diversify risk, enhance liquidity, and reduce transaction costs compared to traditional mutual funds. As of recent years, the appeal of ETFs extends beyond equities, encompassing commodities that play crucial roles in the global economy.

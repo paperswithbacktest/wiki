@@ -1,6 +1,8 @@
 ---
-title: "List of Leading Cannabis Cryptocurrencies (Algo Trading)"
-description: "Explore the dynamic intersection of cannabis, cryptocurrencies, and algorithmic trading. Discover their growth, challenges, and investment opportunities today."
+category: trading_strategy
+description: Explore the dynamic intersection of cannabis, cryptocurrencies, and algorithmic
+  trading. Discover their growth, challenges, and investment opportunities today.
+title: List of Leading Cannabis Cryptocurrencies (Algo Trading)
 ---
 
 In the rapidly evolving digital age, the intersection of innovative industries often leads to groundbreaking developments. One such convergence is currently occurring at the crossroads of the cannabis industry, cryptocurrencies, and algorithmic trading. At first glance, these fields might appear disparate; however, they share common trajectories characterized by rapid growth, technological integration, and significant regulatory challenges.

@@ -1,7 +1,8 @@
 ---
-title: Understanding the Generalization Curve in Machine Learning
+category: quant_concept
 description: Generalization Curve shows how data size impacts model accuracy and guides
   balancing bias and variance for robust models. Discover more inside
+title: Understanding the Generalization Curve in Machine Learning
 ---
 
 ![Image](images/1.png)

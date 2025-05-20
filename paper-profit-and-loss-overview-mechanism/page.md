@@ -1,6 +1,8 @@
 ---
-title: "Paper Profit and Loss: Overview and Mechanism (Algo Trading)"
-description: "Explore the intricacies of paper profit and loss in algorithmic trading. Learn how unrealized gains impact trading strategies and decision-making frameworks."
+category: quant_concept
+description: Explore the intricacies of paper profit and loss in algorithmic trading.
+  Learn how unrealized gains impact trading strategies and decision-making frameworks.
+title: 'Paper Profit and Loss: Overview and Mechanism (Algo Trading)'
 ---
 
 Understanding financial concepts is crucial for investors, especially within trading's intricate ecosystem. Paper loss and paper profit are key terms that encapsulate the potential, yet unrealized, financial outcomes of holding an asset. These concepts serve as vital indicators in investment strategies, influencing decisions on whether to maintain or liquidate holdings. They represent not only hypothetical gains or losses but also essential components of critical decision-making frameworks across individual and institutional investor landscapes.

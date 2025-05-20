@@ -1,6 +1,9 @@
 ---
-title: "Investment Portfolio Diversification Methods (Algo Trading)"
-description: "Explore how investment portfolio diversification and algorithmic trading enhance financial strategies offering insights into minimizing risks while optimizing returns."
+category: trading_strategy
+description: Explore how investment portfolio diversification and algorithmic trading
+  enhance financial strategies offering insights into minimizing risks while optimizing
+  returns.
+title: Investment Portfolio Diversification Methods (Algo Trading)
 ---
 
 Investment portfolio diversification is a fundamental strategy in financial planning, aimed at optimizing returns while minimizing risks. The approach involves allocating investments across a range of asset classes, industries, and geographies to mitigate unsystematic risks. By spreading investments, diversification helps to ensure that positive performance in some areas can offset negative outcomes in others, subsequently smoothing out the overall returns.

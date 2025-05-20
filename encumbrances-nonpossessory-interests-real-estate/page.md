@@ -1,6 +1,8 @@
 ---
-title: "Encumbrances and Nonpossessory Interests in Real Estate (Algo Trading)"
-description: "Learn about nonpossessory interests and encumbrances in real estate including their impact on trading and investment decisions for better market strategies."
+category: quant_concept
+description: Learn about nonpossessory interests and encumbrances in real estate including
+  their impact on trading and investment decisions for better market strategies.
+title: Encumbrances and Nonpossessory Interests in Real Estate (Algo Trading)
 ---
 
 The interconnected nature of real estate and finance often encompasses complex concepts such as nonpossessory interests and encumbrances. These concepts are essential to a wide range of professionals, including investors, real estate experts, and algorithmic traders. Nonpossessory interests refer to rights that enable individuals to use or restrict the use of someone else's property without owning it, such as through easements or leases. Encumbrances, on the other hand, involve claims against a property by third parties, affecting its value and transferability through entities such as liens or mortgages.

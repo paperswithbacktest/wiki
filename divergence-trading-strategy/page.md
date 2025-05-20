@@ -1,6 +1,13 @@
 ---
-title: "Divergence Trading Strategy (Algo Trading)"
-description: Learn how divergence indicators in algorithmic trading can identify market reversals and shifts in momentum by analyzing discrepancies between asset prices and technical indicators. Discover the types of divergence such as bullish and bearish as well as the best practices for leveraging these signals to make informed trading decisions. Explore the use of tools like the Relative Strength Index MACD and Stochastic Oscillator to enhance trading strategies and risk management through early trend signals.
+category: trading_strategy
+description: Learn how divergence indicators in algorithmic trading can identify market
+  reversals and shifts in momentum by analyzing discrepancies between asset prices
+  and technical indicators. Discover the types of divergence such as bullish and bearish
+  as well as the best practices for leveraging these signals to make informed trading
+  decisions. Explore the use of tools like the Relative Strength Index MACD and Stochastic
+  Oscillator to enhance trading strategies and risk management through early trend
+  signals.
+title: Divergence Trading Strategy (Algo Trading)
 ---
 
 In algorithmic trading, divergence indicators play a crucial role in identifying potential reversals or shifts in market momentum. Divergence occurs when the price action of an asset contradicts the movement of a technical indicator, often signaling a possible change in trend direction. This discrepancy between price and indicator can provide early warnings of trend weaknesses, enabling traders to position themselves advantageously before these movements become evident to the broader market.

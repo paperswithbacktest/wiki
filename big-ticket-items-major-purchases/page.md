@@ -1,6 +1,9 @@
 ---
-title: "Big-Ticket Items and Major Purchases (Algo Trading)"
-description: "Explore the relationship between consumer behavior and major purchases with insights into how algorithmic trading and economic factors like inflation impact spending habits."
+category: trading_strategy
+description: Explore the relationship between consumer behavior and major purchases
+  with insights into how algorithmic trading and economic factors like inflation impact
+  spending habits.
+title: Big-Ticket Items and Major Purchases (Algo Trading)
 ---
 
 Understanding consumer spending habits, particularly regarding major purchases or big-ticket items, is essential for both consumers and investors. Big-ticket items, such as cars, appliances, and luxury goods, represent significant expenditures and can have a lasting impact on an individual's or household's financial health. As such, decisions related to these purchases often require careful consideration of financial stability, economic conditions, and long-term goals. For investors, observing consumer spending trends on these items can provide valuable insights into economic confidence and help shape investment strategies.

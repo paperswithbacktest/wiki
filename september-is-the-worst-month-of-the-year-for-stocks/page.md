@@ -1,6 +1,11 @@
 ---
-title: "September: The Worst Month of the Year for Stocks (Algo Trading)"
-description: Discover why September is known as a challenging month for the stock market and how it impacts algorithmic trading systems. Understand historical patterns, their effects on algorithms, and strategies to optimize performance and manage risks during these volatile periods. Equip yourself with insights to anticipate market trends and enhance the resilience of your trading strategies.
+category: trading_strategy
+description: Discover why September is known as a challenging month for the stock
+  market and how it impacts algorithmic trading systems. Understand historical patterns,
+  their effects on algorithms, and strategies to optimize performance and manage risks
+  during these volatile periods. Equip yourself with insights to anticipate market
+  trends and enhance the resilience of your trading strategies.
+title: 'September: The Worst Month of the Year for Stocks (Algo Trading)'
 ---
 
 Algorithmic trading, commonly referred to as algo trading, represents a significant evolution in financial markets, employing automated and high-speed algorithms to execute trades based on predefined criteria. These systems critically depend on prevailing market conditions, which can dictate periods of both profitability and adversity. Understanding these dynamics is essential, as the performance of algo trading systems can be significantly influenced by fluctuations within financial markets.

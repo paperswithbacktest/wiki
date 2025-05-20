@@ -1,6 +1,9 @@
 ---
-title: "Controversies Surrounding the Consumer Price Index (Algo Trading)"
-description: "Explore the controversies surrounding the Consumer Price Index and its impact on inflation, economic indicators, and algorithmic trading strategies in financial markets."
+category: quant_concept
+description: Explore the controversies surrounding the Consumer Price Index and its
+  impact on inflation, economic indicators, and algorithmic trading strategies in
+  financial markets.
+title: Controversies Surrounding the Consumer Price Index (Algo Trading)
 ---
 
 The Consumer Price Index (CPI) is a pivotal economic indicator devised to measure the average change over time in the prices paid by consumers for a standard basket of goods and services. Policymakers, economists, and financial professionals extensively rely on CPI data to gauge inflation, formulating monetary policies, and make informed economic decisions that affect both short-term consequences and long-term planning. Despite its integral role in economic analysis, the CPI is not without its controversies and has sparked numerous debates over its methodology and accuracy. These debates underscore the complexity of accurately measuring inflation and the inevitable impact of CPI data on the broader economy and financial markets.

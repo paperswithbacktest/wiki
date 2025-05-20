@@ -1,6 +1,8 @@
 ---
-title: "Analysis Paralysis: Overview, Risks, and Solutions (Algo Trading)"
-description: "Discover how analysis paralysis affects decision-making in trading Learn risks strategies to overcome it and optimize algorithmic and human decisions"
+category: quant_concept
+description: Discover how analysis paralysis affects decision-making in trading Learn
+  risks strategies to overcome it and optimize algorithmic and human decisions
+title: 'Analysis Paralysis: Overview, Risks, and Solutions (Algo Trading)'
 ---
 
 Analysis paralysis is a phenomenon that affects individuals across various domains, characterized by an inability to make decisions due to overanalyzing data or situations. This condition is particularly relevant in decision-making processes where the abundance of information or complexity of options can hinder effective action. In the context of financial trading, where decisions can significantly impact financial outcomes, understanding and managing analysis paralysis is crucial.

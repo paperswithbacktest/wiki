@@ -1,6 +1,8 @@
 ---
-title: "Earnings Momentum and Its Mechanisms (Algo Trading)"
-description: "Explore how earnings momentum can enhance investment strategies by identifying stocks with consistent growth patterns through algorithmic trading for higher returns."
+category: trading_strategy
+description: Explore how earnings momentum can enhance investment strategies by identifying
+  stocks with consistent growth patterns through algorithmic trading for higher returns.
+title: Earnings Momentum and Its Mechanisms (Algo Trading)
 ---
 
 Earnings momentum is an influential investment strategy that has gained significant traction in financial analysis and algorithmic trading. It focuses on the upward trajectory of a company's earnings and uses this momentum as a signal for potential investment opportunities. The strategy predominantly relies on patterns in earnings data, with investors seeking to identify stocks poised for growth based on past and projected corporate earnings performance. Earnings momentum reflects the underlying financial health of a company, serving as a key indicator of potential stock price movements.

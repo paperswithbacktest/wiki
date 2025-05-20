@@ -1,6 +1,8 @@
 ---
-title: "Liquidation in Bankruptcy (Algo Trading)"
-description: "Explore the intersection of bankruptcy and algorithmic trading to understand financial distress management and adapt trading strategies amid market volatility."
+category: quant_concept
+description: Explore the intersection of bankruptcy and algorithmic trading to understand
+  financial distress management and adapt trading strategies amid market volatility.
+title: Liquidation in Bankruptcy (Algo Trading)
 ---
 
 Bankruptcy is a complex and often intimidating reality for individuals and businesses grappling with overwhelming debt. Its mechanisms, including liquidation and insolvency, are critical components in financial distress management. This article seeks to elucidate the bankruptcy process and its far-reaching consequences, with a particular emphasis on algorithmic trading.

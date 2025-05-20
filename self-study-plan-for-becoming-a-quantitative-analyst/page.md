@@ -1,6 +1,14 @@
 ---
-title: "Self-Study Plan for Becoming a Quantitative Analyst (Algo Trading)"
-description: Explore a comprehensive self-study plan designed to equip aspiring quantitative analysts for a career in algorithmic trading. This guide investigates into educational pathways and essential resources, encompassing key mathematical models, statistical techniques, and financial theories. Discover how expertise in quantitative finance can open doors to lucrative opportunities across hedge funds, investment banks, and fintech firms, enabling professionals to devise robust trading strategies and optimize financial performance. Ideal for those eager to embrace the dynamic intersection of finance, mathematics, and technology.
+category: trading_strategy
+description: Explore a comprehensive self-study plan designed to equip aspiring quantitative
+  analysts for a career in algorithmic trading. This guide investigates into educational
+  pathways and essential resources, encompassing key mathematical models, statistical
+  techniques, and financial theories. Discover how expertise in quantitative finance
+  can open doors to lucrative opportunities across hedge funds, investment banks,
+  and fintech firms, enabling professionals to devise robust trading strategies and
+  optimize financial performance. Ideal for those eager to embrace the dynamic intersection
+  of finance, mathematics, and technology.
+title: Self-Study Plan for Becoming a Quantitative Analyst (Algo Trading)
 ---
 
 Quantitative finance plays a pivotal role in the evolving landscape of algorithmic trading. With the rapid advancement of technology and the increasing complexity of financial markets, the demand for professionals adept in quantitative finance and algorithmic trading methodologies has intensified. These skilled professionals are sought after for their ability to apply mathematical models and statistical techniques to devise robust trading strategies, enhance risk management, and optimize trading performance. 

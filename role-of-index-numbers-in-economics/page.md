@@ -1,6 +1,8 @@
 ---
-title: "Role of Index Numbers in Economics (Algo Trading)"
-description: "Explore how economic indicators and index numbers form the foundation of algorithmic trading enhancing strategies by offering insights into market dynamics."
+category: quant_concept
+description: Explore how economic indicators and index numbers form the foundation
+  of algorithmic trading enhancing strategies by offering insights into market dynamics.
+title: Role of Index Numbers in Economics (Algo Trading)
 ---
 
 Algorithmic trading has fundamentally transformed financial markets by employing pre-programmed strategies to efficiently execute trades. These strategies are heavily reliant on economic indicators and index numbers, which provide critical data and insights into market conditions. Economic indicators encompass a wide array of metrics, including GDP, employment rates, and inflation, that are pivotal in analyzing and forecasting economic health. Index numbers further simplify complex data, presenting it in a more comprehensible form to aid in economic analysis and decision-making.

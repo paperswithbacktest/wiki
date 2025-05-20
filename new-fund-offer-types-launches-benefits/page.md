@@ -1,6 +1,8 @@
 ---
-title: "New Fund Offer: Types, Launches, and Benefits (Algo Trading)"
-description: "Explore New Fund Offers NFOs and discover their unique investment opportunities in the mutual fund industry with insights into algorithmic trading benefits"
+category: trading_strategy
+description: Explore New Fund Offers NFOs and discover their unique investment opportunities
+  in the mutual fund industry with insights into algorithmic trading benefits
+title: 'New Fund Offer: Types, Launches, and Benefits (Algo Trading)'
 ---
 
 New Fund Offers (NFOs) represent a unique avenue in the mutual fund industry, offering fresh opportunities for both novice and seasoned investors. At their core, NFOs are the first subscription offerings for a new scheme launched by an asset management company (AMC). Similar to an initial public offering (IPO) in the stock market, NFOs allow investors to buy into a new mutual fund scheme at its inception, typically at a face value of Rs. 10 per unit in India. Their significance lies in the opportunity they present to invest in potentially lucrative and innovative investment strategies that may not be available in existing mutual fund offerings.

@@ -1,7 +1,8 @@
 ---
-title: Understanding Historical Bias in Machine Learning Models
+category: quant_concept
 description: Historical bias in machine learning causes models to repeat unfair patterns
   Mitigation cleans and balances data for fair AI Discover more inside
+title: Understanding Historical Bias in Machine Learning Models
 ---
 
 ![Image](images/1.png)

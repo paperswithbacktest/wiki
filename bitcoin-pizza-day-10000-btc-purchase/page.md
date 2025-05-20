@@ -1,6 +1,8 @@
 ---
-title: "Bitcoin Pizza Day: Commemoration of the 10,000 BTC Pizza Purchase (Algo Trading)"
-description: "Celebrate Bitcoin Pizza Day and explore how a mere 10,000 BTC pizza purchase became a landmark in Bitcoin's journey towards mainstream acceptance."
+category: quant_concept
+description: Celebrate Bitcoin Pizza Day and explore how a mere 10,000 BTC pizza purchase
+  became a landmark in Bitcoin's journey towards mainstream acceptance.
+title: 'Bitcoin Pizza Day: Commemoration of the 10,000 BTC Pizza Purchase (Algo Trading)'
 ---
 
 Cryptocurrency has made significant strides since Bitcoin was introduced in 2009. Emerging as the pioneering digital currency, Bitcoin has inspired a vast and rapidly evolving landscape of alternatives and innovations. Among the pivotal moments in its history, Bitcoin Pizza Day stands out as a symbol of Bitcoin's progress from an obscure experiment to a recognized economic entity. Celebrated annually, Bitcoin Pizza Day marks the first documented purchase of physical goods using Bitcoin, underscoring its journey from theoretical to practical use.

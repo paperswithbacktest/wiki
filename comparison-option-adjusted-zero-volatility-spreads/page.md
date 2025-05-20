@@ -1,6 +1,9 @@
 ---
-title: "Comparison of Option-Adjusted and Zero-Volatility Spreads (Algo Trading)"
-description: "Explore the distinct roles of Option-Adjusted and Zero-Volatility Spreads in algorithmic trading Learn how these spreads optimize bond analysis and investment strategies"
+category: quant_concept
+description: Explore the distinct roles of Option-Adjusted and Zero-Volatility Spreads
+  in algorithmic trading Learn how these spreads optimize bond analysis and investment
+  strategies
+title: Comparison of Option-Adjusted and Zero-Volatility Spreads (Algo Trading)
 ---
 
 In finance, understanding various types of spreads is crucial for traders and investors alike. Financial spreads serve as key indicators in evaluating risk, return potential, and market sentiment. Among the array of spreads, the Zero-Volatility Spread (Z-spread) and Option-Adjusted Spread (OAS) stand out for their significance in both theoretical analysis and practical application. These spreads are particularly useful in the context of bond investments, derivatives, and complex financial portfolios.

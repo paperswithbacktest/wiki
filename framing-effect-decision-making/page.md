@@ -1,6 +1,9 @@
 ---
-title: "Framing Effect in Decision-Making (Algo Trading)"
-description: "Explore how the framing effect impacts decision-making in algorithmic trading, influencing perceptions and potentially skewing trading outcomes due to cognitive biases."
+category: quant_concept
+description: Explore how the framing effect impacts decision-making in algorithmic
+  trading, influencing perceptions and potentially skewing trading outcomes due to
+  cognitive biases.
+title: Framing Effect in Decision-Making (Algo Trading)
 ---
 
 In the rapidly evolving world of algorithmic trading, decision-making processes significantly influence trading outcomes. Algorithmic trading, utilizing pre-programmed trading instructions, is heavily reliant on speed and precision. However, even the most advanced systems are not immune to the pitfalls of human cognitive biases. Among these biases, the framing effect stands out as a predominant influence that can lead traders to make flawed decisions. The framing effect refers to the cognitive bias where individuals react differently to the same piece of information based on its presentation. For instance, a choice presented in a positive light may be favored over an equivalent choice framed negatively, despite identical underlying data. Such biases can lead to decisions that deviate from rational analysis, ultimately affecting the performance of trading strategies.

@@ -1,6 +1,8 @@
 ---
-title: "Broad Index Secured Trust Offering (Algo Trading)"
-description: "Explore how Broad Index Secured Trust Offering (BISTRO) by J.P. Morgan enhances credit risk management with algorithmic trading and financial innovation."
+category: quant_concept
+description: Explore how Broad Index Secured Trust Offering (BISTRO) by J.P. Morgan
+  enhances credit risk management with algorithmic trading and financial innovation.
+title: Broad Index Secured Trust Offering (Algo Trading)
 ---
 
 The world of finance is characterized by continuous evolution, driven by innovative financial instruments that reshape the landscape of investment and risk management. One such innovation is the Broad Index Secured Trust Offering (BISTRO), introduced by the financial giant J.P. Morgan. This product has revolutionized the market for collateralized debt obligations (CDOs) by providing a novel approach to managing credit risk and enhancing capital efficiency.

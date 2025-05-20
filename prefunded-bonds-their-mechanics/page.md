@@ -1,6 +1,9 @@
 ---
-title: "Prefunded Bonds and Their Mechanics (Algo Trading)"
-description: "Explore the mechanics of pre-funded bonds and their appeal due to safety and credit ratings Discover how algorithmic trading enhances bond market efficiency and liquidity"
+category: quant_concept
+description: Explore the mechanics of pre-funded bonds and their appeal due to safety
+  and credit ratings Discover how algorithmic trading enhances bond market efficiency
+  and liquidity
+title: Prefunded Bonds and Their Mechanics (Algo Trading)
 ---
 
 Bonds are pivotal financial instruments enabling governments, municipalities, and corporations to obtain necessary capital, which fuels various projects and operational needs. By issuing bonds, these entities can secure funds while offering investors a reliable stream of income. Among the diverse types of bonds available, pre-funded bonds stand out due to their unique structure and advantages. These bonds are distinguished by their enhanced safety and improved credit ratings, attributes that appeal to both conservative investors and cautious issuers.

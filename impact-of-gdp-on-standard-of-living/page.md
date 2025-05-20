@@ -1,6 +1,13 @@
 ---
-title: "Impact of GDP on Standard of Living (Algo Trading)"
-description: "Discover how the intricate interaction between GDP, standard of living, and algorithmic trading shapes global economies. This article investigates into GDP's role in economic health assessment, while addressing its limitations in capturing quality of life. Explore how algorithmic trading influences economic stability and growth, emphasizing the need for balanced regulation. Gain insights into these complex relationships and their implications for sustainable economic progress and societal development."
+category: quant_concept
+description: Discover how the intricate interaction between GDP, standard of living,
+  and algorithmic trading shapes global economies. This article investigates into
+  GDP's role in economic health assessment, while addressing its limitations in capturing
+  quality of life. Explore how algorithmic trading influences economic stability and
+  growth, emphasizing the need for balanced regulation. Gain insights into these complex
+  relationships and their implications for sustainable economic progress and societal
+  development.
+title: Impact of GDP on Standard of Living (Algo Trading)
 ---
 
 In today's interconnected global economy, understanding the relationship between GDP, standard of living, economic well-being, and algorithmic trading is crucial. Gross Domestic Product (GDP) is a fundamental measure that represents the total economic output of a country. It is commonly used to assess the economic health and performance of nations, providing valuable insights into economic activity levels and growth trends. As a broad indicator, GDP quantifies the market value of all final goods and services produced within a country over a specific period, typically annually or quarterly.

@@ -1,6 +1,8 @@
 ---
-title: "Forex Training: Overview and Mechanisms (Algo Trading)"
-description: "Explore the dynamics of forex trading with a focus on training and algorithmic strategies Discover how to leverage market mechanisms for financial success"
+category: quant_concept
+description: Explore the dynamics of forex trading with a focus on training and algorithmic
+  strategies Discover how to leverage market mechanisms for financial success
+title: 'Forex Training: Overview and Mechanisms (Algo Trading)'
 ---
 
 Forex market currency trading represents one of the most significant financial marketplaces globally, specializing in the exchange of national currencies against one another. This market is characterized by a staggering daily trading volume that exceeds $6 trillion, highlighting its immense scale and dynamic nature. The forex market operates continuously, 24 hours a day, five days a week, across major financial centers such as London, New York, Tokyo, and Sydney, contributing to its liquidity and volatility.

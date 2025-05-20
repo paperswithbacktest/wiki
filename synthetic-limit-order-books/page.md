@@ -1,6 +1,9 @@
 ---
-title: "Synthetic limit order books (Algo Trading)"
-description: "Explore the pivotal role of synthetic limit order books in algorithmic trading covering their benefits challenges and how they enhance market transparency and efficiency."
+category: quant_concept
+description: Explore the pivotal role of synthetic limit order books in algorithmic
+  trading covering their benefits challenges and how they enhance market transparency
+  and efficiency.
+title: Synthetic limit order books (Algo Trading)
 ---
 
 The rapid advancement of technology has fundamentally transformed the landscape of financial markets. With the rise of algorithmic trading, market participants are now capable of executing complex strategies with remarkable speed and precision. At the heart of this sophisticated trading environment lies a crucial component known as the synthetic limit order book.
@@ -130,4 +133,3 @@ Aldridge, I. (2009). "High-Frequency Trading: A Practical Guide to Algorithmic S
 Gould, M. D., et al. (2013). "Limit Order Books." This resource provides an extensive examination of limit order books, detailing their structure, function, and role in present-[day trading](/wiki/day-trading-spy) environments. It serves as a comprehensive reference for understanding the transition from traditional to synthetic limit order books, particularly in algorithmic trading contexts.
 
 Hasbrouck, J. (2007). "Empirical Market Microstructure: The Institutions, Economics, and Econometrics of Securities Trading." Hasbrouck's work delves into the empirical aspects of market microstructures, offering insights into the statistical and econometric analysis of trading processes. This book is crucial for those looking to analyze the impacts of synthetic limit order books quantitatively and enhance strategy optimization through empirical data examination.
-

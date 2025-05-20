@@ -1,6 +1,8 @@
 ---
-title: "Double Gearing: Overview and Regulatory Effects (Algo Trading)"
-description: "Explore how double gearing, financial regulation, and algorithmic trading shape modern finance, impacting market stability and capital management practices."
+category: quant_concept
+description: Explore how double gearing, financial regulation, and algorithmic trading
+  shape modern finance, impacting market stability and capital management practices.
+title: 'Double Gearing: Overview and Regulatory Effects (Algo Trading)'
 ---
 
 The financial world functions as a complex ecosystem where capital management is integral to ensuring the growth and stability of corporations. Capital management refers to the strategic oversight of an organization's financial resources, aiming to meet operational needs and support future investments while balancing risks and returns. In contemporary finance, understanding the interplay between capital management, financial regulation, double gearing, and algorithmic trading is crucial. These elements collectively influence the operations of financial institutions and the broader markets they inhabit.

@@ -1,6 +1,9 @@
 ---
-title: "Comparison of Fiat Money and Legal Tender (Algo Trading)"
-description: "Explore the critical differences between fiat money and legal tender, key currency components shaping algorithmic trading strategies in today's financial markets."
+category: quant_concept
+description: Explore the critical differences between fiat money and legal tender,
+  key currency components shaping algorithmic trading strategies in today's financial
+  markets.
+title: Comparison of Fiat Money and Legal Tender (Algo Trading)
 ---
 
 In today's rapidly evolving financial landscape, distinguishing between different forms of currency is essential for anyone involved in economics or finance. Legal tender and fiat money are two key components of global economies, each possessing distinct characteristics and playing unique roles. Legal tender is a specific category of currency that must be accepted by law for settling debts. Essentially, it serves as the official medium for economic transactions within a particular jurisdiction. Examples include the US dollar and Euro, which are backed by the authoritative guarantees of their respective governments.

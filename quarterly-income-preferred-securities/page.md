@@ -1,6 +1,8 @@
 ---
-title: "Quarterly Income Preferred Securities (Algo Trading)"
-description: "Explore the benefits and risks of Quarterly Income Preferred Securities and how algorithmic trading can enhance their market performance for investors."
+category: quant_concept
+description: Explore the benefits and risks of Quarterly Income Preferred Securities
+  and how algorithmic trading can enhance their market performance for investors.
+title: Quarterly Income Preferred Securities (Algo Trading)
 ---
 
 In the complex world of financial securities and investment strategies, Quarterly Income Preferred Securities (QUIPS) have emerged as a sophisticated financial instrument. Combining features of both bonds and preferred stocks, QUIPS provide unique financial benefits for companies and investors alike.

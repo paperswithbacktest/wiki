@@ -1,6 +1,12 @@
 ---
-title: "Edward Thorp: A Trading Legend (Algo Trading)"
-description: Discover the remarkable journey of Edward Thorp, a pioneer who revolutionized blackjack with his card counting system and transformed financial markets with groundbreaking algorithmic trading techniques. From challenging the house advantage to laying the foundation for quantitative finance, Thorp's legacy exemplifies the power of mathematics in practical applications, influencing modern strategies in both games of chance and global trading arenas.
+category: quant_concept
+description: Discover the remarkable journey of Edward Thorp, a pioneer who revolutionized
+  blackjack with his card counting system and transformed financial markets with groundbreaking
+  algorithmic trading techniques. From challenging the house advantage to laying the
+  foundation for quantitative finance, Thorp's legacy exemplifies the power of mathematics
+  in practical applications, influencing modern strategies in both games of chance
+  and global trading arenas.
+title: 'Edward Thorp: A Trading Legend (Algo Trading)'
 ---
 
 Edward Thorp is widely regarded as a transformative figure in both blackjack gambling and financial markets. His groundbreaking approach to card counting revolutionized the game of blackjack, demonstrating through mathematical proof that the traditional house advantage could be effectively challenged. Utilizing his knowledge, Thorp’s counting system shifted the dynamics at the card tables, presenting a strategic methodology that broke conventional norms.

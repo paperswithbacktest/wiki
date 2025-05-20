@@ -1,6 +1,8 @@
 ---
-title: "Negotiated Dealing System: Overview and Membership (Algo Trading)"
-description: "Explore the key features of India's Negotiated Dealing System a pivotal electronic trading platform operated by the RBI boosting market efficiency and transparency."
+category: quant_concept
+description: Explore the key features of India's Negotiated Dealing System a pivotal
+  electronic trading platform operated by the RBI boosting market efficiency and transparency.
+title: 'Negotiated Dealing System: Overview and Membership (Algo Trading)'
 ---
 
 In financial markets, trading systems play a critical role in promoting efficiency and transparency. The Negotiated Dealing System (NDS) is an electronic trading platform that has notably optimized the trading of government securities and money market instruments within India. Introduced to overcome the inefficiencies of traditional trading practices, the NDS was crafted to reduce reliance on phone orders and manual documentation, thereby mitigating errors and enhancing transaction speed. Operated by the Reserve Bank of India (RBI), this system marks a considerable advance from the conventional methods, embodying a shift towards a more sophisticated, technology-driven approach.

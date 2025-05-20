@@ -1,6 +1,9 @@
 ---
-title: "Graham Capital Management (Algo Trading)"
-description: "Discover Graham Capital Management's expertise in algorithmic trading and advanced investment strategies Take a closer look at their innovative approach to finance"
+category: trading_strategy
+description: Discover Graham Capital Management's expertise in algorithmic trading
+  and advanced investment strategies Take a closer look at their innovative approach
+  to finance
+title: Graham Capital Management (Algo Trading)
 ---
 
 Graham Capital Management (GCM) stands as a prominent figure in the trading industry, having established a significant footprint through its sophisticated investment strategies and advanced technological integration. Founded in 1994, the firm has excelled in managing diverse assets, incorporating both discretionary and systematic trading approaches. This strategic blend underscores its commitment to innovation and performance, propelling GCM to the forefront of the industry's elite hedge fund managers.

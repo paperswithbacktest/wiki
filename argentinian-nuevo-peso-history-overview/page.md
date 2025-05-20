@@ -1,6 +1,8 @@
 ---
-title: "Argentinian Nuevo Peso: History and Overview (Algo Trading)"
-description: "Discover the dynamic history and economic impact of the Argentinian Peso amidst inflation challenges and the rise of algorithmic trading in volatile markets."
+category: quant_concept
+description: Discover the dynamic history and economic impact of the Argentinian Peso
+  amidst inflation challenges and the rise of algorithmic trading in volatile markets.
+title: 'Argentinian Nuevo Peso: History and Overview (Algo Trading)'
 ---
 
 The Argentine Peso (ARS) serves as the official currency of Argentina, playing a crucial role in the nation's economy. Its significance extends beyond mere transactions, symbolizing economic stability and national identity. The peso's journey through history has been marked by numerous transformations, each reflecting underlying economic and political shifts. Initially conceptualized in 1826, the term 'peso' has undergone several modifications, ranging from the early Peso Fuerte and Peso Moneda Corriente to today's Argentine Peso. These shifts have typically corresponded with the nation's attempts to curb inflation and stabilize the economy during turbulent times.

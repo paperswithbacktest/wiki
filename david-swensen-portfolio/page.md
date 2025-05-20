@@ -1,6 +1,11 @@
 ---
-title: "David Swensen Portfolio (Algo Trading)"
-description: Explore the innovative integration of the Yale Endowment Model into algorithmic trading. Discover how David Swensen's approach to diversification and alternative investments reshapes investment strategies with its focus on long-term gains and risk management. This blend brings efficiency to automated trading systems, offering potential synergies that enrich modern financial markets.
+category: trading_strategy
+description: Explore the innovative integration of the Yale Endowment Model into algorithmic
+  trading. Discover how David Swensen's approach to diversification and alternative
+  investments reshapes investment strategies with its focus on long-term gains and
+  risk management. This blend brings efficiency to automated trading systems, offering
+  potential synergies that enrich modern financial markets.
+title: David Swensen Portfolio (Algo Trading)
 ---
 
 The Yale Endowment Model, developed by David Swensen, has fundamentally reshaped investment paradigms by emphasizing diversification and the incorporation of alternative investments. This pioneering approach diverges from traditional methods by allocating a significant portion of assets to non-conventional categories, including private equity, hedge funds, and real estate. These asset classes, characterized by their potential for higher returns and lower correlation with public markets, have contributed to the Yale Endowment's impressive historical performance.

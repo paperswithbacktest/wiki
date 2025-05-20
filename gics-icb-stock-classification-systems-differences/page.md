@@ -1,6 +1,8 @@
 ---
-title: "GICS and ICB Stock Classification Systems: Differences (Algo Trading)"
-description: "Discover how the GICS and ICB stock classification systems support algorithmic trading by structuring financial data, refining strategies, and enhancing insights."
+category: dataset
+description: Discover how the GICS and ICB stock classification systems support algorithmic
+  trading by structuring financial data, refining strategies, and enhancing insights.
+title: 'GICS and ICB Stock Classification Systems: Differences (Algo Trading)'
 ---
 
 Understanding the nuances of the stock market is crucial for anyone involved in trading, particularly for those employing algorithmic strategies. As trading evolves with advancements in technology, it becomes increasingly important to have structured frameworks for categorizing financial data. This is where stock classification systems such as the Industry Classification Benchmark (ICB) and the Global Industry Classification Standard (GICS) play a pivotal role.

@@ -1,6 +1,9 @@
 ---
-title: "Cross-Exchange Trading Strategies (Algo Trading)"
-description: "Explore cross-exchange trading strategies for profiting from price discrepancies across platforms. Learn about algorithmic tools and risk management for effective execution."
+category: trading_strategy
+description: Explore cross-exchange trading strategies for profiting from price discrepancies
+  across platforms. Learn about algorithmic tools and risk management for effective
+  execution.
+title: Cross-Exchange Trading Strategies (Algo Trading)
 ---
 
 Cross-exchange trading, or cross-exchange arbitrage, is a financial strategy focused on exploiting price differences of the same asset listed on various exchanges. This approach seeks to capitalize on discrepancies that emerge due to the decentralized nature of trading platforms. As technology has advanced, particularly with the rise of algorithmic trading, traders have been able to enhance the efficiency of cross-exchange trading. Algorithms now enable real-time scanning across multiple exchanges, swiftly identifying potential arbitrage opportunities and executing trades automatically.

@@ -1,6 +1,8 @@
 ---
-title: "Covered Call Writing (Algo Trading)"
-description: "Explore the synergy between covered call writing and algorithmic trading to automate income generation from stock holdings while managing risks effectively."
+category: trading_strategy
+description: Explore the synergy between covered call writing and algorithmic trading
+  to automate income generation from stock holdings while managing risks effectively.
+title: Covered Call Writing (Algo Trading)
 ---
 
 Options trading is a multifaceted domain, offering various strategies designed to balance risk while enhancing returns. Among these strategies, writing covered call options stands prominently as a technique utilized by many stock investors to generate additional income. This method involves holding a stock position while concurrently selling call options on the same stock, thereby earning premiums that can provide extra income or a degree of downside protection. While traditionally executed manually, the integration of algorithmic trading has introduced new efficiencies and automation capabilities to covered call strategies, transforming how these options are deployed and managed.

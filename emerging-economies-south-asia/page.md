@@ -1,6 +1,8 @@
 ---
-title: "Emerging Economies of South Asia (Algo Trading)"
-description: "Explore South Asia's economic growth through algorithmic trading as technological innovations drive market efficiency and regional stability amidst challenges."
+category: quant_concept
+description: Explore South Asia's economic growth through algorithmic trading as technological
+  innovations drive market efficiency and regional stability amidst challenges.
+title: Emerging Economies of South Asia (Algo Trading)
 ---
 
 Economic development in South Asia is crucial in addressing global challenges and enhancing regional stability and progress. The region, comprising countries like India, Bangladesh, and Pakistan, has experienced significant economic growth in recent years, which is essential in alleviating poverty, reducing inequality, and improving living standards. However, these nations also face hurdles, including geopolitical tensions, population pressures, and environmental issues, all of which necessitate sustained economic development to ensure resilience and long-term stability.

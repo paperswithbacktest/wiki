@@ -1,6 +1,8 @@
 ---
-title: "Universal portfolio algorithm (Algo Trading)"
-description: "Discover the Universal Portfolio Algorithm a dynamic investment strategy by Thomas Cover that maximizes long-term growth through adaptive asset allocation."
+category: trading_strategy
+description: Discover the Universal Portfolio Algorithm a dynamic investment strategy
+  by Thomas Cover that maximizes long-term growth through adaptive asset allocation.
+title: Universal portfolio algorithm (Algo Trading)
 ---
 
 The Universal Portfolio Algorithm, developed by information theorist Thomas Cover, represents a significant advancement in quantitative finance. Unlike traditional investment strategies that rely on forecasting market behavior, this algorithm continuously reassesses and reallocates investments across various assets based on historical performance data. By doing so, it is engineered to maximize long-term capital growth, making it an attractive approach for algorithmic trading.

@@ -1,6 +1,8 @@
 ---
-title: "Perfect and Imperfect Competition (Algo Trading)"
-description: "Explore the dynamics of perfect and imperfect competition in trading markets and the transformative role of algorithmic trading in modern financial landscapes."
+category: quant_concept
+description: Explore the dynamics of perfect and imperfect competition in trading
+  markets and the transformative role of algorithmic trading in modern financial landscapes.
+title: Perfect and Imperfect Competition (Algo Trading)
 ---
 
 Market structures are fundamental to economics and trading, significantly influencing how businesses operate and compete. These structures are largely defined by the characteristics of perfect and imperfect competition, which determine the dynamics observable in various markets. Perfect competition represents an ideal market scenario with numerous small firms offering identical products, leading to standardized prices. In contrast, imperfect competition encompasses a range of market situations like monopolies and oligopolies, where individual firms wield more control over pricing and market entry is often restricted.

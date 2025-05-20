@@ -1,6 +1,8 @@
 ---
-title: "Treasury Inflation-Protected Securities (Algo Trading)"
-description: "Explore Treasury Inflation-Protected Securities and algo trading to safeguard investments against inflation Preserve wealth with TIPS and automated strategies"
+category: quant_concept
+description: Explore Treasury Inflation-Protected Securities and algo trading to safeguard
+  investments against inflation Preserve wealth with TIPS and automated strategies
+title: Treasury Inflation-Protected Securities (Algo Trading)
 ---
 
 In today's dynamic financial markets, protecting investments from inflation is crucial for maintaining purchasing power and preserving the value of investment portfolios. Inflation-Protected Securities, or Treasury Inflation-Protected Securities (TIPS), are financial instruments specifically designed to safeguard investors against inflation by adjusting the principal value according to inflationary trends. These unique securities are issued by the U.S. Treasury and offer an important tool for investors seeking to mitigate the erosive effects of inflation on their wealth.

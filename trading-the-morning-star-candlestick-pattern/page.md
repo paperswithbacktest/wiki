@@ -1,6 +1,9 @@
 ---
-title: "Trading the Morning Star Candlestick Pattern (Algo Trading)"
-description: "Discover the power of the Morning Star candlestick pattern in algorithmic trading Learn how this pattern predicts bullish market reversals and enhances trading strategies"
+category: trading_strategy
+description: Discover the power of the Morning Star candlestick pattern in algorithmic
+  trading Learn how this pattern predicts bullish market reversals and enhances trading
+  strategies
+title: Trading the Morning Star Candlestick Pattern (Algo Trading)
 ---
 
 The Morning Star candlestick pattern is a powerful indicator employed in technical analysis for predicting bullish market reversals. This pattern's significance lies in its ability to signal a shift in market sentiment, transitioning from a bearish to a bullish outlook. It represents a critical juncture where sellers' momentum wanes, and buyers begin to assert control, often leading to an upward price movement.

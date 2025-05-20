@@ -1,6 +1,9 @@
 ---
-title: "Overhead and Operating Expenses (Algo Trading)"
-description: "Explore the critical role of managing operating and overhead expenses in algorithmic trading to enhance profitability and sustain a competitive edge in tech-driven markets."
+category: quant_concept
+description: Explore the critical role of managing operating and overhead expenses
+  in algorithmic trading to enhance profitability and sustain a competitive edge in
+  tech-driven markets.
+title: Overhead and Operating Expenses (Algo Trading)
 ---
 
 In the dynamic and fast-paced world of business, financial management is crucial for maintaining efficiency and profitability. One of the foundational aspects of effective financial management involves understanding and categorizing expenses into operating, overhead, and business expenses. Each of these categories plays a significant role in financial decision-making and long-term sustainability. In industries that rely heavily on technology and data, such as algorithmic trading, awareness of these expenses becomes even more critical.

@@ -1,6 +1,8 @@
 ---
-title: "Gifting Stocks (Algo Trading)"
-description: "Explore gifting stocks as a modern gift idea that offers financial growth potential and education in investing and benefits from algorithmic trading efficiency."
+category: trading_strategy
+description: Explore gifting stocks as a modern gift idea that offers financial growth
+  potential and education in investing and benefits from algorithmic trading efficiency.
+title: Gifting Stocks (Algo Trading)
 ---
 
 In today's fast-paced financial landscape, gifting stocks and shares has become a novel way to offer financial growth opportunities as presents. Unlike traditional gifts that may depreciate or become obsolete, stocks have the potential to increase in value, offering recipients a unique blend of economic benefit and educational opportunity. This modern approach not only diversifies gifting options but also serves as an introduction to the world of investing, encouraging recipients to engage with the financial markets and develop an understanding of economic trends and investment strategies.

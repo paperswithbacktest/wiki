@@ -1,6 +1,8 @@
 ---
-title: "Free Cash Flow Analysis (Algo Trading)"
-description: "Explore how Free Cash Flow analysis in algorithmic trading aids investors in assessing financial health promoting data-driven strategies for informed decisions."
+category: quant_concept
+description: Explore how Free Cash Flow analysis in algorithmic trading aids investors
+  in assessing financial health promoting data-driven strategies for informed decisions.
+title: Free Cash Flow Analysis (Algo Trading)
 ---
 
 In the fast-paced financial world, understanding key financial metrics is crucial for investors and financial professionals. Free Cash Flow (FCF) is a vital indicator of a company's financial health and its ability to generate cash after meeting capital expenditures. As companies navigate complex market dynamics, FCF provides a clear lens through which the true financial viability of an organization can be assessed. It goes beyond traditional metrics such as net income, offering insights into a company’s capacity to maintain and grow operations, service debt, and return value to shareholders.

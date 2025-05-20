@@ -1,6 +1,8 @@
 ---
-title: "Historical Returns Overview and Calculation (Algo Trading)"
-description: "Understand historical returns in algo trading evaluate risks and forecast trends by analyzing investment performance data ensuring informed financial decisions"
+category: quant_concept
+description: Understand historical returns in algo trading evaluate risks and forecast
+  trends by analyzing investment performance data ensuring informed financial decisions
+title: Historical Returns Overview and Calculation (Algo Trading)
 ---
 
 Understanding historical returns is crucial for investors and financial analysts. These returns provide insights into how an investment has performed over a specific period, offering a benchmark for future expectations and evaluations. Historical returns are calculated by measuring the percentage change in the value of an investment from one point in time to another. This analysis is foundational in assessing the risk and potential reward inherent in investment decisions.

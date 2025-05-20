@@ -1,6 +1,8 @@
 ---
-title: "Public Investment Fund of Saudi Arabia (Algo Trading)"
-description: "Discover how the Public Investment Fund of Saudi Arabia uses algorithmic trading to enhance strategy and efficiency, aligning with Vision 2030 goals."
+category: quant_concept
+description: Discover how the Public Investment Fund of Saudi Arabia uses algorithmic
+  trading to enhance strategy and efficiency, aligning with Vision 2030 goals.
+title: Public Investment Fund of Saudi Arabia (Algo Trading)
 ---
 
 The sovereign wealth fund of Saudi Arabia, known as the Public Investment Fund (PIF), plays a pivotal role not only in the nation's economy but also on the global investment stage. Established in 1971, PIF was created as a mechanism to diversify the Saudi economy and reduce its heavy reliance on oil. Through strategic investments, the fund aims to pave the way for sustainable economic growth and development. Over the years, PIF has been instrumental in catalyzing economic diversification, aligning with broader national objectives to foster an economy that is resilient and innovative.

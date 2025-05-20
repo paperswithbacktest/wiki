@@ -1,6 +1,11 @@
 ---
-title: "Comparison of Symmetrical Triangles and Pennant Patterns (Algo Trading)"
-description: "Discover how symmetrical triangles and pennant patterns play integral roles in algorithmic trading strategies. This comprehensive guide explains the differences between these chart patterns and how they can predict market trends, aiding traders in making informed trading decisions. Explore their application in price chart analysis and enhance your trading efficiency through the strategic use of these formations."
+category: trading_strategy
+description: Discover how symmetrical triangles and pennant patterns play integral
+  roles in algorithmic trading strategies. This comprehensive guide explains the differences
+  between these chart patterns and how they can predict market trends, aiding traders
+  in making informed trading decisions. Explore their application in price chart analysis
+  and enhance your trading efficiency through the strategic use of these formations.
+title: Comparison of Symmetrical Triangles and Pennant Patterns (Algo Trading)
 ---
 
 Understanding chart patterns is crucial for traders and investors who rely on technical analysis to make informed decisions. Among the myriad of patterns available, symmetrical triangles and pennant patterns are noteworthy due to their potential to indicate forthcoming price movements. This article discusses these patterns in detail and examines their application within algorithmic trading strategies to enhance trading performance.

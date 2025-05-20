@@ -1,6 +1,8 @@
 ---
-title: "Monetization of Government Debt by Central Banks (Algo Trading)"
-description: "Explore how central banks manage government debt monetization, the role of algorithmic trading, and their combined impact on economic stability and inflation."
+category: quant_concept
+description: Explore how central banks manage government debt monetization, the role
+  of algorithmic trading, and their combined impact on economic stability and inflation.
+title: Monetization of Government Debt by Central Banks (Algo Trading)
 ---
 
 Debt monetization, government debt, central banks, and algorithmic trading collectively form a multifaceted fabric that influences today's financial landscapes. This article examines this intricate network, emphasizing how central banks strive to maintain economic stability amid mounting government debts. As public debt levels increase, central banks often face pressures that could influence their policy choices, impacting their traditional roles dedicated to price stability and economic growth.

@@ -1,6 +1,10 @@
 ---
-title: "SG&A Expenses (Algo Trading)"
-description: "Explore the components of SG&A expenses within the context of algorithmic trading, highlighting how effective expense management can boost profitability and competitive advantage by optimizing resource allocation. Discover strategies to control business costs and maintain operational efficiency in this fast-paced industry."
+category: quant_concept
+description: Explore the components of SG&A expenses within the context of algorithmic
+  trading, highlighting how effective expense management can boost profitability and
+  competitive advantage by optimizing resource allocation. Discover strategies to
+  control business costs and maintain operational efficiency in this fast-paced industry.
+title: SG&A Expenses (Algo Trading)
 ---
 
 Understanding the financial dynamics of a business is crucial for success. In the rapidly evolving world of algorithmic (algo) trading, this understanding becomes even more critical. Algo trading relies on complex algorithms to make high-speed, high-frequency transactions, where even the minutest inefficiency can lead to substantial financial losses. As such, effectively managing business expenses is essential for firms to maintain a competitive edge and ensure sustainable profitability.

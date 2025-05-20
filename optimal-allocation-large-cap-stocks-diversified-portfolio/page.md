@@ -1,6 +1,9 @@
 ---
-title: "Optimal Allocation of Large-Cap Stocks in a Diversified Portfolio (Algo Trading)"
-description: "Optimize your portfolio with large-cap stocks and algorithmic trading strategies Discover how diversification and modern trading can enhance returns and minimize risk"
+category: trading_strategy
+description: Optimize your portfolio with large-cap stocks and algorithmic trading
+  strategies Discover how diversification and modern trading can enhance returns and
+  minimize risk
+title: Optimal Allocation of Large-Cap Stocks in a Diversified Portfolio (Algo Trading)
 ---
 
 In today's dynamic financial landscape, achieving a diversified investment portfolio is a paramount strategy for reducing risk and enhancing potential returns. Diversification is essential as it spreads investments across different asset classes, such as stocks, bonds, and other securities, thereby minimizing the impact of a poor-performing investment on the overall portfolio. This concept aligns with the principle of not "putting all your eggs in one basket," reducing exposure to specific market fluctuations and enhancing the potential for stable returns.

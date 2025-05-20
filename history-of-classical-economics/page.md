@@ -1,6 +1,13 @@
 ---
-title: "History of Classical Economics (Algo Trading)"
-description: "Explore the fascinating journey from classical economics to today's algorithmic trading in this captivating piece Discover how foundational economic concepts by thinkers like Adam Smith shape modern trading practices Gain insights into the transition from minimal government intervention to complex market systems Understand the enduring influence of classical ideas in current financial frameworks and learn how these timeless principles integrate into cutting-edge trading strategies for greater efficiency and competitiveness in the financial markets"
+category: quant_concept
+description: Explore the fascinating journey from classical economics to today's algorithmic
+  trading in this captivating piece Discover how foundational economic concepts by
+  thinkers like Adam Smith shape modern trading practices Gain insights into the transition
+  from minimal government intervention to complex market systems Understand the enduring
+  influence of classical ideas in current financial frameworks and learn how these
+  timeless principles integrate into cutting-edge trading strategies for greater efficiency
+  and competitiveness in the financial markets
+title: History of Classical Economics (Algo Trading)
 ---
 
 This article explores the intricate connections between classical economics, economic history, economic theory, and the modern practice of algorithmic trading. At its core, classical economics originated in the late 18th century with foundational contributions from economists like Adam Smith, who introduced concepts such as the invisible hand, asserting that free markets operate efficiently without the need for excessive governmental control. Over time, these principles have not only influenced global economic policies but also paved the way for subsequent developments in economic thought, including the evolution towards neoclassical and Keynesian economics. 

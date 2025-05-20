@@ -1,6 +1,8 @@
 ---
-title: "Pre-Arranged Trading: Definition and Mechanism (Algo Trading)"
-description: "Explore the complexities of pre-arranged and algorithmic trading in financial markets, understanding their mechanisms, benefits, challenges, and regulatory impacts."
+category: quant_concept
+description: Explore the complexities of pre-arranged and algorithmic trading in financial
+  markets, understanding their mechanisms, benefits, challenges, and regulatory impacts.
+title: 'Pre-Arranged Trading: Definition and Mechanism (Algo Trading)'
 ---
 
 The intricate world of financial markets is constantly evolving, with complex mechanisms dictating how trading occurs. These markets are platforms where financial instruments, including stocks, bonds, commodities, and derivatives, are bought and sold. Financial markets play a crucial role in the allocation of resources, risk management, and the facilitation of trade. As these markets evolve, new trading mechanisms emerge, transforming how market participants engage in trading activities.

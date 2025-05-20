@@ -1,6 +1,9 @@
 ---
-title: "Capitalization of Profits and Alternative Meanings (Algo Trading)"
-description: "Explore the essentials of capitalization of profits and algorithmic trading strategies, crucial for making informed investment decisions in today's financial landscape."
+category: quant_concept
+description: Explore the essentials of capitalization of profits and algorithmic trading
+  strategies, crucial for making informed investment decisions in today's financial
+  landscape.
+title: Capitalization of Profits and Alternative Meanings (Algo Trading)
 ---
 
 In the rapidly evolving world of finance, acquiring a firm grasp of financial jargon is essential for anyone interested in exploring investment opportunities. As financial markets and instruments become increasingly complex, understanding the specific vocabulary used in the industry is crucial for making informed decisions. This article aims to highlight significant financial terminologies such as capitalization of profits and algorithmic trading, and to elucidate their roles in modern financial frameworks.

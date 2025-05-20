@@ -1,6 +1,9 @@
 ---
-title: "Investment in the Transportation Industry (Algo Trading)"
-description: "Explore investment opportunities in the evolving transportation industry powered by algorithmic trading. Discover how advanced strategies optimize returns in this dynamic sector."
+category: trading_strategy
+description: Explore investment opportunities in the evolving transportation industry
+  powered by algorithmic trading. Discover how advanced strategies optimize returns
+  in this dynamic sector.
+title: Investment in the Transportation Industry (Algo Trading)
 ---
 
 The transportation sector is an integral component of the global economy, providing essential services for the movement of goods and people across regions, and thereby facilitating trade and commerce. This sector encompasses various industries, including air freight, airlines, road and rail transport, and maritime shipping. Each of these subsectors offers unique investment opportunities, influenced by factors such as economic growth, fuel prices, and regulatory conditions.

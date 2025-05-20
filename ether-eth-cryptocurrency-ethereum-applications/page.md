@@ -1,6 +1,8 @@
 ---
-title: "Ether (ETH) as the Cryptocurrency for Ethereum Applications (Algo Trading)"
-description: "Explore the role of Ether in Ethereum's ecosystem and how algorithmic trading is transforming cryptocurrency markets with innovative trading strategies."
+category: quant_concept
+description: Explore the role of Ether in Ethereum's ecosystem and how algorithmic
+  trading is transforming cryptocurrency markets with innovative trading strategies.
+title: Ether (ETH) as the Cryptocurrency for Ethereum Applications (Algo Trading)
 ---
 
 The world of cryptocurrency is vast and continually evolving, with Ethereum standing out as a pivotal platform. Established by Vitalik Buterin and launched in 2015, Ethereum has significantly expanded the landscape of blockchain technology. Unlike Bitcoin, which primarily functions as a digital currency, Ethereum serves as a decentralized platform that enables developers to build and deploy a wide range of blockchain-based applications. Ethereum's native cryptocurrency, Ether (ETH), acts as the lifeblood of this ecosystem, not only serving as a digital currency but also playing a crucial role in powering decentralized applications (DApps) and smart contracts.

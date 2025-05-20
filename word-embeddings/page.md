@@ -1,7 +1,8 @@
 ---
-title: Comprehensive Guide to Word Embeddings in Machine Learning
+category: quant_concept
 description: Word embeddings transform text into numerical vectors that reveal semantic
   relationships and improve machine learning performance Discover more inside.
+title: Comprehensive Guide to Word Embeddings in Machine Learning
 ---
 
 ![Image](images/1.jpeg)

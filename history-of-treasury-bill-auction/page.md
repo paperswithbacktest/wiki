@@ -1,6 +1,14 @@
 ---
-title: "History of the Treasury Bill Auction (Algo Trading)"
-description: "Explore the history of treasury bill auctions and the impact of algorithmic trading on this crucial process. This page offers insights into T-Bills, their issuance through competitive and non-competitive auctions, and how algorithmic trading optimizes these auctions. Learn about T-Bill advantages, auction types, and the influence of economic factors on auction outcomes. Discover how algorithmic trading provides efficiency in securing favorable yields and reducing costs while understanding the potential risks involved. Enhance your investment strategy by comprehending how these elements shape the financial landscape."
+category: quant_concept
+description: Explore the history of treasury bill auctions and the impact of algorithmic
+  trading on this crucial process. This page offers insights into T-Bills, their issuance
+  through competitive and non-competitive auctions, and how algorithmic trading optimizes
+  these auctions. Learn about T-Bill advantages, auction types, and the influence
+  of economic factors on auction outcomes. Discover how algorithmic trading provides
+  efficiency in securing favorable yields and reducing costs while understanding the
+  potential risks involved. Enhance your investment strategy by comprehending how
+  these elements shape the financial landscape.
+title: History of the Treasury Bill Auction (Algo Trading)
 ---
 
 Treasury bills, commonly known as T-Bills, are short-term debt instruments issued by the government to finance its obligations and manage liquidity in the economy. They are a vital component of the financial market, offering a secure mechanism for governments to raise funds and a low-risk investment vehicle for individuals and institutions. T-Bills typically have maturities ranging from a few days up to one year and are sold at a discount to their face value, with the difference representing the implicit interest earned by the investor.

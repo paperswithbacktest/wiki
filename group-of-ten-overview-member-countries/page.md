@@ -1,6 +1,14 @@
 ---
-title: "Group of Ten: Overview and Member Countries (Algo Trading)"
-description: "Discover the strategic significance of the Group of Ten G10 a coalition of 11 industrialized nations that shape global financial stability and policy The article provides insights into the economic influence of G10 member countries and their role in international financial regulations and trade agreements It further explores the impact and challenges of algorithmic trading within these markets highlighting its role in enhancing efficiency and liquidity in the modern financial landscape Gain a comprehensive understanding of the G10's contributions to global finance and the dynamic evolution of trading practices"
+category: quant_concept
+description: Discover the strategic significance of the Group of Ten G10 a coalition
+  of 11 industrialized nations that shape global financial stability and policy The
+  article provides insights into the economic influence of G10 member countries and
+  their role in international financial regulations and trade agreements It further
+  explores the impact and challenges of algorithmic trading within these markets highlighting
+  its role in enhancing efficiency and liquidity in the modern financial landscape
+  Gain a comprehensive understanding of the G10's contributions to global finance
+  and the dynamic evolution of trading practices
+title: 'Group of Ten: Overview and Member Countries (Algo Trading)'
 ---
 
 The Group of Ten (G10) is a fascinating collective of 11 industrialized nations that play a crucial role in the global financial landscape. The name might suggest ten members, but the G10 comprises 11 countries: Belgium, Canada, France, Germany, Italy, Japan, the Netherlands, Sweden, Switzerland, the United Kingdom, and the United States. These countries, among the world's most economically advanced, collaborate on matters related to international finance and economic policy, significantly influencing global economic stability. The G10's efforts are geared towards coordinating fiscal and monetary policies to ensure a robust and stable financial environment worldwide.

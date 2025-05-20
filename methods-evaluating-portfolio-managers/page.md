@@ -1,6 +1,8 @@
 ---
-title: "Methods for Evaluating Portfolio Managers (Algo Trading)"
-description: "Explore the evolving dynamics of evaluating portfolio managers in algo trading. Discover strategies to optimize performance through innovation and technology."
+category: trading_strategy
+description: Explore the evolving dynamics of evaluating portfolio managers in algo
+  trading. Discover strategies to optimize performance through innovation and technology.
+title: Methods for Evaluating Portfolio Managers (Algo Trading)
 ---
 
 In finance, effective investment evaluation hinges on robust portfolio management and comprehensive financial management. Portfolio management focuses on the strategic allocation of assets to meet specific investment goals, minimizing risk while maximizing returns. It requires a meticulous balance of risk management, market strategies, and asset selection, which has evolved significantly with technological advancements.

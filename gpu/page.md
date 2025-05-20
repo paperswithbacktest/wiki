@@ -1,9 +1,12 @@
 ---
-title: "GPU (Graphics Processing Unit) (Algo Trading)"
-description: Discover the crucial role of GPUs in algorithmic trading, from their origins in graphics rendering to their current indispensable use in AI and data processing. Learn how GPUs enable faster calculations, handle big data, and power deep learning models for algo trading success. Explore opportunities and challenges in this evolving field.
+category: quant_concept
+description: Discover the crucial role of GPUs in algorithmic trading, from their
+  origins in graphics rendering to their current indispensable use in AI and data
+  processing. Learn how GPUs enable faster calculations, handle big data, and power
+  deep learning models for algo trading success. Explore opportunities and challenges
+  in this evolving field.
+title: GPU (Graphics Processing Unit) (Algo Trading)
 ---
-
-
 
 Algorithmic trading has become a cornerstone of modern financial markets, representing a significant shift from traditional trading practices. By leveraging computer algorithms to execute trades based on pre-defined criteria, traders can analyze vast datasets and make decisions at lightning speed. This approach not only optimizes trading efficiency but also minimizes human error, thereby increasing the potential for profit.
 

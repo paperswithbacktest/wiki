@@ -1,6 +1,8 @@
 ---
-title: "Dual-Class Stock Structure and Controversy (Algo Trading)"
-description: "Explore the complexities of dual-class stock structures and their impact on corporate governance amid the rise of algorithmic trading in modern finance."
+category: quant_concept
+description: Explore the complexities of dual-class stock structures and their impact
+  on corporate governance amid the rise of algorithmic trading in modern finance.
+title: Dual-Class Stock Structure and Controversy (Algo Trading)
 ---
 
 The world of corporate finance is undeniably complex and multifaceted, entailing a delicate balance of interests among various stakeholders, including shareholders, executives, employees, and regulatory bodies. One of the emerging contentious issues within this domain is the advent of dual-class stock structures. These structures have become a hotbed of debate in corporate governance due to their distinct design, which allows certain stakeholders—usually founders and early investors—to retain significant control over a company's decision-making process through disproportionate voting rights.

@@ -1,6 +1,8 @@
 ---
-title: "Aggressive Accounting Techniques and Examples (Algo Trading)"
-description: "Explore aggressive accounting tactics that manipulate financial data to inflate earnings and obscure expenses, affecting market trust and compliance."
+category: quant_concept
+description: Explore aggressive accounting tactics that manipulate financial data
+  to inflate earnings and obscure expenses, affecting market trust and compliance.
+title: Aggressive Accounting Techniques and Examples (Algo Trading)
 ---
 
 Aggressive accounting practices are developed to portray a company's financial performance more favorably than it actually is. These practices frequently involve the manipulation of financial data to inflate earnings or obscure expenses, thereby presenting an exaggerated image of financial health. While aggressive accounting shares similarities with creative accounting, it often crosses the boundaries of ethical norms, diverging significantly to mislead stakeholders intentionally.

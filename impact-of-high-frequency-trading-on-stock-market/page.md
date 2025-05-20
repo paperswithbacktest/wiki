@@ -1,6 +1,8 @@
 ---
-title: "Impact of High-Frequency Trading on the Stock Market (Algo Trading)"
-description: "Explore the profound impact of high-frequency trading on stock markets, balancing increased liquidity and efficiency with debates on volatility and fairness."
+category: quant_concept
+description: Explore the profound impact of high-frequency trading on stock markets,
+  balancing increased liquidity and efficiency with debates on volatility and fairness.
+title: Impact of High-Frequency Trading on the Stock Market (Algo Trading)
 ---
 
 High-frequency trading (HFT) has significantly reshaped the stock market over the past few decades. This trading method utilizes algorithmic strategies capable of executing thousands of trades in just fractions of a second, highlighting the profound impact of technology on financial markets. The core of HFT lies in its ability to process vast quantities of data rapidly and execute trades with minimal latency, capitalizing on the smallest price discrepancies.

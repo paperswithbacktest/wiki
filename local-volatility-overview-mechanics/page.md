@@ -1,6 +1,8 @@
 ---
-title: "Local Volatility: Overview and Mechanics (Algo Trading)"
-description: "Explore local volatility in algorithmic trading for enhanced option pricing through dynamic models improving strategies for returns and risk management."
+category: quant_concept
+description: Explore local volatility in algorithmic trading for enhanced option pricing
+  through dynamic models improving strategies for returns and risk management.
+title: 'Local Volatility: Overview and Mechanics (Algo Trading)'
 ---
 
 Financial derivatives are intricate financial products that derive their value from an underlying asset, such as stocks, bonds, commodities, or market indices. These instruments allow investors to speculate on the future price movements of the underlying assets or to hedge against potential losses. Derivatives play a pivotal role in financial markets by enhancing liquidity, enabling risk transfer, and allowing price discovery.

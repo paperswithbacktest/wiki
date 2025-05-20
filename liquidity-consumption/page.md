@@ -1,6 +1,9 @@
 ---
-title: "liquidity consumption (Algo Trading)"
-description: "Explore how algorithmic trading impacts liquidity consumption in financial markets by examining the dual role of algorithms in both providing and consuming liquidity."
+category: quant_concept
+description: Explore how algorithmic trading impacts liquidity consumption in financial
+  markets by examining the dual role of algorithms in both providing and consuming
+  liquidity.
+title: liquidity consumption (Algo Trading)
 ---
 
 Liquidity consumption in algorithmic trading refers to the impact that trading algorithms have on the available liquidity in the financial markets. Liquidity is a critical component in trading as it represents the ease with which assets can be bought or sold in the market without causing significant price changes. For traders, high liquidity ensures that large orders can be executed with minimal price disruption, making it a cornerstone for both efficiency and stability in financial markets.

@@ -1,6 +1,8 @@
 ---
-title: "Yield Pickup: Explanation and Mechanism (Algo Trading)"
-description: "Discover how the yield pickup strategy enhances bond portfolio returns by replacing lower-yield bonds with higher ones using algorithmic trading for efficiency."
+category: trading_strategy
+description: Discover how the yield pickup strategy enhances bond portfolio returns
+  by replacing lower-yield bonds with higher ones using algorithmic trading for efficiency.
+title: 'Yield Pickup: Explanation and Mechanism (Algo Trading)'
 ---
 
 The yield pickup strategy is an essential mechanism for investors aiming to enhance the return profiles of their bond portfolios. At its core, this strategy involves the replacement of lower-yielding bonds with those offering higher yields, ultimately seeking to increase overall income from investments. This strategic approach is widely acknowledged within the financial community for its potential to boost risk-adjusted returns.

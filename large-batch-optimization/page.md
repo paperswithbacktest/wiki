@@ -1,7 +1,8 @@
 ---
-title: Large Batch Optimization Techniques for Deep Learning Models
+category: quant_concept
 description: Large batch optimization accelerates deep learning training with methods
   like Adam and LAMB while preserving model accuracy Discover more inside.
+title: Large Batch Optimization Techniques for Deep Learning Models
 ---
 
 ![Image](images/1.png)

@@ -1,6 +1,8 @@
 ---
-title: "Candlestick Charting Color Variations (Algo Trading)"
-description: "Explore the impact of candlestick chart colors on algorithmic trading Enhance technical analysis for better trading decisions using color-coded signals"
+category: quant_concept
+description: Explore the impact of candlestick chart colors on algorithmic trading
+  Enhance technical analysis for better trading decisions using color-coded signals
+title: Candlestick Charting Color Variations (Algo Trading)
 ---
 
 In the world of trading, mastering technical analysis is essential for traders seeking to make informed decisions. One widely used method in this domain is candlestick charting, which aids in visualizing and interpreting price movements over a specific timeframe. Each candlestick reflects the open, high, low, and close prices, illustrating the momentum and potential direction of financial instruments.

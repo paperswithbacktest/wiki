@@ -1,6 +1,9 @@
 ---
-title: "Hybrid Fund: Examples of Mixed Asset Class Funds (Algo Trading)"
-description: "Discover the benefits of hybrid funds and algorithmic trading in mixed asset class investments Learn how these diversified portfolios balance risk and return."
+category: trading_strategy
+description: Discover the benefits of hybrid funds and algorithmic trading in mixed
+  asset class investments Learn how these diversified portfolios balance risk and
+  return.
+title: 'Hybrid Fund: Examples of Mixed Asset Class Funds (Algo Trading)'
 ---
 
 Hybrid funds, commonly termed mixed asset class funds, are a significant component of the investment ecosystem. They facilitate diversification by spanning multiple asset classes such as stocks, bonds, and various other securities. This diversity is crucial as it allows investors to mitigate risks associated with investing in a single asset category. As a result, hybrid funds are particularly attractive to those who seek a balance in risk and return, offering an alternative to conventional single asset investments.

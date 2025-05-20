@@ -1,6 +1,10 @@
 ---
-title: "Mechanical Trading Strategies: The Comprehensive Guide"
-description: Explore the foundations of mechanical trading strategies, including market selection, position sizing, entry and exit rules, stops and targets, and systematized decision-making. Learn how technical indicators play a crucial role in informing and validating trading decisions in this comprehensive guide to mechanical trading.
+category: trading_strategy
+description: Explore the foundations of mechanical trading strategies, including market
+  selection, position sizing, entry and exit rules, stops and targets, and systematized
+  decision-making. Learn how technical indicators play a crucial role in informing
+  and validating trading decisions in this comprehensive guide to mechanical trading.
+title: 'Mechanical Trading Strategies: The Comprehensive Guide'
 ---
 
 The surge in the adoption of mechanical trading strategies is primarily fueled by the shift towards [data-driven decision-making](https://paperswithbacktest.com/datasets) in financial markets. Traders are increasingly relying on algorithms and systematic approaches to analyze vast quantities of market data swiftly and efficiently. [Mechanical trading strategies](https://paperswithbacktest.com/), defined by a set of predefined rules for entry, exit, and risk management, enable traders to execute trades with precision and speed that is humanly unattainable.

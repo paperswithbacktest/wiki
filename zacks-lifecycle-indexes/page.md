@@ -1,6 +1,8 @@
 ---
-title: "Zacks Lifecycle Indexes (Algo Trading)"
-description: "Explore investment strategies with Zacks Lifecycle Indexes, including lifecycle funds, index investing, and algorithmic trading, for optimum wealth management."
+category: trading_strategy
+description: Explore investment strategies with Zacks Lifecycle Indexes, including
+  lifecycle funds, index investing, and algorithmic trading, for optimum wealth management.
+title: Zacks Lifecycle Indexes (Algo Trading)
 ---
 
 Investment strategies play a fundamental role in helping individuals navigate the complexities of financial markets and secure their future wealth. This article examines the main strategies of lifecycle funds, index investing, and algorithmic trading, each offering unique benefits tailored to varying investor needs.

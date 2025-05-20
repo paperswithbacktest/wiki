@@ -1,7 +1,8 @@
 ---
-title: Synthetic Tabular Data Generation With CTAB-GAN and TabularARGN
+category: dataset
 description: Synthetic tabular data by CTAB-GAN and TabularARGN retains data patterns
   and privacy while adding outliers for robust training Discover more inside
+title: Synthetic Tabular Data Generation With CTAB-GAN and TabularARGN
 ---
 
 ![Image](images/1.jpeg)

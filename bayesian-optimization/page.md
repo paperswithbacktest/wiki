@@ -1,7 +1,8 @@
 ---
-title: Understanding Bayesian Optimization for Efficient Model Tuning
+category: quant_concept
 description: Bayesian Optimization streamlines hyperparameter tuning with models that
   balance exploration and exploitation for faster results Discover more inside
+title: Understanding Bayesian Optimization for Efficient Model Tuning
 ---
 
 ![Image](images/1.png)

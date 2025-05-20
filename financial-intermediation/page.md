@@ -1,6 +1,8 @@
 ---
-title: "Financial Intermediation (Algo Trading)"
-description: "Explore the roles of financial intermediaries and algorithmic trading in modern finance Examine their impact on market liquidity and economic growth."
+category: quant_concept
+description: Explore the roles of financial intermediaries and algorithmic trading
+  in modern finance Examine their impact on market liquidity and economic growth.
+title: Financial Intermediation (Algo Trading)
 ---
 
 Financial intermediation and algorithmic trading constitute vital components in the architecture of modern financial systems. Financial intermediaries, such as banks, mutual funds, and insurance companies, serve as pivotal links connecting savers and borrowers. They efficiently facilitate the flow of capital, thus playing a crucial role in fostering economic growth and ensuring market liquidity. By bridging the gap between the supply and demand of funds, these intermediaries contribute to the overall economic stability and expansion.

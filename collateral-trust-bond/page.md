@@ -1,6 +1,9 @@
 ---
-title: "Collateral Trust Bond (Algo Trading)"
-description: "Explore how collateral trust bonds offer secured investment opportunities in algorithmic trading while enhancing safety in diverse investment portfolios and financial strategies."
+category: quant_concept
+description: Explore how collateral trust bonds offer secured investment opportunities
+  in algorithmic trading while enhancing safety in diverse investment portfolios and
+  financial strategies.
+title: Collateral Trust Bond (Algo Trading)
 ---
 
 In an evolving financial landscape, investment securities such as collateral trust bonds have become integral to diverse investment portfolios and financing strategies. These bonds offer a secured investment option by using a pool of securities held in trust as collateral. This mechanism enhances their appeal, especially for investors prioritizing security over higher yields. The trade-off here is that while these bonds provide a higher degree of safety due to their collateral backing, they typically offer lower yields compared to unsecured bonds.
@@ -125,4 +128,3 @@ In conclusion, the future of bonds and algorithmic trading presents a promising 
    - QuantLib, a free/open-source library for modeling, trading, and risk management in real-life. It’s extensively used for bond and derivatives analytics.
 
 These resources provide a comprehensive foundation for anyone interested in extending their knowledge of bond markets, collateral trust bonds, and the role of algorithmic trading within these domains.
-

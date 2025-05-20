@@ -1,6 +1,15 @@
 ---
-title: "Financial web sites and blogs (Algo Trading)"
-description: Discover the latest insights and resources in algorithmic trading with top financial websites and blogs. Enhance your trading strategies with expert content tailored for beginners and experienced traders alike. Explore educational guides, technical tools, and lively communities designed to boost your trading performance in today's data-driven markets. Uncover influential platforms such as QuantConnect and QuantInsti, offering comprehensive courses and real-world case studies to refine your quantitative skills. Stay informed on emerging technologies and innovative strategies by following these essential resources in the evolving field of algo trading.
+category: quant_concept
+description: Discover the latest insights and resources in algorithmic trading with
+  top financial websites and blogs. Enhance your trading strategies with expert content
+  tailored for beginners and experienced traders alike. Explore educational guides,
+  technical tools, and lively communities designed to boost your trading performance
+  in today's data-driven markets. Uncover influential platforms such as QuantConnect
+  and QuantInsti, offering comprehensive courses and real-world case studies to refine
+  your quantitative skills. Stay informed on emerging technologies and innovative
+  strategies by following these essential resources in the evolving field of algo
+  trading.
+title: Financial web sites and blogs (Algo Trading)
 ---
 
 In the fast-evolving landscape of finance, algorithmic trading, often referred to as algo trading, has established itself as an essential tool for traders seeking to leverage advanced technologies and vast amounts of data to execute trades and make informed decisions. This form of trading relies on computer algorithms to purchase and sell financial instruments at speeds and frequencies that are impossible for a human trader, optimizing and improving upon traditional trading methods.

@@ -1,6 +1,9 @@
 ---
-title: "Trading Stocks on Multiple Exchanges (Algo Trading)"
-description: "Explore the multifaceted world of trading stocks on multiple exchanges with algorithmic strategies to capitalize on arbitrage opportunities and overcome challenges."
+category: trading_strategy
+description: Explore the multifaceted world of trading stocks on multiple exchanges
+  with algorithmic strategies to capitalize on arbitrage opportunities and overcome
+  challenges.
+title: Trading Stocks on Multiple Exchanges (Algo Trading)
 ---
 
 Stock trading, at its core, involves the buying and selling of company shares with the aim of generating profits. Traditionally, traders would buy stocks in person through stock exchanges, engaging in transactions that were labor-intensive and often time-consuming. The evolution of technology, however, has significantly transformed this landscape. The advent of internet-based platforms, high-frequency trading, and advanced analytical tools has facilitated faster and more efficient trades. One noteworthy development is the emergence of algorithmic trading—automated trading strategies that execute pre-set orders at high speed and volume. 

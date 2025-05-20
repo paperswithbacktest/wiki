@@ -1,6 +1,8 @@
 ---
-title: "Balance Sheet: Components and Examples (Algo Trading)"
-description: "Discover the vital role of balance sheets in financial health assessment and how their integration into algorithmic trading can optimize investment strategies."
+category: quant_concept
+description: Discover the vital role of balance sheets in financial health assessment
+  and how their integration into algorithmic trading can optimize investment strategies.
+title: 'Balance Sheet: Components and Examples (Algo Trading)'
 ---
 
 The concept of a balance sheet serves as a cornerstone in financial statement accounting. It provides a snapshot of a company's financial position at a specific point in time by detailing its assets, liabilities, and shareholders' equity. This static picture is crucial for assessing a company's financial health and making informed decisions about future financial activities. Financial analysts, investors, and stakeholders rely on a balance sheet to evaluate a company's solvency, liquidity, and operational efficiency.

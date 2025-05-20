@@ -1,11 +1,10 @@
 ---
-title: Effective Quantile Bucketing Techniques for Machine Learning
+category: quant_concept
 description: Quantile Bucketing converts continuous data into categorical bins to
   improve model predictions and manage outliers in machine learning Discover more
   inside
+title: Effective Quantile Bucketing Techniques for Machine Learning
 ---
-
-
 
 ## Table of Contents
 

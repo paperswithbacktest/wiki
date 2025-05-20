@@ -1,6 +1,8 @@
 ---
-title: "Development of Computer-Built ETFs (Algo Trading)"
-description: "Explore the rising trend of computer-built ETFs powered by algorithmic trading which enhances investment strategies through automation and data insights."
+category: trading_strategy
+description: Explore the rising trend of computer-built ETFs powered by algorithmic
+  trading which enhances investment strategies through automation and data insights.
+title: Development of Computer-Built ETFs (Algo Trading)
 ---
 
 The financial technology landscape is witnessing a significant transformation, largely driven by the convergence of automation, algorithms, and advanced computer technology. Among the most intriguing developments in this field are computer-built Exchange-Traded Funds (ETFs), which leverage algorithmic trading and data-driven decision-making processes. These innovations are reshaping investment strategies, introducing a level of efficiency and precision rarely seen in traditional methodologies.

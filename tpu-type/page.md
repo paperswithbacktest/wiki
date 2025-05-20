@@ -1,7 +1,8 @@
 ---
-title: Tensor Processing Units Explained For Faster Machine Learning
+category: quant_concept
 description: Tensor Processing Units accelerate machine learning by handling neural
   network ops faster while managing memory efficiently Discover more inside
+title: Tensor Processing Units Explained For Faster Machine Learning
 ---
 
 ![Image](images/1.png)

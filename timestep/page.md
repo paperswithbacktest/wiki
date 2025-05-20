@@ -1,8 +1,9 @@
 ---
-title: Understanding Timesteps in Machine Learning Models
+category: quant_concept
 description: Timesteps in machine learning define how models process sequential data
   for accurate forecasts and improved performance in RNNs and LSTMs Discover more
   inside
+title: Understanding Timesteps in Machine Learning Models
 ---
 
 ![Image](images/1.png)

@@ -1,6 +1,8 @@
 ---
-title: "High Flier (Algo Trading)"
-description: "Discover the innovative world of algorithmic trading where speed and technology redefine financial markets and offer exciting career opportunities."
+category: quant_concept
+description: Discover the innovative world of algorithmic trading where speed and
+  technology redefine financial markets and offer exciting career opportunities.
+title: High Flier (Algo Trading)
 ---
 
 Algorithmic trading has transformed the landscape of the financial markets, pushing the boundaries of what is achievable through automation and technology. Utilizing sophisticated computer algorithms, traders can execute orders at speeds and frequencies that no human trader could match. This has opened up new horizons for individuals seeking to excel in the trading world, offering high-growth opportunities in a fast-paced environment that remains at the cutting edge of technological innovation.

@@ -1,6 +1,9 @@
 ---
-title: "Jobbers in the Stock Market: Role and Historical Overview (Algo Trading)"
-description: "Explore the evolution of stock market dynamics from the pivotal role of jobbers to the efficiency-driven world of algorithmic trading. Discover historical insights."
+category: quant_concept
+description: Explore the evolution of stock market dynamics from the pivotal role
+  of jobbers to the efficiency-driven world of algorithmic trading. Discover historical
+  insights.
+title: 'Jobbers in the Stock Market: Role and Historical Overview (Algo Trading)'
 ---
 
 The stock market has undergone significant transformations over the centuries, largely shaped by the needs of the time and the adoption of advancing technologies. Historically, trading practices like stockjobbing played a crucial role in shaping financial markets. Stockjobbing involved individuals known as jobbers, who facilitated trades by buying and holding stock inventories to match buyers and sellers, thereby enhancing market liquidity. This system was instrumental in the functioning of stock markets before the advent of electronic trading.

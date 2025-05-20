@@ -1,6 +1,9 @@
 ---
-title: "Decoupling in Finance (Algo Trading)"
-description: "Explore the concept of decoupling in finance and how it impacts investment strategies. Gain insights into market dynamics and the role of algorithmic trading in this complex landscape."
+category: quant_concept
+description: Explore the concept of decoupling in finance and how it impacts investment
+  strategies. Gain insights into market dynamics and the role of algorithmic trading
+  in this complex landscape.
+title: Decoupling in Finance (Algo Trading)
 ---
 
 Understanding the dynamics of global financial markets is crucial for both individual and institutional investors. In recent years, the concept of decoupling in financial markets has gained attention as a significant phenomenon. Financial decoupling refers to the situation where the performance of one market or asset class becomes independent from another. Historically, various markets have often moved in sync due to shared influences like economic policies, global events, and investor sentiment. However, decoupling introduces a layer of complexity that challenges traditional assumptions of market convergence.

@@ -1,6 +1,9 @@
 ---
-title: "PSA Prepayment Model (Algo Trading)"
-description: "Explore how the PSA prepayment model integrates with algorithmic trading to enhance decision-making in managing mortgage-backed securities risks and optimize portfolios."
+category: quant_concept
+description: Explore how the PSA prepayment model integrates with algorithmic trading
+  to enhance decision-making in managing mortgage-backed securities risks and optimize
+  portfolios.
+title: PSA Prepayment Model (Algo Trading)
 ---
 
 The world of financial securities is intricately tied to various models and strategies, one of which is the Public Securities Association (PSA) prepayment model. This model is employed primarily to estimate the prepayment risks associated with mortgage-backed securities (MBS) and collateralized mortgage obligations (CMO), providing crucial insights into their liquidity and risk levels. Understanding this model is essential for professionals dealing in these types of securities, as prepayment risks can have significant impacts on the valuation and performance of investment portfolios.

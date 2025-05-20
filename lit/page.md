@@ -1,7 +1,8 @@
 ---
-title: Lit TensorFlow Library Simplifies Machine Learning Experiments
+category: quant_concept
 description: Lit TensorFlow Library streamlines model training and interpretation
   so you can prototype and refine machine learning models faster Discover more inside
+title: Lit TensorFlow Library Simplifies Machine Learning Experiments
 ---
 
 ![Image](images/1.png)

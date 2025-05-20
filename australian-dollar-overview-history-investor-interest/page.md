@@ -1,6 +1,9 @@
 ---
-title: "Australian Dollar: Overview, History, and Investor Interest (Algo Trading)"
-description: "Explore the Australian Dollar's role in global finance its history volatility driving investor interest and how algorithmic trading enhances opportunities with the currency."
+category: dataset
+description: Explore the Australian Dollar's role in global finance its history volatility
+  driving investor interest and how algorithmic trading enhances opportunities with
+  the currency.
+title: 'Australian Dollar: Overview, History, and Investor Interest (Algo Trading)'
 ---
 
 The Australian Dollar (AUD), often referred to as the "Aussie," holds a pivotal position in global financial markets. As one of the most traded currencies worldwide, it serves as a barometer for economic trends not only within Australia but also across the Asia-Pacific region and beyond. Its role as a commodity currency is underscored by Australia's rich natural resources, making the AUD a direct beneficiary of fluctuations in global commodity markets.

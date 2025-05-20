@@ -1,6 +1,9 @@
 ---
-title: "Path-Dependent Options (Algo Trading)"
-description: "Explore path-dependent options in trading where payoffs are impacted by an asset's price path offering strategic tools like Asian lookback and barrier options."
+category: quant_concept
+description: Explore path-dependent options in trading where payoffs are impacted
+  by an asset's price path offering strategic tools like Asian lookback and barrier
+  options.
+title: Path-Dependent Options (Algo Trading)
 ---
 
 In the evolving landscape of financial derivatives, path-dependent options offer both unique challenges and opportunities for traders and investors. Unlike traditional options, which derive their value solely from the price of the underlying asset at expiration, path-dependent options are distinguished by their reliance on the entire price trajectory of the asset. This characteristic makes them a versatile tool in the market, allowing for greater flexibility in strategy and application.

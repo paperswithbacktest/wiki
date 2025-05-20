@@ -1,8 +1,9 @@
 ---
-title: Understanding Squared Loss in Machine Learning Regression
+category: quant_concept
 description: Squared Loss in machine learning measures the average squared difference
   between predictions and actual values guiding models to improve accuracy. Discover
   more inside.
+title: Understanding Squared Loss in Machine Learning Regression
 ---
 
 ![Image](images/1.png)

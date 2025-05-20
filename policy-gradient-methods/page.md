@@ -1,7 +1,8 @@
 ---
-title: Policy Gradient Methods For Reinforcement Learning Explained
+category: quant_concept
 description: Policy Gradient Methods apply gradient ascent to refine agent policies
   and enhance decision making in complex environments Discover more inside.
+title: Policy Gradient Methods For Reinforcement Learning Explained
 ---
 
 ![Image](images/1.jpeg)

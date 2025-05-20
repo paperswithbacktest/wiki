@@ -1,6 +1,9 @@
 ---
-title: "Monetary Regulation in India (Algo Trading)"
-description: "Explore the dynamics of India's monetary regulation and its interplay with algorithmic trading enhancing financial transparency while addressing systemic risks."
+category: quant_concept
+description: Explore the dynamics of India's monetary regulation and its interplay
+  with algorithmic trading enhancing financial transparency while addressing systemic
+  risks.
+title: Monetary Regulation in India (Algo Trading)
 ---
 
 In recent years, the intersection of monetary policy, money printing, currency control, and algorithmic trading has become increasingly significant in India. This article explores the multifaceted landscape of monetary regulation in India and its connection with advanced trading technologies such as algorithmic trading. As the financial system continues to evolve, understanding these dynamics is crucial for stakeholders and investors.
@@ -86,4 +89,3 @@ Sustained collaboration between regulatory bodies, the government, and market pa
 [6]: ["Demonetization and Black Money"](https://www.researchgate.net/publication/318010845_Black_Money_and_Demonetisation). NITI Aayog, Government of India.
 
 [7]: Narain, U., & Sharma, D. (2016). ["High-Frequency Trading: Is SEBI Prepared?"](https://www.firstpost.com/business/explained-what-is-the-nse-co-location-scam-how-ravi-narain-and-chitra-ramkrishna-are-involved-in-it-10391841.html) Vikalpa: The Journal for Decision Makers.
-

@@ -1,6 +1,9 @@
 ---
-title: "Gaussian Processes (Algo Trading)"
-description: "Explore the use of Gaussian Processes in algorithmic trading to capture financial data trends and uncertainties, enhancing prediction accuracy and trading strategies."
+category: quant_concept
+description: Explore the use of Gaussian Processes in algorithmic trading to capture
+  financial data trends and uncertainties, enhancing prediction accuracy and trading
+  strategies.
+title: Gaussian Processes (Algo Trading)
 ---
 
 Algorithmic trading represents a sophisticated facet of modern financial markets, utilizing diverse mathematical and statistical frameworks to forecast market behaviors. At the forefront of these models are Gaussian Processes (GPs), which have garnered attention for their applicability in algorithmic trading. This article intends to examine the application of Gaussian Processes in this domain, highlighting their benefits and distinct advantages.

@@ -1,6 +1,8 @@
 ---
-title: "History of New York as a Financial Center (Algo Trading)"
-description: "Explore New York's rich financial history and its evolution into a global leader in finance and algo trading shaping modern economic landscapes."
+category: quant_concept
+description: Explore New York's rich financial history and its evolution into a global
+  leader in finance and algo trading shaping modern economic landscapes.
+title: History of New York as a Financial Center (Algo Trading)
 ---
 
 New York City stands as a cornerstone in international finance, often referred to as the financial capital of the world. With Wall Street at its heart, the city not only influences economic trends across the United States but also impacts global financial markets. Historical ties with finance stretch back to the Dutch colonial era when New Amsterdam served as a key trading post. This foundation enabled New York to evolve into a central hub for financial services by attracting key institutions such as banks, insurance companies, and later, the New York Stock Exchange (NYSE).

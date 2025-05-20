@@ -1,6 +1,8 @@
 ---
-title: "Indication of Interest (IOI): Functionality and Example (Algo Trading)"
-description: "Discover how Indications of Interest (IOIs) enhance algorithmic trading by providing crucial insights into market trends liquidity and strategic decision-making."
+category: quant_concept
+description: Discover how Indications of Interest (IOIs) enhance algorithmic trading
+  by providing crucial insights into market trends liquidity and strategic decision-making.
+title: 'Indication of Interest (IOI): Functionality and Example (Algo Trading)'
 ---
 
 In financial markets, an Indication of Interest (IOI) acts as a key tool in shaping modern trading and investment strategies. Unlike formal commitments, IOIs allow traders and investors to signal their interest in purchasing or selling securities without binding obligations. This flexibility is particularly beneficial in the dynamic environments of initial public offerings (IPOs) and large-scale transactions, where gauging market interest and investor appetite is crucial. 

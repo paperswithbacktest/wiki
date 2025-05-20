@@ -1,6 +1,8 @@
 ---
-title: "Controlled Disbursement: Overview and Functionality (Algo Trading)"
-description: "Discover how controlled disbursement and algorithmic trading enhance cash management for businesses, boosting liquidity and optimizing financial operations."
+category: quant_concept
+description: Discover how controlled disbursement and algorithmic trading enhance
+  cash management for businesses, boosting liquidity and optimizing financial operations.
+title: 'Controlled Disbursement: Overview and Functionality (Algo Trading)'
 ---
 
 In today's fast-paced and competitive business landscape, effective cash management has become a cornerstone for corporate financial strategy. It plays a critical role in maintaining liquidity, ensuring that businesses can meet their financial obligations without unnecessary delays or extra costs. As companies strive to balance operational efficiency and profitability, sound cash management practices are essential for achieving financial stability and growth.

@@ -1,6 +1,9 @@
 ---
-title: "Market fragmentation (Algo Trading)"
-description: "Market fragmentation challenges algorithmic trading by complicating pricing and liquidity across multiple venues. Discover strategies to thrive in this dispersed market landscape."
+category: quant_concept
+description: Market fragmentation challenges algorithmic trading by complicating pricing
+  and liquidity across multiple venues. Discover strategies to thrive in this dispersed
+  market landscape.
+title: Market fragmentation (Algo Trading)
 ---
 
 In recent years, financial markets have seen an increasing trend towards fragmentation, which significantly impacts algorithmic trading. Market fragmentation is characterized by the division of a market into multiple smaller markets. This division typically arises from the proliferation of trading platforms and exchanges, which in turn fosters a trading environment that is more complex and dispersed. As the number of platforms increases, so too does the challenge of obtaining consistent pricing and liquidity across different venues.

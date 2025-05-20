@@ -1,6 +1,9 @@
 ---
-title: "North Sea Brent Crude: Overview, Investment, History (Algo Trading)"
-description: "Explore the significance of North Sea Brent Crude oil as a global price benchmark and its investment potential in the evolving landscape of algorithmic trading."
+category: dataset
+description: Explore the significance of North Sea Brent Crude oil as a global price
+  benchmark and its investment potential in the evolving landscape of algorithmic
+  trading.
+title: 'North Sea Brent Crude: Overview, Investment, History (Algo Trading)'
 ---
 
 The world of investments is a multifaceted domain, encompassing numerous commodities, stocks, and sectors. Among these, Brent Crude oil from the North Sea emerges as a significant entity within the oil sector. Known for its pivotal role, Brent Crude oil acts as a benchmark for global oil prices, influencing economic activities far beyond its geographical confines. This benchmarking status makes it a fundamental component in energy trading and financial markets worldwide.

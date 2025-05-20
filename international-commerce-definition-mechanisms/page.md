@@ -1,6 +1,9 @@
 ---
-title: "International Commerce: Definition and Mechanisms (Algo Trading)"
-description: "Explore international commerce and algorithmic trading as key drivers of global economic growth. Understand trade mechanisms, benefits, and potential risks."
+category: quant_concept
+description: Explore international commerce and algorithmic trading as key drivers
+  of global economic growth. Understand trade mechanisms, benefits, and potential
+  risks.
+title: 'International Commerce: Definition and Mechanisms (Algo Trading)'
 ---
 
 In the modern economic landscape, global business commerce mechanisms such as international trade and algorithmic trading have emerged as pivotal drivers of economic growth and connectivity. International commerce, realized through the exchange of goods, services, and capital across borders, facilitates global economic integration. This integration is crucial for fostering economic development, innovation, and market expansion, enabling nations to leverage their comparative advantages and achieve economic prosperity.

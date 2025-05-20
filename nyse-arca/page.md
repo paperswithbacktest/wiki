@@ -1,6 +1,8 @@
 ---
-title: "NYSE Arca (Algo Trading)"
-description: "Discover the advantages of NYSE Arca a leading electronic exchange offering rapid execution and algorithmic trading tools for enhanced market liquidity."
+category: quant_concept
+description: Discover the advantages of NYSE Arca a leading electronic exchange offering
+  rapid execution and algorithmic trading tools for enhanced market liquidity.
+title: NYSE Arca (Algo Trading)
 ---
 
 The New York Stock Exchange Arca (NYSE Arca) is a central hub in the electronic trading landscape, offering significant advantages to traders and investors. Distinguished from the traditional NYSE, NYSE Arca operates as a completely electronic exchange, facilitating the rapid and efficient execution of trades. This ensures that participants benefit from immediate order matching and high-speed transactions, essential in today's fast-paced financial markets.

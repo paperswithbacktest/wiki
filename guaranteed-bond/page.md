@@ -1,6 +1,8 @@
 ---
-title: "Guaranteed Bond (Algo Trading)"
-description: "Explore the world of guaranteed bonds and algorithmic trading to enhance financial security and optimize investments for a balanced risk-return portfolio."
+category: trading_strategy
+description: Explore the world of guaranteed bonds and algorithmic trading to enhance
+  financial security and optimize investments for a balanced risk-return portfolio.
+title: Guaranteed Bond (Algo Trading)
 ---
 
 The world of finance and investment is characterized by constant change, with bonds serving as a fundamental component in managing risk and optimizing returns within investment portfolios. Traditionally seen as a conservative investment vehicle, bonds offer stability and income, providing a counterbalance to the volatility seen in equities. In this article, we delve into several topics central to the modern bond market, aiming to provide both novice and seasoned investors with actionable insights.

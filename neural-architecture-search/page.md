@@ -1,7 +1,8 @@
 ---
-title: Neural Architecture Search Strategies for Optimized Model Design
+category: quant_concept
 description: Neural Architecture Search automates network design with reinforcement
   evolutionary and gradient methods for faster optimized models. Discover more inside
+title: Neural Architecture Search Strategies for Optimized Model Design
 ---
 
 ![Image](images/1.png)

@@ -1,6 +1,8 @@
 ---
-title: "Robo-Advisors and Millennials in Investment (Algo Trading)"
-description: "Explore how robo-advisors and algorithmic trading are transforming investment for millennials offering accessible cost-effective solutions for tech-savvy investors."
+category: trading_strategy
+description: Explore how robo-advisors and algorithmic trading are transforming investment
+  for millennials offering accessible cost-effective solutions for tech-savvy investors.
+title: Robo-Advisors and Millennials in Investment (Algo Trading)
 ---
 
 The financial landscape is undergoing a transformative shift, significantly influenced by advancements in technology that are redefining the investment strategies embraced by young investors. Central to this evolution are robo-advisors, sophisticated digital platforms harnessing algorithms to deliver automated financial services. These platforms have rapidly gained traction among millennials and Generation Z due to their flexibility, affordability, and accessibility.

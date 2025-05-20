@@ -1,6 +1,8 @@
 ---
-title: "Refunded Bond: Overview and Mechanism (Algo Trading)"
-description: "Master the dynamics of refunded bonds and algorithmic trading in today's fast-evolving financial markets Explore key mechanisms shaping investment strategies"
+category: quant_concept
+description: Master the dynamics of refunded bonds and algorithmic trading in today's
+  fast-evolving financial markets Explore key mechanisms shaping investment strategies
+title: 'Refunded Bond: Overview and Mechanism (Algo Trading)'
 ---
 
 In today's dynamic financial landscape, mastering the complexities of bonds and related financial instruments is essential, particularly with the increasing prominence of algorithmic trading. Bonds serve as fundamental components of financial markets, offering investors opportunities to lend money to governments or corporations for a defined period. This interaction between lenders and borrowers is evolving with technological advancements, as algorithmic trading reshapes the way bonds are traded.
@@ -149,4 +151,3 @@ For those interested in further exploring these topics, additional readings incl
 - Online courses and lectures, such as those available on platforms like Coursera and edX, which sometimes feature lessons on algorithmic trading and machine learning by industry leaders and academics.
 
 These resources can significantly enhance one's understanding of how technology and data science intersect with financial trading, providing a solid foundation for those aiming to navigate and innovate within algorithmic bond markets.
-

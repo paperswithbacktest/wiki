@@ -1,7 +1,8 @@
 ---
-title: Comprehensive Guide to Tokenization in Machine Learning
+category: quant_concept
 description: Tokenization in machine learning turns text into tokens to improve model
   performance by exploring key techniques types and challenges Discover more inside
+title: Comprehensive Guide to Tokenization in Machine Learning
 ---
 
 ![Image](images/1.png)

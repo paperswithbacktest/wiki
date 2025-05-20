@@ -1,6 +1,12 @@
 ---
-title: "An Analysis of Rebalancing Performance Dispersion"
-description: Explore the importance of rebalancing in long-term investing and its impact on portfolio performance and risk. Learn about structured rebalancing strategies and how various frequencies and methodologies like Strategic Rebalancing and emerging asset classes like cryptocurrencies can influence investment outcomes. Delve into data analysis and methodology to gain insights into optimizing rebalancing decisions for stable, predictable returns.
+category: trading_strategy
+description: Explore the importance of rebalancing in long-term investing and its
+  impact on portfolio performance and risk. Learn about structured rebalancing strategies
+  and how various frequencies and methodologies like Strategic Rebalancing and emerging
+  asset classes like cryptocurrencies can influence investment outcomes. Delve into
+  data analysis and methodology to gain insights into optimizing rebalancing decisions
+  for stable, predictable returns.
+title: An Analysis of Rebalancing Performance Dispersion
 ---
 
 Rebalancing in long-term investing is a critical, yet often overlooked strategy that impacts the overall performance and risk profile of investment portfolios. While the primary objective of investing is to maximize returns, the structure and management of a portfolio—particularly its asset allocation—determine its success over extended periods. Rebalancing, the act of realigning the weightings of a portfolio's assets by periodically buying or selling assets to maintain an original or desired level of asset allocation, is fundamental to this process.

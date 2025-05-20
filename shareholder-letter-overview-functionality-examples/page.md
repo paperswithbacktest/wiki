@@ -1,6 +1,9 @@
 ---
-title: "Shareholder Letter: Overview, Functionality, and Examples (Algo Trading)"
-description: "Shareholder letters enhance corporate communication by building investor trust and transparency crucial in navigating today's algorithmic trading-influenced markets."
+category: quant_concept
+description: Shareholder letters enhance corporate communication by building investor
+  trust and transparency crucial in navigating today's algorithmic trading-influenced
+  markets.
+title: 'Shareholder Letter: Overview, Functionality, and Examples (Algo Trading)'
 ---
 
 In today's fast-paced financial markets, effective corporate communication and investor relations are vital components of any successful business strategy. The dynamic nature of these markets necessitates a robust approach to how companies communicate with their investors, ensuring that they are kept informed and engaged. Shareholder letters, as a crucial instrument of corporate communication, serve as a bridge connecting company executives with their investors. These letters offer insights into a company's performance metrics and future strategic direction, thus playing a pivotal role in maintaining investor confidence.

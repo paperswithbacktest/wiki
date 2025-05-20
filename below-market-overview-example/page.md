@@ -1,6 +1,9 @@
 ---
-title: "Below Market: Overview and Example (Algo Trading)"
-description: "Discover how algorithmic trading enhances strategies for acquiring assets below market prices Learn to leverage data-driven insights for superior trading performance."
+category: trading_strategy
+description: Discover how algorithmic trading enhances strategies for acquiring assets
+  below market prices Learn to leverage data-driven insights for superior trading
+  performance.
+title: 'Below Market: Overview and Example (Algo Trading)'
 ---
 
 The financial markets represent a complex and ever-evolving environment where traders and investors continuously strive to optimize their returns. Success in this domain hinges on a thorough understanding of market pricing strategies, particularly in the context of algorithmic trading (algo trading). In essence, algorithmic trading involves the use of computer algorithms to automate trade execution, allowing for increased speed and efficiency in identifying and capitalizing on market opportunities.

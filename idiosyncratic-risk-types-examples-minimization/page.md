@@ -1,6 +1,13 @@
 ---
-title: "Idiosyncratic Risk: Types, Examples, and Minimization (Algo Trading)"
-description: "Explore the unique aspects of idiosyncratic risk and strategies to manage it effectively. Learn how this type of unsystematic risk differs from market-wide systematic risk through factors specific to individual assets or companies. Discover the role of diversification and algorithmic trading in minimizing risks and optimizing investment outcomes. Gain insights into the importance of understanding idiosyncratic risk in portfolio management and its implications for investors seeking to enhance returns through tailored risk assessments and informed decision-making."
+category: quant_concept
+description: Explore the unique aspects of idiosyncratic risk and strategies to manage
+  it effectively. Learn how this type of unsystematic risk differs from market-wide
+  systematic risk through factors specific to individual assets or companies. Discover
+  the role of diversification and algorithmic trading in minimizing risks and optimizing
+  investment outcomes. Gain insights into the importance of understanding idiosyncratic
+  risk in portfolio management and its implications for investors seeking to enhance
+  returns through tailored risk assessments and informed decision-making.
+title: 'Idiosyncratic Risk: Types, Examples, and Minimization (Algo Trading)'
 ---
 
 Idiosyncratic risk, commonly referred to as unsystematic risk, represents the risk inherent to a specific asset or company. Unlike systematic risk, which influences the entire market, idiosyncratic risk is confined to individual securities and is independent of broader market movements. This distinction is pivotal for investors, as the performance of individual securities can be significantly impacted by factors such as management decisions, product recalls, or industry-specific challenges. 

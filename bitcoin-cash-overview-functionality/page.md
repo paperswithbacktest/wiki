@@ -1,6 +1,8 @@
 ---
-title: "Bitcoin Cash: Overview and Functionality (Algo Trading)"
-description: "Discover how Bitcoin Cash offers a unique advantage in crypto markets with low fees and fast transactions enhanced by algorithmic trading efficiency."
+category: quant_concept
+description: Discover how Bitcoin Cash offers a unique advantage in crypto markets
+  with low fees and fast transactions enhanced by algorithmic trading efficiency.
+title: 'Bitcoin Cash: Overview and Functionality (Algo Trading)'
 ---
 
 Bitcoin Cash (BCH) is a prominent cryptocurrency that emerged as a result of a hard fork from Bitcoin (BTC) on August 1, 2017. It was created to address Bitcoin's scalability issues by increasing the block size limit, thereby allowing more transactions to be processed per block. This feature is designed to facilitate faster transaction times and lower fees, making BCH a viable option for everyday transactions. As a result, Bitcoin Cash has gained significant traction in the cryptocurrency market, attracting both investors and traders who are looking for an efficient and scalable digital currency.

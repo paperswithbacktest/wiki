@@ -1,6 +1,8 @@
 ---
-title: "Impact of Glass-Steagall Act Repeal on the 2008 Financial Crisis (Algo Trading)"
-description: "Explore how the Glass-Steagall Act repeal contributed to the 2008 financial crisis by allowing riskier banking practices and the rise of algorithmic trading."
+category: quant_concept
+description: Explore how the Glass-Steagall Act repeal contributed to the 2008 financial
+  crisis by allowing riskier banking practices and the rise of algorithmic trading.
+title: Impact of Glass-Steagall Act Repeal on the 2008 Financial Crisis (Algo Trading)
 ---
 
 The Glass-Steagall Act, enacted in 1933, was a foundational financial regulation designed to address the banking crises precipitated by the Great Depression. It fundamentally distinguished between commercial banking and investment banking, aiming to safeguard depositor funds from speculative trading activities typically conducted by investment banks. This segregation was intended to restore public confidence in the banking system and mitigate potential conflicts of interest within financial institutions.

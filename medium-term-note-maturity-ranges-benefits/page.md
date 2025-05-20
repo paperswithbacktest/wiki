@@ -1,6 +1,9 @@
 ---
-title: "Medium Term Note: Maturity Ranges and Benefits (Algo Trading)"
-description: "Explore the advantages and maturity ranges of Medium Term Notes in banking Learn how MTNs and algorithmic trading optimize financial strategies in today's market"
+category: quant_concept
+description: Explore the advantages and maturity ranges of Medium Term Notes in banking
+  Learn how MTNs and algorithmic trading optimize financial strategies in today's
+  market
+title: 'Medium Term Note: Maturity Ranges and Benefits (Algo Trading)'
 ---
 
 The financial landscape offers a wide array of instruments designed to meet diverse investment needs and objectives, ranging from traditional bonds to cutting-edge algorithmic trading strategies. Among these, Medium Term Notes (MTNs), bank guarantees, and algorithmic trading represent integral components of modern financial activities, particularly within the framework of U.S. banks.

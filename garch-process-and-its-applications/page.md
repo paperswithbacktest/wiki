@@ -1,6 +1,8 @@
 ---
-title: "GARCH Process and Its Applications (Algo Trading)"
-description: "Explore the GARCH process and its role in financial modeling and algorithmic trading Discover its impact on volatility estimation and risk management strategies"
+category: quant_concept
+description: Explore the GARCH process and its role in financial modeling and algorithmic
+  trading Discover its impact on volatility estimation and risk management strategies
+title: GARCH Process and Its Applications (Algo Trading)
 ---
 
 Financial modeling and time series analysis stand as pivotal tools in the quest to understand and predict the complex movements within financial markets. They provide the foundation upon which market participants build strategies and manage risks. Among various models used in these analyses, the Generalized Autoregressive Conditional Heteroskedasticity (GARCH) process emerges as a prominent methodology for estimating and understanding market volatility. 
@@ -165,4 +167,3 @@ print(garch_fit.summary())
 ```
 
 These references and resources provide a solid foundation for those looking to understand or implement GARCH models in financial modeling.
-

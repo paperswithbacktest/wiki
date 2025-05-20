@@ -1,6 +1,8 @@
 ---
-title: "Request For Quotes (Algo Trading)"
-description: "Explore Request for Quotes trading in algorithmic finance to enhance trade efficiency liquidity and pricing strategies amidst dynamic financial markets."
+category: quant_concept
+description: Explore Request for Quotes trading in algorithmic finance to enhance
+  trade efficiency liquidity and pricing strategies amidst dynamic financial markets.
+title: Request For Quotes (Algo Trading)
 ---
 
 In today's fast-paced financial markets, trading mechanisms play a crucial role in maintaining liquidity and transparency. Request for Quotes (RFQ) trading is a pivotal component in these markets, particularly within over-the-counter (OTC) venues. RFQ trading allows institutional traders to interact directly with multiple liquidity providers, facilitating the execution of large, complex trades. Unlike traditional order book systems, which can be less flexible and efficient for large transactions, RFQ systems cater to bespoke trading requirements, allowing for tailored pricing and improved trade execution.

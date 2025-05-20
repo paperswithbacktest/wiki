@@ -1,6 +1,9 @@
 ---
-title: "Cost of Labor (Algo Trading)"
-description: "Explore how algorithmic trading reshapes labor costs with a focus on balancing competitive compensation and operational efficiency in this evolving financial sector."
+category: quant_concept
+description: Explore how algorithmic trading reshapes labor costs with a focus on
+  balancing competitive compensation and operational efficiency in this evolving financial
+  sector.
+title: Cost of Labor (Algo Trading)
 ---
 
 In the modern financial landscape, algorithmic trading, also known as algo trading, has emerged as a formidable force, significantly influencing market transactions and reshaping the structure of employment expenses. This automated trading strategy employs complex algorithms and mathematical models to execute trades at speeds and frequencies that are impossible for human traders. The prevalence of algorithmic trading has not only transformed trading operations but has also necessitated a keen understanding of wages and salaries within this specialized context.

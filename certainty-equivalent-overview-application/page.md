@@ -1,6 +1,9 @@
 ---
-title: "Certainty Equivalent Overview and Application (Algo Trading)"
-description: "Explore the concept of certainty equivalent in finance and its role in risk management and algorithmic trading to enhance decision-making and optimize strategies."
+category: quant_concept
+description: Explore the concept of certainty equivalent in finance and its role in
+  risk management and algorithmic trading to enhance decision-making and optimize
+  strategies.
+title: Certainty Equivalent Overview and Application (Algo Trading)
 ---
 
 In today's complex financial environment, effective decision-making is pivotal for both individuals and institutions. Uncertainty and risk pervade markets, creating challenges that necessitate tools and frameworks to navigate them successfully. One such concept that aids in financial decision-making is the certainty equivalent. This concept is instrumental because it helps quantify an investor's risk preferences and translates them into actionable insights by indicating the guaranteed amount an investor would accept in lieu of a risky investment.

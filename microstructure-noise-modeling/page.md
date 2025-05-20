@@ -1,6 +1,8 @@
 ---
-title: "Microstructure noise modeling (Algo Trading)"
-description: "Explore market microstructure noise in algorithmic trading uncovering its sources like transaction costs and strategies for refining robust trading methods."
+category: quant_concept
+description: Explore market microstructure noise in algorithmic trading uncovering
+  its sources like transaction costs and strategies for refining robust trading methods.
+title: Microstructure noise modeling (Algo Trading)
 ---
 
 Market microstructure noise is an essential concept in understanding the complexities of financial markets, particularly relevant in the domain of algorithmic trading. This noise refers to the discrepancies that arise between an asset's observed trading prices and its underlying fundamental value. Such discrepancies are largely attributed to trading frictions, which include elements like transaction costs, order processing delays, and the strategies employed by traders. These factors obscure the true market signal, making it challenging for algorithms to interpret data accurately.

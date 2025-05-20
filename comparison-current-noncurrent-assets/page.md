@@ -1,6 +1,11 @@
 ---
-title: "Comparison of Current and Noncurrent Assets (Algo Trading)"
-description: "Explore the key distinctions between current and noncurrent assets in the financial sector, highlighting their impact on decision-making and strategy in algorithmic trading. Understand how these asset classifications inform trade execution and risk management, offering insights for improved financial analysis and strategic planning within dynamic markets."
+category: quant_concept
+description: Explore the key distinctions between current and noncurrent assets in
+  the financial sector, highlighting their impact on decision-making and strategy
+  in algorithmic trading. Understand how these asset classifications inform trade
+  execution and risk management, offering insights for improved financial analysis
+  and strategic planning within dynamic markets.
+title: Comparison of Current and Noncurrent Assets (Algo Trading)
 ---
 
 The world of finance encompasses a multitude of intricate concepts that must be organized effectively for improved comprehension and analysis. One such essential concept is asset classification, which plays a pivotal role in financial management. This article aims to elucidate the differences between noncurrent and current assets, examining how these categories impact decision-making in the financial sector. Furthermore, the importance of these classifications will be discussed in the context of algorithmic trading, where mathematical models and computer programs are employed to optimize trading strategies.

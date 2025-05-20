@@ -1,7 +1,8 @@
 ---
-title: Understanding Experimenter's Bias in Machine Learning Research
+category: quant_concept
 description: Experimenter's bias in machine learning skews results toward expected
   outcomes Minimize bias with blind testing and peer review Discover more inside
+title: Understanding Experimenter's Bias in Machine Learning Research
 ---
 
 ![Image](images/1.png)

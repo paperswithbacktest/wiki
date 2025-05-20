@@ -1,7 +1,8 @@
 ---
-title: Thermal Image Processing Models With DeepIR Technology
+category: quant_concept
 description: Thermal Image Processing models use DeepIR to analyze heat data for security
   medical diagnostics and energy inspections Discover more inside
+title: Thermal Image Processing Models With DeepIR Technology
 ---
 
 ![Image](images/1.jpeg)

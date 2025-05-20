@@ -1,6 +1,8 @@
 ---
-title: "Litecoin: Functionality, History, Trends, and Future Outlook (Algo Trading)"
-description: "Explore Litecoin's history, trends, and future outlook in algorithmic trading Discover its role in crypto market evolution and trading strategies benefits"
+category: quant_concept
+description: Explore Litecoin's history, trends, and future outlook in algorithmic
+  trading Discover its role in crypto market evolution and trading strategies benefits
+title: 'Litecoin: Functionality, History, Trends, and Future Outlook (Algo Trading)'
 ---
 
 Litecoin (LTC) is a prominent cryptocurrency that has played an influential role in the digital currency market since its inception in 2011 by Charlie Lee. Designed as a more accessible and faster alternative to Bitcoin, Litecoin has carved out its niche with a block generation time of 2.5 minutes and a maximum supply cap of 84 million coins. Its adoption has seen a steady rise, and it finds utility in various domains, such as cross-border transactions and as a medium of exchange due to its lower transaction fees compared to Bitcoin.

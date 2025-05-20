@@ -1,6 +1,8 @@
 ---
-title: "Calculating Variance in Excel (Algo Trading)"
-description: "Learn how to calculate variance in Excel for algorithmic trading to better gauge risk and performance. Discover essential Excel functions for financial analysis."
+category: quant_concept
+description: Learn how to calculate variance in Excel for algorithmic trading to better
+  gauge risk and performance. Discover essential Excel functions for financial analysis.
+title: Calculating Variance in Excel (Algo Trading)
 ---
 
 Variance is a crucial statistical measure in financial analysis, quantifying the degree of spread in a set of financial data. It is instrumental in evaluating the risk and performance of different investment portfolios and trading strategies. In the context of algorithmic trading, variance allows traders and analysts to assess the volatility and potential risks involved in investment decisions. Algorithmic trading, a rapidly growing practice in the finance sector, involves utilizing computer programs to execute trades at speeds far beyond human capability. At the core of these algorithms are quantitative models and statistical measures like variance that aid in optimizing trading strategies and risk management. 

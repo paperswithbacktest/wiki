@@ -1,6 +1,8 @@
 ---
-title: "Growth Stocks and Value Stocks: Overview and Examples (Algo Trading)"
-description: "Explore the key differences between value and growth stocks in a tech-driven trading landscape Discover how algorithmic trading reshapes investment strategies"
+category: trading_strategy
+description: Explore the key differences between value and growth stocks in a tech-driven
+  trading landscape Discover how algorithmic trading reshapes investment strategies
+title: 'Growth Stocks and Value Stocks: Overview and Examples (Algo Trading)'
 ---
 
 Value stocks and growth stocks are two foundational investment strategies, each offering unique approaches to capital allocation. Value stocks are typically characterized by their low price-to-earnings (P/E) ratios and solid fundamentals, suggesting they may be undervalued by the market. Investors adopting a value-focused strategy look to these stocks as opportunities for gains once the market adjusts to better reflect the stocks' intrinsic worth. Growth stocks, in contrast, are defined by their high revenue potential and aggressive reinvestment strategies. These stocks often trade at higher P/E ratios due to expectations of future growth and appeal to investors willing to accept greater risk for the potential of substantial returns.

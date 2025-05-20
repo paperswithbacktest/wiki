@@ -1,6 +1,8 @@
 ---
-title: "Casino Finance and Operations (Algo Trading)"
-description: "Explore the intricate world of casino finance and operations, where algorithmic trading, economics, and strategic management drive innovation and success."
+category: quant_concept
+description: Explore the intricate world of casino finance and operations, where algorithmic
+  trading, economics, and strategic management drive innovation and success.
+title: Casino Finance and Operations (Algo Trading)
 ---
 
 The exhilarating world of casinos is much more than just glitzy lights and thrilling games. Casinos represent a complex ecosystem where finance, gambling economics, casino operations, and algorithmic trading converge to create a multi-faceted industry. Understanding these factors can provide insights into the functioning and success of casino businesses, and exploring these components offers a glimpse into the strategic decision-making processes that govern this sector.

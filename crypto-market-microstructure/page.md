@@ -1,6 +1,8 @@
 ---
-title: "Crypto Market Microstructure (Algo Trading)"
-description: "Explore the intricacies of crypto market microstructure and algorithmic trading to understand trading dynamics and capture opportunities in volatile markets."
+category: quant_concept
+description: Explore the intricacies of crypto market microstructure and algorithmic
+  trading to understand trading dynamics and capture opportunities in volatile markets.
+title: Crypto Market Microstructure (Algo Trading)
 ---
 
 The crypto market has become an integral component of the global financial landscape, offering a myriad of opportunities and challenges for participants. As digital assets grow in prominence, understanding the intricate market microstructure and the strategic implementation of algorithmic trading becomes crucial. Market microstructure encompasses the intricate mechanisms and processes underpinning trading activities, dictating how participants interact, orders are executed, and prices are formed. In the cryptocurrency domain, these processes are uniquely characterized by high volatility and a lack of centralized oversight, distinguishing them from traditional financial markets.

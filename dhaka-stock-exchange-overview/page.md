@@ -1,6 +1,9 @@
 ---
-title: "Dhaka Stock Exchange Overview (Algo Trading)"
-description: "Explore the Dhaka Stock Exchange's role in Bangladesh's economy, its transition to automated trading, and the impact of algorithmic trading on market efficiency."
+category: quant_concept
+description: Explore the Dhaka Stock Exchange's role in Bangladesh's economy, its
+  transition to automated trading, and the impact of algorithmic trading on market
+  efficiency.
+title: Dhaka Stock Exchange Overview (Algo Trading)
 ---
 
 The Dhaka Stock Exchange (DSE) plays a pivotal role in the economic landscape of Bangladesh, serving as one of the country's primary platforms for capital market activities. Established to facilitate the mobilization of capital for businesses, the DSE has grown into a crucial institution, providing a marketplace for buying and selling securities, including stocks, bonds, and other financial instruments. Its significance extends beyond national borders, as it serves as a gateway for foreign investors interested in tapping into Bangladesh’s burgeoning economy. As the prime bourse in a rapidly developing nation, the DSE significantly influences economic growth, industrial productivity, and overall investor confidence.

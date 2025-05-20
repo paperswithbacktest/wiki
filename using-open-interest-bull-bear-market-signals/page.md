@@ -1,6 +1,8 @@
 ---
-title: "Using Open Interest for Bull and Bear Market Signals (Algo Trading)"
-description: "Unlock insights from open interest for algorithmic trading by identifying bull and bear signals to craft informed strategies in volatile financial markets."
+category: trading_strategy
+description: Unlock insights from open interest for algorithmic trading by identifying
+  bull and bear signals to craft informed strategies in volatile financial markets.
+title: Using Open Interest for Bull and Bear Market Signals (Algo Trading)
 ---
 
 In the world of financial markets, traders continually strive to find methods to outperform the competition. A fundamental aspect of achieving this is understanding market signals and indicators, which are pivotal in making informed trading decisions. These signals can take many forms, but at their core, they revolve around the concepts of bear and bull signals. Bear signals suggest a potential downturn or bearish trend, indicating that prices might decline. In contrast, bull signals point towards an upward or bullish trend, suggesting that prices could rise.

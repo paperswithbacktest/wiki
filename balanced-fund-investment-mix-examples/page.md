@@ -1,6 +1,9 @@
 ---
-title: "Balanced Fund: Investment Mix and Examples (Algo Trading)"
-description: "Explore the robust structure of balanced funds combining equities and bonds for diversified investment. Learn the role of algorithmic trading in fund management."
+category: trading_strategy
+description: Explore the robust structure of balanced funds combining equities and
+  bonds for diversified investment. Learn the role of algorithmic trading in fund
+  management.
+title: 'Balanced Fund: Investment Mix and Examples (Algo Trading)'
 ---
 
 A balanced fund is a type of mutual fund designed to offer investors a single diversified portfolio by combining a mix of equity, bonds, and sometimes other securities. The primary aim of a balanced fund is to achieve a blend of growth and income, catering to investors seeking moderate risk with consistent returns over time. These funds maintain a predetermined ratio of equity to fixed-income investments, providing a middle ground between riskier equity funds and more conservative bond funds. 

@@ -1,6 +1,8 @@
 ---
-title: "Z-Test in Statistics and Applications (Algo Trading)"
-description: "Explore how Z-Tests enhance algorithmic trading by identifying anomalies and validating hypotheses essential for superior market strategy optimization."
+category: quant_concept
+description: Explore how Z-Tests enhance algorithmic trading by identifying anomalies
+  and validating hypotheses essential for superior market strategy optimization.
+title: Z-Test in Statistics and Applications (Algo Trading)
 ---
 
 The incorporation of statistical analysis and algorithmic strategies marks a significant evolution in trading practices. Among the array of statistical methods, Z-Tests and Z-Scores stand out as invaluable tools in identifying potential trading opportunities. By quantifying how far a data point is from the mean of a dataset in terms of standard deviations, Z-Scores facilitate the detection of anomalies and the validation of hypotheses in trading scenarios.

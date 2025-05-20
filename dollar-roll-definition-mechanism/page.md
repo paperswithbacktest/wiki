@@ -1,6 +1,9 @@
 ---
-title: "Dollar Roll: Definition and Mechanism (Algo Trading)"
-description: "Explore the mechanics of dollar roll transactions within mortgage-backed securities and their integration with algorithmic trading strategies to optimize market opportunities."
+category: quant_concept
+description: Explore the mechanics of dollar roll transactions within mortgage-backed
+  securities and their integration with algorithmic trading strategies to optimize
+  market opportunities.
+title: 'Dollar Roll: Definition and Mechanism (Algo Trading)'
 ---
 
 Mortgage-backed securities (MBS) hold a pivotal position in the global financial market by transforming individual home loans into groupable, investable assets. By pooling various mortgage loans, usually categorized by similar characteristics such as interest rates and maturity dates, MBS provide opportunities for investors to benefit from the real estate sector without direct involvement in buying or managing properties. These securities enhance liquidity and funding in the mortgage market, allowing lenders to issue additional mortgages and thereby supporting housing finance.

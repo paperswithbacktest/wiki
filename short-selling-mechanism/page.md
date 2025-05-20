@@ -1,6 +1,9 @@
 ---
-title: "Short Selling Mechanism (Algo Trading)"
-description: "Explore the mechanisms of short selling and algorithmic trading within investment finance. Learn how these strategies impact market dynamics and trading efficiency."
+category: quant_concept
+description: Explore the mechanisms of short selling and algorithmic trading within
+  investment finance. Learn how these strategies impact market dynamics and trading
+  efficiency.
+title: Short Selling Mechanism (Algo Trading)
 ---
 
 Investment finance is a critical component of the global economy, influencing everything from individual portfolios to institutional asset management. At its core, investment finance is the discipline of managing money and other financial assets with the objective of achieving specific financial goals. It encompasses a wide array of activities, including asset allocation, risk management, and the use of various financial instruments to maximize returns. With the ever-increasing complexity of financial markets, understanding the nuances of investment finance is essential for both individual investors and financial professionals.

@@ -1,6 +1,9 @@
 ---
-title: "Fade in Finance: Concepts, Examples, and Trading Strategies (Algo Trading)"
-description: "Explore the contrarian world of fade trading Learn strategies examples and insights into how traders profit by bucking market trends using algorithmic methods"
+category: trading_strategy
+description: Explore the contrarian world of fade trading Learn strategies examples
+  and insights into how traders profit by bucking market trends using algorithmic
+  methods
+title: 'Fade in Finance: Concepts, Examples, and Trading Strategies (Algo Trading)'
 ---
 
 In the intricate world of finance, trading strategies play a crucial role in shaping market dynamics and driving profitability. Among these strategies, 'fade trading' stands out for its contrarian approach, setting it apart from traditional trend-following methodologies. Fade trading revolves around the principle of trading against prevailing market trends, betting on the eventual reversal or correction of prices.

@@ -1,6 +1,8 @@
 ---
-title: "Yield to Call and Calculation (Algo Trading)"
-description: "Master bond calculations and explore the role of the yield to call metric in optimizing investment strategies using algorithmic trading for enhanced returns."
+category: quant_concept
+description: Master bond calculations and explore the role of the yield to call metric
+  in optimizing investment strategies using algorithmic trading for enhanced returns.
+title: Yield to Call and Calculation (Algo Trading)
 ---
 
 In the world of finance, mastering bond calculations and understanding key metrics such as the yield to call (YTC) is essential for investors looking to maximize their returns. Bonds are a fundamental component of the investment landscape, and their valuation and yield metrics directly impact investment decisions. Among these metrics, the yield to call holds particular significance for callable bonds, which provide issuers the option to repay the bond before its maturity date. This feature influences the bond's profitability and strategic positioning within an investor's portfolio.

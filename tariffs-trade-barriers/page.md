@@ -1,6 +1,8 @@
 ---
-title: "Tariffs and Trade Barriers (Algo Trading)"
-description: "Explore how trade barriers and tariffs impact algorithmic trading posing both challenges and opportunities in global markets by influencing economic variables."
+category: quant_concept
+description: Explore how trade barriers and tariffs impact algorithmic trading posing
+  both challenges and opportunities in global markets by influencing economic variables.
+title: Tariffs and Trade Barriers (Algo Trading)
 ---
 
 Trade barriers and tariffs are pivotal components in the framework of international trade. Trade barriers are restrictions imposed by governments to regulate the amount and types of goods and services that can cross their borders. These can take various forms, including tariffs, quotas, and non-tariff barriers. Tariffs, a common type of trade barrier, are taxes levied on imported goods, increasing their cost and thus making them less competitive relative to domestically produced goods. The significance of these mechanisms lies in their ability to protect domestic industries, generate government revenue, and serve as tools in international diplomacy.

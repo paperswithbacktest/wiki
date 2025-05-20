@@ -1,6 +1,9 @@
 ---
-title: "ExodusPoint (Algo Trading)"
-description: "Explore ExodusPoint Capital Management's pioneering role in algorithmic trading with innovative strategies integrating machine learning for superior market insights."
+category: trading_strategy
+description: Explore ExodusPoint Capital Management's pioneering role in algorithmic
+  trading with innovative strategies integrating machine learning for superior market
+  insights.
+title: ExodusPoint (Algo Trading)
 ---
 
 ExodusPoint Capital Management is recognized as a significant figure in the financial services industry, prominently for its dynamic application of algorithmic trading strategies. Founded in 2018, the firm has effectively harnessed advanced technology to optimize its trading processes, ensuring both efficiency and effectiveness. This article examines how ExodusPoint is reshaping the landscape of algorithmic trading and elevating standards within the hedge fund sector.

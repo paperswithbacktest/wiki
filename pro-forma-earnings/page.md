@@ -1,6 +1,8 @@
 ---
-title: "Pro-Forma Earnings (Algo Trading)"
-description: "Explore pro-forma earnings in corporate finance and algorithmic trading. Understand their role in financial reporting and how they impact market behavior."
+category: quant_concept
+description: Explore pro-forma earnings in corporate finance and algorithmic trading.
+  Understand their role in financial reporting and how they impact market behavior.
+title: Pro-Forma Earnings (Algo Trading)
 ---
 
 The landscape of corporate finance and financial reporting is vast and intricate. One critical component within this domain is pro-forma earnings. Unlike figures that adhere to Generally Accepted Accounting Principles (GAAP), pro-forma earnings aim to present a company's profitability by excluding certain costs. These earnings typically omit non-recurring costs, such as restructuring charges, asset impairments, and litigation expenses—elements that companies argue obscure their true financial health. While proponents of pro-forma earnings suggest they offer a clearer picture of operational success, there is skepticism regarding their authenticity due to the subjective nature of such exclusions.

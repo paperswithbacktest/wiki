@@ -1,6 +1,8 @@
 ---
-title: "Bosnia and Herzegovina Convertible Mark (Algo Trading)"
-description: "Explore the integral role of the Bosnia and Herzegovina Convertible Mark (BAM) in algorithmic trading, focusing on its stable euro peg and economic influences."
+category: quant_concept
+description: Explore the integral role of the Bosnia and Herzegovina Convertible Mark
+  (BAM) in algorithmic trading, focusing on its stable euro peg and economic influences.
+title: Bosnia and Herzegovina Convertible Mark (Algo Trading)
 ---
 
 The Bosnia and Herzegovina Convertible Mark (BAM) is a vital element in the country's economy. As the national currency, BAM is an integral part of financial transactions and economic stability in Bosnia and Herzegovina. Introduced in 1995, BAM has facilitated smoother trade and investment operations, becoming a key tool in various sectors, particularly in trading. Understanding its significance requires examining its application and influence in both domestic and international markets.

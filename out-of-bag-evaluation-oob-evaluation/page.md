@@ -1,7 +1,8 @@
 ---
-title: Understanding Out Of Bag Evaluation for Random Forest Models
+category: quant_concept
 description: Out Of Bag Evaluation delivers model performance estimates for random
   forests without a test set and supports hyperparameter tuning Discover more inside
+title: Understanding Out Of Bag Evaluation for Random Forest Models
 ---
 
 ![Image](images/1.png)

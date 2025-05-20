@@ -1,6 +1,9 @@
 ---
-title: "Slippage Reduction Techniques (Algo Trading)"
-description: "Discover effective slippage reduction techniques in algorithmic trading to enhance trade execution quality and increase profitability by minimizing unwanted price discrepancies."
+category: trading_strategy
+description: Discover effective slippage reduction techniques in algorithmic trading
+  to enhance trade execution quality and increase profitability by minimizing unwanted
+  price discrepancies.
+title: Slippage Reduction Techniques (Algo Trading)
 ---
 
 Algorithmic trading, commonly referred to as algo trading, employs pre-programmed instructions to automatically execute trades based on predefined conditions. This type of trading is recognized for its efficiency and speed, allowing traders to capitalize on market opportunities more effectively than with manual trading methods. However, algo trading is not without challenges, one of which is the phenomenon known as slippage.

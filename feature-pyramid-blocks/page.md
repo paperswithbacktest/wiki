@@ -1,7 +1,8 @@
 ---
-title: Comprehensive Guide To Feature Pyramid Networks In Deep Learning
+category: quant_concept
 description: Feature Pyramid Networks enable multiscale image feature fusion for precise
   object detection with bidirectional pathways Discover more inside
+title: Comprehensive Guide To Feature Pyramid Networks In Deep Learning
 ---
 
 ![Image](images/1.png)

@@ -1,6 +1,8 @@
 ---
-title: "Risks in Financial Markets (Algo Trading)"
-description: "Explore the challenges and strategies of managing market risks in algorithmic trading Learn about systemic non-systemic and operational risks and mitigation tactics"
+category: quant_concept
+description: Explore the challenges and strategies of managing market risks in algorithmic
+  trading Learn about systemic non-systemic and operational risks and mitigation tactics
+title: Risks in Financial Markets (Algo Trading)
 ---
 
 In today's fast-paced financial markets, effectively managing market risks is essential, particularly with the growing prevalence of algorithmic trading. This article focuses on the intrinsic challenges posed by market risk within the context of algorithmic trading. The significance of understanding different risk categories—systemic, non-systemic, and operational—has never been more critical. As algorithms increasingly influence trading practices, the mastery of risk management strategies becomes indispensable for both traders and investors.

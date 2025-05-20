@@ -1,7 +1,8 @@
 ---
-title: Hinge Loss Function Explained for Robust Classification
+category: quant_concept
 description: Hinge Loss measures and improves model confidence by maximizing the margin
   between classes in SVMs and classification tasks. Discover more inside.
+title: Hinge Loss Function Explained for Robust Classification
 ---
 
 ![Image](images/1.webp)

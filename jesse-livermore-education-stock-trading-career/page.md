@@ -1,6 +1,8 @@
 ---
-title: "Jesse L. Livermore: Education and Stock Trading Career (Algo Trading)"
-description: "Discover Jesse Livermore's impact on modern trading. Explore his trend-following strategies and risk management insights that shaped algorithmic trading."
+category: trading_strategy
+description: Discover Jesse Livermore's impact on modern trading. Explore his trend-following
+  strategies and risk management insights that shaped algorithmic trading.
+title: 'Jesse L. Livermore: Education and Stock Trading Career (Algo Trading)'
 ---
 
 Jesse Livermore, often hailed as one of the greatest stock traders of the early 20th century, profoundly impacted the development of modern trading strategies. His life, marked by both monumental financial successes and devastating setbacks, offers key insights into the psychology and methodologies of trading. Livermore's approach to trading was characterized by meticulous market analysis, a deep understanding of market trends, and an ability to capitalize on market inefficiencies. His philosophy emphasized the importance of following market trends, managing risk, and maintaining emotional discipline.

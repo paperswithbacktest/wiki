@@ -1,7 +1,8 @@
 ---
-title: Understanding Synthesized Attention Mechanisms in Machine Learning
+category: quant_concept
 description: Synthesized attention mechanisms enhance model focus by efficiently approximating
   attention patterns for faster and memory-light processing Discover more inside
+title: Understanding Synthesized Attention Mechanisms in Machine Learning
 ---
 
 ![Image](images/1.png)

@@ -1,6 +1,8 @@
 ---
-title: "Cumulative Discount Policy (Algo Trading)"
-description: "Explore various pricing models and discount strategies including cost-plus and value-based pricing in the context of algorithmic trading for business success."
+category: trading_strategy
+description: Explore various pricing models and discount strategies including cost-plus
+  and value-based pricing in the context of algorithmic trading for business success.
+title: Cumulative Discount Policy (Algo Trading)
 ---
 
 In today's dynamic market environment, pricing models and discount strategies have become crucial for businesses aiming to maximize their profits and stay competitive. As globalization and digitalization reshape market dynamics, businesses must navigate complex pricing landscapes to attract customers while ensuring profitability. This article explores various pricing models, effective discount strategies, and how cumulative discounts play a role in mutual funds. These models, ranging from cost-plus to value-based, influence how products and services are perceived and consumed in the marketplace.

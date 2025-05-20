@@ -1,6 +1,9 @@
 ---
-title: "Theoretical Value of a Right with Formula (Algo Trading)"
-description: "Explore the theoretical value formula's role in financial rights and algorithmic trading Dive into valuation methods to optimize your investment strategies efficiently"
+category: quant_concept
+description: Explore the theoretical value formula's role in financial rights and
+  algorithmic trading Dive into valuation methods to optimize your investment strategies
+  efficiently
+title: Theoretical Value of a Right with Formula (Algo Trading)
 ---
 
 In finance, understanding complex concepts and tools is crucial for making informed investment decisions. One such concept is the theoretical value valuation formula, which plays a critical role in financial rights and algorithmic trading. The theoretical value is a calculated estimate of an asset's worth based on specific qualitative and quantitative criteria. It allows investors to grasp the intrinsic value of financial rights and assess whether participating in investment opportunities, such as rights offerings, aligns with their strategic objectives.

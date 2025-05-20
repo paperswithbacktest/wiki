@@ -1,6 +1,8 @@
 ---
-title: "Overcoming Bad Trading Habits and Adhering to Rules (Algo Trading)"
-description: "Learn to overcome bad trading habits and adhere to rules in algo trading Enhance your skills with sound strategies discipline and effective habits"
+category: trading_strategy
+description: Learn to overcome bad trading habits and adhere to rules in algo trading
+  Enhance your skills with sound strategies discipline and effective habits
+title: Overcoming Bad Trading Habits and Adhering to Rules (Algo Trading)
 ---
 
 The dynamic world of trading offers numerous opportunities for both individuals and businesses to grow their wealth. This realm has evolved significantly, with advancements in technology and information accessibility democratizing participation in financial markets. Success in trading requires a combination of sound strategies, robust discipline, and effective habits, all of which play pivotal roles in navigating financial complexities. 

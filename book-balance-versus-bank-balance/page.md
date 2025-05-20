@@ -1,6 +1,8 @@
 ---
-title: "Book Balance Versus Bank Balance (Algo Trading)"
-description: "Explore the synergy of book and bank balances, accounting fundamentals, and algorithmic trading to enhance financial reporting, decision-making, and strategy."
+category: quant_concept
+description: Explore the synergy of book and bank balances, accounting fundamentals,
+  and algorithmic trading to enhance financial reporting, decision-making, and strategy.
+title: Book Balance Versus Bank Balance (Algo Trading)
 ---
 
 In today's financial landscape, understanding fundamental accounting and trading concepts is crucial for achieving financial success. This article examines the intersection of bank balance, book balance, accounting terms, and algorithmic trading, showcasing how these elements impact financial management and strategy. 

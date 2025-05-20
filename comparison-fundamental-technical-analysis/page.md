@@ -1,6 +1,14 @@
 ---
-title: "Comparison of Fundamental and Technical Analysis (Algo Trading)"
-description: "Explore the diverse world of investment strategies by understanding fundamental analysis, technical analysis, and algorithmic trading. Each approach offers unique benefits to meet various investment goals and trading styles. Learn how fundamental analysis assesses a company's intrinsic value for long-term decisions, while technical analysis uses market data patterns for short-term trading insights. Discover how algorithmic trading employs algorithms for efficient trading execution. This article evaluates their strengths, weaknesses, and practical applications, helping investors tailor strategies to achieve balanced financial objectives in modern markets."
+category: quant_concept
+description: Explore the diverse world of investment strategies by understanding fundamental
+  analysis, technical analysis, and algorithmic trading. Each approach offers unique
+  benefits to meet various investment goals and trading styles. Learn how fundamental
+  analysis assesses a company's intrinsic value for long-term decisions, while technical
+  analysis uses market data patterns for short-term trading insights. Discover how
+  algorithmic trading employs algorithms for efficient trading execution. This article
+  evaluates their strengths, weaknesses, and practical applications, helping investors
+  tailor strategies to achieve balanced financial objectives in modern markets.
+title: Comparison of Fundamental and Technical Analysis (Algo Trading)
 ---
 
 In the world of investment strategies, understanding the nuances of fundamental analysis, technical analysis, and algorithmic trading is crucial. These methodologies each offer distinct benefits, serving different investment goals and catering to varied trading styles. Fundamental analysis seeks to evaluate a company's intrinsic value through detailed examination of economic and financial factors, such as revenue, earnings, and future growth prospects. This method aims to identify undervalued or overvalued stocks to guide long-term investment decisions.

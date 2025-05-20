@@ -1,6 +1,9 @@
 ---
-title: "Purchasing Managers' Index and Its Function (Algo Trading)"
-description: "Discover how the Purchasing Managers' Index (PMI) plays a critical role in economic forecasting and enhances algorithmic trading strategies for better market insights."
+category: quant_concept
+description: Discover how the Purchasing Managers' Index (PMI) plays a critical role
+  in economic forecasting and enhances algorithmic trading strategies for better market
+  insights.
+title: Purchasing Managers' Index and Its Function (Algo Trading)
 ---
 
 The Purchasing Managers' Index (PMI) is a critical economic indicator that provides valuable insights into the prevailing conditions of the manufacturing and services sectors. Developed to gauge the economic health of these sectors, the PMI offers a composite measurement derived from multiple components including new orders, inventory levels, production, supplier deliveries, and the employment environment. A PMI reading above 50 typically signifies an expansion in the sector, while a reading below 50 indicates contraction. This makes PMI an exceptionally useful tool for analysts and policymakers seeking to forecast economic trends and align their decisions with current market conditions.

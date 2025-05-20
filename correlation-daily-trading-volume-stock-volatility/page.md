@@ -1,6 +1,9 @@
 ---
-title: "Correlation Between Daily Trading Volume and Stock Volatility (Algo Trading)"
-description: "Explore how daily trading volume correlates with stock volatility and its implications in algo trading Discover insights into market dynamics and trading strategies"
+category: quant_concept
+description: Explore how daily trading volume correlates with stock volatility and
+  its implications in algo trading Discover insights into market dynamics and trading
+  strategies
+title: Correlation Between Daily Trading Volume and Stock Volatility (Algo Trading)
 ---
 
 The financial markets are characterized by rapid fluctuations and massive trading volumes, a dynamic environment where stock volatility plays a pivotal role. Investors and traders closely monitor stock volatility, defined as the magnitude of price changes within a specific period, as it is crucial in assessing market risk and opportunities. Understanding the relationship between stock volatility and trading volume is essential, as these elements are interconnected. Trading volume, the total quantity of shares or contracts traded for a particular security, often correlates with volatility, providing insights into market sentiment and participants' behavior.

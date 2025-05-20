@@ -1,6 +1,8 @@
 ---
-title: "Differences Between Convertible and Traditional Bond Valuation (Algo Trading)"
-description: "Explore the nuances of traditional and convertible bond valuation and how algorithmic trading enhances efficiency and precision in modern financial markets."
+category: quant_concept
+description: Explore the nuances of traditional and convertible bond valuation and
+  how algorithmic trading enhances efficiency and precision in modern financial markets.
+title: Differences Between Convertible and Traditional Bond Valuation (Algo Trading)
 ---
 
 This article explores the landscape of bond valuation, focusing on both traditional and convertible bonds. Traditional bonds, often seen as the backbone of the fixed-income market, provide investors with predictable income streams through periodic interest payments, known as coupons, and the return of principal at maturity. Convertible bonds, on the other hand, offer a unique hybrid structure that combines aspects of debt and equity, allowing investors to convert bonds into a predetermined number of shares, thus integrating both fixed-income security and potential equity upside.

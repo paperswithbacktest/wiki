@@ -1,6 +1,11 @@
 ---
-title: "Advance Block Candlestick Pattern Explained (Algo Trading)"
-description: Discover the intricacies of the Advance Block candlestick pattern, a crucial bearish reversal signal in algo trading. Gain insights into its formation, market significance, and psychological implications to enhance your algorithmic trading strategies. Learn to identify potential market shifts effectively by integrating this pattern with other technical indicators for robust decision-making.
+category: trading_strategy
+description: Discover the intricacies of the Advance Block candlestick pattern, a
+  crucial bearish reversal signal in algo trading. Gain insights into its formation,
+  market significance, and psychological implications to enhance your algorithmic
+  trading strategies. Learn to identify potential market shifts effectively by integrating
+  this pattern with other technical indicators for robust decision-making.
+title: Advance Block Candlestick Pattern Explained (Algo Trading)
 ---
 
 Candlestick patterns play a pivotal role in trading, offering visual representations of price movements and market sentiment over a specified time frame. Originating from Japanese rice trading in the 18th century, these patterns have become fundamental analytical tools used by traders globally. They provide insights into market psychology, showcasing potential reversals or continuations in price trends.

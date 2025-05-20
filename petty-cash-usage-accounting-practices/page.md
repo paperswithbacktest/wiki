@@ -1,6 +1,8 @@
 ---
-title: "Petty Cash: Usage and Accounting Practices (Algo Trading)"
-description: "Explore the interplay of accounting cash management, petty cash practices, and algorithmic trading for effective financial strategies in today's dynamic environment."
+category: trading_strategy
+description: Explore the interplay of accounting cash management, petty cash practices,
+  and algorithmic trading for effective financial strategies in today's dynamic environment.
+title: 'Petty Cash: Usage and Accounting Practices (Algo Trading)'
 ---
 
 In today's dynamic financial environment, effective cash management strategies are pivotal for success in both personal and organizational settings. The integration of traditional accounting principles with cutting-edge trading technologies has led to a revolutionary transformation in financial operations. This article addresses the interconnected themes of accounting cash management, petty cash handling, and algorithmic trading, which together form the foundation of modern financial strategy.

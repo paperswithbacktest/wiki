@@ -1,6 +1,9 @@
 ---
-title: "Fixed-Rate Capital Securities: Overview and Mechanism (Algo Trading)"
-description: "Discover the intricacies of fixed-rate capital securities as they blend attributes of bonds and stocks, offering stable income potential with unique investment risks."
+category: quant_concept
+description: Discover the intricacies of fixed-rate capital securities as they blend
+  attributes of bonds and stocks, offering stable income potential with unique investment
+  risks.
+title: 'Fixed-Rate Capital Securities: Overview and Mechanism (Algo Trading)'
 ---
 
 In an evolving financial landscape, fixed-rate capital securities (FRCS) stand out as an intriguing investment tool with significant implications for portfolio management and income strategy. These securities emerge as a hybrid financial instrument, combining attributes found in both corporate bonds and preferred stock. The synthesis of these features results in a unique asset class that offers investors fixed-income streams with the potential for robust yields. As financial markets grow more complex and interconnected, FRCS find their role expanding, challenging investors to comprehend their nuances and market behaviors to maximize their investment potential.

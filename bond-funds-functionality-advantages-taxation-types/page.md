@@ -1,6 +1,9 @@
 ---
-title: "Bond Funds: Functionality, Advantages, Taxation, and Types (Algo Trading)"
-description: "Explore the complexities of bond funds including types advantages and the impact of algorithmic trading. Gain insights into their tax implications for informed investing"
+category: quant_concept
+description: Explore the complexities of bond funds including types advantages and
+  the impact of algorithmic trading. Gain insights into their tax implications for
+  informed investing
+title: 'Bond Funds: Functionality, Advantages, Taxation, and Types (Algo Trading)'
 ---
 
 Navigating the intricacies of bond investments and their myriad forms can pose a challenge even for experienced investors. Bonds, often considered a staple in investment portfolios, offer the potential for income generation, capital preservation, and diversification. However, their complexities require a deep understanding to harness their full potential effectively.

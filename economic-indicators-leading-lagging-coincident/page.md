@@ -1,6 +1,14 @@
 ---
-title: "Economic Indicators: Leading, Lagging, and Coincident (Algo Trading)"
-description: "Explore the critical role of economic indicators in assessing economic health and direction. Discover how leading, lagging, and coincident indicators serve distinct functions in economic analysis, helping forecast trends, confirm ongoing situations, and reflect current conditions. With a focus on algorithmic trading, this article emphasizes the importance of integrating these indicators into trading strategies to enhance market prediction, optimize performance, and manage risk effectively. Learn about their applications, benefits, and limitations to make informed decisions in volatile economic landscapes."
+category: quant_concept
+description: Explore the critical role of economic indicators in assessing economic
+  health and direction. Discover how leading, lagging, and coincident indicators serve
+  distinct functions in economic analysis, helping forecast trends, confirm ongoing
+  situations, and reflect current conditions. With a focus on algorithmic trading,
+  this article emphasizes the importance of integrating these indicators into trading
+  strategies to enhance market prediction, optimize performance, and manage risk effectively.
+  Learn about their applications, benefits, and limitations to make informed decisions
+  in volatile economic landscapes.
+title: 'Economic Indicators: Leading, Lagging, and Coincident (Algo Trading)'
 ---
 
 Economic indicators are essential tools for assessing the health and trajectory of an economy. These indicators are integral to economic analysis, providing insights that influence fiscal policy, business strategy, and investment decisions. They are typically classified into three categories: leading, lagging, and coincident indicators. Each category serves a distinct purpose, with leading indicators forecasting future economic events, lagging indicators confirming existing trends, and coincident indicators reflecting the current state of economic conditions. Understanding these classifications is crucial for both investors and policymakers as they navigate economic landscapes and anticipate potential changes.

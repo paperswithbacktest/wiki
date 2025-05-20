@@ -1,6 +1,11 @@
 ---
-title: "Scalars, Vectors, Matrices, and Tensors: Linear Algebra for Deep Learning (Algo Trading)"
-description: Explore the critical distinctions and applications of tensors and matrices in algorithmic trading, enhancing decision-making by understanding when to utilize each data structure. This analysis empowers traders to optimize strategies, harness tensors for complex data, and improve the efficiency of modern trading systems.
+category: quant_concept
+description: Explore the critical distinctions and applications of tensors and matrices
+  in algorithmic trading, enhancing decision-making by understanding when to utilize
+  each data structure. This analysis empowers traders to optimize strategies, harness
+  tensors for complex data, and improve the efficiency of modern trading systems.
+title: 'Scalars, Vectors, Matrices, and Tensors: Linear Algebra for Deep Learning
+  (Algo Trading)'
 ---
 
 In algorithmic trading, data structures significantly influence the efficiency and accuracy of trading strategies. Among the numerous data structures, tensors and matrices stand out due to their ability to manage substantial datasets effectively. This article examines the crucial distinctions between tensors and matrices, alongside their respective applications in the domain of algorithmic trading. By comprehending how these data structures affect trading strategies and their execution in modern trading systems, traders can optimize their decision-making processes. Additionally, this analysis aims to empower readers with the knowledge to determine when to utilize a tensor versus a matrix in trading algorithms, ensuring they harness the best tools for their specific data and strategy requirements.

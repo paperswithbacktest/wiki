@@ -1,6 +1,9 @@
 ---
-title: "Sustainable Growth Rate: Overview and Limitations (Algo Trading)"
-description: "Explore the importance and limitations of the Sustainable Growth Rate (SGR) in algorithmic trading, a key metric for assessing a company's self-sustaining growth."
+category: quant_concept
+description: Explore the importance and limitations of the Sustainable Growth Rate
+  (SGR) in algorithmic trading, a key metric for assessing a company's self-sustaining
+  growth.
+title: 'Sustainable Growth Rate: Overview and Limitations (Algo Trading)'
 ---
 
 In financial analysis, the Sustainable Growth Rate (SGR) is a vital metric for assessing a company's potential to expand using its own resources. SGR measures the maximum growth rate a company can sustain without relying on external financing options such as debt or new equity issuance. This capability is crucial for maintaining financial health and ensuring long-term viability.

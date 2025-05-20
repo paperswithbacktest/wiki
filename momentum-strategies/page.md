@@ -1,6 +1,10 @@
 ---
-title: "Momentum strategies (Algo Trading)"
-description: Explore the dynamics of momentum strategies in algorithmic trading, focusing on securities with strong trends. Discover technical indicators like Moving Averages and RSI that help identify momentum shifts. Learn how algo trading implements these strategies to optimize trade execution and potentially enhance profitability.
+category: trading_strategy
+description: Explore the dynamics of momentum strategies in algorithmic trading, focusing
+  on securities with strong trends. Discover technical indicators like Moving Averages
+  and RSI that help identify momentum shifts. Learn how algo trading implements these
+  strategies to optimize trade execution and potentially enhance profitability.
+title: Momentum strategies (Algo Trading)
 ---
 
 Algorithmic trading, or algo trading, involves the use of sophisticated computer programs to execute trades based on predefined criteria at optimal times. This approach leverages computational power to monitor markets and execute trades more efficiently than human traders could. Algo trading has gained prominence due to its ability to manage complex strategies, high-frequency trading, and vast amounts of data with precision.

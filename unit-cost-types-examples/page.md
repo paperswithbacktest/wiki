@@ -1,6 +1,12 @@
 ---
-title: "Unit Cost: Types and Examples (Algo Trading)"
-description: "Discover how understanding unit cost in algorithmic trading is essential for optimizing strategy performance and profitability. Learn about the types of costs involved, such as transaction, market impact, opportunity, and operational costs, and explore detailed examples demonstrating their effects on trading strategies. This comprehensive guide emphasizes the importance of managing costs to enhance returns, especially in high-frequency trading, where margins can be slimmer."
+category: quant_concept
+description: Discover how understanding unit cost in algorithmic trading is essential
+  for optimizing strategy performance and profitability. Learn about the types of
+  costs involved, such as transaction, market impact, opportunity, and operational
+  costs, and explore detailed examples demonstrating their effects on trading strategies.
+  This comprehensive guide emphasizes the importance of managing costs to enhance
+  returns, especially in high-frequency trading, where margins can be slimmer.
+title: 'Unit Cost: Types and Examples (Algo Trading)'
 ---
 
 Algorithmic trading refers to the use of computer algorithms to automate trading decisions and execute trades in financial markets. This approach leverages mathematical models and statistical analyses to identify profitable trading opportunities, execute trades at high speed, and reduce human intervention. The primary objectives of algorithmic trading are to increase efficiency, enhance the speed of trade execution, minimize the impact of human error, and exploit market conditions that may not be as visible or accessible to human traders.

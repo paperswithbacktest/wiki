@@ -1,6 +1,11 @@
 ---
-title: "Turnover costs (Algo Trading)"
-description: Explore the dynamics of turnover costs in algorithmic trading and their impact on profitability. Understand how frequent buying and selling of securities incurs expenses like brokerage fees and market impact costs, influencing net returns. Learn strategies to manage these costs, enhance trading performance, and maintain competitiveness in financial markets.
+category: quant_concept
+description: Explore the dynamics of turnover costs in algorithmic trading and their
+  impact on profitability. Understand how frequent buying and selling of securities
+  incurs expenses like brokerage fees and market impact costs, influencing net returns.
+  Learn strategies to manage these costs, enhance trading performance, and maintain
+  competitiveness in financial markets.
+title: Turnover costs (Algo Trading)
 ---
 
 Algorithmic trading, the use of computer algorithms for executing a large volume of trades with speed and precision, has become a cornerstone of modern financial markets. By leveraging algorithms to make data-driven decisions, traders can execute orders faster, reduce the risk of human error, and take advantage of minute market inefficiencies that are often unobservable at a human level. The importance of algorithmic trading is underscored by its ability to facilitate high-frequency trading (HFT), portfolio management, market making, and arbitrage opportunities, integrating advanced data analytics and technology to optimize performance and efficiency.

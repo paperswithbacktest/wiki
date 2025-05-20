@@ -1,6 +1,8 @@
 ---
-title: "Deregulation: History, Impact, and Objectives (Algo Trading)"
-description: "Explore the history and impact of deregulation in financial markets focusing on how it fosters competition and innovation, with insights into algorithmic trading."
+category: quant_concept
+description: Explore the history and impact of deregulation in financial markets focusing
+  on how it fosters competition and innovation, with insights into algorithmic trading.
+title: 'Deregulation: History, Impact, and Objectives (Algo Trading)'
 ---
 
 The financial landscape has evolved significantly through a continuous process of regulatory reforms and economic policy shifts. Regulatory policies, designed to maintain market integrity and protect investors, have historically oscillated between stringent oversight and periods of deregulation. Deregulation, aimed at reducing government intervention, has been particularly influential in fostering competitive environments and stimulating innovation. However, it has also sparked debates regarding its impact on financial stability, as reduced oversight can lead to increased risk-taking by market participants.

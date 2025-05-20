@@ -1,9 +1,14 @@
 ---
-title: "Quantitative Trading Strategies: A Comprehensive Guide"
-description: Discover the foundations of quantitative trading, from its philosophy and core principles to advanced strategies like machine learning algorithms, sentiment analysis, high-frequency scalping, and statistical arbitrage. Quant trading uses mathematical models to identify profitable opportunities and minimize risk in financial markets. Explore the evolution of quant trading and its distinction from algorithmic and high-frequency trading. Mastering these techniques requires a solid understanding of their principles and nuances.
+category: trading_strategy
+description: Discover the foundations of quantitative trading, from its philosophy
+  and core principles to advanced strategies like machine learning algorithms, sentiment
+  analysis, high-frequency scalping, and statistical arbitrage. Quant trading uses
+  mathematical models to identify profitable opportunities and minimize risk in financial
+  markets. Explore the evolution of quant trading and its distinction from algorithmic
+  and high-frequency trading. Mastering these techniques requires a solid understanding
+  of their principles and nuances.
+title: 'Quantitative Trading Strategies: A Comprehensive Guide'
 ---
-
-
 
 Quantitative trading is an investment strategy based on quantitative analysis, which relies on mathematical computations and number crunching to identify trading opportunities. Prices, volumes, and historical data are often the main focal points, with the overall aim being to develop models that can predict market movements and capitalize on them. This method stands in contrast to qualitative strategies, which involve subjective judgment calls based on non-quantifiable information, such as company management expertise or industry trends.
 

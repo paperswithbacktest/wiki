@@ -1,6 +1,9 @@
 ---
-title: "Full Faith and Credit Clause (Algo Trading)"
-description: "Explore the intersection of constitutional law and modern tech as Full Faith and Credit Clause principles adapt alongside algorithmic trading in evolving financial landscapes."
+category: quant_concept
+description: Explore the intersection of constitutional law and modern tech as Full
+  Faith and Credit Clause principles adapt alongside algorithmic trading in evolving
+  financial landscapes.
+title: Full Faith and Credit Clause (Algo Trading)
 ---
 
 The Full Faith and Credit Clause is a fundamental provision in the United States Constitution, embedded in Article IV, Section 1. This clause mandates that "Full Faith and Credit shall be given in each State to the public Acts, Records, and judicial Proceedings of every other State." The origin of this clause dates back to the need for ensuring legal unity and mutual respect among the states within the federal system of the United States. It plays a pivotal role in maintaining a cohesive legal environment where state-conferred rights and obligations are recognized and enforced across state lines. This assurance fosters consistency in interstate relationships, notably in upholding judicial decisions such as child support orders and custody arrangements issued by courts in one state throughout the country.

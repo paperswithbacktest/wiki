@@ -1,6 +1,13 @@
 ---
-title: "Largest Cannabis Companies in Canada (Algo Trading)"
-description: "Explore the growth of Canada's cannabis industry with a deep dive into leading companies like Tilray Brands, Sundial Growers, and Canopy Growth. Discover how these pioneers are expanding globally through strategic innovations and partnerships. Learn how the adoption of algorithmic trading is shaping the sector, enhancing market efficiency, and offering new investment opportunities. Explore the impact of this technology on trade executions and market volatility, set against the dynamic backdrop of Canada's evolving cannabis landscape."
+category: dataset
+description: Explore the growth of Canada's cannabis industry with a deep dive into
+  leading companies like Tilray Brands, Sundial Growers, and Canopy Growth. Discover
+  how these pioneers are expanding globally through strategic innovations and partnerships.
+  Learn how the adoption of algorithmic trading is shaping the sector, enhancing market
+  efficiency, and offering new investment opportunities. Explore the impact of this
+  technology on trade executions and market volatility, set against the dynamic backdrop
+  of Canada's evolving cannabis landscape.
+title: Largest Cannabis Companies in Canada (Algo Trading)
 ---
 
 The Canadian cannabis industry has experienced remarkable growth since the legalization of recreational cannabis in October 2018. This transformative legislation positioned Canada as a pioneer in the global cannabis market, leading to the rapid expansion of several Canadian cannabis companies that are now establishing a robust international presence. This dynamic sector has not only spurred economic growth but has also positioned Canada as a leader in setting precedence for cannabis legislation worldwide.

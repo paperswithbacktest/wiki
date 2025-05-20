@@ -1,6 +1,8 @@
 ---
-title: "Narrow Moat: Definition and Sources (Algo Trading)"
-description: "Gain insights into narrow economic moats in the dynamic world of algo trading Learn to identify short-term competitive edges and enhance investment strategies"
+category: quant_concept
+description: Gain insights into narrow economic moats in the dynamic world of algo
+  trading Learn to identify short-term competitive edges and enhance investment strategies
+title: 'Narrow Moat: Definition and Sources (Algo Trading)'
 ---
 
 In today's rapidly evolving financial landscape, understanding economic moats is pivotal for investors seeking to identify sustainable competitive advantages in companies. Economic moats, a term popularized by Warren Buffett, refer to the distinct characteristics of a business that provide it with a competitive edge and protect its long-term profitability and market share from competitors. Narrow economic moats, in particular, focus on companies that possess a limited but tangible competitive advantage. This often presents unique investment strategies that can be exploited for potential gains, despite their relatively shorter duration compared to wide moats.

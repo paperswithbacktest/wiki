@@ -1,6 +1,9 @@
 ---
-title: "Regret Avoidance in Financial Markets (Algo Trading)"
-description: "Explore how regret avoidance in financial markets influences trading decisions and how algorithmic trading can mitigate emotional biases to enhance trading outcomes."
+category: quant_concept
+description: Explore how regret avoidance in financial markets influences trading
+  decisions and how algorithmic trading can mitigate emotional biases to enhance trading
+  outcomes.
+title: Regret Avoidance in Financial Markets (Algo Trading)
 ---
 
 The financial markets are complex systems influenced not only by economic indicators but also by human psychology. Regret avoidance is one of the psychological biases that significantly impact trading decisions. This bias arises when investors make decisions to avoid the feeling of regret associated with poor investment choices. It often leads to holding onto losing positions for too long or selling winning positions too early, both of which can have detrimental effects on a trader's portfolio.

@@ -1,6 +1,9 @@
 ---
-title: "Doctor Copper: Theory and Use as an Economic Indicator (Algo Trading)"
-description: "Explore how copper prices in economic analysis predict market trends and impact algorithmic trading offering insights into copper's role as a key economic indicator."
+category: quant_concept
+description: Explore how copper prices in economic analysis predict market trends
+  and impact algorithmic trading offering insights into copper's role as a key economic
+  indicator.
+title: 'Doctor Copper: Theory and Use as an Economic Indicator (Algo Trading)'
 ---
 
 Copper, a versatile and widely-used metal, holds a unique position in economic analysis and financial markets, earning the moniker 'Doctor Copper' due to its predictive capabilities regarding economic health. This analogy hinges on copper's pervasive utilization across various industries, which makes it a proxy for evaluating economic trends. As industries such as construction, electronics, and transportation experience fluctuating levels of demand for copper, these variations often reflect broader economic conditions. Historically, analysts have noted that copper prices tend to elevate during periods of economic expansion and decline during economic downturns, essentially serving as a barometer for global economic vitality.

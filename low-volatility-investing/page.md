@@ -1,6 +1,15 @@
 ---
-title: "Low-volatility investing (Algo Trading)"
-description: Low-volatility investing is a strategic approach in finance that targets assets with minimal price fluctuations, aiming to provide stable returns and reduce risk compared to the broader market. It challenges traditional theories like the Capital Asset Pricing Model by suggesting that lower-risk stocks may outperform high-risk ones in the long term. In algorithmic trading, this method is effective for real-time selection of low-risk assets, enhancing portfolio management. The 2008 financial crisis highlighted its value, prompting increased adoption and the development of indices and funds that cater to investors seeking less volatile investment options.
+category: trading_strategy
+description: Low-volatility investing is a strategic approach in finance that targets
+  assets with minimal price fluctuations, aiming to provide stable returns and reduce
+  risk compared to the broader market. It challenges traditional theories like the
+  Capital Asset Pricing Model by suggesting that lower-risk stocks may outperform
+  high-risk ones in the long term. In algorithmic trading, this method is effective
+  for real-time selection of low-risk assets, enhancing portfolio management. The
+  2008 financial crisis highlighted its value, prompting increased adoption and the
+  development of indices and funds that cater to investors seeking less volatile investment
+  options.
+title: Low-volatility investing (Algo Trading)
 ---
 
 Low-volatility investing is a financial strategy that focuses on selecting stocks or a portfolio of assets that exhibit lower price fluctuations compared to the overall market. This approach is grounded in the notion that lower-risk investments can deliver comparable, if not superior, returns to their high-volatility counterparts. The significance of low-volatility investing lies in its potential to offer more stable returns and mitigate risk during turbulent market conditions, making it an attractive option for risk-averse investors.

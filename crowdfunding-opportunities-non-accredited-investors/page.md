@@ -1,6 +1,8 @@
 ---
-title: "Crowdfunding Opportunities for Non-Accredited Investors (Algo Trading)"
-description: "Explore the expanding investment landscape for non-accredited investors through crowdfunding and algo trading Learn strategies to navigate these new opportunities"
+category: trading_strategy
+description: Explore the expanding investment landscape for non-accredited investors
+  through crowdfunding and algo trading Learn strategies to navigate these new opportunities
+title: Crowdfunding Opportunities for Non-Accredited Investors (Algo Trading)
 ---
 
 In recent years, the investment landscape for non-accredited investors has expanded significantly due to the emergence and evolution of digital platforms that facilitate novel investment pathways. Historically, investment opportunities in high-reward sectors like start-ups, real estate, and financial markets were largely inaccessible to non-accredited investors, who are typically individuals earning less than $200,000 annually or holding less than $1 million in net worth excluding their primary residence, as per the U.S. Securities and Exchange Commission (SEC) criteria. However, this scenario has begun to shift, largely due to the advent of crowdfunding and algorithmic trading platforms, which have democratized access to diverse investment options.

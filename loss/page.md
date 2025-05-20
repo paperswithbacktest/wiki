@@ -1,7 +1,8 @@
 ---
-title: Understanding Loss Functions for Machine Learning Models
+category: quant_concept
 description: Loss functions determine how well machine learning models learn by measuring
   prediction errors and guiding optimization Discover more inside.
+title: Understanding Loss Functions for Machine Learning Models
 ---
 
 ![Image](images/1.png)

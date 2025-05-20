@@ -1,6 +1,8 @@
 ---
-title: "Factors Contributing to Healthcare Costs in the United States (Algo Trading)"
-description: "Explore the complex factors driving high healthcare costs in the U.S., including rising drug prices, higher salaries, and the impact of algorithmic trading."
+category: quant_concept
+description: Explore the complex factors driving high healthcare costs in the U.S.,
+  including rising drug prices, higher salaries, and the impact of algorithmic trading.
+title: Factors Contributing to Healthcare Costs in the United States (Algo Trading)
 ---
 
 In the United States, healthcare costs have long been a subject of concern, as they are among the highest globally, placing substantial economic demands on individuals and the nation. According to the Centers for Medicare & Medicaid Services (CMS), healthcare expenditures reached $3.8 trillion in 2019, representing nearly 18% of the GDP.[^1] These elevated costs can be attributed to a multifaceted system where various factors converge, making navigation and management increasingly challenging for policymakers, healthcare providers, and consumers seeking to alleviate financial strain.

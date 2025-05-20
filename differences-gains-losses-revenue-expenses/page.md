@@ -1,6 +1,11 @@
 ---
-title: "Differences Between Gains and Losses Versus Revenue and Expenses (Algo Trading)"
-description: "Explore the essential financial concepts of gains losses revenue and expenses within algorithmic trading Delve into how these terms impact trading strategies and decisions while understanding the automation of trade processes Through this article gain insights into optimizing trade performance and navigating the complexities of automated trading systems for informed decision making"
+category: quant_concept
+description: Explore the essential financial concepts of gains losses revenue and
+  expenses within algorithmic trading Delve into how these terms impact trading strategies
+  and decisions while understanding the automation of trade processes Through this
+  article gain insights into optimizing trade performance and navigating the complexities
+  of automated trading systems for informed decision making
+title: Differences Between Gains and Losses Versus Revenue and Expenses (Algo Trading)
 ---
 
 Algorithmic trading, commonly referred to as algo trading, has revolutionized the financial markets by automating the trading process using complex algorithms. These algorithms execute trades based on predefined criteria, aiming to optimize trade outcomes by maximizing gains and minimizing losses. The efficiency of algorithmic trading stems from its ability to process large volumes of data quickly and execute orders in real time, a feat nearly impossible for human traders without technological aid.

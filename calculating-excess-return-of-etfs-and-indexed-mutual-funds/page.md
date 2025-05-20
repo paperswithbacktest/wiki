@@ -1,6 +1,14 @@
 ---
-title: "Calculating Excess Return of ETFs and Indexed Mutual Funds (Algo Trading)"
-description: "Explore the intricacies of calculating excess returns of ETFs and indexed mutual funds with a focus on algorithmic trading in today's financial landscape. Understand how indexed mutual funds offer passive strategies with cost benefits while ETFs provide flexibility and liquidity. Learn how excess return or alpha helps assess investment performance beyond benchmarks using models like the Capital Asset Pricing Model. Discover the impact of management fees and market conditions on achieving positive excess returns and see how algorithmic trading can enhance investment outcomes for higher returns in a dynamic market environment."
+category: trading_strategy
+description: Explore the intricacies of calculating excess returns of ETFs and indexed
+  mutual funds with a focus on algorithmic trading in today's financial landscape.
+  Understand how indexed mutual funds offer passive strategies with cost benefits
+  while ETFs provide flexibility and liquidity. Learn how excess return or alpha helps
+  assess investment performance beyond benchmarks using models like the Capital Asset
+  Pricing Model. Discover the impact of management fees and market conditions on achieving
+  positive excess returns and see how algorithmic trading can enhance investment outcomes
+  for higher returns in a dynamic market environment.
+title: Calculating Excess Return of ETFs and Indexed Mutual Funds (Algo Trading)
 ---
 
 In today's dynamic financial landscape, investors are constantly seeking strategies that offer optimal returns. This pursuit leads many to explore various financial instruments and methodologies, such as indexed mutual funds, excess returns, ETFs, and algorithmic trading. These elements, while complex, are interrelated and provide practical pathways for enhancing investment outcomes.

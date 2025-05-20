@@ -1,6 +1,9 @@
 ---
-title: "At-the-Market Offering (Algo Trading)"
-description: "Explore the transformative impact of at-the-market stock offerings and algorithmic trading on modern investing offering flexibility and efficiency in capital raising."
+category: quant_concept
+description: Explore the transformative impact of at-the-market stock offerings and
+  algorithmic trading on modern investing offering flexibility and efficiency in capital
+  raising.
+title: At-the-Market Offering (Algo Trading)
 ---
 
 Understanding the ever-evolving landscape of stock trading is pivotal for modern investors. The integration of at-the-market (ATM) stock offerings and algorithmic trading has reshaped traditional financial practices by introducing unprecedented flexibility and efficiency. ATM offerings are essential for companies seeking to raise capital directly in the market at prevailing prices, allowing them to respond dynamically to market conditions. This method of capital raising enables firms to issue shares incrementally, providing a more strategic approach to funding as opposed to conventional, large-scale public offerings. 

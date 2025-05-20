@@ -1,6 +1,8 @@
 ---
-title: "John R. Hicks: Biography and Legacy (Algo Trading)"
-description: "Explore the legacy of economist John R Hicks whose groundbreaking theories in welfare economics and general equilibrium continue to shape modern economic thought."
+category: quant_concept
+description: Explore the legacy of economist John R Hicks whose groundbreaking theories
+  in welfare economics and general equilibrium continue to shape modern economic thought.
+title: 'John R. Hicks: Biography and Legacy (Algo Trading)'
 ---
 
 John R. Hicks stands as a pivotal figure in the development of economic theory, with his extensive contributions to both microeconomics and macroeconomics serving as a cornerstone for modern economic thought. His work not only influences theoretical frameworks but also significantly impacts practical economic applications. Hicksian theory is renowned for its innovative approaches in areas such as welfare economics and general equilibrium theory, forming the bedrock upon which many contemporary economic models are built.

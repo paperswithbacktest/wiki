@@ -1,6 +1,8 @@
 ---
-title: "Modified Cash-Basis Accounting: Advantages and Disadvantages (Algo Trading)"
-description: "Explore the impact of modified cash-basis accounting in algorithmic trading, highlighting its advantages and disadvantages for effective financial management."
+category: quant_concept
+description: Explore the impact of modified cash-basis accounting in algorithmic trading,
+  highlighting its advantages and disadvantages for effective financial management.
+title: 'Modified Cash-Basis Accounting: Advantages and Disadvantages (Algo Trading)'
 ---
 
 In finance and trading, understanding different accounting methods is crucial for effective management. Among these methods, modified cash-basis accounting stands out as a unique hybrid that bridges traditional cash and accrual accounting practices. This approach is particularly noteworthy in environments like algorithmic trading, where real-time data processing and financial analysis are essential.

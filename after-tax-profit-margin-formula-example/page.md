@@ -1,6 +1,8 @@
 ---
-title: "After-Tax Profit Margin Formula and Example (Algo Trading)"
-description: "Explore how after-tax profit margins influence algorithmic trading decisions. Understand their calculation and significance in enhancing trading strategies."
+category: quant_concept
+description: Explore how after-tax profit margins influence algorithmic trading decisions.
+  Understand their calculation and significance in enhancing trading strategies.
+title: After-Tax Profit Margin Formula and Example (Algo Trading)
 ---
 
 Understanding profit margins is crucial for both businesses and investors, as they provide insights into a company's financial health. Profit margins are critical metrics that reflect a company's profitability and efficiency in generating earnings. These figures, expressed as percentages, offer a straightforward way to assess how much profit a company makes for each dollar of revenue generated. This article focuses on the after-tax profit margin and its significance in algorithmic trading, emphasizing how it can influence decision-making processes and overall trading strategies.

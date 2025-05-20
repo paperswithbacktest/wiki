@@ -1,6 +1,8 @@
 ---
-title: "Impact of Capitalization Structure on Profitability (Algo Trading)"
-description: "Explore the impact of capitalization structure on profitability in algorithmic trading and learn how financial management integrates with modern trading strategies."
+category: quant_concept
+description: Explore the impact of capitalization structure on profitability in algorithmic
+  trading and learn how financial management integrates with modern trading strategies.
+title: Impact of Capitalization Structure on Profitability (Algo Trading)
 ---
 
 In today's dynamic financial landscape, understanding the interplay between financial management, capitalization structure, and algorithmic trading is crucial for informed decision-making. These components form the bedrock of modern financial strategies, each influencing the other significantly. Financial management encompasses the strategic planning, organization, direction, and control of financial activities within an organization. It directly impacts how a company allocates resources, manages risks, and pursues investment opportunities, thereby maintaining its competitive edge.

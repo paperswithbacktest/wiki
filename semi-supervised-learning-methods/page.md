@@ -1,7 +1,8 @@
 ---
-title: Semi-Supervised Learning Methods for Model Training
+category: quant_concept
 description: Semi-Supervised Learning combines small labeled datasets with large unlabeled
   data to boost model accuracy. Explore methods and discover more inside
+title: Semi-Supervised Learning Methods for Model Training
 ---
 
 ![Image](images/1.jpeg)

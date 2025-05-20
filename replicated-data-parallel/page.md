@@ -1,7 +1,8 @@
 ---
-title: Implementing Replicated Data Parallel For Faster Model Training
+category: quant_concept
 description: Replicated Data Parallel accelerates training by distributing workloads
   across GPUs using DDP BAGUA and ByteScheduler for faster sync Discover more inside.
+title: Implementing Replicated Data Parallel For Faster Model Training
 ---
 
 ![Image](images/1.png)

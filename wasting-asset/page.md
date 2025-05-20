@@ -1,6 +1,8 @@
 ---
-title: "Wasting Asset (Algo Trading)"
-description: "Explore the concepts of wasting and depreciating assets, along with algorithmic trading, to enhance your investment strategies and portfolio management skills."
+category: quant_concept
+description: Explore the concepts of wasting and depreciating assets, along with algorithmic
+  trading, to enhance your investment strategies and portfolio management skills.
+title: Wasting Asset (Algo Trading)
 ---
 
 Understanding key terminology in finance is essential for making informed decisions. Investors and financial professionals often encounter terms such as wasting asset, depreciating asset, and algo trading, which are integral to discussions about investments and asset management. This article is designed to demystify these concepts and examine their implications within the financial sector.

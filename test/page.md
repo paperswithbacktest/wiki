@@ -1,7 +1,8 @@
 ---
-title: Essential Testing Strategies for Reliable Machine Learning Models
+category: trading_strategy
 description: Machine learning testing uses train-test splits and metrics like accuracy
   recall and F1 score to assess model performance Discover more inside
+title: Essential Testing Strategies for Reliable Machine Learning Models
 ---
 
 ![Image](images/1.jpeg)

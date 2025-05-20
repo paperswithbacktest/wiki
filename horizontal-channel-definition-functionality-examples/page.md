@@ -1,6 +1,8 @@
 ---
-title: "Horizontal Channel: Definition and Functionality with Examples (Algo Trading)"
-description: "Discover how horizontal channels can enhance trading strategies with algo trading. Learn to identify support and resistance levels for better decision-making."
+category: quant_concept
+description: Discover how horizontal channels can enhance trading strategies with
+  algo trading. Learn to identify support and resistance levels for better decision-making.
+title: 'Horizontal Channel: Definition and Functionality with Examples (Algo Trading)'
 ---
 
 Horizontal channel trading patterns, also known as sideways trends or ranges, are technical price patterns characterized by movement between two horizontal lines representing support and resistance levels. These patterns occur when market prices oscillate within a confined range, neither trending upward nor downward. This behavior signals an equilibrium between buying and selling forces, making horizontal channels vital for traders seeking to capitalize on predictable price oscillations. In financial markets, identifying horizontal channels can guide traders in making strategic decisions, such as buying near the support line and selling at the resistance line.

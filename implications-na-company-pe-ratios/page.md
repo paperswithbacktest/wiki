@@ -1,6 +1,9 @@
 ---
-title: "Implications of 'N/A' in Company P/E Ratios (Algo Trading)"
-description: "Discover the impact of 'N/A' in company P/E ratios on investment and algorithmic trading. Learn its implications for stock valuation and profitability analysis."
+category: quant_concept
+description: Discover the impact of 'N/A' in company P/E ratios on investment and
+  algorithmic trading. Learn its implications for stock valuation and profitability
+  analysis.
+title: Implications of 'N/A' in Company P/E Ratios (Algo Trading)
 ---
 
 The world of finance is characterized by a diverse array of tools and metrics to evaluate the performance and potential of companies. Among these tools, the Price-to-Earnings (P/E) ratio stands out as a fundamental metric utilized by investors to gauge a company's valuation and profitability. The P/E ratio is calculated by dividing the market value per share by the earnings per share (EPS). This metric offers investors a quick snapshot of how much they are paying for a dollar of earnings, thus helping to compare stocks within the same industry or sector.

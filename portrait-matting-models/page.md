@@ -1,7 +1,8 @@
 ---
-title: Portrait Matting Techniques in Machine Learning with MODNet
+category: quant_concept
 description: Portrait matting uses machine learning to separate people from complex
   backgrounds accurately and efficiently on mobile devices Discover more inside
+title: Portrait Matting Techniques in Machine Learning with MODNet
 ---
 
 ![Image](images/1.gif)

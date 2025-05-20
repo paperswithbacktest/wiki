@@ -1,6 +1,8 @@
 ---
-title: "Inflation Hedge (Algo Trading)"
-description: "Explore how algorithmic trading offers effective solutions to hedge against inflation securing your investments through advanced strategies and market insights."
+category: trading_strategy
+description: Explore how algorithmic trading offers effective solutions to hedge against
+  inflation securing your investments through advanced strategies and market insights.
+title: Inflation Hedge (Algo Trading)
 ---
 
 Inflation represents the rate at which the general level of prices for goods and services rises, consequently diminishing the purchasing power of money. As economic landscapes continue to evolve, inflation has emerged as a critical concern for investors, influencing their strategies significantly. Investors are persistently seeking effective methods to shield their assets from the diminishing effects of inflation. The pursuit of preserving the purchasing power of investments amid rising prices is fundamental to maintaining financial stability and achieving long-term growth.

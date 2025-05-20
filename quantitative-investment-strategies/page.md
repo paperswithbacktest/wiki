@@ -1,6 +1,8 @@
 ---
-title: "Quantitative Investment Strategies (Algo Trading)"
-description: "Explore the transformative impact of algorithmic trading and quantitative finance strategies with insights on optimizing investments through data-driven methodologies."
+category: trading_strategy
+description: Explore the transformative impact of algorithmic trading and quantitative
+  finance strategies with insights on optimizing investments through data-driven methodologies.
+title: Quantitative Investment Strategies (Algo Trading)
 ---
 
 Algorithmic trading and quantitative finance have fundamentally transformed modern financial markets by introducing precision and efficiency in investment strategies. These advanced methodologies rely on mathematical models, rigorous statistical analysis, and significant computing power to optimize trading processes, identify market opportunities, and execute transactions at speeds and volumes that are beyond human capabilities.

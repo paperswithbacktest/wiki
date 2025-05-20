@@ -1,6 +1,12 @@
 ---
-title: "Event-Driven Trading Strategies Explained (Algo Trading)"
-description: Explore the intricate world of event-driven trading strategies in algorithmic trading that capitalize on market inefficiencies from significant corporate events such as earnings announcements and mergers. Learn about the methods for anticipating market reactions and the tools used to enhance trading outcomes while understanding the associated risks and opportunities for improved profitability in the fast-paced trading environment.
+category: trading_strategy
+description: Explore the intricate world of event-driven trading strategies in algorithmic
+  trading that capitalize on market inefficiencies from significant corporate events
+  such as earnings announcements and mergers. Learn about the methods for anticipating
+  market reactions and the tools used to enhance trading outcomes while understanding
+  the associated risks and opportunities for improved profitability in the fast-paced
+  trading environment.
+title: Event-Driven Trading Strategies Explained (Algo Trading)
 ---
 
 The trading landscape has undergone a profound transformation with the development of algorithmic trading, a domain increasingly dominated by event-driven strategies. These strategies aim to capitalize on pricing inefficiencies that arise before or after significant events, offering traders the potential for substantial profits. With the swift processing capabilities of algorithms, traders can now analyze vast volumes of data and respond to market activities more rapidly than ever.

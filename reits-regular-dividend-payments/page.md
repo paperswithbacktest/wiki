@@ -1,6 +1,8 @@
 ---
-title: "REITs with Regular Dividend Payments (Algo Trading)"
-description: "Explore the synergy of dividend investment in REITs powered by algorithmic trading strategies to maximize income and portfolio diversification."
+category: trading_strategy
+description: Explore the synergy of dividend investment in REITs powered by algorithmic
+  trading strategies to maximize income and portfolio diversification.
+title: REITs with Regular Dividend Payments (Algo Trading)
 ---
 
 Dividends investment is a financial strategy that centers on acquiring stocks or securities that regularly distribute a portion of the company's earnings to shareholders. This income is often derived from the company's profits and is disbursed in the form of dividends, providing investors with a steady income stream in addition to potential capital appreciation. Investors who favor dividends often prioritize stability and steady income, focusing on companies with strong fundamentals and a history of paying consistent dividends.

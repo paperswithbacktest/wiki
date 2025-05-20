@@ -1,6 +1,8 @@
 ---
-title: "Methods to Enhance Trading Performance (Algo Trading)"
-description: "Discover effective strategies and tips to enhance your trading performance utilizing trend-following mean-reversion breakout trading and algorithmic methods."
+category: trading_strategy
+description: Discover effective strategies and tips to enhance your trading performance
+  utilizing trend-following mean-reversion breakout trading and algorithmic methods.
+title: Methods to Enhance Trading Performance (Algo Trading)
 ---
 
 The trading world offers numerous opportunities for wealth accumulation, yet achieving success in trading requires a well-thought-out strategic approach. The process of trading involves careful planning and execution of strategies that align with both short-term objectives and long-term financial goals. This article aims to provide insights into a range of trading strategies that can significantly boost investment performance. 

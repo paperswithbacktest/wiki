@@ -1,6 +1,12 @@
 ---
-title: "Conversion of Spot Rate to Forward Rate (Algo Trading)"
-description: "Explore the complexities of converting spot rates to forward rates in forex trading and how algorithmic trading enhances this process. Understand the differences between spot and forward rates, their roles in managing risk, and strategies for capitalizing on currency fluctuations. Discover how technology is reshaping forex with automated trading solutions, providing more precise and timely decision-making in a rapidly evolving financial landscape."
+category: quant_concept
+description: Explore the complexities of converting spot rates to forward rates in
+  forex trading and how algorithmic trading enhances this process. Understand the
+  differences between spot and forward rates, their roles in managing risk, and strategies
+  for capitalizing on currency fluctuations. Discover how technology is reshaping
+  forex with automated trading solutions, providing more precise and timely decision-making
+  in a rapidly evolving financial landscape.
+title: Conversion of Spot Rate to Forward Rate (Algo Trading)
 ---
 
 The world of foreign exchange, often referred to as forex, is abundant with both opportunities and complexities for traders and investors alike. An essential part of forex trading involves understanding forward and spot rates, which serve as fundamental indicators of currency value in the market. Forward rates are the prices at which two parties agree to exchange currencies on a future date, while spot rates represent the current exchange rates applicable to immediate currency transactions.

@@ -1,6 +1,9 @@
 ---
-title: "Accelerated Bookbuild Process and Mechanics (Algo Trading)"
-description: "Explore the dynamics and advantages of accelerated bookbuilds in financial markets This efficient mechanism enables rapid capital access with minimal risk and cost"
+category: trading_strategy
+description: Explore the dynamics and advantages of accelerated bookbuilds in financial
+  markets This efficient mechanism enables rapid capital access with minimal risk
+  and cost
+title: Accelerated Bookbuild Process and Mechanics (Algo Trading)
 ---
 
 Accelerated bookbuilds have emerged as a crucial mechanism in the landscape of financial markets, offering a swift and efficient avenue for companies eager to access capital. As businesses navigate the ever-changing economic environment, the need for quick and effective capital-raising methods has intensified, positioning accelerated bookbuilds as a favored strategy. This approach enables companies to sell shares to institutional investors within a short timeframe, typically encompassing just a few days. The ability to expedite transactions without the usual protracted processes associated with traditional offerings is a defining feature of accelerated bookbuilds.

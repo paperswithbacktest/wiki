@@ -1,6 +1,8 @@
 ---
-title: "Utilizing VIX ETFs in Investment Portfolios (Algo Trading)"
-description: "Explore how VIX ETFs serve as valuable tools in investment portfolios for hedging against market volatility and leveraging algorithmic trading strategies."
+category: trading_strategy
+description: Explore how VIX ETFs serve as valuable tools in investment portfolios
+  for hedging against market volatility and leveraging algorithmic trading strategies.
+title: Utilizing VIX ETFs in Investment Portfolios (Algo Trading)
 ---
 
 The world of investing offers a myriad of opportunities, each with its own set of challenges and benefits. Investors are constantly seeking financial instruments that not only protect their portfolios from risk but also enhance potential returns. Among these options, VIX ETFs are a sophisticated tool for those aiming to hedge against or capitalize on market volatility.

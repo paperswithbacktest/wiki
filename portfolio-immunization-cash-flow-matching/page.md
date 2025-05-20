@@ -1,6 +1,9 @@
 ---
-title: "Portfolio Immunization and Cash Flow Matching (Algo Trading)"
-description: "Explore how portfolio immunization, cash flow matching, and algorithmic trading can boost investment strategy effectiveness for financial goals amid market changes."
+category: trading_strategy
+description: Explore how portfolio immunization, cash flow matching, and algorithmic
+  trading can boost investment strategy effectiveness for financial goals amid market
+  changes.
+title: Portfolio Immunization and Cash Flow Matching (Algo Trading)
 ---
 
 Investment strategies play a pivotal role in financial planning by providing structured approaches to achieving financial objectives. These strategies guide individuals and institutions in allocating resources effectively to generate desired financial outcomes, whether for wealth accumulation, retirement planning, or risk management. Aligning investment strategies with specific financial goals ensures that resources are deployed efficiently, balancing the risks and rewards associated with different investment avenues.

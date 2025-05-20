@@ -1,6 +1,15 @@
 ---
-title: "Swing Trading Techniques (Algo Trading)"
-description: "Explore the world of swing trading and algorithmic strategies designed to maximize profitability in financial markets. Swing trading is a short to medium-term strategy that leverages market fluctuations, emphasizing technical analysis and risk management. Alongside are key stock trading strategies, including value investing, momentum trading, and contrarian approaches. These strategies utilize a blend of fundamental and technical analysis tailored to market conditions. Algorithmic trading further enhances efficiency by executing trades at optimal moments based on data-driven insights. Mastering these techniques equips traders with the knowledge needed to navigate markets effectively for optimal success."
+category: trading_strategy
+description: Explore the world of swing trading and algorithmic strategies designed
+  to maximize profitability in financial markets. Swing trading is a short to medium-term
+  strategy that leverages market fluctuations, emphasizing technical analysis and
+  risk management. Alongside are key stock trading strategies, including value investing,
+  momentum trading, and contrarian approaches. These strategies utilize a blend of
+  fundamental and technical analysis tailored to market conditions. Algorithmic trading
+  further enhances efficiency by executing trades at optimal moments based on data-driven
+  insights. Mastering these techniques equips traders with the knowledge needed to
+  navigate markets effectively for optimal success.
+title: Swing Trading Techniques (Algo Trading)
 ---
 
 The financial markets provide a broad spectrum of trading and investment opportunities, catering to various risk appetites and investment objectives. Among the myriad strategies employed by traders, swing trading, stock trading strategies, and algorithmic trading stand out due to their potential to enhance profitability and manage risk effectively.

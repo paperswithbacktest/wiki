@@ -1,6 +1,9 @@
 ---
-title: "Largest Renewable Energy Companies Worldwide (Algo Trading)"
-description: "Explore the intersection of sustainable energy and innovation as top renewable companies leverage algorithmic trading for optimal investment strategies globally."
+category: dataset
+description: Explore the intersection of sustainable energy and innovation as top
+  renewable companies leverage algorithmic trading for optimal investment strategies
+  globally.
+title: Largest Renewable Energy Companies Worldwide (Algo Trading)
 ---
 
 The global shift towards renewable energy has led to a dynamic transformation in the energy sector. As nations worldwide strive to reduce carbon footprints and embrace sustainable methods of energy generation, renewable energy companies are at the forefront of this evolution. These companies are instrumental in advancing technologies and infrastructures that harvest natural energy sources such as solar, wind, hydroelectric, geothermal, and biomass. This transition is not only essential for environmental conservation but also pivotal for energy security and economic growth. 

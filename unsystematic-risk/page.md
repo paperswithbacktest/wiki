@@ -1,6 +1,10 @@
 ---
-title: "Unsystematic Risk (Algo Trading)"
-description: Explore the world of algorithmic trading, where unsystematic risk plays a critical role. Understand how these specific risks, distinct from general market risks, affect individual securities or industries. Discover strategies to mitigate these risks in algo trading, enhancing investment protection and strategic flexibility.
+category: quant_concept
+description: Explore the world of algorithmic trading, where unsystematic risk plays
+  a critical role. Understand how these specific risks, distinct from general market
+  risks, affect individual securities or industries. Discover strategies to mitigate
+  these risks in algo trading, enhancing investment protection and strategic flexibility.
+title: Unsystematic Risk (Algo Trading)
 ---
 
 Algorithmic trading, commonly referred to as algo trading, has transformed financial markets by employing computer algorithms to execute trading strategies with speed and precision beyond human capabilities. By utilizing predefined criteria, algo trading systems can analyze vast datasets, identify trading opportunities, and execute trades at high speeds, significantly enhancing efficiency and liquidity in the markets. Despite these advantages, algo trading is not without its challenges, particularly the risks that are inherent to specific investments, known as unsystematic risks. These risks are distinct from general market risks and are unique to individual securities or specific industries.

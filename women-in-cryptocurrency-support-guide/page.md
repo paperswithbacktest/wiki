@@ -1,6 +1,8 @@
 ---
-title: "Women in Cryptocurrency: A Support Guide (Algo Trading)"
-description: "Supporting women in crypto algorithmic trading fosters diversity while bridging gaps in the fintech sector This guide offers insights to help women thrive"
+category: quant_concept
+description: Supporting women in crypto algorithmic trading fosters diversity while
+  bridging gaps in the fintech sector This guide offers insights to help women thrive
+title: 'Women in Cryptocurrency: A Support Guide (Algo Trading)'
 ---
 
 Cryptocurrency represents a significant innovation in the financial sector, operating on decentralized networks that utilize blockchain technology. Unlike traditional currencies, cryptocurrencies like Bitcoin and Ethereum operate independently of a central bank, offering a new form of digital wealth that can be transferred globally. Algorithmic trading, involving the use of automated and pre-programmed trading instructions, has become an important component of trading in cryptocurrency markets. This modern approach leverages computational power and mathematical models to execute trades at speeds and efficiencies beyond human capabilities, differentiating itself from traditional, manual trading methods.

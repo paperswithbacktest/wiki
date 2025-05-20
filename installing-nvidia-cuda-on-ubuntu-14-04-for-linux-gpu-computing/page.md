@@ -1,6 +1,11 @@
 ---
-title: "Installing Nvidia CUDA on Ubuntu for Linux GPU Computing (Algo Trading)"
-description: Learn how to harness the power of Nvidia CUDA on Ubuntu for enhanced Linux GPU computing in algorithmic trading systems. This guide explores the crucial role of Nvidia GPUs in computational tasks, the benefits of integrating these with Ubuntu 14.04, and achieving superior trading performance through cutting-edge technologies in financial markets.
+category: quant_concept
+description: Learn how to harness the power of Nvidia CUDA on Ubuntu for enhanced
+  Linux GPU computing in algorithmic trading systems. This guide explores the crucial
+  role of Nvidia GPUs in computational tasks, the benefits of integrating these with
+  Ubuntu 14.04, and achieving superior trading performance through cutting-edge technologies
+  in financial markets.
+title: Installing Nvidia CUDA on Ubuntu for Linux GPU Computing (Algo Trading)
 ---
 
 Algorithmic trading, a cornerstone of modern financial markets, utilizes complex mathematical models and algorithms to execute trades at speeds and frequencies that are impossible for human traders. This form of trading accounts for a significant portion of trades in global markets, driven by its ability to analyze vast datasets in real-time, minimize market impact, and capitalize on short-lived inefficiencies. The efficiency and precision of algorithmic trading depend heavily on computational power and speed, making the choice of hardware and software crucial.

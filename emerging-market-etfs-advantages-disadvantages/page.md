@@ -1,6 +1,8 @@
 ---
-title: "Emerging Market ETFs: Advantages and Disadvantages (Algo Trading)"
-description: "Explore the pros and cons of Emerging Market ETFs and learn how algorithmic trading can optimize investments in these high-growth but volatile markets."
+category: trading_strategy
+description: Explore the pros and cons of Emerging Market ETFs and learn how algorithmic
+  trading can optimize investments in these high-growth but volatile markets.
+title: 'Emerging Market ETFs: Advantages and Disadvantages (Algo Trading)'
 ---
 
 Emerging Market ETFs have become a popular choice for investors seeking portfolio diversification through exposure to rapidly growing economies. These financial instruments are composed of a basket of securities from countries that are transitioning towards more advanced economic markets. Investing in these ETFs provides both opportunities and challenges, shaped by the unique characteristics of emerging markets.

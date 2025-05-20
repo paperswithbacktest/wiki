@@ -1,6 +1,12 @@
 ---
-title: "Iron Condor Options Trading (Algo Trading)"
-description: "Discover the Iron Condor options trading strategy and its synergy with algorithmic trading on our comprehensive page. Dive into the world of non-directional trading and learn how to generate steady income with controlled risk. Understand how integrating algorithms can enhance trading efficiency and precision for both beginners and experienced investors. Explore methods that blend financial insights with technology to improve portfolio performance."
+category: trading_strategy
+description: Discover the Iron Condor options trading strategy and its synergy with
+  algorithmic trading on our comprehensive page. Dive into the world of non-directional
+  trading and learn how to generate steady income with controlled risk. Understand
+  how integrating algorithms can enhance trading efficiency and precision for both
+  beginners and experienced investors. Explore methods that blend financial insights
+  with technology to improve portfolio performance.
+title: Iron Condor Options Trading (Algo Trading)
 ---
 
 In finance, options trading has emerged as a powerful tool for investors due to its versatility and potential for significant returns. Among the myriad of strategies available, the Iron Condor stands out for its ability to generate consistent income while managing risk. This strategy is highly regarded for its non-directional nature, enabling traders to profit from minimal market movement.

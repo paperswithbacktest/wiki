@@ -1,6 +1,9 @@
 ---
-title: "Currency Correlations and Commodity Pairs (Algo Trading)"
-description: "Explore the crucial role of currency correlations and commodity pairs in Forex trading and learn how algorithmic trading can optimize strategies for better returns."
+category: trading_strategy
+description: Explore the crucial role of currency correlations and commodity pairs
+  in Forex trading and learn how algorithmic trading can optimize strategies for better
+  returns.
+title: Currency Correlations and Commodity Pairs (Algo Trading)
 ---
 
 Forex trading is an expansive and ever-evolving domain. It is significantly influenced by a myriad of factors that affect currency values, including economic indicators, geopolitical events, interest rates, and market sentiment. Among these, understanding the correlations between foreign exchange currencies and commodities stands out as a valuable strategy for traders seeking to anticipate market movements and optimize their trading decisions.

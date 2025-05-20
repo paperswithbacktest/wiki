@@ -1,6 +1,9 @@
 ---
-title: "Par Yield Curve: Calculation and Comparison with Spot Curve (Algo Trading)"
-description: "Explore how par and spot yield curves are essential for understanding bond markets and algorithmic trading. Learn to use these curves for better investment strategies."
+category: quant_concept
+description: Explore how par and spot yield curves are essential for understanding
+  bond markets and algorithmic trading. Learn to use these curves for better investment
+  strategies.
+title: 'Par Yield Curve: Calculation and Comparison with Spot Curve (Algo Trading)'
 ---
 
 The bond market serves as a fundamental component of the global financial system, facilitating capital allocation and economic growth while providing a wide range of investment opportunities for individuals and institutions alike. A critical aspect of this market lies in the determination of interest rates, where bond yields play a central role. Bond yields, derived from various types of bonds including government, municipal, and corporate bonds, not only indicate the return an investor can expect but also influence interest rates, investment decisions, and economic policies.

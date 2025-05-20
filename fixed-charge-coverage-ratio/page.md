@@ -1,6 +1,9 @@
 ---
-title: "Fixed-Charge Coverage Ratio (Algo Trading)"
-description: "Discover how the Fixed-Charge Coverage Ratio (FCCR) enhances algorithmic trading strategies by assessing a company's ability to meet its fixed obligations efficiently."
+category: quant_concept
+description: Discover how the Fixed-Charge Coverage Ratio (FCCR) enhances algorithmic
+  trading strategies by assessing a company's ability to meet its fixed obligations
+  efficiently.
+title: Fixed-Charge Coverage Ratio (Algo Trading)
 ---
 
 In today's financial landscape, understanding financial ratios is crucial for companies seeking to improve their creditworthiness and identify new growth opportunities. A key metric in this domain is the Fixed-Charge Coverage Ratio (FCCR), which plays an essential role in assessing a company's financial health. FCCR is particularly effective in evaluating a company's ability to meet its fixed financial obligations, which include lease payments, interest expenses, and other set charges. This metric is essential not only for ensuring operational stability but also for maintaining investor confidence and lender trust.

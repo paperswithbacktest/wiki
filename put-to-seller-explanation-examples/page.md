@@ -1,6 +1,9 @@
 ---
-title: "Put to Seller: Explanation and Examples (Algo Trading)"
-description: "Explore the advantages of put-selling and algorithmic trading Learn how these strategies can potentially boost returns while managing risks in financial markets"
+category: quant_concept
+description: Explore the advantages of put-selling and algorithmic trading Learn how
+  these strategies can potentially boost returns while managing risks in financial
+  markets
+title: 'Put to Seller: Explanation and Examples (Algo Trading)'
 ---
 
 Investment strategies are crucial for anyone looking to build wealth over time. As the financial landscape becomes increasingly intricate, the need to understand various financial instruments and their associated strategies has become paramount. These financial instruments, ranging from stocks and bonds to options and derivatives, offer distinct pathways to achieve economic objectives. Each instrument comes with its own set of benefits and risks, influencing the choice of strategies among investors based on their risk appetite and financial goals.

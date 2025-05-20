@@ -1,6 +1,9 @@
 ---
-title: "Sharpes ratio (Algo Trading)"
-description: "Explore how algorithmic trading leverages the Sharpe Ratio to assess risk-adjusted returns and optimize strategy effectiveness for enhanced investment outcomes."
+category: quant_concept
+description: Explore how algorithmic trading leverages the Sharpe Ratio to assess
+  risk-adjusted returns and optimize strategy effectiveness for enhanced investment
+  outcomes.
+title: Sharpes ratio (Algo Trading)
 ---
 
 Algorithmic trading has significantly transformed financial markets by enabling automated and efficient decision-making processes. This advancement leverages sophisticated algorithms to analyze vast amounts of data, identify trading opportunities, and execute trades with minimal human intervention. Algorithmic trading aims for high annualized returns, yet understanding the associated risks is crucial for the sustainability and resilience of trading strategies. One of the primary metrics for assessing these risks is the Sharpe Ratio, an essential tool introduced by Nobel Laureate William F. Sharpe.
@@ -225,4 +228,3 @@ To further understand the development and application of the Sharpe Ratio in eva
     - "Python for Finance" by Yves Hilpisch provides practical examples on using Python for financial analysis, useful for implementing the Sharpe Ratio among other metrics.
 
 These resources serve as a comprehensive guide for anyone looking to deepen their knowledge of the Sharpe Ratio and explore its applications in algorithmic trading and financial analysis.
-

@@ -1,6 +1,12 @@
 ---
-title: "Advantages and Disadvantages of the Gordon Growth Model (Algo Trading)"
-description: "Explore the benefits and limitations of the Gordon Growth Model in investment valuation and algorithmic trading within the financial sector. Discover how the model's simplicity helps investors assess intrinsic stock values based on expected dividends while understanding its limitations in dynamic markets or for non-dividend paying stocks. Analyze how algorithmic trading enhances investment strategies by incorporating traditional models like GGM for improved trading decisions."
+category: quant_concept
+description: Explore the benefits and limitations of the Gordon Growth Model in investment
+  valuation and algorithmic trading within the financial sector. Discover how the
+  model's simplicity helps investors assess intrinsic stock values based on expected
+  dividends while understanding its limitations in dynamic markets or for non-dividend
+  paying stocks. Analyze how algorithmic trading enhances investment strategies by
+  incorporating traditional models like GGM for improved trading decisions.
+title: Advantages and Disadvantages of the Gordon Growth Model (Algo Trading)
 ---
 
 Investment valuation models and algorithmic trading are two principal elements of contemporary financial analysis. Investment valuation models aim to quantify the intrinsic value of a company’s stock, which is essential for informed investment decisions. Among these models, the Gordon Growth Model (GGM) stands out for its relevance and simplicity in determining the intrinsic value based on expected future dividends. The Gordon Growth Model uses the formula:

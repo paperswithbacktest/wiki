@@ -1,6 +1,8 @@
 ---
-title: "Globalization in Business: History, Benefits, and Drawbacks (Algo Trading)"
-description: "Explore the history, benefits, and challenges of globalization in business and algo trading in this article highlighting market reach and strategic impact."
+category: quant_concept
+description: Explore the history, benefits, and challenges of globalization in business
+  and algo trading in this article highlighting market reach and strategic impact.
+title: 'Globalization in Business: History, Benefits, and Drawbacks (Algo Trading)'
 ---
 
 Globalization is the process by which businesses and other organizations develop international influence or operate on an international scale. It is a multifaceted phenomenon that intertwines economic, cultural, technological, and political processes, enabling enhanced connectivity and interdependence among countries and markets. In today's business landscape, globalization has become a critical driver, expanding market reach and fostering competitive environments. The ability to tap into global markets provides businesses the opportunity to access broader customer bases, diversify their portfolios, and cultivate a global presence.

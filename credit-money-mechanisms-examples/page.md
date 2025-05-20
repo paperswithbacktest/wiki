@@ -1,6 +1,8 @@
 ---
-title: "Credit Money: Mechanisms and Examples (Algo Trading)"
-description: "Explore the critical role of monetary systems and credit money in today's financial landscape plus how algorithmic trading transforms global market dynamics."
+category: quant_concept
+description: Explore the critical role of monetary systems and credit money in today's
+  financial landscape plus how algorithmic trading transforms global market dynamics.
+title: 'Credit Money: Mechanisms and Examples (Algo Trading)'
 ---
 
 In today's rapidly evolving financial landscape, understanding monetary systems and their components is crucial for navigating an increasingly complex global economy. Monetary systems provide the essential framework through which societies manage and distribute money, playing a fundamental role in economic stability and growth. These systems allow for the seamless facilitation of exchanges by providing a common medium of exchange, serving as both a store of value and a measure of economic wealth. The significance of monetary systems extends beyond simple transactions, influencing major economic indicators and policies.

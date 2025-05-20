@@ -1,6 +1,8 @@
 ---
-title: "Economist Intelligence Unit: Overview and Functionality (Algo Trading)"
-description: "Explore Economist Intelligence Unit's role in economic forecasting and its synergy with algorithmic trading providing insights crucial for strategic decisions."
+category: dataset
+description: Explore Economist Intelligence Unit's role in economic forecasting and
+  its synergy with algorithmic trading providing insights crucial for strategic decisions.
+title: 'Economist Intelligence Unit: Overview and Functionality (Algo Trading)'
 ---
 
 In today's rapidly evolving technological landscape, data-driven insights have become crucial in shaping industries and guiding decision-makers. The Economist Intelligence Unit (EIU) has emerged as a cornerstone in economic forecasting and advisory services, offering unparalleled support to entrepreneurs, financiers, and government officials aiming to make well-informed decisions. Founded in 1946, the EIU is recognized for its comprehensive economic and political analyses, which have become indispensable tools for entities worldwide seeking to navigate complex global markets.

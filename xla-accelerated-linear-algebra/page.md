@@ -1,7 +1,8 @@
 ---
-title: XLA Accelerated Linear Algebra for Machine Learning Performance
+category: quant_concept
 description: XLA compiles linear algebra operations into efficient machine learning
   code for faster training and reduced energy use across hardware Discover more inside
+title: XLA Accelerated Linear Algebra for Machine Learning Performance
 ---
 
 ![Image](images/1.png)

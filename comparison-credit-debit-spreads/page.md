@@ -1,6 +1,8 @@
 ---
-title: "Comparison of Credit and Debit Spreads (Algo Trading)"
-description: "Explore the key differences and strategies between credit and debit spreads in options trading Discover insights on how algo trading optimizes these techniques"
+category: trading_strategy
+description: Explore the key differences and strategies between credit and debit spreads
+  in options trading Discover insights on how algo trading optimizes these techniques
+title: Comparison of Credit and Debit Spreads (Algo Trading)
 ---
 
 Options trading has emerged as a prominent component of modern investment strategies, captivating a diverse range of investors from individual traders to institutional participants. Options are financial derivatives that offer the buyer the right, but not the obligation, to buy or sell an underlying asset at a predetermined price within a specified time frame. This flexibility comes with the potential for significant returns, as well as the ability to hedge against potential losses in various market conditions.

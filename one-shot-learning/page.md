@@ -1,7 +1,8 @@
 ---
-title: One-Shot Learning Techniques for Rapid Machine Recognition
+category: quant_concept
 description: One-Shot Learning enables models to recognize new objects with just a
   single example using Siamese networks and metric learning. Discover more inside.
+title: One-Shot Learning Techniques for Rapid Machine Recognition
 ---
 
 ![Image](images/1.png)

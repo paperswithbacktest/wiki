@@ -1,6 +1,9 @@
 ---
-title: "Approaches to Quarterly Earnings Reports (Algo Trading)"
-description: "Explore how algorithmic trading leverages quarterly earnings reports to optimize strategies by analyzing market patterns and financial metrics, ensuring agile decision-making."
+category: trading_strategy
+description: Explore how algorithmic trading leverages quarterly earnings reports
+  to optimize strategies by analyzing market patterns and financial metrics, ensuring
+  agile decision-making.
+title: Approaches to Quarterly Earnings Reports (Algo Trading)
 ---
 
 The financial market is significantly influenced by key events and reports that dictate investment strategies and market trends. Among these, quarterly earnings reports and financial analysis are paramount, as they offer critical insights into a company's financial status and performance. These reports typically encompass essential financial statements, such as the income statement, balance sheet, and cash flow statement, which provide a comprehensive view of a company's financial health.

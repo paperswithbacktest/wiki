@@ -1,9 +1,15 @@
 ---
-title: "Fibonacci trading strategy"
-description: The Fibonacci sequence, rooted in mathematics, has far-reaching applications, including technical analysis in financial markets. Traders use Fibonacci ratios—23.6%, 38.2%, 50%, 61.8%, and 100%—to identify potential support and resistance levels, guiding market entry and exit points. This article explores the theoretical foundations of Fibonacci trading, practical tools like retracements and extensions, and their integration with other strategies for enhanced accuracy. By combining Fibonacci with indicators like moving averages, traders can strengthen their predictions across various asset classes, including stocks, forex, and cryptocurrencies.
+category: trading_strategy
+description: The Fibonacci sequence, rooted in mathematics, has far-reaching applications,
+  including technical analysis in financial markets. Traders use Fibonacci ratios—23.6%,
+  38.2%, 50%, 61.8%, and 100%—to identify potential support and resistance levels,
+  guiding market entry and exit points. This article explores the theoretical foundations
+  of Fibonacci trading, practical tools like retracements and extensions, and their
+  integration with other strategies for enhanced accuracy. By combining Fibonacci
+  with indicators like moving averages, traders can strengthen their predictions across
+  various asset classes, including stocks, forex, and cryptocurrencies.
+title: Fibonacci trading strategy
 ---
-
-
 
 The Fibonacci sequence, a series of numbers where each number is the sum of the two preceding ones, often starting with 0 and 1, is not just a mathematical curiosity but a phenomenon with widespread implications in nature, art, architecture, and, quite intriguingly, in financial markets. Originating from the works of the medieval Italian mathematician Leonardo of Pisa, known as Fibonacci, this sequence has been identified in the arrangement of leaves on a stem, the branching of trees, the flowering of an artichoke, and the shells of snails, epitomizing a harmonious pattern that resonates with the human psyche.
 

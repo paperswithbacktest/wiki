@@ -1,6 +1,9 @@
 ---
-title: "Seasoned Security: Overview and Examples (Algo Trading)"
-description: "Explore the dynamic world of seasoned securities and algorithmic trading to understand financial instruments, risk management, and investment strategies today."
+category: quant_concept
+description: Explore the dynamic world of seasoned securities and algorithmic trading
+  to understand financial instruments, risk management, and investment strategies
+  today.
+title: 'Seasoned Security: Overview and Examples (Algo Trading)'
 ---
 
 In today's complex financial landscape, understanding the interplay between financial instruments such as seasoned securities, securitization, and algorithmic trading is crucial for investors and professionals. These elements collectively contribute to the dynamic world of modern finance, where efficient capital transfer, risk management, and trading strategies are paramount.
@@ -155,4 +158,3 @@ Professionals familiar with these interconnected facets can effectively harness 
    - *Quantitative Finance* frequently publishes research on algorithmic trading, providing insights into the mathematical and technological aspects of modern trading strategies.
 
 These resources offer a robust foundation for understanding the complexities of securitization, asset-backed securities, and algorithmic trading, facilitating deeper engagement with the material.
-

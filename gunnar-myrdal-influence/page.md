@@ -1,6 +1,8 @@
 ---
-title: "Gunnar Myrdal and His Influence (Algo Trading)"
-description: "Explore Gunnar Myrdal's economic theories and their influence on algorithmic trading. Learn how his work enhances trading strategies with modern economic insights."
+category: quant_concept
+description: Explore Gunnar Myrdal's economic theories and their influence on algorithmic
+  trading. Learn how his work enhances trading strategies with modern economic insights.
+title: Gunnar Myrdal and His Influence (Algo Trading)
 ---
 
 Gunnar Myrdal was a distinguished Swedish economist and sociologist known for his profound insights into economic theory and social science. His prodigious work has left a lasting imprint on both fields, paving the way for contemporary applications, including algorithmic trading. Myrdal’s exploration of economic mechanisms and social factors has provided a framework that resonates with today's technological advancements in financial markets. His interdisciplinary approach offers foundational perspectives that can enrich algorithms designed for trading by acknowledging the complexities of economic interactions and social influences. This article aims to articulate Myrdal's seminal contributions and elucidate how these ideas can potentially transform the strategies and technologies employed in algorithmic trading, enhancing their efficacy and adaptive capabilities.

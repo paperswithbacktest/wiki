@@ -1,6 +1,8 @@
 ---
-title: "Accounting Profit: Calculation and Examples (Algo Trading)"
-description: "Discover how to accurately calculate accounting profit, essential for evaluating financial performance in both traditional and algorithmic trading contexts."
+category: quant_concept
+description: Discover how to accurately calculate accounting profit, essential for
+  evaluating financial performance in both traditional and algorithmic trading contexts.
+title: 'Accounting Profit: Calculation and Examples (Algo Trading)'
 ---
 
 In today's complex financial markets, understanding how to accurately calculate profit is essential for market participants. This is true whether one is engaged in traditional trading or utilizing sophisticated algorithmic trading methods. As financial markets become more competitive and intricate, traders and analysts benefit significantly from a robust comprehension of profit calculation techniques. Effective profit assessment not only aids in evaluating financial health but also guides strategic decision-making, ultimately leading to optimized performance.

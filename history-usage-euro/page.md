@@ -1,6 +1,8 @@
 ---
-title: "History and Usage of the Euro (Algo Trading)"
-description: "Explore the history and impacts of the Euro in global finance and discover algorithmic trading's crucial role in modern markets focusing on currency strategies."
+category: quant_concept
+description: Explore the history and impacts of the Euro in global finance and discover
+  algorithmic trading's crucial role in modern markets focusing on currency strategies.
+title: History and Usage of the Euro (Algo Trading)
 ---
 
 The Euro (€) stands as one of the world's most significant currencies, not only serving as the official currency for many European Union countries but also playing a pivotal role in the global economy. Introduced in 1999, the Euro was conceived as a means to unify and strengthen Europe's economic landscape by facilitating seamless trade and financial transactions among member states. As of today, the Euro is the official currency of 20 EU countries, collectively known as the Eurozone, which constitutes a major economic bloc with substantial influence on international trade and finance.

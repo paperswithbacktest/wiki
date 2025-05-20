@@ -1,6 +1,8 @@
 ---
-title: "Purchase And Sale Statement Explained (Algo Trading)"
-description: "Discover how Purchase and Sale Statements and algorithmic trading are transforming real estate transactions for increased efficiency and reduced risks."
+category: quant_concept
+description: Discover how Purchase and Sale Statements and algorithmic trading are
+  transforming real estate transactions for increased efficiency and reduced risks.
+title: Purchase And Sale Statement Explained (Algo Trading)
 ---
 
 The real estate market is witnessing significant transformations as technology takes a central role, particularly within trading and investment dynamics. This technological integration has paved the way for new strategies and tools that promise to reshape real estate transactions. A key aspect of this modernization is the Purchase and Sale (P&S) Statement, an essential document that details the terms of property transactions. Understanding the intricacies of a P&S statement is crucial for investors and agents aiming to gain clarity and minimize risks in real estate dealings.

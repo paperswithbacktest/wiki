@@ -1,7 +1,8 @@
 ---
-title: Comprehensive Guide To Machine Learning Recommendation Systems
+category: quant_concept
 description: Recommendation systems use collaborative filtering and graph models like
   LightGCN and CPE to improve accuracy and personalization Discover more inside.
+title: Comprehensive Guide To Machine Learning Recommendation Systems
 ---
 
 ![Image](images/1.png)

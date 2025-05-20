@@ -1,6 +1,8 @@
 ---
-title: "Stub Quote: Description and Usage (Algo Trading)"
-description: "Explore the dynamics of algorithmic trading and the crucial role of financial quotations in shaping today's trading strategies Enhance market insights efficiently"
+category: quant_concept
+description: Explore the dynamics of algorithmic trading and the crucial role of financial
+  quotations in shaping today's trading strategies Enhance market insights efficiently
+title: 'Stub Quote: Description and Usage (Algo Trading)'
 ---
 
 Algorithmic trading, often called algo trading, represents a significant technological evolution in the financial sector, allowing for automated, high-speed trading processes without the need for human intervention. This innovation has transformed the way trading is executed, enabling rapid transactions that can capitalize on market movements with precision. 

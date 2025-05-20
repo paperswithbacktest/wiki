@@ -1,6 +1,9 @@
 ---
-title: "Socially Responsible Investment (Algo Trading)"
-description: "Explore Socially Responsible Investment and its integration with algorithmic trading to align financial goals with ethical values while leveraging technology for informed decisions."
+category: trading_strategy
+description: Explore Socially Responsible Investment and its integration with algorithmic
+  trading to align financial goals with ethical values while leveraging technology
+  for informed decisions.
+title: Socially Responsible Investment (Algo Trading)
 ---
 
 Socially Responsible Investing (SRI) has emerged as a significant force within the current investment landscape. This approach seeks to align financial objectives with individual and societal values, focusing on generating both economic returns and positive social or environmental impacts. The growing importance of SRI is reflected in the increasing number of investors who prioritize ethical considerations alongside traditional financial metrics when making investment decisions. According to the Global Sustainable Investment Alliance, sustainable investing assets reached $35.3 trillion globally in 2020, representing one-third of total assets under management. This profound shift illustrates a broader trend towards integrating ethical concerns within the financial sector.

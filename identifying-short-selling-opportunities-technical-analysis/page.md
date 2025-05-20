@@ -1,6 +1,8 @@
 ---
-title: "Identifying Short-Selling Opportunities with Technical Analysis (Algo Trading)"
-description: "Discover how technical analysis uncovers short-selling opportunities in algorithmic trading. Learn about key indicators, strategies, and risk management."
+category: trading_strategy
+description: Discover how technical analysis uncovers short-selling opportunities
+  in algorithmic trading. Learn about key indicators, strategies, and risk management.
+title: Identifying Short-Selling Opportunities with Technical Analysis (Algo Trading)
 ---
 
 Algorithmic trading has become a cornerstone of the modern investment landscape, leveraging advanced technologies and methodologies to enhance trading performance and efficiency. At its core, algorithmic trading involves the use of computer programs to execute trades based on predefined criteria, utilizing strategies such as trend-following, mean reversion, and sentiment analysis. This approach allows for the execution of large volumes of trades at speeds and frequencies that are impossible for human traders alone, thereby optimizing market opportunities and minimizing costs.

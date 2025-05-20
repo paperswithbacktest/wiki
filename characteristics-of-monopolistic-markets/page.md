@@ -1,6 +1,8 @@
 ---
-title: "Characteristics of Monopolistic Markets (Algo Trading)"
-description: "Discover the critical characteristics of monopolistic markets and understand their impact on pricing and consumer choices in global economies."
+category: quant_concept
+description: Discover the critical characteristics of monopolistic markets and understand
+  their impact on pricing and consumer choices in global economies.
+title: Characteristics of Monopolistic Markets (Algo Trading)
 ---
 
 Market structures describe the competitive environments in which businesses operate, and they have a profound impact on pricing, supply, and overall market functionality. A critical type of market structure to understand is the monopolistic market, characterized by the presence of a single supplier or firm dominating the entire market. This unique position allows the firm to exert significant influence over pricing and output decisions, effectively setting the tone for market behavior and consumer accessibility.

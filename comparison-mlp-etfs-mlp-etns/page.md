@@ -1,6 +1,8 @@
 ---
-title: "Comparison of MLP ETFs and MLP ETNs (Algo Trading)"
-description: "Explore the distinctions between MLP ETFs and ETNs in terms of tax implications and performance to optimize your algo trading strategies and investment portfolio."
+category: trading_strategy
+description: Explore the distinctions between MLP ETFs and ETNs in terms of tax implications
+  and performance to optimize your algo trading strategies and investment portfolio.
+title: Comparison of MLP ETFs and MLP ETNs (Algo Trading)
 ---
 
 Master Limited Partnerships (MLPs) represent a unique and potentially lucrative asset class within the investment landscape, distinguished by their ability to generate attractive yields and offer tax advantages. MLP Exchange-Traded Notes (ETNs) and MLP Exchange-Traded Funds (ETFs) are crucial instruments that provide investors with convenient access to MLPs. Understanding the differences between these financial vehicles is vital for investors seeking to optimize their portfolios and achieve favorable tax outcomes.

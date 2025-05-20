@@ -1,6 +1,9 @@
 ---
-title: "Yield-Based Options: Types, Advantages, and Disadvantages (Algo Trading)"
-description: "Explore the advantages and disadvantages of yield-based options in algo trading. Learn how these financial derivatives can help hedge against interest rate fluctuations."
+category: quant_concept
+description: Explore the advantages and disadvantages of yield-based options in algo
+  trading. Learn how these financial derivatives can help hedge against interest rate
+  fluctuations.
+title: 'Yield-Based Options: Types, Advantages, and Disadvantages (Algo Trading)'
 ---
 
 In the intricate landscape of financial derivatives, yield-based options serve as a unique instrument for both investors and traders. Unlike traditional stock options, which derive their value from the price movements of underlying assets, yield-based options are intrinsically linked to interest rates. This characteristic offers a novel approach to both hedging and speculation, especially relevant in fluctuating economic climates.

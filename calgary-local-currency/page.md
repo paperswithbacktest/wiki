@@ -1,6 +1,8 @@
 ---
-title: "Calgary Local Currency (Algo Trading)"
-description: "Explore how Calgary Dollar, a local currency initiative since 1996, could benefit from algorithmic trading to boost efficiency, liquidity, and community resilience."
+category: dataset
+description: Explore how Calgary Dollar, a local currency initiative since 1996, could
+  benefit from algorithmic trading to boost efficiency, liquidity, and community resilience.
+title: Calgary Local Currency (Algo Trading)
 ---
 
 Community currencies have emerged as innovative tools for supporting and revitalizing local economies. These currencies operate alongside national currencies, serving as a medium of exchange within a specific geographic area to encourage spending at local businesses and services. The Calgary Dollar is a notable example of such a currency, demonstrating significant success in fostering economic resilience and strengthening community bonds in Calgary.

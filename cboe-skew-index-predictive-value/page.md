@@ -1,6 +1,13 @@
 ---
-title: "Cboe SKEW Index and Its Predictive Value (Algo Trading)"
-description: "Explore the significance and applications of the Cboe SKEW Index in algorithmic trading to understand market volatility and risk prediction. This comprehensive guide examines how the SKEW Index can enhance trading strategies by identifying potential market shifts and tail-risks, offering essential insights into investor sentiment and market dynamics. Discover the role of skewness and volatility in market forecasts and learn how to integrate this index into trading systems for improved risk management and decision-making within the ever-evolving financial landscape."
+category: quant_concept
+description: Explore the significance and applications of the Cboe SKEW Index in algorithmic
+  trading to understand market volatility and risk prediction. This comprehensive
+  guide examines how the SKEW Index can enhance trading strategies by identifying
+  potential market shifts and tail-risks, offering essential insights into investor
+  sentiment and market dynamics. Discover the role of skewness and volatility in market
+  forecasts and learn how to integrate this index into trading systems for improved
+  risk management and decision-making within the ever-evolving financial landscape.
+title: Cboe SKEW Index and Its Predictive Value (Algo Trading)
 ---
 
 The financial world is characterized by its inherent uncertainties and complexities, necessitating the use of sophisticated tools and indices to gauge and predict risks. Among these tools, the Cboe SKEW Index holds a pivotal role in understanding potential tail-risks, which refer to the risk of extreme changes in market prices. The Cboe SKEW Index offers insight into how such risks are perceived by the market participants.

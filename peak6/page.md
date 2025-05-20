@@ -1,6 +1,8 @@
 ---
-title: "Peak6 (Algo Trading)"
-description: "Explore how Peak6 revolutionizes algo trading with innovative strategies using AI and big data to enhance performance and navigate dynamic market conditions."
+category: quant_concept
+description: Explore how Peak6 revolutionizes algo trading with innovative strategies
+  using AI and big data to enhance performance and navigate dynamic market conditions.
+title: Peak6 (Algo Trading)
 ---
 
 As technology continues to advance, algorithmic trading has become a focal point in the financial world due to its efficiency and precision. Algorithmic trading employs sophisticated algorithms to automate trading decisions, enabling traders to execute orders at speeds and frequencies impractical for human traders. Utilizing vast amounts of data and complex mathematical models, algorithmic trading enhances decision-making processes by offering consistency and minimizing human error.

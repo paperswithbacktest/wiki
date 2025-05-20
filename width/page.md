@@ -1,7 +1,8 @@
 ---
-title: Balancing Width And Depth For Optimal Neural Network Performance
+category: quant_concept
 description: Neural network width influences training time and model generalization
   by finding the right balance of neurons for better performance Discover more inside
+title: Balancing Width And Depth For Optimal Neural Network Performance
 ---
 
 ![Image](images/1.jpeg)

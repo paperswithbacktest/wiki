@@ -1,6 +1,8 @@
 ---
-title: "Tap Issue in Finance (Algo Trading)"
-description: "Explore the crucial roles of tap issues and algorithmic trading in finance. Discover their impacts on liquidity, market dynamics, and investor strategies."
+category: quant_concept
+description: Explore the crucial roles of tap issues and algorithmic trading in finance.
+  Discover their impacts on liquidity, market dynamics, and investor strategies.
+title: Tap Issue in Finance (Algo Trading)
 ---
 
 The financial world is a vast and intricate landscape where various instruments, methodologies, and strategies converge, shaping the decision-making processes for investors and financial professionals. Navigating this complex environment requires a solid understanding of finance securities, capital markets, and trading strategies, as these elements form the backbone of modern financial systems.

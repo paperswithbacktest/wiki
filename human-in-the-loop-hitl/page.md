@@ -1,7 +1,8 @@
 ---
-title: Human In The Loop Enhances Machine Learning Model Performance
+category: quant_concept
 description: Human In The Loop integrates expert feedback into machine learning workflows
   to boost accuracy and reliability in real time Discover more inside.
+title: Human In The Loop Enhances Machine Learning Model Performance
 ---
 
 ![Image](images/1.jpeg)

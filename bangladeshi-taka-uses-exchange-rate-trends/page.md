@@ -1,6 +1,8 @@
 ---
-title: "Bangladeshi Taka: Uses and Exchange Rate Trends (Algo Trading)"
-description: "Explore Bangladeshi Taka trends in exchange rates with a focus on algorithmic trading Understand how BDT is influenced by economic and global factors"
+category: dataset
+description: Explore Bangladeshi Taka trends in exchange rates with a focus on algorithmic
+  trading Understand how BDT is influenced by economic and global factors
+title: 'Bangladeshi Taka: Uses and Exchange Rate Trends (Algo Trading)'
 ---
 
 The Bangladeshi Taka (BDT) serves as the official currency of Bangladesh, playing a crucial role in the global currency exchange market. As an emerging market currency, the BDT's valuation is of significant interest to investors and traders worldwide. Understanding currency trends, such as those involving the Taka, is essential for market participants aiming to make informed financial decisions, hedge risks, and capitalize on exchange rate fluctuations.

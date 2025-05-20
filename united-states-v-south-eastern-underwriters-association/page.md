@@ -1,6 +1,9 @@
 ---
-title: "United States v. South-Eastern Underwriters Association (Algo Trading)"
-description: "Dive into the pivotal United States v South-Eastern Underwriters Association case that reshaped antitrust laws in insurance, intersecting with modern algo trading challenges."
+category: quant_concept
+description: Dive into the pivotal United States v South-Eastern Underwriters Association
+  case that reshaped antitrust laws in insurance, intersecting with modern algo trading
+  challenges.
+title: United States v. South-Eastern Underwriters Association (Algo Trading)
 ---
 
 Antitrust laws play a crucial role in maintaining competitive markets in the United States by preventing monopolistic practices and fostering an environment where innovation and fair competition can thrive. These laws, established over a century ago, aim to protect consumers and ensure a dynamic marketplace across various sectors. Among the many significant legal battles that have shaped the understanding and application of antitrust regulations, the landmark case of United States v. South-Eastern Underwriters Association stands out as a pivotal moment in the regulation of the insurance industry. 

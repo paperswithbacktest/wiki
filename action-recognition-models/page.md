@@ -1,7 +1,8 @@
 ---
-title: Advancing Action Recognition Models in Machine Learning
+category: quant_concept
 description: Action recognition models use neural networks to decode human movements
   in videos with motion disentanglement and temporal analysis Discover more inside
+title: Advancing Action Recognition Models in Machine Learning
 ---
 
 ![Image](images/1.png)

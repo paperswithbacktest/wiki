@@ -1,6 +1,9 @@
 ---
-title: "Greek Drachma: History and Overview (Algo Trading)"
-description: "Explore the profound history of the Greek Drachma from ancient times to its replacement by the euro in 2001 and the role of algorithmic trading in currency markets."
+category: quant_concept
+description: Explore the profound history of the Greek Drachma from ancient times
+  to its replacement by the euro in 2001 and the role of algorithmic trading in currency
+  markets.
+title: 'Greek Drachma: History and Overview (Algo Trading)'
 ---
 
 The drachma, one of the world's oldest currencies, has deep roots in Greek history, dating back to ancient times when it served as a fundamental unit of exchange among Greek city-states. Renowned for its significance during the era of ancient Greece, the drachma symbolized economic strength and cultural identity for centuries. As Greece emerged from the clutches of the Ottoman Empire in the 19th century, the drachma was revived as the new national currency, marking the country's economic rebirth.

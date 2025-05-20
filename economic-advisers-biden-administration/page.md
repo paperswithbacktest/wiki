@@ -1,6 +1,9 @@
 ---
-title: "Economic Advisers of the Biden Administration (Algo Trading)"
-description: "Explore how the Biden Administration's economic policies intersect with the rise of algorithmic trading highlighting their impacts on market dynamics and economic stability."
+category: quant_concept
+description: Explore how the Biden Administration's economic policies intersect with
+  the rise of algorithmic trading highlighting their impacts on market dynamics and
+  economic stability.
+title: Economic Advisers of the Biden Administration (Algo Trading)
 ---
 
 The Biden Administration's economic team is of paramount importance in shaping the United States' economic landscape. This team comprises economists and policymakers whose collective expertise influences the economic policies that address current and future challenges. Economic advisers play a pivotal role in crafting strategic solutions to achieve national fiscal goals, stimulate growth, and maintain economic stability. They provide insights and recommendations on issues such as inflation control, employment, fiscal stimulus, and trade policies, ensuring that the administration's economic strategies are well-informed and effectively implemented.

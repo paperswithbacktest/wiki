@@ -1,6 +1,9 @@
 ---
-title: "Comparison of Geometric and Arithmetic Means (Algo Trading)"
-description: "Explore the significance of geometric and arithmetic means in algorithmic trading Understand how these statistical tools optimize strategies and enhance portfolio performance"
+category: quant_concept
+description: Explore the significance of geometric and arithmetic means in algorithmic
+  trading Understand how these statistical tools optimize strategies and enhance portfolio
+  performance
+title: Comparison of Geometric and Arithmetic Means (Algo Trading)
 ---
 
 Algorithmic trading employs computer algorithms and automated processes to execute trades in financial markets. The primary advantage of this approach is its ability to analyze vast amounts of market data rapidly, making informed decisions that human traders would struggle to match. Central to this analytical power are statistical measures and mathematical models, which provide the foundation for interpreting data and predicting market movements.

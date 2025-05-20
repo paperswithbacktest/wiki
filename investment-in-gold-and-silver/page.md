@@ -1,6 +1,12 @@
 ---
-title: "Investment in Gold and Silver (Algo Trading)"
-description: "Explore how investing in gold and silver serves as a stable hedge against economic uncertainty and market volatility. This article investigates into the integration of precious metals into algorithmic trading strategies, highlighting their role in portfolio diversification and risk mitigation. Discover investment vehicles from physical ownership to advanced financial instruments and the technological advancements revolutionizing precious metals trading."
+category: trading_strategy
+description: Explore how investing in gold and silver serves as a stable hedge against
+  economic uncertainty and market volatility. This article investigates into the integration
+  of precious metals into algorithmic trading strategies, highlighting their role
+  in portfolio diversification and risk mitigation. Discover investment vehicles from
+  physical ownership to advanced financial instruments and the technological advancements
+  revolutionizing precious metals trading.
+title: Investment in Gold and Silver (Algo Trading)
 ---
 
 Precious metals, notably silver and gold, have served as foundational investment assets owing to their intrinsic properties and historical significance. These metals have been utilized as currency and symbols of wealth across various civilizations due to their intrinsic value, limited supply, and physical durability. Unlike fiat currencies, which can be subject to inflationary pressures and governmental policy changes, silver and gold possess inherent stability that appeals to investors seeking long-term security.

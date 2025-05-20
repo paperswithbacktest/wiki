@@ -1,6 +1,8 @@
 ---
-title: "Criticism of the Hodrick-Prescott Filter (Algo Trading)"
-description: "Explore criticisms of the Hodrick-Prescott Filter used in macroeconomics emphasizing its limitations in algorithmic trading and real-time data processing."
+category: quant_concept
+description: Explore criticisms of the Hodrick-Prescott Filter used in macroeconomics
+  emphasizing its limitations in algorithmic trading and real-time data processing.
+title: Criticism of the Hodrick-Prescott Filter (Algo Trading)
 ---
 
 Economic analysis plays a crucial role in understanding and predicting economic behaviors by examining various economic activities and trends. Central to this analysis are filtering techniques, which are applied to differentiate and extract underlying patterns from noisy data. These techniques enable economists to focus on long-term trends by removing short-term fluctuations, thereby facilitating a clearer interpretation of economic conditions.

@@ -1,6 +1,14 @@
 ---
-title: "Portfolio oversight (Algo Trading)"
-description: Portfolio oversight in algorithmic trading is crucial for managing the complexities associated with executing high-speed trades. This article discusses the need for effective oversight to ensure trading activities align with organizational goals, mitigate risks, and comply with regulatory frameworks. It reviews strategies for oversight implementation, highlights the role of regulatory bodies like the FCA and SEC, and explores future developments in the field. The content aims to emphasize the importance of robust oversight in maintaining market integrity and enhancing trust in the algorithmic trading landscape.
+category: trading_strategy
+description: Portfolio oversight in algorithmic trading is crucial for managing the
+  complexities associated with executing high-speed trades. This article discusses
+  the need for effective oversight to ensure trading activities align with organizational
+  goals, mitigate risks, and comply with regulatory frameworks. It reviews strategies
+  for oversight implementation, highlights the role of regulatory bodies like the
+  FCA and SEC, and explores future developments in the field. The content aims to
+  emphasize the importance of robust oversight in maintaining market integrity and
+  enhancing trust in the algorithmic trading landscape.
+title: Portfolio oversight (Algo Trading)
 ---
 
 Algorithmic trading has become a fundamental component of modern financial markets, leveraging computer algorithms to execute high-speed, high-volume trades with precision. This technology enables traders to exploit opportunities in fractions of a second, a speed far beyond human capability. The advent of algorithmic trading has transformed the landscape of trading, offering increased efficiency, reduced costs, and access to diversified investment strategies such as market making, statistical arbitrage, and trend following.

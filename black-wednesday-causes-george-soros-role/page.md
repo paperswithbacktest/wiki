@@ -1,6 +1,14 @@
 ---
-title: "Black Wednesday: Causes and George Soros's Role (Algo Trading)"
-description: "Explore the causes and impact of Black Wednesday when the British pound collapsed, prompting the UK's exit from the European Exchange Rate Mechanism in 1992. Delve into George Soros's pivotal role, where his strategic short selling of the pound resulted in significant profits and earned him the title \"the man who broke the Bank of England.\" Learn about the rise of algorithmic trading and its ongoing influence on financial markets. Discover how these events reshaped monetary policies and the challenges faced by governments in maintaining fixed exchange rates amidst market pressures."
+category: quant_concept
+description: Explore the causes and impact of Black Wednesday when the British pound
+  collapsed, prompting the UK's exit from the European Exchange Rate Mechanism in
+  1992. Delve into George Soros's pivotal role, where his strategic short selling
+  of the pound resulted in significant profits and earned him the title "the man who
+  broke the Bank of England." Learn about the rise of algorithmic trading and its
+  ongoing influence on financial markets. Discover how these events reshaped monetary
+  policies and the challenges faced by governments in maintaining fixed exchange rates
+  amidst market pressures.
+title: 'Black Wednesday: Causes and George Soros''s Role (Algo Trading)'
 ---
 
 The financial world has witnessed numerous crises, but few match the intensity of Black Wednesday. On September 16, 1992, the British pound dramatically collapsed, compelling the United Kingdom to exit the European Exchange Rate Mechanism (ERM). The ERM was a European economic strategy aimed at reducing exchange rate variability and achieving monetary stability in preparation for the Economic and Monetary Union and the eventual adoption of the euro currency. The collapse of the pound on this day was not just a significant economic event but is also linked closely to George Soros, a prominent financier and hedge fund manager. During this period, Soros was managing the Quantum Fund, a hedge fund known for its bold trading strategies.

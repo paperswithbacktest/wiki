@@ -1,6 +1,8 @@
 ---
-title: "Order Flow Prediction (Algo Trading)"
-description: "Discover how order flow prediction in algorithmic trading enables foresight into market dynamics improving strategy profitability and reducing risk exposure."
+category: quant_concept
+description: Discover how order flow prediction in algorithmic trading enables foresight
+  into market dynamics improving strategy profitability and reducing risk exposure.
+title: Order Flow Prediction (Algo Trading)
 ---
 
 Order flow prediction is a pivotal concept in algorithmic trading, offering traders the ability to foresee the direction and magnitude of future orders in the market. By understanding the dynamics of order flow, traders can gain significant insights into the underlying behavior and intentions of market participants. This article explores order flow prediction, its advantages, and the methodologies employed to make these predictions.

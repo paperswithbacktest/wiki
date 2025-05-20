@@ -1,6 +1,9 @@
 ---
-title: "Evaluating the Risks and Benefits of Using Loans for Investment (Algo Trading)"
-description: "Explore the complexities of using loans for investment and the role of algo trading in enhancing returns. Understand both risks and benefits for informed decisions."
+category: trading_strategy
+description: Explore the complexities of using loans for investment and the role of
+  algo trading in enhancing returns. Understand both risks and benefits for informed
+  decisions.
+title: Evaluating the Risks and Benefits of Using Loans for Investment (Algo Trading)
 ---
 
 In the evolving world of finance, investment loans represent a strategic opportunity for investors seeking to enhance their potential returns. The dynamic interplay of borrowing, investing, and algorithmic trading is explored by both seasoned and novice traders alike. Investment loans are a financial tool often pursued by individuals aiming to leverage borrowed capital in order to amplify their investment portfolios. This approach, while promising the potential for increased returns, requires thorough understanding and careful planning due to its inherent risks.

@@ -1,6 +1,8 @@
 ---
-title: "Hard Dollars (Algo Trading)"
-description: "Understand hard dollars and their key role in algorithmic trading. Explore how direct payments enhance transparency, efficiency, and regulatory compliance."
+category: quant_concept
+description: Understand hard dollars and their key role in algorithmic trading. Explore
+  how direct payments enhance transparency, efficiency, and regulatory compliance.
+title: Hard Dollars (Algo Trading)
 ---
 
 In today's highly competitive financial markets, understanding various payment structures is crucial for effective trading and investing. Payment structures define how financial services are compensated, which in turn influences the strategies and decisions of market participants. Among these structures, 'hard dollars' play a significant role, particularly within algorithmic trading.

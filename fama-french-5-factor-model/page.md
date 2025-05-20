@@ -1,9 +1,14 @@
 ---
-title: "Fama French 5 Factor Model and Algo Trading"
-description: Explore the Fama French 5 Factor Model, an extension of the original 3-factor model, designed to offer a more comprehensive explanation of stock returns. By incorporating profitability and investment factors alongside market risk, size, and value, the model enhances portfolio analysis and asset pricing. Learn about its historical context, methodology, real-world applications, and its significance in modern financial theory. Ideal for asset managers and researchers seeking deeper insights into equity returns and risk management in diverse markets.
+category: quant_concept
+description: Explore the Fama French 5 Factor Model, an extension of the original
+  3-factor model, designed to offer a more comprehensive explanation of stock returns.
+  By incorporating profitability and investment factors alongside market risk, size,
+  and value, the model enhances portfolio analysis and asset pricing. Learn about
+  its historical context, methodology, real-world applications, and its significance
+  in modern financial theory. Ideal for asset managers and researchers seeking deeper
+  insights into equity returns and risk management in diverse markets.
+title: Fama French 5 Factor Model and Algo Trading
 ---
-
-
 
 The Fama French 5 Factor Model is an extension of the original 3-factor model, which was developed by Eugene F. Fama and Kenneth R. French in the early 1990s. The original model expanded on the Capital Asset Pricing Model (CAPM) by adding two factors—size and value—to the market risk factor. It was an influential advancement, significantly improving the explanation of portfolio returns.
 

@@ -1,6 +1,8 @@
 ---
-title: "Chart of Accounts: Overview and Functionality (Algo Trading)"
-description: "Discover the crucial role of a Chart of Accounts in financial management and algorithmic trading, enhancing clarity in reporting and decision-making."
+category: quant_concept
+description: Discover the crucial role of a Chart of Accounts in financial management
+  and algorithmic trading, enhancing clarity in reporting and decision-making.
+title: 'Chart of Accounts: Overview and Functionality (Algo Trading)'
 ---
 
 In today's dynamic business landscape, maintaining an organized and efficient financial structure is crucial for any company's success. A well-structured financial framework not only ensures regulatory compliance but also enhances decision-making capabilities by providing stakeholders with clear and accurate financial insights. A fundamental component of this structure is the Chart of Accounts (COA), a tool that provides a detailed listing of every financial account in the general ledger. This comprehensive listing is essential for accurately categorizing and recording financial transactions, allowing for precise tracking of assets, liabilities, revenues, and expenses.

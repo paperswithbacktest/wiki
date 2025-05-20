@@ -1,6 +1,8 @@
 ---
-title: "Net Sales and Calculation (Algo Trading)"
-description: "Explore the dynamic link between net sales and algorithmic trading in finance. Learn to assess company performance and optimize trading strategies efficiently."
+category: quant_concept
+description: Explore the dynamic link between net sales and algorithmic trading in
+  finance. Learn to assess company performance and optimize trading strategies efficiently.
+title: Net Sales and Calculation (Algo Trading)
 ---
 
 In the fast-paced world of finance, the interaction between financial calculations, net sales, and algorithmic trading has become increasingly crucial. Financial calculations serve as the backbone for various analytical processes, providing insights into a company's performance, profitability, and operational efficiency. These calculations often involve critical metrics, such as net sales, which encapsulates the true revenue potential of a business after accounting for customer returns, allowances, and discounts.

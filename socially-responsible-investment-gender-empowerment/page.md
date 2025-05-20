@@ -1,6 +1,9 @@
 ---
-title: "Socially Responsible Investment in Gender Empowerment (Algo Trading)"
-description: "Explore the fusion of sustainable finance algorithmic trading and gender empowerment to understand how socially responsible investing can drive equality and innovation."
+category: trading_strategy
+description: Explore the fusion of sustainable finance algorithmic trading and gender
+  empowerment to understand how socially responsible investing can drive equality
+  and innovation.
+title: Socially Responsible Investment in Gender Empowerment (Algo Trading)
 ---
 
 The intersection between finance and social responsibility has led to the emergence of innovative investment strategies that address the pressing challenges of today. This article examines sustainable finance, socially responsible investment (SRI), gender empowerment, and algorithmic trading to understand their roles in fostering a more equitable and sustainable financial ecosystem. 

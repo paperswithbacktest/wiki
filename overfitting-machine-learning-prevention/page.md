@@ -1,6 +1,8 @@
 ---
-title: "Overfitting in Machine Learning and Prevention Methods (Algo Trading)"
-description: "Discover effective techniques to prevent overfitting in algorithmic trading models ensuring robust performance in dynamic market conditions for lasting success."
+category: quant_concept
+description: Discover effective techniques to prevent overfitting in algorithmic trading
+  models ensuring robust performance in dynamic market conditions for lasting success.
+title: Overfitting in Machine Learning and Prevention Methods (Algo Trading)
 ---
 
 In algorithmic trading, the ability to make decisions in fractions of a second is critical, and data modeling is at the heart of optimizing these decisions. A significant challenge in this domain is overfitting, which is prevalent not just in finance, but in any field that relies on data-driven models. Overfitting occurs when a model is tailored so closely to the idiosyncrasies of historical data that it loses its predictive power when applied to new, unseen data. This issue is particularly problematic in financial markets, where models must adapt to ever-changing conditions and noise inherent in the data.

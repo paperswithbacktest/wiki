@@ -1,6 +1,8 @@
 ---
-title: "Cherry Picking in Information and Data Analysis (Algo Trading)"
-description: "Understanding biases like cherry picking and information bias in algorithmic trading is crucial as they can lead to distorted analyses and poor investment decisions."
+category: quant_concept
+description: Understanding biases like cherry picking and information bias in algorithmic
+  trading is crucial as they can lead to distorted analyses and poor investment decisions.
+title: Cherry Picking in Information and Data Analysis (Algo Trading)
 ---
 
 In the rapidly evolving landscape of data-driven decision-making and algorithmic trading, understanding biases such as cherry-picking and information bias is crucial. These biases, if unrecognized, can lead to distorted analysis and suboptimal outcomes in trading strategies. Cherry picking occurs when data points that support a certain hypothesis or desired outcome are selectively chosen, while contradictory data is ignored. This can create a skewed representation of reality, leading to misguided trading decisions. Information bias, on the other hand, refers to systematic distortions that arise in the data collection or reporting phase, impacting the integrity of the analysis.

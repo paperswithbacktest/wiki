@@ -1,6 +1,8 @@
 ---
-title: "Comparison of Drawdowns in Banking and Trading (Algo Trading)"
-description: "Explore drawdowns in banking and trading to enhance risk management. Learn their significance in financial sectors to ensure stability and informed decisions."
+category: quant_concept
+description: Explore drawdowns in banking and trading to enhance risk management.
+  Learn their significance in financial sectors to ensure stability and informed decisions.
+title: Comparison of Drawdowns in Banking and Trading (Algo Trading)
 ---
 
 Understanding the concept of drawdowns is critical across various financial sectors, as they play a pivotal role in financial risk management and decision-making processes. In trading, banking, and algorithmic trading, the ability to assess and respond to drawdowns is fundamental to maintaining financial health and achieving long-term success. Drawdowns represent the reductions from peak values and provide insights into the volatility and risk of investments or financial products. 

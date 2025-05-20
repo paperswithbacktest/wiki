@@ -1,6 +1,13 @@
 ---
-title: "Identifying and Reporting Cryptocurrency Scams (Algo Trading)"
-description: "Explore the world of cryptocurrency and algorithmic trading while learning how to identify and report scams. Understand the decentralized nature and security features of digital currencies as well as the benefits and risks of algorithmic trading. This article guides you through recognizing common crypto scams, such as Ponzi schemes and fraudulent ICOs, and implementing fraud prevention measures. Gain insights into the regulatory landscape and community efforts to enhance trading safety and protect your investments."
+category: trading_strategy
+description: Explore the world of cryptocurrency and algorithmic trading while learning
+  how to identify and report scams. Understand the decentralized nature and security
+  features of digital currencies as well as the benefits and risks of algorithmic
+  trading. This article guides you through recognizing common crypto scams, such as
+  Ponzi schemes and fraudulent ICOs, and implementing fraud prevention measures. Gain
+  insights into the regulatory landscape and community efforts to enhance trading
+  safety and protect your investments.
+title: Identifying and Reporting Cryptocurrency Scams (Algo Trading)
 ---
 
 The landscape of finance is undergoing a significant transformation with the rising popularity of cryptocurrency and algorithmic trading. Cryptocurrencies, digital or virtual currencies secured by cryptography, offer a novel approach to traditional financial systems. Unlike conventional currencies, cryptocurrencies operate on decentralized networks based on blockchain technology, offering transparency and security. As the adoption of cryptocurrencies grows, so too does the interest in algorithmic trading, where computer algorithms execute trades at high speeds and volumes, capitalizing on market inefficiencies and opportunities.

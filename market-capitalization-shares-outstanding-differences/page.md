@@ -1,6 +1,8 @@
 ---
-title: "Market Capitalization and Shares Outstanding: Differences (Algo Trading)"
-description: "Learn the key differences between market capitalization and shares outstanding along with the role of algorithmic trading in making informed investment decisions."
+category: quant_concept
+description: Learn the key differences between market capitalization and shares outstanding
+  along with the role of algorithmic trading in making informed investment decisions.
+title: 'Market Capitalization and Shares Outstanding: Differences (Algo Trading)'
 ---
 
 In the world of finance, understanding key terminology is crucial for making informed investment decisions. This article focuses on essential financial terms such as market capitalization, shares outstanding, and algorithmic trading. Mastery of these concepts is vital for investors aiming to navigate financial markets effectively and optimize their investment strategies. We will explore the meanings of these terms and their significance in today's fast-paced financial environment.

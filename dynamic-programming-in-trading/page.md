@@ -1,6 +1,8 @@
 ---
-title: "dynamic programming in trading (Algo Trading)"
-description: "Explore how dynamic programming transforms algorithmic trading by optimizing strategies to maximize returns and manage risks effectively in volatile markets."
+category: quant_concept
+description: Explore how dynamic programming transforms algorithmic trading by optimizing
+  strategies to maximize returns and manage risks effectively in volatile markets.
+title: dynamic programming in trading (Algo Trading)
 ---
 
 Dynamic programming is a mathematical optimization approach that has proven indispensable in algorithmic trading, aiding in the development of strategies designed to maximize returns and manage risks effectively. This technique involves decomposing complex problems into more manageable subproblems, solving each subproblem once, and storing their solutions to avoid unnecessary recomputation. By leveraging this approach, traders can enhance computational efficiency and focus on deriving optimal strategies.
@@ -136,4 +138,4 @@ To harness the full potential of dynamic programming in trading, practitioners a
 
 [9]: LYNX Trading. (n.d.). ["Algorithmic Trading with LYNX."](https://brokerchooser.com/broker-reviews/lynx-review) 
 
-[10]: QuantConnect. (n.d.). ["Algorithmic Trading and Backtesting Platform."](https://www.quantconnect.com/splash) 
+[10]: QuantConnect. (n.d.). ["Algorithmic Trading and Backtesting Platform."](https://www.quantconnect.com/splash)

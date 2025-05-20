@@ -1,6 +1,8 @@
 ---
-title: "CRM2: Meaning, Functionality, and Impact (Algo Trading)"
-description: "Explore the role of CRM2 in Canadian financial markets focusing on investment disclosure and its impact on algorithmic trading strategies and transparency."
+category: quant_concept
+description: Explore the role of CRM2 in Canadian financial markets focusing on investment
+  disclosure and its impact on algorithmic trading strategies and transparency.
+title: 'CRM2: Meaning, Functionality, and Impact (Algo Trading)'
 ---
 
 Understanding financial regulations is crucial for every investor and advisor. In the dynamic environment of financial markets, regulations serve as a foundational pillar, guiding behavior and ensuring market integrity. Among these regulatory measures, the Client Relationship Model 2 (CRM2) in Canada plays a pivotal role by significantly impacting investment disclosure. Introduced by the Canadian Securities Administrators (CSA), CRM2 aims to enhance transparency between investment advisors and clients. By mandating clear and detailed reporting on investment costs and performance, CRM2 empowers investors to make informed decisions, thus fostering trust and accountability within the financial sector.

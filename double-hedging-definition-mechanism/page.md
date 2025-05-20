@@ -1,6 +1,8 @@
 ---
-title: "Double Hedging: Definition and Mechanism (Algo Trading)"
-description: "Explore the intricate concept of double hedging and how algorithmic trading enhances risk management by efficiently mitigating adverse price movements."
+category: quant_concept
+description: Explore the intricate concept of double hedging and how algorithmic trading
+  enhances risk management by efficiently mitigating adverse price movements.
+title: 'Double Hedging: Definition and Mechanism (Algo Trading)'
 ---
 
 In the intricate landscape of financial markets, effectively managing risk is paramount for traders and investors. One advanced technique that offers a comprehensive approach to risk mitigation is "double hedging." Double hedging involves holding offsetting positions in different markets to protect investments against adverse price movements, thus acting as a robust mechanism for preserving capital.

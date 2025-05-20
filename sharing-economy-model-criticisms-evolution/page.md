@@ -1,6 +1,9 @@
 ---
-title: "Sharing Economy: Model, Criticisms, and Evolution (Algo Trading)"
-description: "Explore the evolving dynamics of the sharing economy and its integration with algorithmic trading Revolutionizing access and efficiency through technology and innovation"
+category: quant_concept
+description: Explore the evolving dynamics of the sharing economy and its integration
+  with algorithmic trading Revolutionizing access and efficiency through technology
+  and innovation
+title: 'Sharing Economy: Model, Criticisms, and Evolution (Algo Trading)'
 ---
 
 The sharing economy represents a paradigm shift in traditional economic models, creating innovative avenues for individuals to access goods and services without the necessity of ownership. This model is exemplified by platforms such as Uber and Airbnb, which have transformed ride-sharing and short-term rentals, thereby providing greater efficiency and accessibility for users. By leveraging digital platforms, the sharing economy enhances resource utilization, broadening consumer access to diverse services and products.

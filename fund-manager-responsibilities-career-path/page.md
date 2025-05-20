@@ -1,6 +1,9 @@
 ---
-title: "Fund Manager: Responsibilities and Career Path (Algo Trading)"
-description: "Explore the responsibilities and career path of fund managers in algorithmic trading as they navigate dynamic markets utilizing technology to optimize investment strategies."
+category: trading_strategy
+description: Explore the responsibilities and career path of fund managers in algorithmic
+  trading as they navigate dynamic markets utilizing technology to optimize investment
+  strategies.
+title: 'Fund Manager: Responsibilities and Career Path (Algo Trading)'
 ---
 
 A fund manager is a financial professional responsible for managing investment portfolios on behalf of clients. This role is pivotal in the financial sector as fund managers make decisions about asset allocation and investment strategy to optimize returns while mitigating risks. Their expertise helps clients, ranging from individual investors to large institutions, achieve their financial objectives.

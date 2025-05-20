@@ -1,6 +1,8 @@
 ---
-title: "Electricity Trading Overview (Algo Trading)"
-description: "Explore the complexities of electricity trading markets and the rising impact of algorithmic trading on grid stability and renewable energy integration."
+category: quant_concept
+description: Explore the complexities of electricity trading markets and the rising
+  impact of algorithmic trading on grid stability and renewable energy integration.
+title: Electricity Trading Overview (Algo Trading)
 ---
 
 Power exchange energy markets are dynamic and complex structures designed for the trading of electricity. These markets, while bearing resemblance to financial markets, have distinct characteristics shaped by the intrinsic nature of electricity as a commodity. Unlike traditional commodities, electricity presents unique challenges due to its inability to be stored economically on a large scale. As a result, electricity markets must perpetually achieve a real-time balance between supply and demand to maintain grid stability and ensure continuous service delivery.

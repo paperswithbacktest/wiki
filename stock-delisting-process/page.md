@@ -1,6 +1,8 @@
 ---
-title: "Stock Delisting and Its Process (Algo Trading)"
-description: "Explore the complexities of stock delisting and how it impacts investors' ability to trade shares while adapting with algorithmic trading for strategic advantage."
+category: quant_concept
+description: Explore the complexities of stock delisting and how it impacts investors'
+  ability to trade shares while adapting with algorithmic trading for strategic advantage.
+title: Stock Delisting and Its Process (Algo Trading)
 ---
 
 The financial markets are a hub of activity, where billions of transactions occur daily, involving the buying and selling of a vast array of securities. These dynamic environments facilitate the mobilization of capital and serve as the lifeblood for economies globally. Integral to the functioning of these markets is the listing and subsequent delisting of stocks. Listing involves a company offering its shares to the public through an exchange, enabling investors to buy and sell these shares. Conversely, stock delisting, an equally significant event, entails the removal of a company's shares from a stock exchange, affecting both the company and its investors.

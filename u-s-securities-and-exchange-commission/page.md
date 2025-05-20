@@ -1,6 +1,9 @@
 ---
-title: "U.S. Securities and Exchange Commission (Algo Trading)"
-description: "Explore the SEC's role in regulating algorithmic trading, ensuring market efficiency and stability while addressing the rapidly evolving tech-driven financial landscape."
+category: quant_concept
+description: Explore the SEC's role in regulating algorithmic trading, ensuring market
+  efficiency and stability while addressing the rapidly evolving tech-driven financial
+  landscape.
+title: U.S. Securities and Exchange Commission (Algo Trading)
 ---
 
 The U.S. Securities and Exchange Commission (SEC) functions as the primary regulator of securities markets in the United States. Its mission is to safeguard investors, ensure that markets are fair, orderly, and efficient, and assist in capital formation. Central to the SEC's regulatory mandate is the oversight of trading practices, particularly with the rise of algorithmic trading methodologies that leverage automation and predefined instructions to execute trades.

@@ -1,6 +1,9 @@
 ---
-title: "Kairi Relative Index (Algo Trading)"
-description: "Explore the Kairi Relative Index and its role in algorithmic trading Learn how this technical analysis tool can enhance your trading strategy with programmatic insights"
+category: trading_strategy
+description: Explore the Kairi Relative Index and its role in algorithmic trading
+  Learn how this technical analysis tool can enhance your trading strategy with programmatic
+  insights
+title: Kairi Relative Index (Algo Trading)
 ---
 
 The Kairi Relative Index (KRI) serves as an essential tool in the field of technical analysis, offering traders a method to evaluate potential buying and selling opportunities within the market. By providing a quantitative measure of asset price deviation from its simple moving average (SMA), the KRI aids in identifying overbought or oversold conditions, a crucial aspect for making informed trading decisions.

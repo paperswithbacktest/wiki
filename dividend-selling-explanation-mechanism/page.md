@@ -1,6 +1,9 @@
 ---
-title: "Dividend Selling: Explanation and Mechanism (Algo Trading)"
-description: "Explore the synergy of dividend investing and algorithmic trading to optimize your portfolio. Learn strategies for enhanced returns and disciplined investment processes."
+category: quant_concept
+description: Explore the synergy of dividend investing and algorithmic trading to
+  optimize your portfolio. Learn strategies for enhanced returns and disciplined investment
+  processes.
+title: 'Dividend Selling: Explanation and Mechanism (Algo Trading)'
 ---
 
 The landscape of stock market investments is rapidly evolving, driven largely by the advancements in technology and the emergence of innovative strategies. In contemporary financial markets, dividend investing and algorithmic trading are two strategies that have garnered significant attention. Each provides unique opportunities and benefits for investors. Dividend investing focuses on acquiring shares of companies that distribute a portion of their profits to shareholders, offering the dual advantage of regular income and potential capital appreciation. On the other hand, algorithmic trading utilizes computer algorithms to execute trades at speeds and frequencies impossible for a human trader. This method seeks to exploit market inefficiencies and trends through automation and quantitative analysis.
@@ -175,4 +178,3 @@ Ultimately, the goal is to achieve a balance between risk and reward. While the 
    - [Khan Academy: Finance and Capital Markets](https://www.khanacademy.org/economics-finance-domain/core-finance/stock-and-bond): Offers excellent free resources to understand the foundational concepts of stock markets, including dividend policies.
 
 These resources provide a comprehensive framework for understanding and implementing strategies in dividend investing and algorithmic trading, advancing your knowledge and practical skills in the stock market domain.
-

@@ -1,7 +1,8 @@
 ---
-title: Understanding Target Networks in Deep Q Network Training
+category: quant_concept
 description: Target Network stabilizes reinforcement learning by providing consistent
   targets in DQN training and boosting reliability over time Discover more inside
+title: Understanding Target Networks in Deep Q Network Training
 ---
 
 ![Image](images/1.png)

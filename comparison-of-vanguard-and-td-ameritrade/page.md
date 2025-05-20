@@ -1,6 +1,9 @@
 ---
-title: "Comparison of Vanguard and TD Ameritrade (Algo Trading)"
-description: "Compare Vanguard and TD Ameritrade for algorithmic trading insights on usability order types costs and the impact of TD Ameritrade's merger with Charles Schwab."
+category: trading_strategy
+description: Compare Vanguard and TD Ameritrade for algorithmic trading insights on
+  usability order types costs and the impact of TD Ameritrade's merger with Charles
+  Schwab.
+title: Comparison of Vanguard and TD Ameritrade (Algo Trading)
 ---
 
 The modern investment landscape is characterized by a broad array of platforms, each offering distinct features and advantages tailored to various types of investors. Among the most prominent in this evolving market are Vanguard and TD Ameritrade, platforms celebrated for their comprehensive investment solutions. This article offers a comparison between Vanguard and TD Ameritrade, emphasizing their capabilities in algorithmic trading.

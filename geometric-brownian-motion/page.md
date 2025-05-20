@@ -1,6 +1,13 @@
 ---
-title: "Geometric Brownian Motion Explained (Algo Trading)"
-description: Discover the role of Geometric Brownian Motion in algorithmic trading as this article investigates into its applications for modeling stock prices and optimizing trading strategies. Understand how GBM aids in forecasting asset returns and assesses market volatility within automated trading frameworks, alongside its impact on trading outcomes. Learn about the advantages and limitations of GBM and explore emerging trends in its application while gaining insights into the integration of this mathematical model in the financial market.
+category: quant_concept
+description: Discover the role of Geometric Brownian Motion in algorithmic trading
+  as this article investigates into its applications for modeling stock prices and
+  optimizing trading strategies. Understand how GBM aids in forecasting asset returns
+  and assesses market volatility within automated trading frameworks, alongside its
+  impact on trading outcomes. Learn about the advantages and limitations of GBM and
+  explore emerging trends in its application while gaining insights into the integration
+  of this mathematical model in the financial market.
+title: Geometric Brownian Motion Explained (Algo Trading)
 ---
 
 Geometric Brownian Motion (GBM) is a mathematical model used to describe the stochastic behavior of financial instruments. It is widely used in finance to model stock prices and other financial assets. GBM is defined mathematically as a continuous-time stochastic process, characterized by the differential equation:

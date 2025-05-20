@@ -1,6 +1,9 @@
 ---
-title: "Optimal execution under uncertainty (Algo Trading)"
-description: "Explore optimal execution strategies in algorithmic trading to manage risks and enhance gains amid market volatility and uncertainty. Discover advanced data-driven techniques."
+category: quant_concept
+description: Explore optimal execution strategies in algorithmic trading to manage
+  risks and enhance gains amid market volatility and uncertainty. Discover advanced
+  data-driven techniques.
+title: Optimal execution under uncertainty (Algo Trading)
 ---
 
 Algorithmic trading, a prominent advancement in modern financial markets, has fundamentally transformed how trades are executed by providing unprecedented levels of efficiency and precision. This method leverages complex algorithms and vast computational power to automate trading decisions, minimizing human intervention and error. One particularly crucial aspect of algorithmic trading is optimal execution under uncertainty, which focuses on reducing the costs and risks associated with executing large orders that can significantly impact market prices.

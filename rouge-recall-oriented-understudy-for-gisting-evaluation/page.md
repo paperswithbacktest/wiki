@@ -1,7 +1,8 @@
 ---
-title: Understanding ROUGE Metrics for Text Summarization Evaluation
+category: quant_concept
 description: ROUGE Metrics evaluate summary quality by comparing n-gram overlaps recall
   precision and subsequence matching with human references Discover more inside
+title: Understanding ROUGE Metrics for Text Summarization Evaluation
 ---
 
 ![Image](images/1.jpeg)

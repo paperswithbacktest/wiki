@@ -1,6 +1,9 @@
 ---
-title: "Impact of Public-Private Partnerships on Economic Growth (Algo Trading)"
-description: "Explore the impact of public-private partnerships on economic growth and how they can enhance infrastructure and technology innovations like algorithmic trading."
+category: quant_concept
+description: Explore the impact of public-private partnerships on economic growth
+  and how they can enhance infrastructure and technology innovations like algorithmic
+  trading.
+title: Impact of Public-Private Partnerships on Economic Growth (Algo Trading)
 ---
 
 Public-Private Partnerships (PPPs) have become a crucial strategy for enhancing economic growth by bringing together the strengths of both public and private sectors. These collaborations aim to address critical needs in sectors such as infrastructure, innovation, and technology, where significant investments and efficiencies are required. The effectiveness of PPPs is particularly significant in the modern era, where the demand for robust infrastructure and cutting-edge technology drives progress.

@@ -1,6 +1,9 @@
 ---
-title: "Retractable Preferred Shares: Overview and Functionality (Algo Trading)"
-description: "Explore retractable preferred shares and algorithmic trading to enhance investment strategies with stable income and refined trading efficiencies in dynamic markets."
+category: quant_concept
+description: Explore retractable preferred shares and algorithmic trading to enhance
+  investment strategies with stable income and refined trading efficiencies in dynamic
+  markets.
+title: 'Retractable Preferred Shares: Overview and Functionality (Algo Trading)'
 ---
 
 In the complex world of financial instruments, retractable preferred shares and algorithmic trading play crucial roles, capturing the interest of investors and finance professionals. These two financial components carry distinct features that can significantly influence investment strategies and outcomes.

@@ -1,6 +1,12 @@
 ---
-title: "Trend Reversal Strategy (Algo Trading)"
-description: Explore trend reversal strategies in algorithmic trading to enhance your trading performance by identifying key indicators that mark shifts in price trends. By leveraging moving averages, oscillators, advanced patterns, and machine learning techniques, you'll learn how to effectively integrate trend reversal recognition into your trading systems for improved precision and responsiveness in volatile markets.
+category: trading_strategy
+description: Explore trend reversal strategies in algorithmic trading to enhance your
+  trading performance by identifying key indicators that mark shifts in price trends.
+  By leveraging moving averages, oscillators, advanced patterns, and machine learning
+  techniques, you'll learn how to effectively integrate trend reversal recognition
+  into your trading systems for improved precision and responsiveness in volatile
+  markets.
+title: Trend Reversal Strategy (Algo Trading)
 ---
 
 In the volatile world of financial markets, trend reversals are crucial moments for traders using algorithmic strategies. These reversals signify a change in the direction of a price trend, either from upward to downward or vice versa, which can significantly affect trading outcomes. Recognizing and effectively responding to these reversals can make the difference between profit and loss, particularly for traders who rely on speed and precision in their operations.

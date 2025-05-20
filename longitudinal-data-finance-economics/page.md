@@ -1,6 +1,9 @@
 ---
-title: "Longitudinal Data in Finance and Economics (Algo Trading)"
-description: "Explore how longitudinal data transforms financial forecasting and economic analysis enabling robust algorithmic trading strategies and data-driven decision making."
+category: dataset
+description: Explore how longitudinal data transforms financial forecasting and economic
+  analysis enabling robust algorithmic trading strategies and data-driven decision
+  making.
+title: Longitudinal Data in Finance and Economics (Algo Trading)
 ---
 
 In today's rapidly changing world, data-driven decision making has become a cornerstone of innovation across numerous industries. At the heart of this revolution is the strategic integration of longitudinal data with economic and financial analysis, offering unprecedented opportunities for businesses and policymakers alike. Longitudinal data—characterized by repeated observations of the same entities over time—enables a deeper understanding of temporal dynamics and trends, thus providing a rich foundation for economic insights and financial forecasting.

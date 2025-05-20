@@ -1,6 +1,8 @@
 ---
-title: "Private Investment in Public Equity (Algo Trading)"
-description: "Explore how private investments in public equity shape financial markets and how algorithmic trading transforms these transactions, enhancing profitability."
+category: quant_concept
+description: Explore how private investments in public equity shape financial markets
+  and how algorithmic trading transforms these transactions, enhancing profitability.
+title: Private Investment in Public Equity (Algo Trading)
 ---
 
 Public equity refers to the shares of companies that are available for trading on public stock exchanges. These shares can be bought by individual and institutional investors alike, and they play a vital role in financial markets by facilitating capital flow and allowing companies to raise funds for expansion, research, and development. PIPE (Private Investment in Public Equity) transactions, on the other hand, are deals where private investors acquire equity in publicly traded companies, typically at a discounted rate compared to the market price. This method of financing provides companies with quick access to capital, often in situations where they might not want to or be able to go through the more prolonged process of a traditional public offering.
@@ -127,4 +129,3 @@ This article has explored the critical aspects of public equity, PIPE transactio
 [4]: Aldridge, I. (2010). ["High-Frequency Trading: A Practical Guide to Algorithmic Strategies and Trading Systems"](https://books.google.com/books/about/High_Frequency_Trading.html?id=8QpIsVUMhmEC). Wiley Trading.
 
 [5]: Anson, M. J. P., Chambers, D. R., Black, K. H., & Kazemi, H. (2011). ["Private Equity Essentials"](https://books.google.com/books/about/Alternative_Investments.html?id=RSrfDwAAQBAJ). Wiley Finance.
-

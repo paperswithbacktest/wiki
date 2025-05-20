@@ -1,6 +1,8 @@
 ---
-title: "Origins of Globalization (Algo Trading)"
-description: "Explore the origins of globalization through economic history trade relationships and algorithmic trading Discover how these elements shape the modern world economy."
+category: quant_concept
+description: Explore the origins of globalization through economic history trade relationships
+  and algorithmic trading Discover how these elements shape the modern world economy.
+title: Origins of Globalization (Algo Trading)
 ---
 
 Globalization refers to the process by which economies, societies, and cultures have become interconnected through a worldwide network of trade, communication, technology, and finance. It has significantly shaped the modern world, dismantling geographical and cultural barriers and fostering a more integrated global community. Its influence is evident in various sectors, including economic development, technological advancement, and cultural exchange.

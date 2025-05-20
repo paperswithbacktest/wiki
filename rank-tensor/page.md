@@ -1,10 +1,9 @@
 ---
-title: Understanding Tensor Rank in Machine Learning Frameworks
+category: quant_concept
 description: Tensor Rank defines the number of dimensions a machine learning model
   processes so you can optimize data shapes and operations Discover more inside.
+title: Understanding Tensor Rank in Machine Learning Frameworks
 ---
-
-
 
 ## Table of Contents
 

@@ -1,6 +1,15 @@
 ---
-title: "Ornstein–Uhlenbeck process (Algo Trading)"
-description: The Ornstein–Uhlenbeck process is a pivotal stochastic model in both financial mathematics and physical sciences, known for its mean-reverting behavior. It simulates the velocity of a Brownian particle under friction, providing a framework for modeling financial processes like interest rates and currency exchange rates. The process is defined by a stochastic differential equation, enabling the maintenance of a stationary Gaussian distribution which doesn't alter over time. Its application in algorithmic trading, particularly in pairs trading, highlights its utility in identifying statistical arbitrage opportunities by modeling mean-reverting price spreads.
+category: quant_concept
+description: The Ornstein–Uhlenbeck process is a pivotal stochastic model in both
+  financial mathematics and physical sciences, known for its mean-reverting behavior.
+  It simulates the velocity of a Brownian particle under friction, providing a framework
+  for modeling financial processes like interest rates and currency exchange rates.
+  The process is defined by a stochastic differential equation, enabling the maintenance
+  of a stationary Gaussian distribution which doesn't alter over time. Its application
+  in algorithmic trading, particularly in pairs trading, highlights its utility in
+  identifying statistical arbitrage opportunities by modeling mean-reverting price
+  spreads.
+title: Ornstein–Uhlenbeck process (Algo Trading)
 ---
 
 The Ornstein–Uhlenbeck process is an important stochastic process celebrated both in financial mathematics and physical sciences. Originally formulated in the context of physics, it models the velocity of a Brownian particle subject to friction, capturing the essence of mean reversion towards a long-term mean with purely random fluctuations. This characteristic makes it an ideal candidate for modeling processes in finance that exhibit similar mean-reverting behavior, such as interest rates and currency exchange rates.
@@ -167,4 +176,4 @@ Further research and development continue to expand the process's applicability 
 
 [6]: Cartea, Á., & Figueroa, M. G. (2005). ["Pricing in electricity markets: A mean reverting jump diffusion model with seasonality."](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=592262) Journal of Financial Economics, 78(3), 463-492. 
 
-[7]: [Wilmott, P. (2007). "Paul Wilmott Introduces Quantitative Finance"](https://www.amazon.com/Paul-Wilmott-Introduces-Quantitative-Finance/dp/0470319585) Wiley. 
+[7]: [Wilmott, P. (2007). "Paul Wilmott Introduces Quantitative Finance"](https://www.amazon.com/Paul-Wilmott-Introduces-Quantitative-Finance/dp/0470319585) Wiley.

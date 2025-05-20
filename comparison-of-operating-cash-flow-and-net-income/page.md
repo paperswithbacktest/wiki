@@ -1,6 +1,9 @@
 ---
-title: "Comparison of Operating Cash Flow and Net Income (Algo Trading)"
-description: "Explore the relationship between operating cash flow and net income and their impact on algorithmic trading to enhance investment strategies and financial analysis."
+category: quant_concept
+description: Explore the relationship between operating cash flow and net income and
+  their impact on algorithmic trading to enhance investment strategies and financial
+  analysis.
+title: Comparison of Operating Cash Flow and Net Income (Algo Trading)
 ---
 
 In the rapidly evolving financial landscape, understanding key financial metrics is crucial for both individual investors and large financial institutions. These metrics provide a quantitative basis for making informed investment decisions and evaluating a company's performance. This article explores the intricate relationship between operating cash flow, net income, and algorithmic trading. Operating cash flow (OCF) indicates the cash a company generates from its regular business activities, distinct from other sources of cash like investments or loans. Net income represents the company's total earnings, taking into account all expenses, taxes, and interests; often serving as a primary indicator of profitability.
@@ -147,4 +150,3 @@ Penman, S. (2013). *Financial Statement Analysis and Security Valuation*. This w
 Johnson, B. *Algorithmic Trading and DMA: An Introduction to Direct Access Trading Strategies*. A detailed guide on direct market access and algorithmic trading strategies, this book outlines methods to enhance execution leveraging real-time data and financial metrics. Understanding the synergy between financial statements and trading systems, Johnson's work provides actionable insights for traders aiming to refine their strategies.
 
 These references offer a blend of theoretical and practical perspectives crucial for understanding the integration of operating cash flow and net income with algorithmic trading strategies. They collectively enhance the capability to perform sophisticated financial analysis that can be applied to improve trading decision-making and risk assessment.
-

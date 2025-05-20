@@ -1,7 +1,8 @@
 ---
-title: Latent Variable Sampling and Optimization in Machine Learning
+category: quant_concept
 description: Latent variable sampling improves predictions by inferring hidden factors
   with truncation trick and Polya Gamma augmentation Discover more inside
+title: Latent Variable Sampling and Optimization in Machine Learning
 ---
 
 ![Image](images/1.png)

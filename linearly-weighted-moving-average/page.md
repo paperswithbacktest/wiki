@@ -1,6 +1,8 @@
 ---
-title: "Linearly Weighted Moving Average (Algo Trading)"
-description: "Discover the power of the Linearly Weighted Moving Average in algo trading to enhance precision and response speed in trend identification and market analysis."
+category: quant_concept
+description: Discover the power of the Linearly Weighted Moving Average in algo trading
+  to enhance precision and response speed in trend identification and market analysis.
+title: Linearly Weighted Moving Average (Algo Trading)
 ---
 
 Moving averages are a cornerstone in the technical analysis toolkit of financial trading. They serve to smooth out price data, creating a single flowing line that traders can use to identify trends and gauge the market's direction. Among the family of moving averages, the Linearly Weighted Moving Average (LWMA) stands out for its sensitivity to recent price changes. Unlike the Simple Moving Average (SMA), which assigns equal weight to all data points, or the Exponential Moving Average (EMA), which gives more gradual weight to recent prices, the LWMA provides a linear weighting to data points, making the most recent prices the most influential.

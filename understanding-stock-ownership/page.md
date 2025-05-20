@@ -1,6 +1,8 @@
 ---
-title: "Understanding Stock Ownership (Algo Trading)"
-description: "Explore stock ownership and investing basics, focusing on algorithmic trading's growing role in financial markets for informed investing decisions."
+category: quant_concept
+description: Explore stock ownership and investing basics, focusing on algorithmic
+  trading's growing role in financial markets for informed investing decisions.
+title: Understanding Stock Ownership (Algo Trading)
 ---
 
 In recent years, the investing and trading landscapes have undergone significant transformations, primarily driven by advancements in technology. Traditional methods of stock ownership and investing, which have long been the cornerstone of financial markets, are evolving to integrate these technological innovations. One of the most notable developments is algorithmic trading, which employs sophisticated computer programs to implement trade decisions.

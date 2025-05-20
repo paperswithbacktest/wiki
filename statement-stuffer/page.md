@@ -1,6 +1,9 @@
 ---
-title: "Statement Stuffer (Algo Trading)"
-description: "Explore the synergy between direct mail marketing and algorithmic trading in this article Learn how traditional methods meet modern tech for innovative business strategies"
+category: trading_strategy
+description: Explore the synergy between direct mail marketing and algorithmic trading
+  in this article Learn how traditional methods meet modern tech for innovative business
+  strategies
+title: Statement Stuffer (Algo Trading)
 ---
 
 Direct mail marketing is a traditional strategy that involves sending physical promotional materials, such as catalogs, postcards, and brochures, directly to a target audience through postal services. Despite the dominance of digital marketing channels in the current era, direct mail remains relevant due to its ability to create a tangible connection with recipients. This physical interaction can often lead to higher engagement rates and a more personalized touch, which is something digital formats may struggle to replicate.

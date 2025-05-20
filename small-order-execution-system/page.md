@@ -1,6 +1,9 @@
 ---
-title: "Small Order Execution System (Algo Trading)"
-description: "Explore the history and impact of the Small Order Execution System a key innovation that revolutionized retail trading by enabling automated small trade execution."
+category: quant_concept
+description: Explore the history and impact of the Small Order Execution System a
+  key innovation that revolutionized retail trading by enabling automated small trade
+  execution.
+title: Small Order Execution System (Algo Trading)
 ---
 
 In the intricate world of stock trading, speed and precision are essential components of success. One notable innovation that significantly influenced the evolution of trading technology is the Small Order Execution System (SOES). Developed in the 1980s by Nasdaq, SOES played a crucial role in reshaping retail investor access to equity markets by enabling the automatic execution of smaller trades. Before SOES, retail traders often struggled with executing orders swiftly, typically being outpaced by institutional investors who had access to faster market data and execution capabilities.

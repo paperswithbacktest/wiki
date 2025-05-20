@@ -1,6 +1,8 @@
 ---
-title: "Calculation of Weighted Average in Excel (Algo Trading)"
-description: "Discover how to effectively calculate weighted averages in Excel, crucial for enhancing algorithmic trading strategies and optimizing trade performance."
+category: quant_concept
+description: Discover how to effectively calculate weighted averages in Excel, crucial
+  for enhancing algorithmic trading strategies and optimizing trade performance.
+title: Calculation of Weighted Average in Excel (Algo Trading)
 ---
 
 Welcome to the comprehensive guide on using Excel for weighted average calculations, particularly in the context of algorithmic trading. In the fast-evolving world of trading, where precision and efficiency are paramount, mastering the tools that aid in decision-making is essential. This article seeks to provide traders and investors with the knowledge to harness Excel's robust functionalities for calculating weighted averages and developing algorithmic trading strategies.

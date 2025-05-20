@@ -1,6 +1,9 @@
 ---
-title: "Load Fund: Definition and Functionality (Algo Trading)"
-description: "Explore the dynamic role of load funds and algorithmic trading in today's financial strategies Learn how they enhance portfolio management through advanced techniques"
+category: quant_concept
+description: Explore the dynamic role of load funds and algorithmic trading in today's
+  financial strategies Learn how they enhance portfolio management through advanced
+  techniques
+title: 'Load Fund: Definition and Functionality (Algo Trading)'
 ---
 
 The financial landscape is undergoing a significant transformation, largely driven by technological advancements and the emergence of innovative investment strategies. Among these, investment funds, mutual funds, load funds, and algorithmic trading emerge as pivotal components that are fundamentally shaping the strategies deployed in modern portfolio management.

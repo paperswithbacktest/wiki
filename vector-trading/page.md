@@ -1,6 +1,9 @@
 ---
-title: "Vector Trading (Algo Trading)"
-description: "Explore Vector Trading's impact on financial markets through sophisticated algorithms optimizing trade execution and exploiting market inefficiencies for consistent profits."
+category: trading_strategy
+description: Explore Vector Trading's impact on financial markets through sophisticated
+  algorithms optimizing trade execution and exploiting market inefficiencies for consistent
+  profits.
+title: Vector Trading (Algo Trading)
 ---
 
 In the fast-paced world of financial markets, technology continues to revolutionize the way we trade. Among the technological advancements redefining the landscape, Vector Trading stands out as a significant development within algorithmic trading. Vector Trading employs sophisticated algorithms and mathematical models to automate and optimize trading processes, enabling rapid and efficient decision-making based on real-time data analysis.

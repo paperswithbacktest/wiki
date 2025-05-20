@@ -1,6 +1,8 @@
 ---
-title: "Paper Money: History, Usage, and Importance (Algo Trading)"
-description: "Explore the evolution of money from barter to digital, examine paper money's impact, and discover how algorithmic trading transforms financial markets."
+category: quant_concept
+description: Explore the evolution of money from barter to digital, examine paper
+  money's impact, and discover how algorithmic trading transforms financial markets.
+title: 'Paper Money: History, Usage, and Importance (Algo Trading)'
 ---
 
 The history of money and monetary systems is complex and spans thousands of years, marked by continual evolution and adaptation. Money, as a medium of exchange, emerged as a solution to the limitations of the barter system, which was cumbersome and inefficient. Early forms of money included commodities with intrinsic value such as gold and silver. These precious metals facilitated trade and were widely accepted due to their value and divisibility.

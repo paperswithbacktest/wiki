@@ -1,6 +1,8 @@
 ---
-title: "Volume Analysis and Its Interpretation (Algo Trading)"
-description: "Discover how volume analysis informs algorithmic trading decisions by offering insights into market trends and dynamics to enhance strategy effectiveness."
+category: quant_concept
+description: Discover how volume analysis informs algorithmic trading decisions by
+  offering insights into market trends and dynamics to enhance strategy effectiveness.
+title: Volume Analysis and Its Interpretation (Algo Trading)
 ---
 
 In the world of financial markets, volume analysis is a technique that helps traders and analysts comprehend the underlying forces that drive price movements. This analysis is centered on the examination of the number of shares or contracts exchanged during a specific time period. By doing so, it offers critical insights into the robustness and sustainability of market trends.

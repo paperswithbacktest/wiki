@@ -1,6 +1,12 @@
 ---
-title: "Authorized Share Capital (Algo Trading)"
-description: "Explore the crucial financial concepts of capital stock, share capital, authorized shares, and algorithmic trading in our comprehensive article. Gain insights into how these elements shape corporate structure and investment strategies, impacting shareholder equity and market dynamics. This guide aims to enhance your understanding of these pivotal components, enabling informed decision-making in today's finance landscape."
+category: quant_concept
+description: Explore the crucial financial concepts of capital stock, share capital,
+  authorized shares, and algorithmic trading in our comprehensive article. Gain insights
+  into how these elements shape corporate structure and investment strategies, impacting
+  shareholder equity and market dynamics. This guide aims to enhance your understanding
+  of these pivotal components, enabling informed decision-making in today's finance
+  landscape.
+title: Authorized Share Capital (Algo Trading)
 ---
 
 In the intricate world of finance, understanding the jargon and various components that drive the market is crucial for investors and businesses alike. This article discusses key concepts such as capital stock, share capital, authorized shares, and algorithmic trading. These elements significantly shape a company's structure and inform investment strategies, making it essential to comprehend their roles and interactions.

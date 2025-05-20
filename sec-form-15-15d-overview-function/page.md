@@ -1,6 +1,9 @@
 ---
-title: "SEC Form 15-15D Overview and Function (Algo Trading)"
-description: "Explore SEC Form 15-15D and its role in financial deregistration and algorithmic trading Learn how these processes impact market activities and trading strategies"
+category: quant_concept
+description: Explore SEC Form 15-15D and its role in financial deregistration and
+  algorithmic trading Learn how these processes impact market activities and trading
+  strategies
+title: SEC Form 15-15D Overview and Function (Algo Trading)
 ---
 
 The Securities and Exchange Commission (SEC) is a pivotal entity in the sphere of financial markets, responsible for protecting investors, maintaining fair and efficient markets, and facilitating capital formation. As a regulatory authority, the SEC upholds strict standards to ensure transparency and integrity within public and private sectors of finance. One of the instruments within its regulatory framework is SEC Form 15-15D, primarily used by companies to deregister their securities. This process of deregistration allows companies to suspend their reporting obligations under the Securities Exchange Act of 1934, thereby reducing regulatory burdens and compliance costs. It is typically pursued by firms that meet specific thresholds related to asset size and shareholder count.

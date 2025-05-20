@@ -1,6 +1,8 @@
 ---
-title: "Types of Bonds and Their Mechanisms (Algo Trading)"
-description: "Explore the dynamics of bonds and their evolving trading mechanisms through algorithmic strategies to enhance market efficiency transparency and portfolio optimization."
+category: quant_concept
+description: Explore the dynamics of bonds and their evolving trading mechanisms through
+  algorithmic strategies to enhance market efficiency transparency and portfolio optimization.
+title: Types of Bonds and Their Mechanisms (Algo Trading)
 ---
 
 Bonds serve as a crucial element within financial markets, offering a reliable means for income generation and portfolio diversification. As fixed-income instruments, they allow investors to lend money to entities, which then promise to pay back the principal amount at a later date, along with interest. Throughout history, bonds have provided a secure investment avenue, making them integral to a balanced financial strategy.

@@ -1,6 +1,8 @@
 ---
-title: "Keiretsu: Overview and Types (Algo Trading)"
-description: "Explore the synergy between Japan's traditional Keiretsu networks and modern algorithmic trading to understand strategic growth and market competitiveness."
+category: quant_concept
+description: Explore the synergy between Japan's traditional Keiretsu networks and
+  modern algorithmic trading to understand strategic growth and market competitiveness.
+title: 'Keiretsu: Overview and Types (Algo Trading)'
 ---
 
 In this article, we explore the interplay between Keiretsu, the unique Japanese business network model, and the modern world of algorithmic trading. Keiretsu, with its intricate framework of interconnected corporate relationships, has been a fundamental pillar of Japan's economic resilience and industrial strength. These conglomerates consist of various companies collaborating while maintaining their independence, enabling them to secure competitive advantages and foster economic stability. They embody a strategic combination of cooperation and competition, ensuring resource sharing and efficient market positioning.

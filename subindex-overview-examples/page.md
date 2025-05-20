@@ -1,6 +1,9 @@
 ---
-title: "Subindex: Overview and Examples (Algo Trading)"
-description: "Explore the essential role of subindexes in algorithmic trading and financial markets This article provides insights examples and strategies for targeted investment decisions"
+category: quant_concept
+description: Explore the essential role of subindexes in algorithmic trading and financial
+  markets This article provides insights examples and strategies for targeted investment
+  decisions
+title: 'Subindex: Overview and Examples (Algo Trading)'
 ---
 
 Understanding the concept of subindexes is crucial for those involved in financial markets and algorithmic trading. Subindexes play an integral role in financial analysis, offering a refined lens through which specific segments of a broader index can be evaluated. This segmented view enables traders and investors to focus on particular characteristics, such as market capitalization, sector, or investment style, thereby facilitating more informed decision-making.

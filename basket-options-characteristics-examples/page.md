@@ -1,6 +1,8 @@
 ---
-title: "Basket Options: Characteristics and Examples (Algo Trading)"
-description: "Explore the characteristics and benefits of basket options in algorithmic trading Discover how these unique financial derivatives enhance investment strategies"
+category: quant_concept
+description: Explore the characteristics and benefits of basket options in algorithmic
+  trading Discover how these unique financial derivatives enhance investment strategies
+title: 'Basket Options: Characteristics and Examples (Algo Trading)'
 ---
 
 In today's dynamic financial markets, derivatives play a crucial role in shaping robust investment strategies. Among these instruments, basket options stand out for their unique ability to combine flexibility with cost-effectiveness. As derivatives whose value is derived from an underlying group or basket of assets, basket options have become increasingly popular among investors seeking diversified exposure with the potential for greater efficiency and risk management.

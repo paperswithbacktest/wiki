@@ -1,6 +1,8 @@
 ---
-title: "Long Squeeze: Overview and Mechanism (Algo Trading)"
-description: "Explore the dynamics of long squeezes and how algorithmic trading can empower investors to navigate volatile markets and protect their investments."
+category: quant_concept
+description: Explore the dynamics of long squeezes and how algorithmic trading can
+  empower investors to navigate volatile markets and protect their investments.
+title: 'Long Squeeze: Overview and Mechanism (Algo Trading)'
 ---
 
 The landscape of stock market investing is a complex and dynamic field, enriched with a variety of strategies and tools that investors employ to enhance their trading outcomes. In recent years, several phenomena have emerged, reshaping market dynamics and introducing new challenges and opportunities for investors. Among these phenomena are the occurrences of long squeezes and the increasing prevalence of algorithmic trading, often referred to as algo trading.

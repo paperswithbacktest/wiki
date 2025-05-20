@@ -1,9 +1,13 @@
 ---
-title: "Interest rate trading strategies"
-description: Discover the intricacies of interest rate trading, focusing on the concepts of interest rates, yields, bonds, central banks' roles, and various interest rate markets. This comprehensive guide covers how these elements interact to influence financial markets and offers insights into making informed trading decisions. Understand the nuances behind interest rate movements and their broader impact on global financial landscapes.
+category: trading_strategy
+description: Discover the intricacies of interest rate trading, focusing on the concepts
+  of interest rates, yields, bonds, central banks' roles, and various interest rate
+  markets. This comprehensive guide covers how these elements interact to influence
+  financial markets and offers insights into making informed trading decisions. Understand
+  the nuances behind interest rate movements and their broader impact on global financial
+  landscapes.
+title: Interest rate trading strategies
 ---
-
-
 
 Interest rate trading refers to the buying and selling of financial instruments primarily influenced by changes in interest rates. It encompasses a broad range of activities, from trading bonds and interest rate derivatives, like futures, swaps, and options, to engaging in strategies directly affected by central bank policies. In essence, interest rate trading focuses on the movement of rates set by central banks, which in turn affect the cost of borrowing and lending in the economy. These changes can significantly impact various financial markets, influencing the value of currencies, bonds, and other interest-sensitive assets.
 

@@ -1,6 +1,8 @@
 ---
-title: "Quantitative Tightening (Algo Trading)"
-description: "Explore central banking's role in economic tightening and how algorithmic trading adapts to policy shifts and increased market volatility for global stability."
+category: quant_concept
+description: Explore central banking's role in economic tightening and how algorithmic
+  trading adapts to policy shifts and increased market volatility for global stability.
+title: Quantitative Tightening (Algo Trading)
 ---
 
 Central banking, monetary policy, economic tightening, and algorithmic trading are foundational elements of modern financial systems. Central banks, such as the Federal Reserve in the United States, the European Central Bank, or the Bank of Japan, are pivotal in managing a country's currency, money supply, and interest rates. Their primary aim is to ensure economic stability through the implementation of monetary policy, which involves using tools such as interest rate adjustments and open market operations to control inflation, stabilize currencies, and influence economic growth.

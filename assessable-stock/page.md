@@ -1,6 +1,8 @@
 ---
-title: "Assessable Stock (Algo Trading)"
-description: "Explore the crucial elements of stock trading from assessable stocks to algorithmic trading and gain insights into modern investment strategies."
+category: quant_concept
+description: Explore the crucial elements of stock trading from assessable stocks
+  to algorithmic trading and gain insights into modern investment strategies.
+title: Assessable Stock (Algo Trading)
 ---
 
 Stock trading is a complex field that encompasses a variety of elements essential for understanding and engaging in the financial markets. Among these elements are assessable stock, stock shares, and stock assessment, each playing a distinct role in the investment landscape. Assessable stock, now largely obsolete, once required investors to contribute additional capital if demanded by the issuing company. Stock shares represent ownership in a company, forming the basis of equity investment, while stock assessment involves calculating the value and potential returns of these shares using various analytical tools and metrics.

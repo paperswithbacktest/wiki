@@ -1,6 +1,15 @@
 ---
-title: "Using Python, IBPy, and the Interactive Brokers API to Automate Trades (Algo Trading)"
-description: Explore the world of algorithmic trading using Python, IBPy, and the Interactive Brokers API. Learn how to automate trades and optimize strategies with Interactive Brokers, a top brokerage choice for algo trading enthusiasts. Discover the power of Interactive Brokers' API suite, which offers tools for novice and expert traders alike to execute automated trades across global markets efficiently. Uncover the ease of integrating third-party libraries like IbPy and IBridgePy with the IB API, enhancing your trading capabilities without directly interacting with the API's core functions.
+category: trading_strategy
+description: Explore the world of algorithmic trading using Python, IBPy, and the
+  Interactive Brokers API. Learn how to automate trades and optimize strategies with
+  Interactive Brokers, a top brokerage choice for algo trading enthusiasts. Discover
+  the power of Interactive Brokers' API suite, which offers tools for novice and expert
+  traders alike to execute automated trades across global markets efficiently. Uncover
+  the ease of integrating third-party libraries like IbPy and IBridgePy with the IB
+  API, enhancing your trading capabilities without directly interacting with the API's
+  core functions.
+title: Using Python, IBPy, and the Interactive Brokers API to Automate Trades (Algo
+  Trading)
 ---
 
 Algorithmic trading, a cornerstone of modern financial markets, utilizes computer algorithms to conduct trading decisions and orders at speeds and frequencies that humans cannot match. By leveraging quantitative models and complex mathematical formulas, algorithmic trading can analyze market data, identify patterns, and execute trades with unparalleled precision. This technological advancement not only enhances trading efficiency but also plays a pivotal role in maintaining market liquidity and reducing transaction costs. In recent decades, algorithmic trading has gained prominence, accounting for a significant portion of trading volume across major exchanges globally.

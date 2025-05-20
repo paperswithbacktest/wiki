@@ -1,6 +1,9 @@
 ---
-title: "Put Ratio Backspread (Algo Trading)"
-description: "Explore the sophisticated Put Ratio Backspread strategy designed for bearish traders. Benefit from automated trading systems to maximize returns during significant market declines."
+category: trading_strategy
+description: Explore the sophisticated Put Ratio Backspread strategy designed for
+  bearish traders. Benefit from automated trading systems to maximize returns during
+  significant market declines.
+title: Put Ratio Backspread (Algo Trading)
 ---
 
 Options trading presents a multitude of strategies, each designed to cater to different market scenarios and trader preferences. Among these strategies is the Put Ratio Backspread, a sophisticated approach primarily targeting traders with a bearish perspective anticipating notable downward shifts in asset prices. The strategy is intriguing to algorithmic traders, as it seamlessly integrates into automated trading systems, maximizing the strategy's benefits through systematic execution and market analysis.

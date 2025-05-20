@@ -1,7 +1,8 @@
 ---
-title: Exploring Unpaired Image-to-Image Translation Techniques
+category: quant_concept
 description: Unpaired image-to-image translation uses CycleGAN to convert images between
   domains without paired data and preserves key features Discover more inside.
+title: Exploring Unpaired Image-to-Image Translation Techniques
 ---
 
 ![Image](images/1.png)

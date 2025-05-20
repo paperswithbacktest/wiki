@@ -1,6 +1,9 @@
 ---
-title: "Inverse Transaction: Definition and Mechanism (Algo Trading)"
-description: "Explore the definition and mechanism of inverse transactions in algorithmic trading Understand how these strategies manage risk offset positions and boost trading efficiency"
+category: quant_concept
+description: Explore the definition and mechanism of inverse transactions in algorithmic
+  trading Understand how these strategies manage risk offset positions and boost trading
+  efficiency
+title: 'Inverse Transaction: Definition and Mechanism (Algo Trading)'
 ---
 
 In the fast-paced world of financial markets, understanding the intricate mechanisms behind trading strategies is crucial for navigating an increasingly automated environment. In recent years, the rise of technology has seen the emergence of algorithmic trading, commonly known as 'algo trading,' as a transformative force reshaping traditional trading methodologies. By leveraging powerful algorithms, traders are equipped to execute orders with precision and speed, enhancing decision-making processes and increasing operational efficiency.

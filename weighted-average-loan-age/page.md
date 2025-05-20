@@ -1,6 +1,8 @@
 ---
-title: "Weighted Average Loan Age (Algo Trading)"
-description: "Discover how Weighted Average Loan Age (WALA) is vital in assessing mortgage-backed securities and how it aids investors in understanding prepayment risks."
+category: quant_concept
+description: Discover how Weighted Average Loan Age (WALA) is vital in assessing mortgage-backed
+  securities and how it aids investors in understanding prepayment risks.
+title: Weighted Average Loan Age (Algo Trading)
 ---
 
 In the world of finance, metrics play a critical role in understanding investments. Among these metrics, the Weighted Average Loan Age (WALA) stands out for its importance in evaluating mortgage-backed securities (MBS). WALA measures the average age of loans in a pool, providing valuable insights into the maturity and prepayment risks associated with these securities. Since the performance and risk profile of MBS are heavily influenced by the age of underlying loans, WALA becomes an essential tool for investors seeking to optimize their portfolios.

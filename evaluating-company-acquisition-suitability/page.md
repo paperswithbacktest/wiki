@@ -1,6 +1,8 @@
 ---
-title: "Evaluating Company Acquisition Suitability (Algo Trading)"
-description: "Evaluate company acquisition suitability by analyzing financial health, market dynamics, and risk management to make informed, strategic business decisions."
+category: trading_strategy
+description: Evaluate company acquisition suitability by analyzing financial health,
+  market dynamics, and risk management to make informed, strategic business decisions.
+title: Evaluating Company Acquisition Suitability (Algo Trading)
 ---
 
 Acquisition analysis is a critical step in the strategic growth of companies, enabling them to evaluate potential targets for mergers or acquisitions. By conducting a thorough acquisition analysis, businesses can assess a target company's value, determine the strategic fit, and weigh the potential benefits and risks associated with the acquisition. This process is essential for making informed business decisions that can significantly impact a company's competitive position and market presence.

@@ -1,6 +1,9 @@
 ---
-title: "Chicago Trading Company Overview (Algo Trading)"
-description: "Chicago Trading Company excels in algorithmic trading and market-making, enhancing market liquidity since 1995 with innovative trading strategies and advanced technologies."
+category: quant_concept
+description: Chicago Trading Company excels in algorithmic trading and market-making,
+  enhancing market liquidity since 1995 with innovative trading strategies and advanced
+  technologies.
+title: Chicago Trading Company Overview (Algo Trading)
 ---
 
 The Chicago Trading Company (CTC) is a distinguished entity in the financial markets sector, headquartered in Chicago. Established in 1995, CTC has made a significant mark as a proprietary market-making firm, specializing in algorithmic trading and contributing substantially to market liquidity. As a proprietary trading firm, CTC has consistently maintained a reputation for excellence and innovation, leveraging its expertise in trading strategies to enhance market performance.

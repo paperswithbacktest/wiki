@@ -1,6 +1,8 @@
 ---
-title: "Hamburg Stock Exchange (Algo Trading)"
-description: "Discover the rich history and modern influence of the Hamburg Stock Exchange from its early goods trading days to a powerhouse in algorithmic securities trading."
+category: quant_concept
+description: Discover the rich history and modern influence of the Hamburg Stock Exchange
+  from its early goods trading days to a powerhouse in algorithmic securities trading.
+title: Hamburg Stock Exchange (Algo Trading)
 ---
 
 The Hamburg Stock Exchange (HAM) plays a crucial role in Germany's financial landscape, known for its historical significance and continued influence in modern trading. Founded in 1558, HAM is the oldest stock exchange in Germany, representing over four centuries of financial evolution. Initially established as a marketplace for goods, the exchange shifted its focus to financial securities in the 19th century, reflecting the increasing importance of financial markets in Europe and globally.

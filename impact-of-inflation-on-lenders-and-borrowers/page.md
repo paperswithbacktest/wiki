@@ -1,6 +1,11 @@
 ---
-title: "Impact of Inflation on Lenders and Borrowers (Algo Trading)"
-description: "Explore how inflation influences borrowers and lenders in today's economy and the role of algorithmic trading in adapting to inflationary trends. Learn how rising prices impact financial obligations, the real value of debt, and lender returns, while algo trading offers strategies to navigate these economic challenges for improved decision-making and risk management."
+category: quant_concept
+description: Explore how inflation influences borrowers and lenders in today's economy
+  and the role of algorithmic trading in adapting to inflationary trends. Learn how
+  rising prices impact financial obligations, the real value of debt, and lender returns,
+  while algo trading offers strategies to navigate these economic challenges for improved
+  decision-making and risk management.
+title: Impact of Inflation on Lenders and Borrowers (Algo Trading)
 ---
 
 In today's dynamic economic landscape, inflation is a pivotal factor that influences the finances of both borrowers and lenders. As prices rise and purchasing power erodes, the economy experiences shifts that can significantly impact how financial obligations are met and profits are realized. Understanding these shifts is crucial for both parties to successfully navigate the financial complexities that inflation presents. 

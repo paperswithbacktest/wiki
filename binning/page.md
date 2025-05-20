@@ -1,7 +1,8 @@
 ---
-title: Understanding Binning in Machine Learning Data Preprocessing
+category: dataset
 description: Binning in machine learning simplifies continuous data into clear categories
   to reduce noise and enhance predictive accuracy Discover more inside.
+title: Understanding Binning in Machine Learning Data Preprocessing
 ---
 
 ![Image](images/1.png)

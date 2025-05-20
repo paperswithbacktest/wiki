@@ -1,6 +1,8 @@
 ---
-title: "Authorized Currency (Algo Trading)"
-description: "Explore the world of authorized currency algo trading where automated trading meets freely exchangeable currencies enhancing global market liquidity."
+category: trading_strategy
+description: Explore the world of authorized currency algo trading where automated
+  trading meets freely exchangeable currencies enhancing global market liquidity.
+title: Authorized Currency (Algo Trading)
 ---
 
 In the rapidly evolving world of finance, algorithmic trading, commonly referred to as algo trading, has gained significant traction due to its efficiency in executing large-scale trades and its potential to generate substantial profits. The essence of algorithmic trading lies in using computer algorithms to execute trading orders at speeds and volumes unmatched by human traders, thereby reducing transaction costs and minimizing human error.

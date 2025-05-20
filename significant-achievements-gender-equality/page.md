@@ -1,6 +1,8 @@
 ---
-title: "Significant Achievements in Gender Equality (Algo Trading)"
-description: "Explore the crucial role gender equality plays in financial markets with a focus on algorithmic trading and how it fosters economic growth and innovation."
+category: quant_concept
+description: Explore the crucial role gender equality plays in financial markets with
+  a focus on algorithmic trading and how it fosters economic growth and innovation.
+title: Significant Achievements in Gender Equality (Algo Trading)
 ---
 
 In an era where social issues remain at the forefront of global discussions, equal rights and gender equality continue to play crucial roles in driving societal progress. These principles underpin efforts to create equitable societies where opportunities and resources are accessible to all individuals, irrespective of gender. As societies worldwide push for these ideals, the landscape of various industries, particularly financial markets, is evolving in tandem.

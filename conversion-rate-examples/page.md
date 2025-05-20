@@ -1,6 +1,8 @@
 ---
-title: "Conversion Rate and Examples (Algo Trading)"
-description: "Explore how conversion rates play a vital role in digital success unlocking insights and strategies to boost effectiveness in marketing and algorithmic trading."
+category: quant_concept
+description: Explore how conversion rates play a vital role in digital success unlocking
+  insights and strategies to boost effectiveness in marketing and algorithmic trading.
+title: Conversion Rate and Examples (Algo Trading)
 ---
 
 In today's digital age, understanding and effectively utilizing marketing metrics is essential for any business looking to thrive online. The digital landscape is saturated with data, and companies must navigate this ocean of information to make informed decisions that drive growth and efficiency. One of the most crucial metrics in assessing online performance is the conversion rate. This metric measures how effectively marketing efforts turn potential leads into tangible customers, serving as an indicator of the success of marketing strategies. Conversion rate is calculated as:

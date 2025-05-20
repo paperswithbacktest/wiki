@@ -1,6 +1,8 @@
 ---
-title: "Islamic Financial Services Board: Functions and Operations (Algo Trading)"
-description: "Explore the Islamic Financial Services Board's role in shaping Islamic finance regulations with a focus on algorithmic trading while ensuring Shariah compliance."
+category: quant_concept
+description: Explore the Islamic Financial Services Board's role in shaping Islamic
+  finance regulations with a focus on algorithmic trading while ensuring Shariah compliance.
+title: 'Islamic Financial Services Board: Functions and Operations (Algo Trading)'
 ---
 
 In the evolving landscape of global finance, Islamic finance presents a unique approach grounded in Shariah law, offering an ethical and moral framework that is distinct from conventional financial systems. This system prohibits interest (riba), speculation (gharar), and investment in industries considered harmful, placing a strong emphasis on risk-sharing and asset-backed financing. As the demand for ethical finance grows, Islamic finance is gaining greater prominence on the global stage.

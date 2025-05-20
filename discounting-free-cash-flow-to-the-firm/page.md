@@ -1,6 +1,8 @@
 ---
-title: "Discounting Free Cash Flow to the Firm (Algo Trading)"
-description: "Explore the vital role of Discounting Free Cash Flow in algorithmic trading providing insights into valuation methods for strategic financial decision-making."
+category: quant_concept
+description: Explore the vital role of Discounting Free Cash Flow in algorithmic trading
+  providing insights into valuation methods for strategic financial decision-making.
+title: Discounting Free Cash Flow to the Firm (Algo Trading)
 ---
 
 In the world of corporate finance, valuation serves as a fundamental aspect of both investment decision-making and strategic acquisitions. Valuation methods enable investors, companies, and analysts to determine the worth of an asset or a firm, guiding significant financial decisions. Among these methodologies, Discounting Free Cash Flow (FCF) has gained substantial prominence. Particularly, within algorithmic trading frameworks, FCF discounting offers a precise and in-depth approach to assessing a company's value. 

@@ -1,6 +1,9 @@
 ---
-title: "Accounting Valuation and Functionality (Algo Trading)"
-description: "Explore accounting valuation's role in finance and algorithmic trading Learn how valuation methods guide assessing assets and shaping data-driven trading strategies"
+category: quant_concept
+description: Explore accounting valuation's role in finance and algorithmic trading
+  Learn how valuation methods guide assessing assets and shaping data-driven trading
+  strategies
+title: Accounting Valuation and Functionality (Algo Trading)
 ---
 
 Valuation is an indispensable component of both finance and accounting, facilitating the assessment of a company’s worth through a blend of quantitative and qualitative approaches. This multifaceted process incorporates a range of techniques designed to produce a comprehensive financial portrait, crucial for informed decision-making among investors, managers, and other stakeholders. The integration of valuation methods within various financial domains, including accounting, financial analysis, and algorithmic trading, underscores its significance as a tool for optimizing decisions in the financial markets.

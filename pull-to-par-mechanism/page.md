@@ -1,6 +1,8 @@
 ---
-title: "Pull-To-Par Mechanism (Algo Trading)"
-description: "Explore the pull to par effect in bond valuation and how algorithmic trading optimizes investment returns by leveraging market price movements."
+category: quant_concept
+description: Explore the pull to par effect in bond valuation and how algorithmic
+  trading optimizes investment returns by leveraging market price movements.
+title: Pull-To-Par Mechanism (Algo Trading)
 ---
 
 In the world of finance, understanding how bonds are valued and the inherent characteristics that define their lifecycle is crucial for investors. An essential concept in bond valuation is the "pull to par," which describes how a bond's price gravitates towards its face value as it approaches maturity. This phenomenon is integral to bond valuation as it affects the return an investor can expect from bond investments.

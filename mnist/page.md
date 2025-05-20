@@ -1,7 +1,8 @@
 ---
-title: Comprehensive Guide to the MNIST Dataset for Machine Learning
+category: dataset
 description: MNIST dataset offers 70,000 handwritten digits to train and test image
   recognition models with efficient preprocessing and training Discover more inside
+title: Comprehensive Guide to the MNIST Dataset for Machine Learning
 ---
 
 ![Image](images/1.webp)

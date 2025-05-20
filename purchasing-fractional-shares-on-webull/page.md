@@ -1,6 +1,13 @@
 ---
-title: "Purchasing Fractional Shares on Webull (Algo Trading)"
-description: "Discover the world of fractional shares investing with Webull, a platform designed to democratize market access for investors. Offering a seamless experience with features like commission-free trading and algorithmic capabilities, Webull enables users to diversify portfolios with lower capital requirements. Explore the advantages of fractional shares, learn how to trade them on Webull, and enhance your investment strategies with their automated tools for both novice and experienced investors."
+category: trading_strategy
+description: Discover the world of fractional shares investing with Webull, a platform
+  designed to democratize market access for investors. Offering a seamless experience
+  with features like commission-free trading and algorithmic capabilities, Webull
+  enables users to diversify portfolios with lower capital requirements. Explore the
+  advantages of fractional shares, learn how to trade them on Webull, and enhance
+  your investment strategies with their automated tools for both novice and experienced
+  investors.
+title: Purchasing Fractional Shares on Webull (Algo Trading)
 ---
 
 Fractional shares investing has gained significant traction among retail investors, primarily due to its ability to democratize access to the stock market. Previously, individuals seeking to invest in high-priced stocks were required to purchase whole shares, often necessitating substantial capital outlays. Fractional shares mitigate this barrier by allowing investors to purchase portions of a stock, thus enabling participation in the market with lower initial investments. This approach is particularly appealing to those who wish to diversify their portfolios without the burden of substantial financial commitments.

@@ -1,6 +1,9 @@
 ---
-title: "Differences Between Principal and Agency Trading (Algo Trading)"
-description: "Discover the differences between principal and agency trading in algo trading Learn how each method works its unique benefits limitations and investor impact"
+category: quant_concept
+description: Discover the differences between principal and agency trading in algo
+  trading Learn how each method works its unique benefits limitations and investor
+  impact
+title: Differences Between Principal and Agency Trading (Algo Trading)
 ---
 
 The world of trading is multifaceted, offering a range of strategies and trade types that cater to different investor and trader needs. Key among these are principal trading, agency trading, and algorithmic trading (algo trading), each characterized by distinct approaches and methodologies that appeal to diverse market participants. An informed understanding of these trading methods, their similarities, and their differences can enhance decision-making for investors navigating this complex environment.

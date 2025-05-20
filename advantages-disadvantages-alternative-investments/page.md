@@ -1,6 +1,8 @@
 ---
-title: "Advantages and Disadvantages of Alternative Investments (Algo Trading)"
-description: "Explore the benefits and drawbacks of alternative investments and algorithmic trading to enhance portfolio diversification and efficiency in investment strategies."
+category: trading_strategy
+description: Explore the benefits and drawbacks of alternative investments and algorithmic
+  trading to enhance portfolio diversification and efficiency in investment strategies.
+title: Advantages and Disadvantages of Alternative Investments (Algo Trading)
 ---
 
 Investment options have expanded considerably beyond traditional stocks and bonds, providing investors with a broader spectrum of opportunities. This diversification allows for a tailored approach to individual financial objectives and risk tolerance levels. The modern investment landscape includes various financial strategies such as alternative investments and algorithmic trading, each with its distinct characteristics.

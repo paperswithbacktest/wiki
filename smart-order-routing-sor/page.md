@@ -1,6 +1,9 @@
 ---
-title: "Smart Order Routing (SOR) (Algo Trading)"
-description: "Smart Order Routing enhances trading efficiency by directing trades to optimal venues based on price and liquidity. It's vital in navigating fragmented markets."
+category: quant_concept
+description: Smart Order Routing enhances trading efficiency by directing trades to
+  optimal venues based on price and liquidity. It's vital in navigating fragmented
+  markets.
+title: Smart Order Routing (SOR) (Algo Trading)
 ---
 
 Smart Order Routing (SOR) is an essential element in modern trading, particularly within algorithmic trading systems. The proliferation of trading platforms and venues has made the efficient execution of trades a critical factor for achieving optimal trading results. SOR systems address this need by strategically directing orders to the most advantageous trading venues, optimizing factors such as price, liquidity, and speed.

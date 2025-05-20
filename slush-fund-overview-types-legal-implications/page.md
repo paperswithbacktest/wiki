@@ -1,6 +1,8 @@
 ---
-title: "Slush Fund: Overview, Types, and Legal Implications (Algo Trading)"
-description: "Explore the complexities of fund types and their ties to algo trading Understand mutual hedge private equity and slush funds and their legal implications"
+category: quant_concept
+description: Explore the complexities of fund types and their ties to algo trading
+  Understand mutual hedge private equity and slush funds and their legal implications
+title: 'Slush Fund: Overview, Types, and Legal Implications (Algo Trading)'
 ---
 
 In today's complex financial landscape, understanding the different types of funds and their legal implications is crucial. The financial markets are intricate ecosystems comprising various fund types, each serving distinct purposes and adhering to specific regulatory frameworks. These funds, including mutual funds, hedge funds, private equity funds, and more controversial ones such as slush funds, play pivotal roles in the investment strategies employed by individuals and institutions.

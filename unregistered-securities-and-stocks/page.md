@@ -1,6 +1,9 @@
 ---
-title: "Unregistered Securities and Stocks (Algo Trading)"
-description: "Explore the dynamic world of unregistered securities within the financial market discover their unique risks and rewards as well as the role of algorithmic trading."
+category: quant_concept
+description: Explore the dynamic world of unregistered securities within the financial
+  market discover their unique risks and rewards as well as the role of algorithmic
+  trading.
+title: Unregistered Securities and Stocks (Algo Trading)
 ---
 
 Unregistered stocks and securities play a significant role in the financial market, often operating under the radar of major regulatory bodies such as the Securities and Exchange Commission (SEC). While traditional securities must undergo a rigorous registration process, unregistered securities bypass this requirement, typically through mechanisms like private placements. This allows them to be traded with fewer disclosures, presenting unique challenges and opportunities for investors.

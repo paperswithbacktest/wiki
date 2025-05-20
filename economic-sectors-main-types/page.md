@@ -1,6 +1,9 @@
 ---
-title: "Economic Sectors and Their Main Types (Algo Trading)"
-description: "Explore the diverse landscape of economic sectors and their significance in algo trading Understand sector roles in financial markets and optimize investment strategies"
+category: quant_concept
+description: Explore the diverse landscape of economic sectors and their significance
+  in algo trading Understand sector roles in financial markets and optimize investment
+  strategies
+title: Economic Sectors and Their Main Types (Algo Trading)
 ---
 
 Understanding the diverse landscape of economic sectors is crucial for analyzing the economic activity and health of a nation. Economic sectors classify distinct areas of economic activities, each contributing uniquely to a country's overall economic performance. They act as a framework for evaluating the operational structure of economies, enabling analysts and policymakers to assess productivity and growth prospects. Examining these sectors helps in comprehending the intricate web of interactions that drive national and global economies.

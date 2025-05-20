@@ -1,6 +1,8 @@
 ---
-title: "Differences Among the IMF, WTO, and World Bank (Algo Trading)"
-description: "Explore how the World Bank IMF and WTO influence global markets and the evolving role of algorithmic trading in shaping today's financial landscape."
+category: quant_concept
+description: Explore how the World Bank IMF and WTO influence global markets and the
+  evolving role of algorithmic trading in shaping today's financial landscape.
+title: Differences Among the IMF, WTO, and World Bank (Algo Trading)
 ---
 
 The intersection of global financial frameworks and modern technological advancements presents a unique landscape that is rapidly transforming how financial markets operate. In recent years, the emergence of algorithmic trading has revolutionized the trading environment, enabling transactions at unprecedented speeds and volumes. The World Bank, International Monetary Fund (IMF), and World Trade Organization (WTO) play pivotal roles in this evolving paradigm, influencing global digital financial markets through their policies and frameworks.

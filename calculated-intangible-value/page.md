@@ -1,6 +1,8 @@
 ---
-title: "Calculated Intangible Value (Algo Trading)"
-description: "Discover how the CIV method and algorithmic trading combine to accurately assess intangible asset value in evolving markets explore tools to gain an edge."
+category: quant_concept
+description: Discover how the CIV method and algorithmic trading combine to accurately
+  assess intangible asset value in evolving markets explore tools to gain an edge.
+title: Calculated Intangible Value (Algo Trading)
 ---
 
 In the rapidly evolving world of business and finance, understanding a company's true value extends beyond its physical assets. Intangible assets, such as brand reputation, intellectual property, and proprietary technology, play a crucial role in determining a business's worth. In particular, these non-physical elements hold significant importance in technology and service-based industries, where innovation and service delivery predominate.

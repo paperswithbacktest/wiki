@@ -1,6 +1,8 @@
 ---
-title: "Times-Revenue Method for Company Valuation (Algo Trading)"
-description: "Discover the times-revenue method for company valuation and its impact on algorithmic trading strategies in the evolving finance industry."
+category: quant_concept
+description: Discover the times-revenue method for company valuation and its impact
+  on algorithmic trading strategies in the evolving finance industry.
+title: Times-Revenue Method for Company Valuation (Algo Trading)
 ---
 
 In the world of corporate finance, determining the value of a company is a critical task, especially for potential investors and stakeholders involved in mergers and acquisitions. Accurate company valuation influences decisions on investments, buyouts, and strategic partnerships. One of the methods frequently employed for such valuations is the times-revenue method. This approach bases a company's value on its revenue by multiplying it by a specific multiplier correlated with industry standards. The multipliers vary based on industry characteristics, growth potential, and economic factors, offering a direct metric tied to revenue.

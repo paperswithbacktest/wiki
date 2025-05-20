@@ -1,6 +1,9 @@
 ---
-title: "Asymmetric Information Theory and Challenges (Algo Trading)"
-description: "Explore the intricate relationship between asymmetric information and algorithmic trading, uncovering its impact on market efficiency and stability in today's digital ecosystem."
+category: quant_concept
+description: Explore the intricate relationship between asymmetric information and
+  algorithmic trading, uncovering its impact on market efficiency and stability in
+  today's digital ecosystem.
+title: Asymmetric Information Theory and Challenges (Algo Trading)
 ---
 
 Information economics is a branch of economics that studies how information and information systems affect an economy and economic decisions. It explores the role of information in markets where participants possess differing levels of knowledge, thereby impacting prices, production, and consumption patterns. In today's global economy, information economics is crucial due to the surge in digital data and communication technologies, which have transformed the way economic transactions occur and how markets operate.

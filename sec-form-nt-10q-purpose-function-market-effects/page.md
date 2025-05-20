@@ -1,6 +1,9 @@
 ---
-title: "SEC Form NT 10-Q: Purpose, Function, and Market Effects (Algo Trading)"
-description: "Discover how SEC Form NT 10-Q impacts corporate transparency investor confidence and algorithmic trading by signaling financial reporting delays and potential market changes."
+category: quant_concept
+description: Discover how SEC Form NT 10-Q impacts corporate transparency investor
+  confidence and algorithmic trading by signaling financial reporting delays and potential
+  market changes.
+title: 'SEC Form NT 10-Q: Purpose, Function, and Market Effects (Algo Trading)'
 ---
 
 Financial reporting is a cornerstone of corporate transparency and accountability, particularly for publicly traded companies. It ensures that investors, regulators, and other stakeholders have access to accurate and timely information regarding a company's financial health and operational performance. In the United States, the Securities and Exchange Commission (SEC) plays a vital role in this process by mandating specific forms and reports that companies must file to maintain transparency and accountability.

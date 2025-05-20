@@ -1,6 +1,12 @@
 ---
-title: "National Association of Securities Dealers (NASD) Series 7 examination (Algo Trading)"
-description: Explore the dynamic interplay of the National Association of Securities Dealers' Series 7 Examination and the rise of algorithmic trading in modern financial markets. Understand the pivotal role of the Series 7 Examination in certifying finance professionals with essential regulatory knowledge and how it intersects with the challenges and opportunities presented by Algo Trading.
+category: quant_concept
+description: Explore the dynamic interplay of the National Association of Securities
+  Dealers' Series 7 Examination and the rise of algorithmic trading in modern financial
+  markets. Understand the pivotal role of the Series 7 Examination in certifying finance
+  professionals with essential regulatory knowledge and how it intersects with the
+  challenges and opportunities presented by Algo Trading.
+title: National Association of Securities Dealers (NASD) Series 7 examination (Algo
+  Trading)
 ---
 
 The world of securities and trading has historically been subject to rigorous regulatory standards aimed at safeguarding investors and ensuring equitable market practices. A key player in establishing such standards was the National Association of Securities Dealers (NASD). Before merging with the New York Stock Exchange's regulatory unit to create the Financial Industry Regulatory Authority (FINRA) in 2007, the NASD played a crucial role in overseeing the securities industry in the United States. Part of its mandate involved administering the Series 7 Examination, a pivotal certification for finance professionals. This examination is integral for individuals engaged in trading as it ensures a thorough understanding of the regulatory requirements and operational dynamics of the financial markets.

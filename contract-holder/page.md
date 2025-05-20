@@ -1,6 +1,9 @@
 ---
-title: "Contract Holder (Algo Trading)"
-description: "Explore the critical role of contract holders in algorithmic trading and the financial sector ensuring obligations are met and enhancing contract management efficiency."
+category: quant_concept
+description: Explore the critical role of contract holders in algorithmic trading
+  and the financial sector ensuring obligations are met and enhancing contract management
+  efficiency.
+title: Contract Holder (Algo Trading)
 ---
 
 In the modern business environment, effective contract management is essential for the seamless and efficient execution of agreements. Contracts form the backbone of various business transactions, providing a legal framework that defines the rights and responsibilities of parties involved. Effective contract management ensures that these agreements are honored and any potential disputes or breaches are minimized.

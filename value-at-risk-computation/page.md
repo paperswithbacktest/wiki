@@ -1,6 +1,9 @@
 ---
-title: "Value at Risk and Its Computation (Algo Trading)"
-description: "Explore the fundamentals of Value at Risk and its computation techniques in this detailed guide Learn how VaR aids financial risk management and algorithmic trading"
+category: quant_concept
+description: Explore the fundamentals of Value at Risk and its computation techniques
+  in this detailed guide Learn how VaR aids financial risk management and algorithmic
+  trading
+title: Value at Risk and Its Computation (Algo Trading)
 ---
 
 Value at Risk (VaR) is a fundamental instrument in financial risk management, providing a statistical measure designed to quantify potential losses in a portfolio over a predetermined timeframe. It serves as a cornerstone in risk assessment, offering insights into the extent and probabilities of potential financial setbacks within various financial investments. Predominantly leveraged by investment and commercial banks, VaR aids in evaluating the risk profile of portfolios, helping institutions manage their financial exposures strategically.

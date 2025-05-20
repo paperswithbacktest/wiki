@@ -1,6 +1,8 @@
 ---
-title: "ZK-SNARK in Cryptocurrency and Its History (Algo Trading)"
-description: "Discover how ZK-SNARKs enhance privacy in cryptocurrency trading by enabling secure, non-interactive proofs while safeguarding transaction data."
+category: quant_concept
+description: Discover how ZK-SNARKs enhance privacy in cryptocurrency trading by enabling
+  secure, non-interactive proofs while safeguarding transaction data.
+title: ZK-SNARK in Cryptocurrency and Its History (Algo Trading)
 ---
 
 The rise of cryptocurrencies has ushered in an era where privacy and security have become fundamental concerns for users and investors alike. As digital assets gain mainstream acceptance, their underlying technology continuously evolves to address these concerns. One such technological advancement is Zero-Knowledge Succinct Non-Interactive Argument of Knowledge (ZK-SNARKs), a cryptographic concept designed to enhance privacy without sacrificing security. ZK-SNARKs allow for the verification of transactions without revealing any sensitive details, thus providing a substantial leap forward in privacy assurance.

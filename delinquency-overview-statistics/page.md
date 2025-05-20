@@ -1,6 +1,13 @@
 ---
-title: "Delinquency: Overview and Statistics (Algo Trading)"
-description: "Explore the intricate world of financial delinquencies and their critical role in signaling economic conditions. This page examines delinquency trends and the transformative impact of algorithmic trading on managing financial risks. Learn how advanced trading algorithms utilize massive datasets to identify patterns and predict delinquency scenarios, enabling financial institutions to adopt a proactive approach. Discover historical and current trends, case studies, and actionable insights into effective risk management strategies through algorithmic solutions."
+category: quant_concept
+description: Explore the intricate world of financial delinquencies and their critical
+  role in signaling economic conditions. This page examines delinquency trends and
+  the transformative impact of algorithmic trading on managing financial risks. Learn
+  how advanced trading algorithms utilize massive datasets to identify patterns and
+  predict delinquency scenarios, enabling financial institutions to adopt a proactive
+  approach. Discover historical and current trends, case studies, and actionable insights
+  into effective risk management strategies through algorithmic solutions.
+title: 'Delinquency: Overview and Statistics (Algo Trading)'
 ---
 
 The financial landscape is fraught with complexities, one of which is the concept of delinquencies. In the context of finance, delinquencies refer to the failure of borrowers to make timely payments on their debts. These delinquencies can manifest in various forms, including late payments on credit cards, mortgages, and personal loans. Understanding delinquencies in financial statistics is crucial, as it offers insights into broader economic conditions and sheds light on individual financial health. For instance, a rising number of delinquencies may signal financial distress among consumers, potentially foretelling broader economic challenges. Conversely, a decline in delinquencies can be indicative of economic improvement or effective financial management by borrowers.

@@ -1,7 +1,8 @@
 ---
-title: Feature Upsampling Techniques in Neural Networks With CARAFE
+category: quant_concept
 description: Feature upsampling boosts neural network image resolution using CARAFE
   content-aware reassembly preserving details for sharper results Discover more inside
+title: Feature Upsampling Techniques in Neural Networks With CARAFE
 ---
 
 ![Image](images/1.png)

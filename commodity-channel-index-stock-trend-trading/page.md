@@ -1,6 +1,9 @@
 ---
-title: "Commodity Channel Index in Stock Trend Trading (Algo Trading)"
-description: "Explore how the Commodity Channel Index (CCI) can enhance stock trend trading with strategies for identifying cyclical trends and improving algorithmic trading."
+category: trading_strategy
+description: Explore how the Commodity Channel Index (CCI) can enhance stock trend
+  trading with strategies for identifying cyclical trends and improving algorithmic
+  trading.
+title: Commodity Channel Index in Stock Trend Trading (Algo Trading)
 ---
 
 The Commodity Channel Index (CCI) is a significant analytical tool employed across various trading disciplines to assist traders in recognizing cyclical trends within markets. Conceived by Donald Lambert, the CCI was initially tailored for commodities but has since found broad applicability in stocks, forex, and a host of other financial instruments. This article explores how the CCI is used to identify stock trends and develop advanced trading strategies, including its integration into algorithmic trading systems. By grasping the principles and applications of the CCI, traders can substantially improve their decision-making capabilities for both short-term and long-term investments.

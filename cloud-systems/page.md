@@ -1,6 +1,12 @@
 ---
-title: "Cloud systems (Algo Trading)"
-description: Discover how cloud computing enhances algorithmic trading by providing scalable resources and robust infrastructure. This article explores the integration of cloud systems in algo trading highlighting benefits like improved performance reduced latency and cost-effectiveness while addressing challenges in connectivity and security. Uncover the potential of cloud technologies for developing sophisticated trading strategies and the future of real-time analytics in financial markets.
+category: quant_concept
+description: Discover how cloud computing enhances algorithmic trading by providing
+  scalable resources and robust infrastructure. This article explores the integration
+  of cloud systems in algo trading highlighting benefits like improved performance
+  reduced latency and cost-effectiveness while addressing challenges in connectivity
+  and security. Uncover the potential of cloud technologies for developing sophisticated
+  trading strategies and the future of real-time analytics in financial markets.
+title: Cloud systems (Algo Trading)
 ---
 
 The advent of cloud computing has significantly transformed numerous industries, with algorithmic trading being a notable beneficiary of this technological evolution. Algorithmic trading, or algo trading, involves the use of complex algorithms and mathematical models to make trading decisions at speeds and frequencies far surpassing human capability. This type of trading is heavily dependent on computational power, data processing speed, and storage capabilities—areas where cloud computing excels. 
@@ -182,4 +188,3 @@ Technology continues to evolve, and the symbiosis between cloud systems and algo
 [10]: Kearns, M., & Nevmyvaka, Y. (2013). ["Machine Learning for Market Microstructure and High Frequency Trading."](https://www.cis.upenn.edu/~mkearns/papers/KearnsNevmyvakaHFTRiskBooks.pdf) 
 
 [11]: Harris, L. (2003). ["Trading and Exchanges: Market Microstructure for Practitioners."](https://academic.oup.com/book/52292) Oxford University Press.
-

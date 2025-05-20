@@ -1,6 +1,9 @@
 ---
-title: "Annual Turnover: Calculation Formula and Example (Algo Trading)"
-description: "Explore the significance of annual turnover in business and algorithmic trading Learn to calculate turnover and analyze its impact on investment and trading strategies"
+category: quant_concept
+description: Explore the significance of annual turnover in business and algorithmic
+  trading Learn to calculate turnover and analyze its impact on investment and trading
+  strategies
+title: 'Annual Turnover: Calculation Formula and Example (Algo Trading)'
 ---
 
 Understanding financial concepts, particularly annual turnover and its calculation, is crucial for evaluating business performance and formulating effective investment strategies. Annual turnover serves as a vital metric, streamlining the analysis of a company’s sales capabilities and overall financial standing. By assessing turnover, businesses can gauge their efficiency in converting products or services into revenue, while investors can evaluate the dynamics of fund management and asset allocation.

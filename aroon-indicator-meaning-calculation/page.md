@@ -1,6 +1,9 @@
 ---
-title: "Aroon Indicator: Meaning and Calculation (Algo Trading)"
-description: "The Aroon Indicator is a vital tool for traders to identify trends and potential reversals in the market enhancing decision-making in stock and algorithmic trading."
+category: quant_concept
+description: The Aroon Indicator is a vital tool for traders to identify trends and
+  potential reversals in the market enhancing decision-making in stock and algorithmic
+  trading.
+title: 'Aroon Indicator: Meaning and Calculation (Algo Trading)'
 ---
 
 Understanding technical analysis tools is crucial for traders aiming to navigate the stock market effectively. These tools offer insights into market behavior, providing data-driven guidance to both novice and experienced traders. One such tool is the Aroon Indicator, developed by Tushar Chande in 1995. It has become popular for its ability to identify trends and potential reversals—key elements in making informed trading decisions.

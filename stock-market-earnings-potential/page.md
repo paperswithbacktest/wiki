@@ -1,6 +1,9 @@
 ---
-title: "Stock Market Earnings Potential (Algo Trading)"
-description: "Discover how to maximize your investment potential with stock market earnings and algorithmic trading Combine insights from earnings analysis with trading algorithms"
+category: trading_strategy
+description: Discover how to maximize your investment potential with stock market
+  earnings and algorithmic trading Combine insights from earnings analysis with trading
+  algorithms
+title: Stock Market Earnings Potential (Algo Trading)
 ---
 
 Stock market investing is the process of buying and selling shares of publicly traded companies with the aim of generating returns, either through capital appreciation or dividends. As a vital component of the global financial system, it allows individuals and institutions to allocate capital to businesses in need of funding while offering opportunities for wealth accumulation. Historically, investing in stocks has been synonymous with long-term wealth building, owing to its ability to outperform other asset classes like bonds and real estate over extended periods. This potential for significant returns, however, comes with inherent risks, necessitating informed decision-making by investors.

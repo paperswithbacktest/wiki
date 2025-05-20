@@ -1,6 +1,14 @@
 ---
-title: "Google Colab Guide (Algo Trading)"
-description: Explore the transformative impact of Google Colab on algorithmic trading, a field where automated strategies leverage complex algorithms for swift market decisions. This guide details how Google Colab, a cloud-based Python environment, empowers traders with powerful computational resources, facilitating the development and testing of advanced trading strategies. Discover the benefits and real-world applications of Colab, from enhancing coding collaboration to utilizing high-performance hardware for sophisticated simulations, making it an ideal platform for both individual and team-based algo trading projects.
+category: trading_strategy
+description: Explore the transformative impact of Google Colab on algorithmic trading,
+  a field where automated strategies leverage complex algorithms for swift market
+  decisions. This guide details how Google Colab, a cloud-based Python environment,
+  empowers traders with powerful computational resources, facilitating the development
+  and testing of advanced trading strategies. Discover the benefits and real-world
+  applications of Colab, from enhancing coding collaboration to utilizing high-performance
+  hardware for sophisticated simulations, making it an ideal platform for both individual
+  and team-based algo trading projects.
+title: Google Colab Guide (Algo Trading)
 ---
 
 Algorithmic trading, often referred to as algo trading, has fundamentally transformed financial markets by facilitating the automation of trading strategies. This innovation leverages complex algorithms to execute orders at speeds and frequencies that are impossible for human traders to achieve. The surge in algorithmic trading can be attributed to its ability to enhance efficiency, minimize costs, and optimize financial decision-making processes.

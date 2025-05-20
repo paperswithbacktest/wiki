@@ -1,7 +1,8 @@
 ---
-title: Understanding Generalized Linear Models And Their Key Components
+category: quant_concept
 description: Generalized Linear Models offer flexible modeling for diverse data distributions
   through link functions and advanced techniques Discover more inside.
+title: Understanding Generalized Linear Models And Their Key Components
 ---
 
 ![Image](images/1.jpeg)

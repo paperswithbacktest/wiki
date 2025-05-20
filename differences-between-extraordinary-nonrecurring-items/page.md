@@ -1,6 +1,8 @@
 ---
-title: "Differences Between Extraordinary and Nonrecurring Items (Algo Trading)"
-description: "Understand the roles of extraordinary and nonrecurring items in financial reports and their impact on algorithmic trading strategies for informed decisions."
+category: quant_concept
+description: Understand the roles of extraordinary and nonrecurring items in financial
+  reports and their impact on algorithmic trading strategies for informed decisions.
+title: Differences Between Extraordinary and Nonrecurring Items (Algo Trading)
 ---
 
 Financial reporting, extraordinary items, nonrecurring items, and algorithmic trading are foundational aspects of modern financial markets. Financial reporting involves the disclosure of financial results and related information about an organization, typically through its financial statements, which are essential tools for investors, financial analysts, and traders. These reports reflect the economic performance and condition of a company and aid stakeholders in making well-informed decisions.

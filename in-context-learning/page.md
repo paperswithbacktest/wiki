@@ -1,7 +1,8 @@
 ---
-title: In-Context Learning Explained for Rapid Task Adaptation
+category: quant_concept
 description: In-Context Learning lets models adapt to new tasks from a few examples
   enhancing flexibility and saving retraining time Discover more inside
+title: In-Context Learning Explained for Rapid Task Adaptation
 ---
 
 ![Image](images/1.png)

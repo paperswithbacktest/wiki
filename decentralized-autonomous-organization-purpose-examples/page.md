@@ -1,6 +1,9 @@
 ---
-title: "Decentralized Autonomous Organization: Purpose and Examples (Algo Trading)"
-description: "Explore how decentralized autonomous organizations (DAOs) revolutionize governance and finance by integrating blockchain and algorithmic trading for transparency and efficiency."
+category: quant_concept
+description: Explore how decentralized autonomous organizations (DAOs) revolutionize
+  governance and finance by integrating blockchain and algorithmic trading for transparency
+  and efficiency.
+title: 'Decentralized Autonomous Organization: Purpose and Examples (Algo Trading)'
 ---
 
 Blockchain technology has revolutionized the way organizations are structured, enabling the emergence of decentralized autonomous organizations (DAOs) that operate beyond the confines of traditional centralized entities. DAOs are an innovative organizational form that leverages the decentralized and immutable nature of blockchain to transform community organization, decision-making processes, and resource management. This new model emphasizes community-centric governance over hierarchical control, allowing for more democratic and transparent practices.

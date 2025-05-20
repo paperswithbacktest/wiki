@@ -1,6 +1,8 @@
 ---
-title: "Collateralized Mortgage Obligation (Algo Trading)"
-description: "Explore the intersection of mortgage-backed securities and algorithmic trading Learn how technology enhances investment strategies and market efficiency"
+category: quant_concept
+description: Explore the intersection of mortgage-backed securities and algorithmic
+  trading Learn how technology enhances investment strategies and market efficiency
+title: Collateralized Mortgage Obligation (Algo Trading)
 ---
 
 Mortgage-backed securities (MBS) and collateralized mortgage obligations (CMOs) represent fundamental instruments in contemporary finance, having significantly impacted the landscape of housing finance by transforming home loans into tradeable assets. These financial products enable capital markets to provide liquidity to the housing market, which underpins the broader economy by facilitating home ownership and real estate investment. The transformation of mortgage loans into securities involves pooling together a collection of home loans and then issuing shares of the pool to investors. This mechanism allows investors to receive returns based on the interest and principal payments made by homeowners.

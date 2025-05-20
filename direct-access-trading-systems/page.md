@@ -1,6 +1,8 @@
 ---
-title: "Direct Access Trading Systems (Algo Trading)"
-description: "Explore the transformative impact of Direct Access Trading systems and algorithmic trading in modern markets Boost trading speed precision and reduce costs."
+category: quant_concept
+description: Explore the transformative impact of Direct Access Trading systems and
+  algorithmic trading in modern markets Boost trading speed precision and reduce costs.
+title: Direct Access Trading Systems (Algo Trading)
 ---
 
 The landscape of trading technology has transformed significantly over the past few decades, particularly with the advancement of digital technologies and the internet. This evolution has primarily been driven by the increasing demand for speed, precision, and efficiency in financial markets. Modern trading technologies encompass a wide range of systems and tools designed to facilitate trading activities. Among these advancements, Direct Access Trading (DAT) systems have emerged as pivotal components in empowering traders.
@@ -179,4 +181,3 @@ As trading technology continues to advance, traders can anticipate even more ref
    - **Quantitative Finance Stack Exchange**: A question-and-answer site for practitioners, academics, and students interested in quantitative finance.
 
 These resources offer a blend of theoretical knowledge and practical insights, beneficial for anyone wanting to enhance their understanding of Direct Access Trading and algorithmic trading.
-

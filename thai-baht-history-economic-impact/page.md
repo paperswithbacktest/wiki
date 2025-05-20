@@ -1,6 +1,8 @@
 ---
-title: "Thai Baht: History and Economic Impact (Algo Trading)"
-description: "Explore the Thai Baht's role in Thailand's economy, its historic journey, and the impact of algorithmic trading in forex markets, showcasing economic insights."
+category: quant_concept
+description: Explore the Thai Baht's role in Thailand's economy, its historic journey,
+  and the impact of algorithmic trading in forex markets, showcasing economic insights.
+title: 'Thai Baht: History and Economic Impact (Algo Trading)'
 ---
 
 Thailand, also known as the Kingdom of Thailand, is strategically located in Southeast Asia and is recognized for its vibrant and growing economy. Over the years, Thailand has experienced significant economic advancements, making it one of the key players in the region. A crucial element of Thailand's economic framework is its national currency – the Thai Baht (THB). The Thai Baht is not only integral to the domestic economy but also has a notable presence in the global foreign exchange markets.

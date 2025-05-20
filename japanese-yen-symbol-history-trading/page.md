@@ -1,6 +1,8 @@
 ---
-title: "Japanese Yen: Symbol, History, and Trading (Algo Trading)"
-description: "Discover the pivotal role of the Japanese Yen in global finance explore its history trading dynamics and algorithmic strategies for optimized performance"
+category: trading_strategy
+description: Discover the pivotal role of the Japanese Yen in global finance explore
+  its history trading dynamics and algorithmic strategies for optimized performance
+title: 'Japanese Yen: Symbol, History, and Trading (Algo Trading)'
 ---
 
 The Japanese Yen (JPY) holds a pivotal role in the global financial market, ranking as the third most traded currency worldwide, following only the U.S. Dollar (USD) and the Euro (EUR) [1]. Known for its high liquidity, the yen facilitates seamless transactions in the forex market, making it a preferred choice for investors seeking to minimize transaction costs. Additionally, its renowned stability and the backing of a robust Japanese economy contribute to the yen's reputation as a safe haven, particularly during periods marked by financial turmoil and uncertainty [2].

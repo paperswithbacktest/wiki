@@ -1,6 +1,8 @@
 ---
-title: "Buy and hold (Algo Trading)"
-description: "Explore the synergy of Buy and Hold strategies with algorithmic trading allowing for efficient, emotion-free investing, and potential long-term gains."
+category: trading_strategy
+description: Explore the synergy of Buy and Hold strategies with algorithmic trading
+  allowing for efficient, emotion-free investing, and potential long-term gains.
+title: Buy and hold (Algo Trading)
 ---
 
 The 'Buy and Hold' strategy is a foundational investment approach characterized by the acquisition of assets with the intention of retaining them over extended durations. This strategy is predicated on the belief that, despite short-term market volatility, markets tend to increase in value over the long term. By minimizing frequent trading, investors who adopt this strategy can often benefit from reduced transaction costs and favorable tax implications associated with long-term capital gains.

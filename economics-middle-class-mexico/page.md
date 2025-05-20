@@ -1,6 +1,8 @@
 ---
-title: "Economics of the Middle Class in Mexico (Algo Trading)"
-description: "Explore the economic dynamics of Mexico's middle class and the role of algorithmic trading Uncover how these factors shape consumption and investment trends"
+category: quant_concept
+description: Explore the economic dynamics of Mexico's middle class and the role of
+  algorithmic trading Uncover how these factors shape consumption and investment trends
+title: Economics of the Middle Class in Mexico (Algo Trading)
 ---
 
 The dynamics of the middle class in Mexico reflect a substantial part of the nation's economic structure, offering insights into broader economic trends. Historically, the middle class in Mexico has been pivotal in shaping economic policies and driving internal consumption, thereby fuelling growth across various sectors. The economic trajectory of this demographic group offers a salient view of not only domestic progress but also global market influences.
@@ -120,4 +122,3 @@ Economic reports and data from Mexican government publications, such as the Inst
 For a more specialized understanding, [books](/wiki/algo-trading-books) and research papers focusing on algorithmic trading and economic analysis are recommended. Texts like "Algorithmic Trading: Winning Strategies and Their Rationale" by Ernie Chan provide technical insights and practical strategies applicable to financial markets. Economic analyses can be further explored through journals such as the "Journal of Economic Perspectives," which frequently publish studies related to market dynamics and economic policies that affect middle-class segments in various countries, including Mexico.
 
 These resources collectively support a comprehensive understanding of how Mexico's middle class and economic frameworks interact and evolve amidst the integration of advanced trading technologies.
-

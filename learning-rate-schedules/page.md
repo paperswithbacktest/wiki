@@ -1,7 +1,8 @@
 ---
-title: Understanding Learning Rate Schedules in Machine Learning
+category: quant_concept
 description: Learning rate schedules optimize model training by adjusting step sizes
   over time ensuring fast convergence and accurate solutions. Discover more inside.
+title: Understanding Learning Rate Schedules in Machine Learning
 ---
 
 ![Image](images/1.png)

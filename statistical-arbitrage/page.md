@@ -1,9 +1,14 @@
 ---
-title: "Statistical Arbitrage (Algo Trading)"
-description: Explore how statistical arbitrage, or StatArb, leverages advanced statistical models and computational algorithms to identify and exploit short-term market inefficiencies. Learn about key tools like NumPy, SciPy, and StatsModels for mathematical computations and data analysis, and understand the role of high-performance computing platforms like Apache Spark and TensorFlow for large-scale data processing. Dive into the intricacies of StatArb strategies such as mean reversion and pairs trading, and how these methods are optimized through real-time data, backtesting, and cloud infrastructure.
+category: trading_strategy
+description: Explore how statistical arbitrage, or StatArb, leverages advanced statistical
+  models and computational algorithms to identify and exploit short-term market inefficiencies.
+  Learn about key tools like NumPy, SciPy, and StatsModels for mathematical computations
+  and data analysis, and understand the role of high-performance computing platforms
+  like Apache Spark and TensorFlow for large-scale data processing. Dive into the
+  intricacies of StatArb strategies such as mean reversion and pairs trading, and
+  how these methods are optimized through real-time data, backtesting, and cloud infrastructure.
+title: Statistical Arbitrage (Algo Trading)
 ---
-
-
 
 Statistical arbitrage, often abbreviated as StatArb, encompasses a spectrum of trading strategies that leverage statistical techniques and computational algorithms to identify trading opportunities across a variety of markets. At its core, it involves exploiting short-term mispricings between related financial instruments, which can be stocks, bonds, futures, etc., based on the expectation that the prices will converge to a statistical equilibrium over time. This exploitation of financial mispricing is achieved through complex mathematical models and high-speed data analytics, often operating on a high-frequency scale.
 

@@ -1,7 +1,8 @@
 ---
-title: Markov Decision Processes Explained For Machine Learning
+category: quant_concept
 description: Markov Decision Process models guide optimal decisions in reinforcement
   learning by defining states actions rewards and policies Discover more inside.
+title: Markov Decision Processes Explained For Machine Learning
 ---
 
 ![Image](images/1.png)

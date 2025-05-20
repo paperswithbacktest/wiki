@@ -1,6 +1,11 @@
 ---
-title: "Risk-On Risk-Off Trading Strategy Explained (Algo Trading)"
-description: Explore the 'risk on risk off' trading strategy essential for traders to assess market sentiment and align investments with risk appetite trends. Discover how algorithmic trading leverages these indicators to dynamically adjust asset allocation increasing portfolio adaptability and enhancing returns. Uncover which assets thrive in varying market conditions to optimize your trading performance.
+category: trading_strategy
+description: Explore the 'risk on risk off' trading strategy essential for traders
+  to assess market sentiment and align investments with risk appetite trends. Discover
+  how algorithmic trading leverages these indicators to dynamically adjust asset allocation
+  increasing portfolio adaptability and enhancing returns. Uncover which assets thrive
+  in varying market conditions to optimize your trading performance.
+title: Risk-On Risk-Off Trading Strategy Explained (Algo Trading)
 ---
 
 In today's dynamic financial environment, analyzing market sentiments through the 'risk on risk off' (RORO) indicator has become a critical strategy for traders. The RORO indicator is used to determine the market's current risk appetite, distinguishing between 'risk on' periods when investors seek higher-yielding, riskier assets, and 'risk off' times when they prefer safer havens such as bonds or cash. This binary approach helps traders make informed decisions based on prevailing investor sentiment, facilitating more agile asset allocation and capital deployment.

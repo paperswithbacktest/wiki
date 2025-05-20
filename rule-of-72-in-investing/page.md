@@ -1,6 +1,12 @@
 ---
-title: "Rule of 72 in Investing (Algo Trading)"
-description: "Explore the synergy of the Rule of 72, compound interest, and algorithmic trading in modern investing. Learn how the Rule of 72 offers quick investment doubling time estimates, while compound interest drives exponential growth. Discover how algorithmic trading enhances decision-making and precision in today's financial markets. Unlock a comprehensive toolkit to optimize your investment strategies and outcomes."
+category: quant_concept
+description: Explore the synergy of the Rule of 72, compound interest, and algorithmic
+  trading in modern investing. Learn how the Rule of 72 offers quick investment doubling
+  time estimates, while compound interest drives exponential growth. Discover how
+  algorithmic trading enhances decision-making and precision in today's financial
+  markets. Unlock a comprehensive toolkit to optimize your investment strategies and
+  outcomes.
+title: Rule of 72 in Investing (Algo Trading)
 ---
 
 The world of investing is filled with various strategies and tools aimed at maximizing returns. With a myriad of methodologies available, three critical concepts stand out for their potential to enhance investment outcomes: the Rule of 72, compound interest, and algorithmic trading. Each of these concepts plays a distinct role in the investment process, offering unique benefits that, when combined, create a powerful toolkit for any investor.

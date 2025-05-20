@@ -1,6 +1,9 @@
 ---
-title: "Profitability Ratios and Corporate Valuation (Algo Trading)"
-description: "Explore how profitability ratios aid corporate valuation and their role in algorithmic trading This article helps investors assess risk and make informed decisions"
+category: quant_concept
+description: Explore how profitability ratios aid corporate valuation and their role
+  in algorithmic trading This article helps investors assess risk and make informed
+  decisions
+title: Profitability Ratios and Corporate Valuation (Algo Trading)
 ---
 
 The world of finance is complex, but one of the key aspects that investors and analysts focus on is the financial health of companies. Profitability ratios provide a critical lens through which to evaluate how well a business is generating profits in relation to its revenue, assets, equity, or other financial metrics. These ratios serve as essential tools in assessing a company's operational efficiency and financial strength, offering insights that are valuable for multiple stakeholders, including investors, analysts, and corporate management.

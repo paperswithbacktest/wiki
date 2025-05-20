@@ -1,6 +1,8 @@
 ---
-title: "Regular-Way Trade: Definition and Functionality (Algo Trading)"
-description: "Explore the importance of regular-way trade settlement processes in financial markets highlighting how algorithmic trading enhances efficiency by automating transactions."
+category: quant_concept
+description: Explore the importance of regular-way trade settlement processes in financial
+  markets highlighting how algorithmic trading enhances efficiency by automating transactions.
+title: 'Regular-Way Trade: Definition and Functionality (Algo Trading)'
 ---
 
 Financial markets operate through a series of intricate processes, one of which is trade settlement. Trade settlement is the crucial final step of a trade transaction, where the exchange of cash and securities between parties is completed, ensuring that the agreed-upon trade is accurately executed and finalized. This process plays a vital role in maintaining the integrity and efficiency of financial markets.

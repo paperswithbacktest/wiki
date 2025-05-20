@@ -1,7 +1,8 @@
 ---
-title: Essential Loss Functions in Machine Learning Explained
+category: quant_concept
 description: Loss functions in machine learning drive model optimization by measuring
   errors and guiding selection of the right approach Discover more inside
+title: Essential Loss Functions in Machine Learning Explained
 ---
 
 ![Image](images/1.png)

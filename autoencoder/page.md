@@ -1,7 +1,8 @@
 ---
-title: Autoencoders in Machine Learning for Compression and Denoising
+category: quant_concept
 description: Autoencoders compress and denoise data by encoding inputs into compact
   latent representations and reconstructing them with low loss Discover more inside
+title: Autoencoders in Machine Learning for Compression and Denoising
 ---
 
 ![Image](images/1.png)

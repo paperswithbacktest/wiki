@@ -1,6 +1,9 @@
 ---
-title: "Convertible Preferred Shares (Algo Trading)"
-description: "Discover the potential of convertible preferred shares in investment strategies. Learn how these hybrid instruments balance stability with growth opportunities through algorithmic trading."
+category: quant_concept
+description: Discover the potential of convertible preferred shares in investment
+  strategies. Learn how these hybrid instruments balance stability with growth opportunities
+  through algorithmic trading.
+title: Convertible Preferred Shares (Algo Trading)
 ---
 
 In the ever-evolving world of finance, understanding various financial instruments is crucial for investors and corporations alike. Convertible preferred shares and preferred stock are two noteworthy financial instruments that serve distinct roles in investment strategy and corporate finance. These instruments provide unique mechanisms for capital allocation, offering both stability and potential for growth, which are essential for portfolio diversification and risk management.

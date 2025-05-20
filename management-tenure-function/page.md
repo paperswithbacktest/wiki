@@ -1,6 +1,8 @@
 ---
-title: "Management Tenure and Its Function (Algo Trading)"
-description: "Discover how management tenure impacts algorithmic trading and organizational success. Explore its influence on strategy, innovation, and market adaptability."
+category: quant_concept
+description: Discover how management tenure impacts algorithmic trading and organizational
+  success. Explore its influence on strategy, innovation, and market adaptability.
+title: Management Tenure and Its Function (Algo Trading)
 ---
 
 In today's fast-paced business environment, understanding the roles of executive tenure and leadership is crucial for organizational success. Executive tenure, which refers to the period a person holds a leadership position within an organization, has far-reaching implications on how companies operate and adapt over time. It influences not only the strategic direction and stability of an organization but also its innovation capabilities and ability to respond to dynamic market conditions.

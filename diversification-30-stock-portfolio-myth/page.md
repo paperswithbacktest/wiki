@@ -1,6 +1,9 @@
 ---
-title: "Diversification and the 30 Stock Portfolio Myth (Algo Trading)"
-description: "Explore misconceptions around stock portfolio diversification and discover how algorithmic trading can enhance your investment strategy by optimizing risk and returns."
+category: quant_concept
+description: Explore misconceptions around stock portfolio diversification and discover
+  how algorithmic trading can enhance your investment strategy by optimizing risk
+  and returns.
+title: Diversification and the 30 Stock Portfolio Myth (Algo Trading)
 ---
 
 Investors are often advised to diversify their stock portfolios as a strategy to manage risk and optimize returns. The concept of diversification is straightforward: by spreading investments across a range of assets, one can mitigate the risk associated with any single asset performing poorly. This principle is encapsulated in the adage, "Don't put all your eggs in one basket." Despite its apparent simplicity, misconceptions about diversification's efficacy continue to circulate among investors.

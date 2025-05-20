@@ -1,6 +1,9 @@
 ---
-title: "List of the Largest Shipping Companies (Algo Trading)"
-description: "Explore the largest shipping companies and their role in global trade, highlighting the impact of algorithmic trading and technological advancements in the industry."
+category: dataset
+description: Explore the largest shipping companies and their role in global trade,
+  highlighting the impact of algorithmic trading and technological advancements in
+  the industry.
+title: List of the Largest Shipping Companies (Algo Trading)
 ---
 
 The global shipping industry is a cornerstone of international trade, responsible for moving approximately 80% of the world's goods by volume. This extensive network of maritime transport facilitates economic exchanges across continents and plays a crucial role in the global supply chain. It ensures that raw materials and finished products reach their destinations efficiently and cost-effectively, underpinning global commerce and economic interdependence.

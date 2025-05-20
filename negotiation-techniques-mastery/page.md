@@ -1,6 +1,8 @@
 ---
-title: "Negotiation Techniques and Mastery (Algo Trading)"
-description: "Enhance your algorithmic trading edge by mastering key negotiation techniques that improve decision-making and optimize trade execution for better market outcomes."
+category: trading_strategy
+description: Enhance your algorithmic trading edge by mastering key negotiation techniques
+  that improve decision-making and optimize trade execution for better market outcomes.
+title: Negotiation Techniques and Mastery (Algo Trading)
 ---
 
 In the fast-paced world of algorithmic trading, effective negotiation skills can significantly impact the effectiveness of trading strategies. Negotiation techniques, traditionally associated with human interaction, can be crucial in enhancing decision-making processes within automated trading systems. Understanding how to integrate these skills with algorithmic trading can provide traders with a competitive advantage, ultimately improving their financial outcomes.

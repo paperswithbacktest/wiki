@@ -1,6 +1,9 @@
 ---
-title: "Financial Time Series Forecasting (Algo Trading)"
-description: "Explore financial time series forecasting for algorithmic trading using statistical and machine learning techniques to predict market trends and develop strategies."
+category: trading_strategy
+description: Explore financial time series forecasting for algorithmic trading using
+  statistical and machine learning techniques to predict market trends and develop
+  strategies.
+title: Financial Time Series Forecasting (Algo Trading)
 ---
 
 Financial time series forecasting is a foundational component of algorithmic trading, where the primary goal is to predict future market trends using historical data. This process is crucial as it provides the necessary insights to develop robust trading strategies that can operate autonomously with minimal human intervention. By accurately forecasting market movements, traders can make informed decisions, enhancing their ability to capitalize on potential opportunities and mitigate risks.

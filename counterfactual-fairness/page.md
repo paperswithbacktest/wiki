@@ -1,7 +1,8 @@
 ---
-title: Ensuring Counterfactual Fairness in Machine Learning Models
+category: quant_concept
 description: Counterfactual fairness makes machine learning decisions unbiased by
   sensitive attributes ensuring equal treatment for all Discover more inside
+title: Ensuring Counterfactual Fairness in Machine Learning Models
 ---
 
 ![Image](images/1.png)

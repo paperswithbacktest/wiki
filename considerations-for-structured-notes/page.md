@@ -1,6 +1,9 @@
 ---
-title: "Considerations for Structured Notes (Algo Trading)"
-description: "Explore the risks and complexities of structured notes and algorithmic trading, focusing on informed investment decisions, tailored returns, and potential challenges."
+category: quant_concept
+description: Explore the risks and complexities of structured notes and algorithmic
+  trading, focusing on informed investment decisions, tailored returns, and potential
+  challenges.
+title: Considerations for Structured Notes (Algo Trading)
 ---
 
 Investors are increasingly exploring a vast landscape of financial products, among which structured notes and algorithmic trading hold a significant place. However, these investments are not without their risks. This article explores the investment risks associated with financial products like structured notes and algorithmic trading, highlighting the importance of understanding these risks to make informed decisions regarding potential returns and losses.

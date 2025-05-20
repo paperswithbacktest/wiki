@@ -1,6 +1,9 @@
 ---
-title: "Multiple Compression: Overview and Examples (Algo Trading)"
-description: "Explore the role of valuation metrics and multiple compression in algorithmic trading with a focus on how these concepts influence financial analysis and trading strategies."
+category: quant_concept
+description: Explore the role of valuation metrics and multiple compression in algorithmic
+  trading with a focus on how these concepts influence financial analysis and trading
+  strategies.
+title: 'Multiple Compression: Overview and Examples (Algo Trading)'
 ---
 
 In the fast-paced world of financial analysis and algorithmic trading, understanding key concepts such as valuation metrics and multiple compression is crucial. Financial analysis serves as the backbone of informed investment decisions, guiding traders, investors, and analysts through the complexities of modern markets. Algorithmic trading, characterized by its reliance on computer algorithms to execute trades at speeds and frequencies beyond human capability, has made the comprehension of valuation metrics and market dynamics even more critical.

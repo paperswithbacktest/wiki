@@ -1,6 +1,9 @@
 ---
-title: "Foreign Currency Fixed Deposit: Overview and Advantages (Algo Trading)"
-description: "Explore the benefits of Foreign Currency Fixed Deposits including portfolio diversification and potential gains from currency variation while managing forex risks."
+category: quant_concept
+description: Explore the benefits of Foreign Currency Fixed Deposits including portfolio
+  diversification and potential gains from currency variation while managing forex
+  risks.
+title: 'Foreign Currency Fixed Deposit: Overview and Advantages (Algo Trading)'
 ---
 
 A Fixed Deposit (FD) is a financial instrument provided by banks or non-banking financial institutions, offering investors a higher interest rate than a regular savings account until the given maturity date. The investor deposits a sum of money for a fixed tenure, receiving interest typically compounded annually. Upon maturity, the principal amount along with interest is returned to the investor.

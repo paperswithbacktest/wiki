@@ -1,6 +1,8 @@
 ---
-title: "Gramm-Leach-Bliley Act of 1999: Purpose and Implications (Algo Trading)"
-description: "Explore the Gramm-Leach-Bliley Act's role in transforming the banking industry by allowing financial service integration and its impact on modern finance."
+category: quant_concept
+description: Explore the Gramm-Leach-Bliley Act's role in transforming the banking
+  industry by allowing financial service integration and its impact on modern finance.
+title: 'Gramm-Leach-Bliley Act of 1999: Purpose and Implications (Algo Trading)'
 ---
 
 The passage of the Gramm-Leach-Bliley Act (GLBA) in 1999 marked a pivotal shift in the financial services sector. This legislative milestone significantly reshaped the banking landscape by repealing crucial sections of the Glass-Steagall Act, a set of regulations that had previously established firm boundaries between commercial banking, securities, and insurance services for decades. The main objective of the GLBA was to modernize and expand the financial services industry, granting banks the ability to offer a comprehensive suite of services, including insurance and investment products, alongside traditional banking offerings.

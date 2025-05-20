@@ -1,6 +1,8 @@
 ---
-title: "Gifting Non-Fungible Tokens (Algo Trading)"
-description: "Discover how NFTs are revolutionizing gift-giving by combining exclusivity and originality with algorithmic trading insights for a modern digital experience."
+category: quant_concept
+description: Discover how NFTs are revolutionizing gift-giving by combining exclusivity
+  and originality with algorithmic trading insights for a modern digital experience.
+title: Gifting Non-Fungible Tokens (Algo Trading)
 ---
 
 Digital gifts are transforming traditional concepts of gifting, with non-fungible tokens (NFTs) leading this innovative shift. NFTs provide a distinctive gifting experience through exclusive ownership embedded in the digital realm. Unlike conventional gifts that are tangible, NFTs represent ownership and authenticity of digital items such as art, music, and collectibles. This unique attribute of exclusivity and originality in the digital space offers a fresh and creative way to celebrate special occasions, appealing to tech-savvy individuals and collectors alike.

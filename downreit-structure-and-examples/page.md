@@ -1,6 +1,9 @@
 ---
-title: "DownREIT: Structure and Examples (Algo Trading)"
-description: "Explore DownREIT structures with tax advantages for real estate investments. Compare benefits, including algorithmic trading, to navigate property investments efficiently."
+category: quant_concept
+description: Explore DownREIT structures with tax advantages for real estate investments.
+  Compare benefits, including algorithmic trading, to navigate property investments
+  efficiently.
+title: 'DownREIT: Structure and Examples (Algo Trading)'
 ---
 
 The world of real estate investment offers a myriad of structures and vehicles, catering to diverse investment objectives and strategies. Among these is the DownREIT, a specialized partnership between real estate owners and Real Estate Investment Trusts (REITs), focused on the acquisition and management of properties. DownREITs stand out due to their unique structure that allows real estate owners to defer capital gains taxes, a feature that offers significant tax planning advantages.

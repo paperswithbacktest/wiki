@@ -1,6 +1,9 @@
 ---
-title: "Capital Risk in Investment (Algo Trading)"
-description: "Explore the importance of understanding capital risk in investment strategies including the role of algorithmic trading in managing risks for smarter investment decisions."
+category: quant_concept
+description: Explore the importance of understanding capital risk in investment strategies
+  including the role of algorithmic trading in managing risks for smarter investment
+  decisions.
+title: Capital Risk in Investment (Algo Trading)
 ---
 
 In modern investment strategies, financial risks are crucial considerations that investors must address to safeguard their investments and maximize returns. These risks are inherent in all investment activities due to multifactorial influences such as market volatility, economic changes, and evolving technologies. Understanding the nature and sources of financial risks enables investors to adopt risk management strategies that are effective and adaptive.

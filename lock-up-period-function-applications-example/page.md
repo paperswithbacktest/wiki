@@ -1,6 +1,12 @@
 ---
-title: "Lock-Up Period: Function, Applications, and Example (Algo Trading)"
-description: "Discover the crucial role of lock-up periods in financial markets, especially in IPOs and hedge funds. Learn how these periods prevent early sell-offs, stabilize stock prices, and align interests of investors. Explore the impact of lock-up periods on investment strategies and how algorithmic trading aids in managing risks and capitalizing on market opportunities. This page offers insights into the function, applications, and examples of lock-up periods in the context of algorithmic trading."
+category: quant_concept
+description: Discover the crucial role of lock-up periods in financial markets, especially
+  in IPOs and hedge funds. Learn how these periods prevent early sell-offs, stabilize
+  stock prices, and align interests of investors. Explore the impact of lock-up periods
+  on investment strategies and how algorithmic trading aids in managing risks and
+  capitalizing on market opportunities. This page offers insights into the function,
+  applications, and examples of lock-up periods in the context of algorithmic trading.
+title: 'Lock-Up Period: Function, Applications, and Example (Algo Trading)'
 ---
 
 Stock restrictions and lock-up periods are essential mechanisms in the financial world, particularly relevant in the context of Initial Public Offerings (IPOs) and hedge funds. A lock-up period is a predetermined time frame following an IPO where major shareholders, such as company insiders and early investors, are restricted from selling their shares. This period is also prevalent in hedge funds, where investors are required to keep their capital invested for a set period before withdrawal is permitted.

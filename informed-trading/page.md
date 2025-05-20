@@ -1,6 +1,8 @@
 ---
-title: "informed trading (Algo Trading)"
-description: "Explore the world of informed trading with algorithmic trading, a tech-driven approach that enhances market efficiency, reduces human error, and boosts precision."
+category: trading_strategy
+description: Explore the world of informed trading with algorithmic trading, a tech-driven
+  approach that enhances market efficiency, reduces human error, and boosts precision.
+title: informed trading (Algo Trading)
 ---
 
 Informed trading, often synonymous with algorithmic trading (algo trading), marks a technological advancement in the stock market domain. This innovative approach employs sophisticated computer algorithms to execute trades based on predefined criteria, offering a level of speed and precision that traditional manual trading methods cannot achieve. Designed to eliminate human error and emotional bias, algo trading enhances the efficiency of trading operations.

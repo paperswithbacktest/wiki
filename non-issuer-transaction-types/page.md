@@ -1,6 +1,9 @@
 ---
-title: "Non-Issuer Transaction and Its Types (Algo Trading)"
-description: "Explore the key aspects of non-issuer transactions in secondary markets Learn how these transactions enhance liquidity and price discovery and the role of algorithmic trading in improving market efficiency"
+category: quant_concept
+description: Explore the key aspects of non-issuer transactions in secondary markets
+  Learn how these transactions enhance liquidity and price discovery and the role
+  of algorithmic trading in improving market efficiency
+title: Non-Issuer Transaction and Its Types (Algo Trading)
 ---
 
 Non-issuer transaction securities are significant elements within the financial ecosystem, primarily occurring in secondary markets where securities are traded after their initial sale by the issuer. Unlike issuer transactions, which involve the original sale of securities by the issuing entity, non-issuer transactions encompass exchanges between investors, thus contributing to the fluidity and functionality of the financial markets.

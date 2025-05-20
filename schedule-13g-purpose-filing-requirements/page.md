@@ -1,6 +1,8 @@
 ---
-title: "Schedule 13G: Purpose and Filing Requirements (Algo Trading)"
-description: "Explore the role of Schedule 13G, a key SEC filing, essential for passive investors holding over 5% of a company. Understand its impact on algo trading."
+category: quant_concept
+description: Explore the role of Schedule 13G, a key SEC filing, essential for passive
+  investors holding over 5% of a company. Understand its impact on algo trading.
+title: 'Schedule 13G: Purpose and Filing Requirements (Algo Trading)'
 ---
 
 Transparency is a cornerstone of modern financial markets, providing essential insights that enable investors to make informed decisions. Among the various tools used to maintain this transparency are Schedule 13G filings with the U.S. Securities and Exchange Commission (SEC). These filings are particularly relevant for significant investors, as they disclose the acquisition of more than 5% of a company’s stock. Unlike Schedule 13D, which is required when an investor aims to influence company decisions, Schedule 13G is designed for those who remain passive. This article focuses on the role of Schedule 13G filings within investment reporting, shedding light on their importance and the implications for emerging trends such as algorithmic trading.

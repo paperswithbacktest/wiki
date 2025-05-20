@@ -1,6 +1,9 @@
 ---
-title: "Positive Feedback Mechanisms and Functions (Algo Trading)"
-description: "Explore the importance of positive feedback in algorithmic trading and biological systems Discover how these mechanisms drive changes ensuring efficiency and adaptability"
+category: quant_concept
+description: Explore the importance of positive feedback in algorithmic trading and
+  biological systems Discover how these mechanisms drive changes ensuring efficiency
+  and adaptability
+title: Positive Feedback Mechanisms and Functions (Algo Trading)
 ---
 
 Feedback mechanisms are fundamental components in biological systems that play crucial roles in maintaining stability, homeostasis, and regulation. These mechanisms are processes that organisms use to keep internal conditions within a narrow, healthy range despite external changes. Essentially, they function as control systems that respond to deviations from a normal set point, reinstating equilibrium within the organism. Two primary types of feedback mechanisms exist: negative and positive feedback. Negative feedback works to negate or dampen changes, promoting stability, while positive feedback amplifies changes, driving a process forward until a particular outcome is achieved.

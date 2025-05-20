@@ -1,6 +1,9 @@
 ---
-title: "Capital Expenditure Budgeting for Companies (Algo Trading)"
-description: "Explore the link between capital expenditure budgeting and algorithmic trading to enhance company growth enhance efficiency and stay competitive in evolving markets."
+category: quant_concept
+description: Explore the link between capital expenditure budgeting and algorithmic
+  trading to enhance company growth enhance efficiency and stay competitive in evolving
+  markets.
+title: Capital Expenditure Budgeting for Companies (Algo Trading)
 ---
 
 In today's dynamic business environment, companies are constantly striving to improve their operations through strategic financial planning and investment. Central to this effort are capital expenditures (CapEx), which play a pivotal role in company budgeting and financial planning, particularly in industries reliant on substantial asset acquisition and upgrades. CapEx involves the allocation of resources towards long-term assets such as property, industrial equipment, and technology infrastructure, which are essential for the growth and operational efficiency of a company. These investments are recorded on the balance sheet and depreciated over time, signifying their enduring value and impact on future business operations.

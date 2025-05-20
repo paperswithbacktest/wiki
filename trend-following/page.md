@@ -1,9 +1,12 @@
 ---
-title: "Trend following (Algo Trading)"
-description: Discover the historical roots, concepts, strategy development, and implementation of trend following in algorithmic trading. Learn how mathematical models and computational algorithms are used to recognize trends, generate signals, and execute trades autonomously. From ancient merchants to modern trend following funds like John W. Henry & Company, explore the power and profitability of this systematic trading strategy.
+category: trading_strategy
+description: Discover the historical roots, concepts, strategy development, and implementation
+  of trend following in algorithmic trading. Learn how mathematical models and computational
+  algorithms are used to recognize trends, generate signals, and execute trades autonomously.
+  From ancient merchants to modern trend following funds like John W. Henry & Company,
+  explore the power and profitability of this systematic trading strategy.
+title: Trend following (Algo Trading)
 ---
-
-
 
 Trend following, a classic trading strategy, revolves around capitalizing on persistent market movements by securing positions in the direction of the prevailing trend. Particularly in algorithmic trading, trend following is of paramount importance due to its methodical, rule-based nature that leverages statistical probabilities to identify and act upon lucrative trading opportunities. Algorithmic traders apply mathematical models and computational algorithms to recognize trends, generate signals, and execute trades autonomously, minimizing human intervention and emotional biases.
 

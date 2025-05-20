@@ -1,7 +1,8 @@
 ---
-title: Key Miscellaneous Components in Machine Learning Models
+category: quant_concept
 description: Miscellaneous components in machine learning improve models through feature
   optimization hyperparameter tuning and interpretability Discover more inside
+title: Key Miscellaneous Components in Machine Learning Models
 ---
 
 ![Image](images/1.png)

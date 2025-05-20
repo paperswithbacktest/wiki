@@ -1,6 +1,8 @@
 ---
-title: "Shanghai Stock Exchange Overview (Algo Trading)"
-description: "Discover how the Shanghai Stock Exchange leverages algorithmic trading, enhancing market efficiency and liquidity, in the world's largest stock exchange."
+category: quant_concept
+description: Discover how the Shanghai Stock Exchange leverages algorithmic trading,
+  enhancing market efficiency and liquidity, in the world's largest stock exchange.
+title: Shanghai Stock Exchange Overview (Algo Trading)
 ---
 
 The Shanghai Stock Exchange (SSE) stands as the largest stock exchange in China by market capitalization and is recognized as one of the most significant financial exchanges globally. Established in 1990, the SSE has played a pivotal role in the economic growth and financial reform in China, acting as a major platform for capital formation. As of recent years, the market capitalization of the SSE continues to demonstrate its robust presence and influence in the global financial markets.

@@ -1,6 +1,8 @@
 ---
-title: "Limit Down in Stocks and Futures (Algo Trading)"
-description: "Explore the role of limit down mechanisms in regulating stock and futures markets, and how algorithmic trading adapts to manage risk in volatile environments."
+category: quant_concept
+description: Explore the role of limit down mechanisms in regulating stock and futures
+  markets, and how algorithmic trading adapts to manage risk in volatile environments.
+title: Limit Down in Stocks and Futures (Algo Trading)
 ---
 
 In the world of trading, managing risk and volatility is crucial for both novice and experienced investors. The mechanisms that govern trading activities are designed to maintain market stability, with 'limit down' regulations playing a significant role in the futures and stock markets. These measures prevent drastic price declines by implementing trading restrictions, ensuring that market participants have time to digest information and make informed decisions rather than succumbing to panic.

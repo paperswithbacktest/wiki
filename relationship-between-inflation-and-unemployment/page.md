@@ -1,6 +1,8 @@
 ---
-title: "Relationship Between Inflation and Unemployment (Algo Trading)"
-description: "Explore the interplay between inflation and unemployment in the context of algorithmic trading Discover how trading algorithms influence financial markets."
+category: quant_concept
+description: Explore the interplay between inflation and unemployment in the context
+  of algorithmic trading Discover how trading algorithms influence financial markets.
+title: Relationship Between Inflation and Unemployment (Algo Trading)
 ---
 
 Understanding the relationship between unemployment and inflation has been a seminal focus in economic theory and policy-making for decades. These two critical economic indicators often shape the contours of economic stability and growth by influencing aggregate demand, monetary policy, and input costs within an economy. The traditional Phillips Curve posits an inverse relationship between unemployment and inflation, suggesting that low unemployment can lead to higher inflation and vice versa. However, the empirical robustness of this model has been debated, with modern economic dynamics such as globalization and technological advances introducing complexities that challenge the classical interpretation.

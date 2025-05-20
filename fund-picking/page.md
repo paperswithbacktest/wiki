@@ -1,9 +1,12 @@
 ---
-title: "Fund Picking (Algo Trading)"
-description: Explore the complex world of fund picking in algo trading and its importance in achieving superior returns. Learn why past performance is an unreliable indicator, and discover additional competence indicators for fund managers. Delve into the realities of active funds and consider the momentum strategy for effective fund selection. Become a well-informed investor with our resources and datasets.
+category: trading_strategy
+description: Explore the complex world of fund picking in algo trading and its importance
+  in achieving superior returns. Learn why past performance is an unreliable indicator,
+  and discover additional competence indicators for fund managers. Delve into the
+  realities of active funds and consider the momentum strategy for effective fund
+  selection. Become a well-informed investor with our resources and datasets.
+title: Fund Picking (Algo Trading)
 ---
-
-
 
 In recent years, many investors have turned to algorithmic trading and fund selection measures as tools to optimize their investment portfolios and enhance performance outcomes. Fund Picking, the process of identifying and selecting funds with strong potential for growth and stability, has become a crucial component in this approach. Through strategic use of algorithms, investors can evaluate vast amounts of data in order to pinpoint which funds or fund managers are likely to deliver consistent value.
 

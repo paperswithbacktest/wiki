@@ -1,6 +1,9 @@
 ---
-title: "Benefits of Triple Exponential Moving Average (Algo Trading)"
-description: "Discover the power of Triple Exponential Moving Average (TRIX) in trading Learn how TRIX filters market noise identifies trends and enhances algorithmic trading strategies"
+category: trading_strategy
+description: Discover the power of Triple Exponential Moving Average (TRIX) in trading
+  Learn how TRIX filters market noise identifies trends and enhances algorithmic trading
+  strategies
+title: Benefits of Triple Exponential Moving Average (Algo Trading)
 ---
 
 In trading, technical analysis tools are essential for traders looking to identify trends and make informed decisions. These tools facilitate a deeper understanding of market movements and help anticipate future price directions. Among various technical indicators, the Triple Exponential Moving Average (TRIX) serves as a powerful instrument in both identifying market trends and providing momentum signals.

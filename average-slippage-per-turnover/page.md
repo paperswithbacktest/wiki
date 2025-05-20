@@ -1,6 +1,12 @@
 ---
-title: "Average slippage per turnover (Algo Trading)"
-description: Explore how algorithmic trading efficiency is affected by slippage, the price difference during trade execution caused by factors like market volatility and liquidity. Dive into average slippage per turnover, a key metric to assess trading strategy effectiveness by analyzing execution cost proportional to trade volume. Learn how understanding and managing slippage can enhance trading performance, enabling better adjustment of algorithmic strategies for optimal results.
+category: trading_strategy
+description: Explore how algorithmic trading efficiency is affected by slippage, the
+  price difference during trade execution caused by factors like market volatility
+  and liquidity. Dive into average slippage per turnover, a key metric to assess trading
+  strategy effectiveness by analyzing execution cost proportional to trade volume.
+  Learn how understanding and managing slippage can enhance trading performance, enabling
+  better adjustment of algorithmic strategies for optimal results.
+title: Average slippage per turnover (Algo Trading)
 ---
 
 Algorithmic trading, commonly referred to as algo trading, has transformed the landscape of financial markets by automating trading processes and enhancing the speed and efficiency of trade executions. This technological advancement leverages computer algorithms to execute pre-determined trading strategies at speeds and frequencies impossible for human traders, thus capitalizing on even the smallest market inefficiencies. However, despite its benefits, algorithmic trading is not devoid of challenges.

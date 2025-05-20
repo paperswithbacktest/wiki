@@ -1,7 +1,8 @@
 ---
-title: Understanding Tower Models in Machine Learning Architectures
+category: quant_concept
 description: Tower models in machine learning improve performance by processing diverse
   data with specialized towers and a shared backbone Discover more inside.
+title: Understanding Tower Models in Machine Learning Architectures
 ---
 
 ![Image](images/1.jpeg)

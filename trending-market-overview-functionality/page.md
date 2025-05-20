@@ -1,6 +1,9 @@
 ---
-title: "Trending Market: Overview and Functionality (Algo Trading)"
-description: "Discover how algorithmic trading leverages technology and AI to enhance financial trading strategies by automating decisions for precision and speed in the market."
+category: quant_concept
+description: Discover how algorithmic trading leverages technology and AI to enhance
+  financial trading strategies by automating decisions for precision and speed in
+  the market.
+title: 'Trending Market: Overview and Functionality (Algo Trading)'
 ---
 
 The financial markets experience continuous change, primarily influenced by technological advancements, economic fluctuations, and evolving investor behaviors. These dynamic factors not only affect market stability but also shape the strategies employed by traders and investors. A pivotal trend transforming the financial landscape is the increasing adoption of algorithmic trading. This method leverages cutting-edge technology to execute trades with remarkable precision and speed, thus redefining traditional trading practices.

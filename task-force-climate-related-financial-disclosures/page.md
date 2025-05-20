@@ -1,6 +1,8 @@
 ---
-title: "Task Force on Climate-Related Financial Disclosures (Algo Trading)"
-description: "Explore the synergy between TCFD climate risk disclosures and algorithmic trading to enhance risk management and optimize strategies in financial markets."
+category: quant_concept
+description: Explore the synergy between TCFD climate risk disclosures and algorithmic
+  trading to enhance risk management and optimize strategies in financial markets.
+title: Task Force on Climate-Related Financial Disclosures (Algo Trading)
 ---
 
 Climate risk management is increasingly recognized as an essential aspect of ensuring financial stability and maintaining investor confidence within the modern corporate environment. This is due to the growing impact of climate change on the global economy, which poses significant financial risks and opportunities. The Task Force on Climate-Related Financial Disclosures (TCFD) has emerged as a key player in standardizing climate-related financial risk disclosures, providing organizations and investors with a framework to assess and report on these risks. Established by the Financial Stability Board in 2015, the TCFD aims to foster transparency and consistency in reporting, thereby enabling stakeholders to make informed decisions.

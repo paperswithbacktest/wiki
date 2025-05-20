@@ -1,6 +1,8 @@
 ---
-title: "Absolute Advantage and Comparative Advantage (Algo Trading)"
-description: "Discover how comparative and absolute advantage concepts enhance algorithmic trading strategies by optimizing trade opportunities and market efficiencies."
+category: quant_concept
+description: Discover how comparative and absolute advantage concepts enhance algorithmic
+  trading strategies by optimizing trade opportunities and market efficiencies.
+title: Absolute Advantage and Comparative Advantage (Algo Trading)
 ---
 
 The concepts of comparative advantage and absolute advantage are cornerstones of economic theory. These principles, introduced by Adam Smith and further developed by David Ricardo, have been instrumental in explaining the motivations for international trade. Absolute advantage refers to the ability of an individual, firm, or country to produce more of a good or service with the same amount of resources, thereby demonstrating greater productivity or efficiency. On the other hand, comparative advantage emphasizes the relative efficiency in producing goods, suggesting that even if one nation does not have an absolute advantage, it can benefit from trade by specializing in goods that it can produce at a lower opportunity cost compared to others.

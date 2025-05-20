@@ -1,6 +1,9 @@
 ---
-title: "Eurasian Economic Union (Algo Trading)"
-description: "Explore the impact of the Eurasian Economic Union's economic integration on algorithmic trading highlighting the role of technology in financial markets across member states."
+category: quant_concept
+description: Explore the impact of the Eurasian Economic Union's economic integration
+  on algorithmic trading highlighting the role of technology in financial markets
+  across member states.
+title: Eurasian Economic Union (Algo Trading)
 ---
 
 The Eurasian Economic Union (EAEU) represents a formidable strategic endeavor with the primary objective of enhancing economic collaboration among its member countries. Initially established by Belarus, Kazakhstan, and Russia, the union has expanded to include Armenia and Kyrgyzstan. This integration aims to enable the free movement of goods, services, labor, and capital across member states, fostering a unified economic landscape.

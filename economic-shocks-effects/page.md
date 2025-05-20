@@ -1,6 +1,9 @@
 ---
-title: "Economic Shocks and Their Effects (Algo Trading)"
-description: "Explore the impact of economic shocks on markets and the crucial role of algorithmic trading in mitigating risks and stabilizing economies during such disruptions."
+category: quant_concept
+description: Explore the impact of economic shocks on markets and the crucial role
+  of algorithmic trading in mitigating risks and stabilizing economies during such
+  disruptions.
+title: Economic Shocks and Their Effects (Algo Trading)
 ---
 
 Economic shocks are unexpected events that profoundly disrupt the balance of an economy. These disruptions can emanate from various sources including financial markets, natural disasters, or sudden policy changes. When such shocks occur, they have wide-ranging impacts on key macroeconomic variables such as unemployment, inflation, and gross domestic product (GDP).

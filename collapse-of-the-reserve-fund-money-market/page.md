@@ -1,6 +1,9 @@
 ---
-title: "Collapse of The Reserve Fund in Money Market (Algo Trading)"
-description: "Explore the 2008 financial crisis impact on money markets provoked by the Reserve Fund collapse and examine the rise of algorithmic trading in modern finance."
+category: quant_concept
+description: Explore the 2008 financial crisis impact on money markets provoked by
+  the Reserve Fund collapse and examine the rise of algorithmic trading in modern
+  finance.
+title: Collapse of The Reserve Fund in Money Market (Algo Trading)
 ---
 
 The financial landscape experienced significant turmoil during the global financial crisis of 2008, with the Reserve Fund becoming one of the focal points of money market financial collapse. The Reserve Fund, famous for its money market fund, the Primary Fund, was the first to "break the buck" when its net asset value fell below $1 per share. This event triggered a panic among investors, highlighting the vulnerabilities within money markets. These markets, traditionally viewed as safe and stable, play a crucial role in providing short-term liquidity by dealing in instruments such as treasury bills and commercial paper. The collapse of the Reserve Fund exemplified how interconnected financial institutions and instruments can suffer under stressed conditions.

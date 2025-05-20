@@ -1,6 +1,9 @@
 ---
-title: "Individual Transfer Quota: Overview and Mechanism (Algo Trading)"
-description: "Explore how Individual Transfer Quotas (ITQs) improve fisheries management by promoting sustainable practices and efficient market-based quota exchange through algorithmic trading."
+category: quant_concept
+description: Explore how Individual Transfer Quotas (ITQs) improve fisheries management
+  by promoting sustainable practices and efficient market-based quota exchange through
+  algorithmic trading.
+title: 'Individual Transfer Quota: Overview and Mechanism (Algo Trading)'
 ---
 
 Individual Transfer Quotas (ITQs) play a critical role in the fishing industry by providing a structured approach to manage and sustain fish stock levels. The concept of ITQs revolves around allocating specific portions of the total allowable catch to individual fishermen, companies, or vessels. This allocation helps limit overfishing, ensuring the long-term sustainability of fish populations. By granting rights to specific quotas, ITQs encourage responsible fishing practices and promote economic efficiency by allowing market-driven transfer and trade of quotas.

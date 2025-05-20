@@ -1,6 +1,8 @@
 ---
-title: "Incremental Capital Output Ratio (ICOR) (Algo Trading)"
-description: "Discover how the Incremental Capital Output Ratio (ICOR) influences investment efficiency and economic growth in algorithmic trading strategies."
+category: quant_concept
+description: Discover how the Incremental Capital Output Ratio (ICOR) influences investment
+  efficiency and economic growth in algorithmic trading strategies.
+title: Incremental Capital Output Ratio (ICOR) (Algo Trading)
 ---
 
 The Incremental Capital Output Ratio (ICOR) is an essential economic metric utilized to evaluate the efficiency of capital investments in fostering economic growth. It provides insights into how additional investments translate into incremental outputs, offering a gauge for the productivity of capital allocations. This metric is instrumental in economic analysis, enabling economists and investors to discern the effectiveness of investment strategies within an economy. The value of ICOR lies in its ability to quantify the relationship between investment and economic output, highlighting the conditions under which investments are most likely to yield higher economic returns.

@@ -1,6 +1,8 @@
 ---
-title: "Direct Quote in Currency Trading (Algo Trading)"
-description: "Explore how direct quotes and algorithmic trading enhance currency trading by simplifying foreign exchange valuation and leveraging quick market responses."
+category: quant_concept
+description: Explore how direct quotes and algorithmic trading enhance currency trading
+  by simplifying foreign exchange valuation and leveraging quick market responses.
+title: Direct Quote in Currency Trading (Algo Trading)
 ---
 
 Currency trading significantly impacts the global financial ecosystem by influencing economic stability and facilitating international trade. Central to this system are exchange rates, the values at which one currency can be exchanged for another, which serve as indicators of economic health and guides for international transactions. Among the ways exchange rates are represented, direct quotes hold particular importance for both traders and businesses. A direct quote denotes the amount of domestic currency needed to purchase a unit of foreign currency, providing a straightforward method to understand currency valuation.

@@ -1,6 +1,12 @@
 ---
-title: "Parameterless trading models (Algo Trading)"
-description: Explore the world of parameterless trading models in algorithmic trading with a focus on their adaptability and simplicity. These innovative models eliminate the need for constant parameter adjustments, reducing overfitting risks and enhancing reliability in diverse market conditions. Discover how they streamline strategy development and maintenance, offering traders new opportunities in a fast-evolving financial landscape.
+category: trading_strategy
+description: Explore the world of parameterless trading models in algorithmic trading
+  with a focus on their adaptability and simplicity. These innovative models eliminate
+  the need for constant parameter adjustments, reducing overfitting risks and enhancing
+  reliability in diverse market conditions. Discover how they streamline strategy
+  development and maintenance, offering traders new opportunities in a fast-evolving
+  financial landscape.
+title: Parameterless trading models (Algo Trading)
 ---
 
 Algorithmic trading, often referred to as algo trading, has fundamentally transformed financial markets by leveraging high-speed capabilities and data-driven strategies. This approach enables traders to execute vast numbers of trades with precision and efficiency, harnessing the power of modern computing technology. A significant development in this field is the advent of parameterless trading models, which have attracted attention due to their simplicity and robustness.

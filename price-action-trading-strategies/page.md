@@ -1,6 +1,9 @@
 ---
-title: "Price Action Trading Strategies (Algo Trading)"
-description: "Discover how combining price action trading and algorithmic strategies can enhance market analysis and execution offering traders improved efficiency and insight."
+category: trading_strategy
+description: Discover how combining price action trading and algorithmic strategies
+  can enhance market analysis and execution offering traders improved efficiency and
+  insight.
+title: Price Action Trading Strategies (Algo Trading)
 ---
 
 In the rapidly evolving world of financial markets, trading strategies are continuously being refined to optimize success. Among the myriad of approaches, price action and algorithmic trading have risen to prominence among traders seeking to enhance their trading performance. Price action trading involves analyzing historical price movement without relying heavily on technical indicators, allowing traders to identify potential opportunities based on patterns and trends. On the other hand, algorithmic trading leverages computer algorithms to execute trades automatically, based on pre-set criteria, bringing speed and precision to the trading process.

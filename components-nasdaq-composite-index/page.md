@@ -1,6 +1,8 @@
 ---
-title: "Components of the Nasdaq Composite Index (Algo Trading)"
-description: "Explore the dynamic relationship between the Nasdaq Composite Index and algorithmic trading to understand their impact on technology stocks and market strategies."
+category: quant_concept
+description: Explore the dynamic relationship between the Nasdaq Composite Index and
+  algorithmic trading to understand their impact on technology stocks and market strategies.
+title: Components of the Nasdaq Composite Index (Algo Trading)
 ---
 
 Financial markets rely on indices as critical indicators of market performance. Among the most notable stock market indices is the Nasdaq Composite, distinguished by its heavy concentration on technology and innovation. In recent years, algorithmic trading, commonly known as algo trading, has drastically transformed trading strategies and execution methods within modern financial markets. This article examines the relationship between the Nasdaq Composite and algo trading, highlighting the significant impact they have on investors and the broader market ecosystem. Understanding these concepts is essential for both experienced investors and newcomers seeking to navigate the ever-evolving landscape of stock markets.

@@ -1,6 +1,8 @@
 ---
-title: "Tax-Equivalent Yield: Explanation and Calculation (Algo Trading)"
-description: "Explore how bond yield, tax-equivalent yield, and algorithmic trading intersect in investment strategies. Understand their roles in optimizing returns."
+category: quant_concept
+description: Explore how bond yield, tax-equivalent yield, and algorithmic trading
+  intersect in investment strategies. Understand their roles in optimizing returns.
+title: 'Tax-Equivalent Yield: Explanation and Calculation (Algo Trading)'
 ---
 
 Bond yield, tax-equivalent yield, investment returns, and algorithmic trading are fundamental concepts in today's financial markets. Bond yield refers to the return an investor realizes on a bond. It provides investors with vital information on the effectiveness of the bond compared to other investments. The tax-equivalent yield is the yield on a taxable bond that an investor would need to earn to match the yield of a tax-exempt bond. This is particularly useful when comparing municipal bonds, which are often tax-exempt, with taxable securities.

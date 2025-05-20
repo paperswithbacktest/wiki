@@ -1,6 +1,8 @@
 ---
-title: "Cboe Volatility Index (VIX) and Its Calculation (Algo Trading)"
-description: "Discover the VIX's role in algorithmic trading as a key market sentiment tool Analyze its calculation its evolution and its impact on trading strategies"
+category: quant_concept
+description: Discover the VIX's role in algorithmic trading as a key market sentiment
+  tool Analyze its calculation its evolution and its impact on trading strategies
+title: Cboe Volatility Index (VIX) and Its Calculation (Algo Trading)
 ---
 
 The VIX, formally known as the CBOE Volatility Index, is widely recognized as the 'Fear Index' due to its ability to measure market volatility. It represents the market's expectation of future volatility over the coming 30 days, derived from real-time S&P 500 Index options prices. The VIX serves as an essential tool for traders, providing insights into market sentiment and the perceived level of risk. As such, it has become an integral component of market analysis, symbolizing periods of market fear when its level is high and stability when it is low.

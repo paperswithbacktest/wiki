@@ -1,6 +1,8 @@
 ---
-title: "Protected Cell Company Overview (Algo Trading)"
-description: "Explore how the Protected Cell Company model enhances algorithmic trading with its distinct structure segregating cells for risk management and asset protection."
+category: quant_concept
+description: Explore how the Protected Cell Company model enhances algorithmic trading
+  with its distinct structure segregating cells for risk management and asset protection.
+title: Protected Cell Company Overview (Algo Trading)
 ---
 
 The business landscape is characterized by continuous evolution, developing various models to cater to distinct needs. Among these models is the Protected Cell Company (PCC), a sophisticated financial structure that has proven advantageous in sectors such as insurance and investment funds. The Protected Cell Company model allows for risk management and asset protection through its innovative architecture of segregated cells within a single legal entity. Each cell operates independently with its own assets and liabilities, providing a unique mechanism to isolate financial risks effectively.

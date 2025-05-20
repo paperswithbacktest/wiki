@@ -1,6 +1,9 @@
 ---
-title: "Absolute Value: Overview and Calculation Methods (Algo Trading)"
-description: "Explore absolute value in algorithmic trading as a key mathematical concept enhancing financial strategies by focusing on intrinsic asset value amidst market volatility."
+category: quant_concept
+description: Explore absolute value in algorithmic trading as a key mathematical concept
+  enhancing financial strategies by focusing on intrinsic asset value amidst market
+  volatility.
+title: 'Absolute Value: Overview and Calculation Methods (Algo Trading)'
 ---
 
 The world of finance is constantly evolving, with new technologies and methodologies reshaping the landscape. One of the most prominent developments in recent years is algorithmic trading, which utilizes computer algorithms to execute trading strategies with speed and efficiency. These strategies often rely on complex mathematical models to predict market movements and optimize trading decisions. Among the critical mathematical concepts underpinning these models is the concept of absolute value.

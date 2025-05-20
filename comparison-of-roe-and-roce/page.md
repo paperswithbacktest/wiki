@@ -1,6 +1,9 @@
 ---
-title: "Comparison of ROE and ROCE (Algo Trading)"
-description: "Explore the crucial role of ROE and ROCE in algorithmic trading and learn how these metrics can optimize trading strategies by analyzing a company's financial health."
+category: quant_concept
+description: Explore the crucial role of ROE and ROCE in algorithmic trading and learn
+  how these metrics can optimize trading strategies by analyzing a company's financial
+  health.
+title: Comparison of ROE and ROCE (Algo Trading)
 ---
 
 In the world of finance and investment, professionals frequently utilize financial ratios to assess a company's performance and profitability. Among these, Return on Equity (ROE) and Return on Capital Employed (ROCE) stand out as two critical metrics, offering insightful perspectives into a company's operational efficiency. ROE evaluates how well a company generates profits from its shareholders' equity, while ROCE assesses the overall effectiveness with which a company employs its capital, including both debt and equity.

@@ -1,6 +1,8 @@
 ---
-title: "Methods of Buying and Selling Securities (Algo Trading)"
-description: "Explore the crucial strategies in algo and securities trading to optimize investment outcomes. Discover buying methods from brokerages to direct purchases."
+category: trading_strategy
+description: Explore the crucial strategies in algo and securities trading to optimize
+  investment outcomes. Discover buying methods from brokerages to direct purchases.
+title: Methods of Buying and Selling Securities (Algo Trading)
 ---
 
 In modern financial markets, buying and selling strategies, investment methods, securities trading, and algorithmic trading are crucial components that shape the landscape for investors and traders. These elements provide diverse pathways for capital growth and risk management, helping market participants optimize their financial outcomes. 

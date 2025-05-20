@@ -1,7 +1,8 @@
 ---
-title: Key Concepts of Binary Classification in Machine Learning
+category: quant_concept
 description: Binary classification in machine learning applies clear boundaries and
   metrics to sort data into two categories Discover more inside.
+title: Key Concepts of Binary Classification in Machine Learning
 ---
 
 ![Image](images/1.png)

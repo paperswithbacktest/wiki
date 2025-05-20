@@ -1,6 +1,9 @@
 ---
-title: "Proportional Consolidation in Accounting (Algo Trading)"
-description: "Explore how proportional consolidation in accounting and algorithmic trading strategies impact financial reporting aiding investors in making informed decisions."
+category: quant_concept
+description: Explore how proportional consolidation in accounting and algorithmic
+  trading strategies impact financial reporting aiding investors in making informed
+  decisions.
+title: Proportional Consolidation in Accounting (Algo Trading)
 ---
 
 The financial sector encompasses a wide array of accounting methodologies and trading strategies that fundamentally shape financial reporting. This article focuses on three significant concepts: accounting methods, financial reporting through proportional consolidation, and the influence of algorithmic trading. A proper understanding of these areas assists investors and businesses in more effectively navigating financial environments.
@@ -72,4 +75,3 @@ As financial environments become increasingly intricate, staying updated with ac
 - **"Quantitative Investment Analysis" by Richard A. DeFusco, Dennis W. McLeavey, Jerald E. Pinto, and David E. Runkle.** This text offers a thorough examination of the quantitative tools and techniques used in investment analysis. It is crucial for understanding the quantitative aspects that impact financial reporting and decision-making.
 
 - **"Intermediate Accounting" by Donald E. Kieso, Jerry J. Weygandt, and Terry D. Warfield.** This authoritative text is beneficial for understanding the principles of accounting, particularly in relation to consolidation methods and financial statement preparation.
-

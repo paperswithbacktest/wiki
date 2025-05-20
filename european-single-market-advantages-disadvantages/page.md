@@ -1,6 +1,9 @@
 ---
-title: "European Single Market: Advantages and Disadvantages (Algo Trading)"
-description: "Explore the intersection of the European Single Market and algorithmic trading examining their benefits and challenges within the EU's dynamic financial landscape."
+category: quant_concept
+description: Explore the intersection of the European Single Market and algorithmic
+  trading examining their benefits and challenges within the EU's dynamic financial
+  landscape.
+title: 'European Single Market: Advantages and Disadvantages (Algo Trading)'
 ---
 
 The European Single Market is a fundamental pillar of the European Union, designed to guarantee the unhindered movement of goods, services, capital, and individuals across its member states. Since its inception, the Single Market has been pivotal in fostering economic integration, enhancing competitive markets, and facilitating cross-border trade within the EU. It embodies the principle of mutual recognition, where standards harmonized at the EU level enable products and services to move freely, reducing administrative overhead and encouraging entrepreneurship.

@@ -1,6 +1,8 @@
 ---
-title: "Fool in the Shower Effect in Monetary Policy (Algo Trading)"
-description: "Explore the interplay of 'fool in the shower,' monetary policy, and algorithmic trading, highlighting economic theories' role in modern trading and policy-making."
+category: quant_concept
+description: Explore the interplay of 'fool in the shower,' monetary policy, and algorithmic
+  trading, highlighting economic theories' role in modern trading and policy-making.
+title: Fool in the Shower Effect in Monetary Policy (Algo Trading)
 ---
 
 In economics and financial markets, a rich tapestry of knowledge is woven from intersecting terms and theories. Among these are the concepts of 'fool in the shower,' monetary policy, economic theory, and algorithmic trading. This article explores the interplay between these concepts, emphasizing how traditional economic theories inform both modern monetary policy and advanced trading technologies.
@@ -135,4 +137,3 @@ The evolution of financial markets is further characterized by the ongoing integ
 [5]: Algorithmic Trading: Winning Strategies and Their Rationale by Ernie Chan. This book investigates into the techniques and strategies involved in algorithmic trading, offering insights into how economic theories can be incorporated into algorithm design to enhance trading efficiency and effectiveness.
 
 [6]: Monetary History of the United States, 1867-1960 by Milton Friedman and Anna J. Schwartz. This comprehensive work examines the role of monetary policy throughout American history, illustrating key trends and lessons that inform current economic theory and practice, particularly for algorithmic trading frameworks.
-

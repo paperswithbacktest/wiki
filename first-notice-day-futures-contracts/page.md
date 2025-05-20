@@ -1,6 +1,8 @@
 ---
-title: "First Notice Day in Futures Contracts (Algo Trading)"
-description: "Discover the crucial role of First Notice Day in futures trading and explore how algorithmic strategies help manage delivery risks effectively."
+category: quant_concept
+description: Discover the crucial role of First Notice Day in futures trading and
+  explore how algorithmic strategies help manage delivery risks effectively.
+title: First Notice Day in Futures Contracts (Algo Trading)
 ---
 
 In trading, a thorough understanding of commodities futures contracts is vital for success. These contracts allow traders to buy or sell specific quantities of a commodity at a pre-agreed future date and price. Such agreements are foundational in both hedging against price volatility and taking speculative positions. A critical component in this landscape is the First Notice Day (FND), which holds significant implications for those engaged in futures markets. 

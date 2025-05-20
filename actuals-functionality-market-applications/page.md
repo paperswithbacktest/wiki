@@ -1,6 +1,8 @@
 ---
-title: "Actuals: Definition, Functionality, and Market Applications (Algo Trading)"
-description: "Explore essential financial metrics and their role in algorithmic trading strategies. Learn how these metrics and market analysis drive trading success."
+category: quant_concept
+description: Explore essential financial metrics and their role in algorithmic trading
+  strategies. Learn how these metrics and market analysis drive trading success.
+title: 'Actuals: Definition, Functionality, and Market Applications (Algo Trading)'
 ---
 
 Understanding and effectively using financial metrics is a cornerstone in the competitive landscape of financial markets, particularly with the increasing relevance of algorithmic trading. This article explores the essential financial metrics, their applications, their importance in market analysis, and how they are used in algorithmic trading strategies. Each element plays a significant role, and their combination can lead to the creation of powerful trading algorithms that have the potential to outperform the market.

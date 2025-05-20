@@ -1,6 +1,8 @@
 ---
-title: "One-Way Market (Algo Trading)"
-description: "Explore the dynamics of one-way market trends powered by algorithmic trading and economic models to gain insights for strategic financial decisions."
+category: quant_concept
+description: Explore the dynamics of one-way market trends powered by algorithmic
+  trading and economic models to gain insights for strategic financial decisions.
+title: One-Way Market (Algo Trading)
 ---
 
 The world of economics is characterized by intricate interactions and dynamics that define how goods and services are priced and move through markets. These interactions encompass a range of phenomena, from market participants' collective behaviors to the sophisticated models and technologies increasingly employed in financial decision-making. Understanding these concepts is crucial for investors, traders, and analysts operating in today's rapidly evolving markets.

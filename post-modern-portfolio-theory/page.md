@@ -1,6 +1,8 @@
 ---
-title: "Post-Modern Portfolio Theory (Algo Trading)"
-description: "Discover the vital synergy between Post-Modern Portfolio Theory and algorithmic trading that redefines risk management and optimizes investment strategies."
+category: quant_concept
+description: Discover the vital synergy between Post-Modern Portfolio Theory and algorithmic
+  trading that redefines risk management and optimizes investment strategies.
+title: Post-Modern Portfolio Theory (Algo Trading)
 ---
 
 In the ever-evolving landscape of finance, investment strategies must adapt to new theories and technologies to remain effective and competitive. One such advancement is the Post-Modern Portfolio Theory (PMPT), which marks a significant departure from the traditional Modern Portfolio Theory (MPT) by explicitly focusing on downside risk rather than total variance. PMPT offers a more investor-relevant assessment of risk by emphasizing potential losses, which aligns better with investors' natural aversion to downside risks.

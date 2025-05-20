@@ -1,6 +1,8 @@
 ---
-title: "Chikou Span in Technical Analysis (Algo Trading)"
-description: "Explore the Chikou Span in algorithmic trading for enhanced market analysis. Learn how this technical indicator confirms trends and identifies reversals effectively."
+category: quant_concept
+description: Explore the Chikou Span in algorithmic trading for enhanced market analysis.
+  Learn how this technical indicator confirms trends and identifies reversals effectively.
+title: Chikou Span in Technical Analysis (Algo Trading)
 ---
 
 Technical analysis is a crucial method used by traders to evaluate and predict the future price movements of financial instruments. Unlike fundamental analysis, which examines economic indicators and financial statements, technical analysis focuses on historical price and volume data, using charts and patterns to forecast market trends. This type of analysis is vital in enabling traders to make informed decisions based on patterns rather than speculative assumptions.

@@ -1,6 +1,9 @@
 ---
-title: "Common Instruments for Day Trading (Algo Trading)"
-description: "Explore the dynamic world of day trading and algo trading with various instruments like stocks, forex, cryptocurrencies, and more to enhance your market strategies."
+category: trading_strategy
+description: Explore the dynamic world of day trading and algo trading with various
+  instruments like stocks, forex, cryptocurrencies, and more to enhance your market
+  strategies.
+title: Common Instruments for Day Trading (Algo Trading)
 ---
 
 In the fast-paced world of financial markets, different trading instruments play a crucial role for day traders and those using algorithmic strategies. Trading in today’s financial landscape is characterized by a diverse array of instruments, each offering unique opportunities and challenges. These instruments include traditional options such as stocks and bonds, as well as more modern alternatives like cryptocurrencies and exchange-traded funds (ETFs). Forex and futures continue to serve as essential tools for traders, providing liquidity and volatility that are particularly attractive for short-term strategies.

@@ -1,6 +1,8 @@
 ---
-title: "VelocityShares Daily 2x VIX Short-Term ETN (Algo Trading)"
-description: "Explore the dynamics of VelocityShares Daily 2X VIX Short-Term ETN TVIX and how algorithmic trading enhanced its appeal by navigating its inherent volatility."
+category: trading_strategy
+description: Explore the dynamics of VelocityShares Daily 2X VIX Short-Term ETN TVIX
+  and how algorithmic trading enhanced its appeal by navigating its inherent volatility.
+title: VelocityShares Daily 2x VIX Short-Term ETN (Algo Trading)
 ---
 
 VelocityShares Daily 2X VIX Short-Term ETN (TVIX) was a financial instrument specifically engineered to multiply the daily fluctuations of the S&P 500 VIX Short-Term Futures Index by a factor of two. This leverage made it an attractive option for investors seeking aggressive growth strategies over a short-term horizon. The inherent volatility of TVIX appealed to a niche of traders aiming to capitalize on market turbulence, often involving substantial risk due to its exposure to market volatility through leveraged positioning. 

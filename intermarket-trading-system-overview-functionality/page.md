@@ -1,6 +1,8 @@
 ---
-title: "Intermarket Trading System: Overview and Functionality (Algo Trading)"
-description: "The Intermarket Trading System revolutionized trading by electronically linking major US stock exchanges boosting efficiency and transparency in the market."
+category: trading_strategy
+description: The Intermarket Trading System revolutionized trading by electronically
+  linking major US stock exchanges boosting efficiency and transparency in the market.
+title: 'Intermarket Trading System: Overview and Functionality (Algo Trading)'
 ---
 
 The Intermarket Trading System (ITS) was a revolutionary development in the landscape of financial trading, bridging the gap between various American stock exchanges and setting the stage for future advancements in trading technologies. Established at a time when traditional trading methods dominated the market, ITS represented a significant shift towards more integrated and efficient trading processes. By electronically linking exchanges like the New York Stock Exchange (NYSE) and the Nasdaq, ITS allowed brokers to access and execute trades at the best available prices without the need for intermediaries, thereby enhancing market efficiency.

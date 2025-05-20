@@ -1,6 +1,8 @@
 ---
-title: "Investment Time Horizon and Its Role in Investing (Algo Trading)"
-description: "Discover the vital role of investment time horizons in crafting strategies with algorithmic trading for efficient risk management and optimal financial growth."
+category: trading_strategy
+description: Discover the vital role of investment time horizons in crafting strategies
+  with algorithmic trading for efficient risk management and optimal financial growth.
+title: Investment Time Horizon and Its Role in Investing (Algo Trading)
 ---
 
 In the ever-evolving world of finance, proficiency in the diverse aspects of investing is paramount for attaining financial success. Investing encompasses not just the selection of assets, but also a comprehensive strategy that considers various elements such as investment strategies, time horizons, and the integration of advanced technologies like algorithmic trading.

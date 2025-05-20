@@ -1,6 +1,13 @@
 ---
-title: "Barter and Its Applications (Algo Trading)"
-description: "Explore the transition from the barter system to algorithmic trading in this comprehensive article. Delve into the evolution of trading practices from direct goods exchange to sophisticated computer algorithms that drive today's financial markets. Understand how historical trade principles shape modern strategies and discover the role of advanced visualization tools in refining trading techniques. This insightful journey traces the impact of past trade methodologies on the efficiency and complexity of contemporary algorithmic trading."
+category: quant_concept
+description: Explore the transition from the barter system to algorithmic trading
+  in this comprehensive article. Delve into the evolution of trading practices from
+  direct goods exchange to sophisticated computer algorithms that drive today's financial
+  markets. Understand how historical trade principles shape modern strategies and
+  discover the role of advanced visualization tools in refining trading techniques.
+  This insightful journey traces the impact of past trade methodologies on the efficiency
+  and complexity of contemporary algorithmic trading.
+title: Barter and Its Applications (Algo Trading)
 ---
 
 Trading has undergone a remarkable transformation over the centuries, evolving from the primitive barter system to the highly sophisticated domain of algorithmic trading. The barter system, the earliest form of trade, involved the direct exchange of goods and services, a practice that required no standardized currency. As societies progressed, the inherent limitations of bartering prompted the development of diverse monetary systems and eventually led to the formation of complex financial markets.

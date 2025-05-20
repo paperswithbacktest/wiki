@@ -1,6 +1,9 @@
 ---
-title: "Opco and Propco Comparison (Algo Trading)"
-description: "Explore how the Propco/Opco model enhances algo trading by separating asset ownership and operations reducing risk and improving efficiency in financial markets."
+category: quant_concept
+description: Explore how the Propco/Opco model enhances algo trading by separating
+  asset ownership and operations reducing risk and improving efficiency in financial
+  markets.
+title: Opco and Propco Comparison (Algo Trading)
 ---
 
 Propco and Opco business structures are increasingly significant in contemporary business environments. These terms, short for "property company" (Propco) and "operating company" (Opco), refer to a strategic division within a business where asset ownership and operational management are separated. A Propco typically handles asset ownership, which could include real estate, intellectual property, or equipment, whereas an Opco is responsible for the daily operations of the business, such as sales, services, and overall management tasks. This separation can allow businesses to manage risks more effectively, optimize tax strategies, and enhance operational efficiency.

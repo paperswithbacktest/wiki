@@ -1,6 +1,8 @@
 ---
-title: "Role and Significance of the Reserve Bank of India (Algo Trading)"
-description: "The Reserve Bank of India regulates algo trading to balance innovation and stability ensuring market integrity and security amidst technological advances."
+category: quant_concept
+description: The Reserve Bank of India regulates algo trading to balance innovation
+  and stability ensuring market integrity and security amidst technological advances.
+title: Role and Significance of the Reserve Bank of India (Algo Trading)
 ---
 
 The Reserve Bank of India (RBI) plays a crucial role in shaping the country's economy, overseeing monetary policy, currency issuance, and ensuring financial stability. Founded in 1935, the RBI's influence extends across all facets of India's economic framework, making it a central authority in nurturing the nation’s financial system. With advancements in technology, new trends such as algorithmic trading, commonly known as algo trading, have begun to exert a significant impact on financial markets worldwide.

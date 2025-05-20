@@ -1,6 +1,8 @@
 ---
-title: "Principles of Successful Dividend Investing (Algo Trading)"
-description: "Discover the synergy between dividend investing and algorithmic trading to optimize portfolio performance by leveraging income growth and strategic trading."
+category: trading_strategy
+description: Discover the synergy between dividend investing and algorithmic trading
+  to optimize portfolio performance by leveraging income growth and strategic trading.
+title: Principles of Successful Dividend Investing (Algo Trading)
 ---
 
 Investment in financial markets necessitates a blend of diverse strategies to achieve optimal outcomes. Two prominent strategies that can significantly influence portfolio performance are dividend investing and algorithmic trading. These concepts, though distinct, can be harmonized to optimize investment portfolios and manage associated risks effectively.
@@ -230,4 +232,3 @@ However, successful integration requires continuous learning and adaptation to e
 8. **Seeking Alpha**: A platform that offers articles and analysis on dividend stocks and investment strategies. It includes insights from various contributors, making it a valuable resource for investors looking to deepen their understanding of market trends and dividend stock performance.
 
 These [books](/wiki/algo-trading-books) and resources are highly recommended for individuals looking to gain a deeper understanding of investment strategies and enhance their financial acumen. They provide the theoretical underpinnings as well as practical applications necessary for mastering dividend investing and algorithmic trading.
-

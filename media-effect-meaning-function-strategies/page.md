@@ -1,6 +1,8 @@
 ---
-title: "Media Effect: Meaning, Function, and Strategies (Algo Trading)"
-description: "Explore how media influences algorithmic trading and discover strategies for traders to leverage media insights for competitive advantage in volatile markets."
+category: quant_concept
+description: Explore how media influences algorithmic trading and discover strategies
+  for traders to leverage media insights for competitive advantage in volatile markets.
+title: 'Media Effect: Meaning, Function, and Strategies (Algo Trading)'
 ---
 
 In an era characterized by the ubiquitous presence and rapid exchange of information, the influence of media on financial markets, including algorithmic trading, commands significant attention. Media influence today transcends traditional news outlets, extending to social media and digital platforms, all of which play pivotal roles in shaping public perception and investor sentiment. These various media channels collectively contribute to a dynamic landscape where the dissemination of information can dramatically sway market behaviors and outcomes.

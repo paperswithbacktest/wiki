@@ -1,6 +1,9 @@
 ---
-title: "Regulation BB: Overview and Functionality (Algo Trading)"
-description: "Explore Regulation BB and its impact on fair lending practices in financial institutions. Understand the regulatory landscape of algorithmic trading and its challenges."
+category: quant_concept
+description: Explore Regulation BB and its impact on fair lending practices in financial
+  institutions. Understand the regulatory landscape of algorithmic trading and its
+  challenges.
+title: 'Regulation BB: Overview and Functionality (Algo Trading)'
 ---
 
 In today's rapidly evolving financial landscape, compliance with regulations is paramount. Financial regulations exist to ensure that markets operate efficiently and fairly, protecting both consumers and the stability of the economic system. One such regulation, Regulation BB, plays a crucial role in aligning the operations of financial institutions with legal standards to promote fairness in lending practices. Implementing these regulations helps foster an environment of accountability and transparency, addressing issues such as discriminatory lending and ensuring that banks serve the credit needs of all communities, particularly those that are low- and moderate-income.

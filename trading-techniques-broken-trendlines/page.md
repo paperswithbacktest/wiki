@@ -1,6 +1,8 @@
 ---
-title: "Trading Techniques for Broken Trendlines (Algo Trading)"
-description: "Explore effective trading techniques for broken trendlines in algo trading. Enhance decision-making and capitalize on market shifts with algorithmic precision."
+category: trading_strategy
+description: Explore effective trading techniques for broken trendlines in algo trading.
+  Enhance decision-making and capitalize on market shifts with algorithmic precision.
+title: Trading Techniques for Broken Trendlines (Algo Trading)
 ---
 
 Trading strategies are crucial tools that individuals and institutions use to navigate the financial market effectively. These strategies encompass a broad range of methods and techniques designed to optimize decision-making and maximize profitability. They can vary from simple buying and selling decisions based on price movements to complex models that incorporate a plethora of indicators and external data. The importance of trading strategies lies in their ability to systematize trading decisions, reduce emotional bias, and manage risk effectively. 

@@ -1,6 +1,12 @@
 ---
-title: "LEAPS Options Explained (Algo Trading)"
-description: Explore the benefits of using LEAPS options in algorithmic trading. Discover how Long-Term Equity Anticipation Securities allow traders to capitalize on long-term market trends and manage risk effectively. Learn about strategies for leveraging these options to reduce capital exposure while aligning with market expectations. Whether you're an investor or a developer, gain insights into integrating LEAP options into your trading models for enhanced strategic planning.
+category: quant_concept
+description: Explore the benefits of using LEAPS options in algorithmic trading. Discover
+  how Long-Term Equity Anticipation Securities allow traders to capitalize on long-term
+  market trends and manage risk effectively. Learn about strategies for leveraging
+  these options to reduce capital exposure while aligning with market expectations.
+  Whether you're an investor or a developer, gain insights into integrating LEAP options
+  into your trading models for enhanced strategic planning.
+title: LEAPS Options Explained (Algo Trading)
 ---
 
 In the rapidly evolving world of algorithmic trading, options strategies like LEAP options have gained significant popularity. Long-Term Equity Anticipation Securities (LEAPs) provide investors the ability to position themselves for future market movements with longer expiration horizons exceeding one year. This feature makes LEAP options particularly appealing in the context of algo trading, where long-term market trends can be systematically exploited for potential profit.
@@ -142,4 +148,4 @@ In conclusion, LEAP options offer traders a comprehensive toolset for navigating
 
 [5]: Wilmott, P. (2006). ["Paul Wilmott Introduces Quantitative Finance"](https://www.wiley.com/en-us/Paul+Wilmott+Introduces+Quantitative+Finance,+2nd+Edition-p-9781118836798) (2nd ed.). Wiley.
 
-[6]: Yan, X. & Zhao, C. (2015). ["A Bayesian Approach to Modeling Trading Strategies."](https://onlinelibrary.wiley.com/doi/abs/10.1002/aenm.201502175) Journal of Financial Econometrics. 
+[6]: Yan, X. & Zhao, C. (2015). ["A Bayesian Approach to Modeling Trading Strategies."](https://onlinelibrary.wiley.com/doi/abs/10.1002/aenm.201502175) Journal of Financial Econometrics.

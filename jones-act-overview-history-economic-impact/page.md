@@ -1,6 +1,8 @@
 ---
-title: "Jones Act: Overview, Historical Context, and Economic Impact (Algo Trading)"
-description: "Explore the economic impact of the Jones Act on U.S. maritime commerce and how algorithmic trading is reshaping industry efficiency and cost structures."
+category: quant_concept
+description: Explore the economic impact of the Jones Act on U.S. maritime commerce
+  and how algorithmic trading is reshaping industry efficiency and cost structures.
+title: 'Jones Act: Overview, Historical Context, and Economic Impact (Algo Trading)'
 ---
 
 In this article, we explore the economic impact of maritime law with a specific focus on the Jones Act and the role of algorithmic trading in the maritime industry. The Jones Act, a significant piece of legislation within the Merchant Marine Act of 1920, imposes stringent requirements on maritime transport between U.S. ports, necessitating the use of American-built, owned, and operated ships. This law embodies a protectionist approach intended to bolster the U.S. maritime industry, ensuring its competitiveness and sustainability domestically. However, the Act's implications extend beyond mere protectionism, affecting the cost structures and economic vitality in broader U.S. commerce.

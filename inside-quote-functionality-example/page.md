@@ -1,6 +1,8 @@
 ---
-title: "Inside Quote: Functionality and Example (Algo Trading)"
-description: "Explore algorithmic trading and inside quote mechanisms to enhance market efficiency and liquidity. Learn how these innovations influence modern trading strategies."
+category: quant_concept
+description: Explore algorithmic trading and inside quote mechanisms to enhance market
+  efficiency and liquidity. Learn how these innovations influence modern trading strategies.
+title: 'Inside Quote: Functionality and Example (Algo Trading)'
 ---
 
 In the digital age, financial markets are undergoing a transformative evolution driven by advancements in technology, particularly algorithmic trading and inside quote mechanisms. These innovations have fundamentally altered how trades are executed and information is disseminated within markets. Algorithmic trading, which involves using sophisticated algorithms to automate trading processes, and inside quote mechanisms, which provide insights into the highest bid and lowest ask prices through undisplayed orders, play pivotal roles in this transformation.

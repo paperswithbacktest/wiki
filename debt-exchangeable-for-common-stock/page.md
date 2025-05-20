@@ -1,6 +1,8 @@
 ---
-title: "Debt Exchangeable for Common Stock (Algo Trading)"
-description: "Explore the significance of Debt Exchangeable for Common Stock and algorithmic trading in modern financial markets while understanding their benefits and challenges."
+category: quant_concept
+description: Explore the significance of Debt Exchangeable for Common Stock and algorithmic
+  trading in modern financial markets while understanding their benefits and challenges.
+title: Debt Exchangeable for Common Stock (Algo Trading)
 ---
 
 The stock market is a constantly evolving platform influenced by the continuous introduction of novel financial instruments and technological progress. Among these innovations is the Debt Exchangeable for Common Stock (DECS), a unique convertible security that integrates debt instruments with the potential for equity conversion. DECS serves as a hybrid financial tool, catering to both companies and investors by offering a strategic avenue for financing and investment.

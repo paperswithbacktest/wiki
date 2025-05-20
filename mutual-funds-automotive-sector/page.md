@@ -1,6 +1,9 @@
 ---
-title: "Mutual Funds Focused on the Automotive Sector (Algo Trading)"
-description: "Explore investment opportunities in automotive mutual funds and algo trading Discover diversified exposure to the evolving auto sector and optimize strategies for better returns"
+category: trading_strategy
+description: Explore investment opportunities in automotive mutual funds and algo
+  trading Discover diversified exposure to the evolving auto sector and optimize strategies
+  for better returns
+title: Mutual Funds Focused on the Automotive Sector (Algo Trading)
 ---
 
 The automotive industry is undergoing a significant transformation, compelled by rapid advancements in technology and shifting consumer preferences. This transformation is not just limited to the vehicles on the road but also extends to the financial markets that support the industry's growth. Investment vehicles such as mutual funds and algorithmic trading are playing pivotal roles in shaping investment strategies within the automotive sector.

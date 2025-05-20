@@ -1,6 +1,9 @@
 ---
-title: "Dollar Bond: Definition, Function, and Types (Algo Trading)"
-description: "Discover the definition and role of dollar bonds in financial markets including their benefits risks and the impact of algorithmic trading on bond trading strategies."
+category: quant_concept
+description: Discover the definition and role of dollar bonds in financial markets
+  including their benefits risks and the impact of algorithmic trading on bond trading
+  strategies.
+title: 'Dollar Bond: Definition, Function, and Types (Algo Trading)'
 ---
 
 Financial markets today offer a diverse array of financial instruments that are specifically crafted to meet the varying needs of investors. Among these instruments, bonds hold a prominent position due to their stability and income-generating potential. Bonds, in essence, are loans made by investors to borrowers, typically governments or corporations, who promise to pay back the principal along with periodic interest payments known as coupons.

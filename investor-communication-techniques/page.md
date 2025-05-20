@@ -1,6 +1,9 @@
 ---
-title: "Investor Communication Techniques (Algo Trading)"
-description: "Learn effective investor communication by mastering investment language and algorithmic trading. Enhance decision-making and optimize financial outcomes confidently."
+category: quant_concept
+description: Learn effective investor communication by mastering investment language
+  and algorithmic trading. Enhance decision-making and optimize financial outcomes
+  confidently.
+title: Investor Communication Techniques (Algo Trading)
 ---
 
 Understanding investment language is critical for effective investor communication. Grasping the terminology and concepts used in the financial markets allows individuals to engage more productively with financial professionals and better comprehend investment strategies and opportunities. By learning to speak like an investor, one can enhance their ability to make sound investment decisions, ultimately contributing to more successful financial outcomes.

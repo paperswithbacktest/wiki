@@ -1,6 +1,12 @@
 ---
-title: "Types and Benefits of Exchange-Traded Funds (Algo Trading)"
-description: "Explore the diverse range and advantages of Exchange-Traded Funds (ETFs) which offer investors an effective way to diversify their portfolios with types like equity, bond, commodity, and sector ETFs. Enjoy benefits such as liquidity, cost-effectiveness, and tax efficiency. Discover how algorithmic trading enhances ETF investments by improving trade execution and optimizing strategies, helping investors capitalize on market opportunities and risk management."
+category: quant_concept
+description: Explore the diverse range and advantages of Exchange-Traded Funds (ETFs)
+  which offer investors an effective way to diversify their portfolios with types
+  like equity, bond, commodity, and sector ETFs. Enjoy benefits such as liquidity,
+  cost-effectiveness, and tax efficiency. Discover how algorithmic trading enhances
+  ETF investments by improving trade execution and optimizing strategies, helping
+  investors capitalize on market opportunities and risk management.
+title: Types and Benefits of Exchange-Traded Funds (Algo Trading)
 ---
 
 Exchange-Traded Funds (ETFs) are financial instruments that have gained substantial traction among investors due to their versatility and cost-effectiveness. Essentially, an ETF is a type of investment fund that is traded on stock exchanges, much like individual stocks. They aim to track the performance of a specific index, commodity, or asset class, providing investors with the opportunity to diversify their holdings without the need to purchase each underlying asset individually. This diversification can help mitigate risk while still capturing market trends.

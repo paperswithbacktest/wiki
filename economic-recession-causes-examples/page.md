@@ -1,6 +1,8 @@
 ---
-title: "Economic Recession: Causes and Examples (Algo Trading)"
-description: "Explore the causes and historical examples of economic recessions including the influence of algorithmic trading on financial markets during downturns."
+category: quant_concept
+description: Explore the causes and historical examples of economic recessions including
+  the influence of algorithmic trading on financial markets during downturns.
+title: 'Economic Recession: Causes and Examples (Algo Trading)'
 ---
 
 A recession is a fundamental concept in understanding the economic health of nations and the cyclical nature of economies. It is generally characterized by a decline in gross domestic product (GDP) over two or more consecutive quarters, but its effects extend beyond this technical definition. Recessions influence societies by impacting key economic drivers such as employment levels, investment activities, and overall financial stability. A downturn in economic activity, during a recession, often results in increased unemployment, reduced consumer spending, and lower industrial production, which, in turn, affects the standards of living and economic growth prospects.

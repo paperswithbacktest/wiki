@@ -1,6 +1,9 @@
 ---
-title: "Reasons for Issuing 100-Year Bonds by Companies (Algo Trading)"
-description: "100-year bonds offer companies innovative long-term financing, while algorithmic trading enhances bond market strategies by automating decisions and executions."
+category: trading_strategy
+description: 100-year bonds offer companies innovative long-term financing, while
+  algorithmic trading enhances bond market strategies by automating decisions and
+  executions.
+title: Reasons for Issuing 100-Year Bonds by Companies (Algo Trading)
 ---
 
 The financial landscape is undergoing a significant transformation, characterized by evolving strategies in long-term financing where corporate bonds play an instrumental role. Among the innovative financial instruments making waves are 100-year bonds, which offer a distinctive blend of opportunities and challenges for both issuers and investors. These century bonds, as they are often called, mark a departure from traditional bond maturities, attracting interest for their potential to provide stable financing over an exceptionally long period. They appeal particularly to institutional investors seeking longevity in their investment portfolios.

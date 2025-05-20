@@ -1,6 +1,11 @@
 ---
-title: "President Election Cycles Explained (Algo Trading)"
-description: Explore the influence of the 4-year presidential cycle on stock market performance and its implications for algorithmic trading strategies. Understand how historical patterns associated with U.S. presidential terms can guide investment decisions and enhance market returns. Learn how backtesting and data analysis support these strategies while considering adaptability to political and economic shifts.
+category: trading_strategy
+description: Explore the influence of the 4-year presidential cycle on stock market
+  performance and its implications for algorithmic trading strategies. Understand
+  how historical patterns associated with U.S. presidential terms can guide investment
+  decisions and enhance market returns. Learn how backtesting and data analysis support
+  these strategies while considering adaptability to political and economic shifts.
+title: President Election Cycles Explained (Algo Trading)
 ---
 
 In the world of stock markets, patterns and cycles often capture the attention of investors who seek to leverage historical trends for future gains. Among these, the 4-year presidential cycle emerges as a notable pattern, believed by some to impact stock market performance in a predictable manner. Originating from observations that correlate stock market returns with the U.S. presidential terms, this cycle suggests a rhythm to market movements that investors might anticipate.

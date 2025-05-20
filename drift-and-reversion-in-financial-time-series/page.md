@@ -1,6 +1,9 @@
 ---
-title: "Drift and reversion in financial time series (Algo Trading)"
-description: "Explore the essentials of drift and mean reversion to craft profitable algorithmic trading strategies, analyzing trends and market reversals for optimal trading."
+category: quant_concept
+description: Explore the essentials of drift and mean reversion to craft profitable
+  algorithmic trading strategies, analyzing trends and market reversals for optimal
+  trading.
+title: Drift and reversion in financial time series (Algo Trading)
 ---
 
 Understanding price behavior is essential for developing profitable strategies in algorithmic trading. Financial time series analysis often hinges on two key concepts: drift and reversion. These concepts are fundamental to understanding asset price movements and the market dynamics that drive them.
@@ -249,4 +252,3 @@ For those seeking to deepen their understanding of financial time series analysi
 8. **Coursera and edX Courses on Algorithmic Trading**: These platforms offer courses from universities and institutions covering various aspects of algorithmic trading, from basic introductions to specialized topics like machine learning in finance.
 
 By exploring these resources, traders can enhance their knowledge and skills, applying advanced methodologies to optimize their trading strategies effectively. Continuous learning and adaptation remain crucial in navigating the ever-evolving landscape of financial markets.
-

@@ -1,9 +1,11 @@
 ---
-title: "Deep Learning (Algo Trading)"
-description: Dive into Deep Learning, the game-changing concept in artificial intelligence, and its impact on algorithmic trading. Learn about pattern recognition, accurate predictions, managing unstructured data, and challenges. Explore use cases and resources for deeper understanding.
+category: trading_strategy
+description: Dive into Deep Learning, the game-changing concept in artificial intelligence,
+  and its impact on algorithmic trading. Learn about pattern recognition, accurate
+  predictions, managing unstructured data, and challenges. Explore use cases and resources
+  for deeper understanding.
+title: Deep Learning (Algo Trading)
 ---
-
-
 
 Deep learning has made notable strides in revolutionizing a wide array of fields by providing robust and advanced solution capabilities. One of its promising new applications is found in algorithmic trading. As financial markets become increasingly complex and data-driven, the demand for sophisticated models capable of understanding and predicting market behavior is at an all-time high. Algorithmic trading, which relies on automated systems to execute trading strategies, is well-positioned to benefit from such developments in machine learning technology.
 

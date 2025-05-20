@@ -1,6 +1,9 @@
 ---
-title: "Disguised Unemployment and Its Types (Algo Trading)"
-description: "Explore the complexities of disguised unemployment and its impact on economic stability alongside the role of algo trading in employment trends and market dynamics."
+category: quant_concept
+description: Explore the complexities of disguised unemployment and its impact on
+  economic stability alongside the role of algo trading in employment trends and market
+  dynamics.
+title: Disguised Unemployment and Its Types (Algo Trading)
 ---
 
 Understanding the dynamics of unemployment is crucial for assessing the overall health of an economy. Unemployment is a significant indicator used to gauge the economic stability and productivity of a nation. However, it is a multifaceted phenomenon, manifesting in various forms that may not always be apparent in conventional unemployment statistics. One such form is disguised unemployment, where individuals appear to be employed but their labor is not utilized effectively, creating distortions in economic data.

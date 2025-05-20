@@ -1,6 +1,8 @@
 ---
-title: "United States Treasury Money Market Fund (Algo Trading)"
-description: "Explore how United States Treasury money market funds benefit from algorithmic trading to enhance returns and portfolio optimization for investors."
+category: trading_strategy
+description: Explore how United States Treasury money market funds benefit from algorithmic
+  trading to enhance returns and portfolio optimization for investors.
+title: United States Treasury Money Market Fund (Algo Trading)
 ---
 
 In today's financial world, money market funds and algorithmic trading have become integral components of investment portfolios. Money market funds, which predominantly invest in short-term, high-quality debt securities, offer stability and liquidity, making them an attractive option for risk-averse investors. Algorithmic trading, by contrast, utilizes sophisticated computer algorithms to execute trades with precision and speed, optimizing market opportunities and reducing the potential for human error.
@@ -135,4 +137,3 @@ Informed decision-making, grounded in a comprehensive understanding of money mar
 - **Managing Systemic Risk in Algorithmic Trading with Microstructure Noise - Bank for International Settlements**: This paper addresses the challenges of systemic risk in algorithmic trading, focusing on the influence of microstructure noise. It is essential for understanding the broader implications of high-frequency trading and the measures needed to mitigate its risks.
 
 - **Sorcery of the Finance: The Secret Power of Algorithmic Trading by QuantInsti**: This resource offers an in-depth look at the transformative potential of algorithmic trading. It discusses how these strategies have revolutionized finance and provides frameworks for implementing algorithmic solutions in trading strategies.
-

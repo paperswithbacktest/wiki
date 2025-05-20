@@ -1,6 +1,8 @@
 ---
-title: "Company Float (Algo Trading)"
-description: "Discover essential concepts like company shares, stock float, and algorithmic trading that shape investment strategies and optimize market activities."
+category: quant_concept
+description: Discover essential concepts like company shares, stock float, and algorithmic
+  trading that shape investment strategies and optimize market activities.
+title: Company Float (Algo Trading)
 ---
 
 Company shares, stock float, public float, and algorithmic trading are foundational concepts in the financial markets, playing a crucial role in investment and trading strategies. Understanding these terms is essential for investors and traders to make informed decisions and optimize their market activities.
@@ -310,4 +312,3 @@ Strategically utilizing float data allows traders to optimize their trading perf
     Both platforms supply real-time and historical market data, financial analysis, and news, essential for quantitative trading and analysis.
 
 These resources offer a wide range of information for anyone interested in expanding their knowledge of stock market metrics and algorithmic trading strategies.
-

@@ -1,6 +1,8 @@
 ---
-title: "Gilded Age: Wealth and Inequality (Algo Trading)"
-description: "Explore the economic history of the Gilded Age focusing on wealth inequality and its modern parallels with algorithmic trading shaping today's financial disparities."
+category: quant_concept
+description: Explore the economic history of the Gilded Age focusing on wealth inequality
+  and its modern parallels with algorithmic trading shaping today's financial disparities.
+title: 'Gilded Age: Wealth and Inequality (Algo Trading)'
 ---
 
 The Gilded Age, encompassing the period from the late 1870s to the early 1900s, was a time of robust industrial expansion and economic affluence, predominantly benefitting the upper echelons of society. This era witnessed the astounding growth of American industry, yet it also unmasked profound socio-economic disparities and rampant exploitation of the labor force. During this transformative period, the United States evolved from an agrarian economy to an industrial giant, enabling a small segment of the population to amass substantial wealth while the majority grappled with poverty and substandard living conditions.

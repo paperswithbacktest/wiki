@@ -1,6 +1,9 @@
 ---
-title: "Relative Value: Measurement and Example (Algo Trading)"
-description: "Explore how valuation metrics like Economic Value Added and Relative Value enhance algorithmic trading strategies, boosting decision-making and risk management."
+category: quant_concept
+description: Explore how valuation metrics like Economic Value Added and Relative
+  Value enhance algorithmic trading strategies, boosting decision-making and risk
+  management.
+title: 'Relative Value: Measurement and Example (Algo Trading)'
 ---
 
 Value measurement plays a pivotal role in economic analysis and trading, serving as a foundational element for informed investment decisions and effective market strategies. In both traditional and algorithmic trading, understanding different valuation methods such as economic value and relative value is crucial. Economic value, often associated with metrics like Economic Value Added (EVA), assesses the true profitability of a company by comparing net operating profit after taxes with the cost of capital. Relative value, contrastingly, determines an asset's worth by comparing it against similar assets in the market, using metrics like price-to-earnings ratios and other comparative analyses.

@@ -1,6 +1,12 @@
 ---
-title: "Major Shareholders of Procter & Gamble (Algo Trading)"
-description: "Explore the significant influence of major shareholders in Procter & Gamble, a leading multinational in the consumer goods industry, and the transformative role of algorithmic trading in financial markets. Understand how P&G's diverse shareholder base, including notable institutional investors and key executives, impacts its strategic initiatives and stock performance, while algorithmic trading offers advanced techniques for optimizing trades at high speeds and across different markets."
+category: dataset
+description: Explore the significant influence of major shareholders in Procter &
+  Gamble, a leading multinational in the consumer goods industry, and the transformative
+  role of algorithmic trading in financial markets. Understand how P&G's diverse shareholder
+  base, including notable institutional investors and key executives, impacts its
+  strategic initiatives and stock performance, while algorithmic trading offers advanced
+  techniques for optimizing trades at high speeds and across different markets.
+title: Major Shareholders of Procter & Gamble (Algo Trading)
 ---
 
 In the rapidly evolving world of finance, investors are continually seeking ways to leverage technology to enhance their portfolios. One prominent name that consistently captures the attention of shareholders and investors globally is Procter & Gamble (P&G), a multinational consumer goods giant with a diverse product portfolio and substantial market presence. Founded in 1837, P&G operates in over 180 countries, offering a range of products from household cleaning to personal care, including well-known brands like Pampers, Tide, and Gillette.

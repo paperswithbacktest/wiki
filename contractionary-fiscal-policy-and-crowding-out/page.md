@@ -1,6 +1,8 @@
 ---
-title: "Contractionary Fiscal Policy and Its Effect on Crowding Out (Algo Trading)"
-description: "Explore how contractionary fiscal policy affects the crowding out effect and the role of algorithmic trading in financial markets and economic decision-making."
+category: quant_concept
+description: Explore how contractionary fiscal policy affects the crowding out effect
+  and the role of algorithmic trading in financial markets and economic decision-making.
+title: Contractionary Fiscal Policy and Its Effect on Crowding Out (Algo Trading)
 ---
 
 In recent years, the intricate relationship between fiscal policy, crowding out effects, and algorithmic trading has garnered significant attention from both economic researchers and financial market participants. Contractionary fiscal policy, a key component of this triad, involves government measures aimed at reducing budget deficits, primarily through increased taxation or decreased public spending. This approach presents unique economic impacts, particularly in influencing interest rates and investment behaviors. 

@@ -1,6 +1,9 @@
 ---
-title: "Board Broker (Algo Trading)"
-description: "Explore the vital roles of brokers and algorithmic trading in modern markets delving into their evolution technology's impact and the future of trading systems."
+category: quant_concept
+description: Explore the vital roles of brokers and algorithmic trading in modern
+  markets delving into their evolution technology's impact and the future of trading
+  systems.
+title: Board Broker (Algo Trading)
 ---
 
 Modern trading is an intricate system composed of board brokers, brokerage services, stock exchanges, and algorithmic trading, each playing a crucial role. Board brokers traditionally act as intermediaries, facilitating trade and ensuring liquidity. Brokerage services provide access to markets for individual and institutional investors, evolving to offer full-service, discount, and robo-advisory options. Stock exchanges, such as the NYSE or NASDAQ, are platforms for listing companies, discovering prices, and ensuring transparent transactions. Lastly, algorithmic trading utilizes computer algorithms to place trades swiftly and accurately, minimizing costs and human error.

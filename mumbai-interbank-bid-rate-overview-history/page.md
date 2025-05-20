@@ -1,6 +1,9 @@
 ---
-title: "Mumbai Interbank Bid Rate: Overview and History (Algo Trading)"
-description: "Discover how the Mumbai Interbank Bid Rate MIBID and MIBOR influence India's financial market, algorithmic trading, and their critical role in liquidity management."
+category: dataset
+description: Discover how the Mumbai Interbank Bid Rate MIBID and MIBOR influence
+  India's financial market, algorithmic trading, and their critical role in liquidity
+  management.
+title: 'Mumbai Interbank Bid Rate: Overview and History (Algo Trading)'
 ---
 
 The Mumbai Interbank Bid Rate (MIBID) and the Mumbai Interbank Offer Rate (MIBOR) are pivotal in shaping India's financial landscape. Established as benchmarks for interbank lending, these rates critically impact an array of financial instruments and underpin the country's monetary policies. MIBID represents the rate at which banks are willing to accept deposits from other banks, while MIBOR signifies the rate for unsecured bank-to-bank lending. These benchmarks provide clarity on the cost of borrowing and serve as essential tools for liquidity management.
@@ -157,4 +160,3 @@ Publications on algorithmic trading strategies are abundant, offering insights i
 Global comparisons and discussions on the evolution of financial benchmarks illuminate major transformations post the LIBOR manipulation scandal. Comparisons typically involve juxtaposing LIBOR with transaction-based standards such as SOFR and FBIL-Overnight MIBOR. These analyses provide a broader understanding of how financial markets are increasingly moving towards benchmarks grounded in real market transactions, reinforcing the credibility and trust in financial systems internationally.
 
 For in-depth exploration, references can be made to the official documentation and publications provided by these institutions, allowing for a comprehensive understanding of the technical and practical aspects of financial benchmarks and algorithmic trading methods.
-

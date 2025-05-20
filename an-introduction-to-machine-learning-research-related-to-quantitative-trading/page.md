@@ -1,6 +1,13 @@
 ---
-title: "An Introduction to Machine Learning Research Related to Quantitative Trading"
-description: Discover how machine learning is transforming quantitative trading by enabling sophisticated data analysis and predictive models. Explore various approaches from supervised to unsupervised learning techniques and their application in financial markets. Learn how traders leverage these technologies to enhance strategy development and trading performance through the processing of large datasets and identification of complex patterns. Uncover the evolving landscape of trading strategies with the integration of artificial intelligence and machine learning methodologies.
+category: quant_concept
+description: Discover how machine learning is transforming quantitative trading by
+  enabling sophisticated data analysis and predictive models. Explore various approaches
+  from supervised to unsupervised learning techniques and their application in financial
+  markets. Learn how traders leverage these technologies to enhance strategy development
+  and trading performance through the processing of large datasets and identification
+  of complex patterns. Uncover the evolving landscape of trading strategies with the
+  integration of artificial intelligence and machine learning methodologies.
+title: An Introduction to Machine Learning Research Related to Quantitative Trading
 ---
 
 Machine learning has emerged as a pivotal element in technological advancements, significantly bolstered by the evolution and integration of artificial intelligence (AI) into various fields. At the heart of these developments is the ability of machine learning systems to autonomously learn from vast datasets, enabling them to adapt and predict outcomes without requiring explicit programming. This technological breakthrough has profound implications for quantitative trading, a domain traditionally dominated by statistical models and human intuition.

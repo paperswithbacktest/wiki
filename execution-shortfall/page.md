@@ -1,6 +1,9 @@
 ---
-title: "Execution shortfall (Algo Trading)"
-description: "Discover execution shortfall in algo trading and learn strategies to minimize it Enhance trading efficiency by understanding its impact on cost and strategy performance"
+category: quant_concept
+description: Discover execution shortfall in algo trading and learn strategies to
+  minimize it Enhance trading efficiency by understanding its impact on cost and strategy
+  performance
+title: Execution shortfall (Algo Trading)
 ---
 
 Execution shortfall in algorithmic trading is a crucial element that significantly impacts both the cost and efficiency of trading strategies. It represents the difference between the price at which a trading order is executed and the price at the time the trading decision was made. A lower execution shortfall indicates greater efficiency, which is a desirable goal for traders. This article intends to provide an in-depth understanding of execution shortfall, elucidating its importance in the context of algorithmic trading and offering insights into effective management techniques.

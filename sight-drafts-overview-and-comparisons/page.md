@@ -1,6 +1,8 @@
 ---
-title: "Sight Drafts: Overview and Comparisons (Algo Trading)"
-description: "Explore sight drafts, bank drafts, and their significance in algorithmic trading. Understand these financial instruments to enhance market security and efficiency."
+category: quant_concept
+description: Explore sight drafts, bank drafts, and their significance in algorithmic
+  trading. Understand these financial instruments to enhance market security and efficiency.
+title: 'Sight Drafts: Overview and Comparisons (Algo Trading)'
 ---
 
 In this article, we will explore various financial instruments such as bank drafts, sight drafts, and their role in algorithmic trading. Financial instruments are crucial components of the global financial system and serve as vehicles for driving economic activity. By examining their functions, we will identify the key benefits they provide to financial markets, including security, efficiency, and liquidity. This article aims to clarify the intricacies of these instruments and how they facilitate trade on a global scale.

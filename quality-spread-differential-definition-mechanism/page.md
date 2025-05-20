@@ -1,6 +1,8 @@
 ---
-title: "Quality Spread Differential: Definition and Mechanism (Algo Trading)"
-description: "Explore the vital role of Quality Spread Differential in finance Discover how understanding QSD aids investment decisions and strategic asset allocation"
+category: quant_concept
+description: Explore the vital role of Quality Spread Differential in finance Discover
+  how understanding QSD aids investment decisions and strategic asset allocation
+title: 'Quality Spread Differential: Definition and Mechanism (Algo Trading)'
 ---
 
 In the intricate world of finance, a firm grasp of various metrics is indispensable for making informed investment decisions. One such critical metric is the Quality Spread Differential (QSD). This metric plays a vital role in understanding market perceptions of risk and the relative attractiveness of different investment options, particularly in fixed income securities. By quantifying the yield spread between securities of differing credit qualities, QSD offers insights into how the market values credit risk and counterparty reliability.

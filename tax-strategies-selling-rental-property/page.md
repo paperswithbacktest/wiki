@@ -1,6 +1,11 @@
 ---
-title: "Tax Strategies for Selling Rental Property (Algo Trading)"
-description: "Optimize your real estate investment returns by mastering the complexities of capital gains tax and leveraging effective strategies for selling rental properties. Discover key insights into tax-saving methods including tax-loss harvesting, 1031 exchanges, and owner-occupied exclusions, and enhance your portfolio management with algorithmic trading to achieve greater tax efficiency."
+category: trading_strategy
+description: Optimize your real estate investment returns by mastering the complexities
+  of capital gains tax and leveraging effective strategies for selling rental properties.
+  Discover key insights into tax-saving methods including tax-loss harvesting, 1031
+  exchanges, and owner-occupied exclusions, and enhance your portfolio management
+  with algorithmic trading to achieve greater tax efficiency.
+title: Tax Strategies for Selling Rental Property (Algo Trading)
 ---
 
 Understanding the complexities of capital gains tax is crucial for any real estate investor. Selling rental properties can yield significant profits, but these profits often come with substantial tax liabilities that must be carefully managed. When a property is sold, the increment in its value—known as capital gains—is subject to taxation. The rate at which these gains are taxed is dependent on several factors, including the owner's income level and the duration of property ownership.

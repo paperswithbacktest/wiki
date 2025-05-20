@@ -1,6 +1,12 @@
 ---
-title: "Global Investment Performance Standards (GIPS) (Algo Trading)"
-description: Explore the Global Investment Performance Standards (GIPS) as a universal benchmark established to enhance transparency and comparability in investment performance reporting. These ethical principles aid investment firms in maintaining investor trust, especially within algorithmic trading, by ensuring accurate and standardized performance metrics. Learn how GIPS promotes full disclosure and fair representation, critical in assessing algorithmic strategies that dominate modern markets.
+category: quant_concept
+description: Explore the Global Investment Performance Standards (GIPS) as a universal
+  benchmark established to enhance transparency and comparability in investment performance
+  reporting. These ethical principles aid investment firms in maintaining investor
+  trust, especially within algorithmic trading, by ensuring accurate and standardized
+  performance metrics. Learn how GIPS promotes full disclosure and fair representation,
+  critical in assessing algorithmic strategies that dominate modern markets.
+title: Global Investment Performance Standards (GIPS) (Algo Trading)
 ---
 
 The Global Investment Performance Standards (GIPS) are ethical principles created for investment firms to provide consistent, transparent, and comparable performance reporting. Introduced by the CFA Institute in 1999, these standards aim to ensure investors can confidently analyze and compare different investment firms' historical performance. GIPS serve as a universal benchmark for ethical presentation of performance data, facilitating a fair assessment of investment opportunities across global markets [1].

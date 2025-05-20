@@ -1,6 +1,9 @@
 ---
-title: "Buying and Selling Stocks Around Dividend Dates (Algo Trading)"
-description: "Explore the intricacies of dividend investing with algorithmic trading to optimize returns. Learn strategies for timing stock trades around dividend dates effectively."
+category: trading_strategy
+description: Explore the intricacies of dividend investing with algorithmic trading
+  to optimize returns. Learn strategies for timing stock trades around dividend dates
+  effectively.
+title: Buying and Selling Stocks Around Dividend Dates (Algo Trading)
 ---
 
 In the world of investing, stock trading and dividend strategies have gained prominence as methodologies to maximize returns on investment. A principal strategy within this domain is the dividend capture strategy, which targets potential quick gains through a calculated approach to dividend collection. This strategy, while enticing, presents its own set of intricacies and risks that require careful navigation. The essence of this strategy lies in timing the purchase and sale of dividend-paying stocks to capture the dividend payout.

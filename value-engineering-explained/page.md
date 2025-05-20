@@ -1,6 +1,8 @@
 ---
-title: "Value Engineering Explained (Algo Trading)"
-description: "Explore the synergy between value engineering and algorithmic trading to enhance efficiency reduce costs and gain a competitive edge in financial markets."
+category: quant_concept
+description: Explore the synergy between value engineering and algorithmic trading
+  to enhance efficiency reduce costs and gain a competitive edge in financial markets.
+title: Value Engineering Explained (Algo Trading)
 ---
 
 In the ever-evolving landscape of finance and engineering, innovative strategies such as cost reduction, value engineering, engineering optimization, and algorithmic trading are instrumental in shaping the future of these fields. Each strategy offers unique methodologies and benefits, providing companies with the tools needed to enhance efficiency, reduce costs, and maintain a competitive edge in a dynamic marketplace.

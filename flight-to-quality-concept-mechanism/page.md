@@ -1,6 +1,8 @@
 ---
-title: "Flight to Quality: Concept and Mechanism (Algo Trading)"
-description: "Explore the concept of "flight to quality" in algo trading, where investors shift from risky to safer assets. Discover strategies for navigating volatile markets."
+category: quant_concept
+description: Explore the concept of "flight to quality" in algo trading, where investors
+  shift from risky to safer assets. Discover strategies for navigating volatile markets.
+title: 'Flight to Quality: Concept and Mechanism (Algo Trading)'
 ---
 
 In recent years, the concept of "flight to quality" has garnered significant attention within financial markets, serving as an essential strategy for investors during turbulent periods. A "flight to quality" occurs when investors move their assets from riskier investments to safer ones, such as from equities to government bonds, reflecting concerns over market stability or global economic uncertainties. Several factors can prompt such behavior, including geopolitical tensions, natural disasters, or unexpected economic downturns.

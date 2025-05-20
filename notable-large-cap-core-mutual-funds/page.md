@@ -1,6 +1,9 @@
 ---
-title: "Notable Large-Cap Core Mutual Funds (Algo Trading)"
-description: "Discover the benefits of large-cap and core mutual funds alongside the innovative role of algorithmic trading in modern investment strategies for stable returns."
+category: trading_strategy
+description: Discover the benefits of large-cap and core mutual funds alongside the
+  innovative role of algorithmic trading in modern investment strategies for stable
+  returns.
+title: Notable Large-Cap Core Mutual Funds (Algo Trading)
 ---
 
 Investors today have a wide array of options for diversifying their portfolios, among which large-cap mutual funds, core mutual funds, and algorithmic trading (algo trading) stand out as significant tools. Large-cap mutual funds are particularly popular among those seeking stability and steady returns. These funds typically invest in well-established companies with substantial market capitalizations, providing investors with relatively low-risk opportunities for income generation. By understanding the fundamentals and benefits of such funds, investors can better position themselves to meet their financial goals.

@@ -1,6 +1,9 @@
 ---
-title: "Lipper Rating System (Algo Trading)"
-description: "Explore the intersection of financial analysis and algorithmic trading through Lipper ratings Discover how traditional ratings meet advanced trading technologies for better investments"
+category: quant_concept
+description: Explore the intersection of financial analysis and algorithmic trading
+  through Lipper ratings Discover how traditional ratings meet advanced trading technologies
+  for better investments
+title: Lipper Rating System (Algo Trading)
 ---
 
 Investment ratings are key tools used by analysts and investors to assess the potential risks and returns associated with different financial products, primarily focusing on mutual funds, stocks, and bonds. These ratings provide a structured way to quantify and compare investment opportunities, helping market participants make sound financial decisions. They play a crucial role in financial analysis by offering insights into the quality and performance of various investment vehicles. For instance, they help evaluate past performance, the level of risk, and expected future performance relative to benchmarks like the S&P 500 or market averages.

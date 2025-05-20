@@ -1,6 +1,13 @@
 ---
-title: "Trade Sanctions: Purpose, Types, and Examples (Algo Trading)"
-description: "Explore the intricate dynamics between trade sanctions, economic sanctions, and algorithmic trading in this insightful article. Uncover how these powerful tools impact international trade, shape global markets, and influence diplomatic relations. This examination provides essential knowledge for policymakers, traders, and businesses navigating the complexities of modern global commerce where economic strategies and technological advancements converge. Gain a nuanced understanding of trade sanctions, their types, and real-world applications in this comprehensive overview."
+category: quant_concept
+description: Explore the intricate dynamics between trade sanctions, economic sanctions,
+  and algorithmic trading in this insightful article. Uncover how these powerful tools
+  impact international trade, shape global markets, and influence diplomatic relations.
+  This examination provides essential knowledge for policymakers, traders, and businesses
+  navigating the complexities of modern global commerce where economic strategies
+  and technological advancements converge. Gain a nuanced understanding of trade sanctions,
+  their types, and real-world applications in this comprehensive overview.
+title: 'Trade Sanctions: Purpose, Types, and Examples (Algo Trading)'
 ---
 
 The global economy is increasingly interconnected through complex trade networks facilitated by international trade. These networks form the backbone of economic growth and development, enabling countries to access resources, technologies, and markets that would otherwise be unavailable. However, the interconnected nature of global trade also makes it susceptible to disruptions caused by geopolitical tensions. One of the prominent tools available to countries for enforcing foreign policy objectives are trade sanctions and economic sanctions. These sanctions serve as legal instruments used to restrict commerce or financial transactions with specific nations to alter objectionable policies or punish unwelcome actions. They often extend beyond purely commercial activities to target financial and social domains as well, thereby exerting broader economic influence.

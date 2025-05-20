@@ -1,6 +1,11 @@
 ---
-title: "Fictitious Trade: Overview, Illustrations, and Misuse (Algo Trading)"
-description: "Explore the complexities of algorithmic trading including fictitious trades that manipulate market perception and undermine financial integrity. This article provides insights into improper practices and the need for robust regulatory frameworks to maintain a secure trading environment while examining real-world examples of these deceptive tactics."
+category: quant_concept
+description: Explore the complexities of algorithmic trading including fictitious
+  trades that manipulate market perception and undermine financial integrity. This
+  article provides insights into improper practices and the need for robust regulatory
+  frameworks to maintain a secure trading environment while examining real-world examples
+  of these deceptive tactics.
+title: 'Fictitious Trade: Overview, Illustrations, and Misuse (Algo Trading)'
 ---
 
 Algorithmic trading, employing advanced algorithms and high-speed data analysis, has transformed financial markets by enhancing the efficiency and speed of trading. However, this technological advancement has also introduced complexities and potential risks, leading to improper financial transactions. Among these complexities are fictitious trades, improper transactions, and fraudulent activities that occasionally undermine market integrity.

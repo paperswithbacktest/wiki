@@ -1,6 +1,9 @@
 ---
-title: "Impact of Efficient Markets on Investors (Algo Trading)"
-description: "Explore how efficient market theory and algorithmic trading impact investor strategies and market dynamics By examining EMH investors can adapt to tech-driven shifts"
+category: quant_concept
+description: Explore how efficient market theory and algorithmic trading impact investor
+  strategies and market dynamics By examining EMH investors can adapt to tech-driven
+  shifts
+title: Impact of Efficient Markets on Investors (Algo Trading)
 ---
 
 The concept of efficient markets is pivotal in contemporary financial theory and practice. Central to this idea is the Efficient Market Hypothesis (EMH), which postulates that stock prices fully incorporate and reflect all available information. This suggests that it is not feasible to consistently achieve returns that exceed average market returns on a risk-adjusted basis, as any new information that might affect a security's price is quickly and accurately incorporated into its current price.

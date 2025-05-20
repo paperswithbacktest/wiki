@@ -1,6 +1,9 @@
 ---
-title: "Notable Inventory Fraud Cases (Algo Trading)"
-description: "Explore significant inventory fraud cases in algorithmic trading uncovering notorious scandals like Equity Funding and Crazy Eddie while understanding emerging risks."
+category: quant_concept
+description: Explore significant inventory fraud cases in algorithmic trading uncovering
+  notorious scandals like Equity Funding and Crazy Eddie while understanding emerging
+  risks.
+title: Notable Inventory Fraud Cases (Algo Trading)
 ---
 
 Financial fraud represents a significant threat to both the inventory and trading sectors, with extensive repercussions for investors, corporations, and the global market. In these sectors, fraudulent activities can take various forms, ranging from manipulating inventory records to distort a company's financial health to executing unscrupulous trading strategies that deceive market participants. Such deceptions not only undermine trust but can also have severe financial consequences, leading to bankruptcies, regulatory penalties, and a substantial erosion of investor confidence.

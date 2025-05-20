@@ -1,6 +1,8 @@
 ---
-title: "Buy Stops in Trading (Algo Trading)"
-description: "Explore buy stop orders and algorithmic trading to harness upward market momentum and manage risks effectively. Enhance your trading strategy today."
+category: trading_strategy
+description: Explore buy stop orders and algorithmic trading to harness upward market
+  momentum and manage risks effectively. Enhance your trading strategy today.
+title: Buy Stops in Trading (Algo Trading)
 ---
 
 Financial markets are essential platforms facilitating the exchange of financial assets, including stocks, bonds, commodities, and currencies. These markets are complex systems where market participants—ranging from individual investors to large institutional traders—engage in buying and selling activities. A critical component of executing strategies within these markets is the use of trading orders, which allow participants to specify their buying or selling intentions under varying conditions.

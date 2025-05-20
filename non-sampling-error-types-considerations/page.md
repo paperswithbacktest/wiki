@@ -1,6 +1,9 @@
 ---
-title: "Non-Sampling Error: Types and Considerations (Algo Trading)"
-description: "Explore the impact of non-sampling errors in data collection affecting algorithmic trading and financial decisions. Learn to mitigate errors for accurate analysis."
+category: quant_concept
+description: Explore the impact of non-sampling errors in data collection affecting
+  algorithmic trading and financial decisions. Learn to mitigate errors for accurate
+  analysis.
+title: 'Non-Sampling Error: Types and Considerations (Algo Trading)'
 ---
 
 Accurate data collection and analysis are paramount in today's data-driven world, influencing critical decisions across fields such as finance, healthcare, and public policy. Accuracy ensures that conclusions drawn from data are reliable and valid, which is especially crucial when these decisions can have far-reaching impacts. Errors in data collection not only diminish the quality of analysis but can also lead to erroneous conclusions that may adversely affect decision-making processes.

@@ -1,6 +1,9 @@
 ---
-title: "Market for Lemons: Buyer and Seller Dynamics (Algo Trading)"
-description: "Explore buyer and seller dynamics in markets with information asymmetry and algorithmic trading Learn how trust and market efficiency are affected and strategies to mitigate these challenges"
+category: quant_concept
+description: Explore buyer and seller dynamics in markets with information asymmetry
+  and algorithmic trading Learn how trust and market efficiency are affected and strategies
+  to mitigate these challenges
+title: 'Market for Lemons: Buyer and Seller Dynamics (Algo Trading)'
 ---
 
 The "Market for Lemons" is a seminal concept introduced by economist George Akerlof in his 1970 paper, "The Market for Lemons: Quality Uncertainty and the Market Mechanism." Akerlof used the term "lemons" to describe cars with undisclosed defects, illustrating a broader economic problem of information asymmetry, where one party in a transaction has more or better information than the other. In this context, sellers of used cars may possess private knowledge of the vehicle's quality, which buyers do not, resulting in a distortion of market outcomes. This asymmetry leads to adverse selection, where poor-quality goods drive out high-quality ones from the market because buyers are unable to accurately assess quality differences.

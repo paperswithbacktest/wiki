@@ -1,6 +1,8 @@
 ---
-title: "Fundamental Analysis: Concepts and Applications (Algo Trading)"
-description: "Explore how combining fundamental analysis and algorithmic trading can enhance investment decisions and optimize portfolio performance while managing risks."
+category: quant_concept
+description: Explore how combining fundamental analysis and algorithmic trading can
+  enhance investment decisions and optimize portfolio performance while managing risks.
+title: 'Fundamental Analysis: Concepts and Applications (Algo Trading)'
 ---
 
 Investment strategies have seen significant evolution over the years, adapting to changing market conditions and diverse investor goals. Among the various strategies, fundamental analysis and algorithmic trading stand out as pivotal approaches embraced by investors globally. Fundamental analysis seeks to understand a company's intrinsic value by evaluating its financial statements and economic indicators, providing insight into its market position and future growth potential. In contrast, algorithmic trading leverages advanced algorithms to execute trades with precision, speed, and efficiency, often identifying opportunities within market inefficiencies.

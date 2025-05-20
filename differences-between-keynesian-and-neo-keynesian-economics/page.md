@@ -1,6 +1,12 @@
 ---
-title: "Differences Between Keynesian and Neo-Keynesian Economics (Algo Trading)"
-description: "Explore the distinct differences between Keynesian and Neo-Keynesian economics in this detailed guide tailored for algorithmic traders. Understand how these influential economic theories shed light on government intervention and market dynamics. Delve into their nuanced perspectives to elevate strategic decision-making processes in algorithmic trading and comprehend their practical relevance in financial markets today."
+category: quant_concept
+description: Explore the distinct differences between Keynesian and Neo-Keynesian
+  economics in this detailed guide tailored for algorithmic traders. Understand how
+  these influential economic theories shed light on government intervention and market
+  dynamics. Delve into their nuanced perspectives to elevate strategic decision-making
+  processes in algorithmic trading and comprehend their practical relevance in financial
+  markets today.
+title: Differences Between Keynesian and Neo-Keynesian Economics (Algo Trading)
 ---
 
 The evolution of economic thought has given rise to various schools that seek to explain how economies function and how policy can influence outcomes. Among these, Keynesian and Neo-Keynesian theories hold significant places, especially in addressing economic instabilities. Keynesian economics, developed by John Maynard Keynes during the tumultuous period of the Great Depression, revolutionized the way economists and policymakers viewed government intervention in markets. Its emphasis on total spending and fiscal policy challenged the previously dominant belief in market self-regulation. Neo-Keynesian economics later expanded on these ideas, incorporating monetary policy and microeconomic factors such as price and wage rigidity, offering a more comprehensive framework for addressing economic fluctuations.

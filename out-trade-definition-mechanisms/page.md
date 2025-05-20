@@ -1,6 +1,8 @@
 ---
-title: "Out Trade: Definition and Mechanisms (Algo Trading)"
-description: "Explore out trades and their resolution in stock markets alongside the technology-driven efficiency of algorithmic trading strategies in modern finance."
+category: quant_concept
+description: Explore out trades and their resolution in stock markets alongside the
+  technology-driven efficiency of algorithmic trading strategies in modern finance.
+title: 'Out Trade: Definition and Mechanisms (Algo Trading)'
 ---
 
 In recent years, the stock market has undergone significant transformations due to the integration of advanced trading mechanisms powered by technological advancements. Key among these innovations is the emergence of algorithmic trading, commonly referred to as 'algo trading'. This method leverages computer programs to execute trades based on a predetermined set of rules, facilitating rapid and emotion-free transactions. 

@@ -1,6 +1,8 @@
 ---
-title: "Cash Ratio Formula and Application (Algo Trading)"
-description: "Discover how the cash ratio formula helps algorithmic traders assess company stability and manage risks by evaluating liquidity and financial health."
+category: quant_concept
+description: Discover how the cash ratio formula helps algorithmic traders assess
+  company stability and manage risks by evaluating liquidity and financial health.
+title: Cash Ratio Formula and Application (Algo Trading)
 ---
 
 In today's fast-paced financial world, liquidity ratios have become essential for assessing company stability and performance, especially for those involved in algorithmic trading. These ratios, including the cash ratio, serve as vital indicators of a company's ability to fulfill short-term obligations, offering a snapshot of its financial health. Understanding these metrics is crucial as they inform decisions related to investments and risk management.

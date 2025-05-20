@@ -1,6 +1,8 @@
 ---
-title: "Bond Portfolio Asset Allocation (Algo Trading)"
-description: "Optimize investment strategy with bond portfolios utilizing asset allocation and algorithmic trading Discover how to balance risk and return for superior outcomes"
+category: trading_strategy
+description: Optimize investment strategy with bond portfolios utilizing asset allocation
+  and algorithmic trading Discover how to balance risk and return for superior outcomes
+title: Bond Portfolio Asset Allocation (Algo Trading)
 ---
 
 Investment in bond portfolios and the strategic allocation of assets play pivotal roles in the financial landscape, especially for investors utilizing algorithmic trading. Grasping the fundamentals of these subjects is essential for maximizing investment outcomes. This article highlights the interconnected nature of bond portfolio strategies, asset allocation, and algorithmic trading, emphasizing the potential for optimization in investment performance.

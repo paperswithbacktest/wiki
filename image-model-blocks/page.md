@@ -1,7 +1,8 @@
 ---
-title: Essential Deep Learning Image Model Blocks and Their Functions
+category: quant_concept
 description: Image Model Blocks power neural networks by extracting image features
   through convolution pooling attention and skip connections Discover more inside.
+title: Essential Deep Learning Image Model Blocks and Their Functions
 ---
 
 ![Image](images/1.png)

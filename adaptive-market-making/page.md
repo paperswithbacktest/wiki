@@ -1,6 +1,8 @@
 ---
-title: "adaptive market making (Algo Trading)"
-description: "Adaptive market making is an advanced algorithmic trading strategy that adjusts quoting parameters in real-time ensuring liquidity and efficient trade execution."
+category: trading_strategy
+description: Adaptive market making is an advanced algorithmic trading strategy that
+  adjusts quoting parameters in real-time ensuring liquidity and efficient trade execution.
+title: adaptive market making (Algo Trading)
 ---
 
 Adaptive market making is a sophisticated form of automated trading strategy employed in algorithmic trading that dynamically modifies quoting parameters and risk controls based on real-time market conditions. This adaptability is central to the strategy's effectiveness, as it allows for constant adjustments that maintain a balanced market. By optimizing spread management, quote sizes, and risk exposure, adaptive market making ensures the provision of liquidity and the efficiency of trade execution across diverse market situations.

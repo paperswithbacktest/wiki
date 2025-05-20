@@ -1,6 +1,8 @@
 ---
-title: "Semivariance: Concepts and Calculations (Algo Trading)"
-description: "Explore semivariance as a key metric for evaluating downside risk in investment portfolios useful for algorithmic trading and enhancing decision-making."
+category: quant_concept
+description: Explore semivariance as a key metric for evaluating downside risk in
+  investment portfolios useful for algorithmic trading and enhancing decision-making.
+title: 'Semivariance: Concepts and Calculations (Algo Trading)'
 ---
 
 In today's volatile financial markets, understanding risk is critical for making informed investment decisions. While traditional metrics such as variance offer a measure of overall volatility by capturing both upside and downside fluctuations, they do not necessarily align with the concerns of risk-averse investors focused on mitigating losses. This article examines semivariance, a lesser-known but powerful metric, which offers a more targeted approach to analyzing downside risk in investment portfolios. By concentrating on negative deviations from a set benchmark, semivariance provides a clearer picture of potential adverse outcomes, helping investors and traders manage their portfolios more effectively.

@@ -1,6 +1,8 @@
 ---
-title: "General Ledger and Double-Entry Accounting System (Algo Trading)"
-description: "Explore the vital role of double-entry accounting systems and general ledgers in accurate financial management and modern algorithmic trading strategies."
+category: quant_concept
+description: Explore the vital role of double-entry accounting systems and general
+  ledgers in accurate financial management and modern algorithmic trading strategies.
+title: General Ledger and Double-Entry Accounting System (Algo Trading)
 ---
 
 Double-entry accounting, a foundational concept in the field of accounting, serves as a crucial tool for accurately capturing and maintaining a comprehensive view of a company's financial situation. This system requires that every financial transaction is recorded in at least two different accounts, with corresponding debits and credits that maintain the accounting equation: Assets = Liabilities + Equity. This dual nature of recording ensures the accuracy and completeness of financial data, providing a solid groundwork for preparing reliable financial statements. 

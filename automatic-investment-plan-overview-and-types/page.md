@@ -1,6 +1,8 @@
 ---
-title: "Automatic Investment Plan Overview and Types (Algo Trading)"
-description: "Discover the benefits of Automatic Investment Plans and algorithmic trading Learn how these strategies automate investment processes for efficient wealth growth"
+category: trading_strategy
+description: Discover the benefits of Automatic Investment Plans and algorithmic trading
+  Learn how these strategies automate investment processes for efficient wealth growth
+title: Automatic Investment Plan Overview and Types (Algo Trading)
 ---
 
 Investing is a fundamental aspect of financial planning and wealth accumulation. It involves allocating resources, usually money, in various assets or ventures with the expectation of generating profits over time. A well-structured investment strategy can enhance an individual's or entity's financial standing, facilitating the achievement of future financial objectives. Different investment plans are tailored to suit a range of financial goals and risk tolerances. These plans include traditional options such as stocks, bonds, mutual funds, and more modern, automated alternatives like robo-advisors and algorithmic trading platforms. Understanding the differences between these plans, including their risk and return profiles, is essential for making informed decisions.

@@ -1,6 +1,13 @@
 ---
-title: "LeSage, James (Algo Trading)"
-description: Explore the intersection of algorithmic trading and spatial econometrics with insights from economist James LeSage. Discover how spatial dependencies in data enhance predictive models, offering a competitive edge in trading strategies. Delve into LeSage's groundbreaking methodologies that capture geographic interdependencies, improving market efficiency and decision-making in financial modeling. Learn about the practical application of these advanced techniques and their influence on the future of algorithmic trading.
+category: quant_concept
+description: Explore the intersection of algorithmic trading and spatial econometrics
+  with insights from economist James LeSage. Discover how spatial dependencies in
+  data enhance predictive models, offering a competitive edge in trading strategies.
+  Delve into LeSage's groundbreaking methodologies that capture geographic interdependencies,
+  improving market efficiency and decision-making in financial modeling. Learn about
+  the practical application of these advanced techniques and their influence on the
+  future of algorithmic trading.
+title: LeSage, James (Algo Trading)
 ---
 
 Algorithmic trading has revolutionized the financial markets over recent decades, representing an increasing share of market transactions. This method utilizes advanced mathematical models and computing power to execute trades at speeds and frequencies that human traders cannot achieve. With financial technology advancing rapidly, algorithmic trading has become integral in enhancing market efficiency, liquidity, and transparency. The growth of big data and machine learning has further empowered these automated strategies, influencing decision-making processes by offering heightened predictive accuracy and risk management.

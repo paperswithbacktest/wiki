@@ -1,6 +1,9 @@
 ---
-title: "Mechanics of the United States Green Card Lottery (Algo Trading)"
-description: "Explore the intersection of the US Green Card Lottery and algo trading Discover how algorithms can enhance efficiency and opportunity in immigration and finance"
+category: quant_concept
+description: Explore the intersection of the US Green Card Lottery and algo trading
+  Discover how algorithms can enhance efficiency and opportunity in immigration and
+  finance
+title: Mechanics of the United States Green Card Lottery (Algo Trading)
 ---
 
 The Diversity Visa (DV) Program, commonly referred to as the Green Card Lottery, is a U.S. government initiative aimed at diversifying the country's immigrant population. Established by the Immigration Act of 1990, the program annually distributes approximately 55,000 immigrant visas to individuals from countries with low rates of immigration to the United States. The primary significance of the DV Program lies in its ability to offer opportunities for citizenship that are not tied to employment, family ties, or refugee status, thereby promoting a multicultural society. Participants in the program are randomly selected by a lottery system, with winners granted the opportunity to apply for permanent residency, or a "green card."

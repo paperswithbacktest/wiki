@@ -1,6 +1,8 @@
 ---
-title: "Convertible Virtual Currency (Algo Trading)"
-description: "Explore the intricacies of cryptocurrencies and algorithmic trading Discover insights into digital asset investment strategies and the evolving financial landscape."
+category: quant_concept
+description: Explore the intricacies of cryptocurrencies and algorithmic trading Discover
+  insights into digital asset investment strategies and the evolving financial landscape.
+title: Convertible Virtual Currency (Algo Trading)
 ---
 
 Cryptocurrency is a digital asset designed to function as a medium of exchange, employing cryptographic techniques to secure transactions and control the creation of additional units. This decentralized form of currency operates independently of a central bank, leveraging blockchain technology to maintain a public ledger of all transactions. The rise of cryptocurrencies has significantly impacted the modern financial ecosystem, providing an alternative to traditional fiat currencies and fostering the development of peer-to-peer financial systems.

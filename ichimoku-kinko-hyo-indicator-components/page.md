@@ -1,6 +1,8 @@
 ---
-title: "Ichimoku Kinko Hyo Indicator and Its Components (Algo Trading)"
-description: "Explore the Ichimoku Kinko Hyo indicator to gain insights on market momentum and support levels, empowering trading decisions with its five key components."
+category: trading_strategy
+description: Explore the Ichimoku Kinko Hyo indicator to gain insights on market momentum
+  and support levels, empowering trading decisions with its five key components.
+title: Ichimoku Kinko Hyo Indicator and Its Components (Algo Trading)
 ---
 
 The Ichimoku Kinko Hyo indicator is a multifaceted tool in technical analysis, designed to evaluate market momentum and establish key support and resistance levels. Originating from Japan, the term "Ichimoku" translates to "one look," aptly capturing its holistic approach to market analysis. This unique capability allows traders to derive multiple analytical insights from a single glance at a chart. Since its conception, the Ichimoku Kinko Hyo has gained widespread acceptance across various global financial markets, including stocks, forex, and commodities.

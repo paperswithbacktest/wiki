@@ -1,6 +1,13 @@
 ---
-title: "Company Earnings Overview (Algo Trading)"
-description: "Discover how company earnings reports are essential tools for investors by providing insights into a business's financial health and growth potential with an emphasis on the impact of algorithmic trading in the analysis. Understand the dynamics of financial performance indicators like revenue and net income which signal a company's operational efficiency and market competitiveness. Explore how company earnings and business income trends influence investment strategies and decision-making in today's financial markets."
+category: quant_concept
+description: Discover how company earnings reports are essential tools for investors
+  by providing insights into a business's financial health and growth potential with
+  an emphasis on the impact of algorithmic trading in the analysis. Understand the
+  dynamics of financial performance indicators like revenue and net income which signal
+  a company's operational efficiency and market competitiveness. Explore how company
+  earnings and business income trends influence investment strategies and decision-making
+  in today's financial markets.
+title: Company Earnings Overview (Algo Trading)
 ---
 
 In today's fast-paced financial landscape, understanding a company's financial performance is paramount for investors and stakeholders alike. Company earnings reports are indispensable tools that provide vital insights into the health and growth potential of a business. These reports are not just numerical summaries; they are comprehensive reflections of a company's operational efficiency, strategic positioning, and future prospects. By analyzing earnings reports, stakeholders can assess a company's profitability, stability, and forecast its trajectory in the competitive market.

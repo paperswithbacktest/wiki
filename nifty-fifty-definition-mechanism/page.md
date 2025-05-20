@@ -1,6 +1,9 @@
 ---
-title: "Nifty Fifty: Definition and Mechanism (Algo Trading)"
-description: "Explore the evolution of the Nifty Fifty stocks and algorithmic trading. Enhance your investment strategies by blending historical insights with cutting-edge tech."
+category: quant_concept
+description: Explore the evolution of the Nifty Fifty stocks and algorithmic trading.
+  Enhance your investment strategies by blending historical insights with cutting-edge
+  tech.
+title: 'Nifty Fifty: Definition and Mechanism (Algo Trading)'
 ---
 
 The stock market is a complex ecosystem offering diverse investment opportunities, yet it demands a strategic mindset for navigation. Various investment strategies can be employed to achieve success, with the Nifty Fifty and algorithmic trading standing out as particularly noteworthy. Both have seen significant evolutions over time, reflecting broader shifts in financial markets and investor behavior.

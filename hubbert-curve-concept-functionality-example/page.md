@@ -1,6 +1,9 @@
 ---
-title: "Hubbert Curve: Concept, Functionality, and Example (Algo Trading)"
-description: "Explore the Hubbert Curve's significance in predicting oil production and its application in algorithmic trading to optimize investment strategies in energy markets."
+category: quant_concept
+description: Explore the Hubbert Curve's significance in predicting oil production
+  and its application in algorithmic trading to optimize investment strategies in
+  energy markets.
+title: 'Hubbert Curve: Concept, Functionality, and Example (Algo Trading)'
 ---
 
 The concept of peak oil and the Hubbert Curve are integral to understanding the dynamics of oil production and its sustainability over time. Peak oil refers to the hypothetical point at which global oil production reaches its maximum rate, after which it will irreversibly decline. This concept is closely tied to the Hubbert Curve, a model developed by geophysicist M. King Hubbert in the 1950s. The Hubbert Curve provides a graphical representation of the production lifecycle of finite resources such as oil, illustrating a bell-shaped curve that encapsulates three principal phases: rise, peak, and decline.

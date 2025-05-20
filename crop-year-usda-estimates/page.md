@@ -1,6 +1,8 @@
 ---
-title: "Crop Year: Definition and USDA Estimates (Algo Trading)"
-description: "Explore the dynamics of crop years and the impact of USDA estimates on agricultural markets using algorithmic trading for informed decision-making."
+category: quant_concept
+description: Explore the dynamics of crop years and the impact of USDA estimates on
+  agricultural markets using algorithmic trading for informed decision-making.
+title: 'Crop Year: Definition and USDA Estimates (Algo Trading)'
 ---
 
 Understanding the concept of a crop year is essential for stakeholders in the agricultural industry as it directly influences the pricing and availability of key commodities. A crop year, distinct from a calendar year, begins with the planting and ends with the harvesting of a particular crop. This temporal framework helps agricultural producers, traders, and policymakers to plan and make decisions in alignment with seasonal cycles. 

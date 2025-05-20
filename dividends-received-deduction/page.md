@@ -1,6 +1,8 @@
 ---
-title: "Dividends Received Deduction (Algo Trading)"
-description: "Explore how the Dividends Received Deduction helps corporations minimize taxable income and manage tax implications with algorithmic trading insights."
+category: quant_concept
+description: Explore how the Dividends Received Deduction helps corporations minimize
+  taxable income and manage tax implications with algorithmic trading insights.
+title: Dividends Received Deduction (Algo Trading)
 ---
 
 The Dividends Received Deduction (DRD) is a pivotal federal tax provision within the United States tax system aimed at assisting corporations in minimizing their taxable income. It operates by allowing corporations to deduct a specific percentage of dividends received from other related corporate entities. This financial mechanism plays a significant role in encouraging corporate investment and lessening the impact of what is known as triple taxation. Triple taxation occurs when corporate income faces taxation at multiple levels: initially as business income, again when distributed as dividends, and finally taxed at the shareholder level.

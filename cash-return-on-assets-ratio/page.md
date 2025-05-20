@@ -1,6 +1,8 @@
 ---
-title: "Cash Return on Assets Ratio (Algo Trading)"
-description: "Explore the significance of the Cash Return on Assets (CROA) ratio in financial analysis and algorithmic trading See how it aids in assessing cash efficiency"
+category: quant_concept
+description: Explore the significance of the Cash Return on Assets (CROA) ratio in
+  financial analysis and algorithmic trading See how it aids in assessing cash efficiency
+title: Cash Return on Assets Ratio (Algo Trading)
 ---
 
 In today's fast-paced financial world, understanding the efficiency and profitability of companies is crucial for investors and financial analysts. As market dynamics become increasingly complex, financial health assessment tools are necessary for informed decision-making. One of the key financial ratios employed for this purpose is the Cash Return on Assets (CROA), a metric that measures a company's efficiency in generating cash from its assets. CROA provides insights into how well a company can convert its asset base into cash, compared to traditional profitability measures that focus on net income.

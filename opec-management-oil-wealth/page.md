@@ -1,6 +1,9 @@
 ---
-title: "OPEC and Management of Oil Wealth (Algo Trading)"
-description: "Explore the significant impact of OPEC's oil market strategies and the rise of algorithmic trading, illustrating their complex interplay and investment opportunities."
+category: quant_concept
+description: Explore the significant impact of OPEC's oil market strategies and the
+  rise of algorithmic trading, illustrating their complex interplay and investment
+  opportunities.
+title: OPEC and Management of Oil Wealth (Algo Trading)
 ---
 
 The global oil market is a multifaceted arena shaped by numerous factors, including geopolitical tensions, technological advancements, and economic policies. A pivotal entity within this complex ecosystem is the Organization of Petroleum Exporting Countries (OPEC). Established in 1960, OPEC consists of oil-exporting nations that collaborate to coordinate their petroleum policies. The organization's primary goal is to secure stable and fair oil prices and ensure a continuous supply to consumers. By regulating production levels, OPEC wields significant influence over the global oil prices, affecting economies worldwide, especially during periods of economic or geopolitical instability.
@@ -161,4 +164,3 @@ Adelman, M. A. (1982). *OPEC as a Cartel*. Energy Economics. Adelman's analysis 
 Lopez, H., & Arnaut, D. (2017). *The Effect of OPEC Announcements and Related News on World Oil Prices*. SSRN Electronic Journal. This paper investigates the immediate effects of OPEC's public statements on oil price volatility, using a data-driven approach to quantify market reactions.
 
 Pichler, P., & Selvan, S. (2019). *Impact of OPEC's Competitive Strategic Behavior on Oil Market Prices and Market Conditions*. Journal of Energy & Natural Resources Law. The authors assess how competitive strategies within OPEC influence oil price stability and market conditions, providing insights into the ripple effects of OPEC's policy decisions.
-

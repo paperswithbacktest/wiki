@@ -1,6 +1,8 @@
 ---
-title: "London Interbank Offered Rate (Algo Trading)"
-description: "Explore the transition from LIBOR to new benchmarks like SOFR and its impact on algorithmic trading, ensuring reliable and transparent financial markets."
+category: quant_concept
+description: Explore the transition from LIBOR to new benchmarks like SOFR and its
+  impact on algorithmic trading, ensuring reliable and transparent financial markets.
+title: London Interbank Offered Rate (Algo Trading)
 ---
 
 The London Interbank Offered Rate (LIBOR) has historically been a fundamental benchmark in the financial world, serving as a critical reference point for interbank lending rates. Since its inception in 1986 by the British Bankers' Association, LIBOR has been utilized extensively to price a variety of financial products, including mortgages and loans. Its calculation, which was originally based on the self-reported borrowing costs from leading banks for five major currencies over seven different maturities, provided a versatile tool for global financial markets.

@@ -1,6 +1,9 @@
 ---
-title: "Execution signal (Algo Trading)"
-description: "Discover how execution signals optimize algorithmic trading by enhancing trade execution efficiency, reducing costs, and navigating complex financial markets effectively."
+category: trading_strategy
+description: Discover how execution signals optimize algorithmic trading by enhancing
+  trade execution efficiency, reducing costs, and navigating complex financial markets
+  effectively.
+title: Execution signal (Algo Trading)
 ---
 
 Algorithmic trading has transformed financial markets by automating the execution of trades using pre-defined algorithms. Central to this transformation is the execution signal, which dictates the timing and manner of trade execution. Execution in algorithmic trading refers to the completion of buy or sell orders efficiently, aiming to maximize the benefits of trading strategies while minimizing costs and risks.

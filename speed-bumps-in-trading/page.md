@@ -1,6 +1,8 @@
 ---
-title: "Speed Bumps in Trading (Algo Trading)"
-description: "Explore how speed bumps in algorithmic trading create fairer markets by mitigating high-frequency trading advantages and promoting stability and liquidity."
+category: quant_concept
+description: Explore how speed bumps in algorithmic trading create fairer markets
+  by mitigating high-frequency trading advantages and promoting stability and liquidity.
+title: Speed Bumps in Trading (Algo Trading)
 ---
 
 In the rapidly evolving world of finance, algorithmic trading has become a crucial component of modern financial markets. This advanced method utilizes mathematical models and computer algorithms to execute trades at speeds and frequencies unattainable by human traders. A key determinant of success in this domain is speed, allowing traders to capitalize on fleeting market opportunities. However, not all participants can sustain the rapid pace set by high-frequency traders (HFTs), leading to a need for mechanisms that promote fair trading practices. 

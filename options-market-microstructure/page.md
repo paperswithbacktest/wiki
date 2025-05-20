@@ -1,6 +1,8 @@
 ---
-title: "Options Market Microstructure (Algo Trading)"
-description: "Explore the options market microstructure and algorithmic trading strategies that optimize trade execution and enhance market performance."
+category: quant_concept
+description: Explore the options market microstructure and algorithmic trading strategies
+  that optimize trade execution and enhance market performance.
+title: Options Market Microstructure (Algo Trading)
 ---
 
 The options market microstructure refers to the intricate array of mechanisms and processes by which options are traded on exchanges. This microstructure encompasses the rules, protocols, and technologies that facilitate the trading of option contracts, which include calls, puts, and various complex combinations. Understanding these underlying processes is crucial for market participants to effectively develop algorithmic trading strategies that are instrumental in navigating the options markets.

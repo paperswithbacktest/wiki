@@ -1,6 +1,9 @@
 ---
-title: "Board Lot: Functionality and Examples (Algo Trading)"
-description: "Explore the synergy of board lot trading and algorithmic trading in the evolving stock market Discover how these elements drive efficiency and liquidity for investors"
+category: trading_strategy
+description: Explore the synergy of board lot trading and algorithmic trading in the
+  evolving stock market Discover how these elements drive efficiency and liquidity
+  for investors
+title: 'Board Lot: Functionality and Examples (Algo Trading)'
 ---
 
 Stock trading remains a focal point for investors focused on enhancing growth and profitability within the constantly shifting financial landscape. Historically defined by human decision-making, stock trading has transformed with the emergence of algorithmic trading, significantly elevating participation levels and presenting both promising opportunities and inherent challenges. The integration of technology into trading practices allows for the automation of decisions and transactions, often leading to gains in trading speed and efficiency.

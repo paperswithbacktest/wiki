@@ -1,6 +1,11 @@
 ---
-title: "Evaluation Of ETF Performance (Algo Trading)"
-description: "Explore the comprehensive process of evaluating ETF performance with a focus on key performance metrics and the impact of algorithmic trading strategies. Gain insight into essential factors such as expense ratios, liquidity, and tracking error to make informed investment decisions in the dynamic ETF market. Discover how financial analysis aids in navigating ETF investments effectively."
+category: trading_strategy
+description: Explore the comprehensive process of evaluating ETF performance with
+  a focus on key performance metrics and the impact of algorithmic trading strategies.
+  Gain insight into essential factors such as expense ratios, liquidity, and tracking
+  error to make informed investment decisions in the dynamic ETF market. Discover
+  how financial analysis aids in navigating ETF investments effectively.
+title: Evaluation Of ETF Performance (Algo Trading)
 ---
 
 Exchange-Traded Funds (ETFs) represent a significant advancement in investment strategies, appealing to a wide array of investors due to their inherent flexibility and potential for increased diversification. An ETF operates as a basket of securities that can be purchased or sold on stock exchanges, mirroring the trading mechanics of individual stocks. This structure offers investors an opportunity to access a diversified portfolio without significantly increasing investment costs, enhancing the appeal of ETFs.

@@ -1,6 +1,8 @@
 ---
-title: "Nano Cap: Definition, Risks, and Benefits (Algo Trading)"
-description: "Explore the dynamic yet risky landscape of nano cap stocks with insights on algorithmic trading's role in enhancing investment strategies and decision-making."
+category: quant_concept
+description: Explore the dynamic yet risky landscape of nano cap stocks with insights
+  on algorithmic trading's role in enhancing investment strategies and decision-making.
+title: 'Nano Cap: Definition, Risks, and Benefits (Algo Trading)'
 ---
 
 In the complex world of financial investments, nano cap stocks represent a niche that is both promising and perilous. With market capitalizations under $50 million, these stocks are the smallest public companies and are often referred to as "penny stocks." These low-cap entities carry the potential for substantial returns, attracting investors who are keen on capturing significant short-term gains. However, they also pose a substantial risk, largely due to their volatility and the potential for dramatic price fluctuations.

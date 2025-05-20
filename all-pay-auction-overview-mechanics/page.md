@@ -1,6 +1,8 @@
 ---
-title: "All-Pay Auction: Overview and Mechanics (Algo Trading)"
-description: "Explore the all-pay auction model where all bidders pay their bids and discover its strategic insights and impact on algorithmic trading strategies."
+category: quant_concept
+description: Explore the all-pay auction model where all bidders pay their bids and
+  discover its strategic insights and impact on algorithmic trading strategies.
+title: 'All-Pay Auction: Overview and Mechanics (Algo Trading)'
 ---
 
 Auctions have been a fundamental mechanism for resource allocation and pricing in various markets throughout history. With technological advances and changes in market environments, auction formats have diversified to meet specific needs. Among these, the all-pay auction stands out as a fascinating model where every participant is required to pay their bid amount irrespective of whether they win. This contrasts with traditional auctions where only the winner incurs the bid cost.

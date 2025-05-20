@@ -1,6 +1,11 @@
 ---
-title: "Simple vs. Complex Trading Strategies Explained (Algo Trading)"
-description: Explore the differences between simple and complex trading strategies in algorithmic trading. This guide highlights the advantages of simplicity such as reduced overfitting and healthier adaptability to market shifts. Suitable for both novices and experts it underscores how embracing simple strategies can enhance performance and manage risk in evolving financial markets.
+category: trading_strategy
+description: Explore the differences between simple and complex trading strategies
+  in algorithmic trading. This guide highlights the advantages of simplicity such
+  as reduced overfitting and healthier adaptability to market shifts. Suitable for
+  both novices and experts it underscores how embracing simple strategies can enhance
+  performance and manage risk in evolving financial markets.
+title: Simple vs. Complex Trading Strategies Explained (Algo Trading)
 ---
 
 Algorithmic trading, commonly known as algo trading, operates at the confluence of computer science and finance. It represents a sophisticated trading methodology that utilizes computer algorithms to execute trades based on predetermined criteria. These algorithms can evaluate multiple market variables almost instantaneously, executing trades at speeds and frequencies impractical for human traders.

@@ -1,6 +1,8 @@
 ---
-title: "Dirty Price and Clean Price Comparison (Algo Trading)"
-description: "Explore the essentials of clean and dirty bond pricing crucial for algorithmic trading. Learn their impact on bond valuation and the significance of accrued interest."
+category: quant_concept
+description: Explore the essentials of clean and dirty bond pricing crucial for algorithmic
+  trading. Learn their impact on bond valuation and the significance of accrued interest.
+title: Dirty Price and Clean Price Comparison (Algo Trading)
 ---
 
 Understanding bond pricing is essential for both investors and traders. Bonds, as fixed-income securities, play a critical role in diversifying investment portfolios and managing risk. However, navigating the bond market requires familiarity with specific terminologies, particularly 'clean price' and 'dirty price'. These terms are pivotal in determining a bond's actual purchase cost and influence how transactions are executed in the market.

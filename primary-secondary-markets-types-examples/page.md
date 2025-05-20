@@ -1,6 +1,9 @@
 ---
-title: "Primary and Secondary Markets: Types and Examples (Algo Trading)"
-description: "Explore the differences between primary and secondary financial markets and their role in capital flow, with insights on algorithmic trading's impact on modern trading."
+category: quant_concept
+description: Explore the differences between primary and secondary financial markets
+  and their role in capital flow, with insights on algorithmic trading's impact on
+  modern trading.
+title: 'Primary and Secondary Markets: Types and Examples (Algo Trading)'
 ---
 
 Financial markets are indispensable to the global economy, serving as venues for the trading of securities including stocks, bonds, and derivatives. These markets facilitate the flow of capital, enabling businesses, governments, and individuals to invest, raise funds, and manage risk. At the core of financial markets are two fundamental distinctions: the primary market and the secondary market. These markets serve different purposes and are essential for the efficient functioning of financial systems worldwide.

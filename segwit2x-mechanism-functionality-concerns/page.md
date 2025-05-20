@@ -1,6 +1,9 @@
 ---
-title: "SegWit2x: Mechanism, Functionality, and Concerns (Algo Trading)"
-description: "Explore the impact of SegWit2x on blockchain scalability and algorithmic trading. Understand its role in increasing Bitcoin's transaction speed and network capacity."
+category: quant_concept
+description: Explore the impact of SegWit2x on blockchain scalability and algorithmic
+  trading. Understand its role in increasing Bitcoin's transaction speed and network
+  capacity.
+title: 'SegWit2x: Mechanism, Functionality, and Concerns (Algo Trading)'
 ---
 
 Scalability in blockchain and cryptocurrency is a significant challenge as these technologies gain wider adoption. The need for efficient and faster transaction processing grows alongside the increasing use of digital currencies. One proposed solution to this challenge was SegWit2x, a Bitcoin protocol upgrade that aimed to increase the block size, thereby enhancing transaction speed. This proposal was designed to improve the underlying infrastructure of Bitcoin, addressing existing limitations and meeting the demands of a growing user base. SegWit2x is examined within the broader scope of blockchain scalability, which is essential for supporting the evolution of cryptocurrency markets and facilitating advancements in algorithmic trading.

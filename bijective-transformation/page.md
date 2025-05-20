@@ -1,7 +1,8 @@
 ---
-title: Understanding Bijective Transformations in Machine Learning
+category: quant_concept
 description: Bijective transformations provide reversible data mappings that preserve
   information and boost neural network performance Discover more inside.
+title: Understanding Bijective Transformations in Machine Learning
 ---
 
 ![Image](images/1.png)

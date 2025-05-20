@@ -1,9 +1,11 @@
 ---
-title: "Gamma scalping"
-description: Discover Gamma Scalping, an advanced options trading strategy that capitalizes on market volatility through the use of gamma, one of the "Greeks" in options trading. Learn how to execute this dynamic strategy and explore advanced techniques like long straddles and calendar spreads for enhanced profit potential.
+category: trading_strategy
+description: Discover Gamma Scalping, an advanced options trading strategy that capitalizes
+  on market volatility through the use of gamma, one of the "Greeks" in options trading.
+  Learn how to execute this dynamic strategy and explore advanced techniques like
+  long straddles and calendar spreads for enhanced profit potential.
+title: Gamma scalping
 ---
-
-
 
 Gamma scalping is a sophisticated options trading strategy that harnesses the power of gamma, one of the "Greeks" used to describe the price movement of options. Gamma measures the rate of change of an option's delta relative to the underlying asset's price. This strategy is particularly significant for traders looking to capitalize on the volatility of the market without a strong directional bias.
 

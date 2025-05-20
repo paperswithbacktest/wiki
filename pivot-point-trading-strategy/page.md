@@ -1,6 +1,11 @@
 ---
-title: "Pivot Point Trading Strategy Explained (Algo Trading)"
-description: Explore the benefits and applications of the pivot point trading strategy in algorithmic trading. Learn how pivot points, calculated from previous market data, help identify support and resistance levels to inform trading decisions. Discover strategies that leverage pivot points, their role in market trend detection, and how they enhance automated trading efficiency.
+category: trading_strategy
+description: Explore the benefits and applications of the pivot point trading strategy
+  in algorithmic trading. Learn how pivot points, calculated from previous market
+  data, help identify support and resistance levels to inform trading decisions. Discover
+  strategies that leverage pivot points, their role in market trend detection, and
+  how they enhance automated trading efficiency.
+title: Pivot Point Trading Strategy Explained (Algo Trading)
 ---
 
 Algorithmic trading, characterized by the use of computer algorithms to execute orders based on predetermined criteria, has gained significant traction in modern financial markets. This growth is driven by the substantial benefits it offers, such as increased speed, accuracy, and the ability to process large volumes of data more efficiently than human traders. The rise of algorithmic trading can be attributed to advancements in technology, the availability of vast amounts of market data, and the need for faster execution times in high-frequency trading environments. 

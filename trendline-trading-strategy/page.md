@@ -1,6 +1,11 @@
 ---
-title: "Trendline Trading Strategy (Algo Trading)"
-description: Explore the intricacies of trendline trading strategies within algorithmic trading and discover how these tools enhance market analysis by indicating support and resistance levels. Understand how automatic detection by algorithms can improve effectiveness and consistency. Learn about trendline identification in Python and the application of various strategies for refined market engagement.
+category: trading_strategy
+description: Explore the intricacies of trendline trading strategies within algorithmic
+  trading and discover how these tools enhance market analysis by indicating support
+  and resistance levels. Understand how automatic detection by algorithms can improve
+  effectiveness and consistency. Learn about trendline identification in Python and
+  the application of various strategies for refined market engagement.
+title: Trendline Trading Strategy (Algo Trading)
 ---
 
 The evolution of trading strategies has increasingly emphasized technical analysis tools, with trendlines emerging as a powerful yet often underutilized resource for traders. Trendlines provide a simple yet effective method to determine the general direction of a market, highlighting areas of potential support or resistance where price movement may slow or reverse. Within this article, we examine trendline trading strategies in detail, particularly their application in the context of algorithmic trading. 

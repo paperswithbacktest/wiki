@@ -1,6 +1,12 @@
 ---
-title: "Peter Lynch Investment Strategy Explained (Algo Trading)"
-description: Explore Peter Lynch's legendary investment strategy as it intersects with the modern world of algorithmic trading. Discover how Lynch's principles of value investing and growth potential, like his concept of "ten baggers," can be enhanced with algorithmic precision. Learn how aligning traditional investing philosophies with advanced computational techniques can create new opportunities for optimizing trading activities in today's fast-paced financial markets.
+category: trading_strategy
+description: Explore Peter Lynch's legendary investment strategy as it intersects
+  with the modern world of algorithmic trading. Discover how Lynch's principles of
+  value investing and growth potential, like his concept of "ten baggers," can be
+  enhanced with algorithmic precision. Learn how aligning traditional investing philosophies
+  with advanced computational techniques can create new opportunities for optimizing
+  trading activities in today's fast-paced financial markets.
+title: Peter Lynch Investment Strategy Explained (Algo Trading)
 ---
 
 Peter Lynch, a prominent figure in the investment world, is best known for his extraordinary performance at the helm of Fidelity's Magellan Fund, where he achieved an annual average return of 29.2% from 1977 to 1990. His investment philosophy revolves around the principles of 'invest in what you know' and seeking 'ten baggers,' referring to stocks that have the potential to increase tenfold in value. Lynch emphasizes a thorough understanding of the underlying businesses over speculative trading practices, advocating for investments rooted in practical insights and personal investigation.

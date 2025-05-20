@@ -1,6 +1,9 @@
 ---
-title: "Evaluating High ESG Scores in Companies (Algo Trading)"
-description: "Explore how high ESG scores in companies influence sustainable investing and algorithmic trading, creating opportunities for ethical and profitable financial markets."
+category: trading_strategy
+description: Explore how high ESG scores in companies influence sustainable investing
+  and algorithmic trading, creating opportunities for ethical and profitable financial
+  markets.
+title: Evaluating High ESG Scores in Companies (Algo Trading)
 ---
 
 Corporate Social Responsibility (CSR) refers to the ethical role that businesses play in contributing to sustainable economic development and societal welfare. This concept has gained significant traction in the modern business landscape, as companies face increasing pressure from stakeholders to operate responsibly. CSR embodies a commitment to ethical behavior and transparency across various domains such as environmental stewardship, social equity, and corporate governance. Companies incorporating CSR into their strategies often experience enhanced brand reputation, increased customer loyalty, and a positive societal impact, all of which contribute to long-term business success.

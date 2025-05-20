@@ -1,6 +1,9 @@
 ---
-title: "Interpreting Covariance Magnitude Between Variables (Algo Trading)"
-description: "Explore the significance of covariance and correlation in algo trading to enhance strategies and risk management. Learn to interpret these key statistical tools."
+category: quant_concept
+description: Explore the significance of covariance and correlation in algo trading
+  to enhance strategies and risk management. Learn to interpret these key statistical
+  tools.
+title: Interpreting Covariance Magnitude Between Variables (Algo Trading)
 ---
 
 Algorithmic trading, often referred to as algo trading, has transformed financial markets by enabling more rapid and accurate trading strategies. Central to these strategies is the examination of the relationships between different variables through statistical measures like covariance and correlation. These tools are crucial for understanding and predicting the movement of asset prices, thus allowing traders to make informed decisions and optimize algorithmic trading performance.

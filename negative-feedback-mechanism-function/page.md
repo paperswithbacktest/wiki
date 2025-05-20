@@ -1,6 +1,9 @@
 ---
-title: "Negative Feedback: Mechanism and Function (Algo Trading)"
-description: "Explore how negative feedback mechanisms in algorithmic trading stabilize financial markets by managing volatility, enhancing market balance, and optimizing trades."
+category: quant_concept
+description: Explore how negative feedback mechanisms in algorithmic trading stabilize
+  financial markets by managing volatility, enhancing market balance, and optimizing
+  trades.
+title: 'Negative Feedback: Mechanism and Function (Algo Trading)'
 ---
 
 Feedback mechanisms play a crucial role in both control systems and trading, facilitating the maintenance of balance and responsiveness across various systems. Negative feedback, in particular, is of utmost importance within control systems, shaping disciplines ranging from engineering to financial markets. This article examines the complexity of negative feedback mechanisms within control systems and their application in algorithmic trading. These mechanisms are vital as they help manage system responses to external changes, aiming to minimize deviations from desired targets.

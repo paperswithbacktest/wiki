@@ -1,6 +1,8 @@
 ---
-title: "Australian Dollar in Forex Trading (Algo Trading)"
-description: "Discover the dynamic world of forex trading with a focus on the Australian Dollar and algorithmic trading Explore key strategies for optimized trading success"
+category: trading_strategy
+description: Discover the dynamic world of forex trading with a focus on the Australian
+  Dollar and algorithmic trading Explore key strategies for optimized trading success
+title: Australian Dollar in Forex Trading (Algo Trading)
 ---
 
 Forex trading represents a dynamic financial activity where currencies are exchanged against one another. Within this vast marketplace, the Australian Dollar (AUD) holds a prominent position, recognized as one of the major currencies actively traded. This can be attributed to Australia's strong economic foundations and its integral role in global trade, particularly in the commodities sector.

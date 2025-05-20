@@ -1,6 +1,9 @@
 ---
-title: "3P Oil Reserves: Definition and Mechanism (Algo Trading)"
-description: "Explore the crucial role 3P oil reserves play in the industry. Understand Proven, Probable, and Possible reserves and their impact on trading and investment strategies."
+category: quant_concept
+description: Explore the crucial role 3P oil reserves play in the industry. Understand
+  Proven, Probable, and Possible reserves and their impact on trading and investment
+  strategies.
+title: '3P Oil Reserves: Definition and Mechanism (Algo Trading)'
 ---
 
 3P oil reserves, comprising Proven, Probable, and Possible reserves, play a pivotal role in the oil and gas industry. These reserves are fundamental to understanding the potential yield of oil fields and making informed decisions in exploration, production, and investment. 

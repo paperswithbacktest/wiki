@@ -1,6 +1,8 @@
 ---
-title: "Net Current Asset Value Per Share (Algo Trading)"
-description: "Explore how Net Current Asset Value Per Share (NCAVPS) aids in identifying undervalued stocks and the role of algorithms in enhancing trading strategies."
+category: quant_concept
+description: Explore how Net Current Asset Value Per Share (NCAVPS) aids in identifying
+  undervalued stocks and the role of algorithms in enhancing trading strategies.
+title: Net Current Asset Value Per Share (Algo Trading)
 ---
 
 Understanding key financial metrics is essential for both seasoned traders and budding investors in the finance and investment sectors. One financial metric that provides significant insight is the Net Current Asset Value Per Share (NCAVPS). This metric was introduced by Benjamin Graham, a renowned value investor, who emphasized the importance of identifying undervalued stocks. 

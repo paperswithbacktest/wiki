@@ -1,6 +1,9 @@
 ---
-title: "Comparison of IRR and NPV in Capital Budgeting (Algo Trading)"
-description: "Explore the comparison of Net Present Value and Internal Rate of Return in capital budgeting within algorithmic trading Discover how these tools optimize profitability"
+category: quant_concept
+description: Explore the comparison of Net Present Value and Internal Rate of Return
+  in capital budgeting within algorithmic trading Discover how these tools optimize
+  profitability
+title: Comparison of IRR and NPV in Capital Budgeting (Algo Trading)
 ---
 
 Capital budgeting is a critical component of financial decision-making, serving as a framework for evaluating the potential profitability and financial impact of large investment projects. It involves the allocation of resources towards significant expenditures, such as acquisitions, new product lines, or infrastructure developments, that can affect a company's financial health in the long term. Effective capital budgeting enables organizations to optimize their capital expenditures by selecting projects that not only align with their strategic objectives but also maximize shareholder value.

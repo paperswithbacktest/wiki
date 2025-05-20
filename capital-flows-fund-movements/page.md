@@ -1,6 +1,9 @@
 ---
-title: "Capital Flows and Fund Movements (Algo Trading)"
-description: "Explore the world of algorithmic trading and its significant role in reshaping global financial markets. Understand capital flows and their impact on economic stability."
+category: quant_concept
+description: Explore the world of algorithmic trading and its significant role in
+  reshaping global financial markets. Understand capital flows and their impact on
+  economic stability.
+title: Capital Flows and Fund Movements (Algo Trading)
 ---
 
 The global financial landscape is undergoing significant transformation, fueled by dynamic changes in fund movements and capital flows. In recent years, algorithmic trading has emerged as a pivotal force within this milieu, exerting considerable influence on market behavior and liquidity across the globe. Algorithmic trading utilizes complex computer algorithms to execute trades at unprecedented speed and volume, thereby reshaping how markets operate.

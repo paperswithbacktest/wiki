@@ -1,6 +1,9 @@
 ---
-title: "Low Volume Pullback as a Stock Market Indicator (Algo Trading)"
-description: "Explore the use of low volume pullbacks as a key stock market indicator in algo trading, offering strategies to enhance risk/reward ratios and optimize trades."
+category: trading_strategy
+description: Explore the use of low volume pullbacks as a key stock market indicator
+  in algo trading, offering strategies to enhance risk/reward ratios and optimize
+  trades.
+title: Low Volume Pullback as a Stock Market Indicator (Algo Trading)
 ---
 
 The financial markets offer a variety of trading strategies designed to capitalize on different market conditions. These strategies are developed with the primary aim of optimizing returns while managing risk, each tailoring to specific market behaviors and investor goals. In recent years, algorithmic trading, which employs computer algorithms to execute trades based on pre-defined criteria, has gained immense popularity. Its ability to process large amounts of data and execute trades at high speed presents a strategic advantage in the fast-paced world of financial trading.

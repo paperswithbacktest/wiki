@@ -1,6 +1,10 @@
 ---
-title: "Comparison of Robinhood and Vanguard (Algo Trading)"
-description: "Discover the key differences between Robinhood and Vanguard investment platforms and how they cater to various investor needs. Explore the emergence of algorithmic trading and its impact on modern investing. Gain insights into selecting the best platform tailored to your financial goals and strategy preferences."
+category: trading_strategy
+description: Discover the key differences between Robinhood and Vanguard investment
+  platforms and how they cater to various investor needs. Explore the emergence of
+  algorithmic trading and its impact on modern investing. Gain insights into selecting
+  the best platform tailored to your financial goals and strategy preferences.
+title: Comparison of Robinhood and Vanguard (Algo Trading)
 ---
 
 In today's rapidly evolving financial markets, selecting the right investment platform is essential for investors at any stage in their journey. Vanguard and Robinhood stand out as two significant names in the investment platform space, each offering distinct features that cater to divergent investor needs.

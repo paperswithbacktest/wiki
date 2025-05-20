@@ -1,6 +1,9 @@
 ---
-title: "OIS Discounting (Algo Trading)"
-description: "Explore the growing importance of OIS discounting in modern finance and algorithmic trading Discover how this methodology enhances pricing accuracy and market stability"
+category: quant_concept
+description: Explore the growing importance of OIS discounting in modern finance and
+  algorithmic trading Discover how this methodology enhances pricing accuracy and
+  market stability
+title: OIS Discounting (Algo Trading)
 ---
 
 In recent years, OIS discounting has emerged as a critical component of financial markets, gaining particular importance in algorithmic trading and modern finance. This shift has been catalyzed by the 2008 financial crisis, which exposed weaknesses in traditional derivative pricing methods. Before the crisis, derivatives were generally priced using benchmarks such as the London Interbank Offered Rate (LIBOR). However, the crisis underscored the inadequacy of these methods due to significant counterparty risk and market instability, leading to a reevaluation of financial pricing models.

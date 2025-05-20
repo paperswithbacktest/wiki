@@ -1,6 +1,9 @@
 ---
-title: "Nickel: Definition, Mechanism, and Example (Algo Trading)"
-description: "Explore the role of algorithmic trading in the nickel market a vital metal for industries like batteries and steel Discover strategies for navigating market volatility and achieving trading success"
+category: quant_concept
+description: Explore the role of algorithmic trading in the nickel market a vital
+  metal for industries like batteries and steel Discover strategies for navigating
+  market volatility and achieving trading success
+title: 'Nickel: Definition, Mechanism, and Example (Algo Trading)'
 ---
 
 In the fast-paced world of trading, algorithmic strategies have become a game-changer, particularly in the commodities market where metals like nickel are traded. Nickel, a vital base metal, serves crucial roles in numerous industries, including the rapidly expanding sectors of battery manufacturing and stainless steel production. The increasing demand in these industries underscores nickel's importance in the global economy and highlights the need for efficient trading strategies.

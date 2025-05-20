@@ -1,6 +1,9 @@
 ---
-title: "Bond Buyer Index (Algo Trading)"
-description: "Explore the evolving municipal bond market with insights into the Bond Buyer Index a key benchmark shaping trading strategies through algo trading and AI advancements."
+category: trading_strategy
+description: Explore the evolving municipal bond market with insights into the Bond
+  Buyer Index a key benchmark shaping trading strategies through algo trading and
+  AI advancements.
+title: Bond Buyer Index (Algo Trading)
 ---
 
 The financial landscape is continuously evolving, with notable advancements in the municipal bond market. Municipal bonds, commonly referred to as 'munis,' hold a significant position within the fixed-income market. They offer tax-exempt income to investors while simultaneously funding essential public projects such as infrastructure development, schools, and hospitals. These bonds serve as a crucial financing tool for local and state governments in the United States, providing them with the necessary capital to support public services and community projects without burdening municipal budgets excessively.

@@ -1,7 +1,8 @@
 ---
-title: Understanding Rouge-S Skip-Bigram Metric for Text Summarization
+category: quant_concept
 description: Rouge-S measures summary quality in machine learning using skip-bigram
   co-occurrence to capture meaning beyond word order Discover more inside
+title: Understanding Rouge-S Skip-Bigram Metric for Text Summarization
 ---
 
 ![Image](images/1.jpeg)

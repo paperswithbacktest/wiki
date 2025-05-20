@@ -1,6 +1,8 @@
 ---
-title: "Generation Alpha: Characteristics and Future (Algo Trading)"
-description: "Explore how Generation Alpha's tech-savvy nature will reshape algorithmic trading. Discover their influence on finance, education, and market trends."
+category: quant_concept
+description: Explore how Generation Alpha's tech-savvy nature will reshape algorithmic
+  trading. Discover their influence on finance, education, and market trends.
+title: 'Generation Alpha: Characteristics and Future (Algo Trading)'
 ---
 
 Generation Alpha, the cohort born from 2010 onwards, represents the first generation to be entirely born within the 21st century. This generation is characterized by their seamless integration with technology from birth, having grown up amidst smartphones, social media, and the Internet of Things. Understanding the characteristics of Generation Alpha is vital as they will shape future technological, educational, and economic landscapes. Their distinctive approach to technology, learning, and interaction with information suggests that they will make significant impacts across sectors, particularly in finance and trading.

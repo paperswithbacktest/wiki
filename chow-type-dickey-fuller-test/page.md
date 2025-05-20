@@ -1,6 +1,11 @@
 ---
-title: "Chow-type Dickey-Fuller test (Algo Trading)"
-description: Explore the role of the Chow-Type Dickey-Fuller Test in algorithmic trading to detect market explosiveness and speculative bubbles. Understand its theoretical foundations, practical applications, and implementation using Python to enhance trading strategies by identifying potential regime shifts and unsustainable market conditions.
+category: quant_concept
+description: Explore the role of the Chow-Type Dickey-Fuller Test in algorithmic trading
+  to detect market explosiveness and speculative bubbles. Understand its theoretical
+  foundations, practical applications, and implementation using Python to enhance
+  trading strategies by identifying potential regime shifts and unsustainable market
+  conditions.
+title: Chow-type Dickey-Fuller test (Algo Trading)
 ---
 
 In algorithmic trading, the use of statistical tests is essential for uncovering underlying market patterns and dynamics. One such test, the Chow-Type Dickey-Fuller Test, plays a significant role in identifying explosiveness within time series data—an indication of potentially unsustainable market conditions characterized by rapid and substantial changes.

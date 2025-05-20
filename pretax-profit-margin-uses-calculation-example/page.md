@@ -1,6 +1,9 @@
 ---
-title: "Pretax Profit Margin: Uses, Calculation, and Example (Algo Trading)"
-description: "Explore the significance of the pre-tax profit margin in assessing a company’s profitability within algo trading This metric aids in evaluating operational efficiency"
+category: quant_concept
+description: Explore the significance of the pre-tax profit margin in assessing a
+  company’s profitability within algo trading This metric aids in evaluating operational
+  efficiency
+title: 'Pretax Profit Margin: Uses, Calculation, and Example (Algo Trading)'
 ---
 
 In today's rapidly evolving financial landscape, understanding key financial metrics has become vital for businesses striving to remain competitive and achieve sustainable growth. Among these metrics, the pre-tax profit margin stands out due to its crucial role in evaluating a company's profitability and operational efficiency. The pre-tax profit margin measures the percentage of revenue remaining after accounting for operational expenses but before taxes are deducted. This metric provides a clear view of a company's ability to generate profit from its core operations, serving as an indicator of financial health and management effectiveness.

@@ -1,9 +1,9 @@
 ---
-title: Comprehensive Solana Wallet Guide And Comparison 2024
+category: quant_concept
 description: Solana wallet options in 2024 offer user-friendly security staking and
   token swaps Get the best wallet for your crypto Discover more inside
+title: Comprehensive Solana Wallet Guide And Comparison 2024
 ---
-
 
 ![Image](images/1.jpeg)
 

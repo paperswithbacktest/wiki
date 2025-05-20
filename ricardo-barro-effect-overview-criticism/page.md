@@ -1,6 +1,9 @@
 ---
-title: "Ricardo-Barro Effect: Overview and Criticism (Algo Trading)"
-description: "Explore the Ricardo-Barro effect and its criticisms in the context of fiscal policy and algorithmic trading Its role in economic debates and impact on market behavior"
+category: quant_concept
+description: Explore the Ricardo-Barro effect and its criticisms in the context of
+  fiscal policy and algorithmic trading Its role in economic debates and impact on
+  market behavior
+title: 'Ricardo-Barro Effect: Overview and Criticism (Algo Trading)'
 ---
 
 Fiscal policy is a critical component of economic planning employed by governments to influence a nation's economic activity by adjusting spending levels and tax rates. Its primary objectives include achieving macroeconomic stability, encouraging economic growth, and reducing the levels of unemployment and inflation. Fiscal policy can take a variety of forms, such as expansionary measures aimed at stimulating the economy during recessions or contractionary measures designed to cool down an overheated economy.

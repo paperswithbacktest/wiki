@@ -1,6 +1,12 @@
 ---
-title: "Comparison of Market and Command Economies (Algo Trading)"
-description: "Explore the differences between market and command economies with a focus on their impact on algorithmic trading. Understand how these economic systems affect resource management, wealth distribution, and market operations. Discover the role of algorithmic trading in these environments, leveraging market dynamics and technological advancements. Gain insights into the complexities and economic intricacies shaping global financial landscapes."
+category: quant_concept
+description: Explore the differences between market and command economies with a focus
+  on their impact on algorithmic trading. Understand how these economic systems affect
+  resource management, wealth distribution, and market operations. Discover the role
+  of algorithmic trading in these environments, leveraging market dynamics and technological
+  advancements. Gain insights into the complexities and economic intricacies shaping
+  global financial landscapes.
+title: Comparison of Market and Command Economies (Algo Trading)
 ---
 
 In the landscape of global economics, understanding the different types of economic systems is crucial for comprehending how nations organize their resources, address their population's needs, and influence both local and international markets. Economic systems define the framework within which a country operates, affecting everything from daily consumer choices to international trade policies. These systems determine how wealth is distributed, which goods and services are produced, and who makes those decisions.

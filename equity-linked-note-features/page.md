@@ -1,6 +1,8 @@
 ---
-title: "Equity-Linked Note Features (Algo Trading)"
-description: "Explore the features of Equity-Linked Notes and how they combine equity and fixed-income benefits to enhance trading strategies through algorithmic platforms."
+category: quant_concept
+description: Explore the features of Equity-Linked Notes and how they combine equity
+  and fixed-income benefits to enhance trading strategies through algorithmic platforms.
+title: Equity-Linked Note Features (Algo Trading)
 ---
 
 Equity-Linked Notes (ELNs) are structured financial products that integrate attributes of both equity investments and fixed-income securities. These instruments offer a unique means of participating in the equity markets while mitigating some of the associated risks through structured features. By linking returns to the performance of an underlying equity asset or index, ELNs provide a tailored investment approach that can yield returns greater than conventional fixed-income products.

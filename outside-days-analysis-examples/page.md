@@ -1,6 +1,8 @@
 ---
-title: "Outside Days: Analysis and Examples (Algo Trading)"
-description: "Explore the significance of outside days in algo trading with this detailed analysis Unveil how these two-bar patterns drive decisions in volatile markets"
+category: trading_strategy
+description: Explore the significance of outside days in algo trading with this detailed
+  analysis Unveil how these two-bar patterns drive decisions in volatile markets
+title: 'Outside Days: Analysis and Examples (Algo Trading)'
 ---
 
 Trading patterns are essential tools in the stock market, providing traders with insights into potential price movements. These patterns analyze historical price data to predict future trends, enabling traders to make informed decisions. A pattern of particular interest is the "outside day," which holds significant importance in trading strategies, particularly in algorithmic trading. 

@@ -1,6 +1,8 @@
 ---
-title: "Universal Currency Converter: Meaning and Mechanism (Algo Trading)"
-description: "Explore the meaning and mechanism of universal currency converters and their role in algo trading to enhance forex market efficiency and reliability."
+category: quant_concept
+description: Explore the meaning and mechanism of universal currency converters and
+  their role in algo trading to enhance forex market efficiency and reliability.
+title: 'Universal Currency Converter: Meaning and Mechanism (Algo Trading)'
 ---
 
 In today's globalized economy, the foreign exchange (forex) market and currency conversion systems are integral to the functioning of international trade, travel, and investment activities. As goods and services move across borders, the need for efficient currency exchange becomes paramount. This market's liquidity and continuous operation facilitate the conversion between different currencies, enabling companies to manage financial operations beyond their home territories and providing travelers the means to navigate diverse monetary systems.

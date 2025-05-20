@@ -1,6 +1,8 @@
 ---
-title: "Balanced Investment Strategy (Algo Trading)"
-description: "Explore the balanced investment strategy for optimizing portfolios through diversifying assets like stocks and bonds while managing market risks efficiently."
+category: trading_strategy
+description: Explore the balanced investment strategy for optimizing portfolios through
+  diversifying assets like stocks and bonds while managing market risks efficiently.
+title: Balanced Investment Strategy (Algo Trading)
 ---
 
 In today's ever-evolving financial landscape, investors are constantly seeking strategies to optimize their portfolios and maximize returns while managing risk. A balanced portfolio investment strategy has emerged as a popular approach that aims to strike a balance between risk and return by diversifying investments across various asset classes such as stocks, bonds, and cash equivalents. This diversification is crucial as it spreads out the potential risk and can lead to more stable returns over time, mitigating the impact of market volatility.

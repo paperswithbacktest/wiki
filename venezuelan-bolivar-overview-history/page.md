@@ -1,6 +1,9 @@
 ---
-title: "Venezuelan Bolivar: Overview and History (Algo Trading)"
-description: "Explore the Venezuelan Bolivar's complex history from its stable origins to recent challenges of hyperinflation and economic instability shaped by algorithmic trading."
+category: dataset
+description: Explore the Venezuelan Bolivar's complex history from its stable origins
+  to recent challenges of hyperinflation and economic instability shaped by algorithmic
+  trading.
+title: 'Venezuelan Bolivar: Overview and History (Algo Trading)'
 ---
 
 The Venezuelan Bolivar has undergone substantial transformations since its inception, a reflection of the broader economic and political volatility that has characterized Venezuela over the decades. Originally instituted in 1879, the Bolivar was once considered one of Latin America's most stable currencies. Its initial stability was largely due to its peg to both the silver and gold standards and later to the U.S. dollar. However, the narrative of the Venezuelan Bolivar is not one of prolonged stability but rather a tumultuous journey punctuated by episodes of dramatic devaluation and hyperinflation.

@@ -1,6 +1,9 @@
 ---
-title: "In Specie in Asset Distributions (Algo Trading)"
-description: "Discover the intricacies of in specie asset distributions and algorithmic trading to enhance your financial strategies Understand how these concepts optimize risk and return"
+category: quant_concept
+description: Discover the intricacies of in specie asset distributions and algorithmic
+  trading to enhance your financial strategies Understand how these concepts optimize
+  risk and return
+title: In Specie in Asset Distributions (Algo Trading)
 ---
 
 In today's rapidly evolving financial landscape, understanding complex terminology is crucial for investors, traders, and finance professionals. This article aims to demystify key financial terms related to asset distribution, 'in specie' distribution, and algorithmic trading. These concepts are not only interconnected but also play a significant role in modern financial strategies.

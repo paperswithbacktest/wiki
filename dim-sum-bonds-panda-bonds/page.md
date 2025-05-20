@@ -1,6 +1,8 @@
 ---
-title: "Dim Sum Bonds and Panda Bonds (Algo Trading)"
-description: "Explore Dim Sum and Panda Bonds the dynamic RMB-denominated investment tools in global markets. Learn how algorithmic trading enhances their trade efficiency."
+category: quant_concept
+description: Explore Dim Sum and Panda Bonds the dynamic RMB-denominated investment
+  tools in global markets. Learn how algorithmic trading enhances their trade efficiency.
+title: Dim Sum Bonds and Panda Bonds (Algo Trading)
 ---
 
 In the global financial market, bond instruments serve as pivotal tools for diversifying investment portfolios, aiding in risk management and stable returns. A notable segment within this spectrum is Chinese currency bonds, specifically Dim Sum bonds and Panda bonds. These instruments provide distinct avenues for investors aiming to gain exposure to the Chinese renminbi (RMB) and leverage the potential of the burgeoning Chinese economy.

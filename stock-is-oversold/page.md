@@ -1,9 +1,13 @@
 ---
-title: "Stock is oversold"
-description: Discover the concept of oversold stocks and how they offer trading opportunities for traders and investors alike. Learn about fundamentally and technically oversold stocks through fundamental analysis and technical tools like RSI, Stochastic Oscillator, moving averages, Bollinger Bands, and volume indicators. Understand mean-reversion theory and its role in identifying potential buying opportunities in oversold conditions. Apply these techniques to make informed decisions and capitalize on market inefficiencies.
+category: trading_strategy
+description: Discover the concept of oversold stocks and how they offer trading opportunities
+  for traders and investors alike. Learn about fundamentally and technically oversold
+  stocks through fundamental analysis and technical tools like RSI, Stochastic Oscillator,
+  moving averages, Bollinger Bands, and volume indicators. Understand mean-reversion
+  theory and its role in identifying potential buying opportunities in oversold conditions.
+  Apply these techniques to make informed decisions and capitalize on market inefficiencies.
+title: Stock is oversold
 ---
-
-
 
 When we talk about a stock being oversold, we refer to a situation where its price has declined to a level that suggests it is undervalued. This typically occurs after a significant and rapid decrease in price over a short period. The concept of a stock being oversold is rooted in technical analysis, where various indicators are used to evaluate whether a stock’s current price is lower than its intrinsic or perceived value.
 

@@ -1,8 +1,9 @@
 ---
-title: Understanding Underfitting in Machine Learning Models
+category: quant_concept
 description: Underfitting in machine learning occurs when a model is too simple to
   learn data patterns leading to poor performance on training and new data Discover
   more inside
+title: Understanding Underfitting in Machine Learning Models
 ---
 
 ![Image](images/1.png)

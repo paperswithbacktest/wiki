@@ -1,6 +1,8 @@
 ---
-title: "Bond Floor: Meaning and Calculation (Algo Trading)"
-description: "Explore the bond floor concept in convertible bonds along with calculation methods using algorithmic trading enhancing investments' risk management and performance."
+category: quant_concept
+description: Explore the bond floor concept in convertible bonds along with calculation
+  methods using algorithmic trading enhancing investments' risk management and performance.
+title: 'Bond Floor: Meaning and Calculation (Algo Trading)'
 ---
 
 The world of financial investments includes a wide array of instruments, each offering distinct benefits and risks. Bonds, particularly convertible bonds, are commonly utilized investment vehicles. A bond represents a debt security issued by corporations or governments to raise capital, typically considered to provide more stability compared to equities. Convertible bonds, however, possess unique characteristics that allow investors the opportunity to convert them into a predetermined number of the issuer’s shares, blending the attributes of both equity and debt.

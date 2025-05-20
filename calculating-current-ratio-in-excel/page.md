@@ -1,6 +1,9 @@
 ---
-title: "Calculating Current Ratio in Excel (Algo Trading)"
-description: "Discover how to calculate the current ratio in Excel for algorithmic trading Learn how this liquidity metric influences trading strategies and improves decision-making"
+category: quant_concept
+description: Discover how to calculate the current ratio in Excel for algorithmic
+  trading Learn how this liquidity metric influences trading strategies and improves
+  decision-making
+title: Calculating Current Ratio in Excel (Algo Trading)
 ---
 
 Financial analysis and algorithmic trading have increasingly converged to offer robust strategies for managing and trading assets. At the core of financial analysis lies the evaluation of a company's financial health, where liquidity metrics such as the current ratio play a crucial role. The current ratio, defined as the ratio of a company’s current assets to its current liabilities, assists investors and stakeholders in assessing a company's ability to meet its short-term obligations. This metric is pivotal in providing a snapshot of liquidity and operational efficiency, thereby impacting investment and trading decisions significantly.

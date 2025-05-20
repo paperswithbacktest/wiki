@@ -1,6 +1,12 @@
 ---
-title: "Analysis of Real Estate Investment Trusts (Algo Trading)"
-description: "Explore the intricacies of Real Estate Investment Trusts (REITs) and their significance in diversified investment portfolios. This article offers insights into REIT structures, income potential, and algorithmic trading's role in optimizing REIT investments. Understand the metrics and analyses that differentiate REIT evaluation from traditional stocks and discover strategies to integrate REITs into your investment approach for optimal returns."
+category: trading_strategy
+description: Explore the intricacies of Real Estate Investment Trusts (REITs) and
+  their significance in diversified investment portfolios. This article offers insights
+  into REIT structures, income potential, and algorithmic trading's role in optimizing
+  REIT investments. Understand the metrics and analyses that differentiate REIT evaluation
+  from traditional stocks and discover strategies to integrate REITs into your investment
+  approach for optimal returns.
+title: Analysis of Real Estate Investment Trusts (Algo Trading)
 ---
 
 The landscape of investing is constantly changing, presenting new opportunities and challenges. Real Estate Investment Trusts (REITs) offer a distinct opportunity for individuals to gain exposure to the real estate sector without the need for direct property acquisitions. A REIT is an organization that owns, manages, or provides financing for income-generating real estate, allowing investors to receive a share of the income produced by such real estate investments without partaking in the responsibilities of property ownership or management.

@@ -1,6 +1,9 @@
 ---
-title: "Average Age of Inventory (Algo Trading)"
-description: "Optimize inventory management with insights into average age and turnover rates. Learn how algorithm trading advances decision-making for better inventory efficiency."
+category: quant_concept
+description: Optimize inventory management with insights into average age and turnover
+  rates. Learn how algorithm trading advances decision-making for better inventory
+  efficiency.
+title: Average Age of Inventory (Algo Trading)
 ---
 
 In the modern business landscape, efficient inventory management is crucial for both operational excellence and profit maximization. As companies strive to meet customer demands and maintain profitability, the management of inventory becomes an integral component of their operational strategy. Key metrics like inventory turnover and average age calculations serve as vital indicators of how effectively a business handles its inventory stock. Inventory turnover measures how frequently a company sells and replaces its inventory within a given timeframe, offering insights into sales performance and inventory efficiency.

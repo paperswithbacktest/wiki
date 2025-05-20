@@ -1,6 +1,11 @@
 ---
-title: "ISM Manufacturing Index (PMI) Explained (Algo Trading)"
-description: Discover how to leverage the ISM Manufacturing Index and Purchasing Managers' Index in algorithmic trading strategies. Learn about these key economic indicators and their role in assessing economic health, influencing market movements and refining trading algorithms to maximize returns. Maximize your trading strategy by understanding the reliability and impact of ISM and PMI on financial markets.
+category: quant_concept
+description: Discover how to leverage the ISM Manufacturing Index and Purchasing Managers'
+  Index in algorithmic trading strategies. Learn about these key economic indicators
+  and their role in assessing economic health, influencing market movements and refining
+  trading algorithms to maximize returns. Maximize your trading strategy by understanding
+  the reliability and impact of ISM and PMI on financial markets.
+title: ISM Manufacturing Index (PMI) Explained (Algo Trading)
 ---
 
 Algorithmic trading capitalizes on the use of data-driven insights to strategically navigate financial markets. Among the plethora of tools and indicators available, two economic indicators stand out for their prominence and utility: the ISM Manufacturing Index and the Purchasing Managers' Index (PMI). Both indices provide vital information about economic trends and are extensively used by traders to fine-tune their algorithmic trading strategies.

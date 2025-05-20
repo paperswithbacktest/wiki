@@ -1,6 +1,9 @@
 ---
-title: "Aggregation: Meaning, Importance, and Effects (Algo Trading)"
-description: "Explore how aggregation revolutionizes algorithmic trading by enhancing market insights and execution strategies Learn about its impact on risk management and efficiency"
+category: quant_concept
+description: Explore how aggregation revolutionizes algorithmic trading by enhancing
+  market insights and execution strategies Learn about its impact on risk management
+  and efficiency
+title: 'Aggregation: Meaning, Importance, and Effects (Algo Trading)'
 ---
 
 Algorithmic trading has revolutionized financial markets by enabling rapid and sophisticated trading strategies, often executed with minimal human intervention. Central to this transformation is the process of aggregation, which provides traders with a holistic view of the market and an edge in decision-making. Aggregation initially gained prominence in the futures markets, where it involved consolidating various trading positions into a single, comprehensive position. This approach has since expanded its reach and utility, finding applications in financial advising, automated trading, and beyond.

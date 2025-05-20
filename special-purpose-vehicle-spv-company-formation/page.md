@@ -1,6 +1,9 @@
 ---
-title: "Special Purpose Vehicle (SPV) and Company Formation (Algo Trading)"
-description: "Explore the role of Special Purpose Vehicles in financial structuring and algorithmic trading Discover how SPVs help manage risk and optimize trading strategies"
+category: quant_concept
+description: Explore the role of Special Purpose Vehicles in financial structuring
+  and algorithmic trading Discover how SPVs help manage risk and optimize trading
+  strategies
+title: Special Purpose Vehicle (SPV) and Company Formation (Algo Trading)
 ---
 
 The financial world constantly seeks innovative methods to manage risk, optimize financing, and enhance investment strategies. Among the myriad tools available, the Special Purpose Vehicle (SPV) stands out as a critical entity in financial structuring. SPVs, also referred to as Special Purpose Entities (SPEs), are separate legal entities created to isolate financial risk and secure obligations even under adverse economic conditions. By functioning as a firewall that shields the parent company's assets from significant financial setbacks, SPVs enable businesses to pursue ventures with minimized risk exposure.

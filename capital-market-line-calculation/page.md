@@ -1,6 +1,9 @@
 ---
-title: "Capital Market Line and Its Calculation (Algo Trading)"
-description: "Explore the Capital Market Line for optimizing risk-return balance in portfolio management and algorithmic trading. Learn its calculation and significance in finance."
+category: quant_concept
+description: Explore the Capital Market Line for optimizing risk-return balance in
+  portfolio management and algorithmic trading. Learn its calculation and significance
+  in finance.
+title: Capital Market Line and Its Calculation (Algo Trading)
 ---
 
 Understanding the intricacies of financial markets forms the backbone of effective investment strategies. In this complex landscape, the Capital Market Line (CML) emerges as a fundamental concept that seamlessly integrates risk and return in portfolio management. Rooted in Modern Portfolio Theory, the CML provides a graphical representation illustrating the highest expected returns investors can achieve for a defined level of risk. This article explores the essence of the CML, its calculation, and its significance, especially in the context of algorithmic trading.

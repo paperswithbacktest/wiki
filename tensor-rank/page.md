@@ -1,7 +1,8 @@
 ---
-title: Tensor Rank Explained for Efficient Machine Learning Models
+category: quant_concept
 description: Tensor rank determines data complexity in machine learning and guides
   model design to boost efficiency and reduce overfitting Discover more inside.
+title: Tensor Rank Explained for Efficient Machine Learning Models
 ---
 
 ![Image](images/1.jpeg)

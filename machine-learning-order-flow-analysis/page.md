@@ -1,6 +1,9 @@
 ---
-title: "Machine Learning Order Flow Analysis (Algo Trading)"
-description: "Enhance your algorithmic trading strategy with machine learning-driven order flow analysis Gain insights into market dynamics and predict price movements effectively"
+category: trading_strategy
+description: Enhance your algorithmic trading strategy with machine learning-driven
+  order flow analysis Gain insights into market dynamics and predict price movements
+  effectively
+title: Machine Learning Order Flow Analysis (Algo Trading)
 ---
 
 Order flow analysis in algorithmic trading refers to the systematic examination of the transactions that occur in financial markets. This involves scrutinizing the sequence and volume of buy and sell orders to understand market dynamics and predict price movements. At its core, order flow analysis aims to provide insights into the supply and demand forces that drive market prices, offering traders a competitive edge in making informed decisions.

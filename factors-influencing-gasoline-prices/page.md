@@ -1,6 +1,9 @@
 ---
-title: "Factors Influencing Gasoline Prices (Algo Trading)"
-description: "Explore the key factors influencing gasoline prices, including supply-demand dynamics, refining costs, taxes, and the role of algorithmic trading in shaping trends."
+category: quant_concept
+description: Explore the key factors influencing gasoline prices, including supply-demand
+  dynamics, refining costs, taxes, and the role of algorithmic trading in shaping
+  trends.
+title: Factors Influencing Gasoline Prices (Algo Trading)
 ---
 
 Gasoline prices are a persistent concern for consumers worldwide. They influence a broad range of economic activities, from everyday commuting expenses to the cost of goods in the market. The fluctuations in gasoline prices have a ripple effect on both personal budgets and broader economic indicators, leading to heightened sensitivity among consumers and policymakers alike. Understanding what drives these price changes is crucial for both economic planning and personal financial management.

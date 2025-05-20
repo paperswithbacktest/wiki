@@ -1,6 +1,8 @@
 ---
-title: "Systematic Sampling in Research (Algo Trading)"
-description: "Systematic sampling streamlines data analysis by selecting sample elements at regular intervals enhancing efficiency in research and algorithmic trading."
+category: quant_concept
+description: Systematic sampling streamlines data analysis by selecting sample elements
+  at regular intervals enhancing efficiency in research and algorithmic trading.
+title: Systematic Sampling in Research (Algo Trading)
 ---
 
 In the world of research and data analysis, sampling techniques are essential for extracting meaningful insights from large datasets. These methods help researchers and analysts make informed inferences about a population without needing to examine every individual data point, which is often impractical due to time and computational constraints. 

@@ -1,6 +1,9 @@
 ---
-title: "Methods for Calculating Business Costs (Algo Trading)"
-description: "Explore diverse cost calculation methods essential for algorithmic trading success. Understand direct and indirect costs to optimize strategies and enhance profitability."
+category: trading_strategy
+description: Explore diverse cost calculation methods essential for algorithmic trading
+  success. Understand direct and indirect costs to optimize strategies and enhance
+  profitability.
+title: Methods for Calculating Business Costs (Algo Trading)
 ---
 
 Algorithmic trading has emerged as a crucial element in contemporary financial markets, characterized by its speed and efficiency. This sophisticated form of trading is driven by the integration of precise financial analysis techniques and cost-effective computation methods, enabling traders to make rapid transactions with minimal human intervention. The success of algorithmic trading hinges on the comprehensive understanding and management of both direct and indirect trading costs. Direct costs typically involve tangible expenses such as brokerage fees, while indirect costs may encompass slippage and market impact, which can affect the overall profitability of trading strategies.

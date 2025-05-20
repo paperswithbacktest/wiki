@@ -1,6 +1,9 @@
 ---
-title: "Gross Income: Overview, Formula, and Calculation (Algo Trading)"
-description: "Explore the essentials of gross income its calculation and impact on personal finance and trading Discover how it guides financial planning and algorithmic trading"
+category: quant_concept
+description: Explore the essentials of gross income its calculation and impact on
+  personal finance and trading Discover how it guides financial planning and algorithmic
+  trading
+title: 'Gross Income: Overview, Formula, and Calculation (Algo Trading)'
 ---
 
 In the landscape of modern financial markets, understanding income calculation is crucial for effective financial planning. Fundamental to this understanding is the concept of gross income, which serves as a cornerstone in various financial assessments and calculations. Gross income typically represents the total income earned by an individual or entity before any deductions such as taxes, insurance, or other expenses. It encompasses wages, bonuses, rental income, and other earnings, forming the basis upon which more nuanced financial terms and figures—such as net income and taxable income—are derived.

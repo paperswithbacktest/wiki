@@ -1,6 +1,9 @@
 ---
-title: "Identifying Trends for Profit Maximization (Algo Trading)"
-description: "Discover how to maximize profits in trading by mastering trend analysis and leveraging algorithmic trading. Gain insights into market dynamics and trading strategies."
+category: trading_strategy
+description: Discover how to maximize profits in trading by mastering trend analysis
+  and leveraging algorithmic trading. Gain insights into market dynamics and trading
+  strategies.
+title: Identifying Trends for Profit Maximization (Algo Trading)
 ---
 
 In the ever-evolving world of finance, understanding market trends and employing effective profit strategies are crucial for success. Market trends indicate the general direction that market prices are moving, often driven by external factors such as economic indicators and geopolitical events. Recognizing these trends early can be advantageous, allowing traders to position themselves to potentially benefit from these movements.

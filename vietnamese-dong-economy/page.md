@@ -1,6 +1,8 @@
 ---
-title: "Vietnamese Dong and Economy (Algo Trading)"
-description: "Explore Vietnam's economic growth and the Vietnamese dong in global trading Discover insights into algorithmic trading and Vietnam's promising market."
+category: quant_concept
+description: Explore Vietnam's economic growth and the Vietnamese dong in global trading
+  Discover insights into algorithmic trading and Vietnam's promising market.
+title: Vietnamese Dong and Economy (Algo Trading)
 ---
 
 The Vietnamese dong (VND) serves as the official currency of Vietnam, a nation whose economy has gained increasing attention from global forex traders. Characterized by a dynamic and rapidly growing market landscape, Vietnam's economy has evolved significantly in recent years, making the VND an attractive option for traders seeking to diversify their portfolios. This article will provide a comprehensive exploration of Vietnam's economic landscape, highlighting the intricacies of the Vietnamese dong and its role within the economy. 

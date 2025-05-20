@@ -1,6 +1,9 @@
 ---
-title: "Abu Dhabi Stock Exchange (Algo Trading)"
-description: "Experience the evolution of Abu Dhabi Securities Exchange as it adopts cutting-edge tech and strategic alliances to lead in algorithmic trading and market efficiency."
+category: dataset
+description: Experience the evolution of Abu Dhabi Securities Exchange as it adopts
+  cutting-edge tech and strategic alliances to lead in algorithmic trading and market
+  efficiency.
+title: Abu Dhabi Stock Exchange (Algo Trading)
 ---
 
 The financial landscape in the United Arab Emirates (UAE) is undergoing significant transformation, with Abu Dhabi increasingly taking a central role in this evolution. At the heart of this transformation is the Abu Dhabi Securities Exchange (ADX), which was established in 2000. Since its inception, ADX has grown to become one of the most prominent markets in the region, rivalling its contemporaries in volume, diversity, and innovation. This article aims to dissect the strategic developments that have propelled ADX to its current stature, focusing on its collaborative partnerships and technological enhancements that have been pivotal in its growth trajectory.

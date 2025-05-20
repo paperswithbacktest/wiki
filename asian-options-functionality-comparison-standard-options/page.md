@@ -1,6 +1,9 @@
 ---
-title: "Asian Options: Functionality and Comparison with Standard Options (Algo Trading)"
-description: "Explore Asian options and standard options to understand their unique payoff mechanisms and strategic benefits in financial markets with algorithmic trading insights."
+category: quant_concept
+description: Explore Asian options and standard options to understand their unique
+  payoff mechanisms and strategic benefits in financial markets with algorithmic trading
+  insights.
+title: 'Asian Options: Functionality and Comparison with Standard Options (Algo Trading)'
 ---
 
 Financial derivatives are financial instruments whose value derives from an underlying asset, index, or security. Among these, options are a crucial category used extensively in global trading markets for various strategic financial purposes. Asian options, a type of contingent claim, are distinguished by their payoff mechanism based on the average price of the underlying asset over a specified period, differing from standard options, which are dependent on the price at a specific point in time. 

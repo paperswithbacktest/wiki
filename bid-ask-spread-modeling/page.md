@@ -1,6 +1,8 @@
 ---
-title: "Bid-ask spread modeling (Algo Trading)"
-description: "Explore bid-ask spread modeling in algo trading to master critical market dynamics and optimize strategies, enhancing trade execution and efficiency."
+category: quant_concept
+description: Explore bid-ask spread modeling in algo trading to master critical market
+  dynamics and optimize strategies, enhancing trade execution and efficiency.
+title: Bid-ask spread modeling (Algo Trading)
 ---
 
 The bid-ask spread is a fundamental concept in financial markets, encapsulating the difference between the bid price—the highest price a buyer is willing to pay—and the ask price—the lowest price a seller is prepared to accept. This differential plays a critical role in trading dynamics and is essential for efficient market functioning. In the context of algorithmic trading, an area that is rapidly evolving with technological advancements, the modeling of bid-ask spreads holds significant importance for developing effective trading strategies and enhancing overall market efficiency.
@@ -122,4 +124,4 @@ Looking forward, the landscape of spread trading is expected to evolve in concer
 
 [6]: Hasbrouck, J. (2007). ["Empirical Market Microstructure: The Institutions, Economics, and Econometrics of Securities Trading"](https://academic.oup.com/book/52241). Oxford University Press. 
 
-[7]: Foucault, T., Pagano, M., & Röell, A. (2013). ["Market Liquidity: Theory, Evidence, and Policy"](https://academic.oup.com/book/55158). Oxford University Press. 
+[7]: Foucault, T., Pagano, M., & Röell, A. (2013). ["Market Liquidity: Theory, Evidence, and Policy"](https://academic.oup.com/book/55158). Oxford University Press.

@@ -1,6 +1,8 @@
 ---
-title: "DigiCash: Overview, History, and Impact (Algo Trading)"
-description: "Explore the impact of DigiCash on cryptocurrency's evolution and algorithmic trading Learn about cryptographic protocols and their role in today's digital currencies"
+category: quant_concept
+description: Explore the impact of DigiCash on cryptocurrency's evolution and algorithmic
+  trading Learn about cryptographic protocols and their role in today's digital currencies
+title: 'DigiCash: Overview, History, and Impact (Algo Trading)'
 ---
 
 The world of cryptocurrency is characterized by constant evolution, grounded in innovations that reach back to the earliest endeavors in digital currency. In this article, we will investigate the history of cryptocurrency, with particular emphasis on the pioneering efforts of DigiCash. Founded in 1989 by David Chaum, DigiCash was one of the first ventures to employ cryptographic protocols to achieve private and secure electronic transactions. This innovative approach marked a significant step toward today's digital currencies, setting the stage for new technologies and trading strategies.

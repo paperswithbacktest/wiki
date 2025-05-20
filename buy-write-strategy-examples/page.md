@@ -1,6 +1,9 @@
 ---
-title: "Buy-Write Strategy and Examples (Algo Trading)"
-description: "Explore the integration of buy-write strategies and algorithmic trading to automate and refine execution. Enhance income streams, minimize risk, and leverage technology."
+category: trading_strategy
+description: Explore the integration of buy-write strategies and algorithmic trading
+  to automate and refine execution. Enhance income streams, minimize risk, and leverage
+  technology.
+title: Buy-Write Strategy and Examples (Algo Trading)
 ---
 
 Options trading stands as a sophisticated financial practice that allows investors to capitalize on market volatility and generate returns through various strategic methods. One renowned strategy within this realm is the buy-write strategy, commonly referred to as a covered call. This technique involves purchasing a stock and concurrently writing call options on the same asset, aiming to earn premium income while holding the underlying security. The covered call strategy is favored for its potential to offer additional income streams and mitigate downside risks, albeit at the cost of capping upside potential.

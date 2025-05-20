@@ -1,6 +1,9 @@
 ---
-title: "Aggressor: Definition, Functionality, and Impact (Algo Trading)"
-description: "Explore the role of aggressor trading in algorithmic finance focusing on its impact on market dynamics liquidity and volatility for informed strategic decisions"
+category: quant_concept
+description: Explore the role of aggressor trading in algorithmic finance focusing
+  on its impact on market dynamics liquidity and volatility for informed strategic
+  decisions
+title: 'Aggressor: Definition, Functionality, and Impact (Algo Trading)'
 ---
 
 In recent years, algorithmic trading has revolutionized the financial markets by utilizing complex algorithms and high-speed data processing to execute trades with precision and efficiency. At the core of this evolution is the functionality of aggressors, market participants who play a crucial role in shaping market dynamics through their strategic trading behaviors. Unlike passive traders who provide liquidity by placing limit orders, aggressors remove liquidity from the market by executing market orders at the prevailing prices, thus ensuring swift trade execution.

@@ -1,6 +1,9 @@
 ---
-title: "Variance and Its Impact on Stock Investing (Algo Trading)"
-description: "Explore how variance affects stock investing and algorithmic trading Learn how it influences risk assessment and strategies to balance risk and return in portfolios"
+category: quant_concept
+description: Explore how variance affects stock investing and algorithmic trading
+  Learn how it influences risk assessment and strategies to balance risk and return
+  in portfolios
+title: Variance and Its Impact on Stock Investing (Algo Trading)
 ---
 
 In the modern financial landscape, stock investing and algorithmic trading have become increasingly prevalent strategies for both institutional and individual investors. The pursuit of optimizing returns while mitigating risks has led to the adoption of complex investment strategies that require a thorough understanding of various risk factors. As investors aim to navigate these complexities, recognizing the importance of concepts such as investment risk, variance, and algorithmic trading becomes essential in constructing effective investment portfolios.

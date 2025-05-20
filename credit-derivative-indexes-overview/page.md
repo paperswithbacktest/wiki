@@ -1,6 +1,9 @@
 ---
-title: "Credit Derivative Indexes Overview (Algo Trading)"
-description: "Explore the vital role of credit derivative indexes in finance through algo trading Learn about hedging credit default swaps and market influence in modern trading"
+category: quant_concept
+description: Explore the vital role of credit derivative indexes in finance through
+  algo trading Learn about hedging credit default swaps and market influence in modern
+  trading
+title: Credit Derivative Indexes Overview (Algo Trading)
 ---
 
 Derivative instruments are essential components of modern financial markets, serving as pivotal tools for diversifying portfolios and enhancing risk management strategies. These instruments derive their value from underlying assets, such as stocks, bonds, and indexes, offering a spectrum of applications ranging from hedging to speculation. Among the various types of derivatives, credit derivatives play a significant role in allowing market participants to mitigate credit risks. These specialized financial instruments, particularly credit default swaps, offer protection against the default of borrowers, facilitating the transfer of risk between parties and contributing to more accurate risk pricing within credit markets.

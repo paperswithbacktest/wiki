@@ -1,6 +1,9 @@
 ---
-title: "Real Estate Agent Roles and Compensation (Algo Trading)"
-description: "Discover the evolving roles and compensation models for real estate agents as technology and algorithmic trading redefine industry dynamics and transaction processes."
+category: quant_concept
+description: Discover the evolving roles and compensation models for real estate agents
+  as technology and algorithmic trading redefine industry dynamics and transaction
+  processes.
+title: Real Estate Agent Roles and Compensation (Algo Trading)
 ---
 
 In the evolving landscape of real estate, the roles and compensations of real estate agents are continuously changing. The dynamics of the real estate profession are being reshaped by advances in technology and shifts in market norms. This article examines the changing nature of real estate agents' work and compensation, alongside the burgeoning role of algorithmic trading within the sector. As technology increasingly influences the real estate market, understanding the adaptations and transformations in this space becomes essential.

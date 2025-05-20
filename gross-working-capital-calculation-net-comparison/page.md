@@ -1,6 +1,14 @@
 ---
-title: "Gross Working Capital: Calculation and Comparison to Net Working Capital (Algo Trading)"
-description: "Explore the intricacies of gross and net working capital in this comprehensive guide, focusing on their significance in financial analysis and algorithmic trading. Understand how these metrics reflect a company's financial health, operational efficiency, and liquidity. Learn the impact of algorithmic trading as a tool for optimizing trading strategies and enhancing financial outcomes. Discover the key to strategic decision-making and financial stability by leveraging working capital insights alongside cutting-edge trading techniques."
+category: quant_concept
+description: Explore the intricacies of gross and net working capital in this comprehensive
+  guide, focusing on their significance in financial analysis and algorithmic trading.
+  Understand how these metrics reflect a company's financial health, operational efficiency,
+  and liquidity. Learn the impact of algorithmic trading as a tool for optimizing
+  trading strategies and enhancing financial outcomes. Discover the key to strategic
+  decision-making and financial stability by leveraging working capital insights alongside
+  cutting-edge trading techniques.
+title: 'Gross Working Capital: Calculation and Comparison to Net Working Capital (Algo
+  Trading)'
 ---
 
 This article explores the interconnected realms of financial analysis, net working capital, gross working capital, and algorithmic trading, providing a comprehensive overview of their roles and significance in the financial sector. Understanding working capital is a fundamental aspect of assessing a company's short-term financial health. Working capital comprises two main components: gross working capital, which represents a firm's total current assets indicating its liquidity, and net working capital, defined as the difference between current assets and current liabilities, offering insights into a company's financial stability and efficiency in managing its short-term obligations.

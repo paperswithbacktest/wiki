@@ -1,6 +1,9 @@
 ---
-title: "Steady-State Economy (Algo Trading)"
-description: "Explore the importance of sustainable economics and steady-state economies in balancing growth with ecological integrity. Discover how algorithmic trading impacts these practices."
+category: quant_concept
+description: Explore the importance of sustainable economics and steady-state economies
+  in balancing growth with ecological integrity. Discover how algorithmic trading
+  impacts these practices.
+title: Steady-State Economy (Algo Trading)
 ---
 
 Economic systems fundamentally shape societies around the globe, influencing production, distribution, and consumption within various contexts. As these systems evolve, there is a mounting recognition of the necessity for sustainable practices to preserve ecological health while maintaining economic stability. This growing awareness is prompting a reevaluation of traditional economic models, which have predominantly prioritized growth indicators like Gross Domestic Product (GDP) without adequately considering environmental impacts.
@@ -150,4 +153,4 @@ In conclusion, the transformation towards a sustainable global economy is a mult
 
 [8]: International Renewable Energy Agency (IRENA). ["Costs."](https://www.irena.org/Publications/2023/Aug/Renewable-power-generation-costs-in-2022) IRENA. 
 
-[9]: United Nations. ["Sustainable Development Goals."](https://sdgs.un.org/goals) UN SDGs. 
+[9]: United Nations. ["Sustainable Development Goals."](https://sdgs.un.org/goals) UN SDGs.

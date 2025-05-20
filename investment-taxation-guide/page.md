@@ -1,6 +1,12 @@
 ---
-title: "Investment Taxation Guide (Algo Trading)"
-description: "Explore the intricate relationship between investment taxation and algorithmic trading to uncover how taxation influences investor strategies and net returns. Learn how algorithmic trading automates processes for faster execution while understanding how different tax types and regulations can impact trading strategies and tax outcomes. This guide helps investors optimize their approaches by balancing profitability with tax efficiency."
+category: quant_concept
+description: Explore the intricate relationship between investment taxation and algorithmic
+  trading to uncover how taxation influences investor strategies and net returns.
+  Learn how algorithmic trading automates processes for faster execution while understanding
+  how different tax types and regulations can impact trading strategies and tax outcomes.
+  This guide helps investors optimize their approaches by balancing profitability
+  with tax efficiency.
+title: Investment Taxation Guide (Algo Trading)
 ---
 
 The intersection of investment taxation and algorithmic trading reveals significant insights into how modern investors manage returns. Investment taxation plays a critical role by imposing taxes on various types of income, including dividends, interest, and capital gains. Each type of income is subject to different tax rates and rules, influencing investor decisions and ultimately affecting net returns. For instance, dividends might be taxed as qualified dividends at a lower rate, while capital gains taxation depends on how long the asset was held [1].

@@ -1,6 +1,8 @@
 ---
-title: "Swedish Krona: Overview of Sweden's Currency (Algo Trading)"
-description: "Explore how the Swedish Krona is traded using algorithmic methods highlighting efficiency, speed, and market opportunities in the forex landscape with SEK."
+category: quant_concept
+description: Explore how the Swedish Krona is traded using algorithmic methods highlighting
+  efficiency, speed, and market opportunities in the forex landscape with SEK.
+title: 'Swedish Krona: Overview of Sweden''s Currency (Algo Trading)'
 ---
 
 The Swedish Krona (SEK) serves as Sweden's official currency and holds a prominent position in the global forex market. Renowned for its stability and resilience, the SEK attracts attention from both casual and professional traders. Its consistent performance is underpinned by Sweden's robust economic framework and export-driven economy, which contribute to a reliable exchange rate.

@@ -1,6 +1,13 @@
 ---
-title: "Non-Accelerating Inflation Rate of Unemployment (Algo Trading)"
-description: "Explore the complex interplay between inflation and unemployment through the lens of the Non-Accelerating Inflation Rate of Unemployment (NAIRU). Understand how this pivotal economic theory guides policymakers in maintaining price stability while optimizing employment levels. Discover its significance in algorithmic trading, where NAIRU-related data informs market strategies. This article investigates into NAIRU's role in economic stability and growth, offering insights into the dynamics between inflation and unemployment and their influence on financial markets."
+category: quant_concept
+description: Explore the complex interplay between inflation and unemployment through
+  the lens of the Non-Accelerating Inflation Rate of Unemployment (NAIRU). Understand
+  how this pivotal economic theory guides policymakers in maintaining price stability
+  while optimizing employment levels. Discover its significance in algorithmic trading,
+  where NAIRU-related data informs market strategies. This article investigates into
+  NAIRU's role in economic stability and growth, offering insights into the dynamics
+  between inflation and unemployment and their influence on financial markets.
+title: Non-Accelerating Inflation Rate of Unemployment (Algo Trading)
 ---
 
 The Non-Accelerating Inflation Rate of Unemployment (NAIRU) is a pivotal concept in understanding the interplay between inflation and unemployment, which are fundamental aspects of economic stability and growth. NAIRU represents a theoretical level of unemployment at which inflation does not accelerate, effectively serving as a baseline for policymakers. It influences key decisions in economic and monetary policy, as governments and central banks use it to guide measures aimed at maintaining price stability and optimizing employment levels. 

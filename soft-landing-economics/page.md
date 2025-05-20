@@ -1,6 +1,9 @@
 ---
-title: "Soft Landing in Economics (Algo Trading)"
-description: "Explore the intersection of economic history and algorithmic trading to understand modern markets Discover how past trends inform policy for a stable economy"
+category: quant_concept
+description: Explore the intersection of economic history and algorithmic trading
+  to understand modern markets Discover how past trends inform policy for a stable
+  economy
+title: Soft Landing in Economics (Algo Trading)
 ---
 
 In a world rapidly shaped by financial markets and economic policies, the integration of economics, economic history, and modern trading strategies is increasingly crucial. This article examines the complex dimensions of economics, highlights key moments from economic history, considers the 'soft landing' concept in economic parlance, and investigates algorithmic trading's current market role.

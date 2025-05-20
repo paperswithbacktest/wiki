@@ -1,6 +1,8 @@
 ---
-title: "Export Credit Agency (Algo Trading)"
-description: "Explore how Export Credit Agencies and algorithmic trading redefine trade finance by enhancing efficiency reducing risks and creating global market opportunities"
+category: quant_concept
+description: Explore how Export Credit Agencies and algorithmic trading redefine trade
+  finance by enhancing efficiency reducing risks and creating global market opportunities
+title: Export Credit Agency (Algo Trading)
 ---
 
 The world of trade finance is continually evolving, with technology playing a pivotal role in shaping its future. Export Credit Agencies (ECAs) are central to facilitating international trade by providing financial backing. These institutions help mitigate the risks associated with cross-border transactions by offering insurance, guarantees, and loans, thus enabling national exporters to compete more effectively in the global marketplace. As the landscape of international trade becomes increasingly complex, ECAs are essential to maintaining the flow of goods and services across borders.

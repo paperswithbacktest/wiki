@@ -1,6 +1,8 @@
 ---
-title: "Advance/Decline Index: Overview and Calculations (Algo Trading)"
-description: "Explore the Advance/Decline Index and learn its significance in algorithmic trading. Understand market momentum by tracking advancing vs. declining stocks."
+category: quant_concept
+description: Explore the Advance/Decline Index and learn its significance in algorithmic
+  trading. Understand market momentum by tracking advancing vs. declining stocks.
+title: 'Advance/Decline Index: Overview and Calculations (Algo Trading)'
 ---
 
 The stock market operates as a multifaceted system, where its inherent complexity poses both opportunities and challenges to participants. Navigating these intricacies requires investors and traders to employ a variety of financial indicators to facilitate informed decision-making. Among these tools, the Advance/Decline Index stands out as a vital market breadth indicator that offers insights into the stock market's overall health.

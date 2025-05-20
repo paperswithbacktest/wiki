@@ -1,6 +1,8 @@
 ---
-title: "Path to Becoming an Elite Trader (Algo Trading)"
-description: "Discover the path to becoming an elite trader through strategic planning, disciplined practices, and algorithmic trading to enhance performance and success."
+category: trading_strategy
+description: Discover the path to becoming an elite trader through strategic planning,
+  disciplined practices, and algorithmic trading to enhance performance and success.
+title: Path to Becoming an Elite Trader (Algo Trading)
 ---
 
 Financial trading is a complex and dynamic field where success is driven by a blend of skill, knowledge, and technology. Achieving the status of an elite trader requires more than just luck—it involves mastering a variety of competencies, understanding intricate market dynamics, and capitalizing on technological advancements to gain a competitive edge.

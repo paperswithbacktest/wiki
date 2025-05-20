@@ -1,6 +1,9 @@
 ---
-title: "Refunding Processes and Reversing Transactions (Algo Trading)"
-description: "Explore the intricacies of reversals refunds and algorithmic trading to enhance your understanding of financial transactions in today's dynamic trading environment."
+category: quant_concept
+description: Explore the intricacies of reversals refunds and algorithmic trading
+  to enhance your understanding of financial transactions in today's dynamic trading
+  environment.
+title: Refunding Processes and Reversing Transactions (Algo Trading)
 ---
 
 In today's fast-paced financial landscape, understanding financial transactions is crucial for both consumers and businesses. These transactions form the backbone of the global economy, facilitating the exchange of goods, services, and funds. As digital technologies evolve, the complexity and volume of financial transactions continue to increase, making it essential for individuals and organizations to grasp their underlying mechanisms.

@@ -1,6 +1,8 @@
 ---
-title: "Available-for-Sale Securities vs. Held-for-Trading Securities (Algo Trading)"
-description: "Explore the key distinctions between Available-for-Sale and Held-for-Trading securities to enhance your trading strategy and align with financial objectives."
+category: quant_concept
+description: Explore the key distinctions between Available-for-Sale and Held-for-Trading
+  securities to enhance your trading strategy and align with financial objectives.
+title: Available-for-Sale Securities vs. Held-for-Trading Securities (Algo Trading)
 ---
 
 In the fast-paced world of financial markets, understanding different types of securities is essential for investors and traders. Securities are financial instruments that represent an ownership position in a publicly traded corporation (such as stocks), a creditor relationship with a governmental body or a corporation (such as bonds), or rights to ownership as represented by an option. Among the diverse classifications of securities, Held-for-Trading (HFT) and Available-for-Sale (AFS) play crucial roles.

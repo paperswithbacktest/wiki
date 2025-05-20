@@ -1,6 +1,8 @@
 ---
-title: "Residual Equity Theory (Algo Trading)"
-description: "Explore the synergy of residual equity theory in algorithmic trading, emphasizing fairness and shareholder value in finance for optimal investment strategies."
+category: quant_concept
+description: Explore the synergy of residual equity theory in algorithmic trading,
+  emphasizing fairness and shareholder value in finance for optimal investment strategies.
+title: Residual Equity Theory (Algo Trading)
 ---
 
 The interconnected world of finance and investing often presents complex theories and models that aim to understand and optimize wealth distribution and investment strategies. This article focuses on exploring the synergy between equity theory, residual equity, financial theory, and algorithmic trading, all integral aspects of modern finance. Each of these components plays vital roles in shaping how financial decisions are made, impacting both individual investors and large institutions.

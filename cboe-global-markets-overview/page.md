@@ -1,6 +1,8 @@
 ---
-title: "Cboe Global Markets Overview (Algo Trading)"
-description: "Cboe Global Markets leads in algorithmic trading technology fostering innovation and efficiency across financial markets enhancing trading speed and precision."
+category: quant_concept
+description: Cboe Global Markets leads in algorithmic trading technology fostering
+  innovation and efficiency across financial markets enhancing trading speed and precision.
+title: Cboe Global Markets Overview (Algo Trading)
 ---
 
 The financial exchange market is characterized by rapid changes, driven by technological advancements and innovative practices. Among the key players driving this transformation is Cboe Global Markets. Known for its expertise in exchange operations, Cboe has emerged as a leader in the adoption and implementation of algorithmic trading technologies. This article focuses on how Cboe Global Markets has leveraged these technologies to enhance trading efficiency and accuracy, marking its influence on the global financial landscape.

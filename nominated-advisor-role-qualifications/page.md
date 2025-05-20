@@ -1,6 +1,8 @@
 ---
-title: "Nominated Advisor: Role and Qualifications (Algo Trading)"
-description: "Nominated Advisors (NOMADs) are crucial for firms eyeing AIM listings aiding in regulatory compliance and adapting to the shift towards algorithmic trading."
+category: quant_concept
+description: Nominated Advisors (NOMADs) are crucial for firms eyeing AIM listings
+  aiding in regulatory compliance and adapting to the shift towards algorithmic trading.
+title: 'Nominated Advisor: Role and Qualifications (Algo Trading)'
 ---
 
 The financial landscape is characterized by a multitude of roles and advisors, each essential to corporate success. Among these, Nominated Advisors (NOMADs) are particularly influential in the financial market, serving as key facilitators for companies aspiring to go public. Their involvement is critical, particularly in guiding firms through the public listing process on platforms like the Alternative Investment Market (AIM) of the London Stock Exchange.

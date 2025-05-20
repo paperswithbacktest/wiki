@@ -1,6 +1,9 @@
 ---
-title: "Mechanics of Electronic Trading (Algo Trading)"
-description: "Explore the evolution and mechanics of electronic trading. Learn how algorithmic strategies enhance market efficiency and democratize access in financial markets."
+category: quant_concept
+description: Explore the evolution and mechanics of electronic trading. Learn how
+  algorithmic strategies enhance market efficiency and democratize access in financial
+  markets.
+title: Mechanics of Electronic Trading (Algo Trading)
 ---
 
 Electronic trading has become a cornerstone in modern financial markets, revolutionizing how assets are bought and sold. This method of trading refers to the use of electronic platforms and networks to conduct trading activities, replacing the traditional open outcry system found on physical trading floors. The shift towards electronic trading has been driven by advances in technology, notably the development of high-speed computers and sophisticated software that facilitate rapid transaction processing.

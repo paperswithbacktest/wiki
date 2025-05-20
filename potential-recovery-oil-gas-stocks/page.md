@@ -1,6 +1,8 @@
 ---
-title: "Potential Recovery of Selected Oil and Gas Stocks (Algo Trading)"
-description: "Explore the recovery potential of oil and gas stocks and how algorithmic trading can capitalize on market shifts. Ideal for investors seeking strategic insights."
+category: trading_strategy
+description: Explore the recovery potential of oil and gas stocks and how algorithmic
+  trading can capitalize on market shifts. Ideal for investors seeking strategic insights.
+title: Potential Recovery of Selected Oil and Gas Stocks (Algo Trading)
 ---
 
 The oil and gas sector has long been a fundamental element of global economic frameworks, influencing not only energy markets but also geopolitics, trade balances, and even environmental policies. As a multi-trillion dollar industry, it supplies the critical energy resources necessary for powering industries, homes, and vehicles worldwide. The influence of oil and gas extends into various facets of society, impacting everything from transportation costs to the price of goods and services.

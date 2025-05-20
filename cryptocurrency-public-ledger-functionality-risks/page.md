@@ -1,6 +1,9 @@
 ---
-title: "Cryptocurrency Public Ledger: Functionality and Risks (Algo Trading)"
-description: "Explore the role of blockchain as a public ledger in cryptocurrency, including its functionalities and associated risks in algorithmic trading for enhanced insights."
+category: quant_concept
+description: Explore the role of blockchain as a public ledger in cryptocurrency,
+  including its functionalities and associated risks in algorithmic trading for enhanced
+  insights.
+title: 'Cryptocurrency Public Ledger: Functionality and Risks (Algo Trading)'
 ---
 
 With the rise of cryptocurrencies, blockchain technology has gained significant attention, especially its role as a public ledger. As blockchain technology becomes more integrated into financial systems, understanding the risks associated with its use is paramount.

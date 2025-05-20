@@ -1,6 +1,8 @@
 ---
-title: "VWAP Cross: Concept, Analysis, and Calculation (Algo Trading)"
-description: "Explore the VWAP Cross strategy in algo trading, learn its significance as a trading benchmark, discover how it generates signals, and optimize trade decisions."
+category: trading_strategy
+description: Explore the VWAP Cross strategy in algo trading, learn its significance
+  as a trading benchmark, discover how it generates signals, and optimize trade decisions.
+title: 'VWAP Cross: Concept, Analysis, and Calculation (Algo Trading)'
 ---
 
 In financial trading, strategies that integrate price movements with volume trends are pivotal for enhancing trading effectiveness. The Volume Weighted Average Price (VWAP) Cross is a distinguished strategy in this domain. This article investigates the VWAP Cross strategy and its role in algorithmic trading. VWAP, as a calculation, is crucial for traders; it represents the average price of a security, accounting for its trading volume, generally over the period of a day. The significance of VWAP lies in its function as a trading benchmark, offering insights into how a trade's price compares to the market average, thereby providing a measure of trade efficiency.

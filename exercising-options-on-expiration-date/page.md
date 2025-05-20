@@ -1,6 +1,9 @@
 ---
-title: "Exercising Options on Expiration Date (Algo Trading)"
-description: "Explore the intricacies of options trading with a focus on expiration dates and algorithmic techniques Learn how mastery of these concepts can enhance returns"
+category: quant_concept
+description: Explore the intricacies of options trading with a focus on expiration
+  dates and algorithmic techniques Learn how mastery of these concepts can enhance
+  returns
+title: Exercising Options on Expiration Date (Algo Trading)
 ---
 
 Options trading, expiration dates, and algorithmic trading are essential components of contemporary financial markets. These elements form the backbone of strategies utilized by both individual investors and institutional traders to capitalize on market movements, hedge risks, and enhance returns.

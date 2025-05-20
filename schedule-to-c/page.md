@@ -1,6 +1,9 @@
 ---
-title: "Schedule TO-C (Algo Trading)"
-description: "Explore the intersection of Schedule TO-C filings, tender offers, and algorithmic trading in financial markets. Learn how compliance guides transparency and investor protection."
+category: quant_concept
+description: Explore the intersection of Schedule TO-C filings, tender offers, and
+  algorithmic trading in financial markets. Learn how compliance guides transparency
+  and investor protection.
+title: Schedule TO-C (Algo Trading)
 ---
 
 The financial markets represent a sophisticated ecosystem where the convergence of regulatory compliance and advanced technology significantly influences trading activities. One significant component of regulatory compliance in this domain is the Schedule TO-C filing with the Securities and Exchange Commission (SEC). This filing becomes imperative when written communications related to a tender offer are made, thereby offering a structured approach to transparency and investor protection.

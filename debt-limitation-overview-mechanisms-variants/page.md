@@ -1,6 +1,9 @@
 ---
-title: "Debt Limitation: Overview, Mechanisms, and Variants (Algo Trading)"
-description: "Explore the essential role of debt limitation regulations, their integration in algorithmic trading, and their impact on financial stability and informed trading decisions."
+category: quant_concept
+description: Explore the essential role of debt limitation regulations, their integration
+  in algorithmic trading, and their impact on financial stability and informed trading
+  decisions.
+title: 'Debt Limitation: Overview, Mechanisms, and Variants (Algo Trading)'
 ---
 
 Debt limitation refers to the regulations and control mechanisms aimed at restricting the amount of debt that individuals, corporations, or governments can accrue. These policies play a crucial role in financial management, as they are designed to protect lenders, maintain market stability, and prevent entities from engaging in excessive borrowing that could lead to financial distress or systemic risks. By setting boundaries on leverage, debt limitation helps in safeguarding the economic environment from the volatility that arises from unchecked debt accumulation.

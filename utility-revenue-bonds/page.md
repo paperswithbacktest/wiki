@@ -1,6 +1,8 @@
 ---
-title: "Utility Revenue Bonds (Algo Trading)"
-description: "Explore how algorithmic trading is transforming municipal bonds including utility revenue bonds by enhancing market efficiency and investment strategies."
+category: quant_concept
+description: Explore how algorithmic trading is transforming municipal bonds including
+  utility revenue bonds by enhancing market efficiency and investment strategies.
+title: Utility Revenue Bonds (Algo Trading)
 ---
 
 The world of public finance is experiencing a transformation driven by rapid technological advancements. At the forefront of this change are municipal bonds, particularly utility revenue bonds, which are integral in funding essential public projects such as infrastructure development, utilities, and other community services. These bonds provide the necessary capital for projects that range from building schools to improving transportation networks.

@@ -1,7 +1,8 @@
 ---
-title: Effective Knowledge Distillation for Efficient Machine Learning
+category: quant_concept
 description: Knowledge Distillation transfers insights from a large teacher model
   to a compact student model for performance on limited devices Discover more inside
+title: Effective Knowledge Distillation for Efficient Machine Learning
 ---
 
 ![Image](images/1.png)

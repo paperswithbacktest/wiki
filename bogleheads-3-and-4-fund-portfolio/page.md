@@ -1,6 +1,12 @@
 ---
-title: "Bogleheads 3- and 4-Fund Portfolio Explained (Algo Trading)"
-description: Discover the benefits of the Boglehead 3 and 4 Fund Portfolios, rooted in John C. Bogle's principles of simplicity and low-cost investing. Learn how algorithmic trading can enhance these strategies, providing automated portfolio management, risk adjustment, and tax optimization. This approach aims to blend traditional Boglehead methods with modern trading technology to streamline investment management and optimize long-term returns in diverse market conditions.
+category: trading_strategy
+description: Discover the benefits of the Boglehead 3 and 4 Fund Portfolios, rooted
+  in John C. Bogle's principles of simplicity and low-cost investing. Learn how algorithmic
+  trading can enhance these strategies, providing automated portfolio management,
+  risk adjustment, and tax optimization. This approach aims to blend traditional Boglehead
+  methods with modern trading technology to streamline investment management and optimize
+  long-term returns in diverse market conditions.
+title: Bogleheads 3- and 4-Fund Portfolio Explained (Algo Trading)
 ---
 
 The investment philosophy introduced by John C. Bogle, founder of the Vanguard Group, underscores the importance of a passive, low-cost approach, primarily through the use of index funds. This methodology, embraced by the Boglehead community, emphasizes simplicity, diversification, and resisting market timing. Central to this philosophy is the Boglehead 3 Fund Portfolio, which traditionally includes a U.S. Total Stock Market Index Fund, an international stock index fund, and a U.S. bond market index fund. The Boglehead 4 Fund Portfolio expands upon this base by incorporating international bonds, aiming for further diversification and risk mitigation through exposure to global debt markets.

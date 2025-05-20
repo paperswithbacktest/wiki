@@ -1,6 +1,8 @@
 ---
-title: "Debt-To-Equity Ratio in the Airline Industry (Algo Trading)"
-description: "Explore how analyzing the debt-to-equity ratio and implementing algorithmic trading strategies can optimize investment decisions in the airline industry."
+category: quant_concept
+description: Explore how analyzing the debt-to-equity ratio and implementing algorithmic
+  trading strategies can optimize investment decisions in the airline industry.
+title: Debt-To-Equity Ratio in the Airline Industry (Algo Trading)
 ---
 
 The airline industry is an essential component of the global economy, playing a crucial role in facilitating both travel and international trade. Its significance is highlighted by its contribution to economic development, providing connectivity that enables commerce and tourism while supporting millions of jobs worldwide. However, the sector is characterized by substantial capital requirements, making it one of the most capital-intensive industries. These requirements stem from the costs associated with acquiring and maintaining fleets, infrastructure investments, and operational expenses such as fuel and staffing.

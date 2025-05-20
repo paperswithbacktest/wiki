@@ -1,7 +1,8 @@
 ---
-title: Understanding Greedy Policy Strategies in Reinforcement Learning
+category: quant_concept
 description: Greedy Policy in reinforcement learning selects highest reward actions
   to speed training while mixing exploration for better results Discover more inside
+title: Understanding Greedy Policy Strategies in Reinforcement Learning
 ---
 
 ![Image](images/1.png)

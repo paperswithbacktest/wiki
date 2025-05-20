@@ -1,6 +1,8 @@
 ---
-title: "Kangaroos and Their Function in the Bond Market (Algo Trading)"
-description: "Explore the dynamic role of Kangaroo bonds and algorithmic trading in bond markets Learn how they diversify portfolios and enhance investment strategies"
+category: quant_concept
+description: Explore the dynamic role of Kangaroo bonds and algorithmic trading in
+  bond markets Learn how they diversify portfolios and enhance investment strategies
+title: Kangaroos and Their Function in the Bond Market (Algo Trading)
 ---
 
 The world of financial instruments offers numerous opportunities for investors and issuers alike. Among the many options available, Kangaroo bonds and algorithmic trading in the bond market have garnered significant attention. These instruments have become integral components of the modern financial landscape, each with unique features that appeal to a wide range of market participants.

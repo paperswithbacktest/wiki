@@ -1,6 +1,9 @@
 ---
-title: "Operating Expense Ratio (Algo Trading)"
-description: "Discover how the Operating Expense Ratio (OER) impacts algorithmic trading efficiency Evaluate cost structures and enhance profitability through optimal OER management"
+category: quant_concept
+description: Discover how the Operating Expense Ratio (OER) impacts algorithmic trading
+  efficiency Evaluate cost structures and enhance profitability through optimal OER
+  management
+title: Operating Expense Ratio (Algo Trading)
 ---
 
 In the rapidly evolving world of finance, algorithmic trading has emerged as a fundamental component of modern investment strategies. This method leverages advanced algorithms and computational power to execute trades with precision and speed that far exceed human capabilities. As financial markets become increasingly complex, the efficiency of these trading strategies is paramount. Central to this efficiency is a thorough understanding of cost structures, particularly the Operating Expense Ratio (OER). 

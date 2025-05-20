@@ -1,6 +1,8 @@
 ---
-title: "Accounts Payable on the Balance Sheet (Algo Trading)"
-description: "Explore the interplay between accounts payable and algorithmic trading on the balance sheet to understand financial health and strategic investment insights."
+category: quant_concept
+description: Explore the interplay between accounts payable and algorithmic trading
+  on the balance sheet to understand financial health and strategic investment insights.
+title: Accounts Payable on the Balance Sheet (Algo Trading)
 ---
 
 In today's complex financial landscape, understanding key financial documents like balance sheets is crucial for any investor or business professional. The balance sheet, a fundamental component of financial statements, provides insights into a company's financial health by detailing its assets, liabilities, and shareholders' equity. It effectively summarizes the company's resources, obligations, and net worth at a specific point in time. This enables stakeholders to assess the company's financial position and make informed decisions.

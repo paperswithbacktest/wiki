@@ -1,6 +1,9 @@
 ---
-title: "Economics as a Science (Algo Trading)"
-description: "Explore the fascinating intersection of economics and algorithmic trading Discover how economic theories shape trading strategies and insights in financial markets"
+category: quant_concept
+description: Explore the fascinating intersection of economics and algorithmic trading
+  Discover how economic theories shape trading strategies and insights in financial
+  markets
+title: Economics as a Science (Algo Trading)
 ---
 
 Economics, a discipline with roots tracing back to ancient civilizations, has evolved remarkably over the centuries, developing into a comprehensive science that examines how individuals, businesses, and governments allocate resources. At its core, economics provides the theoretical framework needed to analyze everything from micro-level decisions concerning scarcity and choices, to macro-level phenomena that affect national and global financial stability. Distinguished branches like microeconomics and macroeconomics allow for an understanding of consumer behavior, production choices, and broader economic policies, respectively, enabling coherent interpretations of diverse economic activities.

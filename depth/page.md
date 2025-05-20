@@ -1,7 +1,8 @@
 ---
-title: Understanding Neural Network Depth for Better Performance
+category: quant_concept
 description: Neural network depth shapes hierarchical feature learning while influencing
   training stability and generalization Discover optimal design strategies inside
+title: Understanding Neural Network Depth for Better Performance
 ---
 
 ![Image](images/1.jpeg)

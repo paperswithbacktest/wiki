@@ -1,6 +1,8 @@
 ---
-title: "Chicago Mercantile Exchange Overview (Algo Trading)"
-description: "Explore the world of futures trading at the Chicago Mercantile Exchange, highlighting the significance of algorithmic trading in modern financial markets."
+category: quant_concept
+description: Explore the world of futures trading at the Chicago Mercantile Exchange,
+  highlighting the significance of algorithmic trading in modern financial markets.
+title: Chicago Mercantile Exchange Overview (Algo Trading)
 ---
 
 The world of finance is both vast and complex, and nowhere is this more evident than in the futures trading commodities market. Futures trading plays a crucial role in the global economy by allowing participants to manage risk and speculate on future price movements. This market is characterized by its dynamic nature, impacted by various economic, geopolitical, and environmental factors.

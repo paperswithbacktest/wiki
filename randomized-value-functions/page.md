@@ -1,7 +1,8 @@
 ---
-title: Randomized Value Functions for Enhanced Reinforcement Learning
+category: quant_concept
 description: Randomized Value Functions inject noise into value estimates to drive
   exploration and avoid suboptimal traps in reinforcement learning Discover more inside
+title: Randomized Value Functions for Enhanced Reinforcement Learning
 ---
 
 ![Image](images/1.png)

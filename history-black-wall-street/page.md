@@ -1,6 +1,9 @@
 ---
-title: "History of Black Wall Street (Algo Trading)"
-description: "Explore the legacy of Black Wall Street and the Tulsa Race Massacre and discover how they connect to the modern world of algorithmic trading and economic empowerment."
+category: quant_concept
+description: Explore the legacy of Black Wall Street and the Tulsa Race Massacre and
+  discover how they connect to the modern world of algorithmic trading and economic
+  empowerment.
+title: History of Black Wall Street (Algo Trading)
 ---
 
 This article examines the intricate connections between pivotal historical events and modern financial innovations. It will explore the significance of Black Wall Street and the Tulsa Race Massacre—two interlinked subjects of profound historical importance. Black Wall Street, located in Tulsa, Oklahoma, was a beacon of African-American prosperity during the early 20th century. This thriving community represented the apex of African-American entrepreneurship, self-reliance, and economic empowerment. The Tulsa Race Massacre of 1921 stands as a dark chapter, reflecting systemic racism and the consequent decimation of this prosperous community. Understanding these events is crucial for recognizing the historical narratives that have shaped modern American society.

@@ -1,8 +1,9 @@
 ---
-title: "3Red Partners (Algo Trading)"
-description: "3Red Partners excels in algorithmic trading by leveraging advanced technology and a collaborative culture to navigate financial markets with precision and innovation."
+category: trading_strategy
+description: 3Red Partners excels in algorithmic trading by leveraging advanced technology
+  and a collaborative culture to navigate financial markets with precision and innovation.
+title: 3Red Partners (Algo Trading)
 ---
-
 
 ![Image](images/1.png)
 
@@ -137,4 +138,3 @@ When executed, this backtest would simulate the strategy on Apple’s historical
 [9]: [Statistical Arbitrage: Definition, How It Works, and Example | Investopedia](https://www.investopedia.com/terms/s/statisticalarbitrage.asp)
 
 [10]: [GitHub - paperswithbacktest/pwb-toolbox](https://github.com/paperswithbacktest/pwb-toolbox)
-

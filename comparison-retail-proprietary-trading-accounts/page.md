@@ -1,6 +1,9 @@
 ---
-title: "Comparison of Retail and Proprietary Trading Accounts (Algo Trading)"
-description: "Explore the differences between retail and proprietary trading accounts in algo trading Discover how these account types affect market liquidity and trading strategies"
+category: quant_concept
+description: Explore the differences between retail and proprietary trading accounts
+  in algo trading Discover how these account types affect market liquidity and trading
+  strategies
+title: Comparison of Retail and Proprietary Trading Accounts (Algo Trading)
 ---
 
 The modern landscape of trading is characterized by a diverse range of activities that cater to various market participants, including proprietary trading, retail accounts, day trading, and algorithmic trading. These components play crucial roles in the financial markets, driving liquidity, price discovery, and market efficiency. Understanding these terms is vital for traders seeking to navigate today's complex financial environment.

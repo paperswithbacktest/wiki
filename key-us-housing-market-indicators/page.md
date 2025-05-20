@@ -1,6 +1,8 @@
 ---
-title: "Key U.S. Housing Market Indicators (Algo Trading)"
-description: "Explore key U.S. housing market indicators to guide strategic decisions for investors and homebuyers using insights for algorithmic trading optimization."
+category: quant_concept
+description: Explore key U.S. housing market indicators to guide strategic decisions
+  for investors and homebuyers using insights for algorithmic trading optimization.
+title: Key U.S. Housing Market Indicators (Algo Trading)
 ---
 
 Understanding the dynamics of the U.S. real estate market is essential for investors and potential homebuyers because it directly influences decision-making and strategic planning. The U.S. housing market is a complex system shaped by numerous indicators that provide insights into its health and future trends. These indicators, such as construction spending, home sales, and housing starts, serve as foundational tools for interpreting current market conditions and predicting future developments.

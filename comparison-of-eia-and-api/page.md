@@ -1,6 +1,9 @@
 ---
-title: "Comparison of EIA and API (Algo Trading)"
-description: "Explore the role of EIA and API reports in algorithmic trading and how APIs facilitate swift access to vital market data enhancing trading strategies in commodities."
+category: trading_strategy
+description: Explore the role of EIA and API reports in algorithmic trading and how
+  APIs facilitate swift access to vital market data enhancing trading strategies in
+  commodities.
+title: Comparison of EIA and API (Algo Trading)
 ---
 
 In today's fast-paced financial markets, algorithmic trading has become a cornerstone of trading strategies for many investors and institutions. These automated trading strategies rely heavily on technological advancements and access to real-time data. APIs (Application Programming Interfaces) play a crucial role in facilitating algorithmic trading by providing seamless integration with trading platforms and enabling traders to execute strategies with precision and speed. Through APIs, traders can access a wealth of market data, perform transactions, and receive confirmations almost instantaneously, allowing for rapid response to market dynamics.

@@ -1,6 +1,8 @@
 ---
-title: "Largest Global Oil Exporters (Algo Trading)"
-description: "Discover key insights into the global oil export landscape and the impact of algorithmic trading on markets. Explore the roles of top oil exporters."
+category: dataset
+description: Discover key insights into the global oil export landscape and the impact
+  of algorithmic trading on markets. Explore the roles of top oil exporters.
+title: Largest Global Oil Exporters (Algo Trading)
 ---
 
 Crude oil remains a highly sought-after commodity, maintaining its status as the most traded product globally. Its significance extends beyond energy production, influencing sectors such as transportation, manufacturing, and even financial markets. The global oil export landscape is of paramount importance to investors, traders, and policymakers alike. An in-depth understanding of oil exporters aids stakeholders in making informed decisions regarding trade balances, geopolitical strategy, and economic planning.

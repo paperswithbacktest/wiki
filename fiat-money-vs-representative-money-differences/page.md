@@ -1,6 +1,8 @@
 ---
-title: "Fiat Money vs. Representative Money: Differences (Algo Trading)"
-description: "Explore the key differences between fiat money and representative money while understanding their roles in modern financial systems and algorithmic trading."
+category: quant_concept
+description: Explore the key differences between fiat money and representative money
+  while understanding their roles in modern financial systems and algorithmic trading.
+title: 'Fiat Money vs. Representative Money: Differences (Algo Trading)'
 ---
 
 Monetary systems are foundational constructs in the global economy, enabling the facilitation of trade, investment, and economic stability. They provide the necessary framework for the valuation and exchange of goods and services, acting as a critical intermediary in financial transactions worldwide. At the core of monetary systems, we find different forms of money, namely, representative money and fiat money, each with its distinct characteristics and historical significance.

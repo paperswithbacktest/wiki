@@ -1,6 +1,9 @@
 ---
-title: "Dependency Ratio and Its Calculation (Algo Trading)"
-description: "Explore the dynamics of the dependency ratio and its significance in algorithmic trading and economic forecasting, providing insights for informed financial decisions."
+category: quant_concept
+description: Explore the dynamics of the dependency ratio and its significance in
+  algorithmic trading and economic forecasting, providing insights for informed financial
+  decisions.
+title: Dependency Ratio and Its Calculation (Algo Trading)
 ---
 
 Understanding the dynamics of a population is crucial, especially in terms of economic planning and financial forecasting. As global demographics evolve, assessing the economic burdens and opportunities associated with these shifts becomes increasingly important. The dependency ratio emerges as a critical demographic tool in this context. It measures the segment of a population that is dependent, typically due to being too young or too old to engage in full-time employment, relative to the working-age population. This ratio provides a clear picture of the economic pressure on the productive segment of society to support those who are not in the workforce.

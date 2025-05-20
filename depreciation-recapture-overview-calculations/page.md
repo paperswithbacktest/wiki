@@ -1,6 +1,8 @@
 ---
-title: "Depreciation Recapture Overview and Calculations (Algo Trading)"
-description: "Explore how depreciation recapture and asset depreciation influence investment strategies in algo trading to maximize tax efficiency and trading profitability."
+category: quant_concept
+description: Explore how depreciation recapture and asset depreciation influence investment
+  strategies in algo trading to maximize tax efficiency and trading profitability.
+title: Depreciation Recapture Overview and Calculations (Algo Trading)
 ---
 
 Depreciation recapture and asset depreciation are critical aspects of financial management and taxation that influence investment strategies and fiscal policies. Asset depreciation refers to the allocation of the cost of a tangible asset over its useful life. This process allows businesses to account for the reduction in value of an asset as it ages or becomes obsolete, ultimately impacting the financial statements and tax liabilities positively by reducing taxable income in the short term. Common methods of calculating depreciation include straight-line and Modified Accelerated Cost Recovery System (MACRS), each with its own applications and implications.

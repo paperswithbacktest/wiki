@@ -1,9 +1,11 @@
 ---
-title: "Gap Trading and Algo Trading"
-description: Discover the intricacies of gap trading and its significance in financial markets. Learn about various types of market gaps, their implications, and how they are formed through supply and demand imbalances. Master the art of analyzing gaps using technical indicators for profitable trades.
+category: trading_strategy
+description: Discover the intricacies of gap trading and its significance in financial
+  markets. Learn about various types of market gaps, their implications, and how they
+  are formed through supply and demand imbalances. Master the art of analyzing gaps
+  using technical indicators for profitable trades.
+title: Gap Trading and Algo Trading
 ---
-
-
 
 Gap trading is a strategy that focuses on price movements, or "gaps," that show a significant shift in market sentiment from one period to the next without trading occurring between. These gaps are particularly apparent in the stock, futures, and forex markets where the market closes at the end of each trading day or week but can also occur in markets that trade around the clock during news events or on weekends. They are visualized as a space on price charts where no trading has taken place, resulting in a 'jump' in price action from one level to another.
 

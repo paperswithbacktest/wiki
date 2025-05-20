@@ -1,6 +1,8 @@
 ---
-title: "Dow Jones 65 Composite Average Overview (Algo Trading)"
-description: "Explore the intersection of the Dow Jones 65 Composite Average and algorithmic trading understand its impact on market stability and the future of financial indices."
+category: quant_concept
+description: Explore the intersection of the Dow Jones 65 Composite Average and algorithmic
+  trading understand its impact on market stability and the future of financial indices.
+title: Dow Jones 65 Composite Average Overview (Algo Trading)
 ---
 
 Financial markets are essential components of the global economy, facilitating the exchange of assets and capital across the globe. They enable the processes of capital formation, liquidity provision, risk management, and price discovery, all of which contribute to economic growth and prosperity. Within these markets, stock market indices play a pivotal role by providing a benchmark for evaluating market trends and economic health. Stock market indices, such as the S&P 500, NASDAQ Composite, and others, serve as barometers for market performance, reflecting the collective value of selected stocks that are representative of different sectors or segments of a market.

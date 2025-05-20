@@ -1,6 +1,8 @@
 ---
-title: "Traveler's Dilemma (Algo Trading)"
-description: "Explore how the Traveler's Dilemma, rooted in game theory, enhances algorithmic trading strategies by balancing rational choices and maximizing payoffs."
+category: quant_concept
+description: Explore how the Traveler's Dilemma, rooted in game theory, enhances algorithmic
+  trading strategies by balancing rational choices and maximizing payoffs.
+title: Traveler's Dilemma (Algo Trading)
 ---
 
 In the constantly evolving world of finance and economics, the intricacies of decision-making are crucial for achieving success. The Traveler's Dilemma, a concept rooted in game theory, provides invaluable insights into the balancing act between rational decision-making and payoff maximization. Conceived by economist Kaushik Basu, this dilemma challenges conventional notions of rational behavior by demonstrating scenarios where seemingly irrational choices can lead to better outcomes.

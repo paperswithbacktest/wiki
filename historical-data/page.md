@@ -1,6 +1,11 @@
 ---
-title: "Historical Data (Algo Trading)"
-description: Discover the essential role of historical data in algorithmic trading and its impact on strategy development and backtesting for optimizing trading algorithms. Gain insights into how past market trends enhance predictability and reduce risks in live trading environments, ensuring robust performance through reliable data analysis and comprehensive market insights.
+category: dataset
+description: Discover the essential role of historical data in algorithmic trading
+  and its impact on strategy development and backtesting for optimizing trading algorithms.
+  Gain insights into how past market trends enhance predictability and reduce risks
+  in live trading environments, ensuring robust performance through reliable data
+  analysis and comprehensive market insights.
+title: Historical Data (Algo Trading)
 ---
 
 Algorithmic trading is the use of computer algorithms to automate and execute financial market transactions. This method has transformed the landscape of financial markets, becoming a dominant force due to its efficiency, speed, and the ability to execute complex strategies with minimal human intervention. The rise of algorithmic trading can be attributed to the advances in technology and the availability of market data, which have enabled traders to develop sophisticated algorithms that capitalize on fleeting market opportunities.

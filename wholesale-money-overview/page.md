@@ -1,6 +1,9 @@
 ---
-title: "Wholesale Money Overview (Algo Trading)"
-description: "Explore the crucial role of wholesale money, banking, and algorithmic trading in modern finance. Understand their impact on financial stability and global markets."
+category: quant_concept
+description: Explore the crucial role of wholesale money, banking, and algorithmic
+  trading in modern finance. Understand their impact on financial stability and global
+  markets.
+title: Wholesale Money Overview (Algo Trading)
 ---
 
 In the complex world of finance, understanding the interplay between financial markets, banking, and wholesale money is crucial for comprehending modern economic systems. Financial markets are indispensable as they facilitate the trading of assets such as stocks, bonds, and foreign currencies. These platforms are vital for ensuring liquidity, enabling market participants to buy or sell assets with minimal impact on their price, and for price discovery, where the prices of assets are established through supply and demand dynamics.

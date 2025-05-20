@@ -1,6 +1,8 @@
 ---
-title: "Income Risk and Its Mechanisms (Algo Trading)"
-description: "Explore income risk in algo trading Discover how fluctuations in interest rates affect investment returns and the importance of risk management strategies"
+category: quant_concept
+description: Explore income risk in algo trading Discover how fluctuations in interest
+  rates affect investment returns and the importance of risk management strategies
+title: Income Risk and Its Mechanisms (Algo Trading)
 ---
 
 Financial risk encompasses a broad array of uncertainties that can impact the valuation and returns of investments. These include market risk, credit risk, and operational risk, which can significantly influence the stability of financial entities. Risk management is a key discipline focused on identifying, analyzing, and mitigating these uncertainties to preserve capital and maintain steady financial operations. Central to risk management strategies are techniques such as diversification, stop-loss orders, and hedging, which help in buffering the financial system against potential losses.

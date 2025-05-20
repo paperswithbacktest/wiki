@@ -1,6 +1,8 @@
 ---
-title: "Overshooting in Economics: Mechanism and Historical Context (Algo Trading)"
-description: "Discover how overshooting impacts currency markets in this insightful exploration of exchange rates, economic policy, and algorithmic trading dynamics."
+category: quant_concept
+description: Discover how overshooting impacts currency markets in this insightful
+  exploration of exchange rates, economic policy, and algorithmic trading dynamics.
+title: 'Overshooting in Economics: Mechanism and Historical Context (Algo Trading)'
 ---
 
 Exchange rates play a crucial role in global economics, acting as a barometer for cross-border trade and investment, influencing economic growth, price stability, and financial stability. These rates reflect the relative value of one currency against another and are influenced by various factors including inflation rates, interest rates, and political stability. A fundamental understanding of exchange rate dynamics is vital for policymakers, businesses, and investors who operate in a globalized economy.

@@ -1,6 +1,8 @@
 ---
-title: "Intraday Return: Meaning and Mechanism (Algo Trading)"
-description: "Explore intraday return trading and algorithmic strategies for better market efficiency Learn how technology optimizes trades and enhances risk management"
+category: trading_strategy
+description: Explore intraday return trading and algorithmic strategies for better
+  market efficiency Learn how technology optimizes trades and enhances risk management
+title: 'Intraday Return: Meaning and Mechanism (Algo Trading)'
 ---
 
 The fast-paced world of the stock market offers numerous opportunities for traders, among which intraday trading is a prominent strategy. Intraday return trading focuses on the art of buying and selling financial instruments within the span of a single trading day, capitalizing on short-term price fluctuations. This approach demands a keen understanding of market trends and rapid decision-making to exploit brief windows of opportunity.

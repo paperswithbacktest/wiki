@@ -1,6 +1,9 @@
 ---
-title: "Zayo Group Holdings (Algo Trading)"
-description: "Explore Zayo Group Holdings known for high-speed fiber-optic services catering to diverse business needs and enhancing algorithmic trading with low-latency networks."
+category: trading_strategy
+description: Explore Zayo Group Holdings known for high-speed fiber-optic services
+  catering to diverse business needs and enhancing algorithmic trading with low-latency
+  networks.
+title: Zayo Group Holdings (Algo Trading)
 ---
 
 The Zayo Group, established in 2007, has rapidly positioned itself as a key entity in the telecommunications sector with a specialization in fiber-optic services. Its influence extends across North America and Europe, signifying a substantial geographical reach. Zayo's offerings are diverse, encompassing high-speed data transmission and comprehensive connectivity solutions that cater to the evolving needs of modern businesses.

@@ -1,6 +1,14 @@
 ---
-title: "ThinkScript Guide (Algo Trading)"
-description: Unlock the power of algorithmic trading with our comprehensive guide to thinkScript on the Thinkorswim platform. Discover how to create custom studies, strategies, and alerts using this versatile scripting language to enhance your trading expertise. Perfect for both novice and skilled traders, this tutorial will show you how to optimize your trading strategies and automate decision-making processes, all while utilizing Thinkorswim's powerful features for advanced market analysis. Learn how to set up, test, and troubleshoot your scripts for a personalized and efficient trading experience today.
+category: trading_strategy
+description: Unlock the power of algorithmic trading with our comprehensive guide
+  to thinkScript on the Thinkorswim platform. Discover how to create custom studies,
+  strategies, and alerts using this versatile scripting language to enhance your trading
+  expertise. Perfect for both novice and skilled traders, this tutorial will show
+  you how to optimize your trading strategies and automate decision-making processes,
+  all while utilizing Thinkorswim's powerful features for advanced market analysis.
+  Learn how to set up, test, and troubleshoot your scripts for a personalized and
+  efficient trading experience today.
+title: ThinkScript Guide (Algo Trading)
 ---
 
 Algorithmic trading refers to the use of computer algorithms to execute trading orders in financial markets. These algorithms enable traders to make precise and swift decisions without human intervention, utilizing pre-defined criteria and mathematical models. This approach has gained significant importance in the financial markets due to its ability to process vast amounts of data at high speed, reduce costs, and enhance the accuracy of trading decisions.

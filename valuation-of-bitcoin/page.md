@@ -1,6 +1,9 @@
 ---
-title: "Valuation of Bitcoin (Algo Trading)"
-description: "Explore Bitcoin valuation and algorithmic trading to better navigate the dynamic cryptocurrency market Understand factors influencing prices and trading strategies"
+category: quant_concept
+description: Explore Bitcoin valuation and algorithmic trading to better navigate
+  the dynamic cryptocurrency market Understand factors influencing prices and trading
+  strategies
+title: Valuation of Bitcoin (Algo Trading)
 ---
 
 Bitcoin, since its inception in 2009 by the pseudonymous Satoshi Nakamoto, has significantly influenced the financial world by introducing the concept of decentralized digital currency. As the first cryptocurrency, Bitcoin set the foundation for a plethora of digital assets, altering the landscape of finance and investment profoundly. Cryptocurrencies are digital or virtual currencies that leverage blockchain technology to attain decentralization, transparency, and immutability. Bitcoin's pivotal role lies in its ability to function as a decentralized peer-to-peer payment system, which eschews the need for intermediaries, thereby revolutionizing how value can be transferred globally.

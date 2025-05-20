@@ -1,6 +1,8 @@
 ---
-title: "Populous World: Historical Significance and Functionality (Algo Trading)"
-description: "Explore the historical influence of population dynamics on economic growth and algorithmic trading. Understand demographic changes to optimize trading strategies."
+category: quant_concept
+description: Explore the historical influence of population dynamics on economic growth
+  and algorithmic trading. Understand demographic changes to optimize trading strategies.
+title: 'Populous World: Historical Significance and Functionality (Algo Trading)'
 ---
 
 Global population dynamics refer to the complex changes in population size and structure across the world, driven by factors such as birth rates, mortality rates, and migration patterns. Understanding such dynamics has been essential throughout history, as shifts in population have consistently influenced economic growth and socio-political structures. Historically, moments like the Industrial Revolution accelerated urbanization and altered population distributions, which subsequently fueled economic expansion. Similarly, the post-World War II baby boom created new markets and labor forces, reshaping economies globally.

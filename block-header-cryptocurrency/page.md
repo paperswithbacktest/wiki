@@ -1,6 +1,8 @@
 ---
-title: "Block Header in Cryptocurrency (Algo Trading)"
-description: "Explore how blockchain's block headers enhance cryptocurrency security through transparent transactions and examine their role in algo trading's efficiency."
+category: quant_concept
+description: Explore how blockchain's block headers enhance cryptocurrency security
+  through transparent transactions and examine their role in algo trading's efficiency.
+title: Block Header in Cryptocurrency (Algo Trading)
 ---
 
 In recent years, blockchain technology and cryptocurrency have emerged as significant drivers of technological advancement and financial transformation. Blockchain, a decentralized and distributed ledger, offers a method for recording transactions with inherent security and transparency. This technology has facilitated the development of cryptocurrencies, digital currencies that utilize cryptographic techniques to ensure secure transaction validation and maintain user privacy.

@@ -1,6 +1,8 @@
 ---
-title: "Bill Announcement (Algo Trading)"
-description: "Explore the impact of algorithmic trading on financial markets and recent legislative measures aimed at ensuring responsible practice and market integrity."
+category: quant_concept
+description: Explore the impact of algorithmic trading on financial markets and recent
+  legislative measures aimed at ensuring responsible practice and market integrity.
+title: Bill Announcement (Algo Trading)
 ---
 
 Algorithmic trading has fundamentally transformed financial markets by utilizing computer algorithms to execute trades at speeds and volumes far beyond human capability. This technological evolution offers substantial advantages, such as increased market efficiency and liquidity, but it also presents significant challenges, including heightened risks of market manipulation and systemic instability. As algorithmic strategies become increasingly sophisticated, the necessity for corresponding legislative frameworks to ensure these activities are conducted responsibly becomes evident.

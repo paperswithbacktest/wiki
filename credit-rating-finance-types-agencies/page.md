@@ -1,6 +1,8 @@
 ---
-title: "Credit Rating in Finance: Mechanisms, Types, and Agencies (Algo Trading)"
-description: "Explore the mechanisms, types, and roles of credit ratings in finance and their integration into algorithmic trading systems to shape investment strategies."
+category: quant_concept
+description: Explore the mechanisms, types, and roles of credit ratings in finance
+  and their integration into algorithmic trading systems to shape investment strategies.
+title: 'Credit Rating in Finance: Mechanisms, Types, and Agencies (Algo Trading)'
 ---
 
 Credit ratings are essential components in finance, acting as indicators of the financial health and trustworthiness of various entities such as individuals, corporations, or governments. They serve as critical tools for investors and financial analysts, guiding investment decisions by providing insights into the risk profile and creditworthiness of borrowers. Credit ratings influence not only the interest rates entities pay but also affect investment strategies, impacting which assets investors might include in their portfolios.

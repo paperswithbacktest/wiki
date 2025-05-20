@@ -1,6 +1,9 @@
 ---
-title: "Small-Value Stock: Overview and Mechanism (Algo Trading)"
-description: "Explore the dynamics of small-value stocks and the role of algorithmic trading in financial markets Discover strategies to capture growth opportunities and manage risks"
+category: quant_concept
+description: Explore the dynamics of small-value stocks and the role of algorithmic
+  trading in financial markets Discover strategies to capture growth opportunities
+  and manage risks
+title: 'Small-Value Stock: Overview and Mechanism (Algo Trading)'
 ---
 
 The financial markets have undergone profound changes with technological advancements significantly shaping the investment landscape. These advancements have introduced new avenues such as small-value stocks and algorithmic trading, presenting investors with a complex but opportunity-rich environment. The emergence of small-value stocks highlights a shift towards diversifying investment options. These stocks, characterized by their relatively low market capitalization and perceived undervaluation, capture investor interest due to their potential for substantial growth despite lesser coverage and recognition.
@@ -177,4 +180,3 @@ Embracing new technologies and maintaining a keen understanding of market insigh
 - Lopez de Prado, M. (2018). 'Advances in Financial Machine Learning'. This book explores the application of machine learning techniques to finance, presenting innovative methods to improve trading strategies and manage investment risks, including algorithmic trading.
 
 - Aronson, D. R. (2007). 'Evidence-Based Technical Analysis: Applying the Scientific Method to Trading Signals'. This book emphasizes the application of scientific methods to technical analysis in trading, providing a framework for evaluating the effectiveness of various trading strategies.
-

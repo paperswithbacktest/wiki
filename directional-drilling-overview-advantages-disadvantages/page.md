@@ -1,6 +1,9 @@
 ---
-title: "Directional Drilling: Overview, Advantages, and Disadvantages (Algo Trading)"
-description: "Explore the advantages and challenges of directional drilling in oil extraction Learn about its environmental impact economic benefits and role in algo trading."
+category: quant_concept
+description: Explore the advantages and challenges of directional drilling in oil
+  extraction Learn about its environmental impact economic benefits and role in algo
+  trading.
+title: 'Directional Drilling: Overview, Advantages, and Disadvantages (Algo Trading)'
 ---
 
 Directional drilling is a crucial technique in the oil extraction industry, revolutionizing the way companies access underground reserves. Unlike traditional vertical drilling, directional drilling involves drilling wells at multiple angles to reach deposits that are not directly beneath the drilling site. This method allows operators to access various oil reservoirs, minimizing the need for multiple drilling sites and offering both economic and environmental advantages.

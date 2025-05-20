@@ -1,6 +1,9 @@
 ---
-title: "Nil Paid: Overview, Mechanism, and Applications (Algo Trading)"
-description: "Explore the synergy between nil-paid rights and algorithmic trading to enhance investment strategies Discover how these financial innovations redefine trading mechanisms and opportunities"
+category: quant_concept
+description: Explore the synergy between nil-paid rights and algorithmic trading to
+  enhance investment strategies Discover how these financial innovations redefine
+  trading mechanisms and opportunities
+title: 'Nil Paid: Overview, Mechanism, and Applications (Algo Trading)'
 ---
 
 The financial landscape is undergoing a rapid transformation driven by technological advancements that are reshaping traditional trading mechanisms. Among the various innovations, nil-paid rights and algorithmic trading have emerged as pivotal components in this evolving ecosystem. Nil-paid rights provide shareholders with the opportunity to acquire additional shares at no initial cost, often used by companies to procure additional capital for expansion or to address financial challenges. Simultaneously, algorithmic trading employs advanced mathematical models and programmed instructions to execute trades at unprecedented speeds, significantly reducing human error and emotional influence in trading decisions.

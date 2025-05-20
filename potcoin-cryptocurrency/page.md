@@ -1,6 +1,8 @@
 ---
-title: "PotCoin Cryptocurrency (Algo Trading)"
-description: "Discover how PotCoin, a niche cryptocurrency tailored for the cannabis industry, partners with algo trading for efficient, secure transactions."
+category: quant_concept
+description: Discover how PotCoin, a niche cryptocurrency tailored for the cannabis
+  industry, partners with algo trading for efficient, secure transactions.
+title: PotCoin Cryptocurrency (Algo Trading)
 ---
 
 Digital currencies are profoundly transforming financial landscapes, introducing novel avenues for transactions and investment. Among the diverse spectrum of these currencies, PotCoin has emerged as a niche cryptocurrency specifically catering to the cannabis industry. Designed to address the unique banking challenges faced by legal marijuana businesses, PotCoin offers a secure and anonymous means of conducting financial transactions. This specialized focus enables cannabis enterprises to navigate the complexities imposed by traditional financial systems, which are often restrictive due to federal regulations.

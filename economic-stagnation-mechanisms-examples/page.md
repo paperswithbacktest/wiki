@@ -1,6 +1,9 @@
 ---
-title: "Economic Stagnation: Mechanisms and Examples (Algo Trading)"
-description: "Explore the mechanisms and historical examples of economic stagnation and how algorithmic trading may mitigate its adverse effects through innovative strategies."
+category: quant_concept
+description: Explore the mechanisms and historical examples of economic stagnation
+  and how algorithmic trading may mitigate its adverse effects through innovative
+  strategies.
+title: 'Economic Stagnation: Mechanisms and Examples (Algo Trading)'
 ---
 
 Economic stagnation represents a protracted period during which economic growth remains sluggish or virtually flat. This stagnation often coincides with elevated unemployment rates and can have profound implications across various sectors of the economy. The ramifications of such stagnation are far-reaching, influencing financial markets, reshaping investment strategies, and posing potential risks to overall economic stability. 

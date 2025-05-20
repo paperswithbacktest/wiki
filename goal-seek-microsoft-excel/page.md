@@ -1,6 +1,8 @@
 ---
-title: "Goal Seek in Microsoft Excel (Algo Trading)"
-description: "Optimize your algorithmic trading strategies using Excel's Goal Seek for financial forecasting and scenario analysis enhancing decision-making accuracy."
+category: quant_concept
+description: Optimize your algorithmic trading strategies using Excel's Goal Seek
+  for financial forecasting and scenario analysis enhancing decision-making accuracy.
+title: Goal Seek in Microsoft Excel (Algo Trading)
 ---
 
 The landscape of trading has undergone a significant transformation with the development of algorithmic techniques and the growing importance of data-driven decision making. These advancements have not only refined trading strategies but have also increased efficiency and accuracy in executing trades. A vital tool that continues to play a key role in finance and trading is Microsoft Excel. Its widespread adoption is attributed to its versatility and comprehensive features, which are instrumental in a variety of financial tasks, including forecasting and trading.

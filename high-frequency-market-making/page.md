@@ -1,6 +1,8 @@
 ---
-title: "High-Frequency Market Making (Algo Trading)"
-description: "Explore high-frequency market making within algo trading Learn its mechanics benefits and challenges while understanding its impact on financial markets today"
+category: trading_strategy
+description: Explore high-frequency market making within algo trading Learn its mechanics
+  benefits and challenges while understanding its impact on financial markets today
+title: High-Frequency Market Making (Algo Trading)
 ---
 
 High-frequency market making, a subset of algorithmic trading, is a sophisticated strategy employed by financial firms to leverage slight variations in securities prices for profit. This intricate practice relies primarily on the ability to execute rapid and repetitive buying and selling activities, exploiting small price discrepancies—often mere fractions of a cent—to generate returns. 

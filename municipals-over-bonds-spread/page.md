@@ -1,6 +1,9 @@
 ---
-title: "Municipals-Over-Bonds Spread (Algo Trading)"
-description: "Explore the evolving landscape of municipal bond trading through algorithmic strategies focusing on understanding the Municipal-Over-Bonds (MOB) spread and optimizing trade efficiency."
+category: trading_strategy
+description: Explore the evolving landscape of municipal bond trading through algorithmic
+  strategies focusing on understanding the Municipal-Over-Bonds (MOB) spread and optimizing
+  trade efficiency.
+title: Municipals-Over-Bonds Spread (Algo Trading)
 ---
 
 In recent years, the landscape of financial trading has undergone a remarkable transformation with the integration of advanced technology. This change has reached the fixed-income market, where algorithmic trading of municipal bonds has emerged as a contemporary strategy. Municipal bonds, traditionally known for their role in financing local government projects, are now being traded with the aid of sophisticated algorithms that leverage automation and advanced analytics. This new approach enables traders to enhance both the efficiency and accuracy of their transactions.

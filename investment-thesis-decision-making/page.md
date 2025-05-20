@@ -1,6 +1,8 @@
 ---
-title: "Investment Thesis in Decision-Making (Algo Trading)"
-description: "Explore essential concepts in decision-making for investment and algorithmic trading Learn to craft strategies and develop theses with this comprehensive guide"
+category: trading_strategy
+description: Explore essential concepts in decision-making for investment and algorithmic
+  trading Learn to craft strategies and develop theses with this comprehensive guide
+title: Investment Thesis in Decision-Making (Algo Trading)
 ---
 
 In the fast-paced world of finance, making informed investing decisions is crucial. Navigating this complex environment requires a clear understanding of key concepts such as investment strategy and investment thesis. Each plays a vital role in shaping investment outcomes. An investment strategy serves as the roadmap for asset allocation and risk management, while an investment thesis provides a framework for evaluating specific investments based on market trends, company fundamentals, and inherent risks.

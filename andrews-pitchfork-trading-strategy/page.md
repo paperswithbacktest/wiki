@@ -1,6 +1,14 @@
 ---
-title: "Andrews’ Pitchfork Trading Strategy Explained (Algo Trading)"
-description: Discover the power of Andrews Pitchfork in algorithmic trading with our comprehensive guide. This technical analysis tool helps traders visualize potential support and resistance levels, facilitating strategic planning by indicating trend directions and possible breakout points. Perfect for sophisticated trading strategies, Andrews Pitchfork streamlines the identification of market opportunities, offering a visual representation with parallel lines derived from historical data. Explore its applications and enhance your trading performance by integrating this structured methodology to predict market movements more effectively.
+category: trading_strategy
+description: Discover the power of Andrews Pitchfork in algorithmic trading with our
+  comprehensive guide. This technical analysis tool helps traders visualize potential
+  support and resistance levels, facilitating strategic planning by indicating trend
+  directions and possible breakout points. Perfect for sophisticated trading strategies,
+  Andrews Pitchfork streamlines the identification of market opportunities, offering
+  a visual representation with parallel lines derived from historical data. Explore
+  its applications and enhance your trading performance by integrating this structured
+  methodology to predict market movements more effectively.
+title: Andrews’ Pitchfork Trading Strategy Explained (Algo Trading)
 ---
 
 Andrews Pitchfork is an essential tool in technical analysis, especially useful for traders engaged in algorithmic trading. This technical indicator assists traders in identifying potential support and resistance levels, which are crucial for making informed trading decisions. By delineating these levels, traders can better understand market trends and anticipate potential breakout points.

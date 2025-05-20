@@ -1,6 +1,8 @@
 ---
-title: "Land Value and Its Determination (Algo Trading)"
-description: "Explore how land value and algorithmic trading shape real estate markets. Discover methods combining traditional appraisal and modern AI for accurate valuations."
+category: quant_concept
+description: Explore how land value and algorithmic trading shape real estate markets.
+  Discover methods combining traditional appraisal and modern AI for accurate valuations.
+title: Land Value and Its Determination (Algo Trading)
 ---
 
 In the complex world of real estate and finance, a myriad of factors coalesce to ascertain property values and inform investment strategies. Central to these processes are land value, real estate valuation, property appraisal, and algorithmic trading. Each component plays a vital role in shaping the dynamic landscape of the market where accuracy and foresight are paramount.

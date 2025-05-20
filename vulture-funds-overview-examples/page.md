@@ -1,6 +1,9 @@
 ---
-title: "Vulture Funds: Overview and Examples (Algo Trading)"
-description: "Explore the complex world of vulture funds and algorithmic trading, two distinct investment strategies that target distressed debts and leverage technology for trading precision."
+category: trading_strategy
+description: Explore the complex world of vulture funds and algorithmic trading, two
+  distinct investment strategies that target distressed debts and leverage technology
+  for trading precision.
+title: 'Vulture Funds: Overview and Examples (Algo Trading)'
 ---
 
 Investment strategies in the modern era stand out for their diversity, dynamism, and complexity due to the rapid evolution of financial markets and technological advancements. The landscape of investment is characterized by its multitude of approaches, each designed to capitalize on different market conditions and opportunities. This article will explore key investment strategies, with a particular focus on vulture funds and algorithmic trading, which represent two distinct methodologies within the financial ecosystem.

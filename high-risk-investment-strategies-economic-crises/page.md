@@ -1,6 +1,8 @@
 ---
-title: "High-Risk Investment Strategies During Economic Crises (Algo Trading)"
-description: "Explore high-risk investment strategies during economic crises with a focus on algorithmic trading and its potential for high rewards amidst market volatility."
+category: trading_strategy
+description: Explore high-risk investment strategies during economic crises with a
+  focus on algorithmic trading and its potential for high rewards amidst market volatility.
+title: High-Risk Investment Strategies During Economic Crises (Algo Trading)
 ---
 
 In times of economic crises, traditional investment strategies often encounter significant hurdles, exacerbated by heightened market volatility and uncertainty. As economies worldwide grapple with these turbulent periods, some investors shift their focus towards high-risk, high-reward investment strategies, which offer the potential for substantial gains despite the inherent risks. Among these, algorithmic trading, particularly high-frequency trading (HFT), has gained prominence as a method to capitalize on the rapid fluctuations that characterize economic downturns.

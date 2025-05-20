@@ -1,6 +1,9 @@
 ---
-title: "Laggard: Definition, Mechanisms, and Associated Risks (Algo Trading)"
-description: "Explore the dynamics of laggard investments in trading and discover the potential risks and rewards associated with identifying and investing in underperforming assets."
+category: trading_strategy
+description: Explore the dynamics of laggard investments in trading and discover the
+  potential risks and rewards associated with identifying and investing in underperforming
+  assets.
+title: 'Laggard: Definition, Mechanisms, and Associated Risks (Algo Trading)'
 ---
 
 Laggard investment refers to the strategy of investing in stocks or assets that are currently underperforming compared to the broader market or their peers. These investments, known as "laggards," can offer unique opportunities for investors who are able to identify and capitalize on their potential for recovery. In the financial market, these laggards are significant because they represent a contrasting approach to investing in market leaders, which typically focus on high-performing stocks. By targeting undervalued or overlooked securities, investors may uncover substantial return potential should these assets recover.

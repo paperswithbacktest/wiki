@@ -1,6 +1,9 @@
 ---
-title: "Power Ratio Analysis (Algo Trading)"
-description: "Enhance your trading strategies with power ratio analysis in algorithmic trading. Optimize resource efficiency for better profits while embracing energy sustainability."
+category: trading_strategy
+description: Enhance your trading strategies with power ratio analysis in algorithmic
+  trading. Optimize resource efficiency for better profits while embracing energy
+  sustainability.
+title: Power Ratio Analysis (Algo Trading)
 ---
 
 Algorithmic trading, commonly known as algo trading, has become a cornerstone of modern financial markets. It employs sophisticated algorithms and high-speed data processing to execute trades with enhanced precision and efficiency. This method allows traders to seize market opportunities that manual trading might overlook due to its capacity to process vast amounts of data in real-time.

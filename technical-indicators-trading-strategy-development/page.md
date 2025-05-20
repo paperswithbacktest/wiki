@@ -1,6 +1,8 @@
 ---
-title: "Technical Indicators in Trading Strategy Development (Algo Trading)"
-description: "Explore essential technical indicators and algorithmic trading strategies to optimize your trading performance and stay ahead in evolving financial markets."
+category: trading_strategy
+description: Explore essential technical indicators and algorithmic trading strategies
+  to optimize your trading performance and stay ahead in evolving financial markets.
+title: Technical Indicators in Trading Strategy Development (Algo Trading)
 ---
 
 The world of trading is complex, requiring a deep understanding of various tools and strategies to navigate effectively. As market dynamics evolve with remarkable speed, traders must adopt a flexible yet informed approach to maintain a competitive edge. Technical indicators, financial analysis, and algorithmic trading are crucial components that enhance a trader's ability to make informed decisions and optimize trading performance.

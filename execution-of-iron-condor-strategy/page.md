@@ -1,6 +1,8 @@
 ---
-title: "Execution of the Iron Condor Strategy (Algo Trading)"
-description: "Explore the Iron Condor options strategy, ideal for low volatility markets, utilizing algorithmic trading to optimize execution for balanced risk and reward."
+category: trading_strategy
+description: Explore the Iron Condor options strategy, ideal for low volatility markets,
+  utilizing algorithmic trading to optimize execution for balanced risk and reward.
+title: Execution of the Iron Condor Strategy (Algo Trading)
 ---
 
 Options trading encompasses a myriad of strategies, among which the Iron Condor stands out for its unique approach to generating returns. This options strategy is traditionally employed by traders seeking to benefit from low market volatility. The Iron Condor involves a combination of selling and buying multiple options to establish a defined profit range, making it an appealing choice for traders with a neutral market outlook. By selling an out-of-the-money call spread and an out-of-the-money put spread, traders create a zone where they can achieve profitability as long as the market remains within the expected boundaries.

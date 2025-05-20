@@ -1,6 +1,8 @@
 ---
-title: "Strategies for Long-Term Stock Selection (Algo Trading)"
-description: "Discover effective strategies for long-term stock selection with a focus on blending traditional fundamental analysis and modern algorithmic trading techniques."
+category: trading_strategy
+description: Discover effective strategies for long-term stock selection with a focus
+  on blending traditional fundamental analysis and modern algorithmic trading techniques.
+title: Strategies for Long-Term Stock Selection (Algo Trading)
 ---
 
 In the ever-evolving world of stock markets, investors often grapple with the decision of choosing the right long-term stocks. The fast-paced financial environment necessitates that investors use effective stock selection strategies to construct a portfolio capable of withstanding market turbulence over time. Traditional approaches such as fundamental analysis have long been cherished for their ability to dissect a company's financial health and market position. This analysis focuses on metrics like dividend consistency, price-to-earnings (P/E) ratios, and earnings stability to make informed investment choices.

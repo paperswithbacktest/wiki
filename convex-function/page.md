@@ -1,7 +1,8 @@
 ---
-title: Understanding Convex Functions in Machine Learning Optimization
+category: quant_concept
 description: Convex functions in machine learning enable reliable optimization by
   guiding gradient descent to the global minimum without trapping Discover more inside
+title: Understanding Convex Functions in Machine Learning Optimization
 ---
 
 ![Image](images/1.png)

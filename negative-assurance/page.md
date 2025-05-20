@@ -1,6 +1,8 @@
 ---
-title: "Negative Assurance (Algo Trading)"
-description: "Explore the essential role of negative assurance in financial auditing, focusing on its impact and relevance to the fast-paced world of algorithmic trading."
+category: quant_concept
+description: Explore the essential role of negative assurance in financial auditing,
+  focusing on its impact and relevance to the fast-paced world of algorithmic trading.
+title: Negative Assurance (Algo Trading)
 ---
 
 In the ever-evolving field of finance, it is crucial to grasp the intricacies of financial auditing, particularly when algorithmic trading is involved. Financial auditing serves as a safeguard, ensuring the accuracy and reliability of financial statements, which is fundamental to maintaining trust in financial markets. At the heart of financial auditing lies the concept of assurance, with negative assurance playing a significant role by offering limited guarantees about the financial state of an organization.

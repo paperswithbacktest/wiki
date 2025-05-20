@@ -1,6 +1,9 @@
 ---
-title: "Net Operating Income in Real Estate (Algo Trading)"
-description: "Explore how Net Operating Income impacts real estate algo trading and learn to leverage its insights for better investment strategies in this informative guide."
+category: quant_concept
+description: Explore how Net Operating Income impacts real estate algo trading and
+  learn to leverage its insights for better investment strategies in this informative
+  guide.
+title: Net Operating Income in Real Estate (Algo Trading)
 ---
 
 In the rapidly evolving world of real estate finance, understanding key metrics is crucial for investors and property managers alike. One of the most critical indicators of a property's financial health is Net Operating Income (NOI). NOI serves as a foundational metric that provides a clear picture of a property's profitability, excluding the impact of taxes and financing costs. It enables stakeholders to assess and compare the operational performance of different real estate assets.

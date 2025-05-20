@@ -1,6 +1,9 @@
 ---
-title: "Futures Spread Basics and Types (Algo Trading)"
-description: "Explore futures spread strategies in algo trading to maximize trading efficiency by leveraging price discrepancies in related futures contracts, enhancing decision-making."
+category: quant_concept
+description: Explore futures spread strategies in algo trading to maximize trading
+  efficiency by leveraging price discrepancies in related futures contracts, enhancing
+  decision-making.
+title: Futures Spread Basics and Types (Algo Trading)
 ---
 
 Understanding financial derivatives is crucial for modern traders aiming to maximize their portfolio's potential. Financial derivatives are complex financial instruments whose value is based on an underlying asset, including stocks, bonds, commodities, or market indices. Among these derivatives, futures contracts play a pivotal role in risk management and profit-making strategies by allowing traders to lock in prices for future transactions.

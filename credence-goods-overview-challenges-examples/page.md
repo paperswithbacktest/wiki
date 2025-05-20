@@ -1,6 +1,8 @@
 ---
-title: "Credence Goods: Overview, Challenges, and Examples (Algo Trading)"
-description: "Discover the challenges and dynamics of credence goods and algorithmic trading in today's markets Explore consumer trust issues and technological impacts"
+category: quant_concept
+description: Discover the challenges and dynamics of credence goods and algorithmic
+  trading in today's markets Explore consumer trust issues and technological impacts
+title: 'Credence Goods: Overview, Challenges, and Examples (Algo Trading)'
 ---
 
 In today's rapidly evolving market landscape, several factors influence consumer behavior and business strategies. One important concept is that of credence goods, which refers to products whose qualities are difficult to ascertain even after purchase. These goods, which can include services like medical procedures or complex tech solutions, pose distinct challenges for consumers and businesses alike. Since the intrinsic attributes of these products are not directly observable, consumers often rely on the perceived credibility of the seller to make purchasing decisions. 

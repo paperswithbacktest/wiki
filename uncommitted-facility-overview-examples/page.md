@@ -1,6 +1,8 @@
 ---
-title: "Uncommitted Facility: Overview and Examples (Algo Trading)"
-description: "Explore how an uncommitted facility provides businesses with flexibility and liquidity while algorithmic trading boosts market efficiency and trading precision."
+category: quant_concept
+description: Explore how an uncommitted facility provides businesses with flexibility
+  and liquidity while algorithmic trading boosts market efficiency and trading precision.
+title: 'Uncommitted Facility: Overview and Examples (Algo Trading)'
 ---
 
 In today's dynamic financial environment, businesses often require flexible solutions to manage their financial needs efficiently. An uncommitted facility, a critical component in short-term financing, offers such flexibility to businesses, particularly for addressing temporary cash flow issues. It allows companies to secure funds swiftly without enduring the constraints of long-term commitments, thereby providing a buffer against unforeseen financial demands. This type of facility can be indispensable for enterprises dealing with seasonal fluctuations, sudden expenses, or the need to capitalize on unforeseen opportunities without the burden of traditional loan agreements.

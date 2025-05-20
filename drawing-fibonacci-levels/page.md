@@ -1,6 +1,9 @@
 ---
-title: "Drawing Fibonacci Levels (Algo Trading)"
-description: "Explore the significance of Fibonacci levels in algorithmic trading Learn how these mathematical ratios help traders predict market trends and develop strategic insights"
+category: trading_strategy
+description: Explore the significance of Fibonacci levels in algorithmic trading Learn
+  how these mathematical ratios help traders predict market trends and develop strategic
+  insights
+title: Drawing Fibonacci Levels (Algo Trading)
 ---
 
 The world of trading is a dynamic landscape filled with various strategies and techniques, each aiming to maximize profits and manage risks. Among these, technical analysis stands out as a popular approach due to its methodology, which focuses on historical price data and chart patterns. By examining these elements, traders aim to predict future market movements and identify optimal entry and exit points.

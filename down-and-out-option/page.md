@@ -1,6 +1,8 @@
 ---
-title: "Down-and-Out Option (Algo Trading)"
-description: "Explore down-and-out options, exotic derivatives with a knockout feature that nullifies them if the asset hits a barrier, key in diverse trading strategies."
+category: quant_concept
+description: Explore down-and-out options, exotic derivatives with a knockout feature
+  that nullifies them if the asset hits a barrier, key in diverse trading strategies.
+title: Down-and-Out Option (Algo Trading)
 ---
 
 This article explores the concept of down-and-out options, a specialized form of exotic financial derivatives that plays a distinctive role in the financial markets. Down-and-out options are a type of barrier option characterized by their unique knockout feature. This feature renders the option void if the price of the underlying asset falls to or below a predetermined barrier level during the option's life. As such, these options are integral to the versatile strategies employed within option trading and algorithmic trading contexts.

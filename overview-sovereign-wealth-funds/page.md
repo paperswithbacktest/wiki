@@ -1,6 +1,9 @@
 ---
-title: "Overview of Sovereign Wealth Funds (Algo Trading)"
-description: "Explore the intersection of sovereign wealth funds and algorithmic trading Learn how SWFs leverage technology to optimize asset management and drive economic stability"
+category: quant_concept
+description: Explore the intersection of sovereign wealth funds and algorithmic trading
+  Learn how SWFs leverage technology to optimize asset management and drive economic
+  stability
+title: Overview of Sovereign Wealth Funds (Algo Trading)
 ---
 
 National assets investment funds, commonly known as sovereign wealth funds (SWFs), are state-owned investment portfolios consisting of various asset classes such as real estate, equities, bonds, and other financial instruments. Their primary purpose is to manage a nation's wealth to achieve strategic economic goals, such as stabilizing the economy, diversifying assets, ensuring savings for future generations, or funding specific governmental projects. In the global economy, these funds are significant due to their vast capital and ability to influence financial markets and economic policies worldwide.

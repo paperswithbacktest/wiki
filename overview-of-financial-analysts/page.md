@@ -1,6 +1,8 @@
 ---
-title: "Overview of Financial Analysts (Algo Trading)"
-description: "Explore dynamic finance careers like investment analysis and algo trading Drive growth with key skills optimize strategies using insights and technology"
+category: quant_concept
+description: Explore dynamic finance careers like investment analysis and algo trading
+  Drive growth with key skills optimize strategies using insights and technology
+title: Overview of Financial Analysts (Algo Trading)
 ---
 
 Finance careers offer diverse paths, but few are as dynamic and rewarding as investment analysis and financial analysis. These careers are integral to the modern financial landscape, providing invaluable insights and strategies that drive economic growth and stability. Investment analysts and financial analysts are at the forefront of these sectors, their roles becoming increasingly pivotal as global markets expand and evolve.

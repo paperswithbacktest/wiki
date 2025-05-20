@@ -1,7 +1,8 @@
 ---
-title: Feature Extraction Techniques for Efficient Machine Learning
+category: quant_concept
 description: Feature extraction turns raw data into features to boost machine learning
   speed and accuracy using PCA LDA and deep learning methods Discover more inside
+title: Feature Extraction Techniques for Efficient Machine Learning
 ---
 
 ![Image](images/1.png)

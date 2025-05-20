@@ -1,6 +1,8 @@
 ---
-title: "Impact of Product Pricing on Gross Profit and EBITDA (Algo Trading)"
-description: "Explore how product pricing impacts gross profit and EBITDA in algo trading. Learn the importance of pricing strategies for maximizing business profitability."
+category: quant_concept
+description: Explore how product pricing impacts gross profit and EBITDA in algo trading.
+  Learn the importance of pricing strategies for maximizing business profitability.
+title: Impact of Product Pricing on Gross Profit and EBITDA (Algo Trading)
 ---
 
 In today’s competitive market environment, understanding the interplay between product pricing, gross profit, and financial metrics like EBITDA is crucial for businesses aiming to maximize profitability. Product pricing directly influences revenue, a critical component of financial success. Setting an appropriate price determines the company's ability to cover costs and achieve target profit margins. Gross profit, calculated as revenue minus the cost of goods sold (COGS), offers insight into a company’s core profitability, excluding indirect expenses.

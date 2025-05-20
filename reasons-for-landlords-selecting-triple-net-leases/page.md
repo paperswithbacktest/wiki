@@ -1,6 +1,9 @@
 ---
-title: "Reasons for Landlords Selecting Triple Net Leases (Algo Trading)"
-description: "Discover why landlords prefer triple net leases for stable income and reduced management hassle while exploring the synergy with algorithmic trading in real estate."
+category: quant_concept
+description: Discover why landlords prefer triple net leases for stable income and
+  reduced management hassle while exploring the synergy with algorithmic trading in
+  real estate.
+title: Reasons for Landlords Selecting Triple Net Leases (Algo Trading)
 ---
 
 The commercial real estate landscape is undergoing significant transformation due to technological advancements and evolving market demands. As investors seek new strategies for maximizing returns, innovative approaches like triple net leases and algorithmic trading have gained prominence. 

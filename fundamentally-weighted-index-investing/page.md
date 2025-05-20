@@ -1,6 +1,9 @@
 ---
-title: "Fundamentally Weighted Index Investing (Algo Trading)"
-description: "Discover the advantages of fundamentally weighted index investing. Learn how focusing on financial metrics over market cap can enhance returns and mitigate risks."
+category: trading_strategy
+description: Discover the advantages of fundamentally weighted index investing. Learn
+  how focusing on financial metrics over market cap can enhance returns and mitigate
+  risks.
+title: Fundamentally Weighted Index Investing (Algo Trading)
 ---
 
 Index investing has become an integral part of modern investment strategies, attracting individuals and institutions alike due to its passive nature and cost efficiency. Traditional indices, such as the S&P 500, are designed based on market capitalization, providing investors with a straightforward way to gain exposure to a broad market segment. This method, which focuses on the market value of companies, naturally leads to a higher concentration in larger companies, reflecting the overall market behavior.

@@ -1,6 +1,8 @@
 ---
-title: "Comparison of Sarbanes-Oxley and Dodd-Frank Acts (Algo Trading)"
-description: "Explore the impact of the Sarbanes-Oxley and Dodd-Frank Acts on algorithmic trading and learn how these regulations shape financial markets."
+category: quant_concept
+description: Explore the impact of the Sarbanes-Oxley and Dodd-Frank Acts on algorithmic
+  trading and learn how these regulations shape financial markets.
+title: Comparison of Sarbanes-Oxley and Dodd-Frank Acts (Algo Trading)
 ---
 
 Financial markets are intricate ecosystems comprising diverse participants, instruments, and intermediaries, all interacting under regulatory frameworks designed to ensure fairness, transparency, and stability. Over the years, financial scandals and crises have highlighted vulnerabilities in these systems, leading to the implementation of stringent regulations to protect investors and maintain market confidence. The Sarbanes-Oxley Act of 2002 and the Dodd-Frank Act of 2010 are among the most influential legislative measures introduced to address these challenges.

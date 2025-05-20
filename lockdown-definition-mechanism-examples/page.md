@@ -1,6 +1,8 @@
 ---
-title: "Lockdown: Definition, Mechanism, and Examples (Algo Trading)"
-description: "Explore the impact of COVID-19 lockdowns on algorithmic trading and global economies, revealing the balance between public health measures and economic stability."
+category: quant_concept
+description: Explore the impact of COVID-19 lockdowns on algorithmic trading and global
+  economies, revealing the balance between public health measures and economic stability.
+title: 'Lockdown: Definition, Mechanism, and Examples (Algo Trading)'
 ---
 
 The COVID-19 pandemic has significantly impacted a wide range of sectors, each experiencing various disruptions and adaptations. In public health, stringent measures such as lockdowns were implemented to curb the virus's spread. These lockdowns, while effective in reducing infection rates, posed significant economic challenges by halting normal activities and straining global supply chains.

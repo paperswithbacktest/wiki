@@ -1,6 +1,8 @@
 ---
-title: "TradingBlock Platform Analysis 2024 (Algo Trading)"
-description: "Explore TradingBlock's platform designed for beginners and casual investors offering a user-friendly interface and features to simplify the trading experience."
+category: trading_strategy
+description: Explore TradingBlock's platform designed for beginners and casual investors
+  offering a user-friendly interface and features to simplify the trading experience.
+title: TradingBlock Platform Analysis 2024 (Algo Trading)
 ---
 
 TradingBlock is a brokerage platform under the management of AOS, Inc., specifically engineered for retail investors and traders. Its design focuses on simplifying the trading process for both beginners and casual investors, presenting an array of features that cater to these groups' unique needs. With an emphasis on ease of use, TradingBlock aims to demystify the trading experience, making it accessible and user-friendly for those who may not have extensive experience in trading.

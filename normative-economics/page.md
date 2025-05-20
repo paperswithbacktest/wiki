@@ -1,6 +1,9 @@
 ---
-title: "Normative Economics (Algo Trading)"
-description: "Explore the intersection of normative economics and algorithmic trading highlighting value-based economic decisions and the role of technology in trading strategies."
+category: quant_concept
+description: Explore the intersection of normative economics and algorithmic trading
+  highlighting value-based economic decisions and the role of technology in trading
+  strategies.
+title: Normative Economics (Algo Trading)
 ---
 
 The world of economics is vast, encompassing a wide range of concepts that govern the formulation of economic policy and the development of trading strategies. Among the topics of particular interest are normative economics, economic theories, and the emergence of algorithmic trading. Each of these areas is interconnected, playing a pivotal role in the decision-making processes within financial systems and the shaping of public policy.

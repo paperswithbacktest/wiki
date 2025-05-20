@@ -1,6 +1,9 @@
 ---
-title: "Comparison of Index Mutual Funds and Index ETFs (Algo Trading)"
-description: "Compare index mutual funds and index ETFs to understand their unique benefits and differences, including trading, taxation, cost efficiency, and investment strategies."
+category: trading_strategy
+description: Compare index mutual funds and index ETFs to understand their unique
+  benefits and differences, including trading, taxation, cost efficiency, and investment
+  strategies.
+title: Comparison of Index Mutual Funds and Index ETFs (Algo Trading)
 ---
 
 In the modern financial landscape, investors are confronted with a vast array of choices, each offering unique opportunities and challenges. Understanding these different investment avenues is crucial for both maximizing returns and managing risks effectively. Among the most popular strategies are index mutual funds, index exchange-traded funds (ETFs), and algorithmic trading. Each of these options presents distinct characteristics and benefits, catering to various investor preferences and objectives.

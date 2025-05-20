@@ -1,6 +1,8 @@
 ---
-title: "Futures Contract Expiration (Algo Trading)"
-description: "Discover how futures contract expiration impacts trading strategies and algorithmic trading systems Learn to manage expiration for improved trading performance"
+category: quant_concept
+description: Discover how futures contract expiration impacts trading strategies and
+  algorithmic trading systems Learn to manage expiration for improved trading performance
+title: Futures Contract Expiration (Algo Trading)
 ---
 
 The financial markets are a dynamic ecosystem comprising various instruments and strategies, with futures contracts being one of the fundamental components. Futures contracts are standardized agreements to buy or sell an asset at a predetermined price at a specified future date. These contracts are pivotal for traders and investors seeking to hedge against price fluctuations or speculate on asset price movements.

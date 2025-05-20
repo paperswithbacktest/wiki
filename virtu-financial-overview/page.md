@@ -1,6 +1,8 @@
 ---
-title: "Virtu Financial Overview (Algo Trading)"
-description: "Explore Virtu Financial's role in algorithmic trading and market making with insights into its technological innovations and regulatory challenges."
+category: quant_concept
+description: Explore Virtu Financial's role in algorithmic trading and market making
+  with insights into its technological innovations and regulatory challenges.
+title: Virtu Financial Overview (Algo Trading)
 ---
 
 Electronic trading has become a cornerstone of modern financial markets, fundamentally transforming how transactions are executed. This mode of trading has significantly increased the speed and efficiency of transactions, allowing for near-instantaneous trades that would have been unimaginable in past decades. At the forefront of this technological shift is high-frequency trading (HFT), a method that involves the employment of complex algorithms to execute a large number of orders at extremely rapid speeds. HFT is characterized by holding positions for very short periods, often seconds or less, enabling firms to capitalize on small price discrepancies.

@@ -1,6 +1,9 @@
 ---
-title: "Risks of Early Exercise in OEX Options Trading (Algo Trading)"
-description: "Explore the risks of early exercise in OEX options trading enhance your understanding of cash settlement and manage potential liquidity challenges using algo trading."
+category: quant_concept
+description: Explore the risks of early exercise in OEX options trading enhance your
+  understanding of cash settlement and manage potential liquidity challenges using
+  algo trading.
+title: Risks of Early Exercise in OEX Options Trading (Algo Trading)
 ---
 
 Options trading represents a sophisticated and potentially rewarding component of the investing landscape, demanding a clear understanding of its mechanics and nuances. Central to this discussion are OEX options, derived from the Standard & Poor's 100 index and symbolized by OEX. These options bear a unique set of characteristics that differentiate them from other financial instruments.

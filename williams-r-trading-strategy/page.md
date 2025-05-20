@@ -1,6 +1,11 @@
 ---
-title: "Williams %R Trading Strategy Explained (Algo Trading)"
-description: Explore the effectiveness of the Williams %R indicator in algorithmic trading strategies. Discover how this momentum oscillator identifies market conditions and enhances trading performance through mean reversion tactics. Dive into a comprehensive analysis comparing Williams %R with the Relative Strength Index and understand its integration in automated trading systems for optimized decision-making.
+category: trading_strategy
+description: Explore the effectiveness of the Williams %R indicator in algorithmic
+  trading strategies. Discover how this momentum oscillator identifies market conditions
+  and enhances trading performance through mean reversion tactics. Dive into a comprehensive
+  analysis comparing Williams %R with the Relative Strength Index and understand its
+  integration in automated trading systems for optimized decision-making.
+title: Williams %R Trading Strategy Explained (Algo Trading)
 ---
 
 Williams %R is a widely used momentum indicator developed by renowned trader Larry Williams. This technical analysis tool measures the closing price of a security in relation to the highest high over a specific lookback period, oscillating between 0 and -100. The Williams %R is highly regarded among traders due to its straightforwardness and effectiveness in identifying overbought and oversold conditions in the market. A reading above -20 typically signals that a security is overbought, whereas a reading below -80 suggests that it is oversold.

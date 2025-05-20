@@ -1,6 +1,9 @@
 ---
-title: "Speed Resistance Lines: Functionality and Significance (Algo Trading)"
-description: "Explore the role of speed resistance lines in algorithmic trading to identify support and resistance levels, forecast trend changes, and optimize trade strategies."
+category: trading_strategy
+description: Explore the role of speed resistance lines in algorithmic trading to
+  identify support and resistance levels, forecast trend changes, and optimize trade
+  strategies.
+title: 'Speed Resistance Lines: Functionality and Significance (Algo Trading)'
 ---
 
 Speed resistance lines are a technical analysis tool used primarily in stock trading to identify potential support and resistance levels in a financial market's trend. These lines are significant because they help traders forecast possible trend reversals, gauge the strength of a prevailing trend, and find strategic entry and exit points. Speed resistance lines provide a visual representation that simplifies complex market movements, aiding traders in making informed decisions.

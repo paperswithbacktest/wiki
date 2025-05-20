@@ -1,6 +1,8 @@
 ---
-title: "Food Insecurity and Economic Impact (Algo Trading)"
-description: "Explore the vital relationship between food insecurity and economic performance Discover how algorithmic trading can reveal impacts and guide policy actions"
+category: quant_concept
+description: Explore the vital relationship between food insecurity and economic performance
+  Discover how algorithmic trading can reveal impacts and guide policy actions
+title: Food Insecurity and Economic Impact (Algo Trading)
 ---
 
 Food insecurity significantly impacts economies worldwide, creating a multifaceted challenge that intersects with numerous aspects of economic and social policy. At its core, food insecurity refers to a lack of consistent access to enough food for an active, healthy life, which can lead to dire economic consequences such as reduced productivity, increased healthcare costs, and hindered economic growth. This issue is critical as it not only affects vulnerable populations but also poses risks to overall economic stability and development. Reliable access to food is foundational for a productive workforce, and its absence can precipitate a cascade of economic challenges.

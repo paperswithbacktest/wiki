@@ -1,6 +1,8 @@
 ---
-title: "LEAP Options Rolling Strategy (Algo Trading)"
-description: "Explore the synergy of LEAP options and algorithmic trading for long-term investment strategies Discover how to leverage positions with capital efficiency."
+category: trading_strategy
+description: Explore the synergy of LEAP options and algorithmic trading for long-term
+  investment strategies Discover how to leverage positions with capital efficiency.
+title: LEAP Options Rolling Strategy (Algo Trading)
 ---
 
 Options trading is an integral component of the financial markets, offering astute investors a range of strategies to navigate diverse economic conditions. Among these strategies, Long-Term Equity Anticipation Securities (LEAP) options have recently gained prominence due to their potential for long-term investment returns. These options are designed as long-term contracts with expiration periods typically stretching from one to three years, thereby offering investors extended horizons for strategic positioning.

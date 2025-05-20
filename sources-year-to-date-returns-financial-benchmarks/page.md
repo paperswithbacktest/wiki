@@ -1,6 +1,8 @@
 ---
-title: "Sources for Year-To-Date Returns of Financial Benchmarks (Algo Trading)"
-description: "Explore YTD returns and financial benchmarks in algorithmic trading to assess investment performance and optimize strategies in today's dynamic markets."
+category: dataset
+description: Explore YTD returns and financial benchmarks in algorithmic trading to
+  assess investment performance and optimize strategies in today's dynamic markets.
+title: Sources for Year-To-Date Returns of Financial Benchmarks (Algo Trading)
 ---
 
 Year-To-Date (YTD) returns are a crucial metric for assessing the performance of investments. They measure the value change in an investment from the beginning of the current calendar year up to the current date. This metric allows investors to evaluate how their investments have performed within the year, offering a snapshot of growth or decline. YTD returns are vital for comparing the performance of various investments and are often used alongside financial benchmarks to determine the success of individual portfolios, funds, or institutional investments.

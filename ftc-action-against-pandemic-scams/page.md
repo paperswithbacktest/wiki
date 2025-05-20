@@ -1,6 +1,9 @@
 ---
-title: "FTC Action Against Pandemic Scams (Algo Trading)"
-description: "Explore the FTC's initiatives to counter pandemic scams and algorithmic trading frauds, safeguarding consumers against COVID-19-related deception and financial loss."
+category: quant_concept
+description: Explore the FTC's initiatives to counter pandemic scams and algorithmic
+  trading frauds, safeguarding consumers against COVID-19-related deception and financial
+  loss.
+title: FTC Action Against Pandemic Scams (Algo Trading)
 ---
 
 The COVID-19 pandemic has brought unprecedented challenges globally, impacting not only healthcare systems but also economic structures. As nations implemented lockdowns and physical interactions diminished, a significant shift towards digital platforms occurred. This shift provided fertile ground for scammers to devise sophisticated and innovative fraud schemes, ultimately leading to a notable increase in fraudulent activities across various sectors.

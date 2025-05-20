@@ -1,6 +1,8 @@
 ---
-title: "Value at Risk and Its Calculation (Algo Trading)"
-description: "Discover the significance of Value at Risk in algorithmic trading Learn how it predicts potential portfolio losses and aids in effective risk management"
+category: quant_concept
+description: Discover the significance of Value at Risk in algorithmic trading Learn
+  how it predicts potential portfolio losses and aids in effective risk management
+title: Value at Risk and Its Calculation (Algo Trading)
 ---
 
 Value at Risk (VaR) is a vital tool in risk management and algorithmic trading, offering a statistical measure to predict potential losses in a trading portfolio. As financial markets continue to evolve, managing risk has become an essential aspect of maintaining robust trading strategies. VaR serves as a primary metric that helps institutions quantify risk by estimating the maximum loss that can occur within a specified period with a predetermined confidence level. This means that VaR not only provides a snapshot of potential downside risk but also assists in setting risk tolerance levels across diverse portfolios.

@@ -1,6 +1,13 @@
 ---
-title: "Model development (Algo Trading)"
-description: Explore the essentials of algorithmic trading, a transformative method in financial markets that uses computer algorithms for swift and accurate trade execution. Learn how to develop robust trading models with a strategic blend of technology and quantitative methods, such as machine learning and data analytics, while understanding the balance of risks and benefits involved. Discover key concepts, from trading signals to model backtesting, and define your trading goals effectively for success in both short-term and long-term market strategies.
+category: trading_strategy
+description: Explore the essentials of algorithmic trading, a transformative method
+  in financial markets that uses computer algorithms for swift and accurate trade
+  execution. Learn how to develop robust trading models with a strategic blend of
+  technology and quantitative methods, such as machine learning and data analytics,
+  while understanding the balance of risks and benefits involved. Discover key concepts,
+  from trading signals to model backtesting, and define your trading goals effectively
+  for success in both short-term and long-term market strategies.
+title: Model development (Algo Trading)
 ---
 
 Algorithmic trading has become a cornerstone of the modern financial market, fundamentally transforming how trades are conducted. This innovative approach leverages computer algorithms to execute trades based on pre-defined criteria, providing a significant competitive edge in terms of speed and accuracy compared to traditional trading methods. The exponential growth in data and computational power has enabled traders to analyze market conditions and execute trades within milliseconds, capitalizing on fleeting market opportunities that would otherwise be missed by manual trading.

@@ -1,7 +1,8 @@
 ---
-title: Adaptive Computation Techniques for Efficient Machine Learning
+category: quant_concept
 description: Adaptive computation allows models to allocate processing steps based
   on input complexity, boosting efficiency and accuracy. Discover more inside.
+title: Adaptive Computation Techniques for Efficient Machine Learning
 ---
 
 ![Image](images/1.png)

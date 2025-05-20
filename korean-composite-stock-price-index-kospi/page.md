@@ -1,6 +1,8 @@
 ---
-title: "Korean Composite Stock Price Index (KOSPI) (Algo Trading)"
-description: "Explore the Korean Composite Stock Price Index (KOSPI), a crucial indicator of South Korea's economic health, and its integration with algorithmic trading strategies."
+category: dataset
+description: Explore the Korean Composite Stock Price Index (KOSPI), a crucial indicator
+  of South Korea's economic health, and its integration with algorithmic trading strategies.
+title: Korean Composite Stock Price Index (KOSPI) (Algo Trading)
 ---
 
 The Korea Composite Stock Price Index (KOSPI) stands as a central pillar in South Korea's financial market, representing the heartbeat of its stock exchange. A leading indicator of the country's economic health, KOSPI provides a comprehensive view of market trends by comprising stocks listed on the Korea Exchange (KRX). As a bellwether for South Korean equities, KOSPI's movements are closely monitored by both domestic stakeholders and international investors seeking to capitalize on the dynamism of one of Asia's most vibrant economies.

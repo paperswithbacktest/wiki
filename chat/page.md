@@ -1,7 +1,8 @@
 ---
-title: Chat Machine Learning for Natural Language Conversations
+category: quant_concept
 description: Chat machine learning helps computers grasp language patterns and generate
   natural human-like responses across diverse topics Discover more inside.
+title: Chat Machine Learning for Natural Language Conversations
 ---
 
 ![Image](images/1.png)

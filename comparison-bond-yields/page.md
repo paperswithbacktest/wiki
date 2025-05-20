@@ -1,6 +1,9 @@
 ---
-title: "Comparison of Bond Yields (Algo Trading)"
-description: "Explore how bond yields, comparison methodologies, and algorithmic trading influence investment strategies in the bond market to optimize returns and manage risks."
+category: trading_strategy
+description: Explore how bond yields, comparison methodologies, and algorithmic trading
+  influence investment strategies in the bond market to optimize returns and manage
+  risks.
+title: Comparison of Bond Yields (Algo Trading)
 ---
 
 The bond market serves as a crucial component of the global financial ecosystem, providing a mechanism through which entities such as governments and corporations can raise capital. Investors, in turn, earn returns through interest payments, commonly referred to as bond yields. These yields are pivotal, not just as indicators of potential returns, but also as reflections of economic conditions—capturing the interplay of interest rates, credit risk, and inflation expectations.

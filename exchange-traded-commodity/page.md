@@ -1,6 +1,8 @@
 ---
-title: "Exchange-Traded Commodity (Algo Trading)"
-description: "Explore the role of Exchange-Traded Commodities in investment strategies and how algorithmic trading enhances efficiency and precision for modern investors."
+category: quant_concept
+description: Explore the role of Exchange-Traded Commodities in investment strategies
+  and how algorithmic trading enhances efficiency and precision for modern investors.
+title: Exchange-Traded Commodity (Algo Trading)
 ---
 
 Financial assets represent claims to future cash flows and are a crucial component of any investment strategy. They encompass a wide range of categories, such as stocks, bonds, and commodities, each offering unique characteristics and benefits. In this context, financial assets are primarily used to generate returns, manage risks, and maintain liquidity in investment portfolios.

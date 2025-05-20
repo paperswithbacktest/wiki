@@ -1,6 +1,9 @@
 ---
-title: "Marshall Wace (Algo Trading)"
-description: "Explore Marshall Wace's influence in algorithmic trading Discover how this leading asset management firm leverages innovative strategies and technology to excel in finance"
+category: quant_concept
+description: Explore Marshall Wace's influence in algorithmic trading Discover how
+  this leading asset management firm leverages innovative strategies and technology
+  to excel in finance
+title: Marshall Wace (Algo Trading)
 ---
 
 Marshall Wace, established in 1997 by Ian Wace and Paul Marshall, has grown to become one of the leading global asset management firms. Known for its robust strategies and innovative approaches, the firm has significantly impacted the financial markets, particularly through its utilization of algorithmic trading. Algorithmic trading, which involves the use of computer programs to execute trades at high speeds and volumes, represents a transformative force in modern finance. It allows firms to capitalize on small market inefficiencies, execute complex strategies at scale, and manage risks effectively.

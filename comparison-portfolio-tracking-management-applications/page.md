@@ -1,6 +1,8 @@
 ---
-title: "Comparison of Portfolio Tracking and Management Applications (Algo Trading)"
-description: "Explore the benefits of investment management apps in optimizing your portfolio with real-time insights, advanced analytics, and risk management tools."
+category: trading_strategy
+description: Explore the benefits of investment management apps in optimizing your
+  portfolio with real-time insights, advanced analytics, and risk management tools.
+title: Comparison of Portfolio Tracking and Management Applications (Algo Trading)
 ---
 
 In today's fast-paced financial world, managing investments effectively is crucial for success. Investment management apps have revolutionized how investors track and manage their portfolios by providing accessible tools that cater to both beginners and seasoned investors. These apps offer a range of features, from basic financial tracking that helps users monitor their spending and set budgetary goals to advanced algorithmic trading that automates the buying and selling of assets based on predefined criteria.

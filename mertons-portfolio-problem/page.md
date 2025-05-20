@@ -1,6 +1,9 @@
 ---
-title: "Merton's portfolio problem (Algo Trading)"
-description: "Optimize your algorithmic trading by leveraging Merton's portfolio model to enhance quantitative strategies ensuring dynamic asset allocation and utility maximization."
+category: quant_concept
+description: Optimize your algorithmic trading by leveraging Merton's portfolio model
+  to enhance quantitative strategies ensuring dynamic asset allocation and utility
+  maximization.
+title: Merton's portfolio problem (Algo Trading)
 ---
 
 Merton's portfolio problem is a foundational model in financial economics that addresses optimal consumption and investment strategies over time. In the context of algorithmic trading, it serves as a pivotal framework used to enhance the development and execution of quantitative trading strategies. The problem, which was first articulated by Robert C. Merton, examines the decision-making process of an investor who maximizes utility from consumption and terminal wealth within a continuous-time setting.

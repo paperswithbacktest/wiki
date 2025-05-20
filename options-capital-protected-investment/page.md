@@ -1,6 +1,9 @@
 ---
-title: "Options for Capital Protected Investment (Algo Trading)"
-description: "Explore capital-protected investment strategies enhanced by algorithmic trading techniques offering insights into safeguarding investments and minimizing risks effectively."
+category: trading_strategy
+description: Explore capital-protected investment strategies enhanced by algorithmic
+  trading techniques offering insights into safeguarding investments and minimizing
+  risks effectively.
+title: Options for Capital Protected Investment (Algo Trading)
 ---
 
 Understanding the dynamic nature of investment and the inherent risks is an essential pillar for every investor. The financial markets are influenced by various factors, including economic, political, and technological changes, which constantly reshape investment landscapes and risk profiles. In this ever-evolving scenario, developing robust investment strategies that prioritize capital protection becomes indispensable.

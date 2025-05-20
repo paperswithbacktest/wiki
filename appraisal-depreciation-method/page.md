@@ -1,6 +1,8 @@
 ---
-title: "Appraisal Depreciation Method (Algo Trading)"
-description: "Discover how the appraisal depreciation method enhances algorithmic trading by accurately assessing asset value decline, optimizing trading strategies."
+category: quant_concept
+description: Discover how the appraisal depreciation method enhances algorithmic trading
+  by accurately assessing asset value decline, optimizing trading strategies.
+title: Appraisal Depreciation Method (Algo Trading)
 ---
 
 The convergence of accounting, asset depreciation, and algorithmic trading represents a pivotal advancement in modern finance. Accounting principles have long governed the valuation of assets, with depreciation playing a critical role in determining an asset's economic value over time. Depreciation, which reflects the reduction in the efficiency and value of an asset as it ages or is used, is fundamental to accurately assessing a company's financial health and investment potential.

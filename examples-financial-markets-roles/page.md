@@ -1,6 +1,8 @@
 ---
-title: "Examples of Financial Markets and Their Roles (Algo Trading)"
-description: "Explore various financial markets and their roles in the global economy including stock, bond, and commodities markets and the rise of algorithmic trading"
+category: quant_concept
+description: Explore various financial markets and their roles in the global economy
+  including stock, bond, and commodities markets and the rise of algorithmic trading
+title: Examples of Financial Markets and Their Roles (Algo Trading)
 ---
 
 Financial markets play a crucial role in the global economy by facilitating the exchange of securities, commodities, and other financial instruments. They provide a platform where buyers and sellers can interact to trade, thus enabling the efficient allocation of resources. Through these markets, capital is raised, businesses are funded, risks are managed, and the economic growth is stimulated. Moreover, financial markets provide liquidity, allowing for the smooth transfer of assets.

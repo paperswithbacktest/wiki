@@ -1,6 +1,8 @@
 ---
-title: "Bahamian Dollar: Overview and Functionality (Algo Trading)"
-description: "Discover the crucial role of the Bahamian Dollar in the Bahamas economy from its stability through a U.S. Dollar peg to its impact on tourism and finance."
+category: quant_concept
+description: Discover the crucial role of the Bahamian Dollar in the Bahamas economy
+  from its stability through a U.S. Dollar peg to its impact on tourism and finance.
+title: 'Bahamian Dollar: Overview and Functionality (Algo Trading)'
 ---
 
 The Bahamas, an archipelagic state consisting of about 700 islands, is renowned for its breathtaking landscapes and vibrant culture. As an independent nation, it employs the Bahamian Dollar (BSD) as the official currency, a crucial component of its economic infrastructure. The Bahamian Dollar is pegged at a 1:1 ratio to the U.S. Dollar, ensuring stability in foreign exchange and fostering economic confidence. This peg simplifies trade and tourism transactions, which is essential given the Bahamas' reliance on these sectors.

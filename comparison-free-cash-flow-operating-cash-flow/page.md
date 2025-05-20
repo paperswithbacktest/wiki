@@ -1,6 +1,8 @@
 ---
-title: "Comparison of Free Cash Flow and Operating Cash Flow (Algo Trading)"
-description: "Explore the key differences between Free Cash Flow and Operating Cash Flow in financial analysis and discover how they impact algorithmic trading strategies."
+category: quant_concept
+description: Explore the key differences between Free Cash Flow and Operating Cash
+  Flow in financial analysis and discover how they impact algorithmic trading strategies.
+title: Comparison of Free Cash Flow and Operating Cash Flow (Algo Trading)
 ---
 
 The financial world is vastly intricate, characterized by an elaborate interplay of various financial metrics that are essential for comprehensive analysis. Among these metrics, operating cash flow (OCF) and free cash flow (FCF) stand out as pivotal measures that form the backbone of financial analysis. These metrics are not only fundamental in assessing a company's financial health but also in discerning its operational efficiency, liquidity, and potential for growth.

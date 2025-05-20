@@ -1,6 +1,14 @@
 ---
-title: "Bollinger Band Squeeze Strategy Explained (Algo Trading)"
-description: Discover the intriguing Bollinger Band Squeeze strategy used in algorithmic trading to capitalize on low volatility markets. Learn how traders leverage Bollinger Bands, a concept developed by John Bollinger, to predict impending market breakouts and align their trades with potential new trends. This insightful article details the mechanics and application of the Bollinger Band Squeeze, offering strategic techniques for enhancing market analysis and improving trading outcomes. Explore the integration of additional technical indicators to boost reliability and profit potential.
+category: trading_strategy
+description: Discover the intriguing Bollinger Band Squeeze strategy used in algorithmic
+  trading to capitalize on low volatility markets. Learn how traders leverage Bollinger
+  Bands, a concept developed by John Bollinger, to predict impending market breakouts
+  and align their trades with potential new trends. This insightful article details
+  the mechanics and application of the Bollinger Band Squeeze, offering strategic
+  techniques for enhancing market analysis and improving trading outcomes. Explore
+  the integration of additional technical indicators to boost reliability and profit
+  potential.
+title: Bollinger Band Squeeze Strategy Explained (Algo Trading)
 ---
 
 Algorithmic trading has seen significant advancements with the incorporation of various analytical tools and indicators that enhance market analysis and trading strategies. Among these, the Bollinger Band Squeeze has gained prominence as an effective tool for evaluating market volatility. Developed by John Bollinger, Bollinger Bands help traders understand and act upon periods of low volatility, typically signaling impending market breakouts. These breakouts can indicate the onset of new market trends, whether bullish or bearish.

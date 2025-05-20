@@ -1,7 +1,8 @@
 ---
-title: Optimizing Tensor Sizes for Efficient Machine Learning
+category: quant_concept
 description: Tensor sizes shape model performance memory and accuracy Adjusting tensor
   dimensions helps balance speed resource use and overfitting Discover more inside
+title: Optimizing Tensor Sizes for Efficient Machine Learning
 ---
 
 ![Image](images/1.jpeg)

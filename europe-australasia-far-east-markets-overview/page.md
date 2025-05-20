@@ -1,6 +1,9 @@
 ---
-title: "Europe, Australasia, and Far East Markets Overview (Algo Trading)"
-description: "Explore the dynamic interplay between algorithmic trading and EAFE markets. Discover how advanced technologies fuel trading efficiencies across diverse global economies."
+category: quant_concept
+description: Explore the dynamic interplay between algorithmic trading and EAFE markets.
+  Discover how advanced technologies fuel trading efficiencies across diverse global
+  economies.
+title: Europe, Australasia, and Far East Markets Overview (Algo Trading)
 ---
 
 Algorithmic trading has significantly transformed the financial markets by utilizing complex algorithms to perform trades at remarkable speeds. This form of trading leverages technology to analyze market data efficiently and execute transactions with precision, thus surpassing traditional trading methods that typically rely on manual processes. The advent of algorithmic trading has led to increased liquidity, reduced transaction costs, and heightened market efficiency.

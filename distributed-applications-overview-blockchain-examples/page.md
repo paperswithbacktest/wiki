@@ -1,6 +1,9 @@
 ---
-title: "Distributed Applications: Overview and Blockchain Examples (Algo Trading)"
-description: "Explore the potential of Distributed Applications (DApps) in blockchain and algorithmic trading to enhance security, transparency, and user autonomy across industries."
+category: quant_concept
+description: Explore the potential of Distributed Applications (DApps) in blockchain
+  and algorithmic trading to enhance security, transparency, and user autonomy across
+  industries.
+title: 'Distributed Applications: Overview and Blockchain Examples (Algo Trading)'
 ---
 
 Distributed Applications, or DApps, represent a transformative approach to software development and deployment, shifting away from the traditional architecture reliance on a centralized server. Instead, DApps distribute functionality across multiple systems, utilizing the decentralized nature of blockchain technology. This paradigm shift not only redefines software infrastructure but also enhances aspects of user interaction, security, and data integrity.

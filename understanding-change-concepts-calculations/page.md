@@ -1,6 +1,8 @@
 ---
-title: "Understanding Change: Concepts and Calculations (Algo Trading)"
-description: "Explore algorithmic trading with a focus on change calculations vital for strategic decision-making. Learn how traders use these metrics for market success."
+category: quant_concept
+description: Explore algorithmic trading with a focus on change calculations vital
+  for strategic decision-making. Learn how traders use these metrics for market success.
+title: 'Understanding Change: Concepts and Calculations (Algo Trading)'
 ---
 
 Algorithmic trading, often referred to as algo trading, has transformed trading by employing sophisticated mathematical models to execute transactions. This method leverages computer algorithms to analyze market data at speeds and volumes that are impossible for human traders. Central to these models is the calculation of change, a metric crucial for assessing price fluctuations and making data-driven trading decisions.
@@ -127,4 +129,3 @@ David Aronson’s "Evidence-Based Technical Analysis" offers a methodological ap
 Another useful resource is Ernest P. Chan’s "Quantitative Trading: How to Build Your Own Algorithmic Trading Business". This book serves as a practical guide for traders interested in developing their own algorithmic trading systems. Chan covers a range of topics from strategy development to risk management, offering insights into how quantitative analysis can be applied to create profitable trading strategies.
 
 These resources provide comprehensive information on various aspects of algorithmic and [quantitative trading](/wiki/quantitative-trading), offering both theoretical knowledge and practical guidance for traders at different levels of experience.
-

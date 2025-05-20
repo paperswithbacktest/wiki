@@ -1,6 +1,9 @@
 ---
-title: "Operating Cash Flow Demand (Algo Trading)"
-description: "Explore the relationship between operating cash flow demand finance cash flow demand and algorithmic trading. Learn how firms balance operations liquidity and growth."
+category: quant_concept
+description: Explore the relationship between operating cash flow demand finance cash
+  flow demand and algorithmic trading. Learn how firms balance operations liquidity
+  and growth.
+title: Operating Cash Flow Demand (Algo Trading)
 ---
 
 This article explores the complex relationship between operating cash flow (OCF), finance cash flow demand, and algorithmic trading. Operating cash flow is a critical measure of the cash generated from a company's core business operations, excluding any revenue from other sources like investments or other external activities. Understanding OCF is essential for both individual investors and corporations as it provides insight into the company's ability to sustain its business operations and fund future development projects.

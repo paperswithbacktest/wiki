@@ -1,6 +1,8 @@
 ---
-title: "Market Jitters: Overview and Psychological Impact (Algo Trading)"
-description: "Explore the psychological impact of market jitters on investor behavior and how algo trading offers strategies to manage financial anxiety and market dynamics."
+category: quant_concept
+description: Explore the psychological impact of market jitters on investor behavior
+  and how algo trading offers strategies to manage financial anxiety and market dynamics.
+title: 'Market Jitters: Overview and Psychological Impact (Algo Trading)'
 ---
 
 In today's volatile economic climate, the lexicon of finance increasingly includes terms like 'financial anxiety,' 'market psychology,' and 'market jitters.' These concepts have become integral to understanding the forces that shape investor behavior and market dynamics. As market conditions fluctuate, these psychological and emotional factors can significantly impact both individual and institutional investment decisions.

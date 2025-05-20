@@ -1,6 +1,9 @@
 ---
-title: "Natural Language Processing (NLP) for Markets (Algo Trading)"
-description: "Explore how Natural Language Processing transforms trading by turning textual data into predictive financial insights thereby enhancing strategic market decisions."
+category: quant_concept
+description: Explore how Natural Language Processing transforms trading by turning
+  textual data into predictive financial insights thereby enhancing strategic market
+  decisions.
+title: Natural Language Processing (NLP) for Markets (Algo Trading)
 ---
 
 Natural Language Processing (NLP), a subfield of artificial intelligence, focuses on the interaction between computers and humans through natural language. Over the years, NLP has gained prominence as a cornerstone in numerous applications due to its capability to enable machines to understand, interpret, and generate human language. One particular domain where NLP has become essential is in extracting value from textual data, especially in the fast-paced world of trading. 
@@ -232,4 +235,3 @@ In summary, NLP has substantially transformed trading techniques, paving the way
 [2] Russell, S., Dewey, D., & Tegmark, M. (2015). Research Priorities for Robust and Beneficial Artificial Intelligence: This research paper outlines the critical priorities for developing AI systems that are robust and beneficial. Its insights into AI's foundational principles are applicable to NLP technologies employed in trading, where reliable and efficient AI models are necessary for predicting financial trends and making informed decisions.
 
 [3] Devlin, J., Chang, M. W., Lee, K., & Toutanova, K. (2018). BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding: This paper presents BERT, an innovative approach to language model pre-training that has considerably advanced NLP capabilities. BERT's developments allow for a deeper understanding of context and nuance in natural language, which can be used to enhance sentiment analysis and predictive modeling in trading environments.
-

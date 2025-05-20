@@ -1,6 +1,8 @@
 ---
-title: "Gross Expense Ratio (Algo Trading)"
-description: "Explore the dynamics of gross expense ratios in investment funds and how algorithmic trading optimizes costs for enhanced returns and efficiency."
+category: quant_concept
+description: Explore the dynamics of gross expense ratios in investment funds and
+  how algorithmic trading optimizes costs for enhanced returns and efficiency.
+title: Gross Expense Ratio (Algo Trading)
 ---
 
 Understanding the intricate dynamics of financial metrics is crucial for profitability in investments. These metrics are fundamental in evaluating the performance and cost-efficiency of investment funds. This article emphasizes the financial metrics associated with investment funds, with a particular emphasis on the expense ratio and its interplay with algorithmic trading.
@@ -176,4 +178,3 @@ In conclusion, the key to successful investment lies in balancing cost managemen
    - Khan Academy provides free content on "Investing and Financial Markets" that covers the basics of mutual funds, ETFs, and an introduction to algorithmic trading principles.
 
 These resources form a foundational toolkit for understanding investment funds, expense ratios, and the role of algorithmic trading, allowing investors to make informed decisions for optimizing returns.
-

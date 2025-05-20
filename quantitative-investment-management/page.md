@@ -1,6 +1,8 @@
 ---
-title: "Quantitative Investment Management (Algo Trading)"
-description: "Explore quantitative investment management and algorithmic trading which leverage mathematical models and technology to optimize financial market strategies."
+category: quant_concept
+description: Explore quantitative investment management and algorithmic trading which
+  leverage mathematical models and technology to optimize financial market strategies.
+title: Quantitative Investment Management (Algo Trading)
 ---
 
 Quantitative investment management and algorithmic trading have revolutionized the landscape of financial markets by leveraging mathematical models, statistical analysis, and computational power to drive investment decisions and automate trading processes. Quantitative investment management refers to the use of quantitative models to analyze and manage investment portfolios. These models employ statistical and mathematical techniques to identify market patterns, optimize asset allocation, and enhance returns. Algorithmic trading, or algo trading, involves the use of computer algorithms to execute trades based on predefined criteria, enabling rapid and efficient transaction processing without human intervention.

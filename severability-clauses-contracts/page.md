@@ -1,6 +1,9 @@
 ---
-title: "Severability Clauses in Contracts (Algo Trading)"
-description: "Explore the importance of severability clauses in algorithmic trading contracts ensuring stability by maintaining enforceability when specific terms are invalidated."
+category: quant_concept
+description: Explore the importance of severability clauses in algorithmic trading
+  contracts ensuring stability by maintaining enforceability when specific terms are
+  invalidated.
+title: Severability Clauses in Contracts (Algo Trading)
 ---
 
 The concept of severability in contract law is crucial for maintaining the integrity and enforceability of legal agreements. Severability clauses, known as savings clauses, are integral for ensuring that the remainder of a contract remains effective even when a specific provision is found to be invalid or unenforceable. This mechanism prevents the invalidation of an entire contract due to an issue with one of its parts, thereby providing stability and predictability in contractual relations.

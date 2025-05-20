@@ -1,9 +1,11 @@
 ---
-title: "Hedge fund trading strategies"
-description: Discover core hedge fund trading strategies, including Long/Short Equity, Market Neutral, and Convertible Arbitrage. Learn how these sophisticated approaches aim to generate high returns by leveraging various methods and financial instruments. Understand each strategy's unique approach, risk profile, and market dependency.
+category: trading_strategy
+description: Discover core hedge fund trading strategies, including Long/Short Equity,
+  Market Neutral, and Convertible Arbitrage. Learn how these sophisticated approaches
+  aim to generate high returns by leveraging various methods and financial instruments.
+  Understand each strategy's unique approach, risk profile, and market dependency.
+title: Hedge fund trading strategies
 ---
-
-
 
 Hedge funds are investment funds that pool capital from accredited individuals or institutional investors to invest in a variety of assets, often with complex portfolio-construction and risk-management techniques. Unlike traditional investment funds, hedge funds are characterized by their flexibility to employ a wide range of strategies to earn active returns, or alpha, for their investors. These funds are typically managed by professional investment management firms and are less regulated than mutual funds and other traditional investment vehicles.
 

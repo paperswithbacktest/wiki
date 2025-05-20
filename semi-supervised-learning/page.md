@@ -1,7 +1,8 @@
 ---
-title: Maximizing Data Efficiency With Semi-Supervised Learning
+category: quant_concept
 description: Semi-Supervised Learning boosts model accuracy by using labeled and unlabeled
   data to uncover patterns and improve predictions Discover more inside
+title: Maximizing Data Efficiency With Semi-Supervised Learning
 ---
 
 ![Image](images/1.jpeg)

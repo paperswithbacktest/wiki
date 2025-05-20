@@ -1,6 +1,9 @@
 ---
-title: "Factors Influencing Weighted Average Cost of Capital (Algo Trading)"
-description: "Explore the factors influencing Weighted Average Cost of Capital WACC and its impact on algorithmic trading strategies interest rates and capital structure decisions"
+category: quant_concept
+description: Explore the factors influencing Weighted Average Cost of Capital WACC
+  and its impact on algorithmic trading strategies interest rates and capital structure
+  decisions
+title: Factors Influencing Weighted Average Cost of Capital (Algo Trading)
 ---
 
 The Weighted Average Cost of Capital (WACC) is a fundamental concept in finance that represents the average rate a company is expected to pay to finance its assets. It is weighted according to the proportion of debt and equity in the company's capital structure. The WACC formula is given by: 

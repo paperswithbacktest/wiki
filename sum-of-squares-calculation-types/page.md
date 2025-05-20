@@ -1,6 +1,9 @@
 ---
-title: "Sum of Squares: Calculation and Types (Algo Trading)"
-description: "Explore the fundamental concepts of squares and their applications in algorithmic trading to enhance market strategies by understanding data variability and risk assessment."
+category: quant_concept
+description: Explore the fundamental concepts of squares and their applications in
+  algorithmic trading to enhance market strategies by understanding data variability
+  and risk assessment.
+title: 'Sum of Squares: Calculation and Types (Algo Trading)'
 ---
 
 The calculation of squares, the various types of squares, and the summation of squares are core concepts integral to the fields of mathematics and statistics. These concepts play a significant role in data analysis, allowing for a deeper understanding of data dispersion and variability. Data points, when represented as squares of their values, offer insight into fundamental statistical measures such as variance and standard deviation, which are critical in analyzing the spread of data.

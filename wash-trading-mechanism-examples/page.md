@@ -1,6 +1,8 @@
 ---
-title: "Wash Trading: Mechanism and Examples (Algo Trading)"
-description: "Explore the deceptive practice of wash trading in financial markets including its mechanisms impact on market integrity and strategies to detect and prevent it."
+category: quant_concept
+description: Explore the deceptive practice of wash trading in financial markets including
+  its mechanisms impact on market integrity and strategies to detect and prevent it.
+title: 'Wash Trading: Mechanism and Examples (Algo Trading)'
 ---
 
 Wash trading represents a significant form of market manipulation, where an investor simultaneously executes buy and sell transactions of the same financial instrument. This is done to create an illusion of market activity that can mislead other investors. The practice is particularly prevalent in environments involving high-frequency trading and digital currencies, notably cryptocurrencies, where market oversight and regulation may be less stringent compared to traditional financial markets. 

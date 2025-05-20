@@ -1,10 +1,9 @@
 ---
-title: Understanding Pre-Trained Models for Efficient Machine Learning
+category: quant_concept
 description: Pre-trained models accelerate machine learning by reusing existing data
   to cut training time and resources and simplify fine-tuning. Discover more inside.
+title: Understanding Pre-Trained Models for Efficient Machine Learning
 ---
-
-
 
 ## Table of Contents
 

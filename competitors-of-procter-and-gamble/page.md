@@ -1,6 +1,8 @@
 ---
-title: "Competitors of Procter & Gamble (Algo Trading)"
-description: "Explore how consumer goods competitors of Procter & Gamble use algorithmic trading strategies to enhance trade efficiency and maintain a competitive edge."
+category: dataset
+description: Explore how consumer goods competitors of Procter & Gamble use algorithmic
+  trading strategies to enhance trade efficiency and maintain a competitive edge.
+title: Competitors of Procter & Gamble (Algo Trading)
 ---
 
 Procter & Gamble (P&G) stands as a titan in the consumer goods industry, known for its diverse portfolio of products and global market reach. Founded in 1837, P&G has grown into a conglomerate that offers a wide array of brands spanning health care, beauty, grooming, household care, and baby and family care. Notable brands under the P&G umbrella include Tide, Pampers, Gillette, and Pantene, which have become staples in households worldwide. The company's strong branding strategy and continuous innovation have solidified its significance, contributing to its leading market position and competitive edge.

@@ -1,6 +1,9 @@
 ---
-title: "Index Hugger (Algo Trading)"
-description: "Explore SEO's vital role in enhancing digital presence through strategies like keyword research and technical audits along with insights from algorithmic trading."
+category: trading_strategy
+description: Explore SEO's vital role in enhancing digital presence through strategies
+  like keyword research and technical audits along with insights from algorithmic
+  trading.
+title: Index Hugger (Algo Trading)
 ---
 
 The importance of SEO in today’s digital landscape cannot be overstated. With businesses vying for online visibility, SEO practices become essential for enhancing site reach. As a multifaceted discipline, SEO (Search Engine Optimization) involves various strategies and techniques designed to improve a website's visibility on search engines such as Google and Bing. SEO is not just about ranking high in search results; it is about creating an efficient, user-friendly experience that appeals to search engine algorithms and users alike.

@@ -1,6 +1,9 @@
 ---
-title: "Proof of Work in Blockchain (Algo Trading)"
-description: "Explore how Proof of Work in blockchain enhances algorithmic trading by boosting security and transparency with blockchain's immutable ledger for reliable data analysis."
+category: quant_concept
+description: Explore how Proof of Work in blockchain enhances algorithmic trading
+  by boosting security and transparency with blockchain's immutable ledger for reliable
+  data analysis.
+title: Proof of Work in Blockchain (Algo Trading)
 ---
 
 Blockchain technology has brought significant transformations across various sectors by introducing a decentralized approach to handling data and transactions. This decentralized architecture eliminates the need for intermediaries, thereby enhancing security and transparency. One of the critical components of this technology is the Proof of Work (PoW) consensus algorithm, which ensures that transactions are securely validated within the blockchain network. PoW is integral to blockchain's functioning, particularly in validating and adding new blocks to the chain, thereby maintaining system integrity.

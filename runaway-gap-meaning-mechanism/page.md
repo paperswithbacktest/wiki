@@ -1,6 +1,8 @@
 ---
-title: "Runaway Gap: Meaning and Mechanism (Algo Trading)"
-description: "Explore the mechanisms and significance of runaway gaps in algorithmic trading. Learn how these gaps influence market trends and enhance trading strategies."
+category: trading_strategy
+description: Explore the mechanisms and significance of runaway gaps in algorithmic
+  trading. Learn how these gaps influence market trends and enhance trading strategies.
+title: 'Runaway Gap: Meaning and Mechanism (Algo Trading)'
 ---
 
 Stock market trading is a crucial component of the global economy, enabling the exchange of securities and providing a platform for wealth accumulation for both individuals and institutions. A significant aspect of successful trading lies in understanding and utilizing trading patterns, which serve as predictive tools for stock movements. Trading patterns are configurations formed by the price movements of stocks and can offer insights into future price directions based on historical trends. These patterns, identified through technical analysis, include formations such as head and shoulders, flags, and pennants.

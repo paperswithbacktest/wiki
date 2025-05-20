@@ -1,6 +1,8 @@
 ---
-title: "Gross Margin Return on Investment (Algo Trading)"
-description: "Discover how GMROI evaluates inventory efficiency to optimize profitability in algorithmic trading Gain insights to inform entrepreneurial and investment strategies"
+category: quant_concept
+description: Discover how GMROI evaluates inventory efficiency to optimize profitability
+  in algorithmic trading Gain insights to inform entrepreneurial and investment strategies
+title: Gross Margin Return on Investment (Algo Trading)
 ---
 
 Understanding the dynamics of business profitability and inventory efficiency is crucial for any entrepreneur or investor. A core financial metric that serves as a gauge in this context is the Gross Margin Return on Investment (GMROI). GMROI measures how effectively a company can convert its inventory investments into cash and profits. This efficiency not only impacts the financial health of the organization but also influences gaining a competitive edge in the marketplace. The formula for GMROI is:

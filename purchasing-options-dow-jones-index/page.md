@@ -1,6 +1,8 @@
 ---
-title: "Purchasing Options on the Dow Jones Index (Algo Trading)"
-description: "Explore trading options on the Dow Jones Index using algorithmic strategies to optimize investments manage risks and gain deeper market insights."
+category: trading_strategy
+description: Explore trading options on the Dow Jones Index using algorithmic strategies
+  to optimize investments manage risks and gain deeper market insights.
+title: Purchasing Options on the Dow Jones Index (Algo Trading)
 ---
 
 The stock market represents a key component of the financial ecosystem, enabling individuals and institutions to buy and sell shares of companies. A subset of this market, known as options trading, offers unique tools for investors aiming to enhance their portfolios, particularly within established indices like the Dow Jones Industrial Average (DJIA). The DJIA, comprising 30 prominent U.S. companies, is not only a reflection of the economic health of these businesses but also serves as a benchmark for broader economic performance.

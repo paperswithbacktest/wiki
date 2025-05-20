@@ -1,6 +1,8 @@
 ---
-title: "U-6 Unemployment Rate: Overview, Factors, and Examples (Algo Trading)"
-description: "Explore the depth of the U-6 unemployment rate and its role in economic policies and algorithmic trading for a nuanced understanding of the labor market."
+category: quant_concept
+description: Explore the depth of the U-6 unemployment rate and its role in economic
+  policies and algorithmic trading for a nuanced understanding of the labor market.
+title: 'U-6 Unemployment Rate: Overview, Factors, and Examples (Algo Trading)'
 ---
 
 Understanding employment metrics is crucial for economists, policymakers, and traders as these indicators provide essential insights into the economic health of a nation. In the United States, various measures are employed to gauge employment conditions, with the U-6 unemployment rate emerging as one of the most comprehensive and telling statistics. This particular rate goes beyond the standard measures, offering a detailed perspective on the labor market by including not just the unemployed, but also the underemployed and those marginally attached to the workforce.

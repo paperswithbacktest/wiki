@@ -1,6 +1,8 @@
 ---
-title: "Disposition in Investing (Algo Trading)"
-description: "Unlock the secrets of modern investing with insights into financial strategies, investment disposition, and algorithmic trading to boost your portfolio."
+category: quant_concept
+description: Unlock the secrets of modern investing with insights into financial strategies,
+  investment disposition, and algorithmic trading to boost your portfolio.
+title: Disposition in Investing (Algo Trading)
 ---
 
 In today's fast-paced financial world, understanding different investment strategies is crucial for success. This article explores the fundamentals of financial strategies, investment disposition, investing basics, and algorithmic trading—key elements that form the framework of the modern financial landscape. Whether you are a novice investor or a seasoned trader, mastering these concepts can significantly enhance your investment portfolio. By grasping the fundamental principles, investors lay the groundwork for informed decision-making. From there, they can utilize more sophisticated methods, such as algorithmic trading, to optimize their strategies.

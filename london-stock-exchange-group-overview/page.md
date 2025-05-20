@@ -1,6 +1,8 @@
 ---
-title: "London Stock Exchange Group Overview (Algo Trading)"
-description: "Explore LSEG's impact on financial markets with cutting-edge algorithmic trading. Discover how innovative tech enhances market efficiency and trading strategies."
+category: quant_concept
+description: Explore LSEG's impact on financial markets with cutting-edge algorithmic
+  trading. Discover how innovative tech enhances market efficiency and trading strategies.
+title: London Stock Exchange Group Overview (Algo Trading)
 ---
 
 The London Stock Exchange Group (LSEG) is a prominent entity in the global financial markets, providing a wide array of services and products that cater to the needs of traders and investors worldwide. Since its establishment in 1801, LSEG has transformed into a leading trading platform, distinguished by its innovative solutions such as algorithmic trading. This method of trading has revolutionized modern financial markets by enabling faster and more efficient trading processes. Algorithmic trading utilizes complex algorithms to execute trades at speeds and frequencies beyond human capability, thereby optimizing trading efficiency and precision.

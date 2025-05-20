@@ -1,6 +1,14 @@
 ---
-title: "Arbitrage Opportunities in Precious Metals Like Gold (Algo Trading)"
-description: "Explore arbitrage opportunities in the global precious metals market, focusing on gold, where high liquidity and trading volumes present low-risk profit possibilities. Discover how algorithmic trading enhances the efficiency of arbitrage strategies by enabling rapid, automated transactions to capitalize on brief price discrepancies across markets. Learn about various arbitrage tactics, such as market location, cash and carry, and cross-asset class arbitrage, and gain insights into essential considerations like transaction costs and market volatility in precious metals trading."
+category: trading_strategy
+description: Explore arbitrage opportunities in the global precious metals market,
+  focusing on gold, where high liquidity and trading volumes present low-risk profit
+  possibilities. Discover how algorithmic trading enhances the efficiency of arbitrage
+  strategies by enabling rapid, automated transactions to capitalize on brief price
+  discrepancies across markets. Learn about various arbitrage tactics, such as market
+  location, cash and carry, and cross-asset class arbitrage, and gain insights into
+  essential considerations like transaction costs and market volatility in precious
+  metals trading.
+title: Arbitrage Opportunities in Precious Metals Like Gold (Algo Trading)
 ---
 
 Arbitrage is a fundamental concept in finance, enabling traders to exploit price differences across various markets for low-risk profits. This strategy is particularly effective in markets featuring high liquidity and trading volumes, characteristics that define the global precious metals market, with gold as a prime example. The inherent liquidity of gold and its significant trading volume across global exchanges provide ample arbitrage opportunities.

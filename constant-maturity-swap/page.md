@@ -1,6 +1,8 @@
 ---
-title: "Constant Maturity Swap (Algo Trading)"
-description: "Explore the pivotal role of Constant Maturity Swaps in modern finance as they help manage interest rate exposure with unique features and strategic flexibility."
+category: quant_concept
+description: Explore the pivotal role of Constant Maturity Swaps in modern finance
+  as they help manage interest rate exposure with unique features and strategic flexibility.
+title: Constant Maturity Swap (Algo Trading)
 ---
 
 Interest rate derivatives play a pivotal role in modern financial markets by allowing participants to manage exposure to fluctuations in interest rates, speculate on rate changes, and enhance yield. These derivatives are financial instruments that derive their value from an underlying interest rate, often facilitating sophisticated risk management and investment strategies. Among the range of interest rate derivatives, Constant Maturity Swaps (CMS) have gained prominence for their unique features and applications.

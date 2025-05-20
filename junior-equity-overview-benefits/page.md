@@ -1,6 +1,8 @@
 ---
-title: "Junior Equity: Overview and Benefits (Algo Trading)"
-description: "Discover the potential of junior equity investments and how algorithmic trading enhances returns through data-driven insights and informed decisions."
+category: trading_strategy
+description: Discover the potential of junior equity investments and how algorithmic
+  trading enhances returns through data-driven insights and informed decisions.
+title: 'Junior Equity: Overview and Benefits (Algo Trading)'
 ---
 
 Junior equity investments are an essential component of the financial markets, characterized by their potential to deliver substantial financial advantages. Junior equity refers to ownership interests in a company that rank below other equity forms, such as preferred shares, in the event of liquidation. These investments hold significant appeal due to their capacity for higher returns, which arise from the company's growth prospects and earnings potential. Such growth is a key motivator for investors seeking to enhance their portfolios and achieve long-term financial goals.

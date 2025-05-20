@@ -1,6 +1,10 @@
 ---
-title: "Foreign Exchange Reserves and Their Purpose (Algo Trading)"
-description: "Explore the intricate role of foreign exchange reserves in global economic stability and how algorithmic trading reshapes the forex market landscape. Understand the impact of geopolitical tensions and technological advancements on currency markets and the importance of strategic reserve management amidst evolving financial dynamics."
+category: quant_concept
+description: Explore the intricate role of foreign exchange reserves in global economic
+  stability and how algorithmic trading reshapes the forex market landscape. Understand
+  the impact of geopolitical tensions and technological advancements on currency markets
+  and the importance of strategic reserve management amidst evolving financial dynamics.
+title: Foreign Exchange Reserves and Their Purpose (Algo Trading)
 ---
 
 The global economy is a complex and interconnected system that hinges on several foundational elements, particularly economic stability, foreign exchange reserves, and currency reserves. These components function as the keystones of international financial stability, fostering trust and facilitating smooth economic interactions between nations. In recent years, the dynamics governing these elements have experienced significant shifts, largely due to evolving geopolitical contexts, technological advancements in financial systems, and the increased prevalence of algorithmic trading.

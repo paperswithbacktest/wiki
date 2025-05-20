@@ -1,6 +1,8 @@
 ---
-title: "Simulating Stock Prices Using Excel (Algo Trading)"
-description: "Explore the use of Excel for simulating stock prices and developing algorithmic trading strategies. Learn how financial modeling enhances decision-making."
+category: quant_concept
+description: Explore the use of Excel for simulating stock prices and developing algorithmic
+  trading strategies. Learn how financial modeling enhances decision-making.
+title: Simulating Stock Prices Using Excel (Algo Trading)
 ---
 
 In today's rapidly evolving financial markets, the capability to model and simulate stock prices has become a fundamental skill for traders and investors. The financial landscape is marked by its dynamic nature, characterized by constant fluctuations in stock prices driven by various factors including economic indicators, geopolitical events, and market sentiment. To navigate this complex environment, both beginners and experienced traders have turned to financial modeling and stock simulations—tools that provide a structured approach to understanding and predicting market movements.

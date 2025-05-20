@@ -1,6 +1,8 @@
 ---
-title: "Leading Mid-Cap Healthcare Companies (Algo Trading)"
-description: "Explore the distinctive role of mid-cap healthcare companies in innovation and investment, and how algorithmic trading boosts investment strategies."
+category: trading_strategy
+description: Explore the distinctive role of mid-cap healthcare companies in innovation
+  and investment, and how algorithmic trading boosts investment strategies.
+title: Leading Mid-Cap Healthcare Companies (Algo Trading)
 ---
 
 The healthcare industry functions as a constantly evolving ecosystem, adapting to the latest advancements in medical science and technology. Within this dynamic landscape, mid-cap companies occupy a distinctive position, offering valuable investment opportunities. These firms, characterized by market capitalizations between $2 billion and $10 billion, often act as the backbone of healthcare innovation, driving forward novel solutions and services that address pressing medical needs.

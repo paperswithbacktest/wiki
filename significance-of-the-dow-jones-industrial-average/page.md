@@ -1,6 +1,8 @@
 ---
-title: "Significance of the Dow Jones Industrial Average (Algo Trading)"
-description: "Explore the impact of algorithmic trading on the Dow Jones. Understand how algo trading influences stock market dynamics and investment strategies."
+category: quant_concept
+description: Explore the impact of algorithmic trading on the Dow Jones. Understand
+  how algo trading influences stock market dynamics and investment strategies.
+title: Significance of the Dow Jones Industrial Average (Algo Trading)
 ---
 
 In today's fast-paced financial world, the Dow Jones Industrial Average (DJIA) serves as a benchmark for the stock market's overall performance. Established in 1896 by Charles Dow, the DJIA is one of the most recognized and oldest stock market indices. It comprises 30 significant publicly-owned companies, chosen to reflect the American economy's industrial backbone. This index operates as a crucial indicator that investors, analysts, and economists utilize to assess prevailing market trends and economic health in the United States.

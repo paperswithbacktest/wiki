@@ -1,6 +1,12 @@
 ---
-title: "Wildcatting: Meaning and Mechanisms (Algo Trading)"
-description: "Explore the dynamic intersection of traditional wildcatting and cutting-edge algorithmic trading in the energy sector. Discover how exploratory drilling in unproven areas remains pivotal for finding new oil fields and the role of technology in optimizing market strategies. Understand the essential balance between traditional methods and modern technology to navigate the complexities of today's energy landscape for enhanced market efficiency and strategic decision-making."
+category: quant_concept
+description: Explore the dynamic intersection of traditional wildcatting and cutting-edge
+  algorithmic trading in the energy sector. Discover how exploratory drilling in unproven
+  areas remains pivotal for finding new oil fields and the role of technology in optimizing
+  market strategies. Understand the essential balance between traditional methods
+  and modern technology to navigate the complexities of today's energy landscape for
+  enhanced market efficiency and strategic decision-making.
+title: 'Wildcatting: Meaning and Mechanisms (Algo Trading)'
 ---
 
 In the ever-evolving world of energy procurement, drilling techniques and oil exploration play a crucial role. The quest to discover new reserves continues to be driven by innovative practices and technological advancements. Wildcatting, a historical and adventurous practice in the oil industry, remains a cornerstone in the pursuit of new oil fields. This approach involves exploratory drilling in unproven areas, a testament to the industry's resilience and ambition.

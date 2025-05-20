@@ -1,6 +1,8 @@
 ---
-title: "Profit Margin Calculation (Algo Trading)"
-description: "Optimize your algorithmic trading strategy by understanding profit margins These essential financial ratios enhance decision-making and maximize profitability"
+category: quant_concept
+description: Optimize your algorithmic trading strategy by understanding profit margins
+  These essential financial ratios enhance decision-making and maximize profitability
+title: Profit Margin Calculation (Algo Trading)
 ---
 
 Algorithmic trading, known for its ability to conduct rapid, complex trades, is reshaping how financial markets operate by utilizing sophisticated technology. This trading method employs algorithms to analyze market variables, execute trades, and manage portfolios with unparalleled speed and accuracy. Central to the success of these strategies is the comprehension and application of financial metrics. Among these, the understanding of profit margins is paramount.

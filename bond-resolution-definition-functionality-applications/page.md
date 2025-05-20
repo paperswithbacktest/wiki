@@ -1,6 +1,8 @@
 ---
-title: "Bond Resolution: Definition, Functionality, and Applications (Algo Trading)"
-description: "Discover the intricacies of bond resolution and issuance in the financial markets, along with how algorithmic trading enhances efficiency and investment strategies."
+category: quant_concept
+description: Discover the intricacies of bond resolution and issuance in the financial
+  markets, along with how algorithmic trading enhances efficiency and investment strategies.
+title: 'Bond Resolution: Definition, Functionality, and Applications (Algo Trading)'
 ---
 
 In the complex world of finance, understanding the intricacies of financial instruments, bond resolution, bond issuance, and algorithmic trading becomes crucial for investors and finance professionals alike. These components are pivotal in shaping modern financial markets, influencing decisions, risk assessments, and investment strategies. 

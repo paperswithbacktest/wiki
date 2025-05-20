@@ -1,6 +1,12 @@
 ---
-title: "Marginal Rate of Transformation and Its Calculation (Algo Trading)"
-description: "Explore the essential concept of the Marginal Rate of Transformation (MRT) in economics as it relates to efficient resource allocation, opportunity costs, and production efficiency. Understand this concept's significant role in algorithmic trading and its connection to other economic principles like the Production Possibility Frontier, providing key insights for optimizing trading and economic decisions across various sectors."
+category: quant_concept
+description: Explore the essential concept of the Marginal Rate of Transformation
+  (MRT) in economics as it relates to efficient resource allocation, opportunity costs,
+  and production efficiency. Understand this concept's significant role in algorithmic
+  trading and its connection to other economic principles like the Production Possibility
+  Frontier, providing key insights for optimizing trading and economic decisions across
+  various sectors.
+title: Marginal Rate of Transformation and Its Calculation (Algo Trading)
 ---
 
 The Marginal Rate of Transformation (MRT) is an essential concept in economics that provides a framework for understanding how economies can efficiently allocate resources. It serves as a cornerstone for economic analysis by elucidating the trade-offs that arise when shifting resources from the production of one good to another. The MRT quantifies these trade-offs, offering a numerical representation of opportunity costs and resource allocation efficiencies. In analyzing MRT, we explore not just theoretical calculations, but also its practical significance across various economic sectors, ranging from agriculture to manufacturing, and its broader impact on production efficiency.

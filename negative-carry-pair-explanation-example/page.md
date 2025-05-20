@@ -1,6 +1,9 @@
 ---
-title: "Negative Carry Pair: Explanation and Example (Algo Trading)"
-description: "Discover the nuances of negative carry pair trading in forex and learn how algo trading can optimize strategies to maximize potential returns in volatile markets."
+category: trading_strategy
+description: Discover the nuances of negative carry pair trading in forex and learn
+  how algo trading can optimize strategies to maximize potential returns in volatile
+  markets.
+title: 'Negative Carry Pair: Explanation and Example (Algo Trading)'
 ---
 
 Forex trading encompasses a wide array of strategies aimed at maximizing returns for traders. One specialized approach within this sphere is trading currency pairs with a negative carry. This technique involves unique sets of opportunities and challenges, demanding a thorough comprehension of various financial elements.

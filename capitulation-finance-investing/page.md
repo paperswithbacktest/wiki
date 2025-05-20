@@ -1,6 +1,9 @@
 ---
-title: "Capitulation in Finance and Investing (Algo Trading)"
-description: "Explore how capitulation and algorithmic trading intersect to provide strategic investment opportunities. Understand the market dynamics to enhance portfolio returns."
+category: quant_concept
+description: Explore how capitulation and algorithmic trading intersect to provide
+  strategic investment opportunities. Understand the market dynamics to enhance portfolio
+  returns.
+title: Capitulation in Finance and Investing (Algo Trading)
 ---
 
 In the complex world of finance, understanding market behaviors and investment strategies is crucial for success. Among the pivotal concepts for modern investors are capitulation and algorithmic trading. These elements serve as crucial mechanisms within today's fast-paced financial markets, offering tools to navigate volatile conditions and maximize financial outcomes.

@@ -1,10 +1,9 @@
 ---
-title: Essential Pooling Techniques for Convolutional Neural Networks
+category: quant_concept
 description: Pooling in machine learning cuts data dimensions to speed computation
   while preserving key features and improving model generalization Discover more inside
+title: Essential Pooling Techniques for Convolutional Neural Networks
 ---
-
-
 
 ## Table of Contents
 

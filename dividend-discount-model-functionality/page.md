@@ -1,6 +1,8 @@
 ---
-title: "Dividend Discount Model Functionality (Algo Trading)"
-description: "Explore the Dividend Discount Model and its fusion with algorithmic trading to assess stock value. Gain insights into modern investment strategies."
+category: quant_concept
+description: Explore the Dividend Discount Model and its fusion with algorithmic trading
+  to assess stock value. Gain insights into modern investment strategies.
+title: Dividend Discount Model Functionality (Algo Trading)
 ---
 
 In today's rapidly evolving financial landscape, understanding investment valuation models is crucial for making informed decisions. As markets grow increasingly complex, investors require robust frameworks to assess the intrinsic value of financial assets accurately. One such model is the Dividend Discount Model (DDM), a staple in the valuation toolkit for equity analysts and investors. The DDM is designed to determine the fair value of a stock based primarily on anticipated dividend payments. It achieves this by estimating the present value of expected future dividends, thus providing a measure of a stock's intrinsic value relative to its current market price.
@@ -181,4 +183,3 @@ Thus, while DDM retains its status as a vital tool in investment valuation, enha
 - Bodie, Z., Kane, A., & Marcus, A. J. (2013). *Investments* (10th Edition). This textbook offers insights into financial markets, instruments, and theories, including an in-depth examination of investment valuation techniques such as the DDM. [ISBN: 978-0-07-786167-4]
 
 - McKinsey & Company Inc. (2020). *Valuation: Measuring and Managing the Value of Companies, University Edition*. This resource provides practical approaches to company valuation, applicable to both novice and experienced investors, with relevant sections for understanding and applying models like the DDM. [ISBN: 978-1-119-61786-2]
-

@@ -1,6 +1,8 @@
 ---
-title: "Trust Preferred Securities: Overview and Mechanism (Algo Trading)"
-description: "Explore the sophisticated world of Trust Preferred Securities the hybrid financial instruments reshaping capital strategies with algorithmic trading advancements."
+category: quant_concept
+description: Explore the sophisticated world of Trust Preferred Securities the hybrid
+  financial instruments reshaping capital strategies with algorithmic trading advancements.
+title: 'Trust Preferred Securities: Overview and Mechanism (Algo Trading)'
 ---
 
 Trust Preferred Securities (TruPS) are financial instruments that have presented a sophisticated mechanism for capital management mainly within banking institutions. These securities are complex, incorporating features reminiscent of both debt and equity. Their hybrid nature stems from characteristics like fixed income returns akin to interest payments and preferred equity-like dividend payments. Historically, banks and financial institutions found TruPS appealing, as they offered a means to bolster Tier 1 capital without the need to dilute common equity holdings.

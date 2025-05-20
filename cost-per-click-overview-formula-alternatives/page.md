@@ -1,6 +1,9 @@
 ---
-title: "Cost Per Click: Overview, Formula, and Alternatives (Algo Trading)"
-description: "Discover the essentials of Cost Per Click (CPC) advertising, explore its formula, and learn about alternative models to optimize your digital marketing strategy."
+category: quant_concept
+description: Discover the essentials of Cost Per Click (CPC) advertising, explore
+  its formula, and learn about alternative models to optimize your digital marketing
+  strategy.
+title: 'Cost Per Click: Overview, Formula, and Alternatives (Algo Trading)'
 ---
 
 In the rapidly evolving digital marketing landscape, grasping advertising metrics is essential for running successful campaigns. Cost Per Click (CPC) is a widely adopted internet advertising model where advertisers are charged each time their ad is clicked by a user. This method has become a cornerstone of pay-per-click (PPC) advertising strategies due to its ability to directly measure user engagement with ads and drive targeted traffic to websites.

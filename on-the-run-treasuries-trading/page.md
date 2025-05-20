@@ -1,6 +1,8 @@
 ---
-title: "On-The-Run Treasuries and Their Trading Mechanisms (Algo Trading)"
-description: "Explore the mechanics of on-the-run Treasuries in algo trading, highlighting their liquidity, strategic importance, and the impact of advanced trading algorithms."
+category: trading_strategy
+description: Explore the mechanics of on-the-run Treasuries in algo trading, highlighting
+  their liquidity, strategic importance, and the impact of advanced trading algorithms.
+title: On-The-Run Treasuries and Their Trading Mechanisms (Algo Trading)
 ---
 
 The financial landscape is constantly evolving, offering an array of instruments and strategies for investors and traders to leverage. Among these, Treasury trading stands out, particularly through on-the-run Treasuries. These securities hold significant importance within financial markets due to their role as benchmarks for the most recently issued U.S. Treasury securities across specific maturities. Their high liquidity makes them an attractive choice for those seeking efficient entry and exit strategies, thus becoming a focal point in market commentary and financial analysis.

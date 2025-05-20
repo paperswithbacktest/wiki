@@ -1,6 +1,8 @@
 ---
-title: "List of Largest Semiconductor Companies (Algo Trading)"
-description: "Explore the world of top semiconductor companies and their role in advancing technology through innovations and the evolving landscape of algorithmic trading."
+category: dataset
+description: Explore the world of top semiconductor companies and their role in advancing
+  technology through innovations and the evolving landscape of algorithmic trading.
+title: List of Largest Semiconductor Companies (Algo Trading)
 ---
 
 The semiconductor industry is integral to the architecture of contemporary technology, underpinning a myriad of devices that support daily life and spur scientific advancement. Semiconductors are the foundational components that power devices ranging from everyday smartphones and computers to sophisticated space exploration equipment. They have become indispensable due to their unique properties that allow for the control of electrical current, making them essential in developing more efficient and compact electronic circuits.

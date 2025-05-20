@@ -1,6 +1,8 @@
 ---
-title: "Rubinomics (Algo Trading)"
-description: "Explore Rubinomics and its influence on US economic policy under Robert Rubin emphasizing fiscal discipline free markets and its connection to algo trading."
+category: quant_concept
+description: Explore Rubinomics and its influence on US economic policy under Robert
+  Rubin emphasizing fiscal discipline free markets and its connection to algo trading.
+title: Rubinomics (Algo Trading)
 ---
 
 Rubinomics is a term used to describe the economic policies and principles associated with Robert Rubin, a prominent figure in U.S. economic policy during the late 20th century. Rubin served as the 70th Secretary of the Treasury under President Bill Clinton from 1995 to 1999 and played a crucial role in shaping the economic landscape of the United States during this period.

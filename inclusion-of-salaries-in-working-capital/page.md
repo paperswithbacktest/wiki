@@ -1,6 +1,8 @@
 ---
-title: "Inclusion of Salaries in Working Capital (Algo Trading)"
-description: "Explore the interplay of business finance working capital salaries and algorithmic trading for a strategic edge in today's dynamic business landscape."
+category: quant_concept
+description: Explore the interplay of business finance working capital salaries and
+  algorithmic trading for a strategic edge in today's dynamic business landscape.
+title: Inclusion of Salaries in Working Capital (Algo Trading)
 ---
 
 In today's dynamic business environment, a comprehensive understanding of business finance, working capital, salaries, and algorithmic trading provides companies with a significant strategic advantage. Each of these elements plays a critical role in determining a company's financial health and operational success. To navigate the complexities of modern business, it is essential to analyze how these areas interact with one another.

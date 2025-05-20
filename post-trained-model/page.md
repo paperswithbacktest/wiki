@@ -1,10 +1,9 @@
 ---
-title: Understanding Post-Trained Models in Machine Learning
+category: quant_concept
 description: Post-trained models speed up deployments by cutting training time and
   increasing accuracy in image recognition and NLP. Discover more inside.
+title: Understanding Post-Trained Models in Machine Learning
 ---
-
-
 
 ## Table of Contents
 

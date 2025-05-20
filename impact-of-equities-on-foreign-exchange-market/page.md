@@ -1,6 +1,9 @@
 ---
-title: "Impact of Equities on the Foreign Exchange Market (Algo Trading)"
-description: "Explore the impact of equities on FX markets and discover the growing importance of algorithmic trading Learn how algo trading enhances strategy execution and efficiency"
+category: trading_strategy
+description: Explore the impact of equities on FX markets and discover the growing
+  importance of algorithmic trading Learn how algo trading enhances strategy execution
+  and efficiency
+title: Impact of Equities on the Foreign Exchange Market (Algo Trading)
 ---
 
 In today's financial landscape, technology has significantly transformed how we trade equities and foreign exchange (FX) markets. At the forefront of this transformation is algorithmic trading, often referred to as algo trading. This sophisticated approach utilizes computer programs to execute trades based on predefined strategies, eliminating human error and emotional biases from trading decisions. Algo trading is pivotal in enhancing the efficiency of trades and the execution of complex strategies, thereby offering substantial advantages over traditional methods.

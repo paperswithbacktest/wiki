@@ -1,6 +1,14 @@
 ---
-title: "Volume in Measurement (Algo Trading)"
-description: "Explore the intricate role of trading volume in algorithmic trading, a field at the intersection of mathematical prowess and computational efficiency. This guide investigates into how volume, a key indicator of market activity and liquidity, is vital in crafting robust trading strategies. By analyzing trade volume alongside price changes, traders can discern trends, confirm market strength, and make informed decisions. Understand the mathematical models at play, including statistics and linear regression, that drive algorithmic trading, enhancing prediction accuracy and optimizing trades in fast-paced financial markets."
+category: quant_concept
+description: Explore the intricate role of trading volume in algorithmic trading,
+  a field at the intersection of mathematical prowess and computational efficiency.
+  This guide investigates into how volume, a key indicator of market activity and
+  liquidity, is vital in crafting robust trading strategies. By analyzing trade volume
+  alongside price changes, traders can discern trends, confirm market strength, and
+  make informed decisions. Understand the mathematical models at play, including statistics
+  and linear regression, that drive algorithmic trading, enhancing prediction accuracy
+  and optimizing trades in fast-paced financial markets.
+title: Volume in Measurement (Algo Trading)
 ---
 
 Algorithmic trading represents a profound transformation in the landscape of financial markets, where mathematical acumen and computational power converge to automate trading decisions. At the forefront of this evolution lies measurement mathematics, particularly the concept of trading volume, which is pivotal in crafting robust trading algorithms. Trading volume indicates the number of shares or contracts exchanged within a specific timeframe, offering insight into market activity and liquidity. This metric's significance extends beyond a solitary number; it provides essential context to price movements and helps identify market momentum or reversals.

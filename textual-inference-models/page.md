@@ -1,7 +1,8 @@
 ---
-title: Understanding Textual Inference Models and Applications
+category: quant_concept
 description: Textual Inference Models help machines reason about text to boost search
   accuracy improve translations and summarization Discover more inside.
+title: Understanding Textual Inference Models and Applications
 ---
 
 ![Image](images/1.png)

@@ -1,6 +1,9 @@
 ---
-title: "Citadel Investment Group (Algo Trading)"
-description: "Explore Citadel Investment Group's innovative use of algorithmic trading to improve market efficiency and speed. Learn how technology fuels their financial strategies."
+category: quant_concept
+description: Explore Citadel Investment Group's innovative use of algorithmic trading
+  to improve market efficiency and speed. Learn how technology fuels their financial
+  strategies.
+title: Citadel Investment Group (Algo Trading)
 ---
 
 Hedge funds play a pivotal role within financial services, providing investment opportunities for both individual and institutional investors. Among these, Citadel Investment Group, established in 1990 by Kenneth C. Griffin, has gained remarkable prominence as a global hedge fund leader. A defining feature of Citadel's operations is its strategic use of algorithmic trading, a method designed to enhance both the speed and efficiency of trading activities. This involves the deployment of automated trading strategies driven by sophisticated algorithms. Such algorithms enable rapid decision-making in trading, leveraging large datasets to capitalize on market opportunities.

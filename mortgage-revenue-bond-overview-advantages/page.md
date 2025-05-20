@@ -1,6 +1,8 @@
 ---
-title: "Mortgage Revenue Bond: Overview and Advantages (Algo Trading)"
-description: "Explore how Mortgage Revenue Bonds support affordable housing and how algorithmic trading optimizes their investment strategies for economic growth."
+category: quant_concept
+description: Explore how Mortgage Revenue Bonds support affordable housing and how
+  algorithmic trading optimizes their investment strategies for economic growth.
+title: 'Mortgage Revenue Bond: Overview and Advantages (Algo Trading)'
 ---
 
 In the constantly evolving financial landscape, various instruments help address diverse economic challenges, including housing finance. Mortgage Revenue Bonds (MRBs) play a critical role in supporting affordable housing for low-income and first-time homebuyers. These bonds, typically issued by state and local housing authorities, provide a mechanism to fund mortgages at below-market interest rates. By doing so, they enhance the affordability of homeownership, a crucial aspect in tackling the housing crisis faced by many communities.

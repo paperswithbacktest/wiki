@@ -1,6 +1,15 @@
 ---
-title: "Ben Felix Model Portfolio (Algo Trading)"
-description: The Ben Felix Model Portfolio is an innovative investment approach that integrates strategic factor-based investing with algorithmic trading techniques to optimize returns. Designed by Canadian portfolio manager Ben Felix, this portfolio focuses on global diversification through low-cost index funds, emphasizing factors like size, value, and profitability. By leveraging algorithmic tools, the portfolio enhances trade execution and rebalancing efficiency, aiming to deliver consistent long-term growth while minimizing risks and costs. Ideal for both algorithmic traders and long-term investors, this model provides a systematic, data-driven investment strategy tailored for contemporary market conditions.
+category: trading_strategy
+description: The Ben Felix Model Portfolio is an innovative investment approach that
+  integrates strategic factor-based investing with algorithmic trading techniques
+  to optimize returns. Designed by Canadian portfolio manager Ben Felix, this portfolio
+  focuses on global diversification through low-cost index funds, emphasizing factors
+  like size, value, and profitability. By leveraging algorithmic tools, the portfolio
+  enhances trade execution and rebalancing efficiency, aiming to deliver consistent
+  long-term growth while minimizing risks and costs. Ideal for both algorithmic traders
+  and long-term investors, this model provides a systematic, data-driven investment
+  strategy tailored for contemporary market conditions.
+title: Ben Felix Model Portfolio (Algo Trading)
 ---
 
 In recent years, the Ben Felix Portfolio has garnered attention in the investment community, particularly among enthusiasts of algorithmic trading. Spearheaded by Canadian portfolio manager Ben Felix, this investment model is noted for its globally diversified strategy, primarily employing index funds. The strategy is distinctively tilted towards specific factors, such as size, value, and profitability, leveraging academic research that ties these factors to potentially higher returns.

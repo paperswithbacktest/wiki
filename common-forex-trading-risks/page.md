@@ -1,6 +1,9 @@
 ---
-title: "Common Forex Trading Risks (Algo Trading)"
-description: "Explore the common risks associated with forex and algorithmic trading including market volatility leverage effects and system failures to safeguard your investments."
+category: trading_strategy
+description: Explore the common risks associated with forex and algorithmic trading
+  including market volatility leverage effects and system failures to safeguard your
+  investments.
+title: Common Forex Trading Risks (Algo Trading)
 ---
 
 The foreign exchange (forex) market stands as the largest and most liquid financial arena globally, catering to a myriad of traders ranging from individual retail investors to large financial institutions. With daily trading volumes surpassing $6 trillion, it surpasses all other financial markets in terms of size and scope. The forex market operates around the clock across various time zones, driven by factors such as economic indicators, international trade flows, and geopolitical events. 

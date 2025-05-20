@@ -1,6 +1,8 @@
 ---
-title: "List of Major Aircraft Manufacturers (Algo Trading)"
-description: "Discover how major aircraft manufacturers like Boeing, Airbus, and Lockheed Martin drive innovation in aerospace through algo trading and sustainable technologies."
+category: dataset
+description: Discover how major aircraft manufacturers like Boeing, Airbus, and Lockheed
+  Martin drive innovation in aerospace through algo trading and sustainable technologies.
+title: List of Major Aircraft Manufacturers (Algo Trading)
 ---
 
 The aerospace industry is a dynamic and ever-evolving sector, playing an essential role in connecting the world and fostering technological advancement. Aircraft manufacturers are central to shaping the future of aviation through the introduction of innovative designs and state-of-the-art technologies. In recent years, the sector has witnessed an influx of digital tools that are disrupting traditional methodologies. Among these, algorithmic trading stands out as a transformative force. This digital technology, primarily associated with financial markets, has found applications within the aerospace industry, potentially optimizing operations and enhancing decision-making processes.

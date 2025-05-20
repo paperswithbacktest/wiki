@@ -1,6 +1,9 @@
 ---
-title: "Government Accountability Office: Overview and History (Algo Trading)"
-description: "Explore the Government Accountability Office's history and its pivotal role in ensuring transparency and accountability in federal operations and algorithmic trading oversight."
+category: quant_concept
+description: Explore the Government Accountability Office's history and its pivotal
+  role in ensuring transparency and accountability in federal operations and algorithmic
+  trading oversight.
+title: 'Government Accountability Office: Overview and History (Algo Trading)'
 ---
 
 The Government Accountability Office (GAO) serves as a vital institution in promoting accountability and transparency within federal operations. Established in 1921, the GAO acts as an independent legislative agency designed to audit and analyze the spending and activities of the United States government. Its creation was driven by the need to systematically manage and oversee federal expenditures, ensuring that taxpayer money is utilized efficiently and effectively. Popularly known as the "congressional watchdog," the GAO provides comprehensive reports to Congress, highlighting how public funds are being managed and pinpointing areas that require improvement or reform.

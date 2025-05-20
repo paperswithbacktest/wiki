@@ -1,6 +1,8 @@
 ---
-title: "Quantitative Analysis in Hedge Fund Performance and Risk (Algo Trading)"
-description: "Explore how hedge funds use quantitative analysis to boost performance and manage risk by leveraging mathematical models and algorithmic trading strategies."
+category: quant_concept
+description: Explore how hedge funds use quantitative analysis to boost performance
+  and manage risk by leveraging mathematical models and algorithmic trading strategies.
+title: Quantitative Analysis in Hedge Fund Performance and Risk (Algo Trading)
 ---
 
 In the rapidly evolving world of finance, hedge funds have increasingly turned to quantitative analysis to enhance performance and manage risk. Quantitative methods leverage mathematical models and algorithms to analyze complex financial markets, offering a more systematic approach to investment strategy. This discipline encompasses a broad array of techniques, from statistical modeling to machine learning, aimed at uncovering patterns and predicting market movements.

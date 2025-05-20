@@ -1,6 +1,8 @@
 ---
-title: "Inverse Floater Overview and Calculation (Algo Trading)"
-description: "Explore the unique benefits of inverse floaters in bond investments and learn how algorithmic trading can optimize returns by navigating interest rate dynamics."
+category: quant_concept
+description: Explore the unique benefits of inverse floaters in bond investments and
+  learn how algorithmic trading can optimize returns by navigating interest rate dynamics.
+title: Inverse Floater Overview and Calculation (Algo Trading)
 ---
 
 Bond investments provide a reliable option for investors seeking steady and predictable returns over time. Among the various types of bonds, inverse floaters stand out due to their unique mechanism of inversely correlating with interest rate fluctuations. Inverse floaters, a subset of floating-rate bonds, have coupon rates that increase as benchmark interest rates decrease, offering a potential advantage in environments where rates are declining. This distinctive feature makes them attractive for investors looking to capitalize on changes in interest rate dynamics while also adding a layer of diversification to bond portfolios.

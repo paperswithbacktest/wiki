@@ -1,6 +1,8 @@
 ---
-title: "Salary Freeze: Overview, Strategies, and Case Study (Algo Trading)"
-description: "Explore salary freezes as a strategic response to economic challenges and learn how algorithmic trading can help businesses navigate financial uncertainties."
+category: trading_strategy
+description: Explore salary freezes as a strategic response to economic challenges
+  and learn how algorithmic trading can help businesses navigate financial uncertainties.
+title: 'Salary Freeze: Overview, Strategies, and Case Study (Algo Trading)'
 ---
 
 In today's volatile economic environment, businesses are confronted with a myriad of challenges that call for innovative strategies to maintain financial stability. As markets fluctuate and global economic pressures intensify, organizations must navigate these uncertainties with precision and foresight. One such strategy employed by businesses to manage costs and sustain operations is the implementation of a salary freeze. This approach involves temporarily halting salary increases, which directly impacts employee compensation and overall pay management.

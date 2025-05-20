@@ -1,6 +1,8 @@
 ---
-title: "Single Euro Payments Area: Overview and History (Algo Trading)"
-description: "Explore the evolution and impact of SEPA within the EU alongside algorithmic trading The integration highlights efficiency in modern financial markets"
+category: quant_concept
+description: Explore the evolution and impact of SEPA within the EU alongside algorithmic
+  trading The integration highlights efficiency in modern financial markets
+title: 'Single Euro Payments Area: Overview and History (Algo Trading)'
 ---
 
 The financial landscape has undergone significant transformations driven by technological advancements and regulatory measures. This article investigates the interplay between banking history, SEPA Euro payments, and algorithmic trading, offering a comprehensive view of modern financial systems.

@@ -1,6 +1,8 @@
 ---
-title: "Conscious Capitalism: Principles and Examples (Algo Trading)"
-description: "Explore how sustainable business practices and conscious capitalism intersect with algorithmic trading to create a more equitable and sustainable corporate landscape."
+category: quant_concept
+description: Explore how sustainable business practices and conscious capitalism intersect
+  with algorithmic trading to create a more equitable and sustainable corporate landscape.
+title: 'Conscious Capitalism: Principles and Examples (Algo Trading)'
 ---
 
 In today's interconnected world, businesses are increasingly expected to play a vital role in fostering sustainable practices. As stakeholders become more conscious of the environmental and social impacts of corporate activities, there is mounting pressure on companies to align their operations with principles that promote sustainability. This expectation is reshaping the business landscape, where sustainable business practices, corporate responsibility, and conscious capitalism converge to form a new paradigm for the modern enterprise.

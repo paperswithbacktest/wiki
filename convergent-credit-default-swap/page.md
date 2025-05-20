@@ -1,6 +1,8 @@
 ---
-title: "Convergent Credit Default Swap (Algo Trading)"
-description: "Explore the transformative impact of algorithmic trading on credit derivatives like credit default swaps enhancing risk management and market efficiency."
+category: quant_concept
+description: Explore the transformative impact of algorithmic trading on credit derivatives
+  like credit default swaps enhancing risk management and market efficiency.
+title: Convergent Credit Default Swap (Algo Trading)
 ---
 
 Financial derivatives are crucial instruments in contemporary financial markets, offering a means for participants to manage a variety of risks and capitalize on market inefficiencies. Derivatives derive their value from underlying entities, such as stocks, bonds, commodities, or interest rates, providing versatile tools for risk management, speculation, and arbitrage. In particular, credit-based derivatives like credit default swaps (CDS) are indispensable for managing credit risk. CDS function similarly to insurance policies, allowing the transfer of credit risk from one party to another and thus providing a hedge against potential credit events, such as defaults or restructurings.
@@ -134,4 +136,3 @@ Lopez de Prado, M., in "Advances in Financial Machine Learning," investigates in
 Durbin, M.'s "All About Derivatives" serves as a primer on derivatives, explaining the different types and their uses in risk management and speculation. It is suitable for beginners and those seeking to solidify their foundational knowledge of financial derivatives.
 
 Awrey, D. explores regulatory frameworks in "The FSA, Integrated Regulation, and the Curious Case of OTC Derivatives." This work discusses regulatory responses to the complexities and risks associated with over-the-counter (OTC) derivatives, offering insights into policy formation and enforcement challenges.
-

@@ -1,6 +1,11 @@
 ---
-title: "What are the advantages of multi-agent trading systems?"
-description: "Discover the advantages of multi-agent trading systems, including adaptability, strategy diversification, parallelism, redundancy, flexibility, continuous optimization, reduced market impact, and dynamic interaction. These robust and adaptable structures harness the power of multiple agents for superior responsiveness and efficiency in financial markets."
+category: quant_concept
+description: Discover the advantages of multi-agent trading systems, including adaptability,
+  strategy diversification, parallelism, redundancy, flexibility, continuous optimization,
+  reduced market impact, and dynamic interaction. These robust and adaptable structures
+  harness the power of multiple agents for superior responsiveness and efficiency
+  in financial markets.
+title: What are the advantages of multi-agent trading systems?
 ---
 
 Multi-agent trading systems are revolutionizing the landscape of modern financial markets. These systems consist of multiple autonomous agents that collaborate to execute trades, analyze market trends, and manage risk. Unlike traditional single-agent systems, where decisions are made in isolation, multi-agent systems leverage the collective intelligence of numerous agents, each contributing unique insights and strategies. This coordinated approach not only amplifies efficiency but also enhances decision-making capabilities.

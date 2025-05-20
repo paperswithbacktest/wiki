@@ -1,6 +1,8 @@
 ---
-title: "Risk-Neutral Probabilities and Their Role in Asset Valuation (Algo Trading)"
-description: "Explore the significance of risk-neutral probabilities in asset valuation and algorithmic trading This article examines their role in fair pricing of derivatives"
+category: quant_concept
+description: Explore the significance of risk-neutral probabilities in asset valuation
+  and algorithmic trading This article examines their role in fair pricing of derivatives
+title: Risk-Neutral Probabilities and Their Role in Asset Valuation (Algo Trading)
 ---
 
 Financial modeling is a crucial discipline in modern finance, involving the construction of mathematical models to represent and analyze the financial performance of various assets, investments, or business projects. It is widely used to assist in decision making by simulating the impact of different variables on an organization's financial health. Financial modeling encompasses various tools and techniques, including spreadsheet analysis, statistical methods, and software applications that help forecast financial outcomes and evaluate investment options.

@@ -1,6 +1,9 @@
 ---
-title: "Review of 24Option (Algo Trading)"
-description: "Explore 24Option's past with our review covering its diverse trading features, algorithmic trading on MT4, and the challenges leading to its closure in 2020."
+category: trading_strategy
+description: Explore 24Option's past with our review covering its diverse trading
+  features, algorithmic trading on MT4, and the challenges leading to its closure
+  in 2020.
+title: Review of 24Option (Algo Trading)
 ---
 
 In today's rapidly evolving financial markets, selecting an appropriate investment platform can present a significant challenge due to the plethora of options available. This review will focus on 24Option, a now-defunct online broker once recognized for its comprehensive investment offerings and algorithmic trading features. As a prominent player in the financial sector, 24Option attracted numerous traders by expanding its services to include a variety of asset classes such as forex, Contracts for Difference (CFDs), cryptocurrencies, and commodities.

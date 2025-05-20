@@ -1,6 +1,8 @@
 ---
-title: "Market Capitalization and Its Calculation (Algo Trading)"
-description: "Explore the significant role of market capitalization in evaluating company value within algorithmic trading. Learn how market cap informs investment strategies."
+category: quant_concept
+description: Explore the significant role of market capitalization in evaluating company
+  value within algorithmic trading. Learn how market cap informs investment strategies.
+title: Market Capitalization and Its Calculation (Algo Trading)
 ---
 
 Market capitalization, abbreviated as 'market cap', is a fundamental concept in the financial world, essential for investors and financial professionals seeking to understand a company's value and potential. It measures the total market value of a company's outstanding shares, providing insights into its size, stability, and growth prospects. By calculating the market cap, investors can determine the scale of a business, which paves the way for informed investment decisions and strategic financial planning.

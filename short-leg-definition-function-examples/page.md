@@ -1,6 +1,9 @@
 ---
-title: "Short Leg: Definition, Function, and Examples (Algo Trading)"
-description: "Explore the key role of short legs in algorithmic trading, focusing on their impact on risk management and cost efficiency in option spreads for optimized trading strategies."
+category: quant_concept
+description: Explore the key role of short legs in algorithmic trading, focusing on
+  their impact on risk management and cost efficiency in option spreads for optimized
+  trading strategies.
+title: 'Short Leg: Definition, Function, and Examples (Algo Trading)'
 ---
 
 Algorithmic trading, often called algo trading, has profoundly transformed financial markets by allowing traders to execute orders with remarkable speed and precision. This technological advancement is grounded in the strategic use of options, among which the understanding of short legs in option spreads stands out as a vital component. Short legs are critical instruments that provide traders with the flexibility to manage and optimize their portfolios effectively. They play a pivotal role in crafting strategies that not only seek to maximize returns but also aim at minimizing risks and costs associated with trading activities.

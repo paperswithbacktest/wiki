@@ -1,6 +1,9 @@
 ---
-title: "Fifth-Letter Identifiers on Nasdaq (Algo Trading)"
-description: "Discover how fifth-letter identifiers in Nasdaq ticker symbols inform algo trading strategies with precise, timely insights into stock conditions and trading dynamics."
+category: quant_concept
+description: Discover how fifth-letter identifiers in Nasdaq ticker symbols inform
+  algo trading strategies with precise, timely insights into stock conditions and
+  trading dynamics.
+title: Fifth-Letter Identifiers on Nasdaq (Algo Trading)
 ---
 
 In the world of stock trading, particularly on the Nasdaq exchange, ticker symbols are essential for identifying and representing publicly traded companies and their financial instruments. These symbols, usually one to four letters long, are more than just arbitrary labels; they contain critical information about the securities they represent. Among the various elements of ticker symbols, the fifth-letter identifiers are particularly significant. These letters can convey important details about a stock's status or special conditions, such as share class distinctions or unusual trading conditions.

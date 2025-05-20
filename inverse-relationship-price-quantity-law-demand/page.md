@@ -1,6 +1,10 @@
 ---
-title: "Inverse Relationship Between Price and Quantity in the Law of Demand (Algo Trading)"
-description: "Explore the inverse relationship between price and quantity in the law of demand and its implications for algorithmic trading strategies to optimize financial outcomes."
+category: quant_concept
+description: Explore the inverse relationship between price and quantity in the law
+  of demand and its implications for algorithmic trading strategies to optimize financial
+  outcomes.
+title: Inverse Relationship Between Price and Quantity in the Law of Demand (Algo
+  Trading)
 ---
 
 Understanding the law of demand is crucial for anyone involved in economic studies or the financial markets. At its core, the law of demand states that there is an inverse relationship between the price of a commodity and the quantity demanded. This fundamental principle of economics underscores consumer behavior, where generally, as prices decrease, the quantity demanded by consumers increases, and vice versa. This concept is visually represented through a downward-sloping demand curve on a graph with price on the vertical axis and quantity on the horizontal axis.

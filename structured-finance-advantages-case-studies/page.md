@@ -1,6 +1,13 @@
 ---
-title: "Structured Finance: Advantages and Case Studies (Algo Trading)"
-description: "Explore the transformative role of structured finance and algorithmic trading in modern finance, focusing on their advantages and synergy. Through tailored financial instruments, structured finance addresses complex financing needs and redistributes risk. Algorithmic trading enhances these benefits by optimizing trading processes. Discover financial benefits and real-world case studies illustrating how these innovative strategies manage risk and enhance capital allocation, positioning organizations for growth in volatile markets."
+category: quant_concept
+description: Explore the transformative role of structured finance and algorithmic
+  trading in modern finance, focusing on their advantages and synergy. Through tailored
+  financial instruments, structured finance addresses complex financing needs and
+  redistributes risk. Algorithmic trading enhances these benefits by optimizing trading
+  processes. Discover financial benefits and real-world case studies illustrating
+  how these innovative strategies manage risk and enhance capital allocation, positioning
+  organizations for growth in volatile markets.
+title: 'Structured Finance: Advantages and Case Studies (Algo Trading)'
 ---
 
 Structured finance and algorithmic trading have emerged as two of the most significant innovations in modern finance, reshaping the way financial transactions are structured and executed. These two concepts, while distinct, often intersect to create synergies that enhance the effectiveness of financial strategies. Structured finance involves the creation of tailored financial instruments that address unique and complex financing needs. These instruments, such as collateralized debt obligations (CDOs) and credit default swaps (CDSs), are utilized to redistribute risk and improve liquidity.

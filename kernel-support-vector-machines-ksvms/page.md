@@ -1,7 +1,8 @@
 ---
-title: Fundamentals and Applications of Kernel Support Vector Machines
+category: quant_concept
 description: Kernel Support Vector Machine applies kernels to map data into higher
   dimensions for non-linear classification and regression Discover more inside
+title: Fundamentals and Applications of Kernel Support Vector Machines
 ---
 
 ![Image](images/1.png)

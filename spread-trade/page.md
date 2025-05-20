@@ -1,6 +1,8 @@
 ---
-title: "Spread trade (Algo Trading)"
-description: "Explore spread trading in algorithmic trading, a strategy using Python for precise, automated trades exploiting price differences between correlated assets."
+category: trading_strategy
+description: Explore spread trading in algorithmic trading, a strategy using Python
+  for precise, automated trades exploiting price differences between correlated assets.
+title: Spread trade (Algo Trading)
 ---
 
 Spread trading is a sophisticated strategy employed in algorithmic trading to capitalize on price differences between correlated financial instruments. At the core of this strategy lies the practice of taking simultaneous long and short positions in different instruments, with the goal of profiting from their relative price movements. This approach allows traders to exploit inefficiencies in the market, providing opportunities for profit even in volatile or uncertain market conditions.
@@ -188,4 +190,3 @@ To enhance understanding and efficacy in spread trading and its algorithmic appl
    A foundational text for understanding derivative products, this book covers a wide array of topics that provide the necessary background for spread trading, particularly in options and futures markets.
 
 These resources collectively offer the foundational and advanced knowledge required to master spread trading within an algorithmic framework, catering to both newcomers and seasoned traders looking to refine their strategies.
-

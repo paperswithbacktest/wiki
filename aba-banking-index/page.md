@@ -1,6 +1,14 @@
 ---
-title: "ABA Banking Index (Algo Trading)"
-description: "Discover the intricate connections between financial indexes, banking indexes, and algorithmic trading to gain insights into the global financial market landscape. Understand how these elements influence market trends and shape investment strategies for optimized decision-making. Explore the role of banking indexes in assessing sector health and stability, and learn about the impact of algorithmic trading on trading efficiency and data analysis. This comprehensive examination highlights the growing importance of these components in informed investment and trading approaches."
+category: dataset
+description: Discover the intricate connections between financial indexes, banking
+  indexes, and algorithmic trading to gain insights into the global financial market
+  landscape. Understand how these elements influence market trends and shape investment
+  strategies for optimized decision-making. Explore the role of banking indexes in
+  assessing sector health and stability, and learn about the impact of algorithmic
+  trading on trading efficiency and data analysis. This comprehensive examination
+  highlights the growing importance of these components in informed investment and
+  trading approaches.
+title: ABA Banking Index (Algo Trading)
 ---
 
 Financial indexes serve as critical indicators in the global economy, providing a barometer for evaluating the performance of various financial markets or sectors. These indexes are composed of a selection of related securities whose aggregate performance is tracked and reported. They facilitate an understanding of market trends and are fundamental in the assessment of investment performance, forming benchmarks against which the performance of individual portfolios or securities can be measured. A well-known example would be the S&P 500 Index, which represents the performance of 500 of the largest companies listed on US stock exchanges.

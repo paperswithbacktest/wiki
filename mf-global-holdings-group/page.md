@@ -1,6 +1,9 @@
 ---
-title: "MF Global Holdings Group (Algo Trading)"
-description: "Explore the complexities of brokerage and investment firms through the lens of financial crises and algorithmic trading to understand market dynamics and risks."
+category: quant_concept
+description: Explore the complexities of brokerage and investment firms through the
+  lens of financial crises and algorithmic trading to understand market dynamics and
+  risks.
+title: MF Global Holdings Group (Algo Trading)
 ---
 
 Financial crises often reveal the intricate connections between brokerage services, investment firms, and the advanced technological practices reshaping the financial sector, such as algorithmic trading. These crises provide a valuable lens through which to examine the vulnerabilities and dynamics that affect how these entities operate. The study of such interconnections offers insights into managing financial markets more effectively during periods of instability.
@@ -126,4 +129,3 @@ To succeed in this ever-evolving financial ecosystem, firms must prioritize adap
 6. **Further Insights:**
    - Tabb, Larry. “How Traders are Adapting to Today’s Algorithmic Market.” Institutional Investor, 2018. This article discusses how traders adjust their strategies to the increasingly algorithm-driven markets.
    - Brunnermeier, Markus K., and Lasse Heje Pedersen. “Market Liquidity and Funding Liquidity.” The Review of Financial Studies, vol. 22, no. 6, 2009, pp. 2201-2238. This paper presents a theoretical framework for understanding liquidity crises and their intersection with market trading mechanisms.
-

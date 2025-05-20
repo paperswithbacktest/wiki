@@ -1,6 +1,8 @@
 ---
-title: "Bullish Harami in Trading and Related Patterns (Algo Trading)"
-description: "Explore the Bullish Harami pattern in trading, a key candlestick indicator for spotting trend reversals Ideal for algorithmic strategies and informed decisions"
+category: trading_strategy
+description: Explore the Bullish Harami pattern in trading, a key candlestick indicator
+  for spotting trend reversals Ideal for algorithmic strategies and informed decisions
+title: Bullish Harami in Trading and Related Patterns (Algo Trading)
 ---
 
 Candlestick patterns are essential tools in technical analysis, offering traders insights into market sentiment and potential future price movements. These patterns are visual representations of price action in a specified time frame and are used to identify possible reversals or continuations in trends. Among these, the Bullish Harami pattern stands out as a significant indicator of potential trend reversal, particularly signalling the possible end of a downtrend and the onset of an uptrend.
@@ -222,4 +224,3 @@ Thus, staying abreast of technological advancements will be paramount for trader
 4. **Online Platforms for Strategy Development and Backtesting:**
    - TradingView is an online platform that provides tools for charting and backtesting, ideal for traders looking to explore patterns like the Bullish Harami in different market contexts.
    - QuantConnect and Quantopian are platforms that offer extensive libraries and environments for developing and backtesting algorithmic trading strategies, supporting the integration of candlestick patterns.
-

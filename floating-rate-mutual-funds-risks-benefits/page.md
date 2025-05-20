@@ -1,6 +1,9 @@
 ---
-title: "Floating-Rate Mutual Funds: Risks and Benefits (Algo Trading)"
-description: "Explore the risks and benefits of floating-rate mutual funds and algorithmic trading combined with professional management offering diversification and market opportunities."
+category: trading_strategy
+description: Explore the risks and benefits of floating-rate mutual funds and algorithmic
+  trading combined with professional management offering diversification and market
+  opportunities.
+title: 'Floating-Rate Mutual Funds: Risks and Benefits (Algo Trading)'
 ---
 
 Investing in financial markets provides a spectrum of opportunities and challenges, each shaped by the dynamic nature of the global economy and individual financial goals. Among the myriad of investment options, mutual funds, floating-rate funds, and algorithmic trading have emerged as popular choices, each offering distinct advantages and inherent risks.

@@ -1,6 +1,9 @@
 ---
-title: "Federal Poverty Level (Algo Trading)"
-description: "Explore the intersection of Federal Poverty Level and algorithmic trading to understand how socio-economic factors can influence financial market strategies and decisions."
+category: quant_concept
+description: Explore the intersection of Federal Poverty Level and algorithmic trading
+  to understand how socio-economic factors can influence financial market strategies
+  and decisions.
+title: Federal Poverty Level (Algo Trading)
 ---
 
 The poverty guidelines, also known as the Federal Poverty Level (FPL), serve as a critical metric in the United States for assessing economic need. Established by the Department of Health and Human Services (HHS), the FPL is integral in determining eligibility for various assistance programs, including healthcare, food aid, and housing support. The FPL is calculated based on household income and size, updated annually to reflect inflation and cost of living changes. This level of granularity in understanding economic need is foundational for crafting economic policies and providing targeted assistance to those in need.

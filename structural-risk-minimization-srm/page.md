@@ -1,7 +1,8 @@
 ---
-title: Structural Risk Minimization In Machine Learning Models
+category: quant_concept
 description: Structural Risk Minimization balances model fit and complexity to enhance
   generalization through a VC dimension penalty Discover more inside
+title: Structural Risk Minimization In Machine Learning Models
 ---
 
 ![Image](images/1.png)

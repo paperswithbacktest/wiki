@@ -1,6 +1,13 @@
 ---
-title: "Scikit-learn (sklearn) (Algo Trading)"
-description: Explore the integration of machine learning in algo trading using scikit-learn a leading Python library for data analysis. Discover how its tools enhance trading strategies with predictive modeling and backtesting efficiency. Learn about its wide range of algorithms like SVMs and random forests to capture financial data patterns. The ease of use and comprehensive documentation make scikit-learn a preferred choice for developing robust trading models leveraging data-driven strategies and improving trading precision and speed.
+category: trading_strategy
+description: Explore the integration of machine learning in algo trading using scikit-learn
+  a leading Python library for data analysis. Discover how its tools enhance trading
+  strategies with predictive modeling and backtesting efficiency. Learn about its
+  wide range of algorithms like SVMs and random forests to capture financial data
+  patterns. The ease of use and comprehensive documentation make scikit-learn a preferred
+  choice for developing robust trading models leveraging data-driven strategies and
+  improving trading precision and speed.
+title: Scikit-learn (sklearn) (Algo Trading)
 ---
 
 In recent years, the intersection of machine learning and algorithmic trading has opened up new opportunities for traders seeking to leverage data-driven strategies. Algorithmic trading, which involves using computer algorithms to automate trading decisions, has significantly benefited from the advancements in machine learning. Machine learning models can analyze large volumes of data, identify patterns, and make predictions, thereby enhancing trading strategies with improved precision and speed.

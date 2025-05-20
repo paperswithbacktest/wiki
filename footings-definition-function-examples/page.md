@@ -1,6 +1,9 @@
 ---
-title: "Footings: Definition, Function, and Examples (Algo Trading)"
-description: "Explore the parallels between construction and finance by understanding footings and algorithms Discover how these concepts create strong foundations for success."
+category: quant_concept
+description: Explore the parallels between construction and finance by understanding
+  footings and algorithms Discover how these concepts create strong foundations for
+  success.
+title: 'Footings: Definition, Function, and Examples (Algo Trading)'
 ---
 
 In an era driven by digital innovation and technological advancement, industries are constantly evolving to stay competitive. One of the most fascinating areas is the intersection of construction and finance, particularly in the way algorithms and AI are used in trading strategies. This article will explore the concepts of footings in construction and foundational algorithms in trading, illustrating how both contribute to creating robust structures — be it buildings or investment portfolios.

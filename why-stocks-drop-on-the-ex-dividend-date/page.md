@@ -1,6 +1,11 @@
 ---
-title: "Why Stocks Drop on the Ex-Dividend Date Explained (Algo Trading)"
-description: Explore the impact of ex-dividend dates on stock prices and how algorithmic trading leverages these predictable movements to optimize returns. Learn why stocks decrease in value by roughly the dividend amount on the ex-dividend date and discover strategies like dividend capture and arbitrage that utilize high-speed data analysis to capitalize on these opportunities while managing associated risks.
+category: quant_concept
+description: Explore the impact of ex-dividend dates on stock prices and how algorithmic
+  trading leverages these predictable movements to optimize returns. Learn why stocks
+  decrease in value by roughly the dividend amount on the ex-dividend date and discover
+  strategies like dividend capture and arbitrage that utilize high-speed data analysis
+  to capitalize on these opportunities while managing associated risks.
+title: Why Stocks Drop on the Ex-Dividend Date Explained (Algo Trading)
 ---
 
 Understanding stock price movements is crucial for investors and traders, particularly in algorithmic trading, where rapid decisions based on data analysis are essential. A notable event that can significantly impact stock prices is the ex-dividend date. On this date, a purchase of stock no longer carries the right to receive the most recently declared dividend. Generally, stock prices tend to drop by an amount roughly equal to the dividend on the ex-dividend date, reflecting the outflow of cash from the company. This predictable pricing behavior offers opportunities for traders, especially those employing algorithms designed to exploit such patterns.

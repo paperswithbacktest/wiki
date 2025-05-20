@@ -1,6 +1,8 @@
 ---
-title: "Clean Shares: Definition and Mechanism (Algo Trading)"
-description: "Explore 'clean shares' and 'algorithmic trading' to enhance your investing skills with insights on transparency, cost-efficiency, and automated trading strategies."
+category: quant_concept
+description: Explore 'clean shares' and 'algorithmic trading' to enhance your investing
+  skills with insights on transparency, cost-efficiency, and automated trading strategies.
+title: 'Clean Shares: Definition and Mechanism (Algo Trading)'
 ---
 
 In the world of investing, acquiring knowledge about various finance concepts and terminology is essential for making informed decisions in a complex market environment. This article seeks to demystify intricate investment terms like 'clean shares' and 'algorithmic trading,' which are pivotal in modern finance. Understanding these concepts allows investors to navigate the intricacies of the market with greater confidence and precision.

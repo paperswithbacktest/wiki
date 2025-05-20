@@ -1,6 +1,14 @@
 ---
-title: "Wyckoff Trading Strategy (Algo Trading)"
-description: Explore the Wyckoff Trading Strategy, a technical analysis method focused on supply and demand dynamics, integrated into algorithmic trading. This strategy, rooted in Richard D. Wyckoff's early 20th-century principles, emphasizes market trend predictions and price cycle analysis. Gain insights into its historical background, core components, and applicability in today's financial markets. Enhance decision-making and optimize trade execution by understanding how this systematized approach leverages both classic methodologies and modern algorithmic precision. Discover the benefits and limitations of this strategy in the fast-evolving trading landscape.
+category: trading_strategy
+description: Explore the Wyckoff Trading Strategy, a technical analysis method focused
+  on supply and demand dynamics, integrated into algorithmic trading. This strategy,
+  rooted in Richard D. Wyckoff's early 20th-century principles, emphasizes market
+  trend predictions and price cycle analysis. Gain insights into its historical background,
+  core components, and applicability in today's financial markets. Enhance decision-making
+  and optimize trade execution by understanding how this systematized approach leverages
+  both classic methodologies and modern algorithmic precision. Discover the benefits
+  and limitations of this strategy in the fast-evolving trading landscape.
+title: Wyckoff Trading Strategy (Algo Trading)
 ---
 
 Algorithmic trading, commonly referred to as algo trading, has witnessed substantial growth in recent years. This acceleration is driven by advancements in automation and data-driven strategies, which have allowed traders to execute orders at speeds and frequencies that are impossible for human traders. One trading strategy that has garnered significant attention in this context is the Wyckoff strategy, which is deeply rooted in the principles of technical analysis.

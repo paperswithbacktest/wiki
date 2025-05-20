@@ -1,6 +1,9 @@
 ---
-title: "Equity Fund Investment for Beginners (Algo Trading)"
-description: "Discover the basics of equity fund investment for beginners and learn how algorithmic trading can enhance your portfolio with smart, technology-driven strategies."
+category: trading_strategy
+description: Discover the basics of equity fund investment for beginners and learn
+  how algorithmic trading can enhance your portfolio with smart, technology-driven
+  strategies.
+title: Equity Fund Investment for Beginners (Algo Trading)
 ---
 
 Investing in equity funds is a popular avenue for beginners seeking to diversify their financial portfolios. These funds allow individuals to pool resources with other investors to buy stocks, thereby offering an accessible entry point into the stock market. By investing in a variety of stocks within a fund, investors enjoy the benefits of diversification and professional management without needing in-depth knowledge of individual stock picking.

@@ -1,7 +1,8 @@
 ---
-title: Multi-Class Logistic Regression for Precise Classification
+category: quant_concept
 description: Multi-Class Logistic Regression applies the softmax function to assign
   accurate class probabilities and streamline predictions Discover more inside
+title: Multi-Class Logistic Regression for Precise Classification
 ---
 
 ![Image](images/1.jpeg)

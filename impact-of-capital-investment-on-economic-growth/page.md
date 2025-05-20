@@ -1,6 +1,9 @@
 ---
-title: "Impact of Capital Investment on Economic Growth (Algo Trading)"
-description: "Explore the significant impact of capital investment on economic growth including the role of algorithmic trading in modern finance and future investment trends"
+category: quant_concept
+description: Explore the significant impact of capital investment on economic growth
+  including the role of algorithmic trading in modern finance and future investment
+  trends
+title: Impact of Capital Investment on Economic Growth (Algo Trading)
 ---
 
 Economic growth and investment are intrinsically linked, each driving and influencing the other in significant ways. Economic growth represents an increase in the production and consumption of goods and services, reflecting enhancements in living standards. Investment, on the other hand, is the allocation of resources, typically financial, with the expectation of future returns. Together, these elements form a dynamic interplay crucial for the prosperity of nations.

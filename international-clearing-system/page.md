@@ -1,6 +1,9 @@
 ---
-title: "International Clearing System (Algo Trading)"
-description: "Explore the pivotal role of international clearing systems in global finance and their synergy with algorithmic trading to enhance transaction efficiency and accuracy."
+category: quant_concept
+description: Explore the pivotal role of international clearing systems in global
+  finance and their synergy with algorithmic trading to enhance transaction efficiency
+  and accuracy.
+title: International Clearing System (Algo Trading)
 ---
 
 Understanding the intricate dynamics of international clearing systems is essential for grasping the global financial landscape. These systems form the backbone of international financial markets by facilitating trade and ensuring the seamless execution and settlement of transactions involving parties from different countries. International clearing systems minimize risks and create a stable environment for buyers and sellers in diverse markets, thus playing a crucial role in global trade.

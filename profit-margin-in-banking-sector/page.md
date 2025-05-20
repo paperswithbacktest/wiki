@@ -1,6 +1,8 @@
 ---
-title: "Profit Margin in the Banking Sector (Algo Trading)"
-description: "Explore the dynamics of profit margins in the banking sector influenced by algorithmic trading regulatory changes and emerging technologies affecting profitability."
+category: quant_concept
+description: Explore the dynamics of profit margins in the banking sector influenced
+  by algorithmic trading regulatory changes and emerging technologies affecting profitability.
+title: Profit Margin in the Banking Sector (Algo Trading)
 ---
 
 The banking industry is integral to the global financial architecture, functioning as the primary channel for economic transactions and a cornerstone of financial stability. It facilitates the flow of funds, manages financial risk, and acts as a vital intermediary between savers and borrowers. Grasping the mechanisms through which banks generate profits, as well as the variables influencing these profits, is essential not only for investors seeking to maximize returns but also for policymakers aiming to ensure the efficiency and stability of financial markets, and industry participants striving to stay competitive.

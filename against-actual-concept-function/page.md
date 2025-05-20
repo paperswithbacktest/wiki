@@ -1,6 +1,8 @@
 ---
-title: "Against Actual: Concept and Function (Algo Trading)"
-description: "Explore essential concepts of algorithmic trading highlighting its impact on market efficiency and liquidity while unraveling complex yet practical strategies."
+category: quant_concept
+description: Explore essential concepts of algorithmic trading highlighting its impact
+  on market efficiency and liquidity while unraveling complex yet practical strategies.
+title: 'Against Actual: Concept and Function (Algo Trading)'
 ---
 
 The world of trading has dramatically evolved with the advent of technology, bringing algorithmic trading or 'algo trading' to the forefront. At its core, algorithmic trading uses complex algorithms to make trading decisions and execute orders at speeds and volumes that are impossible for humans to match. This artificial intelligence-driven approach has revolutionized financial markets by increasing efficiency and potentially improving market liquidity.

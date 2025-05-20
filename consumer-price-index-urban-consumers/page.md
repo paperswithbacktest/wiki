@@ -1,6 +1,11 @@
 ---
-title: "Consumer Price Index for Urban Consumers (Algo Trading)"
-description: "Explore the pivotal role of the Consumer Price Index for All Urban Consumers and its impact on algorithmic trading. Discover how CPI-U data helps traders refine strategies and anticipate market movements by providing insights into inflation and economic trends. Understand the significance of CPI-U in transforming trading methodologies and optimizing financial decisions."
+category: quant_concept
+description: Explore the pivotal role of the Consumer Price Index for All Urban Consumers
+  and its impact on algorithmic trading. Discover how CPI-U data helps traders refine
+  strategies and anticipate market movements by providing insights into inflation
+  and economic trends. Understand the significance of CPI-U in transforming trading
+  methodologies and optimizing financial decisions.
+title: Consumer Price Index for Urban Consumers (Algo Trading)
 ---
 
 In the world of finance, the Consumer Price Index for All Urban Consumers (CPI-U) plays a pivotal role in understanding inflation and economic trends. CPI-U is an essential tool used to measure the average change in prices over time, reflecting what consumers pay for a basket of goods and services. As a comprehensive gauge of price movements, the CPI-U serves as a critical indicator for economists, policymakers, and financial professionals who aim to interpret inflationary pressures within the economy.
@@ -166,5 +171,4 @@ In trading, integrating CPI-U data helps traders manage risk effectively and ant
 
 [7]: Bernanke, B. S. (2008). ["The Economic Outlook"](https://www.federalreserve.gov/newsevents/speech/bernanke20100827a.htm). Testimony before the Joint Economic Committee, U.S. Congress. 
 
-[8]: Federal Reserve. (2023). ["Monetary Policy."](https://www.federalreserve.gov/monetarypolicy/2023-03-mpr-summary.htm) 
-
+[8]: Federal Reserve. (2023). ["Monetary Policy."](https://www.federalreserve.gov/monetarypolicy/2023-03-mpr-summary.htm)

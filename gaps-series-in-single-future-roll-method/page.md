@@ -1,6 +1,15 @@
 ---
-title: "Gaps series in single future roll method (Algo Trading)"
-description: Explore the challenges of futures contract rolls in algorithmic trading and discover how the single futures roll method addresses price discontinuities. This approach minimizes artificial volatility caused by rolling between contracts, ensuring accurate historical data for reliable market analysis. Learn about the significance of gap series adjustments, the role of techniques like the ETF trick, and their impact on robust trading strategies. Enhance your understanding of roll management methods, including unadjusted, difference-adjusted, and ratio-adjusted techniques, and improve the integrity of your backtesting for better-informed trading decisions.
+category: trading_strategy
+description: Explore the challenges of futures contract rolls in algorithmic trading
+  and discover how the single futures roll method addresses price discontinuities.
+  This approach minimizes artificial volatility caused by rolling between contracts,
+  ensuring accurate historical data for reliable market analysis. Learn about the
+  significance of gap series adjustments, the role of techniques like the ETF trick,
+  and their impact on robust trading strategies. Enhance your understanding of roll
+  management methods, including unadjusted, difference-adjusted, and ratio-adjusted
+  techniques, and improve the integrity of your backtesting for better-informed trading
+  decisions.
+title: Gaps series in single future roll method (Algo Trading)
 ---
 
 Algorithmic trading heavily relies on the use of futures contracts, which are essential financial instruments for speculating on the price movements of assets. A futures contract is an agreement to buy or sell an asset at a predetermined price and date in the future. However, these contracts are not perpetual and come with an expiration date. To maintain a continuous time series and ensure seamless trading strategies, traders must execute a "roll" to the next contract before expiry. This involves closing the expiring contract and opening a new position in the subsequent contract.

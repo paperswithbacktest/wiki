@@ -1,6 +1,8 @@
 ---
-title: "Over-the-Counter Medications (Algo Trading)"
-description: "Explore the evolving role of OTC medications in healthcare, their regulatory landscape, and the growth of OTC markets fostered by consumer demand and tech advancements."
+category: quant_concept
+description: Explore the evolving role of OTC medications in healthcare, their regulatory
+  landscape, and the growth of OTC markets fostered by consumer demand and tech advancements.
+title: Over-the-Counter Medications (Algo Trading)
 ---
 
 In recent years, there has been a significant rise in the use of over-the-counter (OTC) drugs, highlighting their crucial role in contemporary healthcare systems. These non-prescription medications provide accessible solutions for managing minor health issues, offering consumers the convenience of self-care and contributing to the reduction of healthcare costs by minimizing the need for physician visits. As the demand for self-medication grows, the market for OTC drugs and pharmacy products continues to expand, driven by consumer preference for cost-effective and easily accessible health solutions.

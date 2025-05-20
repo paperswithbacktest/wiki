@@ -1,6 +1,9 @@
 ---
-title: "Put Swaption: Definition and Mechanics (Algo Trading)"
-description: "Explore the essentials of put swaptions and algorithmic trading, understanding how these sophisticated financial derivatives function for risk management and hedging strategies."
+category: quant_concept
+description: Explore the essentials of put swaptions and algorithmic trading, understanding
+  how these sophisticated financial derivatives function for risk management and hedging
+  strategies.
+title: 'Put Swaption: Definition and Mechanics (Algo Trading)'
 ---
 
 Financial derivatives represent a cornerstone of modern finance, facilitating various strategies for risk management, speculation, and arbitrage. Essentially, financial derivatives are contracts whose value derives from the performance of an underlying entity—be it an asset, index, or interest rate. These instruments are indispensable in financial markets, providing traders and institutional investors with tools to hedge risks, enhance returns, and achieve greater financial flexibility. 

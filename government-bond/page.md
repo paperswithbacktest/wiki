@@ -1,6 +1,14 @@
 ---
-title: "Government Bond (Algo Trading)"
-description: "Explore the fascinating world of government bonds and algorithmic trading in this insightful article. Discover how these low-risk investments, issued by national governments, play a crucial role in economic policy and financial stability. Delve into the impact of algo trading on bond markets, enhancing efficiency and liquidity through advanced technology. Gain a deeper understanding of public debt management and its implications for fiscal policy and investment strategies. This piece offers valuable insights into the intersecting dynamics of government bonds, public debt, and algo trading, essential for navigating modern financial markets."
+category: quant_concept
+description: Explore the fascinating world of government bonds and algorithmic trading
+  in this insightful article. Discover how these low-risk investments, issued by national
+  governments, play a crucial role in economic policy and financial stability. Delve
+  into the impact of algo trading on bond markets, enhancing efficiency and liquidity
+  through advanced technology. Gain a deeper understanding of public debt management
+  and its implications for fiscal policy and investment strategies. This piece offers
+  valuable insights into the intersecting dynamics of government bonds, public debt,
+  and algo trading, essential for navigating modern financial markets.
+title: Government Bond (Algo Trading)
 ---
 
 The world of bonds and public debt is intricate yet critical to understanding modern financial markets. Government bonds serve as pivotal instruments of economic policy due to their ability to provide low-risk investment opportunities. Issued by national governments, these bonds facilitate the financing of public initiatives and help manage budget deficits. Unlike other high-yield investments that come with significant levels of risk, government bonds are perceived as stable, primarily because they are backed by the issuing government's creditworthiness. 

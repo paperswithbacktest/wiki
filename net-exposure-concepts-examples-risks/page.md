@@ -1,6 +1,8 @@
 ---
-title: "Net Exposure: Concepts, Examples, and Risks (Algo Trading)"
-description: "Explore crucial concepts such as net exposure, financial risk, and algorithmic trading to form effective investment strategies in today's dynamic markets."
+category: quant_concept
+description: Explore crucial concepts such as net exposure, financial risk, and algorithmic
+  trading to form effective investment strategies in today's dynamic markets.
+title: 'Net Exposure: Concepts, Examples, and Risks (Algo Trading)'
 ---
 
 In today's dynamic financial markets, understanding various investment concepts is crucial for effective decision-making. This article explores key topics related to investment examples, financial risk, net exposure, and algorithmic trading. These concepts are increasingly important, as they play a critical role in shaping investment strategies and mitigating risks.

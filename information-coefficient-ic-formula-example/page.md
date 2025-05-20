@@ -1,6 +1,8 @@
 ---
-title: "Information Coefficient (IC) Formula and Example (Algo Trading)"
-description: "Explore the Information Coefficient in algo trading and its role in evaluating predictive accuracy. Discover its formula practical applications and potential challenges."
+category: quant_concept
+description: Explore the Information Coefficient in algo trading and its role in evaluating
+  predictive accuracy. Discover its formula practical applications and potential challenges.
+title: Information Coefficient (IC) Formula and Example (Algo Trading)
 ---
 
 Understanding how market predictions match actual outcomes is crucial for investment analysts and portfolio managers. The accuracy of these predictions significantly impacts decision-making processes and the overall success of financial strategies. The Information Coefficient (IC) offers a quantitative measure of prediction accuracy, which is essential for evaluating the effectiveness of predictive models. By assessing the correlation between forecasted and actual returns, the IC provides insight into the degree of alignment between predictions and market realities.

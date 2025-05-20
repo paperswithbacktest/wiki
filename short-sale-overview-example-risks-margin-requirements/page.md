@@ -1,6 +1,8 @@
 ---
-title: "Short Sale: Overview, Example, Risks, and Margin Requirements (Algo Trading)"
-description: "Discover the intricacies of short selling including the role of algorithmic trading margin requirements and risks to optimize your trading strategies."
+category: trading_strategy
+description: Discover the intricacies of short selling including the role of algorithmic
+  trading margin requirements and risks to optimize your trading strategies.
+title: 'Short Sale: Overview, Example, Risks, and Margin Requirements (Algo Trading)'
 ---
 
 Short selling is a trading strategy where an investor borrows shares and sells them in anticipation of a price decline. Later, the investor seeks to repurchase these shares at a lower price to return them to the lender, profiting from the difference. This technique has gained popularity due to its potential for profit even in bearish markets, serving as a tool for hedging or speculative investments.

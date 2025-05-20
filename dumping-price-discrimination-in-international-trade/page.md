@@ -1,6 +1,12 @@
 ---
-title: "Dumping: Price Discrimination in International Trade (Algo Trading)"
-description: "Explore the intricacies of international trade through the lens of price discrimination and dumping. These practices influence markets by varying prices across regions, often leading to competitive advantages and challenges. Algorithmic trading further reshapes trade dynamics, enhancing efficiency but raising ethical concerns. Understand the legal and strategic implications of these practices on global trade and how they impact industry competition and regulatory environments."
+category: quant_concept
+description: Explore the intricacies of international trade through the lens of price
+  discrimination and dumping. These practices influence markets by varying prices
+  across regions, often leading to competitive advantages and challenges. Algorithmic
+  trading further reshapes trade dynamics, enhancing efficiency but raising ethical
+  concerns. Understand the legal and strategic implications of these practices on
+  global trade and how they impact industry competition and regulatory environments.
+title: 'Dumping: Price Discrimination in International Trade (Algo Trading)'
 ---
 
 International trade is a complex web of transactions and exchanges that connects countries globally, involving the flow of goods, services, and capital. At the heart of this global exchange lies two contentious practices: price discrimination and dumping. Price discrimination occurs when a seller charges different prices for the same product in different markets without corresponding cost differences. This practice can lead to increased market penetration and consumer exploitation, depending on its implementation. Alternatively, dumping refers to exporting goods at prices lower than the home market or even below production costs, often to gain market share in foreign markets and undermine local industries. Both practices have profound implications for global markets and industries, influencing competitive dynamics and economic structures.

@@ -1,6 +1,9 @@
 ---
-title: "Algorand and Ethereum: Differences and Overview (Algo Trading)"
-description: "Explore the key differences and strengths of Ethereum and Algorand in algorithmic trading Learn how these blockchain platforms enhance trading efficiency and speed"
+category: quant_concept
+description: Explore the key differences and strengths of Ethereum and Algorand in
+  algorithmic trading Learn how these blockchain platforms enhance trading efficiency
+  and speed
+title: 'Algorand and Ethereum: Differences and Overview (Algo Trading)'
 ---
 
 In the rapidly evolving world of blockchain technology, Ethereum and Algorand stand out as significant players. Each platform offers distinct features and functionalities that make them popular choices among both individuals and enterprises. Ethereum, often heralded as a pioneer in smart contracts and decentralized applications (dApps), has developed a robust ecosystem heavily enriched by its extensive and active developer community. This ecosystem provides a diverse array of tools and applications that cater to various industry needs, including algorithmic trading.

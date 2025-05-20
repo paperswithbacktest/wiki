@@ -1,6 +1,9 @@
 ---
-title: "Preferred Redeemable Increased Dividend Equity Security (Algo Trading)"
-description: "Explore the innovative Preferred Redeemable Increased Dividend Equity Securities (PRIDES) and their fusion of equity and fixed-income features with algorithmic trading."
+category: quant_concept
+description: Explore the innovative Preferred Redeemable Increased Dividend Equity
+  Securities (PRIDES) and their fusion of equity and fixed-income features with algorithmic
+  trading.
+title: Preferred Redeemable Increased Dividend Equity Security (Algo Trading)
 ---
 
 In the evolving landscape of financial instruments, Preferred Redeemable Increased Dividend Equity Securities (PRIDES) have emerged as a novel investment tool. These securities are synthetic in nature, designed to offer a blend of equity and fixed income characteristics. This unique combination makes PRIDES particularly attractive to investors who are in search of both capital appreciation and steady income streams.

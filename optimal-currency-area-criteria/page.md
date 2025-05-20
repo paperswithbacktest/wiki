@@ -1,6 +1,9 @@
 ---
-title: "Optimal Currency Area and Its Criteria (Algo Trading)"
-description: "Explore how the Optimal Currency Area theory and algorithmic trading intersect to benefit monetary unions by enhancing currency stability and economic efficiency."
+category: quant_concept
+description: Explore how the Optimal Currency Area theory and algorithmic trading
+  intersect to benefit monetary unions by enhancing currency stability and economic
+  efficiency.
+title: Optimal Currency Area and Its Criteria (Algo Trading)
 ---
 
 The Optimal Currency Area (OCA) theory, introduced by economist Robert Mundell in 1961, provides a framework for analyzing the conditions under which a group of countries would benefit from sharing a single currency. The theory highlights criteria such as labor mobility, capital mobility, fiscal integration, and synchronized business cycles, all of which are essential for ensuring the success of a monetary union. These factors help mitigate the economic disparities and asymmetric shocks that can arise when multiple countries operate under a unified monetary policy.

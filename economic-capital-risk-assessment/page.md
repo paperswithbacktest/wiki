@@ -1,6 +1,9 @@
 ---
-title: "Economic Capital and Risk Assessment (Algo Trading)"
-description: "Explore the crucial roles of risk management and economic capital in algorithmic trading focusing on effective risk assessment and mitigation for optimized trading outcomes."
+category: quant_concept
+description: Explore the crucial roles of risk management and economic capital in
+  algorithmic trading focusing on effective risk assessment and mitigation for optimized
+  trading outcomes.
+title: Economic Capital and Risk Assessment (Algo Trading)
 ---
 
 In the fast-paced world of finance, effective risk management and capital allocation serve as essential pillars for both traditional and algorithmic trading strategies. These elements not only safeguard financial stability but also enhance the potential for optimized trading outcomes. This article examines the interconnected aspects of risk assessment, risk management, economic capital, and algorithmic trading. 

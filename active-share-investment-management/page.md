@@ -1,6 +1,9 @@
 ---
-title: "Active Share in Investment Management (Algo Trading)"
-description: "Explore active share and algorithmic trading in investment management to enhance portfolio performance by understanding fund management and efficient trade execution."
+category: trading_strategy
+description: Explore active share and algorithmic trading in investment management
+  to enhance portfolio performance by understanding fund management and efficient
+  trade execution.
+title: Active Share in Investment Management (Algo Trading)
 ---
 
 Investment portfolio management is a critical aspect of financial planning, aimed at maximizing returns while minimizing risks. This discipline involves the strategic allocation of assets, balancing both growth and security, to achieve specific financial goals. Two advanced methodologies have emerged as significant contributors to optimal portfolio performance: active share and algorithmic trading. 

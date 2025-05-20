@@ -1,6 +1,9 @@
 ---
-title: "Pork Bellies: Commodity Overview (Algo Trading)"
-description: "Explore the evolving world of pork derivatives trading with insights into historical trends, algorithmic strategies, and market dynamics for informed decision-making."
+category: quant_concept
+description: Explore the evolving world of pork derivatives trading with insights
+  into historical trends, algorithmic strategies, and market dynamics for informed
+  decision-making.
+title: 'Pork Bellies: Commodity Overview (Algo Trading)'
 ---
 
 Pork derivatives and pork bellies have long been integral to the commodity trading market, primarily due to their economic significance and role in food production. Historically, pork belly futures emerged as a vital instrument for managing price volatility in the meat industry. Introduced by the Chicago Mercantile Exchange in 1961, these futures allowed meatpackers and traders to hedge against fluctuations in pork prices, effectively stabilizing their operations against the inherent risks of agriculture and livestock production.

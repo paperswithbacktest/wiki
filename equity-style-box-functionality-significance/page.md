@@ -1,6 +1,9 @@
 ---
-title: "Equity Style Box: Functionality and Significance (Algo Trading)"
-description: "Explore the fusion of equity style box framework and algorithmic trading to optimize investment strategies, enhance returns, and achieve strategic asset allocation."
+category: quant_concept
+description: Explore the fusion of equity style box framework and algorithmic trading
+  to optimize investment strategies, enhance returns, and achieve strategic asset
+  allocation.
+title: 'Equity Style Box: Functionality and Significance (Algo Trading)'
 ---
 
 In the ever-evolving world of finance, investors constantly seek strategies that not only optimize returns but also effectively manage risk. Two prominent approaches that have garnered attention in recent years are the equity style box model and algorithmic trading. Each of these methodologies offers distinct advantages that investors can leverage to enhance their investment strategies.

@@ -1,6 +1,8 @@
 ---
-title: "Asset Classes: A Beginner's Introduction to Investing (Algo Trading)"
-description: "Explore the fundamentals of asset classes and discover how algorithmic trading can simplify investing for beginners and seasoned investors alike."
+category: quant_concept
+description: Explore the fundamentals of asset classes and discover how algorithmic
+  trading can simplify investing for beginners and seasoned investors alike.
+title: 'Asset Classes: A Beginner''s Introduction to Investing (Algo Trading)'
 ---
 
 Investing is an essential component of building long-term wealth, yet the multitude of available asset classes can pose a challenge to beginners. This guide seeks to simplify investing by focusing on the fundamental aspects of asset classes and the increasing prevalence of algorithmic trading. By examining various asset classes and their associated risk levels, we aim to illustrate how algorithmic trading can serve both novice and seasoned investors as an effective tool.

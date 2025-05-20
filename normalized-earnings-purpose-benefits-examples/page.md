@@ -1,6 +1,8 @@
 ---
-title: "Normalized Earnings: Purpose, Benefits, and Examples (Algo Trading)"
-description: "Explore the significance of normalized earnings in algorithmic trading and financial analysis for a clearer understanding of a company's stable performance."
+category: quant_concept
+description: Explore the significance of normalized earnings in algorithmic trading
+  and financial analysis for a clearer understanding of a company's stable performance.
+title: 'Normalized Earnings: Purpose, Benefits, and Examples (Algo Trading)'
 ---
 
 Earnings adjustments refer to modifications made to a company's reported earnings to reflect a more accurate picture of its financial performance. These adjustments typically account for non-recurring events, such as restructuring costs or one-time gains, that can skew the financial results if included. Financial analysis involves examining financial data to understand an organization's current financial health and predict future performance. This analysis serves as the backbone for critical investment and corporate decisions. Normalized earnings are adjusted earnings figures designed to exclude unusual or one-off events, providing a more consistent view of a company’s usual financial performance over time. This consistency aids investors and analysts in making informed decisions based on the company's core business operations.

@@ -1,6 +1,8 @@
 ---
-title: "Order Protection Rule (Algo Trading)"
-description: "Discover how the Order Protection Rule in algorithmic trading safeguards investors by ensuring trades are executed at the best available prices across markets."
+category: quant_concept
+description: Discover how the Order Protection Rule in algorithmic trading safeguards
+  investors by ensuring trades are executed at the best available prices across markets.
+title: Order Protection Rule (Algo Trading)
 ---
 
 Financial regulation in securities trading is a critical component in maintaining the integrity and stability of financial markets. It encompasses a vast array of rules and guidelines designed to ensure fair dealing and transparency among market participants, protecting investors from malpractice and systemic risks. Central to this regulatory framework are rules such as the Order Protection Rule, which is a key provision of the Regulation National Market System (NMS). The Order Protection Rule is specifically aimed at preventing trade-throughs – situations where orders are executed at prices inferior to the best available quotes displayed on other trading venues. By mandating that traders take available quotes into account, this rule seeks to ensure that investors obtain the best execution prices, fostering a fair and competitive trading environment.

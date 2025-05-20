@@ -1,7 +1,8 @@
 ---
-title: Pose Estimation in Machine Learning Using KPE and ORN Blocks
+category: quant_concept
 description: Pose estimation in machine learning detects human and object keypoints
   with KPE and ORN blocks for accurate real-time tracking Discover more inside
+title: Pose Estimation in Machine Learning Using KPE and ORN Blocks
 ---
 
 ![Image](images/1.png)

@@ -1,6 +1,9 @@
 ---
-title: "Risks of Bond Investment (Algo Trading)"
-description: "Explore the inherent risks of bond investments including interest rate and inflation impacts and learn how algorithmic trading can optimize strategy and returns."
+category: quant_concept
+description: Explore the inherent risks of bond investments including interest rate
+  and inflation impacts and learn how algorithmic trading can optimize strategy and
+  returns.
+title: Risks of Bond Investment (Algo Trading)
 ---
 
 The bond market plays an integral role in the global financial system, offering opportunities for both stability and income. Investors often turn to bonds when seeking to diversify their portfolios, given their reputation for being a safer alternative to equities. Bonds serve as a crucial counterbalance to the volatility associated with stocks, providing predictable income streams through interest payments.

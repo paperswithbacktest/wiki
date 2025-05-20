@@ -1,6 +1,12 @@
 ---
-title: "Evaluation of Forex Fundamentals (Algo Trading)"
-description: "Explore the intricacies of forex fundamentals and algorithmic trading with insights into currency valuation, economic indicators, and technological advancements. Understand how traders leverage GDP, CPI, and retail sales data to influence trading strategies while utilizing algorithms for executing automated trades. Dive into the dynamics of the forex market, the critical role of economic factors, and the impact of algorithmic processes on trading efficiency and decision-making."
+category: trading_strategy
+description: Explore the intricacies of forex fundamentals and algorithmic trading
+  with insights into currency valuation, economic indicators, and technological advancements.
+  Understand how traders leverage GDP, CPI, and retail sales data to influence trading
+  strategies while utilizing algorithms for executing automated trades. Dive into
+  the dynamics of the forex market, the critical role of economic factors, and the
+  impact of algorithmic processes on trading efficiency and decision-making.
+title: Evaluation of Forex Fundamentals (Algo Trading)
 ---
 
 Understanding the forex market is critical for traders looking to capitalize on currency fluctuations. It is the largest financial market globally, with a daily trading volume exceeding $6 trillion. Traders engage in buying and selling currency pairs to profit from changes in exchange rates. The market operates 24 hours a day, five days a week, encompassing various participants, including banks, financial institutions, corporations, governments, and individual traders.

@@ -1,6 +1,13 @@
 ---
-title: "Arthur Lewis and the Lewis Model (Algo Trading)"
-description: "Delve into the innovative intersection of economics and finance via algorithmic trading, a transformative force in financial markets. This article examines the intriguing connection between the Lewis model by economist Arthur Lewis and contemporary algorithmic trading strategies. Understand how these models, though from separate realms, both focus on optimizing resource allocation to drive growth and efficiency. Explore how insights from this fusion could influence trading strategies and economic policies for sustainable development."
+category: quant_concept
+description: Delve into the innovative intersection of economics and finance via algorithmic
+  trading, a transformative force in financial markets. This article examines the
+  intriguing connection between the Lewis model by economist Arthur Lewis and contemporary
+  algorithmic trading strategies. Understand how these models, though from separate
+  realms, both focus on optimizing resource allocation to drive growth and efficiency.
+  Explore how insights from this fusion could influence trading strategies and economic
+  policies for sustainable development.
+title: Arthur Lewis and the Lewis Model (Algo Trading)
 ---
 
 The intersection of economics and finance is an area marked by continuous innovation and adaptation. One of the most significant advancements in recent decades is algorithmic trading, which has revolutionized the financial markets by utilizing sophisticated algorithms and computing power to execute trades with enhanced speed and precision. This development allows traders to optimize strategies, reduce costs, and increase market efficiency, fundamentally changing the landscape of trading.

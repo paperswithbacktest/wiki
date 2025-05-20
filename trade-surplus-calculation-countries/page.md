@@ -1,6 +1,9 @@
 ---
-title: "Trade Surplus: Calculation and Countries (Algo Trading)"
-description: "Explore the dynamics of trade surplus and algorithmic trading in the global economy Gain insights into how surplus impacts international trade and economic policies"
+category: quant_concept
+description: Explore the dynamics of trade surplus and algorithmic trading in the
+  global economy Gain insights into how surplus impacts international trade and economic
+  policies
+title: 'Trade Surplus: Calculation and Countries (Algo Trading)'
 ---
 
 The global economy today is characterized by a complex web of trade and commerce that connects nations in unprecedented ways. This intricate network facilitates the exchange of goods, services, and capital across borders, forming the backbone of international economic relations. A crucial aspect of comprehending the global market is understanding concepts like economic surplus, trade surplus, international trade, and the increasingly prominent role of algorithmic trading.

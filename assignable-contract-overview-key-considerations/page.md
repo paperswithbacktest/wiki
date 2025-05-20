@@ -1,6 +1,9 @@
 ---
-title: "Assignable Contract: Overview and Key Considerations (Algo Trading)"
-description: "Explore the intersection of assignable contracts and algorithmic trading, uncovering strategic advantages and insights into modern financial instruments and markets."
+category: quant_concept
+description: Explore the intersection of assignable contracts and algorithmic trading,
+  uncovering strategic advantages and insights into modern financial instruments and
+  markets.
+title: 'Assignable Contract: Overview and Key Considerations (Algo Trading)'
 ---
 
 The world of contracts and automated trading is both vast and intricate, with a growing need for comprehension among financial professionals and traders alike. In this sphere, understanding terms like 'assignable contracts' and 'algorithmic trading' is essential for effectively navigating the modern financial landscape. Assignable contracts provide the flexibility to transfer rights and obligations to another party, a feature that holds significant relevance in sectors such as real estate, lending, and derivatives markets. On the other hand, algorithmic trading, which leverages computer algorithms for automated trading decisions, has become indispensable for market efficiency and speed.

@@ -1,6 +1,9 @@
 ---
-title: "Differences Between Preferred and Common Stock (Algo Trading)"
-description: "Explore the essential differences between common and preferred stocks and learn how algorithmic trading can enhance your investment strategy and optimize returns."
+category: quant_concept
+description: Explore the essential differences between common and preferred stocks
+  and learn how algorithmic trading can enhance your investment strategy and optimize
+  returns.
+title: Differences Between Preferred and Common Stock (Algo Trading)
 ---
 
 In the dynamic field of investment, understanding the fundamental differences between common stock and preferred stock is essential for investors aiming to diversify their portfolios or optimize their strategies. These two types of stocks cater to varying investor preferences, offering unique advantages and drawbacks that align with distinct financial goals and risk tolerance levels.

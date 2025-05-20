@@ -1,6 +1,9 @@
 ---
-title: "Financial Advisors and Cryptocurrency (Algo Trading)"
-description: "Explore how financial advisors navigate cryptocurrency investments and algorithmic trading, offering insights into regulatory compliance, client education, and portfolio integration."
+category: quant_concept
+description: Explore how financial advisors navigate cryptocurrency investments and
+  algorithmic trading, offering insights into regulatory compliance, client education,
+  and portfolio integration.
+title: Financial Advisors and Cryptocurrency (Algo Trading)
 ---
 
 The financial landscape has evolved significantly over the past decade, marking a substantial shift from traditional finance mechanisms to more innovative and decentralized systems. One of the most transformative elements in this evolution is the rise of cryptocurrency, a form of digital or virtual currency that leverages cryptographic principles to secure transactions and control the creation of new units. Since the introduction of Bitcoin in 2009, cryptocurrencies have proliferated, with thousands of variants emerging, each with unique features and applications.

@@ -1,6 +1,8 @@
 ---
-title: "Comparison of Annual Report and Form 10-K (Algo Trading)"
-description: "Explore how Form 10-K disclosures benefit algorithmic trading by analyzing financial metrics and integrating strategic insights for informed trading decisions."
+category: quant_concept
+description: Explore how Form 10-K disclosures benefit algorithmic trading by analyzing
+  financial metrics and integrating strategic insights for informed trading decisions.
+title: Comparison of Annual Report and Form 10-K (Algo Trading)
 ---
 
 Understanding financial disclosures is critical for informed investment decisions. One of the cornerstone documents in this context is the Form 10-K, which provides a comprehensive overview of a publicly traded company’s financial performance on an annual basis. The Form 10-K is mandated by the U.S. Securities and Exchange Commission (SEC) and includes detailed financial statements, management discussion and analysis, as well as disclosures of risk factors. This document is a valuable resource for investors and analysts as it offers significant insights into a company's current financial health and projections for future performance.

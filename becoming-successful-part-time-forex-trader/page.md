@@ -1,6 +1,9 @@
 ---
-title: "Becoming a Successful Part-Time Forex Trader (Algo Trading)"
-description: "Unlock your potential in Forex trading by mastering part-time and algorithmic strategies Optimize your trading success and make informed decisions with actionable insights"
+category: trading_strategy
+description: Unlock your potential in Forex trading by mastering part-time and algorithmic
+  strategies Optimize your trading success and make informed decisions with actionable
+  insights
+title: Becoming a Successful Part-Time Forex Trader (Algo Trading)
 ---
 
 The world of Forex trading presents a vast landscape for both full-time and part-time traders to capitalize on currency fluctuations and market movements. As the largest financial market globally, the Forex market offers unparalleled opportunities for profit generation through the buying and selling of currency pairs. In this article, we aim to provide a comprehensive guide to navigating the Forex market successfully, with particular attention to part-time trading and the use of algorithmic trading strategies.

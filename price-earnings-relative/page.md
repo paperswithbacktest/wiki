@@ -1,6 +1,8 @@
 ---
-title: "Price-Earnings Relative (Algo Trading)"
-description: "Enhance your trading strategies by understanding P/E and PEG ratios in stock valuation and their application in algorithmic trading for informed decisions."
+category: trading_strategy
+description: Enhance your trading strategies by understanding P/E and PEG ratios in
+  stock valuation and their application in algorithmic trading for informed decisions.
+title: Price-Earnings Relative (Algo Trading)
 ---
 
 Understanding stock valuation is essential for investors aiming to make informed decisions in the financial markets. Among the myriad of tools available, the Price-to-Earnings (P/E) ratio and the Price/Earnings-to-Growth (PEG) ratio stand out as fundamental metrics for evaluating stocks. The P/E ratio, a measure of how much investors are willing to pay for a dollar of a company's earnings, is calculated by dividing the market value per share by the earnings per share (EPS). This simple yet powerful tool provides insights into market perceptions of future growth and profitability.
@@ -183,4 +185,3 @@ The paper "Algorithmic Trading and DMA: An Introduction to Direct Access Trading
 Platforms like Coursera and edX offer courses such as "Machine Learning for Trading" by Georgia Tech and "Algorithmic Trading" by the Indian School of Business, which cover various aspects of stock valuation, statistical models, and execution strategies useful for algorithmic trading.
 
 These resources collectively provide a strong foundation for understanding both traditional valuation metrics and their applications within algorithmic trading, enabling investors to make more informed and strategic decisions.
-

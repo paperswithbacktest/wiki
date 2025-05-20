@@ -1,6 +1,9 @@
 ---
-title: "Peercoin: Overview and Comparison to Bitcoin (Algo Trading)"
-description: "Explore the similarities and differences between Peercoin and Bitcoin, focusing on their technologies, market positions, and the impact of algorithmic trading strategies."
+category: quant_concept
+description: Explore the similarities and differences between Peercoin and Bitcoin,
+  focusing on their technologies, market positions, and the impact of algorithmic
+  trading strategies.
+title: 'Peercoin: Overview and Comparison to Bitcoin (Algo Trading)'
 ---
 
 Bitcoin and Peercoin are two notable cryptocurrencies that have significantly contributed to the digital currency landscape since their inceptions. Bitcoin, introduced in 2009 by the pseudonymous developer Satoshi Nakamoto, marked the genesis of decentralized digital currencies by leveraging blockchain technology. Blockchain, essentially a distributed ledger confirmed by a network of nodes, ensures transparency and security. Bitcoin's introduction not only paved the way for a myriad of other digital currencies but also established the cryptocurrency market as a legitimate financial ecosystem.

@@ -1,6 +1,9 @@
 ---
-title: "Pretax Operating Income: Overview and Functionality (Algo Trading)"
-description: "Explore how Pretax Operating Income (PTOI) enhances algorithmic trading strategies by offering insights into a company's core operational efficiency and financial health."
+category: quant_concept
+description: Explore how Pretax Operating Income (PTOI) enhances algorithmic trading
+  strategies by offering insights into a company's core operational efficiency and
+  financial health.
+title: 'Pretax Operating Income: Overview and Functionality (Algo Trading)'
 ---
 
 Understanding key financial metrics is essential for informed decision-making in business finance. One such metric, Pretax Operating Income (PTOI), plays a crucial role in evaluating a company's operating efficiency by excluding taxes and non-core income items. PTOI illuminates a firm’s fundamental operational effectiveness, allowing stakeholders to focus on core business performance without the distortion of tax strategies or irregular income.

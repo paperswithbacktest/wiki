@@ -1,6 +1,8 @@
 ---
-title: "Initial Margin Requirements and Examples (Algo Trading)"
-description: "Explore the fundamental role of initial margin requirements in algorithmic trading with practical examples and insights into various market applications."
+category: quant_concept
+description: Explore the fundamental role of initial margin requirements in algorithmic
+  trading with practical examples and insights into various market applications.
+title: Initial Margin Requirements and Examples (Algo Trading)
 ---
 
 In the world of trading, comprehending margin requirements, particularly initial margin, is imperative for participants in algorithmic trading and financial markets. Margin requirements serve as financial metrics setting the threshold for the minimum equity an investor must uphold in a margin account. Initial margin represents the proportion of a trade's purchase price that must be funded with cash when utilizing a margin account, acting as a cornerstone of effective risk management. This article encompasses a thorough overview of initial margin requirements, elucidating their integral function in financial trading, supplemented by practical examples to demonstrate their implementation in real-world scenarios.

@@ -1,6 +1,8 @@
 ---
-title: "Triple Tops and Bottoms in Technical Analysis (Algo Trading)"
-description: "Discover how triple tops and bottoms in technical analysis can predict market reversals. Leverage these chart patterns with algo trading for optimal strategies."
+category: trading_strategy
+description: Discover how triple tops and bottoms in technical analysis can predict
+  market reversals. Leverage these chart patterns with algo trading for optimal strategies.
+title: Triple Tops and Bottoms in Technical Analysis (Algo Trading)
 ---
 
 Technical analysis is an essential tool used by traders to evaluate and predict price movements in financial markets. Through the use of historical price data, patterns, and technical indicators, traders can uncover insights that are not immediately visible in the price charts. Among the numerous chart patterns, triple tops and triple bottoms stand out due to their effectiveness in signaling potential market reversals. 

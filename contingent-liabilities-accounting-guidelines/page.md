@@ -1,6 +1,8 @@
 ---
-title: "Contingent Liabilities Accounting Guidelines (Algo Trading)"
-description: "Explore how accounting standards, contingent liabilities, and algorithmic trading impact financial markets, enhance transparency, and support strategic decisions."
+category: quant_concept
+description: Explore how accounting standards, contingent liabilities, and algorithmic
+  trading impact financial markets, enhance transparency, and support strategic decisions.
+title: Contingent Liabilities Accounting Guidelines (Algo Trading)
 ---
 
 This article examines how accounting standards, financial reporting, contingent liabilities, and algorithmic trading collectively shape modern financial markets and support informed strategic decision-making. Accounting standards offer a framework that ensures financial information is recorded and presented consistently, providing stakeholders with accurate insights into a firm's financial health. This consistency is pivotal in a rapidly evolving market environment, where transparency and comparability are essential for investor confidence and sound decision-making.
@@ -178,4 +180,3 @@ Ultimately, thriving in this dynamic environment requires a holistic approach, w
 9. Deloitte. "Governance and Control in Algorithmic Trading: Achieving Compliance and Strategic Alignment." This publication provides guidance on establishing robust governance systems to ensure algorithmic trading aligns with regulatory and strategic objectives. Available at: [Deloitte](https://www2.deloitte.com/).
 
 These resources provide a comprehensive understanding of the critical elements affecting modern financial practices, from accounting standards and reporting to the complexities introduced by algorithmic trading.
-

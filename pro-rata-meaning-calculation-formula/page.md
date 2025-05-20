@@ -1,6 +1,8 @@
 ---
-title: "Pro Rata: Meaning and Calculation Formula (Algo Trading)"
-description: "Explore the meaning of pro rata and understand its calculation formula alongside insights into algorithmic trading This article aids financial decision-making"
+category: quant_concept
+description: Explore the meaning of pro rata and understand its calculation formula
+  alongside insights into algorithmic trading This article aids financial decision-making
+title: 'Pro Rata: Meaning and Calculation Formula (Algo Trading)'
 ---
 
 In today's rapidly evolving financial landscape, understanding key financial terms and concepts is crucial. Modern finance is characterized by its complexity and interconnectivity, necessitating clear comprehension of various financial instruments and strategies. Two such important terms include 'pro rata' and 'algorithmic trading' (commonly known as algo trading), each carrying significant implications for different facets of finance.

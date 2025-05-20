@@ -1,6 +1,9 @@
 ---
-title: "Stochastic matrix (Algo Trading)"
-description: "Explore the pivotal role of stochastic matrices in algorithmic trading Used to model market behaviors these matrices help optimize strategies by predicting future trends"
+category: quant_concept
+description: Explore the pivotal role of stochastic matrices in algorithmic trading
+  Used to model market behaviors these matrices help optimize strategies by predicting
+  future trends
+title: Stochastic matrix (Algo Trading)
 ---
 
 Algorithmic trading is an ever-evolving field that continually seeks to harness the power of mathematical and statistical models for enhancing trading strategies. A key component in this landscape is the stochastic matrix, a mathematical tool crucial for modeling the behavior of financial instruments. Stochastic matrices provide a framework for understanding the probabilistic nature of market movements, enabling traders to create more informed strategies.

@@ -1,6 +1,8 @@
 ---
-title: "Subscription Pricing: Overview and Mechanism (Algo Trading)"
-description: "Explore how subscription pricing models enhance algorithmic trading with flexible plans providing ongoing access to tools, updates, and support for traders."
+category: quant_concept
+description: Explore how subscription pricing models enhance algorithmic trading with
+  flexible plans providing ongoing access to tools, updates, and support for traders.
+title: 'Subscription Pricing: Overview and Mechanism (Algo Trading)'
 ---
 
 Algorithmic trading, commonly referred to as algo trading, has fundamentally transformed the landscape of financial markets. By enabling trades to be executed at unprecedented speeds and volumes, algo trading surpasses human capabilities, facilitating more efficient and sophisticated market interactions. This technological advancement leverages complex algorithms and high-frequency trading systems, allowing traders to capitalize on market opportunities almost instantaneously.

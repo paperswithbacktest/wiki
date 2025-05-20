@@ -1,6 +1,9 @@
 ---
-title: "Guide to Buying Stocks (Algo Trading)"
-description: "Discover essential tips and strategies for buying stocks with confidence as a beginner, from understanding market basics to exploring algorithmic trading methods."
+category: trading_strategy
+description: Discover essential tips and strategies for buying stocks with confidence
+  as a beginner, from understanding market basics to exploring algorithmic trading
+  methods.
+title: Guide to Buying Stocks (Algo Trading)
 ---
 
 Investing in stocks can offer significant financial rewards, presenting an exciting opportunity for individuals looking to grow their wealth. Despite its potential, the stock market can also appear daunting to beginners, filled with complex terminology and volatile movements that may deter new investors from participating. This guide serves as a foundational resource aimed at demystifying stock market intricacies, providing practical advice to help newcomers make informed decisions with confidence.

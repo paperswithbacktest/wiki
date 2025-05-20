@@ -1,6 +1,9 @@
 ---
-title: "Comparison of U.S. and China Military Expenditures (Algo Trading)"
-description: "Explore how U.S. and China military expenditures impact global security and economic stability. Analyze budget trends and algorithmic trading effects on defense markets."
+category: quant_concept
+description: Explore how U.S. and China military expenditures impact global security
+  and economic stability. Analyze budget trends and algorithmic trading effects on
+  defense markets.
+title: Comparison of U.S. and China Military Expenditures (Algo Trading)
 ---
 
 The focus on military spending by the United States and China has become a critical area of analysis, particularly due to its implications on both global security and economic stability. Military expenditure, often referred to as the defense budget, is a significant allocation within a nation's fiscal plan dedicated to maintaining and enhancing armed forces' capabilities. This spending covers a broad range of needs, including personnel, research and development, procurement of weapons, and maintenance of facilities.

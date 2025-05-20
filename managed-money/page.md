@@ -1,6 +1,9 @@
 ---
-title: "Managed Money (Algo Trading)"
-description: "Explore managed funds and algorithmic trading as they reshape investment strategies with professional management and automated trade precision for optimal returns."
+category: trading_strategy
+description: Explore managed funds and algorithmic trading as they reshape investment
+  strategies with professional management and automated trade precision for optimal
+  returns.
+title: Managed Money (Algo Trading)
 ---
 
 The world of investment finance is witnessing significant transformations, with managed funds and algorithmic trading gaining increasing prominence. These strategies represent a fusion of traditional financial management and cutting-edge technology, fostering enhanced investment opportunities and risk management approaches for investors. Managed funds and algorithmic trading are not only pivotal individually but also intersect to form a new paradigm in portfolio management.

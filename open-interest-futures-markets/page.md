@@ -1,6 +1,8 @@
 ---
-title: "Open Interest in Futures Markets (Algo Trading)"
-description: "Explore the vital role of open interest and algorithmic trading in futures markets Learn how these elements can enhance trading strategies and market analysis"
+category: quant_concept
+description: Explore the vital role of open interest and algorithmic trading in futures
+  markets Learn how these elements can enhance trading strategies and market analysis
+title: Open Interest in Futures Markets (Algo Trading)
 ---
 
 The objective of this article is to explore the significant role of open interest and algorithmic trading within the futures market. The futures market operates as a pivotal segment of financial trading, offering market participants diverse mechanisms to hedge risk, speculate, and efficiently allocate assets. Central to this landscape is the concept of open interest, which reflects the total number of outstanding derivative contracts, such as options or futures, that have not been settled. Understanding open interest is crucial for market analysis, as it provides insights into market liquidity, position sizes, and potential shifts in price trends.

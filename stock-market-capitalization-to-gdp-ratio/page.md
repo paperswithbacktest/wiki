@@ -1,6 +1,8 @@
 ---
-title: "Stock Market Capitalization-to-GDP Ratio (Algo Trading)"
-description: "Explore the intricate relationship between stock market capitalization and GDP ratio alongside algorithmic trading to understand market valuation and dynamics."
+category: quant_concept
+description: Explore the intricate relationship between stock market capitalization
+  and GDP ratio alongside algorithmic trading to understand market valuation and dynamics.
+title: Stock Market Capitalization-to-GDP Ratio (Algo Trading)
 ---
 
 In the complex world of economics and finance, the GDP ratio to stock market capitalization provides a comprehensive overview of the economic landscape. This ratio emerges as a pivotal metric, guiding investors and policymakers in understanding the extent of market valuation relative to the economic output. Essentially, it acts as a barometer to assess whether a market is undervalued or overvalued in comparison to the size of the economy.

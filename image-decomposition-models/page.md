@@ -1,7 +1,8 @@
 ---
-title: Understanding Image Decomposition Models in Machine Learning
+category: quant_concept
 description: Image decomposition models break images into clear and noisy parts for
   improved compression denoising and feature extraction Discover more inside.
+title: Understanding Image Decomposition Models in Machine Learning
 ---
 
 ![Image](images/1.png)

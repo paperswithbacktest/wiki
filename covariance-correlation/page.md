@@ -1,6 +1,12 @@
 ---
-title: "Covariance and Correlation Explained (Algo Trading)"
-description: Explore the critical roles of covariance and correlation in algorithmic trading as we demystify these statistical concepts and their application in trading strategies. Understand how they help in managing risk by revealing relationships between financial asset returns, aiding in informed decision-making. This article breaks down how these measures are calculated, their differences, and their relevance in enhancing trading efficiency and portfolio diversification.
+category: quant_concept
+description: Explore the critical roles of covariance and correlation in algorithmic
+  trading as we demystify these statistical concepts and their application in trading
+  strategies. Understand how they help in managing risk by revealing relationships
+  between financial asset returns, aiding in informed decision-making. This article
+  breaks down how these measures are calculated, their differences, and their relevance
+  in enhancing trading efficiency and portfolio diversification.
+title: Covariance and Correlation Explained (Algo Trading)
 ---
 
 Algorithmic trading, often referred to as algo trading, is the use of computer algorithms to automate and optimize the process of trading financial instruments, such as stocks, bonds, and currencies. These algorithms follow pre-defined rules and criteria to execute trading orders at speeds and frequencies that human traders cannot match. Algo trading is widely used in modern financial markets due to its ability to process vast amounts of data, analyze market trends, and execute trades with precision, all while minimizing the impact of human emotions on trading decisions. The significance of algo trading lies in its potential to enhance market liquidity, improve the efficiency of market operations, and potentially generate higher returns for traders and investors.

@@ -1,6 +1,8 @@
 ---
-title: "Forward Margin: Definition and Functionality (Algo Trading)"
-description: "Explore the essentials of forward margin in algo trading to enhance market strategies Understand forward margin's role and testing methods for optimized trading."
+category: quant_concept
+description: Explore the essentials of forward margin in algo trading to enhance market
+  strategies Understand forward margin's role and testing methods for optimized trading.
+title: 'Forward Margin: Definition and Functionality (Algo Trading)'
 ---
 
 Algorithmic trading, often referred to as algo trading, has transformed the financial markets with its unprecedented ability to execute trades at lightning speed. Unlike traditional trading methods, which are heavily reliant on human decision-making, algorithmic trading utilizes pre-programmed instructions to analyze market data and make trading decisions autonomously. The success of these systems, however, is intricately tied to a thorough understanding of complex financial terms, such as forward margin, and the application of rigorous testing methodologies.

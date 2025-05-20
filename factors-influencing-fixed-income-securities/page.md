@@ -1,6 +1,8 @@
 ---
-title: "Factors Influencing Fixed-Income Securities (Algo Trading)"
-description: "Explore the key factors impacting fixed-income securities and how algorithmic trading is shaping investment strategies for enhanced market precision and efficiency."
+category: trading_strategy
+description: Explore the key factors impacting fixed-income securities and how algorithmic
+  trading is shaping investment strategies for enhanced market precision and efficiency.
+title: Factors Influencing Fixed-Income Securities (Algo Trading)
 ---
 
 Fixed-income securities provide investors with a reliable source of income through periodic interest payments. Traditionally, these investment vehicles have played a crucial role in stabilizing portfolios amidst the unpredictability of equity markets. They typically include bonds, notes, and other debt instruments issued by governments, corporations, or other entities, which promise returns at specified intervals.

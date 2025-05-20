@@ -1,6 +1,8 @@
 ---
-title: "microstructure noise (Algo Trading)"
-description: "Understand microstructure noise in algorithmic trading: its causes, effects on pricing, and strategies to mitigate. Enhance your trading accuracy today."
+category: quant_concept
+description: 'Understand microstructure noise in algorithmic trading: its causes,
+  effects on pricing, and strategies to mitigate. Enhance your trading accuracy today.'
+title: microstructure noise (Algo Trading)
 ---
 
 Microstructure noise is a pivotal concept in algorithmic trading, characterized by the deviations observed between asset prices in the market and their intrinsic values or fundamental prices. These discrepancies commonly stem from various market frictions and inefficiencies that can obscure true price signals. Notable contributors to microstructure noise include order processing delays, transaction costs, and strategic or manipulative practices by market participants. For example, order processing delays occur when there is a lag between when a trade order is placed and when it is executed, leading to potential price changes during this interval. Transaction costs, encompassing bid-ask spreads, commissions, and other fees, introduce a wedge between buying and selling prices, thereby creating price discrepancies. Additionally, strategic behaviors such as spoofing—where traders place orders with the intent to cancel before execution—can artificially influence prices without reflecting genuine supply-demand dynamics.

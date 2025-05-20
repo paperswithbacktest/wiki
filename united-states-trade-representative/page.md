@@ -1,6 +1,8 @@
 ---
-title: "United States Trade Representative (Algo Trading)"
-description: "Explore the intersection of U.S. trade policies by the USTR and algorithmic trading to understand their impact on economic growth and global competitiveness."
+category: quant_concept
+description: Explore the intersection of U.S. trade policies by the USTR and algorithmic
+  trading to understand their impact on economic growth and global competitiveness.
+title: United States Trade Representative (Algo Trading)
 ---
 
 International trade serves as a fundamental pillar of the global economy, influencing the prices of goods and creating employment opportunities across various sectors. By facilitating the exchange of goods and services across borders, international trade contributes to increased economic efficiency, innovation, and consumer choice. The United States plays a critical role in this ecosystem through the efforts of the United States Trade Representative (USTR), an entity responsible for developing and coordinating international trade policies that advocate for American commercial interests. Established in 1962, the USTR addresses trade negotiations, market access, and the resolution of trade disputes to support growth in the U.S. economy.

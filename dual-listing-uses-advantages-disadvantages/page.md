@@ -1,6 +1,9 @@
 ---
-title: "Dual Listing: Uses, Advantages, and Disadvantages (Algo Trading)"
-description: "Explore dual listing in algo trading, its uses, advantages, and drawbacks Discover how this strategy enhances liquidity, diversifies investors, yet poses challenges."
+category: quant_concept
+description: Explore dual listing in algo trading, its uses, advantages, and drawbacks
+  Discover how this strategy enhances liquidity, diversifies investors, yet poses
+  challenges.
+title: 'Dual Listing: Uses, Advantages, and Disadvantages (Algo Trading)'
 ---
 
 Understanding the intricacies of financial markets is essential for both investors and businesses as they navigate an increasingly complex economic landscape. Financial markets encompass a wide array of activities, including the buying, selling, and trading of financial instruments, which are crucial for resource allocation, capital formation, and risk management. Key components of these markets, such as stock exchanges, dual listings, and algorithmic trading, are integral to modern economic systems.

@@ -1,6 +1,8 @@
 ---
-title: "Antidilutive Effects and Examples (Algo Trading)"
-description: "Explore how antidilutive effects influence algorithmic trading strategies Learn strategies to manage stock dilution and safeguard shareholder value efficiently"
+category: quant_concept
+description: Explore how antidilutive effects influence algorithmic trading strategies
+  Learn strategies to manage stock dilution and safeguard shareholder value efficiently
+title: Antidilutive Effects and Examples (Algo Trading)
 ---
 
 Stock dilution is a critical concept in finance, significantly influencing investor value. As businesses issue new shares, existing ownership percentages may be reduced, affecting earnings per share (EPS) and voting power. Recognizing and addressing these impacts is vital for investors, particularly within the high-speed domain of algorithmic trading. Algorithmic trading leverages sophisticated algorithms to automate the buying and selling of financial instruments, relying on data-driven insights to make predictions about market movements.

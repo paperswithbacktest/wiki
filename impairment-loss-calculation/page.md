@@ -1,6 +1,9 @@
 ---
-title: "Impairment Loss and Its Calculation (Algo Trading)"
-description: "Understand impairment loss calculation and its significance in algorithmic trading. Identifying impairment ensures accuracies in asset values for better financial reporting."
+category: quant_concept
+description: Understand impairment loss calculation and its significance in algorithmic
+  trading. Identifying impairment ensures accuracies in asset values for better financial
+  reporting.
+title: Impairment Loss and Its Calculation (Algo Trading)
 ---
 
 Impairment loss is a financial concept used to describe a reduction in the carrying value of an asset when its market value falls below its recoverable amount. This decline signifies that the asset is no longer worth its recorded value on the balance sheet and necessitates an adjustment, ensuring that the financial statements reflect an accurate asset valuation. Impairment loss is a critical factor for businesses focused on maintaining precise financial reporting, as it directly impacts income statements and the overall representation of an enterprise's financial health.

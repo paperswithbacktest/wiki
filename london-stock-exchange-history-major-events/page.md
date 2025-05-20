@@ -1,6 +1,8 @@
 ---
-title: "London Stock Exchange: History and Major Events (Algo Trading)"
-description: "Explore the rich history of the London Stock Exchange and its key events including the rise of algorithmic trading that transformed global finance dynamics."
+category: quant_concept
+description: Explore the rich history of the London Stock Exchange and its key events
+  including the rise of algorithmic trading that transformed global finance dynamics.
+title: 'London Stock Exchange: History and Major Events (Algo Trading)'
 ---
 
 The London Stock Exchange (LSE) stands as one of the preeminent institutions in the global financial landscape, boasting a rich history that spans more than three centuries. Founded formally in 1801, the LSE has been instrumental in driving economic growth and facilitating international trade through its robust system of listings and trades. Over the years, it has evolved significantly, adapting to the dynamic needs of the finance industry and thus maintaining its reputation as a key player in global markets.

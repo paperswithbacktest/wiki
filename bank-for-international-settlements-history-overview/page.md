@@ -1,6 +1,8 @@
 ---
-title: "Bank for International Settlements: History and Overview (Algo Trading)"
-description: "Explore the history of the Bank for International Settlements and its impact on global banking and algorithmic trading in today's dynamic financial landscape."
+category: quant_concept
+description: Explore the history of the Bank for International Settlements and its
+  impact on global banking and algorithmic trading in today's dynamic financial landscape.
+title: 'Bank for International Settlements: History and Overview (Algo Trading)'
 ---
 
 The world of international banking is both intricate and extensive, with numerous institutions and mechanisms that ensure its smooth operation. Among these, the Bank for International Settlements (BIS) stands out as a key player. Established in the early 20th century, BIS has grown to be recognized as the "central bank for central banks." It provides a neutral arena for national central banks to collaborate, facilitating an array of services including financial transactions and policy discussions. This collaboration and seamless transaction environment help maintain stability and efficiency within global financial markets.

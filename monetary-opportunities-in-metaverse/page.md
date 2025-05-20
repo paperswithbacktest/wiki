@@ -1,6 +1,9 @@
 ---
-title: "Monetary Opportunities in the Metaverse (Algo Trading)"
-description: "Explore the transformative potential of virtual reality, the metaverse, and algorithmic trading, revealing new paradigms and opportunities in the digital economy."
+category: quant_concept
+description: Explore the transformative potential of virtual reality, the metaverse,
+  and algorithmic trading, revealing new paradigms and opportunities in the digital
+  economy.
+title: Monetary Opportunities in the Metaverse (Algo Trading)
 ---
 
 The digital economy is undergoing a notable transformation, largely propelled by advancements in cutting-edge technologies such as virtual reality (VR), the metaverse, and algorithmic trading. These technologies are not only reshaping existing sectors but are also creating entirely new paradigms of operation. By examining how they integrate, particularly within sectors like finance and entertainment, one can gain valuable insights into the upcoming economic landscapes defined by digital innovation.

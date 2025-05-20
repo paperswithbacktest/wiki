@@ -1,7 +1,8 @@
 ---
-title: Understanding Theorem Proving Models in Machine Learning
+category: quant_concept
 description: Theorem proving models use machine learning and formal logic to automate
   mathematical proofs and enhance software verification Discover more inside.
+title: Understanding Theorem Proving Models in Machine Learning
 ---
 
 ![Image](images/1.png)

@@ -1,6 +1,8 @@
 ---
-title: "Slow Market: Definition and Mechanisms (Algo Trading)"
-description: "Explore the definition and mechanics of slow markets in algorithmic trading Learn how economic slowdowns alter trading strategies with evolving market dynamics"
+category: quant_concept
+description: Explore the definition and mechanics of slow markets in algorithmic trading
+  Learn how economic slowdowns alter trading strategies with evolving market dynamics
+title: 'Slow Market: Definition and Mechanisms (Algo Trading)'
 ---
 
 Economic slowdowns are critical to comprehending how market dynamics evolve over time. They affect not only the overall economic milieu but also exert significant pressure on market mechanisms and trading strategies. Primarily, these slowdowns impact markets by altering liquidity, volatility, and trading volumes, thus reshaping the strategies traders and investors use to succeed in such conditions.

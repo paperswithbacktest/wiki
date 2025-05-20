@@ -1,6 +1,11 @@
 ---
-title: "Investment Strategies During Market Downturns (Algo Trading)"
-description: "Discover effective investment strategies during market downturns by exploring diversification, algorithmic trading, and hedging techniques. Learn how to safeguard assets and capitalize on opportunities with robust financial planning and a strategic approach to volatile markets. Embrace historical insights and modern tools to navigate economic uncertainties with confidence and potential for growth."
+category: trading_strategy
+description: Discover effective investment strategies during market downturns by exploring
+  diversification, algorithmic trading, and hedging techniques. Learn how to safeguard
+  assets and capitalize on opportunities with robust financial planning and a strategic
+  approach to volatile markets. Embrace historical insights and modern tools to navigate
+  economic uncertainties with confidence and potential for growth.
+title: Investment Strategies During Market Downturns (Algo Trading)
 ---
 
 Investment strategy plays a critical role, especially during periods of market volatility and downturns. Market crashes, defined by abrupt and significant declines in stock prices, have historically disrupted the economic landscape, notably in years such as 2000, 2008, and 2020. These events often trigger anxiety among investors, yet they simultaneously present unique opportunities for those willing to apply strategic foresight and planning.

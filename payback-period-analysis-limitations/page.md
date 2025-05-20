@@ -1,6 +1,8 @@
 ---
-title: "Payback Period Analysis Limitations (Algo Trading)"
-description: "Explore the financial limitations of payback period analysis in algo trading with insights into its integration for balanced, informed investment strategies."
+category: quant_concept
+description: Explore the financial limitations of payback period analysis in algo
+  trading with insights into its integration for balanced, informed investment strategies.
+title: Payback Period Analysis Limitations (Algo Trading)
 ---
 
 The payback period is a critical concept in investment analysis, representing the time required for an investment to generate cash flows sufficient to recover its initial cost. It is essentially a measure of liquidity, indicating how quickly an investor can expect to break even on a particular venture. The payback period can be calculated by dividing the initial investment by the annual cash inflow. For instance, if an investment costs $10,000 and yields $2,000 annually, the payback period would be 5 years.

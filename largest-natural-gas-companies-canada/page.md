@@ -1,6 +1,8 @@
 ---
-title: "Largest Natural Gas Companies in Canada (Algo Trading)"
-description: "Explore Canada's robust natural gas sector and leading companies like Enbridge and CNRL. Learn how algorithmic trading enhances market efficiency."
+category: dataset
+description: Explore Canada's robust natural gas sector and leading companies like
+  Enbridge and CNRL. Learn how algorithmic trading enhances market efficiency.
+title: Largest Natural Gas Companies in Canada (Algo Trading)
 ---
 
 Canada's energy sector is a vital component of both the national economy and the global energy market. The country is endowed with an abundance of natural resources, making it one of the leading producers and exporters of energy. Canada ranks as the sixth-largest energy producer in the world and is notably recognized for its significant reserves of crude oil, natural gas, and hydroelectric power. The energy sector not only contributes substantially to Canada's GDP but also provides thousands of jobs across various fields, reinforcing its critical role in the nation's economic structure [1].

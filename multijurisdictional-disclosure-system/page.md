@@ -1,6 +1,8 @@
 ---
-title: "Multijurisdictional Disclosure System (Algo Trading)"
-description: "Explore the Multijurisdictional Disclosure System a US-Canada initiative simplifying cross-border securities, easing regulations and boosting market efficiency."
+category: quant_concept
+description: Explore the Multijurisdictional Disclosure System a US-Canada initiative
+  simplifying cross-border securities, easing regulations and boosting market efficiency.
+title: Multijurisdictional Disclosure System (Algo Trading)
 ---
 
 The financial sector is in a state of continuous transformation as regulatory frameworks evolve to manage the intricacies of cross-border transactions. A particularly noteworthy advancement within this context is the Multijurisdictional Disclosure System (MJDS), a collaborative initiative between the United States and Canada. It aims to harmonize securities regulations and streamline the processes involved in cross-border securities offerings.

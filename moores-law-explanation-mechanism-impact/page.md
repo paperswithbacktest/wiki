@@ -1,6 +1,8 @@
 ---
-title: "Moore's Law: Explanation, Mechanism, and Impact (Algo Trading)"
-description: "Explore how Moore's Law impacts technology and finance by examining its role in semiconductor advancements and algorithmic trading's rapid evolution."
+category: quant_concept
+description: Explore how Moore's Law impacts technology and finance by examining its
+  role in semiconductor advancements and algorithmic trading's rapid evolution.
+title: 'Moore''s Law: Explanation, Mechanism, and Impact (Algo Trading)'
 ---
 
 In the modern era, semiconductors have become integral to technological advancements, functioning as the critical components that power numerous innovations across various sectors. Central to this progression is Moore's Law, articulated by Gordon Moore in 1965, which predicts a regular doubling of the number of transistors on an integrated circuit approximately every two years. This observation not only predicted technology’s rapid evolution but also underscored the exponential growth trajectory of the semiconductor industry.

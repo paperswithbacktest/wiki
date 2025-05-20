@@ -1,6 +1,8 @@
 ---
-title: "Economic Sectors Contributing to New York's GDP Growth (Algo Trading)"
-description: "Explore how diverse sectors like finance, real estate, and technology drive New York's GDP, highlighting the transformative role of algorithmic trading."
+category: quant_concept
+description: Explore how diverse sectors like finance, real estate, and technology
+  drive New York's GDP, highlighting the transformative role of algorithmic trading.
+title: Economic Sectors Contributing to New York's GDP Growth (Algo Trading)
 ---
 
 New York's economy stands as a cornerstone of the United States' financial prowess, characterized by its diverse and vibrant industry sectors. As a global financial hub, New York hosts a multitude of industries ranging from finance, real estate, and technology to tourism. Each of these sectors significantly contributes to the Gross Domestic Product (GDP) of the state, solidifying its status as a critical engine of economic growth. For instance, the finance and insurance industry alone comprises a significant portion of New York's GDP, driven largely by Wall Street's robust financial activities and the presence of major stock exchanges, such as the New York Stock Exchange (NYSE) and NASDAQ.

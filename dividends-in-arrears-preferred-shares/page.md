@@ -1,6 +1,8 @@
 ---
-title: "Dividends in Arrears and Preferred Shares (Algo Trading)"
-description: "Explore the complexities of investing in preferred shares and the impact of dividends in arrears. Learn how algorithmic trading influences market dynamics."
+category: quant_concept
+description: Explore the complexities of investing in preferred shares and the impact
+  of dividends in arrears. Learn how algorithmic trading influences market dynamics.
+title: Dividends in Arrears and Preferred Shares (Algo Trading)
 ---
 
 Investing in preferred shares presents a unique complexity that investors must navigate, particularly with regards to dividends in arrears. Preferred shares are a class of ownership in a corporation that has a higher claim on its assets and earnings than common stock. One critical aspect of these shares is the dividend, which is often fixed, providing a steady income stream. However, companies may at times defer these payments due to financial distress, leading to dividends in arrears. For investors interested in preferred stocks, understanding dividends in arrears is crucial as it affects the potential income stream and overall investment return. When a company skips its preferred dividend, it typically accrues as a liability, to be paid to shareholders before any dividends can be paid on common shares, highlighting its relevance in safeguarding investor income.

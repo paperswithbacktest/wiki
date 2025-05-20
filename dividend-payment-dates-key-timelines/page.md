@@ -1,6 +1,8 @@
 ---
-title: "Dividend Payment Dates and Key Timelines (Algo Trading)"
-description: "Explore the key timelines and implications of dividend payments in algorithmic trading. Learn how dividends impact stock prices and optimize investment returns."
+category: quant_concept
+description: Explore the key timelines and implications of dividend payments in algorithmic
+  trading. Learn how dividends impact stock prices and optimize investment returns.
+title: Dividend Payment Dates and Key Timelines (Algo Trading)
 ---
 
 Understanding the nuances of dividend payments is crucial for investors and those involved in algorithmic trading. Dividends are not merely periodic payouts; they are integral to evaluating a company's financial health and future growth prospects. For investors, dividend payments can significantly influence portfolio returns as they offer a source of income distinct from capital gains derived through stock price appreciation. Knowing how dividends affect stock prices and investment returns is essential for making informed decisions.

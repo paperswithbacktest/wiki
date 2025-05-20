@@ -1,6 +1,9 @@
 ---
-title: "Day Trading With Margin (Algo Trading)"
-description: "Discover the power of day trading with margin and algorithmic trading. Learn how these strategies can maximize opportunities while managing associated risks."
+category: trading_strategy
+description: Discover the power of day trading with margin and algorithmic trading.
+  Learn how these strategies can maximize opportunities while managing associated
+  risks.
+title: Day Trading With Margin (Algo Trading)
 ---
 
 The financial markets have evolved substantially over the years, developing into a sophisticated and extensive ecosystem filled with diverse trading opportunities. Among the trading styles that have garnered popularity are day trading, margin trading, and algorithmic trading (also known as algo trading). Each of these approaches equips traders with distinct strategies designed to navigate the financial markets, offering unique advantages while simultaneously posing specific risks.

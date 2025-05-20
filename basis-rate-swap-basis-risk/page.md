@@ -1,6 +1,8 @@
 ---
-title: "Basis Rate Swap and Basis Risk (Algo Trading)"
-description: "Explore the intricate world of basis rate swaps and basis risk in algorithmic trading Discover how these financial derivatives aid in strategic risk management."
+category: quant_concept
+description: Explore the intricate world of basis rate swaps and basis risk in algorithmic
+  trading Discover how these financial derivatives aid in strategic risk management.
+title: Basis Rate Swap and Basis Risk (Algo Trading)
 ---
 
 Financial derivatives are sophisticated financial instruments that have transformed the landscape of modern finance by providing mechanisms for risk mitigation and speculation. Among these derivatives, basis rate swaps and basis risk are pivotal elements in an array of hedging and trading strategies utilized by businesses and financial institutions. Basis rate swaps enable entities to exchange variable interest rates to manage interest rate uncertainties, aligning with specific financial objectives to maintain financial stability.

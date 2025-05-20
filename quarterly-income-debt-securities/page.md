@@ -1,6 +1,8 @@
 ---
-title: "Quarterly Income Debt Securities (Algo Trading)"
-description: "Enhance your financial strategy by exploring the synergy of Quality Income Debt Securities and algorithmic trading for reliable, innovative investment returns."
+category: quant_concept
+description: Enhance your financial strategy by exploring the synergy of Quality Income
+  Debt Securities and algorithmic trading for reliable, innovative investment returns.
+title: Quarterly Income Debt Securities (Algo Trading)
 ---
 
 Fixed income investments are financial instruments known for providing regular income through interest payments over time and returning the principal amount upon maturity. These investments are fundamental components of financial markets, offering stability and predictability to investors. Debt securities, a primary form of fixed income investment, include instruments such as government and corporate bonds, which play a crucial role in generating a steady income stream. Their predictable nature makes them appealing to risk-averse investors seeking reliable financial returns.
@@ -188,4 +190,3 @@ As a call to action, investors should explore the array of fixed income investme
 [6]: ["Fixed Income Analytics"](https://www.msci.com/our-solutions/analytics/fixed-income-analytics) by David Bouchey, Michael Shulman, and Lionel Martellini
 
 [7]: Jarrow, Robert A. (2010). ["The Role of ABS in the Financial Crisis."](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3443043) The Review of Financial Studies, 24(7), 2129-2135.
-

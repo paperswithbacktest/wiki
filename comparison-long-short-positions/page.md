@@ -1,6 +1,8 @@
 ---
-title: "Comparison of Long and Short Positions (Algo Trading)"
-description: "Explore the differences between long and short positions in trading Learn how algorithmic trading enhances these strategies for optimal financial market performance"
+category: quant_concept
+description: Explore the differences between long and short positions in trading Learn
+  how algorithmic trading enhances these strategies for optimal financial market performance
+title: Comparison of Long and Short Positions (Algo Trading)
 ---
 
 In finance, the terms 'long position' and 'short position' are frequently buzzwords among traders and investors. These concepts are foundational to most trading strategies, whether investing in stocks, bonds, or commodities. A long position involves purchasing an asset with the expectation that its value will appreciate over time, enabling the investor to sell at a higher price. In contrast, a short position is taken when there is an anticipation of decline in the asset’s value, allowing profit from selling high and repurchasing at a lower price.

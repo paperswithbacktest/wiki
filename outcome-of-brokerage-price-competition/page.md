@@ -1,6 +1,8 @@
 ---
-title: "Outcome of Brokerage Price Competition (Algo Trading)"
-description: "Explore the transformation of the brokerage industry as zero-commission trading reshapes revenue models. Learn how algorithmic trading boosts competitiveness."
+category: quant_concept
+description: Explore the transformation of the brokerage industry as zero-commission
+  trading reshapes revenue models. Learn how algorithmic trading boosts competitiveness.
+title: Outcome of Brokerage Price Competition (Algo Trading)
 ---
 
 The brokerage industry has undergone a significant transformation driven by competitive pressures to reduce trade commissions to zero. This development, initially sparked by major brokerage firms such as Charles Schwab, E*TRADE, and Fidelity in October 2019, has fundamentally altered the landscape of trading. The move towards commission-free trading has significantly lowered entry barriers for retail investors, democratizing access to financial markets. As a consequence, traditional revenue models of brokerage firms have been disrupted, forcing these institutions to seek alternative avenues for profitability.

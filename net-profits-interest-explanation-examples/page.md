@@ -1,6 +1,8 @@
 ---
-title: "Net Profits Interest: Explanation and Examples (Algo Trading)"
-description: "Explore how Net Profits Interest in resource industries offers risk-free revenue while algorithmic trading enhances precision in investment strategies."
+category: trading_strategy
+description: Explore how Net Profits Interest in resource industries offers risk-free
+  revenue while algorithmic trading enhances precision in investment strategies.
+title: 'Net Profits Interest: Explanation and Examples (Algo Trading)'
 ---
 
 In the ever-evolving financial landscape, innovative tools and strategies continue to redefine how investors engage with markets. Among these advancements, Net Profits Interest (NPI) and Algorithmic Trading (Algo Trading) stand out for their potential to maximize investment returns. 

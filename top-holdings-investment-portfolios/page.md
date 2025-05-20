@@ -1,6 +1,8 @@
 ---
-title: "Top Holdings in Investment Portfolios (Algo Trading)"
-description: "Explore top holdings in investment portfolios and learn how algorithmic trading enhances portfolio management for optimized risk and rewards."
+category: trading_strategy
+description: Explore top holdings in investment portfolios and learn how algorithmic
+  trading enhances portfolio management for optimized risk and rewards.
+title: Top Holdings in Investment Portfolios (Algo Trading)
 ---
 
 Investment portfolios are critical components of robust financial planning. They serve as collections of financial assets held by individuals, companies, or institutions to meet specific investment goals. The diversity in portfolio composition helps mitigate risks and enhance returns, contributing to the long-term financial stability and growth for investors. By balancing different asset classes, investors can manage volatility and achieve desirable levels of risk-adjusted returns.

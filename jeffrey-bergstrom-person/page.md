@@ -1,6 +1,9 @@
 ---
-title: "Jeffrey Bergstrom (Person) (Algo Trading)"
-description: "Jeffrey A. Bergstrom is a pivotal figure in financial journalism and IT at John J. Lothian & Company known for advancing algorithmic trading and media strategies."
+category: quant_concept
+description: Jeffrey A. Bergstrom is a pivotal figure in financial journalism and
+  IT at John J. Lothian & Company known for advancing algorithmic trading and media
+  strategies.
+title: Jeffrey Bergstrom (Person) (Algo Trading)
 ---
 
 Jeffrey A. Bergstrom is recognized for his contributions to both financial journalism and information technology. Currently, he holds the position of Chief Information Officer (CIO) and editor at John J. Lothian & Company, Inc. His role has been pivotal in advancing algorithmic trading and digital media strategies within the firm. Bergstrom's work at John J. Lothian & Company is particularly notable for his integration of cutting-edge technologies to enhance financial reporting and trading strategies, which has significantly influenced the sectors the company operates in. This article will provide an overview of his biography and career achievements, while also highlighting his impact on algorithmic trading.

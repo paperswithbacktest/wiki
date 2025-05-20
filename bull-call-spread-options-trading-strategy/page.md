@@ -1,6 +1,8 @@
 ---
-title: "Bull Call Spread Options Trading Strategy (Algo Trading)"
-description: "Explore the bull call spread options strategy to optimize bullish trades with defined risk and reward. Discover algo trading tools for enhancing execution."
+category: trading_strategy
+description: Explore the bull call spread options strategy to optimize bullish trades
+  with defined risk and reward. Discover algo trading tools for enhancing execution.
+title: Bull Call Spread Options Trading Strategy (Algo Trading)
 ---
 
 Options trading has gained prominence as a key component of contemporary financial markets, appealing to both individual investors and institutional participants. Among various trading strategies, the bull call spread stands out as a popular choice for traders anticipating an upward trend in market prices while seeking to mitigate risk. This strategy enables traders to capitalize on a moderate rise in the asset's value, offering a balanced approach that limits potential losses due to its defined risk and reward structure.

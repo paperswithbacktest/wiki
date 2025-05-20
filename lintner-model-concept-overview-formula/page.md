@@ -1,6 +1,9 @@
 ---
-title: "Lintner Model: Concept, Overview, and Formula (Algo Trading)"
-description: "Explore the Lintner Model and its impact on dividend strategies in finance. Understand its role in algorithmic trading and insights for predicting corporate behaviors."
+category: quant_concept
+description: Explore the Lintner Model and its impact on dividend strategies in finance.
+  Understand its role in algorithmic trading and insights for predicting corporate
+  behaviors.
+title: 'Lintner Model: Concept, Overview, and Formula (Algo Trading)'
 ---
 
 The financial industry is in a perpetual state of transformation, driven by the continuous development of models and theories that mold corporate strategies and inform the approaches of traders. As the landscape of finance evolves, professionals must possess a deep understanding of foundational models that continue to exert influence. Among these, the Lintner Model stands out for its impactful approach to corporate dividend policies. Proposed by John Lintner in 1956, this model has provided substantial insight into how firms determine and adjust their dividend payouts.

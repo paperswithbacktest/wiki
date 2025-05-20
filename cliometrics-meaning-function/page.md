@@ -1,6 +1,8 @@
 ---
-title: "Cliometrics: Meaning and Function (Algo Trading)"
-description: "Explore cliometrics and its impact on algo trading by blending historical data and statistical analysis to enhance modern financial strategies and decision-making."
+category: quant_concept
+description: Explore cliometrics and its impact on algo trading by blending historical
+  data and statistical analysis to enhance modern financial strategies and decision-making.
+title: 'Cliometrics: Meaning and Function (Algo Trading)'
 ---
 
 Cliometrics represents a transformative approach within the field of economic history, utilizing statistical techniques to analyze and interpret historical economic phenomena. By merging traditional economic history with advanced statistical analysis, cliometrics provides a rigorous methodology for examining historical datasets to uncover patterns and insights that may have otherwise remained obscured. This interdisciplinary approach not only enables historians and economists to better understand economic developments over time but also facilitates the revision of widely held historical assumptions based on empirical data.

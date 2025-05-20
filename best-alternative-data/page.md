@@ -1,8 +1,11 @@
 ---
-title: "Best Alternative Data for Algo Trading in 2024"
-description: Discover the power of alternative data in algorithmic trading. From satellite imagery to corporate data, explore various types of alternative data and their impact on informed investment decisions. Unveil insights into consumer behavior, economic trends, and market movements.
+category: dataset
+description: Discover the power of alternative data in algorithmic trading. From satellite
+  imagery to corporate data, explore various types of alternative data and their impact
+  on informed investment decisions. Unveil insights into consumer behavior, economic
+  trends, and market movements.
+title: Best Alternative Data for Algo Trading in 2024
 ---
-
 
 Algorithmic trading, commonly referred to as algo trading, automates the trading process by leveraging computer programs to execute predefined trading strategies. At its core, these strategies rely heavily on data—often vast amounts of it—to make informed decisions. Traditionally, traders used fundamental or technical data such as company earnings, stock price histories, and economic indicators. However, with the influx of technology and the digitalization of information, a new frontier of data has emerged, known as alternative data.
 

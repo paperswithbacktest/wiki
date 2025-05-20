@@ -1,6 +1,8 @@
 ---
-title: "Comparison of EV/EBITDA and P/E Multiples (Algo Trading)"
-description: "Explore the differences between EV/EBITDA and P/E ratios to uncover their strengths in evaluating company valuation and potential in algo trading strategies."
+category: quant_concept
+description: Explore the differences between EV/EBITDA and P/E ratios to uncover their
+  strengths in evaluating company valuation and potential in algo trading strategies.
+title: Comparison of EV/EBITDA and P/E Multiples (Algo Trading)
 ---
 
 Valuation metrics are essential tools for investors seeking insights into the value and growth potential of companies. Among the myriad metrics available, two stand out due to their prevalent use and effectiveness: the Price-to-Earnings (P/E) ratio and the Enterprise Value to EBITDA (EV/EBITDA) multiple. These metrics serve as yardsticks that help investors gauge whether a company is undervalued or overvalued, particularly in relation to its market peers.

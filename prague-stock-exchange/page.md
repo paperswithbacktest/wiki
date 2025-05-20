@@ -1,6 +1,8 @@
 ---
-title: "Prague Stock Exchange (Algo Trading)"
-description: "Explore the Prague Stock Exchange's role in Czech finance from its historic roots to modern algo trading embracing adaptability innovation and capital growth."
+category: dataset
+description: Explore the Prague Stock Exchange's role in Czech finance from its historic
+  roots to modern algo trading embracing adaptability innovation and capital growth.
+title: Prague Stock Exchange (Algo Trading)
 ---
 
 The Prague Stock Exchange (PSE) stands as a historic pillar in the Czech Republic's financial landscape, being the country's oldest and most prominent stock exchange. Established in 1871 during the Austro-Hungarian Empire, the exchange's origins lie in its initial role as a commodities market, particularly pivotal in the sugar trade. Over the years, the PSE has transformed and expanded its scope, evolving into a major platform for Czech companies to list and trade their shares.

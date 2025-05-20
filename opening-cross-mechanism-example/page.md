@@ -1,6 +1,9 @@
 ---
-title: "Opening Cross: Mechanism and Example (Algo Trading)"
-description: "Optimize your trading strategy with insights into the opening cross and algorithmic trading. Learn how technology shapes stock market orders and boosts efficiency."
+category: quant_concept
+description: Optimize your trading strategy with insights into the opening cross and
+  algorithmic trading. Learn how technology shapes stock market orders and boosts
+  efficiency.
+title: 'Opening Cross: Mechanism and Example (Algo Trading)'
 ---
 
 In the ever-evolving world of stock markets, trading strategies play a crucial role in determining success. One critical component of these strategies is the opening cross, a key point in the trading day that often sets the tone for market movements. The opening cross is essentially the process that establishes the opening price of a stock and is characterized by an auction-like phase where buy and sell orders gather and execute at a single price. This initial transaction is pivotal, as it reflects the balance of supply and demand at the market's outset.

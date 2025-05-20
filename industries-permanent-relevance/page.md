@@ -1,6 +1,8 @@
 ---
-title: "Industries with Permanent Relevance (Algo Trading)"
-description: "Explore the timeless relevance of perennial industries enhanced by algorithmic trading's capacity to optimize operations and improve resilience in dynamic markets."
+category: trading_strategy
+description: Explore the timeless relevance of perennial industries enhanced by algorithmic
+  trading's capacity to optimize operations and improve resilience in dynamic markets.
+title: Industries with Permanent Relevance (Algo Trading)
 ---
 
 In today's rapidly changing global economy, certain sectors have shown a remarkable ability to withstand the test of time. These industries, often referred to as 'perennial sectors,' are deemed essential to human life and culture, and thus enjoy a certain degree of immunity from economic downturns. This article explores such industries, highlighting their longevity and resilience.

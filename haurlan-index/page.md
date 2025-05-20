@@ -1,6 +1,8 @@
 ---
-title: "Haurlan Index (Algo Trading)"
-description: "Discover the Haurlan Index a key technical analysis tool for algorithmic trading that combines market breadth with EMAs for enhanced trading insights."
+category: trading_strategy
+description: Discover the Haurlan Index a key technical analysis tool for algorithmic
+  trading that combines market breadth with EMAs for enhanced trading insights.
+title: Haurlan Index (Algo Trading)
 ---
 
 The stock market is a multifaceted system where numerous factors influence price movements and market dynamics. Traders use various tools to decipher these complexities, with technical analysis being among the most prominent. At the core of technical analysis lies a range of indicators, each offering unique insights into market behavior. One such indicator is the Haurlan Index, which distinguishes itself through its method of integrating market breadth with exponential moving averages (EMAs).

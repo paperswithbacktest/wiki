@@ -1,6 +1,8 @@
 ---
-title: "Basic Earnings Per Share (EPS): Formula and Example (Algo Trading)"
-description: "Explore the significance of Earnings Per Share (EPS) in investment strategies and algorithmic trading by understanding its calculation and market implications."
+category: quant_concept
+description: Explore the significance of Earnings Per Share (EPS) in investment strategies
+  and algorithmic trading by understanding its calculation and market implications.
+title: 'Basic Earnings Per Share (EPS): Formula and Example (Algo Trading)'
 ---
 
 In the ever-evolving world of finance, financial metrics play a crucial role in guiding investment and trading decisions. Earnings Per Share (EPS) is a significant metric that offers valuable insights into a company's profitability on a per-share basis. EPS is calculated by dividing a company's net income by its total number of outstanding shares, providing a standardized measure to compare profitability across different companies and industries. This metric aids investors in assessing a company's financial health and is often correlated with stock value, with a high EPS indicating strong profitability.
@@ -160,4 +162,3 @@ For a more advanced exploration of the intersection between financial metrics an
 McKinsey & Company’s publication, "Valuation: Measuring and Managing the Value of Companies," provides a broader perspective on evaluating company performance. This resource discusses how EPS contributes to overall company valuation and decision-making processes, which are crucial for both investors and trading algorithms.
 
 Finally, Irene Aldridge’s "High-Frequency Trading: A Practical Guide to Algorithmic Strategies and Trading Systems" is a key resource for understanding the mechanics of high-frequency trading ([HFT](/wiki/high-frequency-trading-strategies)) systems. It covers how financial metrics, including EPS, are utilized within sophisticated trading models to execute strategies at high speeds, challenging the reader to understand the technical underpinnings of modern trading environments.
-

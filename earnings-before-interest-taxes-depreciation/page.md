@@ -1,6 +1,8 @@
 ---
-title: "Earnings Before Interest, Taxes, and Depreciation (Algo Trading)"
-description: "Explore how EBITD is used in corporate finance and algorithmic trading to assess operational health and enhance trading strategies with data-driven insights."
+category: quant_concept
+description: Explore how EBITD is used in corporate finance and algorithmic trading
+  to assess operational health and enhance trading strategies with data-driven insights.
+title: Earnings Before Interest, Taxes, and Depreciation (Algo Trading)
 ---
 
 In corporate finance and trading, understanding key financial metrics is essential for making informed decisions. Metrics such as Earnings Before Interest, Tax, and Depreciation (EBITD) and Earnings Before Interest, Taxes, Depreciation, and Amortization (EBITDA), along with their variations, are instrumental in assessing a company’s operational health. These metrics are crucial for stakeholders, including investors, analysts, and corporate managers, who rely on them to gauge the true performance and profitability of businesses beyond the noise of financial engineering.
@@ -128,4 +130,3 @@ Moreover, when used in conjunction with other financial metrics, EBITD empowers 
 
 - **"Financial Statement Analysis: A Practitioner's Guide" by Martin S. Fridson & Fernando Alvarez**  
   This guide offers a practical approach to analyzing financial statements, delivering tools and techniques that practitioners can employ to evaluate financial health. It focuses on understanding the qualitative and quantitative aspects of financial disclosures to support strategic decision-making in corporate finance.
-

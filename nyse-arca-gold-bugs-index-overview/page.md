@@ -1,6 +1,8 @@
 ---
-title: "NYSE Arca Gold BUGS Index Overview (Algo Trading)"
-description: "Explore the NYSE Arca Gold BUGS Index, a key tool for investors in gold mining companies with minimal hedging, and learn about algo trading advantages."
+category: quant_concept
+description: Explore the NYSE Arca Gold BUGS Index, a key tool for investors in gold
+  mining companies with minimal hedging, and learn about algo trading advantages.
+title: NYSE Arca Gold BUGS Index Overview (Algo Trading)
 ---
 
 The NYSE Arca Gold BUGS Index is a pivotal instrument for investors with an interest in the gold sector, specifically focusing on companies involved in gold mining. As modern investing intricately ties itself with technology, the role of indices like the Gold BUGS Index becomes paramount in evaluating market movements within the precious metals arena. 

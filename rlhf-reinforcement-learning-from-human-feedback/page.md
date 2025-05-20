@@ -1,6 +1,14 @@
 ---
-title: "RLHF (Reinforcement Learning from Human Feedback) (Algo Trading)"
-description: Reinforcement Learning from Human Feedback (RLHF) is transforming algorithmic trading by incorporating human expertise into reinforcement learning models. This innovative approach allows trading algorithms to learn from human insights, capturing market nuances often overlooked by traditional methods. RLHF offers continuous improvement and adaptability, but it also faces challenges like human bias and scalability issues. As AI evolves, RLHF is set to play a crucial role in shaping more resilient and efficient trading strategies, combining human intuition with the power of machine learning.
+category: quant_concept
+description: Reinforcement Learning from Human Feedback (RLHF) is transforming algorithmic
+  trading by incorporating human expertise into reinforcement learning models. This
+  innovative approach allows trading algorithms to learn from human insights, capturing
+  market nuances often overlooked by traditional methods. RLHF offers continuous improvement
+  and adaptability, but it also faces challenges like human bias and scalability issues.
+  As AI evolves, RLHF is set to play a crucial role in shaping more resilient and
+  efficient trading strategies, combining human intuition with the power of machine
+  learning.
+title: RLHF (Reinforcement Learning from Human Feedback) (Algo Trading)
 ---
 
 Algorithmic trading, characterized by the use of pre-programmed instructions to execute trades at optimal speeds and frequencies, has revolutionized the financial markets over the past few decades. As traditional strategies become common knowledge and market efficiency increases, there is a burgeoning need for more sophisticated techniques to maintain competitive edges. This has led to the incorporation of artificial intelligence (AI) into trading systems, moving beyond static models to ones that learn and adapt to continuously shifting market conditions.

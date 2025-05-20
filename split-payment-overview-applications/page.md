@@ -1,6 +1,8 @@
 ---
-title: "Split Payment: Overview and Applications (Algo Trading)"
-description: "Explore how split payments enhance algorithmic trading by streamlining transaction settlements, optimizing trade executions, and boosting liquidity management."
+category: quant_concept
+description: Explore how split payments enhance algorithmic trading by streamlining
+  transaction settlements, optimizing trade executions, and boosting liquidity management.
+title: 'Split Payment: Overview and Applications (Algo Trading)'
 ---
 
 Split payment is a financial transaction mechanism where a payment is divided between multiple parties or split into several smaller transactions. It has particular relevance in today's digital economy as it facilitates seamless financial transactions, enhances customer convenience, and supports complex financial operations across sectors such as e-commerce, subscription services, and collaborative platforms. The ability to allocate payments efficiently and flexibly helps in managing cash flow and budgeting, crucial components in a rapidly changing financial landscape.

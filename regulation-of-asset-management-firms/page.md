@@ -1,6 +1,9 @@
 ---
-title: "Regulation of Asset Management Firms (Algo Trading)"
-description: "Explore the evolving role of algorithmic trading in asset management as firms navigate a complex regulatory landscape to ensure investor protection and market integrity."
+category: quant_concept
+description: Explore the evolving role of algorithmic trading in asset management
+  as firms navigate a complex regulatory landscape to ensure investor protection and
+  market integrity.
+title: Regulation of Asset Management Firms (Algo Trading)
 ---
 
 The financial industry has undergone a significant transformation with the integration of technological advancements, notably algorithmic trading. This evolution has reshaped how asset management and trading firms operate, as they now navigate an increasingly complex regulatory environment designed to protect investors and maintain market integrity. The intersection of finance, asset management regulations, and algorithmic trading is pivotal in molding the industry landscape, demanding a thorough understanding from professionals and stakeholders seeking compliance and growth.
@@ -100,4 +103,3 @@ Looking forward, the future trajectory of the financial industry hinges on how a
 [6]: Jansen, S. (2020). ["Machine Learning for Algorithmic Trading."](https://github.com/stefan-jansen/machine-learning-for-trading) Packt.
 
 [7]: Chan, E. P. (2008). ["Quantitative Trading: How to Build Your Own Algorithmic Trading Business."](https://github.com/ftvision/quant_trading_echan_book) Wiley.
-

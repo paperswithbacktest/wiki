@@ -1,6 +1,8 @@
 ---
-title: "Sharpe Ratio and Its Implications for Investors (Algo Trading)"
-description: "Discover the significance of the Sharpe Ratio for investors and algorithmic trading Explore its role in evaluating risk-adjusted returns and optimizing strategies."
+category: quant_concept
+description: Discover the significance of the Sharpe Ratio for investors and algorithmic
+  trading Explore its role in evaluating risk-adjusted returns and optimizing strategies.
+title: Sharpe Ratio and Its Implications for Investors (Algo Trading)
 ---
 
 Investing in financial markets represents a fundamental challenge of balancing the pursuit of returns with the management of associated risks. In navigating this complex landscape, the Sharpe Ratio emerges as a vital tool for investors, serving to evaluate the risk-adjusted return on their portfolios. Introduced by William F. Sharpe, the Sharpe Ratio quantifies how well the return of an asset compensates the investor for the risk taken, thus providing a clearer perspective on investment performance beyond raw returns.

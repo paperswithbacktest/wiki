@@ -1,6 +1,8 @@
 ---
-title: "Introducing Brokers (Algo Trading)"
-description: "Explore the vital role of introducing brokers in forex trading and discover how algorithmic trading enhances precision and efficiency in executing trades."
+category: quant_concept
+description: Explore the vital role of introducing brokers in forex trading and discover
+  how algorithmic trading enhances precision and efficiency in executing trades.
+title: Introducing Brokers (Algo Trading)
 ---
 
 In forex trading, partnerships between brokers and financial intermediaries play a critical role in facilitating seamless trading experiences. These partnerships foster a collaborative environment where multiple entities work together to enhance the efficacy and accessibility of forex markets. This article explores the intricate relationships within the forex market, focusing particularly on introducing brokers and algorithmic trading. Introducing brokers serve as intermediaries, channeling client orders to futures commission merchants while ensuring compliance with regulatory standards. Algorithmic trading, on the other hand, leverages advanced technology to execute trades based on predefined criteria, thereby reducing emotional biases and enhancing trading precision. 

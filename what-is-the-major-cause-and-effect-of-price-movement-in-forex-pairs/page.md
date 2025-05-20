@@ -1,6 +1,11 @@
 ---
-title: "What is the major cause and effect of price movement in Forex pairs?"
-description: "Discover the major causes and effects of price movements in Forex pairs, including economic news, central bank decisions, market sentiment, geopolitical events, trade imbalances, and their implications for trading opportunities, import/export costs, foreign investment, tourism, and inflation. Learn how to navigate this complex and dynamic market."
+category: quant_concept
+description: Discover the major causes and effects of price movements in Forex pairs,
+  including economic news, central bank decisions, market sentiment, geopolitical
+  events, trade imbalances, and their implications for trading opportunities, import/export
+  costs, foreign investment, tourism, and inflation. Learn how to navigate this complex
+  and dynamic market.
+title: What is the major cause and effect of price movement in Forex pairs?
 ---
 
 In the fast-paced world of Forex trading, understanding price movement is essential to grasping the broader implications of global finance. Forex, or foreign exchange, involves the exchange of currencies in pairs, such as EUR/USD or USD/JPY, and these movements can reflect the health of the global economy. The significance of price movement in Forex trading cannot be understated; it serves as a barometer for economic conditions, geopolitical stability, and investor sentiment, making it a crucial area for both traders and economists.

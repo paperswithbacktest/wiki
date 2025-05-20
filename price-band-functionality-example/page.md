@@ -1,6 +1,9 @@
 ---
-title: "Price Band: Definition and Functionality with Example (Algo Trading)"
-description: "Discover the essential role of price bands and algorithmic trading in financial markets Learn how these tools optimize trading strategies and manage volatility effectively"
+category: quant_concept
+description: Discover the essential role of price bands and algorithmic trading in
+  financial markets Learn how these tools optimize trading strategies and manage volatility
+  effectively
+title: 'Price Band: Definition and Functionality with Example (Algo Trading)'
 ---
 
 In financial markets, pricing strategies play a pivotal role for traders at all levels of expertise. Whether it is setting initial prices, making real-time adjustments, or executing complex trades, understanding these strategies is vital. Two key components that have gained prominence in enhancing pricing effectiveness are price bands and algorithmic trading.

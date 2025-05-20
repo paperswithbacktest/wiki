@@ -1,6 +1,8 @@
 ---
-title: "Market Equilibrium Models (Algo Trading)"
-description: "Explore market equilibrium models in algorithmic trading to optimize trade execution and enhance market efficiency by understanding supply-demand dynamics."
+category: quant_concept
+description: Explore market equilibrium models in algorithmic trading to optimize
+  trade execution and enhance market efficiency by understanding supply-demand dynamics.
+title: Market Equilibrium Models (Algo Trading)
 ---
 
 Market equilibrium models are integral to algorithmic trading, providing a critical framework for understanding how supply and demand interact to achieve balance in financial markets. These models, grounded in the principles of economic theory, have significantly evolved and now play a vital role in shaping the strategic execution of trades through algorithms. The objective is to ensure optimal market efficiency and maintain price stability, key factors in the smooth functioning of financial markets.

@@ -1,6 +1,8 @@
 ---
-title: "Comparison of CAGR and IRR (Algo Trading)"
-description: "Explore the differences between CAGR and IRR in financial investing and how algorithmic trading leverages these metrics for optimized portfolio returns."
+category: quant_concept
+description: Explore the differences between CAGR and IRR in financial investing and
+  how algorithmic trading leverages these metrics for optimized portfolio returns.
+title: Comparison of CAGR and IRR (Algo Trading)
 ---
 
 The world of financial investments and trading is continuously evolving, driven by sophisticated techniques and strategies. Among the myriad of tools and concepts that traders and investors use to gain a competitive edge, the Internal Rate of Return (IRR), Compound Annual Growth Rate (CAGR), and Algorithmic Trading stand out as fundamental components. These concepts not only aid in evaluating investment performance but also provide valuable insights for optimizing returns in the financial market.

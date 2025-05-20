@@ -1,6 +1,8 @@
 ---
-title: "principal-agent problems in trading (Algo Trading)"
-description: "Explore principal-agent issues in algorithmic trading where misaligned incentives between investors and automated systems may affect trading outcomes."
+category: quant_concept
+description: Explore principal-agent issues in algorithmic trading where misaligned
+  incentives between investors and automated systems may affect trading outcomes.
+title: principal-agent problems in trading (Algo Trading)
 ---
 
 Algorithmic trading, often referred to as 'Algo Trading', utilizes computer algorithms to automate trading decisions in financial markets. These algorithms are designed to analyze vast amounts of data and execute trades based on specific criteria without the need for human intervention. By removing emotions and human errors from the trading process, algo trading aims to increase efficiency and accuracy in financial transactions.

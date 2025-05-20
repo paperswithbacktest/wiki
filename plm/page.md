@@ -1,11 +1,10 @@
 ---
-title: Implementing Pre-Trained Language Models in Machine Learning
+category: quant_concept
 description: Pre-trained Language Models use extensive text data to master language
   patterns for versatile NLP tasks like translation and summarization Discover more
   inside
+title: Implementing Pre-Trained Language Models in Machine Learning
 ---
-
-
 
 ## Table of Contents
 

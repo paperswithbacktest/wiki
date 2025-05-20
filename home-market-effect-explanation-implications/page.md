@@ -1,6 +1,8 @@
 ---
-title: "Home Market Effect: Explanation and Implications (Algo Trading)"
-description: "Explore the intersection of trade theory, economic geography, home market effect, and algorithmic trading to understand their roles in global trade and strategy."
+category: quant_concept
+description: Explore the intersection of trade theory, economic geography, home market
+  effect, and algorithmic trading to understand their roles in global trade and strategy.
+title: 'Home Market Effect: Explanation and Implications (Algo Trading)'
 ---
 
 In an interconnected global economy, understanding the multifaceted nature of trade theory, economic geography, the home market effect, and algorithmic trading is critical. These components are instrumental in shaping the strategies and operations of countries and businesses as they navigate complex networks of trade, production, and investment.

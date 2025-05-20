@@ -1,6 +1,9 @@
 ---
-title: "High Minus Low in Finance (Algo Trading)"
-description: "Discover the integral role of High Minus Low (HML) in algorithmic trading and finance, unlocking value stocks' premium returns over growth stocks using data-driven strategies."
+category: quant_concept
+description: Discover the integral role of High Minus Low (HML) in algorithmic trading
+  and finance, unlocking value stocks' premium returns over growth stocks using data-driven
+  strategies.
+title: High Minus Low in Finance (Algo Trading)
 ---
 
 High Minus Low (HML) is a fundamental concept in quantitative finance, specifically within algorithmic trading. It is a crucial element in strategies designed to capitalize on the value premium, which refers to the tendency of value stocks—those with high book-to-market ratios—to outperform growth stocks, characterized by low book-to-market ratios, over the long term. The HML factor represents the return spread between these value and growth stocks, and it plays a significant role in the Fama-French models, particularly the Three-Factor Model.

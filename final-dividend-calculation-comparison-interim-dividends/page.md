@@ -1,6 +1,9 @@
 ---
-title: "Final Dividend: Calculation and Comparison with Interim Dividends (Algo Trading)"
-description: "Explore the essential aspects of final and interim dividends in algo trading, their calculation, and investor strategies to enhance returns and financial planning."
+category: quant_concept
+description: Explore the essential aspects of final and interim dividends in algo
+  trading, their calculation, and investor strategies to enhance returns and financial
+  planning.
+title: 'Final Dividend: Calculation and Comparison with Interim Dividends (Algo Trading)'
 ---
 
 Dividends play a fundamental role in the investment strategies of individuals and institutions alike, providing a regular income stream while also contributing to long-term capital growth. As distributions of a company's earnings to its shareholders, dividends are a significant part of corporate financial policies and can influence investor sentiment and behavior. Understanding the different types of dividends, namely interim and final dividends, is essential for investors aiming to craft a robust investment strategy that balances income needs with growth objectives.

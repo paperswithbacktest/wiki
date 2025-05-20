@@ -1,6 +1,9 @@
 ---
-title: "Risk-Based Haircut: Concept, Calculation, and Examples (Algo Trading)"
-description: "Explore how risk-based haircuts safeguard investors and lenders in algorithmic trading by minimizing devaluation risks with precise calculations and real-world examples."
+category: quant_concept
+description: Explore how risk-based haircuts safeguard investors and lenders in algorithmic
+  trading by minimizing devaluation risks with precise calculations and real-world
+  examples.
+title: 'Risk-Based Haircut: Concept, Calculation, and Examples (Algo Trading)'
 ---
 
 In the world of finance, understanding the nuances of collateral management and risk assessment is paramount. With the increasing complexity of financial markets, tools such as risk-based haircuts have become critical elements in maintaining market stability and mitigating potential losses. A risk-based haircut refers to a deliberate reduction in the recognized value of an asset used as collateral, particularly in environments susceptible to sharp market fluctuations. This practice is crucial in determining acceptable margins and managing financial leverage effectively.

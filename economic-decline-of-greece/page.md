@@ -1,6 +1,9 @@
 ---
-title: "Economic Decline of Greece (Algo Trading)"
-description: "Explore the impact of Greece's economic crisis and the role of algorithmic trading in today's market dynamics unraveling lessons to prevent future financial instability."
+category: quant_concept
+description: Explore the impact of Greece's economic crisis and the role of algorithmic
+  trading in today's market dynamics unraveling lessons to prevent future financial
+  instability.
+title: Economic Decline of Greece (Algo Trading)
 ---
 
 The global economic landscape has been intermittently shaped by crises, each leaving a lasting impact on countries and financial systems. Economic crises can stem from various factors, including fiscal mismanagement, structural inefficiencies, or international financial pressures, each triggering profound consequences both locally and globally. One of the most notable events in recent history is the financial crisis that struck Greece in the late 2000s. This crisis not only led to a significant economic decline within the country but also reverberated throughout the Eurozone, threatening its financial stability and cohesion.

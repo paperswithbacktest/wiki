@@ -1,6 +1,9 @@
 ---
-title: "Conversion Arbitrage: Definition and Mechanism (Algo Trading)"
-description: "Explore the intricacies of conversion arbitrage and its role in financial markets Discover how algorithmic trading enhances these strategies for optimized gain"
+category: trading_strategy
+description: Explore the intricacies of conversion arbitrage and its role in financial
+  markets Discover how algorithmic trading enhances these strategies for optimized
+  gain
+title: 'Conversion Arbitrage: Definition and Mechanism (Algo Trading)'
 ---
 
 Understanding financial markets often requires exploring complex strategies such as arbitrage, which involves the exploitation of price differences across markets to achieve profits. Arbitrage plays a vital role in the landscape of finance and trading, acting as a mechanism for correcting mispricing and ensuring efficiency across financial systems. Among these strategies, conversion arbitrage, financial arbitrage, investment strategies, and algorithmic trading have emerged as critical components in structuring successful trading activities.

@@ -1,6 +1,10 @@
 ---
-title: "Trading ideas (Algo Trading)"
-description: Explore the world of algorithmic trading with insights into effective strategies that enhance trading efficiency and risk management. Learn how cutting-edge algorithms automate trade execution, refine decision-making, and optimize portfolio performance in modern financial markets.
+category: trading_strategy
+description: Explore the world of algorithmic trading with insights into effective
+  strategies that enhance trading efficiency and risk management. Learn how cutting-edge
+  algorithms automate trade execution, refine decision-making, and optimize portfolio
+  performance in modern financial markets.
+title: Trading ideas (Algo Trading)
 ---
 
 Algorithmic trading, commonly referred to as algo trading, has fundamentally transformed the finance sector by employing sophisticated algorithms to automate trading strategies. By systematically analyzing market data and executing trades, algo trading minimizes human intervention and leverages computational power to enhance trading efficacy. 

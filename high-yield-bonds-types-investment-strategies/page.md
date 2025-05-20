@@ -1,6 +1,8 @@
 ---
-title: "High-Yield Bonds: Types and Investment Strategies (Algo Trading)"
-description: "Explore high-yield bonds for high returns: understand their risks, types, and strategies including algorithmic trading to enhance your investment portfolio."
+category: trading_strategy
+description: 'Explore high-yield bonds for high returns: understand their risks, types,
+  and strategies including algorithmic trading to enhance your investment portfolio.'
+title: 'High-Yield Bonds: Types and Investment Strategies (Algo Trading)'
 ---
 
 High-yield bonds, commonly referred to as junk bonds, are a significant component of investment portfolios due to their potential for higher returns compared to investment-grade bonds. These bonds are issued by companies with lower credit ratings, indicating a higher risk of default. However, this increased risk is compensated by the potential for higher yields, attracting investors seeking greater returns.

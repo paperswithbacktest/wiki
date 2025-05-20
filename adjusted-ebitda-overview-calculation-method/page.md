@@ -1,6 +1,8 @@
 ---
-title: "Adjusted EBITDA: Overview and Calculation Method (Algo Trading)"
-description: "Understand Adjusted EBITDA and its calculation method in algorithmic trading to evaluate true operational performance by removing financial anomalies."
+category: quant_concept
+description: Understand Adjusted EBITDA and its calculation method in algorithmic
+  trading to evaluate true operational performance by removing financial anomalies.
+title: 'Adjusted EBITDA: Overview and Calculation Method (Algo Trading)'
 ---
 
 Adjusted EBITDA is a pivotal metric that offers deeper insights into a company's operational performance by refining the standard EBITDA measure. While EBITDA stands for Earnings Before Interest, Taxes, Depreciation, and Amortization, its adjusted form goes further by removing anomalies. These anomalies often include non-recurring, non-operational, and one-time expenses, thereby providing a clearer view of true business operations. By excluding these financial irregularities, Adjusted EBITDA highlights a more accurate and standardized picture of a company's profitability.

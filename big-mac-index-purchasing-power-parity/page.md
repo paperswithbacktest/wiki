@@ -1,6 +1,8 @@
 ---
-title: "Big Mac Index and Purchasing Power Parity (Algo Trading)"
-description: "Discover how the Big Mac Index serves as a simplified tool for evaluating currency value and purchasing power parity, offering insights for traders and economists."
+category: quant_concept
+description: Discover how the Big Mac Index serves as a simplified tool for evaluating
+  currency value and purchasing power parity, offering insights for traders and economists.
+title: Big Mac Index and Purchasing Power Parity (Algo Trading)
 ---
 
 The Big Mac Index is an engaging and insightful measure introduced by the Economist in 1986, serving as a tool for evaluating the Purchasing Power Parity (PPP) of global currencies through the cost of a Big Mac burger. As a product available worldwide with uniform composition and branding, the Big Mac offers a simplified alternative to traditional PPP calculations, which typically use a broad 'basket of goods'. This single-item approach provides a more accessible and easily comparable data point for assessing currency value differences.

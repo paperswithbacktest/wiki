@@ -1,6 +1,9 @@
 ---
-title: "Notional Principal Amount (Algo Trading)"
-description: "Explore the critical role of notional principal in derivatives trading and its synergy with algorithmic trading innovations for improved risk assessment and precision."
+category: quant_concept
+description: Explore the critical role of notional principal in derivatives trading
+  and its synergy with algorithmic trading innovations for improved risk assessment
+  and precision.
+title: Notional Principal Amount (Algo Trading)
 ---
 
 Financial calculations form the backbone of modern trading, enabling market participants to assess risk, determine value, and execute trades with precision. At the heart of these calculations lies the notional principal, a fundamental measure in derivatives trading. Notional principal provides a basis for calculating expected gains and losses in contracts like swaps and options, thereby heavily influencing trading strategies. In essence, it acts as a reference value on which derivative contracts are based, without the actual exchange of this amount.

@@ -1,6 +1,8 @@
 ---
-title: "Basing Point Pricing System (Algo Trading)"
-description: "Explore the basing point pricing system with a unique focus on managing geographic pricing disparities for heavy goods like cement and steel."
+category: quant_concept
+description: Explore the basing point pricing system with a unique focus on managing
+  geographic pricing disparities for heavy goods like cement and steel.
+title: Basing Point Pricing System (Algo Trading)
 ---
 
 In the world of pricing strategies, the basing point pricing system stands out for its unique approach to handling geographic pricing disparities. This system works by establishing a uniform base price for products but adds a shipping charge calculated from a fixed geographical point, known as the basing point, rather than from the location of the shipment origin. This approach is often utilized in industries dealing with heavy and bulky goods, such as cement or steel, where transportation costs can vary significantly based on distance.

@@ -1,6 +1,8 @@
 ---
-title: "Fill in Investing: Mechanism and Types (Algo Trading)"
-description: "Discover how trade execution and algorithmic trading revolutionize investing with advanced technology streamlining transactions and enhancing market strategies."
+category: quant_concept
+description: Discover how trade execution and algorithmic trading revolutionize investing
+  with advanced technology streamlining transactions and enhancing market strategies.
+title: 'Fill in Investing: Mechanism and Types (Algo Trading)'
 ---
 
 In the fast-paced world of investing, trade execution and algorithmic trading have transformed how financial transactions are conducted. The digital age has introduced technologies that allow trades to be executed with unprecedented speed and precision, reshaping the financial markets. Trade execution involves the process of completing a buy or sell order for securities or commodities once it is placed on a trading platform. This process is integral to investing, as it ensures that the intention to transact is fulfilled in the market.

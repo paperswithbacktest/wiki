@@ -1,7 +1,8 @@
 ---
-title: Understanding Dynamic Machine Learning And Continuous Adaptation
+category: quant_concept
 description: Dynamic machine learning models adapt to new data continuously to enhance
   accuracy and relevance across finance healthcare and beyond. Discover more inside
+title: Understanding Dynamic Machine Learning And Continuous Adaptation
 ---
 
 ![Image](images/1.png)

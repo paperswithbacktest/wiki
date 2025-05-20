@@ -1,6 +1,8 @@
 ---
-title: "Stochastic control in trading (Algo Trading)"
-description: "Explore the role of stochastic control in algorithmic trading and how it enhances trading strategies by incorporating randomness and improving risk management."
+category: quant_concept
+description: Explore the role of stochastic control in algorithmic trading and how
+  it enhances trading strategies by incorporating randomness and improving risk management.
+title: Stochastic control in trading (Algo Trading)
 ---
 
 Stochastic control is a mathematical framework for modeling and analyzing systems driven by randomness. It plays an instrumental role in the field of algorithmic trading, where decisions are made based on predefined rules and mathematical models to optimize trading outcomes. Algorithmic trading, commonly known as algo trading, employs sophisticated algorithms to automate trading activities. This approach has gained significant traction in financial markets due to its capacity to process vast datasets with speed and precision.

@@ -1,6 +1,9 @@
 ---
-title: "Hamada Equation: Formula and Example (Algo Trading)"
-description: "Explore how the Hamada Equation explains the impact of leverage on risk and asset pricing in finance Discover its role in optimizing capital structure for trading."
+category: quant_concept
+description: Explore how the Hamada Equation explains the impact of leverage on risk
+  and asset pricing in finance Discover its role in optimizing capital structure for
+  trading.
+title: 'Hamada Equation: Formula and Example (Algo Trading)'
 ---
 
 Understanding the complex relationships between financial leverage, capital structure, and risk is crucial for modern financial management and decision-making. Financial leverage refers to the use of borrowed capital to increase the potential return on investment. It directly impacts a firm's risk profile: while it can amplify returns, it also increases the risk of financial distress. Capital structure, which is the mix of debt and equity financing used by a firm, plays a significant role in determining the firm's overall risk and return characteristics. The optimal capital structure minimizes the cost of capital and maximizes firm value, striking a balance between the advantages and disadvantages of debt financing.

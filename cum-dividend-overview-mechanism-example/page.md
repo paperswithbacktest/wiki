@@ -1,6 +1,8 @@
 ---
-title: "Cum Dividend: Overview, Mechanism, and Example (Algo Trading)"
-description: "Explore the cum dividend process and how algorithmic trading optimizes stock trading and investment strategies around key dividend dates for maximum returns."
+category: quant_concept
+description: Explore the cum dividend process and how algorithmic trading optimizes
+  stock trading and investment strategies around key dividend dates for maximum returns.
+title: 'Cum Dividend: Overview, Mechanism, and Example (Algo Trading)'
 ---
 
 Dividend stocks are an integral component of investment portfolios, providing investors with regular income in the form of dividends. These payments represent a portion of a company's earnings distributed to shareholders. Within this context, the concept of cum dividend becomes critical for investors who wish to maximize their returns. Cum dividend, meaning "with dividend," refers to the period during which a stock is trading with the rights to its forthcoming dividend payment. This status persists until the stock reaches its ex-dividend date, after which it trades without the dividend rights.

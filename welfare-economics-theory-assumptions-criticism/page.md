@@ -1,6 +1,9 @@
 ---
-title: "Welfare Economics: Theory, Assumptions, and Criticism (Algo Trading)"
-description: "Explore how welfare economics evaluates resource allocation to maximize social welfare while examining its relevance to algorithmic trading and economic policy."
+category: quant_concept
+description: Explore how welfare economics evaluates resource allocation to maximize
+  social welfare while examining its relevance to algorithmic trading and economic
+  policy.
+title: 'Welfare Economics: Theory, Assumptions, and Criticism (Algo Trading)'
 ---
 
 Economic theory is a comprehensive field that examines diverse topics essential for understanding human behavior within an economic context. Among the various branches, welfare economics stands out for its focus on resource allocation aimed at maximizing social welfare. This area of study evaluates how different economic policies and systems impact societal well-being, striving to achieve what is often referred to as economic efficiency and social welfare maximization.

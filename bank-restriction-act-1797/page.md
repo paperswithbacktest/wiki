@@ -1,6 +1,8 @@
 ---
-title: "Bank Restriction Act 1797 (Algo Trading)"
-description: "Explore the lasting impact of the Bank Restriction Act 1797 on British monetary policy and its relevance to today's algorithmic trading strategies."
+category: quant_concept
+description: Explore the lasting impact of the Bank Restriction Act 1797 on British
+  monetary policy and its relevance to today's algorithmic trading strategies.
+title: Bank Restriction Act 1797 (Algo Trading)
 ---
 
 The Bank Restriction Act of 1797 marked a seminal point in British economic history. Passed by the British Parliament, this Act limited the Bank of England's ability to convert banknotes into gold. Essentially, it suspended the convertibility of the British currency into gold, a move that fundamentally altered monetary policy and had wide-ranging implications on the economic landscape of the time. 

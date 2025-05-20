@@ -1,6 +1,9 @@
 ---
-title: "Role of Automated Bots in Cryptocurrency Trading (Algo Trading)"
-description: "Explore the transformative impact of automated bots in cryptocurrency trading Discover how algorithmic strategies optimize trades mitigate risks and maximize returns"
+category: trading_strategy
+description: Explore the transformative impact of automated bots in cryptocurrency
+  trading Discover how algorithmic strategies optimize trades mitigate risks and maximize
+  returns
+title: Role of Automated Bots in Cryptocurrency Trading (Algo Trading)
 ---
 
 Cryptocurrency trading has seen significant transformations with the incorporation of advanced technologies aimed at maximizing returns for traders. Among these advancements are trading bots and algorithmic trading which have increasingly become pivotal in the cryptocurrency market landscape. Trading bots serve as software programs designed to execute trades on behalf of the user based on predefined criteria, offering the major advantage of operating continuously in the 24/7 crypto markets. This unending market cycle is ideal for automation, as human traders cannot constantly monitor the market without exhaustion.

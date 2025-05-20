@@ -1,6 +1,8 @@
 ---
-title: "Diamond Top Formation: Characteristics and Trends (Algo Trading)"
-description: "Explore the diamond top formation in trading, a vital pattern for identifying trend reversals. Enhance your trading strategies with technical analysis insights."
+category: trading_strategy
+description: Explore the diamond top formation in trading, a vital pattern for identifying
+  trend reversals. Enhance your trading strategies with technical analysis insights.
+title: 'Diamond Top Formation: Characteristics and Trends (Algo Trading)'
 ---
 
 Trading patterns are essential elements for making informed decisions in financial markets. They help traders anticipate potential price movements and make strategic decisions based on observed historical trends. Among various patterns, the diamond top formation stands out as a distinctive technical analysis pattern that signals potential trend reversals. This pattern is considered crucial for traders since identifying a trend reversal can lead to profitable trading opportunities.

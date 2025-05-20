@@ -1,6 +1,8 @@
 ---
-title: "World Federation of Stock Exchanges (Algo Trading)"
-description: "Explore the World Federation of Stock Exchanges' pivotal role in enhancing global market efficiency and transparency through advancements in algorithmic trading."
+category: quant_concept
+description: Explore the World Federation of Stock Exchanges' pivotal role in enhancing
+  global market efficiency and transparency through advancements in algorithmic trading.
+title: World Federation of Stock Exchanges (Algo Trading)
 ---
 
 The world of stock exchanges is vast and complex, with numerous entities playing pivotal roles. Among these entities is the World Federation of Stock Exchanges (WFE), a key player in advocating for the interests of exchanges globally. Established as a premier industry association, the WFE represents more than 250 exchanges globally, working towards creating a unified and efficient framework for financial markets. This prominent organization plays a crucial role in enhancing transparency, ensuring market integrity, and providing a collaborative platform for exchanges confronting the rapid evolution of trading technologies.

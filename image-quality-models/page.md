@@ -1,7 +1,8 @@
 ---
-title: Understanding Image Quality Models in Machine Learning
+category: quant_concept
 description: Image Quality Models evaluate clarity noise and usability with ML techniques
   to enhance photography and medical imaging quality Discover more inside
+title: Understanding Image Quality Models in Machine Learning
 ---
 
 ![Image](images/1.png)

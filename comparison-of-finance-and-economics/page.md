@@ -1,6 +1,8 @@
 ---
-title: "Comparison of Finance and Economics (Algo Trading)"
-description: "Explore how finance, economics, and algorithmic trading intersect to shape modern markets. Discover their roles in money management and resource allocation."
+category: quant_concept
+description: Explore how finance, economics, and algorithmic trading intersect to
+  shape modern markets. Discover their roles in money management and resource allocation.
+title: Comparison of Finance and Economics (Algo Trading)
 ---
 
 In today's rapidly evolving financial landscape, understanding the relationship between finance, economics, and algorithmic trading is crucial. Finance and economics, while often intertwined, approach the study of markets from different perspectives, where finance focuses on money management and economics on resource allocation. Finance is primarily concerned with the processes of managing funds, engaging in investment activities, and evaluating risk versus return, often driven by empirical and quantitative methods. Concepts like interest rates, the time value of money, and portfolio management form the core of financial studies.

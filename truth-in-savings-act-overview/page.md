@@ -1,6 +1,9 @@
 ---
-title: "Truth in Savings Act Overview (Algo Trading)"
-description: "Explore the vital role of the Truth in Savings Act in ensuring banking transparency and fairness, alongside the challenges of algorithmic trading in consumer protection."
+category: quant_concept
+description: Explore the vital role of the Truth in Savings Act in ensuring banking
+  transparency and fairness, alongside the challenges of algorithmic trading in consumer
+  protection.
+title: Truth in Savings Act Overview (Algo Trading)
 ---
 
 Consumer protection remains a pivotal aspect of the financial industry, more so in the contemporary digital age where technological advancements are rapidly transforming the landscape. The Truth in Savings Act, a federal law enacted in 1991, stands as a vital regulatory measure ensuring transparency and fairness within the banking sector. This Act mandates clear disclosure of terms such as interest rates and fees by financial institutions, empowering consumers to make informed decisions regarding their deposit accounts. This legislation emerged partly in response to the Savings and Loan Crisis of the 1980s and early 1990s, a turbulent period marked by the collapse of many financial institutions, highlighting the need for robust consumer safeguards.

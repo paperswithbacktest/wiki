@@ -1,6 +1,9 @@
 ---
-title: "Utility in Economics: Types and Measurement (Algo Trading)"
-description: "Explore the application of economic utility in algorithmic trading Learn how utility measurement enhances trading strategies by optimizing decisions against risk and returns"
+category: quant_concept
+description: Explore the application of economic utility in algorithmic trading Learn
+  how utility measurement enhances trading strategies by optimizing decisions against
+  risk and returns
+title: 'Utility in Economics: Types and Measurement (Algo Trading)'
 ---
 
 Utility measurement is a foundational concept in economics, rooted in the idea of quantifying the satisfaction or value that individuals derive from goods and services. Historically, utility has been used to explain consumer choice behavior, influencing demand patterns and pricing strategies. This article examines how these economic theories of utility are increasingly being applied in algorithmic trading, a domain at the forefront of modern finance.

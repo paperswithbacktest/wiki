@@ -1,6 +1,11 @@
 ---
-title: "Sharpe ratio (SR) (Algo Trading)"
-description: Explore the Sharpe Ratio's role in algorithmic trading as a key metric for assessing risk-adjusted performance. Learn about calculating this crucial financial tool, its advantages, and limitations to optimize trading strategies. Discover how understanding the Sharpe Ratio empowers smarter investment decisions and enhances trading efficiency by evaluating returns relative to risk in diverse market conditions.
+category: quant_concept
+description: Explore the Sharpe Ratio's role in algorithmic trading as a key metric
+  for assessing risk-adjusted performance. Learn about calculating this crucial financial
+  tool, its advantages, and limitations to optimize trading strategies. Discover how
+  understanding the Sharpe Ratio empowers smarter investment decisions and enhances
+  trading efficiency by evaluating returns relative to risk in diverse market conditions.
+title: Sharpe ratio (SR) (Algo Trading)
 ---
 
 Algorithmic trading employs automated systems to execute trades based on pre-defined criteria, allowing for rapid and frequent transactions. This method leverages technology to optimize trading efficiency and capitalize on market opportunities with minimal human intervention. Key to successful algorithmic trading is a comprehensive understanding of both risk and return, as these elements determine the viability and potential profitability of the strategies deployed.

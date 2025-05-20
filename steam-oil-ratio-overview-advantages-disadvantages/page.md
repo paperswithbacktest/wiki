@@ -1,6 +1,9 @@
 ---
-title: "Steam-Oil Ratio: Overview, Advantages, and Disadvantages (Algo Trading)"
-description: "Explore the Steam-Oil Ratio's role in optimizing enhanced oil recovery methods discover its benefits and limitations, and how algorithmic trading influences oil efficiency."
+category: quant_concept
+description: Explore the Steam-Oil Ratio's role in optimizing enhanced oil recovery
+  methods discover its benefits and limitations, and how algorithmic trading influences
+  oil efficiency.
+title: 'Steam-Oil Ratio: Overview, Advantages, and Disadvantages (Algo Trading)'
 ---
 
 The oil recovery landscape has been significantly transformed over the past few decades, marked by the depletion of easily accessible reserves and increased global energy demands. This evolving scenario necessitates the advancement of recovery methods to enhance productivity and sustainability in oil extraction. One of the critical advancements in this field is Enhanced Oil Recovery (EOR), a set of sophisticated techniques employed to maximize the extraction of oil from previously tapped wells. Traditional methods often leave a considerable portion of oil unextracted, with EOR methods potentially increasing recovery rates up to 60% more than primary and secondary methods alone.
@@ -174,4 +177,3 @@ In closing, the role of advanced techniques in oil recovery is undeniable. By le
 [4]: Leifer, I. (2019). ["Innovating carbon-capture technology for climate change mitigation."](https://www.sciencedirect.com/science/article/pii/S2352484720301244) Scientific Reports.
 
 [5]: Culp, S. A. (2015). ["Risk Management in Financial Institutions and Algorithmic Trading."](https://onlinelibrary.wiley.com/doi/10.1002/9780470404324.hof003004) Council on Foreign Relations Publications.
-

@@ -1,6 +1,9 @@
 ---
-title: "Effectiveness of Simple Moving Averages in Trend Analysis (Algo Trading)"
-description: "Explore the effectiveness of simple moving averages in trend analysis for algorithmic trading Learn how SMAs can help identify trends by smoothing price data"
+category: trading_strategy
+description: Explore the effectiveness of simple moving averages in trend analysis
+  for algorithmic trading Learn how SMAs can help identify trends by smoothing price
+  data
+title: Effectiveness of Simple Moving Averages in Trend Analysis (Algo Trading)
 ---
 
 Technical indicators play an essential role in financial analysis and algorithmic trading, equipping investors with the tools required to make informed decisions. Among these, moving averages are especially significant as they help to smooth price data and identify trends, providing clarity amid market fluctuations. Moving averages are particularly valuable because they enable traders to focus on price trends by filtering out short-term price fluctuations, thus offering a clearer perspective of the market's direction. Within this category, simple moving averages (SMA) are widely utilized due to their straightforward calculation and effectiveness in trend analysis.

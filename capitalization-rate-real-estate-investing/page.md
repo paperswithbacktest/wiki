@@ -1,6 +1,9 @@
 ---
-title: "Capitalization Rate in Real Estate Investing (Algo Trading)"
-description: "Explore the evolving landscape of real estate investing by understanding cap rates and algorithmic trading Discover how these concepts enhance valuation techniques"
+category: quant_concept
+description: Explore the evolving landscape of real estate investing by understanding
+  cap rates and algorithmic trading Discover how these concepts enhance valuation
+  techniques
+title: Capitalization Rate in Real Estate Investing (Algo Trading)
 ---
 
 The landscape of real estate investing is continuously evolving, particularly through the integration of sophisticated valuation techniques and the modern methodologies of algorithmic trading. Central to property valuation is the capitalization rate (cap rate), a critical metric that measures the return on investment properties. Understanding the intersection of cap rates, property valuation, and algorithmic trading is key to maximizing investment returns.
@@ -223,4 +226,3 @@ In summary, the successful integration of technological innovations with traditi
 9. **"The Impact of Economic Conditions on Cap Rates and Real Estate Valuation" by C. Wuebker**: This article investigates the relationship between macroeconomic factors and capitalization rates, crucial for understanding market trends & their effect on property value assessment.
 
 These curated materials provide a well-rounded knowledge base for further exploration into real estate investment strategies, particularly emphasizing the intersection between traditional methodologies and technological advancements.
-

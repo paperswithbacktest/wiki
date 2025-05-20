@@ -1,6 +1,9 @@
 ---
-title: "impact of AI in trading (Algo Trading)"
-description: "Discover how AI transforms trading by enhancing accuracy, speed, and efficiency in algorithmic processes. Explore its impact on trading strategies and challenges."
+category: quant_concept
+description: Discover how AI transforms trading by enhancing accuracy, speed, and
+  efficiency in algorithmic processes. Explore its impact on trading strategies and
+  challenges.
+title: impact of AI in trading (Algo Trading)
 ---
 
 The financial markets have undergone a fundamental transformation with the introduction of Artificial Intelligence (AI) in trading, particularly in algorithmic trading. The integration of AI technologies into the trading environment has substantially enhanced efficiency by automating complex processes and reducing the time required to execute trades. This technological advancement has markedly improved accuracy by enabling precise data analysis and decision-making, thus altering traditional trading practices.

@@ -1,6 +1,9 @@
 ---
-title: "Options Price Reporting Authority Overview (Algo Trading)"
-description: "Explore the vital role of the Options Price Reporting Authority in ensuring transparent and efficient options pricing and algorithmic trading through real-time data."
+category: dataset
+description: Explore the vital role of the Options Price Reporting Authority in ensuring
+  transparent and efficient options pricing and algorithmic trading through real-time
+  data.
+title: Options Price Reporting Authority Overview (Algo Trading)
 ---
 
 The world of financial markets is intricate, and one essential component is the pricing of options. The Options Price Reporting Authority (OPRA) plays a pivotal role in this sector by centralizing and distributing options price data. As a critical entity, OPRA consolidates and disseminates data for exchange-listed options, offering transparency to traders, brokers, and other market participants. This transparency is crucial for making informed trading decisions and for establishing the fair value of options. By providing a consolidated data stream of last-sale options quotations and other relevant market information, OPRA ensures that all stakeholders have equitable access to timely and accurate market data.

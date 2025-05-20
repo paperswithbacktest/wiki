@@ -1,6 +1,13 @@
 ---
-title: "Discretization of bet size (Algo Trading)"
-description: Optimize your algorithmic trading strategies by mastering the discretization of bet sizes. This essential technique breaks down the bet sizing process into quantifiable units, enhancing precision and fostering consistency in trade executions. Learn how strategies like Fixed Fractional Sizing and the Kelly Criterion can be applied to manage risk and boost portfolio performance. Explore how integrating discrete bet-sizing methods can adapt to market dynamics, ensuring robust risk management and sustained trading success.
+category: trading_strategy
+description: Optimize your algorithmic trading strategies by mastering the discretization
+  of bet sizes. This essential technique breaks down the bet sizing process into quantifiable
+  units, enhancing precision and fostering consistency in trade executions. Learn
+  how strategies like Fixed Fractional Sizing and the Kelly Criterion can be applied
+  to manage risk and boost portfolio performance. Explore how integrating discrete
+  bet-sizing methods can adapt to market dynamics, ensuring robust risk management
+  and sustained trading success.
+title: Discretization of bet size (Algo Trading)
 ---
 
 Determining the size of each trade in algorithmic trading is crucial for balancing risk management and optimizing returns. Discretization of bet size involves breaking down the decision-making process into manageable, quantifiable units. This approach facilitates the implementation of precise, systematic bet sizing strategies within trading algorithms.

@@ -1,6 +1,8 @@
 ---
-title: "Calculating Cost of Goods Sold with FIFO Method (Algo Trading)"
-description: "Learn about the FIFO method for calculating Cost of Goods Sold in algorithmic trading Discover its impact on inventory valuation and trading efficiency"
+category: quant_concept
+description: Learn about the FIFO method for calculating Cost of Goods Sold in algorithmic
+  trading Discover its impact on inventory valuation and trading efficiency
+title: Calculating Cost of Goods Sold with FIFO Method (Algo Trading)
 ---
 
 Inventory valuation is a critical component in managing business operations as it directly impacts financial statements, tax liabilities, and overall profitability. It involves determining the monetary value of unsold inventory at the end of an accounting period, influencing the cost of goods sold (COGS), and subsequently, the net income. Accurate inventory valuation ensures that a business's financial position is represented correctly, allowing for informed decision-making and strategic planning.

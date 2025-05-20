@@ -1,6 +1,9 @@
 ---
-title: "Corporate Umbrella: Overview and Disadvantages (Algo Trading)"
-description: "Discover the corporate umbrella model's pros and cons, especially in algo trading. Learn how it influences operations, market adaptability, and strategic flexibility."
+category: quant_concept
+description: Discover the corporate umbrella model's pros and cons, especially in
+  algo trading. Learn how it influences operations, market adaptability, and strategic
+  flexibility.
+title: 'Corporate Umbrella: Overview and Disadvantages (Algo Trading)'
 ---
 
 In today’s fast-paced business environment, companies often employ intricate structures to manage their operations and investments. One such structure is the corporate umbrella model, which can be advantageous for diversifying revenue streams and leveraging brand power. This model typically involves a large, overarching corporation that provides financial backing, brand recognition, and operational support to its various subsidiaries. These subsidiaries, while benefiting from the parent company’s resources, maintain a certain degree of operational independence, allowing them to explore distinct markets or specializations.

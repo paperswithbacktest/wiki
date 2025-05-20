@@ -1,7 +1,8 @@
 ---
-title: Understanding Tensor Shapes for Machine Learning Models
+category: quant_concept
 description: Tensor shapes define data flow and ensure compatibility for reshaping
   broadcasting and transposing to optimize model performance Discover more inside
+title: Understanding Tensor Shapes for Machine Learning Models
 ---
 
 ![Image](images/1.jpeg)

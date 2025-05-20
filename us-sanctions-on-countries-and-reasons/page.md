@@ -1,6 +1,9 @@
 ---
-title: "U.S. Sanctions on Countries and Their Reasons (Algo Trading)"
-description: "Explore the interplay between U.S. sanctions and algorithmic trading on this page Discover how these economic measures impact global finance and trading strategies"
+category: quant_concept
+description: Explore the interplay between U.S. sanctions and algorithmic trading
+  on this page Discover how these economic measures impact global finance and trading
+  strategies
+title: U.S. Sanctions on Countries and Their Reasons (Algo Trading)
 ---
 
 Economic sanctions serve as a crucial instrument in the arsenal of U.S. foreign policy, showcasing their profound impact on international relations. These measures are typically employed to exert pressure on nations, individuals, or entities to alter behavior perceived as threatening to global stability or American interests. Historically, U.S. sanctions have been pivotal in deterring nuclear proliferation, combating terrorism, and promoting human rights. The strategic deployment of economic sanctions emphasizes their importance as a non-military method to advance diplomatic objectives and influence geopolitical dynamics.

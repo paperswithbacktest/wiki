@@ -1,6 +1,8 @@
 ---
-title: "Cash Dividends and Stock Dividends (Algo Trading)"
-description: "Explore the key differences between cash and stock dividends in algorithmic trading. Understand their impact on strategies and optimize your investment returns."
+category: quant_concept
+description: Explore the key differences between cash and stock dividends in algorithmic
+  trading. Understand their impact on strategies and optimize your investment returns.
+title: Cash Dividends and Stock Dividends (Algo Trading)
 ---
 
 Dividends represent a critical component of investment returns, acting as a distribution of a corporation's earnings to its shareholders. They are pivotal in shaping an investor's income generation strategy. Among the types of dividends, cash and stock dividends stand paramount. Cash dividends involve direct monetary payments to shareholders, typically distributed from a company's profits. Conversely, stock dividends offer additional shares of the corporation instead of cash, providing a means for companies to reward shareholders without affecting cash reserves.

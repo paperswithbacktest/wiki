@@ -1,6 +1,9 @@
 ---
-title: "Importance of Dividends to Investors (Algo Trading)"
-description: "Discover how combining dividend investing with algorithmic trading can enhance financial returns explore AI's role in optimizing portfolios and managing risks."
+category: trading_strategy
+description: Discover how combining dividend investing with algorithmic trading can
+  enhance financial returns explore AI's role in optimizing portfolios and managing
+  risks.
+title: Importance of Dividends to Investors (Algo Trading)
 ---
 
 Investing in dividends and algorithmic trading are two prominent strategies that have gained considerable attention among investors seeking to enhance their financial returns. As financial markets grow more complex, the demand for technology-driven solutions to navigate these intricacies intensifies. This article aims to explore the synergy between a dividend investment strategy and algorithmic trading, highlighting the potential benefits of their integration.

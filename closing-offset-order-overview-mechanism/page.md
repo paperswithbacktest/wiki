@@ -1,6 +1,8 @@
 ---
-title: "Closing Offset Order: Overview and Mechanism (Algo Trading)"
-description: "Explore the significance and mechanics of Closing Offset Orders in algorithmic trading focusing on how they ensure smooth market closure and enhance trading efficiency."
+category: quant_concept
+description: Explore the significance and mechanics of Closing Offset Orders in algorithmic
+  trading focusing on how they ensure smooth market closure and enhance trading efficiency.
+title: 'Closing Offset Order: Overview and Mechanism (Algo Trading)'
 ---
 
 In financial markets, trading orders are fundamental instructions given by traders to brokers or trading platforms to execute trades on their behalf. These orders specify details such as the quantity of securities to be bought or sold, the preferred price, and the duration for which the order must remain active. Orders serve as the basic operational units that determine buy and sell activities in the market, thus playing a pivotal role in price discovery and liquidity provision.

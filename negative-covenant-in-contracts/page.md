@@ -1,6 +1,9 @@
 ---
-title: "Negative Covenant in Contracts (Algo Trading)"
-description: "Explore the role of negative covenants in contracts, crucial for risk management and stability, especially in algorithmic trading and corporate finance sectors."
+category: quant_concept
+description: Explore the role of negative covenants in contracts, crucial for risk
+  management and stability, especially in algorithmic trading and corporate finance
+  sectors.
+title: Negative Covenant in Contracts (Algo Trading)
 ---
 
 The complex world of modern commerce often necessitates restrictive agreements known as negative covenants. These covenants are integral to financial and legal contracts, serving as mechanisms to restrict specific actions by the contracting parties in order to safeguard particular interests and maintain stability. These contractual obligations become paramount, especially in corporate finance deals and day-to-day business operations, playing a crucial role in safeguarding lender interests and ensuring market stability[1].

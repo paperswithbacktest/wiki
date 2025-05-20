@@ -1,6 +1,8 @@
 ---
-title: "Investment Grade Credit Rating (Algo Trading)"
-description: "Discover how credit ratings, investment grades, and algorithmic trading intersect to guide investment decisions in a rapidly evolving financial landscape."
+category: quant_concept
+description: Discover how credit ratings, investment grades, and algorithmic trading
+  intersect to guide investment decisions in a rapidly evolving financial landscape.
+title: Investment Grade Credit Rating (Algo Trading)
 ---
 
 In finance, understanding the complexities of credit ratings, investment grades, and algorithmic trading is crucial for making informed investment decisions. These elements serve as pivotal tools in the financial ecosystem, each playing a distinctive role.

@@ -1,6 +1,9 @@
 ---
-title: "Illusory Truth Effect: Explanation and Prevention (Algo Trading)"
-description: "Explore the illusory truth effect in algorithmic trading Learn how repeated misinformation impacts market decisions and discover strategies to mitigate its influence"
+category: quant_concept
+description: Explore the illusory truth effect in algorithmic trading Learn how repeated
+  misinformation impacts market decisions and discover strategies to mitigate its
+  influence
+title: 'Illusory Truth Effect: Explanation and Prevention (Algo Trading)'
 ---
 
 The digital era has ushered in an abundance of information that is reshaping our understanding of the world. In this environment, cognitive biases have the potential to significantly distort our perceptions and decisions. Among these biases, the illusory truth effect is particularly noteworthy. It describes the tendency of individuals to believe information as true simply because it is repeated. This cognitive bias has gained increased relevance in the age of the internet, where misinformation can rapidly spread across various domains, such as finance, media, and public health.

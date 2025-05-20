@@ -1,6 +1,8 @@
 ---
-title: "Effects of Exchange Rates on Japan's Economy (Algo Trading)"
-description: "Explore how exchange rates shape Japan's economy, affecting trade balances and policy decisions through algorithmic trading's role in mitigating currency risks."
+category: quant_concept
+description: Explore how exchange rates shape Japan's economy, affecting trade balances
+  and policy decisions through algorithmic trading's role in mitigating currency risks.
+title: Effects of Exchange Rates on Japan's Economy (Algo Trading)
 ---
 
 The exchange rate is a fundamental component in determining the economic trajectory of Japan, influencing various industries and guiding financial decisions. As a nation with a deeply interconnected global economy, Japan's financial and industrial sectors are particularly sensitive to currency valuations. The value of the Japanese yen (JPY) against other major currencies, such as the US dollar (USD) and the euro (EUR), directly affects the country's trade balance, inflation rates, and overall competitiveness.

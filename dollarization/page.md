@@ -1,6 +1,8 @@
 ---
-title: "Dollarization (Algo Trading)"
-description: "Explore the intersection of dollarization and algorithmic trading Discover how economic stability and technology drive efficiency in global financial markets"
+category: quant_concept
+description: Explore the intersection of dollarization and algorithmic trading Discover
+  how economic stability and technology drive efficiency in global financial markets
+title: Dollarization (Algo Trading)
 ---
 
 In today's interconnected financial world, understanding the complex interactions between economic policies and technological advancements is crucial. Financial systems are evolving rapidly, driven by globalization and innovation. Two significant phenomena at the intersection of economics and technology are dollarization and algorithmic trading. Dollarization occurs when a country adopts a foreign currency, typically the U.S. dollar, to stabilize its economy and curb hyperinflation. This approach helps in maintaining economic stability by providing credibility and reducing the risk of currency devaluation. However, adopting a foreign currency also means that a nation loses the ability to control its monetary policy independently.
@@ -124,4 +126,3 @@ Successfully harnessing these synergies requires responsive adjustments in regul
 - Lopez de Prado, M.: Advances in Financial Machine Learning offers a comprehensive exploration of machine learning techniques applicable to finance, including algorithmic trading. The book provides insights into how technological advancements are transforming financial markets. [Wiley Online Library](https://www.wiley.com)
 
 - Eichengreen, B.: The Legitimate and Illegitimate Roles of the Dollar as a World Currency presents an in-depth examination of the complex dynamics surrounding the U.S. dollar's status. This scholarly work helps contextualize the broader effects of dollarization in global economics. Available through academic publishers and libraries.
-

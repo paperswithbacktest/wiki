@@ -1,6 +1,9 @@
 ---
-title: "Confirmation: Mechanism and Examples (Algo Trading)"
-description: "Explore confirmation mechanisms in algorithmic trading that verify trade accuracy to ensure precise and efficient execution while mitigating potential risks and errors."
+category: trading_strategy
+description: Explore confirmation mechanisms in algorithmic trading that verify trade
+  accuracy to ensure precise and efficient execution while mitigating potential risks
+  and errors.
+title: 'Confirmation: Mechanism and Examples (Algo Trading)'
 ---
 
 Algorithmic trading is transforming the financial markets by facilitating high-speed, automated transactions that execute with precision and efficiency. This sophisticated approach leverages algorithms to make decisions on trade execution autonomously, minimizing the need for human intervention. Such automation brings about the necessity for robust confirmation mechanisms. These mechanisms are critical as they validate trades, ensuring that each transaction meets predetermined criteria for consistency and accuracy before being finalized. 

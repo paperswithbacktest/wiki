@@ -1,6 +1,8 @@
 ---
-title: "Differences Between Proven And Unproven Oil Reserves (Algo Trading)"
-description: "Explore the critical differences between proven and unproven oil reserves and their significance in energy markets enhanced by algorithmic trading technologies."
+category: quant_concept
+description: Explore the critical differences between proven and unproven oil reserves
+  and their significance in energy markets enhanced by algorithmic trading technologies.
+title: Differences Between Proven And Unproven Oil Reserves (Algo Trading)
 ---
 
 Understanding the complexities of oil reserves and advanced trading techniques is crucial in today's energy and finance sectors. Oil reserves play a vital role in the global economy, wielding influence over geopolitics and economic stability. As key determinants of a nation's energy security and economic strength, oil reserves impact everything from international relations to domestic policy. These reserves are categorically significant as they determine the future of energy availability and pricing, influencing national strategies and trade agreements.
@@ -84,4 +86,3 @@ Geman, H. in "Commodities and Commodity Derivatives: Modelling and Pricing for A
 The U.S. Energy Information Administration (EIA) Reports are pivotal resources for current [statistics](/wiki/bayesian-statistics) on U.S. and international energy production and consumption. These reports offer timely and relevant data that inform policy decisions and trading strategies within energy markets.
 
 Aldridge, I. in "High-Frequency Trading: A Practical Guide to Algorithmic Strategies and Trading Systems" provides a comprehensive view of the advanced trading techniques revolutionizing financial markets. Her guide is invaluable for grasping the technical aspects and risks associated with algorithmic trading in energy markets.
-

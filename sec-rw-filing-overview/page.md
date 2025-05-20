@@ -1,6 +1,8 @@
 ---
-title: "SEC RW Filing Overview (Algo Trading)"
-description: "Explore the SEC RW Filing process and its impact on algorithmic trading. Learn how regulatory changes shape practices and influence market operations."
+category: quant_concept
+description: Explore the SEC RW Filing process and its impact on algorithmic trading.
+  Learn how regulatory changes shape practices and influence market operations.
+title: SEC RW Filing Overview (Algo Trading)
 ---
 
 Regulatory changes are central to the evolution of financial markets, affecting various trading practices, including algorithmic trading. These changes frequently stem from shifts in legislative policies and government regulations intended to ensure market integrity, protect investors, and promote fair trading practices. One crucial regulatory body in the United States is the Securities and Exchange Commission (SEC), which oversees securities market operations. The SEC's role includes facilitating capital formation, maintaining efficient markets, and protecting investors. An essential aspect of this oversight is the monitoring of market entry and exit processes, as well as the systematic requirements that entities must satisfy when filing with the SEC.

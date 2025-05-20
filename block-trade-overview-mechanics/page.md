@@ -1,6 +1,13 @@
 ---
-title: "Block Trade: Overview and Mechanics (Algo Trading)"
-description: "Discover how block trades, significant transactions involving large volumes of securities, operate in the financial markets and their implications. Learn about the integration of algorithmic trading, which enhances trade execution efficiency by minimizing market impact. Explore the benefits, challenges, and ethical considerations of these trading mechanisms, along with strategic insights into the future of financial trading practices. This article provides an in-depth overview of block trades and their transformative role in maintaining liquidity and stability in global markets."
+category: quant_concept
+description: Discover how block trades, significant transactions involving large volumes
+  of securities, operate in the financial markets and their implications. Learn about
+  the integration of algorithmic trading, which enhances trade execution efficiency
+  by minimizing market impact. Explore the benefits, challenges, and ethical considerations
+  of these trading mechanisms, along with strategic insights into the future of financial
+  trading practices. This article provides an in-depth overview of block trades and
+  their transformative role in maintaining liquidity and stability in global markets.
+title: 'Block Trade: Overview and Mechanics (Algo Trading)'
 ---
 
 The financial markets are complex ecosystems where various financial instruments, such as stocks, bonds, currencies, and derivatives, are traded. These markets enable the mobilization of capital, risk management, and the establishment of prices, contributing significantly to global economic stability and growth. The dynamics of financial markets are influenced by numerous factors, including economic indicators, political events, and technological advancements, which collectively affect pricing and trading activities.

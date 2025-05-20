@@ -1,6 +1,8 @@
 ---
-title: "Comparison of Z-Score and Standard Deviation (Algo Trading)"
-description: "Explore the essential roles of Z-Score and standard deviation in algorithmic trading to assess market volatility and manage risk effectively."
+category: quant_concept
+description: Explore the essential roles of Z-Score and standard deviation in algorithmic
+  trading to assess market volatility and manage risk effectively.
+title: Comparison of Z-Score and Standard Deviation (Algo Trading)
 ---
 
 Algorithmic trading has become a fundamental component of modern financial markets, where computer algorithms execute trades at high speeds and frequencies that are impossible for human traders to achieve. This technology relies heavily on statistical tools to make informed and strategic decisions. Among these tools, Z-Score and standard deviation play pivotal roles in shaping trading strategies.

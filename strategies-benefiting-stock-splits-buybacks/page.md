@@ -1,6 +1,8 @@
 ---
-title: "Strategies for Benefiting from Stock Splits and Buybacks (Algo Trading)"
-description: "Explore strategies to leverage stock splits and buybacks in algo trading to optimize portfolio performance and make informed investment decisions."
+category: trading_strategy
+description: Explore strategies to leverage stock splits and buybacks in algo trading
+  to optimize portfolio performance and make informed investment decisions.
+title: Strategies for Benefiting from Stock Splits and Buybacks (Algo Trading)
 ---
 
 Investment strategies are evolving rapidly due to dynamic market conditions and innovative financial mechanisms. Key components such as stock splits, buybacks, and algorithmic trading now play pivotal roles in modern portfolio management, transforming the landscape of how investors approach their assets.
@@ -122,4 +124,3 @@ The future of investing will increasingly depend on harnessing these dynamic too
 - **Apple’s Stock Split History overview on Investopedia**: Investopedia's coverage of Apple’s stock split history presents a chronological analysis of the company’s decisions to split its stock. This resource helps illustrate how repeated stock splits can influence market perception and investor sentiment, and why companies choose this strategy at different lifecycle stages.
 
 - **Understanding Stock Splits in Trading, Bloomberg**: Bloomberg’s resource provides a practical guide to stock splits, explaining the processes and strategic considerations for companies and investors. It discusses the potential impact on liquidity, investor base, and price adjustment processes, making it an essential read for those seeking a deeper understanding of stock split mechanics.
-

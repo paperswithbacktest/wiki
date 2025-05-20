@@ -1,6 +1,9 @@
 ---
-title: "Methods for Quickly Increasing a Company's Liquidity Ratio (Algo Trading)"
-description: "Explore strategies to enhance a company's liquidity ratio quickly with insights on algorithmic trading benefits such as efficiency and reduced transaction costs."
+category: quant_concept
+description: Explore strategies to enhance a company's liquidity ratio quickly with
+  insights on algorithmic trading benefits such as efficiency and reduced transaction
+  costs.
+title: Methods for Quickly Increasing a Company's Liquidity Ratio (Algo Trading)
 ---
 
 The interconnected world of business finance includes diverse facets that contribute to sustained success and strategic growth. At its core, business finance involves managing an organization's financial resources to achieve its objectives. It encompasses various financial activities, such as investment decisions, capital structuring, and financial planning, which are integral to ensuring a company's long-term viability.

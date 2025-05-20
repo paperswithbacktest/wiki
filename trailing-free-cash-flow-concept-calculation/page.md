@@ -1,6 +1,8 @@
 ---
-title: "Trailing Free Cash Flow: Concept and Calculation (Algo Trading)"
-description: "Learn the importance of trailing Free Cash Flow its calculation and how it enhances algorithmic trading strategies by assessing financial health over time."
+category: quant_concept
+description: Learn the importance of trailing Free Cash Flow its calculation and how
+  it enhances algorithmic trading strategies by assessing financial health over time.
+title: 'Trailing Free Cash Flow: Concept and Calculation (Algo Trading)'
 ---
 
 In the fast-paced world of finance, free cash flow (FCF) stands out as a pivotal metric for investors looking to make informed decisions. FCF provides a transparent view of a company's financial health by concentrating on actual cash generation rather than relying on accounting figures that may include non-cash items. This focus on real cash flows renders it a crucial indicator for assessing a company's ability to operate efficiently, meet obligations, and fund growth.

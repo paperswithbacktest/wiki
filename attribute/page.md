@@ -1,7 +1,8 @@
 ---
-title: Understanding Attributes in Machine Learning Models
+category: quant_concept
 description: Attributes in Machine Learning define key data characteristics that shape
   model performance from selection to scaling and embedding. Discover more inside.
+title: Understanding Attributes in Machine Learning Models
 ---
 
 ![Image](images/1.png)

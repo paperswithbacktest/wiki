@@ -1,7 +1,8 @@
 ---
-title: Understanding Dimension Reduction Techniques in Machine Learning
+category: quant_concept
 description: Dimension reduction simplifies complex datasets by revealing key patterns
   and boosting model efficiency while preserving insights Discover more inside.
+title: Understanding Dimension Reduction Techniques in Machine Learning
 ---
 
 ![Image](images/1.jpeg)

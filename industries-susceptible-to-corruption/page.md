@@ -1,6 +1,8 @@
 ---
-title: "Industries Susceptible to Corruption (Algo Trading)"
-description: "Explore the role of algorithmic trading in industries vulnerable to corruption uncovering challenges and opportunities to improve transparency and reduce misconduct."
+category: quant_concept
+description: Explore the role of algorithmic trading in industries vulnerable to corruption
+  uncovering challenges and opportunities to improve transparency and reduce misconduct.
+title: Industries Susceptible to Corruption (Algo Trading)
 ---
 
 Algorithmic trading has become an integral component of various industries, revolutionizing how transactions are executed by using sophisticated mathematical models and computer programs. Predominantly utilized in the financial sector, algorithmic trading is increasingly finding applications in other industries such as retail and energy, where precision and speed are critical. This computational approach to trading has brought about greater efficiency and reduced human error, yet it presents unique challenges, particularly in sectors susceptible to corruption.

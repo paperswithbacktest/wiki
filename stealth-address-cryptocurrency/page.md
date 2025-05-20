@@ -1,6 +1,8 @@
 ---
-title: "Stealth Address in Cryptocurrency (Algo Trading)"
-description: "Explore the role of stealth addresses in enhancing privacy within blockchain transactions and how algorithmic trading is reshaping cryptocurrency markets."
+category: quant_concept
+description: Explore the role of stealth addresses in enhancing privacy within blockchain
+  transactions and how algorithmic trading is reshaping cryptocurrency markets.
+title: Stealth Address in Cryptocurrency (Algo Trading)
 ---
 
 The blockchain revolution has fundamentally altered the digital economy, placing cryptocurrency at the forefront of this transformation. Blockchains, with their decentralized nature, have captured the attention of industries worldwide, promising increased efficiency, security, and transparency. As digital assets become more integrated into everyday life, a new challenge emerges: ensuring privacy in cryptocurrency transactions. The open ledger of blockchain, while celebrated for its transparency, raises concerns for users who value anonymity and confidentiality.

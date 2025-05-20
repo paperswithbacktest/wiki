@@ -1,6 +1,13 @@
 ---
-title: "Moving Average Trading Strategies (Algo Trading)"
-description: Discover the intricacies of moving average trading strategies and their pivotal role in algorithmic trading. This article explores the moving average crossover strategy, focusing on how employing two or more moving averages helps identify shifts in stock price trends. Emphasizing historical price data, these strategies aid in determining potential entry or exit points, enhancing trading decisions within algorithmic frameworks. Learn about the application of simple, exponential, and weighted moving averages to refine trend identification and assess market momentum with precision.
+category: trading_strategy
+description: Discover the intricacies of moving average trading strategies and their
+  pivotal role in algorithmic trading. This article explores the moving average crossover
+  strategy, focusing on how employing two or more moving averages helps identify shifts
+  in stock price trends. Emphasizing historical price data, these strategies aid in
+  determining potential entry or exit points, enhancing trading decisions within algorithmic
+  frameworks. Learn about the application of simple, exponential, and weighted moving
+  averages to refine trend identification and assess market momentum with precision.
+title: Moving Average Trading Strategies (Algo Trading)
 ---
 
 In recent years, algorithmic trading has increasingly relied on technical indicators to enhance decision-making processes. These technical indicators analyze statistical trends derived from trading activity, such as price movement and volume, to forecast future price movements. One such popular strategy employed by traders and algorithms alike is the moving average crossover strategy. This strategy is used to identify changes in a stock's price trend by employing the intersection of two or more moving averages, which act as dynamic support and resistance levels.

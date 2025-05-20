@@ -1,7 +1,8 @@
 ---
-title: Skip Connections Explained for Deep Neural Network Training
+category: quant_concept
 description: Skip connections improve gradient flow and preserve information in deep
   neural networks enabling stable training across many layers Discover more inside.
+title: Skip Connections Explained for Deep Neural Network Training
 ---
 
 ![Image](images/1.jpeg)

@@ -1,6 +1,9 @@
 ---
-title: "Role of Patience in Trading (Algo Trading)"
-description: "Explore the critical role of patience in trading and algorithmic trading Discover how patience can enhance trade execution, decision-making, and profitability in volatile markets"
+category: trading_strategy
+description: Explore the critical role of patience in trading and algorithmic trading
+  Discover how patience can enhance trade execution, decision-making, and profitability
+  in volatile markets
+title: Role of Patience in Trading (Algo Trading)
 ---
 
 In today's fast-paced financial markets, the importance of patience is immense, particularly in trading and algorithmic trading. Patience is a fundamental quality that can significantly influence decision-making, trade execution, and trading success. For both traditional and algorithmic traders, patience is not merely a passive state of waiting but an active discipline that guides strategic decisions and actions amidst market volatility. 

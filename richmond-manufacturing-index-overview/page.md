@@ -1,6 +1,9 @@
 ---
-title: "Richmond Manufacturing Index Overview (Algo Trading)"
-description: "Explore the Richmond Manufacturing Index and its impact on algorithmic trading This key economic indicator informs investment strategies with insights from manufacturing activity"
+category: dataset
+description: Explore the Richmond Manufacturing Index and its impact on algorithmic
+  trading This key economic indicator informs investment strategies with insights
+  from manufacturing activity
+title: Richmond Manufacturing Index Overview (Algo Trading)
 ---
 
 Economic indicators play a vital role in the financial sector, offering critical insights into the state and direction of the economy. They serve as essential tools for policymakers, economists, investors, and business leaders by providing quantitative measures that reflect economic performance. Among these, the Richmond Manufacturing Index stands out as a significant and informative barometer of manufacturing activity within the Fifth Federal Reserve District of the United States.

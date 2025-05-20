@@ -1,6 +1,8 @@
 ---
-title: "True Strength Index: Formula, Calculation and Interpretation (Algo Trading)"
-description: "Explore the True Strength Index for algorithmic trading with insights on its formula calculation and interpretation to optimize trading strategies effectively."
+category: quant_concept
+description: Explore the True Strength Index for algorithmic trading with insights
+  on its formula calculation and interpretation to optimize trading strategies effectively.
+title: 'True Strength Index: Formula, Calculation and Interpretation (Algo Trading)'
 ---
 
 Technical indicators are essential tools in trading, used to analyze historical market data and predict future price movements. By providing insights into market trends, volatility, and momentum, they enable traders to make informed decisions. Indicators like moving averages, relative strength index (RSI), and moving average convergence divergence (MACD) help identify trading opportunities by highlighting patterns that may not be immediately visible from raw price data.

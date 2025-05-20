@@ -1,6 +1,9 @@
 ---
-title: "Comparison of Stated and Effective Annual Returns (Algo Trading)"
-description: "Explore key financial metrics in trading by understanding the distinctions between effective, annual, and stated returns. Uncover their impact on algorithmic strategies."
+category: quant_concept
+description: Explore key financial metrics in trading by understanding the distinctions
+  between effective, annual, and stated returns. Uncover their impact on algorithmic
+  strategies.
+title: Comparison of Stated and Effective Annual Returns (Algo Trading)
 ---
 
 Effective, annual, and stated returns are key financial metrics used to evaluate investment performance. Understanding the distinctions between these types of returns is crucial for investors and traders, particularly in the context of algorithmic trading.

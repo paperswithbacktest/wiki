@@ -1,9 +1,11 @@
 ---
-title: "How to choose a broker or prime broker for a hedge fund?"
-description: "Discover the key steps and factors in selecting a broker or prime broker for your hedge fund. Assess financial strength, costs, market access, additional services, technology, customer service, regulation, networking, and contractual flexibility. Meet with multiple brokers and regularly review partnerships."
+category: quant_concept
+description: Discover the key steps and factors in selecting a broker or prime broker
+  for your hedge fund. Assess financial strength, costs, market access, additional
+  services, technology, customer service, regulation, networking, and contractual
+  flexibility. Meet with multiple brokers and regularly review partnerships.
+title: How to choose a broker or prime broker for a hedge fund?
 ---
-
-
 
 In the dynamic landscape of hedge fund operations, brokers and prime brokers play a pivotal role in ensuring the smooth facilitation of trades and comprehensive management of financial activities. These entities act as critical intermediaries that not only execute trade orders but also provide a suite of essential services, including custody, administration, and financing. Whether a hedge fund flourishes or falters can be closely tied to the choice of broker or prime broker, making this decision a fundamental aspect of strategic planning for fund managers.
 

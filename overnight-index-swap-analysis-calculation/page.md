@@ -1,6 +1,9 @@
 ---
-title: "Overnight Index Swap: Analysis and Calculation (Algo Trading)"
-description: "Explore Overnight Index Swap analysis and calculation in algorithmic trading Uncover how OIS provides insights into interest rate trends and enhances trading strategies"
+category: quant_concept
+description: Explore Overnight Index Swap analysis and calculation in algorithmic
+  trading Uncover how OIS provides insights into interest rate trends and enhances
+  trading strategies
+title: 'Overnight Index Swap: Analysis and Calculation (Algo Trading)'
 ---
 
 Financial derivatives are vital instruments in modern finance, allowing investors and institutions to manage risk, enhance returns, and gain exposure to a variety of financial markets. These instruments derive their value from underlying assets such as stocks, bonds, currencies, interest rates, or market indexes. Among the numerous types of derivatives, Overnight Index Swaps (OIS) have emerged as critical tools in the financial landscape.

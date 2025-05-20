@@ -1,6 +1,8 @@
 ---
-title: "Book-Entry Securities (Algo Trading)"
-description: "Discover how book-entry securities and algorithmic trading are revolutionizing financial markets with digital efficiency, enhanced security, and reduced costs."
+category: quant_concept
+description: Discover how book-entry securities and algorithmic trading are revolutionizing
+  financial markets with digital efficiency, enhanced security, and reduced costs.
+title: Book-Entry Securities (Algo Trading)
 ---
 
 The financial markets have witnessed a remarkable evolution in recent decades, transitioning from traditional methods of paper-based ownership to digital platforms that facilitate automated trading. This transformation is characterized by the emergence of book-entry securities, paperless securities, and the increasing prevalence of algorithmic trading. These innovations are reshaping how trading and investment are conducted globally.

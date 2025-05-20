@@ -1,6 +1,8 @@
 ---
-title: "United States Department of Housing and Urban Development (Algo Trading)"
-description: "Discover how HUD shapes urban development through housing policies while algorithmic trading transforms housing markets with AI-driven predictions."
+category: quant_concept
+description: Discover how HUD shapes urban development through housing policies while
+  algorithmic trading transforms housing markets with AI-driven predictions.
+title: United States Department of Housing and Urban Development (Algo Trading)
 ---
 
 Urban development has increasingly become intertwined with the evolution of housing policies and the rapid advancement of new technologies. Central to this dynamic is the U.S. Department of Housing and Urban Development (HUD), which is instrumental in formulating and implementing policies that directly affect urban landscapes. Established to enhance the opportunities for affordable homeownership and community development, HUD's initiatives and regulations, such as those enforced under the Fair Housing Act, have a profound impact on mitigating housing discrimination and fostering inclusive urban environments.

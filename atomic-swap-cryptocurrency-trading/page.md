@@ -1,6 +1,9 @@
 ---
-title: "Atomic Swap in Cryptocurrency Trading (Algo Trading)"
-description: "Explore the transformative world of cryptocurrency trading with atomic swaps and algorithmic trading enhancing decentralized finance and optimizing cross-chain exchanges."
+category: quant_concept
+description: Explore the transformative world of cryptocurrency trading with atomic
+  swaps and algorithmic trading enhancing decentralized finance and optimizing cross-chain
+  exchanges.
+title: Atomic Swap in Cryptocurrency Trading (Algo Trading)
 ---
 
 Cryptocurrency trading has rapidly evolved, transforming from a niche interest to a major component of the global financial landscape. Central to this evolution is blockchain technology, which has fundamentally revolutionized financial transactions. Blockchain, with its decentralized ledger system, ensures security, transparency, and immutability, allowing participants to engage in trustless transactions without the need for intermediaries. This technology provides the foundation for cryptocurrencies like Bitcoin and Ethereum, enabling them to operate independently from central banks and traditional financial institutions.

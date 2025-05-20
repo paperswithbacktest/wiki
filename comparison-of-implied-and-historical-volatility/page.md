@@ -1,6 +1,8 @@
 ---
-title: "Comparison of Implied and Historical Volatility (Algo Trading)"
-description: "Explore the differences between implied and historical volatility in algo trading to enhance decision-making optimize strategies and improve risk management."
+category: quant_concept
+description: Explore the differences between implied and historical volatility in
+  algo trading to enhance decision-making optimize strategies and improve risk management.
+title: Comparison of Implied and Historical Volatility (Algo Trading)
 ---
 
 In the complex landscape of trading and finance, accurately understanding and predicting market movements is paramount. Volatility serves as a fundamental metric in this domain, providing a measure of the potential risk associated with an asset's price fluctuations. Recognizing volatility allows traders and financial analysts to gauge the magnitude of price changes over time, which is essential for effective decision-making.

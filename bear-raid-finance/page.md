@@ -1,6 +1,8 @@
 ---
-title: "Bear Raid in Finance (Algo Trading)"
-description: "Discover how bear raids in finance involve manipulating stock prices through aggressive short selling and rumor spreading, affecting market stability."
+category: quant_concept
+description: Discover how bear raids in finance involve manipulating stock prices
+  through aggressive short selling and rumor spreading, affecting market stability.
+title: Bear Raid in Finance (Algo Trading)
 ---
 
 Bear raids represent a controversial tactic in the stock market, where orchestrated efforts aim to drive down stock prices through aggressive short selling and the spreading of negative rumors. This form of market manipulation relies on creating panic among investors, leading to sharp declines in stock valuations. By exploiting market vulnerabilities, bear raids can severely undermine market stability and erode investor confidence. Short sellers, in this context, engage in the selling of borrowed shares with the expectation of repurchasing them later at a reduced price, thereby profiting from the decline in stock value.

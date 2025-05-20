@@ -1,6 +1,9 @@
 ---
-title: "Gypsy Swap: Concept and Mechanism (Algo Trading)"
-description: "Explore Gypsy Swaps, a method for raising capital without adding debt, equity financing strategies, and the impact of algorithmic trading on financial markets."
+category: quant_concept
+description: Explore Gypsy Swaps, a method for raising capital without adding debt,
+  equity financing strategies, and the impact of algorithmic trading on financial
+  markets.
+title: 'Gypsy Swap: Concept and Mechanism (Algo Trading)'
 ---
 
 In modern business, financial strategies have evolved to include complex mechanisms designed to maximize capital efficiency and minimize risks. One such strategy that has garnered attention is the Gypsy Swap. This technique involves a shareholder selling shares to an investor, who agrees to resell them once the company issues new shares, usually at a set price. This arrangement allows companies to raise capital without increasing their debt burden, a critical advantage in maintaining favorable financial ratios and avoiding the restrictive covenants associated with debt financing.

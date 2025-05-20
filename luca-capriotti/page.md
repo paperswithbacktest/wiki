@@ -1,9 +1,10 @@
 ---
-title: "Luca Capriotti (Algo Trading)"
-description: "Explore the career of Luca Capriotti, a leader in algorithmic trading and risk management, known for innovations in Adjoint Algorithmic Differentiation at UBS."
+category: quant_concept
+description: Explore the career of Luca Capriotti, a leader in algorithmic trading
+  and risk management, known for innovations in Adjoint Algorithmic Differentiation
+  at UBS.
+title: Luca Capriotti (Algo Trading)
 ---
-
-
 
 ## Table of Contents
 

@@ -1,6 +1,8 @@
 ---
-title: "Reasons for 20%+ Dividend Yield of REIT ETN MORL (Algo Trading)"
-description: "Explore the reasons behind the 20%+ dividend yield of MORL ETN Discover its leverage impact on returns and risks alongside algorithmic trading insights"
+category: trading_strategy
+description: Explore the reasons behind the 20%+ dividend yield of MORL ETN Discover
+  its leverage impact on returns and risks alongside algorithmic trading insights
+title: Reasons for 20%+ Dividend Yield of REIT ETN MORL (Algo Trading)
 ---
 
 Real Estate Investment Trusts (REITs) are favored by investors largely due to their potential for high dividend yields. Among the various types of REITs, mortgage REITs have become particularly notable for generating substantial returns through investments in mortgage-backed securities. These mortgage REITs make a compelling investment choice due to their ability to distribute a significant portion of their income as dividends, providing investors with a consistent income stream.

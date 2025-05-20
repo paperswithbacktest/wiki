@@ -1,6 +1,8 @@
 ---
-title: "Dodd-Frank Act: Overview, Components, and Criticisms (Algo Trading)"
-description: "Explore the Dodd-Frank Act's impact on financial regulation and algorithmic trading highlighting major reforms and criticisms without risking market stability."
+category: quant_concept
+description: Explore the Dodd-Frank Act's impact on financial regulation and algorithmic
+  trading highlighting major reforms and criticisms without risking market stability.
+title: 'Dodd-Frank Act: Overview, Components, and Criticisms (Algo Trading)'
 ---
 
 The Dodd-Frank Wall Street Reform and Consumer Protection Act, enacted in 2010, was a direct legislative response to the severe financial crisis of 2007-2008. This comprehensive reform aimed to restructure the financial regulatory framework in the United States, ensuring a more stable and transparent financial system. Named after its sponsors, Sen. Christopher J. Dodd and Rep. Barney Frank, the Act sought to address the systemic risks that were exposed during the crisis, such as inadequate oversight and insufficient consumer protections that contributed to the economic downturn.

@@ -1,6 +1,13 @@
 ---
-title: "Bollinger bands (Algo Trading)"
-description: Bollinger Bands are essential in algorithmic trading, facilitating predictions of market volatility and price movements. Developed by John Bollinger, they consist of an upper, lower, and middle band, the latter being a simple moving average. Traders use them to identify potential price reversals and overbought or oversold conditions. This article explains their computation and application in automated trading strategies, outlining how Python programming can aid in implementation and backtesting to improve trading decision making.
+category: quant_concept
+description: Bollinger Bands are essential in algorithmic trading, facilitating predictions
+  of market volatility and price movements. Developed by John Bollinger, they consist
+  of an upper, lower, and middle band, the latter being a simple moving average. Traders
+  use them to identify potential price reversals and overbought or oversold conditions.
+  This article explains their computation and application in automated trading strategies,
+  outlining how Python programming can aid in implementation and backtesting to improve
+  trading decision making.
+title: Bollinger bands (Algo Trading)
 ---
 
 Bollinger Bands are a significant tool in technical analysis, often used in algorithmic trading to predict market volatility and price movements. These bands, developed by John Bollinger in the 1980s, consist of an upper band, a lower band, and a middle band, which is typically a simple moving average (SMA) of the asset's price. The width between the upper and lower bands is determined by the standard deviation of the asset's price, reflecting market volatility. When market conditions become more volatile, the bands widen, whereas they contract during periods of lower volatility.

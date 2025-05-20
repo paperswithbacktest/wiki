@@ -1,6 +1,14 @@
 ---
-title: "Pairs Trading Strategy Explained (Algo Trading)"
-description: Discover the intricacies of pairs trading, a dynamic market-neutral strategy in algorithmic trading. This strategy leverages the price relationship between two correlated assets to exploit temporary divergences, allowing traders to potentially profit regardless of market direction. Our article investigates into the principles, benefits, and challenges of pairs trading, highlighting how advancements in algorithms have facilitated its implementation for enhanced risk management and diversification in financial markets. Explore how traders use statistical tools and advanced data analysis to navigate this sophisticated strategy effectively.
+category: trading_strategy
+description: Discover the intricacies of pairs trading, a dynamic market-neutral strategy
+  in algorithmic trading. This strategy leverages the price relationship between two
+  correlated assets to exploit temporary divergences, allowing traders to potentially
+  profit regardless of market direction. Our article investigates into the principles,
+  benefits, and challenges of pairs trading, highlighting how advancements in algorithms
+  have facilitated its implementation for enhanced risk management and diversification
+  in financial markets. Explore how traders use statistical tools and advanced data
+  analysis to navigate this sophisticated strategy effectively.
+title: Pairs Trading Strategy Explained (Algo Trading)
 ---
 
 Algorithmic trading has fundamentally transformed financial markets, allowing traders to harness computational power to execute complex trading strategies with remarkable precision and speed. These automated strategies utilize advanced mathematical models and extensive data analysis to identify profitable opportunities and eliminate human error, thereby enhancing efficiency and execution.

@@ -1,6 +1,8 @@
 ---
-title: "Market Disruption and Mechanisms (Algo Trading)"
-description: "Explore how market disruption and algorithmic trading reshape industries in this insightful piece. Learn how innovation fuels new business models and technologies."
+category: quant_concept
+description: Explore how market disruption and algorithmic trading reshape industries
+  in this insightful piece. Learn how innovation fuels new business models and technologies.
+title: Market Disruption and Mechanisms (Algo Trading)
 ---
 
 Market disruption, innovation, and algorithmic trading are now integral to contemporary business strategies. These elements have revolutionized industry landscapes, offering avenues for novel business models and strategic advancements. Market disruption typically occurs when groundbreaking innovations challenge and transform existing markets, fostering environments ripe for the introduction of new business paradigms. These disruptions can stimulate efficiency and open up new markets, compelling companies to adapt rapidly or risk becoming obsolete.

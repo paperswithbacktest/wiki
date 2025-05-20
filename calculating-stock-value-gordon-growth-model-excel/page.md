@@ -1,6 +1,8 @@
 ---
-title: "Calculating Stock Value with the Gordon Growth Model in Excel (Algo Trading)"
-description: "Learn how to use the Gordon Growth Model in Excel for calculating stock value and enhancing algorithmic trading strategies. Perfect for traders and analysts."
+category: trading_strategy
+description: Learn how to use the Gordon Growth Model in Excel for calculating stock
+  value and enhancing algorithmic trading strategies. Perfect for traders and analysts.
+title: Calculating Stock Value with the Gordon Growth Model in Excel (Algo Trading)
 ---
 
 Stock valuation is a fundamental concept in the domain of trading, serving as a critical tool for determining the intrinsic value of a company's stock. By assessing whether a stock is undervalued or overvalued, traders and investors can make informed decisions about buying, selling, or holding securities. Central to stock valuation is the effort to forecast the future performance of a stock to achieve favorable returns. Valuation methods incorporate various financial metrics and models, each with its unique approach to assessing value based on a company's financial health, industry position, and economic conditions.

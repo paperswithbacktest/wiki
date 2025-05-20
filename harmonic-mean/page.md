@@ -1,6 +1,14 @@
 ---
-title: "Harmonic Mean (Algo Trading)"
-description: "Explore the application of the harmonic mean in algorithmic trading and its advantages in financial markets. This article investigates into its mathematical foundation and shows how it enhances trading strategies by offering a precise method for dealing with rates and ratios. Learn how this average benefits traders in analyzing price multiples like price-to-earnings ratios by minimizing the effects of outliers and emphasizing smaller values. Discover practical Python implementations to calculate the harmonic mean, making it an essential tool for competitive trading strategies and accurate financial data analysis."
+category: quant_concept
+description: Explore the application of the harmonic mean in algorithmic trading and
+  its advantages in financial markets. This article investigates into its mathematical
+  foundation and shows how it enhances trading strategies by offering a precise method
+  for dealing with rates and ratios. Learn how this average benefits traders in analyzing
+  price multiples like price-to-earnings ratios by minimizing the effects of outliers
+  and emphasizing smaller values. Discover practical Python implementations to calculate
+  the harmonic mean, making it an essential tool for competitive trading strategies
+  and accurate financial data analysis.
+title: Harmonic Mean (Algo Trading)
 ---
 
 Mathematics and finance frequently utilize various means and averages to simplify complex data and enhance decision-making processes. One particularly significant average is the harmonic mean, which this article will explore in detail, particularly focusing on its application in algorithmic trading.

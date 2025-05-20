@@ -1,6 +1,8 @@
 ---
-title: "alpha decay analysis (Algo Trading)"
-description: "Discover the essential dynamics of alpha decay in algorithmic trading Analyze how predictive power diminishes over time and adapt strategies to stay competitive"
+category: quant_concept
+description: Discover the essential dynamics of alpha decay in algorithmic trading
+  Analyze how predictive power diminishes over time and adapt strategies to stay competitive
+title: alpha decay analysis (Algo Trading)
 ---
 
 Alpha decay is a critical concept in algorithmic trading, capturing the gradual loss of a model's predictive power over time. As traders rely on quantitative strategies to forecast price movements and generate returns that surpass market averages, the phenomenon of alpha decay poses significant challenges. This loss of effectiveness can erode a trading model's ability to deliver consistent and profitable outcomes, necessitating traders to constantly evolve their strategies to maintain competitiveness.

@@ -1,6 +1,9 @@
 ---
-title: "Brokerage Commission House: Overview and Functionality (Algo Trading)"
-description: "Discover how commission houses and algorithmic trading reshape financial markets by facilitating trades, enhancing liquidity, and leveraging technology for efficiency."
+category: quant_concept
+description: Discover how commission houses and algorithmic trading reshape financial
+  markets by facilitating trades, enhancing liquidity, and leveraging technology for
+  efficiency.
+title: 'Brokerage Commission House: Overview and Functionality (Algo Trading)'
 ---
 
 Commission house financial services play a crucial role in the functioning of financial markets by facilitating the execution of trades and providing necessary liquidity. These institutions, synonymous with brokerage firms, offer a range of services that help investors, both institutional and retail, engage efficiently in market trading. A brokerage service in finance can be defined as a financial intermediary that facilitates the buying and selling of financial securities between a buyer and a seller. It connects market participants, providing essential services such as executing trades, offering investment advice, and managing financial assets on behalf of clients.

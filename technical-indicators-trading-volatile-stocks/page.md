@@ -1,6 +1,8 @@
 ---
-title: "Technical Indicators for Trading Volatile Stocks (Algo Trading)"
-description: "Explore trading volatile stocks using technical indicators and algorithmic strategies to improve decision-making speed and accuracy for better profit potential."
+category: trading_strategy
+description: Explore trading volatile stocks using technical indicators and algorithmic
+  strategies to improve decision-making speed and accuracy for better profit potential.
+title: Technical Indicators for Trading Volatile Stocks (Algo Trading)
 ---
 
 Stock trading represents a fundamental element in the landscape of modern finance, serving as a gateway to potential profit alongside inherent risks. Central to the art and science of stock trading are technical indicators, which offer vital insights into the often turbulent and unpredictable movements of the stock market, particularly when it involves highly volatile stocks. These mathematical constructs provide traders with a framework to interpret historical price data and market trends, facilitating informed decision-making.

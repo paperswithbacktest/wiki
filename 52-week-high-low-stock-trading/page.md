@@ -1,6 +1,8 @@
 ---
-title: "52-Week High/Low in Stock Trading (Algo Trading)"
-description: "Discover how to enhance your trading strategy using the 52-week high/low indicators in algorithmic trading for better market insights and decision-making."
+category: trading_strategy
+description: Discover how to enhance your trading strategy using the 52-week high/low
+  indicators in algorithmic trading for better market insights and decision-making.
+title: 52-Week High/Low in Stock Trading (Algo Trading)
 ---
 
 The world of stock trading presents a complex landscape, with various strategies designed to maximize returns. Among these, the use of the 52-week high and low indicators has gained popularity due to their ability to offer insights into market trends and investor sentiment. These indicators reflect the highest and lowest prices at which a stock has traded over the past year, providing a benchmark for evaluating a stock's current performance against historical price data.

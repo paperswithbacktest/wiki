@@ -1,6 +1,8 @@
 ---
-title: "Bayesian Inference in Financial Markets (Algo Trading)"
-description: "Explore how Bayesian inference enhances algorithmic trading by dynamically updating predictions in financial markets, ensuring robust and precise trading strategies."
+category: quant_concept
+description: Explore how Bayesian inference enhances algorithmic trading by dynamically
+  updating predictions in financial markets, ensuring robust and precise trading strategies.
+title: Bayesian Inference in Financial Markets (Algo Trading)
 ---
 
 Bayesian inference provides a versatile framework for systematically updating beliefs in light of new data, making it invaluable in environments characterized by uncertainty, such as financial markets. In the domain of algorithmic trading—where decisions must be made swiftly and frequently under conditions of incomplete information—Bayesian methods significantly enhance decision-making processes by integrating new market data in real-time. This adaptability enables traders to refine their strategies and improve forecasting accuracy dynamically.

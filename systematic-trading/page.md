@@ -1,6 +1,15 @@
 ---
-title: "Systematic Trading Strategies (Algo Trading)"
-description: Systematic trading strategies focus on using predefined rules to guide trading decisions, reducing emotional influence by relying on quantitative analysis and historical market data. These strategies enhance consistency and objectivity, with techniques like cash futures arbitrage, mean reversion, and momentum trading. Systematic trading can be manual, requiring active decision-making, or automated, leveraging algorithms for precision and speed. This method allows for adaptability and scalability, making it ideal for navigating volatile markets and evolving financial conditions. Traders use quantitative analysis, backtesting, and risk management to create robust strategies adaptable to market changes.
+category: trading_strategy
+description: Systematic trading strategies focus on using predefined rules to guide
+  trading decisions, reducing emotional influence by relying on quantitative analysis
+  and historical market data. These strategies enhance consistency and objectivity,
+  with techniques like cash futures arbitrage, mean reversion, and momentum trading.
+  Systematic trading can be manual, requiring active decision-making, or automated,
+  leveraging algorithms for precision and speed. This method allows for adaptability
+  and scalability, making it ideal for navigating volatile markets and evolving financial
+  conditions. Traders use quantitative analysis, backtesting, and risk management
+  to create robust strategies adaptable to market changes.
+title: Systematic Trading Strategies (Algo Trading)
 ---
 
 Systematic trading strategies are grounded in the application of predefined rules which systematically guide trading decisions, thereby minimizing the influence of emotional biases. These strategies are constructed based on quantitative analysis and the examination of historical data and market indicators. By employing a rules-based approach, traders aim to make consistent and objective decisions irrespective of market conditions.

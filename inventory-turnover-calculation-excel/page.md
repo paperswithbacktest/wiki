@@ -1,6 +1,9 @@
 ---
-title: "Inventory Turnover Calculation in Excel (Algo Trading)"
-description: "Learn how to calculate inventory turnover in Excel to optimize your inventory strategies for better profitability. Integrate these calculations with algo trading for deeper insights."
+category: trading_strategy
+description: Learn how to calculate inventory turnover in Excel to optimize your inventory
+  strategies for better profitability. Integrate these calculations with algo trading
+  for deeper insights.
+title: Inventory Turnover Calculation in Excel (Algo Trading)
 ---
 
 In today's competitive business environment, efficient inventory management stands as a cornerstone for maintaining profitability and achieving operational success. Inventory turnover is a critical performance indicator that quantifies how effectively a company sells and replenishes its inventory within a specified period. This metric provides insights into the efficiency of inventory management processes and is calculated using the formula: 

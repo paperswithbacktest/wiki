@@ -1,6 +1,9 @@
 ---
-title: "Occupancy Rate and Its Use in Analysis (Algo Trading)"
-description: "Explore how occupancy rates in real estate enrich algorithmic trading with timely data insights boosting accuracy in market predictions and investment strategies."
+category: quant_concept
+description: Explore how occupancy rates in real estate enrich algorithmic trading
+  with timely data insights boosting accuracy in market predictions and investment
+  strategies.
+title: Occupancy Rate and Its Use in Analysis (Algo Trading)
 ---
 
 The intersection of real estate metrics, particularly occupancy rates, with algorithmic trading presents new opportunities for investors and analysts. Occupancy rates serve as a crucial indicator in real estate, reflecting the proportion of occupied units within a given property compared to the total available units. Within the domain of real estate, occupancy rates are a direct measure of demand and supply dynamics, offering investors a lens into the economic health and market attractiveness of various sectors. 

@@ -1,6 +1,8 @@
 ---
-title: "Ownership of a Seat on the New York Stock Exchange (Algo Trading)"
-description: "Discover the evolution of ownership on the NYSE and the impact of algorithmic trading in modern markets exploring prestige, influence, and tech advancements."
+category: quant_concept
+description: Discover the evolution of ownership on the NYSE and the impact of algorithmic
+  trading in modern markets exploring prestige, influence, and tech advancements.
+title: Ownership of a Seat on the New York Stock Exchange (Algo Trading)
 ---
 
 Financial markets are complex systems constituted by various instruments, participants, and platforms. They provide the infrastructure required for the issuance, buying, and selling of financial securities such as stocks, bonds, and commodities. Among these participants, stock exchanges play a crucial role by acting as organized venues where these transactions occur, ensuring liquidity and transparency in the market. Stock exchanges serve as barometers of economic health by reflecting the collective valuation of publicly traded companies. The New York Stock Exchange (NYSE), the largest and one of the most prestigious stock exchanges globally, stands as a pillar of the financial markets.

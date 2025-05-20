@@ -1,6 +1,8 @@
 ---
-title: "Financial Ratios for Identifying Companies at Risk of Bankruptcy (Algo Trading)"
-description: "Explore how financial ratios like Current Ratio and Debt/Equity help predict bankruptcy risks and enhance algorithmic trading strategies for robust investments."
+category: quant_concept
+description: Explore how financial ratios like Current Ratio and Debt/Equity help
+  predict bankruptcy risks and enhance algorithmic trading strategies for robust investments.
+title: Financial Ratios for Identifying Companies at Risk of Bankruptcy (Algo Trading)
 ---
 
 In today's volatile financial markets, predicting corporate bankruptcy is more crucial than ever. The ability to foresee financial distress can mitigate risks and enhance investment outcomes, making it an essential skill for investors and financial analysts. Financial ratios play a fundamental role in this process, providing snapshots of a company's financial health by distilling complex financial data into easily interpretable metrics. Key ratios like the Current Ratio, Debt/Equity Ratio, and Cash Flow to Debt Ratio enable investors to assess liquidity, leverage, and cash flow adequacy, potentially signaling looming financial difficulties before they manifest.

@@ -1,6 +1,9 @@
 ---
-title: "Calculating Portfolio Investment Returns (Algo Trading)"
-description: "Master investment return calculations and optimize your portfolio with algorithmic trading. Learn to evaluate profits, manage risks, and make informed decisions."
+category: trading_strategy
+description: Master investment return calculations and optimize your portfolio with
+  algorithmic trading. Learn to evaluate profits, manage risks, and make informed
+  decisions.
+title: Calculating Portfolio Investment Returns (Algo Trading)
 ---
 
 Financial calculations play a pivotal role in portfolio management by enabling investors to assess investment performance and optimize their strategies. Mastery over these calculations is crucial for evaluating investment returns and leveraging algorithmic trading, both of which are fundamental to making informed financial decisions. 

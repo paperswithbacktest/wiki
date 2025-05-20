@@ -1,6 +1,8 @@
 ---
-title: "World Gold Council: Overview and Function (Algo Trading)"
-description: "Explore the pivotal role of the World Gold Council in the gold industry and the transformative impact of algorithmic trading on market efficiency and liquidity."
+category: dataset
+description: Explore the pivotal role of the World Gold Council in the gold industry
+  and the transformative impact of algorithmic trading on market efficiency and liquidity.
+title: 'World Gold Council: Overview and Function (Algo Trading)'
 ---
 
 The gold industry has long been a cornerstone of global finance, with its allure dating back to ancient civilizations such as Egypt and Mesopotamia. Gold has historically been a symbol of wealth and power, influencing trade routes, catalyzing empires' economies, and often being used as currency. Its unique chemical properties, rarity, and aesthetic appeal have cemented gold's status as a durable store of value and medium of exchange over the centuries.

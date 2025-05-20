@@ -1,6 +1,8 @@
 ---
-title: "Overhead Rate: Meaning, Formula, Calculation, and Uses (Algo Trading)"
-description: "Discover how mastering overhead rates in algorithmic trading enhances cost efficiency and strategic decision-making through precise financial analytics."
+category: quant_concept
+description: Discover how mastering overhead rates in algorithmic trading enhances
+  cost efficiency and strategic decision-making through precise financial analytics.
+title: 'Overhead Rate: Meaning, Formula, Calculation, and Uses (Algo Trading)'
 ---
 
 In the fast-paced world of algorithmic trading, understanding cost structures is vital for accurate decision-making. One of these critical cost elements is the overhead rate, a financial metric that helps allocate indirect costs to products and services. Naming conventions in algorithmic trading might be deceptively simple, but grasping such metrics is complex because it requires balancing technological investment, human expertise, and market demand.

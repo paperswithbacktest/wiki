@@ -1,6 +1,8 @@
 ---
-title: "Replacement Chain Method: Overview and Alternatives (Algo Trading)"
-description: "Explore the Replacement Chain Method in capital budgeting for assessing long-term investments. Learn how algorithmic trading can benefit from this approach."
+category: quant_concept
+description: Explore the Replacement Chain Method in capital budgeting for assessing
+  long-term investments. Learn how algorithmic trading can benefit from this approach.
+title: 'Replacement Chain Method: Overview and Alternatives (Algo Trading)'
 ---
 
 This article examines the relationship between capital budgeting investment analysis and algorithmic trading, with a focus on the Replacement Chain Method. Capital budgeting is essential for assessing long-term investment projects, especially when comparing mutually exclusive projects with different lifespans. These projects often require a strategic evaluation to ensure that organizations invest in opportunities that will maximize value over time.

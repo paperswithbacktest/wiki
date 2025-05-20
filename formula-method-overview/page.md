@@ -1,6 +1,9 @@
 ---
-title: "Formula Method Overview (Algo Trading)"
-description: "Unlock the secrets of algorithmic trading with our comprehensive guide that explains advanced strategies and techniques to enhance trading efficiency and accuracy."
+category: quant_concept
+description: Unlock the secrets of algorithmic trading with our comprehensive guide
+  that explains advanced strategies and techniques to enhance trading efficiency and
+  accuracy.
+title: Formula Method Overview (Algo Trading)
 ---
 
 In the fast-evolving world of finance, algorithmic trading has become a central focus for traders seeking efficiency and precision in executing transactions. Leveraging advanced mathematical models and automated technologies, algo trading is fundamentally altering the landscape of trading decision-making. By automating processes that once required human intervention, this approach allows for quick and accurate responses to market changes, significantly enhancing trading efficiency.

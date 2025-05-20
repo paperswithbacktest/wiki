@@ -1,6 +1,9 @@
 ---
-title: "Net Debt Versus Gross Debt: Key Considerations (Algo Trading)"
-description: "Explore the critical role of net and gross debt metrics in evaluating company finances within algorithmic trading, highlighting their impact on trading decisions."
+category: quant_concept
+description: Explore the critical role of net and gross debt metrics in evaluating
+  company finances within algorithmic trading, highlighting their impact on trading
+  decisions.
+title: 'Net Debt Versus Gross Debt: Key Considerations (Algo Trading)'
 ---
 
 Net debt and gross debt are critical financial metrics widely used in evaluating a company's financial health and performance. Gross debt represents the total financial liabilities of a company, encompassing all loans, bonds, and other forms of debt obligations. It provides an overarching view of a company's liabilities without considering the liquidity position. On the other hand, net debt is a more refined metric, calculated by subtracting cash and cash equivalents from gross debt. This calculation can be expressed mathematically as:

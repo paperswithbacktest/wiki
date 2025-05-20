@@ -1,6 +1,8 @@
 ---
-title: "Calculating Return on Investment in Real Estate (Algo Trading)"
-description: "Explore the strategic impact of algorithmic trading on calculating real estate investment returns Discover how tech enhances ROI in property investment"
+category: quant_concept
+description: Explore the strategic impact of algorithmic trading on calculating real
+  estate investment returns Discover how tech enhances ROI in property investment
+title: Calculating Return on Investment in Real Estate (Algo Trading)
 ---
 
 Real estate investing has long been a cornerstone for those seeking to build and sustain wealth. It offers a tangible asset that appreciates over time while generating potential income through leasing or resale. The allure of investing in property is bolstered by the historically stable and lucrative returns it provides compared to other asset classes such as stocks and bonds. The real estate market, driven by location, property type, and market trends, provides diverse opportunities—from residential homes to commercial properties—each with unique risk-reward profiles.

@@ -1,6 +1,9 @@
 ---
-title: "Factors Influencing Copper Prices (Algo Trading)"
-description: "Explore the key factors influencing copper prices including supply-demand balance, geopolitical events, currency rates, and algorithmic trading for informed decisions."
+category: quant_concept
+description: Explore the key factors influencing copper prices including supply-demand
+  balance, geopolitical events, currency rates, and algorithmic trading for informed
+  decisions.
+title: Factors Influencing Copper Prices (Algo Trading)
 ---
 
 Copper, often referred to as 'Doctor Copper', is a vital commodity deeply embedded within the global economy. This colloquial moniker reflects copper's status as an economic indicator, with its price movements serving as a reflection of wider economic trends. The metal's extensive application in various sectors, including electronics, construction, and renewable energy, underscores its significance. As a key component in electrical wiring and plumbing, copper is indispensable in modern infrastructure and technology, further highlighting its economic importance.

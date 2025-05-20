@@ -1,6 +1,9 @@
 ---
-title: "Contingent Assets: Overview and Considerations (Algo Trading)"
-description: "Explore the transformative role of algorithmic trading and contingent assets in asset management. Discover strategies to optimize financial returns and manage risks effectively."
+category: quant_concept
+description: Explore the transformative role of algorithmic trading and contingent
+  assets in asset management. Discover strategies to optimize financial returns and
+  manage risks effectively.
+title: 'Contingent Assets: Overview and Considerations (Algo Trading)'
 ---
 
 In the evolving landscape of finance, asset management remains a pivotal component for investors and institutions seeking to maximize returns and minimize risks. Asset management encompasses the strategic allocation, monitoring, and optimization of investments across diverse financial instruments such as stocks, bonds, and real estate. This endeavor is crucial as it directly influences the growth of capital and achievement of long-term financial goals. As such, effective asset management strategies are indispensable to both individual and institutional investors.

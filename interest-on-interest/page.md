@@ -1,6 +1,8 @@
 ---
-title: "Interest on Interest (Algo Trading)"
-description: "Explore how compound interest transforms investment growth and its integration within algorithmic trading for enhanced portfolio performance and risk management."
+category: quant_concept
+description: Explore how compound interest transforms investment growth and its integration
+  within algorithmic trading for enhanced portfolio performance and risk management.
+title: Interest on Interest (Algo Trading)
 ---
 
 Understanding financial calculations is pivotal for managing personal finances and devising effective investment strategies. One of the core financial concepts that individuals and investors should thoroughly grasp is compound interest. Unlike simple interest, compound interest accumulates on both the initial principal and the interest accrued from previous periods, leading to exponential growth over time. This principle is fundamentally transformative in how investments can grow when left to compound over extended durations.

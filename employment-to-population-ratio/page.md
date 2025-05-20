@@ -1,6 +1,8 @@
 ---
-title: "Employment-to-Population Ratio (Algo Trading)"
-description: "Explore how employment-to-population ratios shape algorithmic trading strategies, impacting global financial markets and economic policy insights."
+category: dataset
+description: Explore how employment-to-population ratios shape algorithmic trading
+  strategies, impacting global financial markets and economic policy insights.
+title: Employment-to-Population Ratio (Algo Trading)
 ---
 
 In today's interconnected world, understanding the complex relationships between various economic indicators is crucial. As economies become increasingly globalized, the dynamics of financial markets are influenced by a myriad of factors, including labor statistics, population ratio employment, and algorithmic trading. These components not only shape economic policies but also significantly impact market behaviors and outcomes.

@@ -1,6 +1,9 @@
 ---
-title: "Average Cost Pricing Rule: Explanation and Mechanism (Algo Trading)"
-description: "Discover how average cost pricing influences economic theory and algorithmic trading This article explores its mechanisms benefits and challenges in volatile markets"
+category: quant_concept
+description: Discover how average cost pricing influences economic theory and algorithmic
+  trading This article explores its mechanisms benefits and challenges in volatile
+  markets
+title: 'Average Cost Pricing Rule: Explanation and Mechanism (Algo Trading)'
 ---
 
 Average cost pricing is a foundational concept in economics, particularly relevant in contexts where natural monopolies and industry regulation are involved. It serves as a regulatory mechanism to ensure that monopolistic firms, especially in utilities, charge prices that reflect their average costs rather than exploiting their market position to secure excessive profits. This rule is crucial in preventing consumer exploitation while enabling firms to cover their operational costs and gain a reasonable return on their investments.

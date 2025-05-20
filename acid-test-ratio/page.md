@@ -1,6 +1,8 @@
 ---
-title: "Acid-Test Ratio (Algo Trading)"
-description: "Explore how the acid-test ratio, or quick ratio, enhances algorithmic trading strategies by assessing liquidity for better financial market decisions."
+category: quant_concept
+description: Explore how the acid-test ratio, or quick ratio, enhances algorithmic
+  trading strategies by assessing liquidity for better financial market decisions.
+title: Acid-Test Ratio (Algo Trading)
 ---
 
 In the fast-paced world of financial markets, accurate and timely analysis is crucial for making informed decisions. Analysts rely heavily on financial metrics to assess the financial health and operational efficiency of companies. One such key metric is the quick ratio, also known as the acid-test ratio. This ratio provides a stringent measure of a company's liquidity by evaluating its ability to meet short-term obligations without relying on the sale of inventory. The quick ratio is calculated using the formula:

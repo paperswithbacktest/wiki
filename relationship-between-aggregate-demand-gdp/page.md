@@ -1,6 +1,9 @@
 ---
-title: "Relationship Between Aggregate Demand and GDP (Algo Trading)"
-description: "Explore the intricate relationship between aggregate demand and GDP and how it informs algorithmic trading strategies to anticipate market shifts in economic cycles."
+category: quant_concept
+description: Explore the intricate relationship between aggregate demand and GDP and
+  how it informs algorithmic trading strategies to anticipate market shifts in economic
+  cycles.
+title: Relationship Between Aggregate Demand and GDP (Algo Trading)
 ---
 
 The interconnectedness of aggregate demand and Gross Domestic Product (GDP) forms a core component of economic theory, serving as an essential framework for analyzing national economies. Aggregate demand represents the total demand for goods and services within an economy at any particular time and price level, while GDP quantifies the sum value of all goods and services produced over a specific period. Their relationship is pivotal in understanding economic cycles and fluctuations.

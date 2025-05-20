@@ -1,6 +1,8 @@
 ---
-title: "Equity Unit Investment Trust: Overview and Function (Algo Trading)"
-description: "Explore how Equity Unit Investment Trusts and algorithmic trading combine traditional investment stability with cutting-edge precision to boost returns."
+category: quant_concept
+description: Explore how Equity Unit Investment Trusts and algorithmic trading combine
+  traditional investment stability with cutting-edge precision to boost returns.
+title: 'Equity Unit Investment Trust: Overview and Function (Algo Trading)'
 ---
 
 In the ever-evolving financial landscape, the fusion of traditional investment vehicles with modern technology is rapidly gaining traction. At the forefront of this convergence are Equity Unit Investment Trusts (EUITs) and algorithmic trading, both of which offer investors unprecedented opportunities. By understanding and leveraging both approaches, investors can harness the potential for higher returns while improving risk management practices.

@@ -1,6 +1,8 @@
 ---
-title: "Diffusion Index: Explanation, Calculation, and Limitations (Algo Trading)"
-description: "Discover how diffusion indexes enhance algorithmic trading by evaluating economic indicators and statistical methods for improved market predictions."
+category: quant_concept
+description: Discover how diffusion indexes enhance algorithmic trading by evaluating
+  economic indicators and statistical methods for improved market predictions.
+title: 'Diffusion Index: Explanation, Calculation, and Limitations (Algo Trading)'
 ---
 
 This article explores the relationship between economic indicators, statistical methods, diffusion indexes, and algorithmic trading. Economic indicators are fundamental tools for assessing the health of an economy. They provide critical insights that guide decision-making processes in algorithmic trading. These indicators, such as GDP, unemployment rates, and inflation, offer comprehensive snapshots of economic performance, making them indispensable for predicting market movements.

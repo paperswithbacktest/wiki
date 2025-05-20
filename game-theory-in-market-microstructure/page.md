@@ -1,6 +1,8 @@
 ---
-title: "Game Theory in Market Microstructure (Algo Trading)"
-description: "Explore how Game Theory revolutionizes trading strategies in market microstructure and algorithmic trading by modeling interactions among market participants."
+category: quant_concept
+description: Explore how Game Theory revolutionizes trading strategies in market microstructure
+  and algorithmic trading by modeling interactions among market participants.
+title: Game Theory in Market Microstructure (Algo Trading)
 ---
 
 Game Theory has fundamentally transformed the landscape of financial markets, revolutionizing the development and implementation of trading strategies. At its core, Game Theory provides a mathematical framework to analyze and predict the strategic interactions among rational decision-makers. This analytical toolkit has become increasingly vital in market microstructure, especially within the domain of algorithmic trading.

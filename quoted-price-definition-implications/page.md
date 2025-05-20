@@ -1,6 +1,9 @@
 ---
-title: "Quoted Price: Definition and Implications (Algo Trading)"
-description: "Explore the significance of quoted price in financial markets and algo trading, its impact on investment decisions, and the importance of accurate pricing data."
+category: quant_concept
+description: Explore the significance of quoted price in financial markets and algo
+  trading, its impact on investment decisions, and the importance of accurate pricing
+  data.
+title: 'Quoted Price: Definition and Implications (Algo Trading)'
 ---
 
 Understanding quoted price and pricing information is crucial in the financial sector, serving as the foundation for a wide array of transactions and investment decisions. Quoted price typically refers to the most recent price at which a security or commodity was bought or sold, encapsulating key elements such as the bid and ask prices. The bid price is the maximum price a buyer is willing to pay, whereas the ask price is the minimum price a seller is ready to accept. These prices reflect market sentiments and liquidity, underpinning the operational dynamics of financial markets.

@@ -1,6 +1,9 @@
 ---
-title: "Dow Jones U.S. Total Market Index (Algo Trading)"
-description: "Explore the comprehensive Dow Jones U.S. Total Market Index and its role in algorithmic trading Discover essential insights for informed investing in this guide"
+category: dataset
+description: Explore the comprehensive Dow Jones U.S. Total Market Index and its role
+  in algorithmic trading Discover essential insights for informed investing in this
+  guide
+title: Dow Jones U.S. Total Market Index (Algo Trading)
 ---
 
 The Dow Jones U.S. Stock Market Total Market Index, commonly known as DWCF, stands as a vital benchmark in assessing the U.S. stock market's performance. Encompassing nearly all U.S. stocks, the DWCF offers a detailed panorama of the economic landscape and serves as an indispensable tool for investors and traders who wish to understand market dynamics. Through the DWCF, stakeholders gain access to valuable insights that enable them to develop more informed investment strategies.

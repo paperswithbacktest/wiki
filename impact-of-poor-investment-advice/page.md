@@ -1,6 +1,8 @@
 ---
-title: "Impact of Poor Investment Advice (Algo Trading)"
-description: "Discover the risks of poor investment advice and algorithmic trading Learn how to spot bad strategies and protect your financial resources effectively"
+category: trading_strategy
+description: Discover the risks of poor investment advice and algorithmic trading
+  Learn how to spot bad strategies and protect your financial resources effectively
+title: Impact of Poor Investment Advice (Algo Trading)
 ---
 
 Investment strategies are essential tools for achieving financial growth and stability. However, not all strategies are created equal, and some can lead to significant financial losses. This article aims to shed light on various investment advice and strategies that can result in unfavorable outcomes, including the increasingly prevalent practice of algorithmic trading.

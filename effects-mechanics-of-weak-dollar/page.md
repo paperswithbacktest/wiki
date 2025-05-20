@@ -1,6 +1,8 @@
 ---
-title: "Effects and Mechanics of a Weak Dollar (Algo Trading)"
-description: "Explore the effects of a weak dollar on global finance and the pivotal role of algorithmic trading in navigating currency depreciation and market dynamics."
+category: trading_strategy
+description: Explore the effects of a weak dollar on global finance and the pivotal
+  role of algorithmic trading in navigating currency depreciation and market dynamics.
+title: Effects and Mechanics of a Weak Dollar (Algo Trading)
 ---
 
 In global finance, the interplay between foreign exchange rates, currency depreciation, and advancements in algorithmic trading plays a crucial role. The weakening of a nation's currency, particularly the U.S. dollar, is often seen as a reflection of the country's economic conditions. This depreciation directly impacts international trade and investment decisions, influencing a wide array of economic activities. 

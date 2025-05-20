@@ -1,6 +1,9 @@
 ---
-title: "Cost of Capital and Required Rate of Return (Algo Trading)"
-description: "Explore the impact of cost of capital and required rate of return on algorithmic trading Analyze how these metrics guide investment decisions and optimize returns"
+category: quant_concept
+description: Explore the impact of cost of capital and required rate of return on
+  algorithmic trading Analyze how these metrics guide investment decisions and optimize
+  returns
+title: Cost of Capital and Required Rate of Return (Algo Trading)
 ---
 
 Financial management is fundamentally rooted in the evaluation of the cost of capital, a crucial element influencing both financial analysis and corporate finance. The cost of capital represents the rate of return required by investors to justify the risks undertaken in investing in a company or financial asset. This metric is vital for assessing investment opportunities and determining the financial viability of projects. It acts as a benchmark for necessary returns, guiding decision-making processes in the corporate sphere.

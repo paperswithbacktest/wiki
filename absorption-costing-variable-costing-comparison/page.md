@@ -1,6 +1,11 @@
 ---
-title: "Absorption Costing and Variable Costing Comparison (Algo Trading)"
-description: "Explore the differences between absorption costing and variable costing and their impact on algorithmic trading. Understand how these accounting methods inform business decisions by evaluating costs and optimizing financial performance, crucial in today’s dynamic markets. Discover their roles in pricing, product management, and profitability."
+category: quant_concept
+description: Explore the differences between absorption costing and variable costing
+  and their impact on algorithmic trading. Understand how these accounting methods
+  inform business decisions by evaluating costs and optimizing financial performance,
+  crucial in today’s dynamic markets. Discover their roles in pricing, product management,
+  and profitability.
+title: Absorption Costing and Variable Costing Comparison (Algo Trading)
 ---
 
 In today's rapidly evolving financial landscape, the roles of cost accounting and algorithmic trading are increasingly significant. Cost accounting, a critical subset of accounting, focuses on capturing a company's overall production costs by evaluating both variable and fixed expenses. Two primary cost accounting methods—variable costing and absorption costing—are essential for businesses to efficiently manage their expenses. Variable costing, also known as direct or marginal costing, considers only variable costs for product cost evaluations, treating fixed costs as period expenses. In contrast, absorption costing, also referred to as full costing, incorporates both fixed and variable production costs into product costs. Each method provides distinct advantages in different contexts, influencing decisions related to pricing, product line management, and profit margins. 

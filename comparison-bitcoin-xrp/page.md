@@ -1,6 +1,8 @@
 ---
-title: "Comparison of Bitcoin and XRP (Algo Trading)"
-description: "Explore Bitcoin and XRP within algo trading Discover differences in market dynamics and strategies for optimizing cryptocurrency portfolios with these assets"
+category: trading_strategy
+description: Explore Bitcoin and XRP within algo trading Discover differences in market
+  dynamics and strategies for optimizing cryptocurrency portfolios with these assets
+title: Comparison of Bitcoin and XRP (Algo Trading)
 ---
 
 Cryptocurrency trading has witnessed a significant surge in popularity in recent years, attracting both individual and institutional investors. This burgeoning interest is driven by the potential for high returns and the innovative nature of digital assets. Among the multitude of cryptocurrencies, XRP and Bitcoin stand out as two of the most prominent, each with distinct characteristics and market dynamics.

@@ -1,6 +1,9 @@
 ---
-title: "Decentralized Markets (Algo Trading)"
-description: "Explore how decentralized markets driven by blockchain technology and algorithmic trading are revolutionizing economic systems by enhancing transparency and reducing transaction costs."
+category: quant_concept
+description: Explore how decentralized markets driven by blockchain technology and
+  algorithmic trading are revolutionizing economic systems by enhancing transparency
+  and reducing transaction costs.
+title: Decentralized Markets (Algo Trading)
 ---
 
 Economic systems serve as the foundation for the distribution and allocation of resources within a society. These systems determine how goods and services are produced, distributed, and consumed, influencing the economic well-being of individuals and communities. Traditional centralized markets have been the norm for centuries, where centralized exchanges or institutions typically mediate transactions between parties. This system has allowed for the establishment of regulatory frameworks, standardization, and centralized control, which help maintain market stability and trust.

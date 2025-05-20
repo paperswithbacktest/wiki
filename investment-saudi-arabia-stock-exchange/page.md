@@ -1,6 +1,8 @@
 ---
-title: "Investment in the Saudi Arabia Stock Exchange (Algo Trading)"
-description: "Explore algorithmic trading strategies for the Saudi Arabia Stock Exchange Tadawul offering dynamic opportunities in a rapidly evolving market landscape."
+category: quant_concept
+description: Explore algorithmic trading strategies for the Saudi Arabia Stock Exchange
+  Tadawul offering dynamic opportunities in a rapidly evolving market landscape.
+title: Investment in the Saudi Arabia Stock Exchange (Algo Trading)
 ---
 
 The Saudi Arabia stock exchange, popularly known as Tadawul, is the primary marketplace for trading securities in the Kingdom of Saudi Arabia. Established to facilitate the growth and development of the Kingdom's financial sector, Tadawul plays a critical role in the Middle Eastern economy and serves as a strategic platform for both local and international investors. It provides a venue for trading equity products, debt instruments, exchange-traded funds, and derivatives, reflecting the dynamic nature of Saudi Arabia’s economic landscape.

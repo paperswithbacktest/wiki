@@ -1,6 +1,8 @@
 ---
-title: "Minsky Moment: Causes, History, and Examples (Algo Trading)"
-description: "Explore the causes and history of economic crises focusing on the Minsky Moment and algorithmic trading's impact on financial stability and market dynamics."
+category: quant_concept
+description: Explore the causes and history of economic crises focusing on the Minsky
+  Moment and algorithmic trading's impact on financial stability and market dynamics.
+title: 'Minsky Moment: Causes, History, and Examples (Algo Trading)'
 ---
 
 Welcome to an in-depth exploration of economic crises, focusing primarily on financial instability, the concept of the Minsky Moment, and the role of algorithmic trading. Economic crises are pivotal events that reshuffle the dynamics of global markets, often characterized by abrupt downturns and wide-reaching consequences. Central to understanding these phenomena is the Minsky Moment, a term coined to describe a tipping point in financial markets precipitated by unsustainable levels of debt and risky speculation. This moment signifies the transition from stability to instability, often leading to financial collapses that have historically left lasting impacts on economies.

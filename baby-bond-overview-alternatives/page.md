@@ -1,6 +1,8 @@
 ---
-title: "Baby Bond: Overview and Alternatives (Algo Trading)"
-description: "Explore how baby bonds offer retail investors a low-cost entry into fixed-income markets and learn about algorithmic trading for optimizing investment strategies."
+category: quant_concept
+description: Explore how baby bonds offer retail investors a low-cost entry into fixed-income
+  markets and learn about algorithmic trading for optimizing investment strategies.
+title: 'Baby Bond: Overview and Alternatives (Algo Trading)'
 ---
 
 The investment landscape is diverse, offering myriad tools and strategies for wealth accumulation. Among these tools, baby bonds stand out due to their low denomination, making them particularly attractive to retail investors. Typically issued with a face value of less than $1,000, baby bonds are accessible options that appeal to small-scale investors seeking to diversify their portfolios without substantial capital investment. They offer a means to engage in fixed-income securities, especially for those who may find traditional bonds financially prohibitive.

@@ -1,6 +1,9 @@
 ---
-title: "Acquisition Debt: Meaning and Functionality (Algo Trading)"
-description: "Explore how acquisition debt supports strategic growth and manages risk in corporate finance and algo trading by leveraging financing structures for asset acquisition."
+category: quant_concept
+description: Explore how acquisition debt supports strategic growth and manages risk
+  in corporate finance and algo trading by leveraging financing structures for asset
+  acquisition.
+title: 'Acquisition Debt: Meaning and Functionality (Algo Trading)'
 ---
 
 Financing debt structures and acquisition debt play pivotal roles in the evolving landscape of finance, particularly within algorithmic trading. Acquisition debt, a specialized loan taken specifically for purchasing an asset or a company, becomes a critical tool in both corporate finance and individual property transactions. This debt form helps companies facilitate mergers and acquisitions, frequently offering competitive tax advantages and opportunities to leverage future growth. Similarly, individuals often use acquisition debt in property transactions to capitalize on asset appreciation while managing immediate financial outlays.

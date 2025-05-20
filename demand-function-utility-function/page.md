@@ -1,6 +1,9 @@
 ---
-title: "Demand Function and Utility Function (Algo Trading)"
-description: "Explore the integration of demand and utility functions in algorithmic trading to enhance market predictions and optimize trading strategies for economists and traders."
+category: quant_concept
+description: Explore the integration of demand and utility functions in algorithmic
+  trading to enhance market predictions and optimize trading strategies for economists
+  and traders.
+title: Demand Function and Utility Function (Algo Trading)
 ---
 
 Economics, at its core, provides the essential frameworks and models that underpin our understanding of markets, consumer behavior, and the mechanics of financial systems. The interplay between economics, demand functions, utility functions, and algorithmic trading illustrates a significant evolution in how market activities are analyzed and executed. Economic theories offer the groundwork for the dynamic algorithms that facilitate modern financial markets, enabling the rapid execution of trades with precision and accuracy. Understanding these economic foundations is crucial for both seasoned economists and technology-driven traders, who benefit from the convergence of theoretical insights and practical application.

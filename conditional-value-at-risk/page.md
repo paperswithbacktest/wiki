@@ -1,6 +1,8 @@
 ---
-title: "Conditional Value at Risk (Algo Trading)"
-description: "Explore Conditional Value at Risk (CVaR) to enhance algorithmic trading strategies by managing extreme financial risks and optimizing performance."
+category: quant_concept
+description: Explore Conditional Value at Risk (CVaR) to enhance algorithmic trading
+  strategies by managing extreme financial risks and optimizing performance.
+title: Conditional Value at Risk (Algo Trading)
 ---
 
 In the fast-paced world of algorithmic trading, understanding and managing financial risks is paramount. Algorithmic trading, which employs complex models and mathematical formulas to make high-speed trading decisions, requires a robust risk management framework to safeguard against potential financial losses. One of the key components of such a framework is the use of financial metrics. These metrics serve as vital tools for assessing, monitoring, and mitigating risks associated with market fluctuations and unexpected price movements.

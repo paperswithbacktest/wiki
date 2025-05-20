@@ -1,6 +1,11 @@
 ---
-title: "Interactive Brokers Paper Trading Demo Explained (Algo Trading)"
-description: Discover the benefits of Interactive Brokers' paper trading for algorithmic trading. This feature allows traders to simulate strategies in a risk-free environment, closely mimicking real market conditions. Hone your skills, test algorithms, and refine your trading strategies with IBKR's comprehensive tools, gaining essential experience before engaging in live trading markets.
+category: trading_strategy
+description: Discover the benefits of Interactive Brokers' paper trading for algorithmic
+  trading. This feature allows traders to simulate strategies in a risk-free environment,
+  closely mimicking real market conditions. Hone your skills, test algorithms, and
+  refine your trading strategies with IBKR's comprehensive tools, gaining essential
+  experience before engaging in live trading markets.
+title: Interactive Brokers Paper Trading Demo Explained (Algo Trading)
 ---
 
 Online trading has undergone significant transformations with the advent of advanced platforms and sophisticated strategies. Interactive Brokers (IBKR) stands out in the brokerage industry by providing robust tools and resources for traders across various experience levels. A critical feature within IBKR's offerings is paper trading, which allows investors to practice and refine their trading strategies without the financial risk associated with real trading. 

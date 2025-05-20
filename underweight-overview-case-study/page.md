@@ -1,6 +1,9 @@
 ---
-title: "Underweight: Overview and Case Study (Algo Trading)"
-description: "Explore the concept of 'underweight' in both health and finance Discover strategies for achieving balance, highlighted through a case study in algorithmic trading."
+category: quant_concept
+description: Explore the concept of 'underweight' in both health and finance Discover
+  strategies for achieving balance, highlighted through a case study in algorithmic
+  trading.
+title: 'Underweight: Overview and Case Study (Algo Trading)'
 ---
 
 Understanding the importance of maintaining a balanced approach to nutrition, health, and investing is crucial for ensuring long-term well-being. The concept of 'underweight' serves as a significant marker across different fields, including nutrition, health, and trading. In nutrition, being underweight is defined by a Body Mass Index (BMI) below 18.5, which indicates insufficient body mass compared to the standard for healthy functioning. This condition poses several health risks, such as weakened immune response, decreased muscle strength, and potential for mental health issues like depression and anxiety. Addressing underweight issues often involves dietary adjustments, lifestyle changes, and the guidance of healthcare professionals to achieve a balanced nutritional state.

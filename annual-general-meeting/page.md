@@ -1,6 +1,15 @@
 ---
-title: "Annual General Meeting (Algo Trading)"
-description: "Explore the transformative role of Annual General Meetings (AGMs) in fostering communication between shareholders and management while delving into the impact of algorithmic trading on corporate strategies. This article highlights how AGMs provide critical updates on financial health and influence investor confidence. It also examines the integration of algorithmic trading in corporate decision-making, showcasing its role in optimizing trading strategies and enhancing risk management. Gain insights into the evolving landscape of AGMs and their significance in corporate governance to make informed investment decisions in a rapidly changing financial environment."
+category: quant_concept
+description: Explore the transformative role of Annual General Meetings (AGMs) in
+  fostering communication between shareholders and management while delving into the
+  impact of algorithmic trading on corporate strategies. This article highlights how
+  AGMs provide critical updates on financial health and influence investor confidence.
+  It also examines the integration of algorithmic trading in corporate decision-making,
+  showcasing its role in optimizing trading strategies and enhancing risk management.
+  Gain insights into the evolving landscape of AGMs and their significance in corporate
+  governance to make informed investment decisions in a rapidly changing financial
+  environment.
+title: Annual General Meeting (Algo Trading)
 ---
 
 An Annual General Meeting (AGM) is a fundamental event for corporations, serving as a key dialogue platform between shareholders and management. During AGMs, shareholders receive critical updates on a company's financial health and strategic direction, which significantly influence investor confidence and market performance. Usually conducted on an annual basis, these meetings offer transparency and accountability, reinforcing corporate governance.

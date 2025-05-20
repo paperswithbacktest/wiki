@@ -1,6 +1,8 @@
 ---
-title: "Global Bonds: Mechanisms and Overview (Algo Trading)"
-description: "Explore the mechanisms of global bonds and algorithmic trading to optimize your investments by understanding these key financial instruments and strategies."
+category: quant_concept
+description: Explore the mechanisms of global bonds and algorithmic trading to optimize
+  your investments by understanding these key financial instruments and strategies.
+title: 'Global Bonds: Mechanisms and Overview (Algo Trading)'
 ---
 
 The investment bond market is a fundamental part of the global financial system, enabling investors to diversify their portfolios and manage risk effectively. Bonds represent a reliable way for governments, corporations, and institutions to raise capital, while offering investors fixed or variable returns over time. Within this market, global bonds have emerged as a critical instrument. Issued in multiple currencies across international markets, they allow issuers to access capital on a wide scale and provide investors the opportunity to diversify their investments across different regions and currencies.

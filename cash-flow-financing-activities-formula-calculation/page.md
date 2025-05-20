@@ -1,6 +1,8 @@
 ---
-title: "Cash Flow from Financing Activities: Formula and Calculation (Algo Trading)"
-description: "Master cash flow from financing activities and discover how algorithmic trading optimizes financial strategies and enhances decision-making in dynamic markets."
+category: quant_concept
+description: Master cash flow from financing activities and discover how algorithmic
+  trading optimizes financial strategies and enhances decision-making in dynamic markets.
+title: 'Cash Flow from Financing Activities: Formula and Calculation (Algo Trading)'
 ---
 
 In today's fast-paced financial markets, understanding the intricacies of financial calculations and financing activities associated with cash flow is crucial. The dynamic nature of the financial environment demands precise and informed decision-making processes, largely dependent on robust financial calculations. These calculations form the foundation for evaluating a company's performance, assessing risks, and formulating investment strategies. They include essential metrics such as net present value (NPV), internal rate of return (IRR), and cash flow forecasts, which are critical for capital budgeting and strategic planning.

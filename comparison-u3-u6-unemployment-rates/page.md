@@ -1,6 +1,9 @@
 ---
-title: "Comparison of U-3 and U-6 Unemployment Rates (Algo Trading)"
-description: "Explore how U-3 and U-6 unemployment rates impact economic analysis and algo trading strategies by providing insights into market movements and labor market nuances."
+category: quant_concept
+description: Explore how U-3 and U-6 unemployment rates impact economic analysis and
+  algo trading strategies by providing insights into market movements and labor market
+  nuances.
+title: Comparison of U-3 and U-6 Unemployment Rates (Algo Trading)
 ---
 
 Unemployment rates serve as critical indicators of economic health, offering valuable insights into the condition of the labor market. Among the various unemployment metrics, the U-3 and U-6 rates are both widely utilized, yet often misunderstood. The U-3 unemployment rate encompasses individuals who are without jobs and actively seeking employment, providing a fundamental view of unemployment. However, this measurement does not account for individuals who are underemployed or discouraged from searching for work, thereby offering a limited perspective.

@@ -1,6 +1,12 @@
 ---
-title: "United States Savings Bonds: Function, Types, and Taxation (Algo Trading)"
-description: "Explore the secure and reliable investment of U.S. savings bonds backed by the U.S. government, offering guaranteed returns and protection from inflation. Dive into the benefits, types like Series EE and I bonds, and understand the tax implications. The article also highlights the role of algorithmic trading in bond markets for enhanced strategies, appealing to risk-averse investors looking for stability and consistent income."
+category: quant_concept
+description: Explore the secure and reliable investment of U.S. savings bonds backed
+  by the U.S. government, offering guaranteed returns and protection from inflation.
+  Dive into the benefits, types like Series EE and I bonds, and understand the tax
+  implications. The article also highlights the role of algorithmic trading in bond
+  markets for enhanced strategies, appealing to risk-averse investors looking for
+  stability and consistent income.
+title: 'United States Savings Bonds: Function, Types, and Taxation (Algo Trading)'
 ---
 
 U.S. savings bonds are a secure investment option prominently backed by the full faith and credit of the federal government. These financial instruments provide a reliable means for individuals to invest while contributing to the overarching financial health of the United States. When an individual purchases a U.S. savings bond, they are effectively lending money to the government to finance various public expenditures, such as infrastructure development, education, and public welfare programs. This dual function as both a personal investment vehicle and a public financing tool underscores their unique role in the nation's economic ecosystem.
@@ -134,4 +140,3 @@ In summary, U.S. savings bonds offer a steadfast and tax-efficient investment op
 [7]: Michael Sincere. (2011). ["Understanding Options."](https://www.mheducation.com/highered/product/understanding-options-2e-sincere/9780071817844.html) McGraw-Hill Education.
 
 [8]: Aronson, David R. ["Evidence-Based Technical Analysis: Applying the Scientific Method and Statistical Inference to Trading Signals."](https://www.amazon.com/Evidence-Based-Technical-Analysis-Scientific-Statistical/dp/0470008741) Wiley.
-

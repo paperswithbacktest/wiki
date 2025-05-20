@@ -1,6 +1,8 @@
 ---
-title: "Comparison of Open-Market and Closed-Market Transactions (Algo Trading)"
-description: "Discover the differences between open-market and closed-market transactions in algorithmic trading for better investment insights and market participation strategies."
+category: trading_strategy
+description: Discover the differences between open-market and closed-market transactions
+  in algorithmic trading for better investment insights and market participation strategies.
+title: Comparison of Open-Market and Closed-Market Transactions (Algo Trading)
 ---
 
 In financial markets, grasping various transaction types and trading strategies is paramount for participants aiming to optimize their investment decisions. Financial markets consist of a wide array of components, each playing a crucial role in influencing market behavior and outcomes. Among these components, open-market transactions, closed-market transactions, and algorithmic trading are particularly significant.
@@ -136,4 +138,3 @@ Each of these resources contributes to a well-rounded understanding of the dynam
 
 **References:**  
 [1] U.S. Securities and Exchange Commission. (n.d.). Laws and regulations. Retrieved from [https://www.sec.gov/laws/regulations](https://www.sec.gov/laws/regulations).
-

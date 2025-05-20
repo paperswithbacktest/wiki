@@ -1,6 +1,9 @@
 ---
-title: "Tit for Tat: Concept and Mechanism (Algo Trading)"
-description: "Explore the concept and mechanism of tit for tat strategy in algorithmic trading derived from game theory promoting cooperation and understanding its broad applications."
+category: quant_concept
+description: Explore the concept and mechanism of tit for tat strategy in algorithmic
+  trading derived from game theory promoting cooperation and understanding its broad
+  applications.
+title: 'Tit for Tat: Concept and Mechanism (Algo Trading)'
 ---
 
 Tit for tat is a prominent strategy rooted in game theory, applicable across a wide range of disciplines such as economics, psychology, and biology. Its simplicity and effectiveness have made it a subject of considerable interest. Initially formulated by Anatol Rapoport, the strategy gained widespread recognition following its success in Robert Axelrod's tournaments, which focused on the iterated prisoner's dilemma. In essence, the tit for tat strategy is characterized by a straightforward rule: a player commences with cooperation and subsequently mimics the opponent's previous move. This approach promotes a series of reciprocal actions, fostering cooperation while deterring betrayal.

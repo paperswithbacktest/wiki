@@ -1,6 +1,9 @@
 ---
-title: "Sub-millisecond trading execution (Algo Trading)"
-description: "Achieve lightning-fast trading with sub-millisecond execution Explore how algorithmic trading leverages advanced tech for rapid market reactions ensuring competitive edge"
+category: trading_strategy
+description: Achieve lightning-fast trading with sub-millisecond execution Explore
+  how algorithmic trading leverages advanced tech for rapid market reactions ensuring
+  competitive edge
+title: Sub-millisecond trading execution (Algo Trading)
 ---
 
 In the world of finance, speed is more than just an advantage; it's a necessity. This necessity is no more apparent than in high-frequency trading (HFT), a sub-millisecond trading execution strategy. High-frequency trading is an automated trading platform that conducts numerous trades in mere milliseconds, leveraging advanced algorithms and high-speed networks. It is characterized by a high volume of orders and trade executions within extremely short time frames. The primary aim is to profit from minute price discrepancies that exist for very brief periods before they are neutralized by market forces.

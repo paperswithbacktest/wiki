@@ -1,6 +1,11 @@
 ---
-title: "Augmented Dickey-Fuller (ADF) Test for Pairs Trading (Algo Trading)"
-description: the Augmented Dickey-Fuller test, traders can enhance the reliability of their algorithmic strategies, ensuring they are based on stable and predictable data patterns. This test is essential for identifying stationary time series, which is crucial for optimizing strategies and improving trading performance by making informed decisions in volatile financial markets.
+category: quant_concept
+description: the Augmented Dickey-Fuller test, traders can enhance the reliability
+  of their algorithmic strategies, ensuring they are based on stable and predictable
+  data patterns. This test is essential for identifying stationary time series, which
+  is crucial for optimizing strategies and improving trading performance by making
+  informed decisions in volatile financial markets.
+title: Augmented Dickey-Fuller (ADF) Test for Pairs Trading (Algo Trading)
 ---
 
 The Augmented Dickey-Fuller (ADF) Test is an essential instrument in algorithmic trading, especially for strategies that depend on time series analysis. Time series data is a record of observations taken sequentially over time, and for successful algorithmic trading, it is critical to determine whether such a series is stationary. Stationarity suggests that the time series has consistent statistical properties, such as mean and variance, over time, which is crucial for making reliable predictions and informed trading decisions. Non-stationary data, on the other hand, can lead to models that make inaccurate forecasts, as their statistical properties change over time, making them unpredictable.

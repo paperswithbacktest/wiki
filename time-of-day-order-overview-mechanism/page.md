@@ -1,6 +1,8 @@
 ---
-title: "Time-of-Day Order: Overview and Mechanism (Algo Trading)"
-description: "Learn how time-of-day orders and algorithmic trading strategies can optimize trade execution by capitalizing on predictable trading patterns and market inefficiencies."
+category: trading_strategy
+description: Learn how time-of-day orders and algorithmic trading strategies can optimize
+  trade execution by capitalizing on predictable trading patterns and market inefficiencies.
+title: 'Time-of-Day Order: Overview and Mechanism (Algo Trading)'
 ---
 
 Stock exchange trading strategies involve a variety of sophisticated techniques and tools that cater to different market conditions and investor goals. One key aspect of trading is timing, as the time of day can significantly impact order execution and asset prices. Market behavior often varies during different hours due to factors such as market opening and closing, economic news releases, and trading volumes. These fluctuations offer opportunities to strategically place trades, capitalizing on predictable patterns or anomalies that occur at specific times.

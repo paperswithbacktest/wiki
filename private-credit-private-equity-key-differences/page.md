@@ -1,6 +1,9 @@
 ---
-title: "Private Credit and Private Equity: Key Differences (Algo Trading)"
-description: "Explore key differences between private credit private equity and algo trading for informed investment decisions Understand risk returns liquidity and more"
+category: trading_strategy
+description: Explore key differences between private credit private equity and algo
+  trading for informed investment decisions Understand risk returns liquidity and
+  more
+title: 'Private Credit and Private Equity: Key Differences (Algo Trading)'
 ---
 
 Alternative investments have gained significant traction in recent years as investors seek to diversify their portfolios beyond conventional assets like stocks and bonds. These investments typically include asset classes and strategies that are not broadly available in the public market, offering investors avenues to potentially enhance returns and manage risk differently. Among these, private credit, private equity, and algorithmic trading have emerged as prominent strategies attracting attention due to their distinct characteristics and opportunities for returns.

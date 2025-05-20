@@ -1,6 +1,8 @@
 ---
-title: "Advantages and Disadvantages of Preference Shares (Algo Trading)"
-description: "Explore the pros and cons of preference shares, highlighting their fixed dividends, priority claims, lack of voting rights, and sensitivity to interest rates."
+category: quant_concept
+description: Explore the pros and cons of preference shares, highlighting their fixed
+  dividends, priority claims, lack of voting rights, and sensitivity to interest rates.
+title: Advantages and Disadvantages of Preference Shares (Algo Trading)
 ---
 
 In today's financial landscape, the array of investment options available to investors is both diverse and complex. Among these options, preference shares, financial securities, and algorithmic trading stand out for their unique characteristics and potential benefits. Preference shares, often referred to as preferred stock, are of particular interest due to their dual nature, combining elements of both equity and debt. This hybrid security class offers a higher claim on assets and earnings compared to common stocks, primarily due to its fixed dividend feature.

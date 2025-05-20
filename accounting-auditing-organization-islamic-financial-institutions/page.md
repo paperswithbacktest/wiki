@@ -1,6 +1,10 @@
 ---
-title: "Accounting and Auditing Organization for Islamic Financial Institutions (Algo Trading)"
-description: "Explore the challenges and innovations in Islamic finance with AAOIFI's role in standardizing financial practices while integrating ethical algorithmic trading."
+category: quant_concept
+description: Explore the challenges and innovations in Islamic finance with AAOIFI's
+  role in standardizing financial practices while integrating ethical algorithmic
+  trading.
+title: Accounting and Auditing Organization for Islamic Financial Institutions (Algo
+  Trading)
 ---
 
 Islamic finance has experienced significant global growth, establishing itself as a vital component of the international financial system. Its principles are deeply embedded in Shari'ah law, which mandates ethical and socially responsible investing. This adherence to ethical standards differentiates Islamic finance from its conventional counterparts. The prohibition of interest (riba) and speculative transactions (gharar) signifies a commitment to equitable wealth distribution and investment in real economic activities.

@@ -1,6 +1,11 @@
 ---
-title: "Zero-Rated Goods (Algo Trading)"
-description: "Explore the complexities of zero-rated goods and VAT in the context of algorithmic trading. Understand how VAT impacts pricing, allowing businesses to reclaim input taxes, and differentiate zero-rated from VAT-exempt goods. Delve into the nuances of global VAT variations and their significance for businesses aiming to optimize tax strategies and ensure compliance in automated trading sectors."
+category: quant_concept
+description: Explore the complexities of zero-rated goods and VAT in the context of
+  algorithmic trading. Understand how VAT impacts pricing, allowing businesses to
+  reclaim input taxes, and differentiate zero-rated from VAT-exempt goods. Delve into
+  the nuances of global VAT variations and their significance for businesses aiming
+  to optimize tax strategies and ensure compliance in automated trading sectors.
+title: Zero-Rated Goods (Algo Trading)
 ---
 
 The world of taxation is complex and ever-changing. Navigating it necessitates a thorough comprehension of varied taxation concepts, including Value-Added Tax (VAT), zero-rated goods, and the implications of automated trading on tax liabilities. Value-Added Tax is an essential element across global taxation systems due to its broad influence on pricing structures and consumer spending behaviors. As a consumption tax levied at each stage of the supply chain, VAT eventually falls on the final consumer, significantly impacting how products and services are priced.

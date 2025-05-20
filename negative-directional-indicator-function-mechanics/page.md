@@ -1,6 +1,9 @@
 ---
-title: "Negative Directional Indicator: Function and Mechanics (Algo Trading)"
-description: "Explore the function and mechanics of the Negative Directional Indicator in algorithmic trading Discover how it identifies downtrends to enhance trading strategies"
+category: trading_strategy
+description: Explore the function and mechanics of the Negative Directional Indicator
+  in algorithmic trading Discover how it identifies downtrends to enhance trading
+  strategies
+title: 'Negative Directional Indicator: Function and Mechanics (Algo Trading)'
 ---
 
 Algorithmic trading has fundamentally transformed financial markets by enabling traders to leverage small market inefficiencies through automated trading systems. This transformation is largely driven by trading indicators, which form an essential part of these systems by helping traders identify market trends and directions. These indicators analyze past market data to forecast potential future price movements, thereby offering a foundation for informed trading decisions.

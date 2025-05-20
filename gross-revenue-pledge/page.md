@@ -1,6 +1,9 @@
 ---
-title: "Gross Revenue Pledge (Algo Trading)"
-description: "Explore the interplay between financial agreements, revenue commitments, gross revenue pledges, and algorithmic trading, highlighting their impact on market stability."
+category: quant_concept
+description: Explore the interplay between financial agreements, revenue commitments,
+  gross revenue pledges, and algorithmic trading, highlighting their impact on market
+  stability.
+title: Gross Revenue Pledge (Algo Trading)
 ---
 
 Financial agreements, revenue commitment, gross revenue pledges, and algorithmic trading are fundamental components of the contemporary financial landscape, each playing a crucial role in shaping market dynamics. This article explores the intricate relationships between these concepts and their implications for financial markets.

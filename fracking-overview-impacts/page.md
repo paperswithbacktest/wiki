@@ -1,6 +1,8 @@
 ---
-title: "Fracking: Overview and Impacts (Algo Trading)"
-description: "Explore the environmental and economic impacts of fracking and algorithmic trading highlighting their influence on modern energy and financial systems."
+category: quant_concept
+description: Explore the environmental and economic impacts of fracking and algorithmic
+  trading highlighting their influence on modern energy and financial systems.
+title: 'Fracking: Overview and Impacts (Algo Trading)'
 ---
 
 Hydraulic fracturing, commonly referred to as fracking, has significantly altered the landscape of the energy sector by enabling the extraction of oil and gas from geologically challenging reservoirs. This technique has been a catalyst for economic growth, allowing access to abundant energy resources that were once considered unreachable. Fracking's contribution to energy independence and job creation has been substantial, with various regions experiencing economic revitalization due to this method. However, the practice is not without controversy. Critics argue that the environmental risks associated with fracking, such as potential groundwater contamination and increased seismic activity, present significant challenges that need to be addressed.

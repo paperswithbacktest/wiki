@@ -1,6 +1,8 @@
 ---
-title: "Horizontal Spread in Finance (Algo Trading)"
-description: "Discover how horizontal spread strategies in options trading can enhance profitability through time decay and volatility analysis integrated with algo trading."
+category: trading_strategy
+description: Discover how horizontal spread strategies in options trading can enhance
+  profitability through time decay and volatility analysis integrated with algo trading.
+title: Horizontal Spread in Finance (Algo Trading)
 ---
 
 Options trading is a versatile and complex area of the financial markets, offering a variety of strategies that cater to both risk-averse investors and aggressive speculators. Before diving into complex strategies like horizontal spreads, understanding basic options trading concepts is essential. Options are financial derivatives that grant the holder the right, but not the obligation, to buy or sell an underlying asset at a predetermined price—known as the strike price—before the option expires. Market participants utilize options for various purposes, including hedging, speculation, and income generation.

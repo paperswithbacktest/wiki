@@ -1,6 +1,8 @@
 ---
-title: "Forward Contracts as the Basis of Derivatives (Algo Trading)"
-description: "Discover the role of forward contracts and derivatives in algorithmic trading to hedge risks efficiently, optimize returns, and enhance market strategies."
+category: quant_concept
+description: Discover the role of forward contracts and derivatives in algorithmic
+  trading to hedge risks efficiently, optimize returns, and enhance market strategies.
+title: Forward Contracts as the Basis of Derivatives (Algo Trading)
 ---
 
 In today's fast-paced financial markets, both investors and traders rely on a wide array of tools to manage risks and optimize potential returns. Chief among these are financial instruments such as forward contracts, derivatives, and algorithmic trading strategies. These tools form the backbone of contemporary trading, providing mechanisms to hedge risk and exploit market efficiencies.

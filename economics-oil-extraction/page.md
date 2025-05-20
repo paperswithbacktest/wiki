@@ -1,6 +1,8 @@
 ---
-title: "Economics of Oil Extraction (Algo Trading)"
-description: "Explore the intricate dynamics of oil extraction economics and the transformative impact of algorithmic trading on the oil industry in this in-depth analysis."
+category: quant_concept
+description: Explore the intricate dynamics of oil extraction economics and the transformative
+  impact of algorithmic trading on the oil industry in this in-depth analysis.
+title: Economics of Oil Extraction (Algo Trading)
 ---
 
 The oil industry remains a cornerstone of the global energy landscape, accounting for a significant portion of the world's energy supply and driving the economic engines of numerous nations. As of 2023, oil contributes to approximately 31% of global energy consumption, making it a key resource alongside coal, natural gas, and renewable sources. Its pervasive influence extends beyond energy provision, underpinning the transportation systems, industrial operations, and chemical productions that form the backbone of modern economies.

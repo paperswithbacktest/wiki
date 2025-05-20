@@ -1,6 +1,9 @@
 ---
-title: "liquidity providers strategies (Algo Trading)"
-description: "Explore the strategies of liquidity providers in algorithmic trading focusing on HFT methodologies to understand their impact on market behavior and efficiency."
+category: trading_strategy
+description: Explore the strategies of liquidity providers in algorithmic trading
+  focusing on HFT methodologies to understand their impact on market behavior and
+  efficiency.
+title: liquidity providers strategies (Algo Trading)
 ---
 
 Algorithmic trading has emerged as a transformative force in financial markets, increasing both the speed and efficiency of trade executions. At the heart of this innovation are liquidity providers, who play a vital role by maintaining market fluidity and narrowing bid-ask spreads, effectively ensuring smoother trading experiences. This article explores the strategies employed by liquidity providers in the context of algorithmic trading, with a particular focus on high-frequency trading (HFT) and the methodologies associated with it.

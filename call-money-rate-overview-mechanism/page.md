@@ -1,6 +1,8 @@
 ---
-title: "Call Money Rate: Overview and Mechanism (Algo Trading)"
-description: "Explore the critical connection between interest rates, call money rates, and algorithmic trading Discover their impact on market trends and trading decisions"
+category: quant_concept
+description: Explore the critical connection between interest rates, call money rates,
+  and algorithmic trading Discover their impact on market trends and trading decisions
+title: 'Call Money Rate: Overview and Mechanism (Algo Trading)'
 ---
 
 In the fast-paced world of finance, understanding the interplay between interest rates, call money rates, and algorithmic trading is crucial for investors and traders. As global markets evolve with technological advancements and economic fluctuations, these elements have become vital components in shaping trading strategies and financial decisions. Interest rates, set by central banks, serve as pivotal tools for managing inflation and ensuring economic stability, influencing a wide range of financial instruments and assets. Meanwhile, call money rates, or the short-term interest rates at which banks lend to each other, directly impact the costs of borrowing for traders and investors, affecting liquidity and market dynamics.

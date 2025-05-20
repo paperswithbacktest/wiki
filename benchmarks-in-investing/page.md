@@ -1,6 +1,8 @@
 ---
-title: "Benchmarks in Investing (Algo Trading)"
-description: "Explore the vital role of investment benchmarks in algorithmic trading to enhance portfolio performance. Understand their impact on modern investing strategies."
+category: trading_strategy
+description: Explore the vital role of investment benchmarks in algorithmic trading
+  to enhance portfolio performance. Understand their impact on modern investing strategies.
+title: Benchmarks in Investing (Algo Trading)
 ---
 
 Investment benchmarks are standard reference points used to evaluate the performance of an investment portfolio. They typically take the form of market indices, such as the S&P 500 or NASDAQ, and serve as crucial tools for investors and asset managers. By providing a baseline for comparison, benchmarks help investors gauge the effectiveness of their investment strategies, allowing for a clearer understanding of how their portfolios perform relative to market averages or specific sectors.

@@ -1,6 +1,9 @@
 ---
-title: "Spot Premium: Definition and Functionality (Algo Trading)"
-description: "Explore spot premium and algorithmic trading and their impact on financial markets. Learn how these concepts enhance trading strategies for optimal market performance."
+category: quant_concept
+description: Explore spot premium and algorithmic trading and their impact on financial
+  markets. Learn how these concepts enhance trading strategies for optimal market
+  performance.
+title: 'Spot Premium: Definition and Functionality (Algo Trading)'
 ---
 
 The financial markets have experienced substantial changes as a result of technological innovations, with algorithmic trading, or 'algo trading,' standing out as a particularly transformative factor. This form of trading employs complex algorithms to automate trading decisions, thereby increasing the speed and efficiency of trades. It has redefined how traders, both individual and institutional, interact with the markets by offering methods to capitalize on market movements with precision and agility.

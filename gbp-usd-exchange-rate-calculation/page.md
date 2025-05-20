@@ -1,6 +1,9 @@
 ---
-title: "GBP/USD Exchange Rate Calculation (Algo Trading)"
-description: "Explore the role of algorithmic trading in the GBP/USD forex market known as 'Cable' focusing on historical context market dynamics and strategies to maximize profit opportunities."
+category: quant_concept
+description: Explore the role of algorithmic trading in the GBP/USD forex market known
+  as 'Cable' focusing on historical context market dynamics and strategies to maximize
+  profit opportunities.
+title: GBP/USD Exchange Rate Calculation (Algo Trading)
 ---
 
 The GBP/USD currency pair, often referred to as 'Cable', is a critical benchmark in the international forex market. This pair signifies the exchange rate between the British pound (GBP) and the U.S. dollar (USD), two of the world's most significant and widely utilized currencies. 'Cable' derives its name from the early transatlantic communications cable that facilitated secure and fast transmission of exchange rate information between London and New York.

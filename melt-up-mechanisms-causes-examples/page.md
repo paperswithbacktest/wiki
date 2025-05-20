@@ -1,6 +1,8 @@
 ---
-title: "Melt-Up: Mechanisms, Causes, and Historical Examples (Algo Trading)"
-description: "Explore the intricacies of market melt-ups and algorithmic trading how they shape financial markets guide investor strategy in a rapidly changing environment."
+category: quant_concept
+description: Explore the intricacies of market melt-ups and algorithmic trading how
+  they shape financial markets guide investor strategy in a rapidly changing environment.
+title: 'Melt-Up: Mechanisms, Causes, and Historical Examples (Algo Trading)'
 ---
 
 Financial markets are continually shaped by a range of forces including economic trends, market psychology, and technological advancements. These elements collectively contribute to the dynamic and ever-evolving nature of the financial landscape. At the forefront of these forces influencing current market dynamics are the phenomena of 'melt-ups' and algorithmic trading. 

@@ -1,6 +1,9 @@
 ---
-title: "Overview of Fidelity Go (Algo Trading)"
-description: "Explore Fidelity Go's automated, low-cost investment service from Fidelity Investments. Ideal for hands-off investors seeking simplicity and expert-backed portfolio management."
+category: trading_strategy
+description: Explore Fidelity Go's automated, low-cost investment service from Fidelity
+  Investments. Ideal for hands-off investors seeking simplicity and expert-backed
+  portfolio management.
+title: Overview of Fidelity Go (Algo Trading)
 ---
 
 In the evolving landscape of investment management, robo-advisors have rapidly gained traction as an automated, algorithm-driven financial management solution. These digital platforms leverage technology to offer a hands-off investment approach, which appeals to both novice and seasoned investors. Fidelity Go stands out among these platforms by providing an intuitive, streamlined interface designed to simplify the investment process for users.

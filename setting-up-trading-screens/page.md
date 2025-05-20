@@ -1,6 +1,9 @@
 ---
-title: "Setting Up Trading Screens (Algo Trading)"
-description: "Optimize your trading setup with our guide on configuring screens for algo trading improve efficiency and decision-making in the fast-paced trading world today."
+category: trading_strategy
+description: Optimize your trading setup with our guide on configuring screens for
+  algo trading improve efficiency and decision-making in the fast-paced trading world
+  today.
+title: Setting Up Trading Screens (Algo Trading)
 ---
 
 In trading, having the right setup is crucial for success. The trading environment you establish, encompassing both hardware and software components, plays a significant role in enhancing your trading efficiency and decision-making processes. This article aims to guide traders through the essentials of optimizing trading screens, configuring monitors effectively, and understanding the impact of algorithmic trading (algo trading) in modern strategies.

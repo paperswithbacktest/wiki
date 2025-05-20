@@ -1,6 +1,8 @@
 ---
-title: "Earnings yield (Algo Trading)"
-description: "Unlock trading potential with earnings yield, a key metric for assessing profitability and stock valuation. Optimize investment strategies effectively."
+category: quant_concept
+description: Unlock trading potential with earnings yield, a key metric for assessing
+  profitability and stock valuation. Optimize investment strategies effectively.
+title: Earnings yield (Algo Trading)
 ---
 
 Earnings yield is a vital financial metric employed in both traditional and algorithmic trading settings, offering insights into a company's profitability relative to its share price. Defined as the inverse of the more commonly known price-to-earnings (P/E) ratio, earnings yield is calculated by dividing a company's earnings per share (EPS) by its current share price. Mathematically, earnings yield can be expressed as:

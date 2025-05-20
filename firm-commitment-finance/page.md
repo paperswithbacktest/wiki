@@ -1,6 +1,9 @@
 ---
-title: "Firm Commitment in Finance (Algo Trading)"
-description: "Discover how firm commitments, underwriting, and algorithmic trading converge to revolutionize financial markets by enhancing efficiency, risk management, and market dynamics."
+category: quant_concept
+description: Discover how firm commitments, underwriting, and algorithmic trading
+  converge to revolutionize financial markets by enhancing efficiency, risk management,
+  and market dynamics.
+title: Firm Commitment in Finance (Algo Trading)
 ---
 
 In the fast-evolving financial landscape, the convergence of underwriting, firm commitments, and algorithmic trading has become significant. These elements, while individually fundamental to finance, synergize to form robust capital market systems. Underwriting serves as a cornerstone, enabling the assessment and management of risks associated with launching new securities. It ensures that financial activities such as loans and securities issuance are executed with precision and due diligence.

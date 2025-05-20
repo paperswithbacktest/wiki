@@ -1,6 +1,8 @@
 ---
-title: "Identifying Mispriced Stocks (Algo Trading)"
-description: "Discover how to identify and profit from mispriced stocks using algorithmic trading and valuation techniques to capitalize on market inefficiencies."
+category: trading_strategy
+description: Discover how to identify and profit from mispriced stocks using algorithmic
+  trading and valuation techniques to capitalize on market inefficiencies.
+title: Identifying Mispriced Stocks (Algo Trading)
 ---
 
 Mispriced stocks are a focal point for investors aiming to maximize returns by exploiting the gap between a stock's market value and its intrinsic value. This discrepancy often arises due to market inefficiencies, such as delays in the dissemination of information, and investor biases that can skew perceptions of a stock's true worth. A fundamental understanding of this concept becomes crucial for investors seeking to capitalize on temporary market anomalies.

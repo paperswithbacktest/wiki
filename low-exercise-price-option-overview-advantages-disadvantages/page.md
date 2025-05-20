@@ -1,6 +1,9 @@
 ---
-title: "Low Exercise Price Option: Overview, Advantages and Disadvantages (Algo Trading)"
-description: "Explore the strategic potential of Low Exercise Price Options (LEPOs) in algo trading offering leveraged exposure with minimal exercise price for savvy investors."
+category: quant_concept
+description: Explore the strategic potential of Low Exercise Price Options (LEPOs)
+  in algo trading offering leveraged exposure with minimal exercise price for savvy
+  investors.
+title: 'Low Exercise Price Option: Overview, Advantages and Disadvantages (Algo Trading)'
 ---
 
 Options trading, an integral facet of financial markets, offers diverse opportunities for investors aiming to enhance their portfolios. Among the various instruments available, the Low Exercise Price Option (LEPO) stands out for its unique characteristics and strategic potential. LEPOs represent a specialized form of European-style call option characterized by a nominal exercise price, usually set at one cent. This distinct structure provides traders with leveraged exposure to price movements of the underlying asset, making LEPOs an attractive yet complex tool for informed investors.

@@ -1,6 +1,8 @@
 ---
-title: "Jan Tinbergen: Biography and Achievements (Algo Trading)"
-description: "Discover the pioneering contributions of Jan Tinbergen to econometrics and algorithmic trading Explore his groundbreaking models and their lasting impact"
+category: quant_concept
+description: Discover the pioneering contributions of Jan Tinbergen to econometrics
+  and algorithmic trading Explore his groundbreaking models and their lasting impact
+title: 'Jan Tinbergen: Biography and Achievements (Algo Trading)'
 ---
 
 Jan Tinbergen was a pioneering Dutch economist known for his development of econometric models and significant contributions to economic science. As the first recipient of the Nobel Memorial Prize in Economic Sciences in 1969, an honor he shared with Ragnar Frisch, Tinbergen made foundational advancements in the application of mathematics and statistics to economics, establishing him as a pivotal figure in the creation of econometrics. 

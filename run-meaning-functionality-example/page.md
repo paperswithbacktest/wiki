@@ -1,6 +1,8 @@
 ---
-title: "Run: Meaning, Functionality, and Example (Algo Trading)"
-description: "Explore the essentials of algorithmic trading including its significance functionality and practical examples to enhance trading strategies and market interactions."
+category: quant_concept
+description: Explore the essentials of algorithmic trading including its significance
+  functionality and practical examples to enhance trading strategies and market interactions.
+title: 'Run: Meaning, Functionality, and Example (Algo Trading)'
 ---
 
 Algorithmic trading, or algo trading, has fundamentally changed traders' interaction with financial markets. By utilizing computer programs, traders can now automate and execute trades at speeds and frequencies unimaginable to human traders, bringing a combination of speed, efficiency, and accuracy to trading strategies. This transformation allows market participants to capitalize on advantages like precision and discipline in order execution.

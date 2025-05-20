@@ -1,6 +1,14 @@
 ---
-title: "Variance (Algo Trading)"
-description: Explore the critical role of variance in algorithmic trading and its impact on trading strategies. Understand how managing variance can enhance profitability and align with risk tolerance. Learn techniques for assessing and controlling variance to develop robust strategies that maximize potential returns while mitigating risk. Discover the relationship between variance and volatility, and explore real-world examples illustrating variance's influence on strategy outcomes. Equip yourself with insights to optimize trading strategies for stable returns by effectively understanding and managing variance.
+category: quant_concept
+description: Explore the critical role of variance in algorithmic trading and its
+  impact on trading strategies. Understand how managing variance can enhance profitability
+  and align with risk tolerance. Learn techniques for assessing and controlling variance
+  to develop robust strategies that maximize potential returns while mitigating risk.
+  Discover the relationship between variance and volatility, and explore real-world
+  examples illustrating variance's influence on strategy outcomes. Equip yourself
+  with insights to optimize trading strategies for stable returns by effectively understanding
+  and managing variance.
+title: Variance (Algo Trading)
 ---
 
 Algorithmic trading, often referred to as algo trading, has brought a significant transformation to financial markets. Through the integration of sophisticated mathematical models and automated systems, algo trading has the capability to execute complex trading strategies with speed and precision. These algorithms analyze large volumes of data, recognize patterns, and make trading decisions that would be challenging for a human to perform manually, especially in such a quick and consistent manner.

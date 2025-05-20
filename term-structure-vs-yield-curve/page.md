@@ -1,6 +1,9 @@
 ---
-title: "Term Structure vs. Yield Curve (Algo Trading)"
-description: "Explore the synergy between term structure, yield curve, and algorithmic trading, highlighting their influence on contemporary trading strategies and economic forecasts."
+category: quant_concept
+description: Explore the synergy between term structure, yield curve, and algorithmic
+  trading, highlighting their influence on contemporary trading strategies and economic
+  forecasts.
+title: Term Structure vs. Yield Curve (Algo Trading)
 ---
 
 The landscape of financial markets has undergone significant evolution due to technological advancements, with algorithmic trading playing a central role in this transformation. One essential aspect essential for understanding these markets is the term structure of interest rates, typically illustrated using the yield curve. This article investigates the interconnectedness of algorithmic trading and the yield curve, highlighting how they collectively shape contemporary trading strategies. 
@@ -151,4 +154,3 @@ Treynor's article offers a concise analysis of market efficiency, focusing on ho
 
 Hasbrouck, J. (1995). One Security, Many Markets: Determining the Contributions to Price Discovery. Journal of Finance, 50(4), 1175-1199.  
 This paper explores the concept of price discovery across different markets, a fundamental aspect of algorithmic trading. The insights provided are valuable for understanding how yield curve variations can signal trading opportunities and contribute to more effective market strategies.
-

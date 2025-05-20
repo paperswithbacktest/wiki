@@ -1,6 +1,8 @@
 ---
-title: "Short Coupon in Finance (Algo Trading)"
-description: "Explore the intricacies of bonds, short coupons, and algorithmic trading to enhance investment strategies and portfolio management in modern finance."
+category: quant_concept
+description: Explore the intricacies of bonds, short coupons, and algorithmic trading
+  to enhance investment strategies and portfolio management in modern finance.
+title: Short Coupon in Finance (Algo Trading)
 ---
 
 In the complex world of finance, mastering the intricacies of bonds, coupons, short coupons, and algorithmic trading is crucial for investors aiming to optimize returns. Bonds, as a fundamental component of financial markets, serve as a vehicle for raising capital while offering investors a potentially steady income stream through coupon payments. Understanding the dynamics of bond coupon finance, especially the role of short coupons and the innovative application of algorithmic trading, can significantly influence investment strategies and outcomes.

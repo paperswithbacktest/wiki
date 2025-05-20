@@ -1,7 +1,8 @@
 ---
-title: Conditional Image to Image Translation in Machine Learning
+category: quant_concept
 description: Conditional image-to-image translation uses Pix2Pix OASIS and LipGAN
   to transform sketches into realistic images and adapt styles Discover more inside
+title: Conditional Image to Image Translation in Machine Learning
 ---
 
 ![Image](images/1.png)

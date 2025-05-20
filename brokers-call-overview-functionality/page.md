@@ -1,6 +1,8 @@
 ---
-title: "Broker's Call: Overview and Functionality (Algo Trading)"
-description: "Explore the intricacies of broker's calls and their impact on algo trading Discover how financial advice and technology empower traders in modern markets"
+category: quant_concept
+description: Explore the intricacies of broker's calls and their impact on algo trading
+  Discover how financial advice and technology empower traders in modern markets
+title: 'Broker''s Call: Overview and Functionality (Algo Trading)'
 ---
 
 Financial markets have undergone substantial transformations over the years, with the onset of algorithmic trading marking a pivotal change in trading dynamics. Traditionally, stock trading relied heavily on human expertise and the manual execution of trades. However, today's markets are increasingly driven by sophisticated computer algorithms that can execute complex trading strategies at lightning speeds.

@@ -1,6 +1,13 @@
 ---
-title: "Off Book Practices in Theatre (Algo Trading)"
-description: "Explore the convergence of theatre and algorithmic trading through the concept of being \"off book.\" In theatre, it denotes actors' freedom to perform without scripts, enhancing spontaneity and authenticity. In trading, it refers to transactions outside formal exchanges, offering flexibility and innovation. Both realms require rigorous preparation and adaptability, highlighting the underlying discipline essential for success. Discover how mastering the off-book state enables peak performance, offering intriguing insights across these seemingly distinct fields."
+category: quant_concept
+description: Explore the convergence of theatre and algorithmic trading through the
+  concept of being "off book." In theatre, it denotes actors' freedom to perform without
+  scripts, enhancing spontaneity and authenticity. In trading, it refers to transactions
+  outside formal exchanges, offering flexibility and innovation. Both realms require
+  rigorous preparation and adaptability, highlighting the underlying discipline essential
+  for success. Discover how mastering the off-book state enables peak performance,
+  offering intriguing insights across these seemingly distinct fields.
+title: Off Book Practices in Theatre (Algo Trading)
 ---
 
 The convergence of acting and algorithmic trading presents a fascinating juxtaposition of artistry and data-driven precision. At first glance, these two domains might appear to share little in common; however, they are linked by the notion of being "off book." In theatre, "off book" refers to the stage during rehearsal when actors have memorized their lines, allowing them to perform without the immediate need for a script. This freedom enhances spontaneity and enables a more authentic interaction with fellow performers and the audience. The significance of being off book in theatre cannot be understated, as it is instrumental in creating fluid and dynamic performances.

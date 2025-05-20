@@ -1,6 +1,8 @@
 ---
-title: "Overhead Ratio: Explanation and Calculation (Algo Trading)"
-description: "Maximize your trading efficiency with insights on overhead ratios and financial metrics. Learn to apply key ratios for enhanced algorithmic trading success."
+category: quant_concept
+description: Maximize your trading efficiency with insights on overhead ratios and
+  financial metrics. Learn to apply key ratios for enhanced algorithmic trading success.
+title: 'Overhead Ratio: Explanation and Calculation (Algo Trading)'
 ---
 
 In today's competitive business environment, maximizing efficiency is crucial for financial success. As businesses strive to enhance their operational efficiency, understanding and leveraging key financial metrics is more important than ever. Among these metrics, the overhead ratio plays a pivotal role, providing insights into how effectively a company manages its operating expenses relative to its income. A lower overhead ratio generally indicates a more efficient operational structure, as it suggests the company is minimizing unnecessary expenditure while maximizing value generation.

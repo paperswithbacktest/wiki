@@ -1,6 +1,9 @@
 ---
-title: "Five Percent Rule: Overview and Application (Algo Trading)"
-description: "Discover the dual role of the Five Percent Rule in finance as it guides commission limits and ensures portfolio diversification essential for robust trading strategies."
+category: trading_strategy
+description: Discover the dual role of the Five Percent Rule in finance as it guides
+  commission limits and ensures portfolio diversification essential for robust trading
+  strategies.
+title: 'Five Percent Rule: Overview and Application (Algo Trading)'
 ---
 
 Investment strategies are essential components of financial planning, designed to optimize returns while managing risks. These strategies help individuals and institutions to allocate resources effectively in alignment with their financial goals. Among the myriad of strategies available, the Five Percent Rule stands out due to its dual purpose: serving as a commission guideline and a diversification strategy.

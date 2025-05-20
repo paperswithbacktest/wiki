@@ -1,6 +1,12 @@
 ---
-title: "What is the Weekend Effect in Stocks? (Algo Trading)"
-description: Explore the weekend effect in stocks, a market anomaly where Monday returns are often lower than Fridays. This article investigates into weekend trading strategies using algorithmic methods to exploit this pattern. By leveraging backtesting, traders can refine these strategies, benefiting from systematic and emotion-free trading beyond usual market hours. Discover how understanding the weekend effect can enhance trading approaches amid evolving market conditions.
+category: trading_strategy
+description: Explore the weekend effect in stocks, a market anomaly where Monday returns
+  are often lower than Fridays. This article investigates into weekend trading strategies
+  using algorithmic methods to exploit this pattern. By leveraging backtesting, traders
+  can refine these strategies, benefiting from systematic and emotion-free trading
+  beyond usual market hours. Discover how understanding the weekend effect can enhance
+  trading approaches amid evolving market conditions.
+title: What is the Weekend Effect in Stocks? (Algo Trading)
 ---
 
 The stock market offers countless opportunities for traders, and one intriguing area is trading beyond the usual market hours. Weekend trading, a practice that occurs outside the traditional weekdays, is of particular interest within algorithmic trading. This article aims to explore the potential of weekend trading strategies in algorithmic contexts.

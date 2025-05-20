@@ -1,6 +1,9 @@
 ---
-title: "Impact of Minimum Wage Laws on Labor Costs (Algo Trading)"
-description: "Explore how minimum wage laws impact labor costs within algo trading. Understand fixed and variable costs, profitability, and strategies for managing expenses."
+category: quant_concept
+description: Explore how minimum wage laws impact labor costs within algo trading.
+  Understand fixed and variable costs, profitability, and strategies for managing
+  expenses.
+title: Impact of Minimum Wage Laws on Labor Costs (Algo Trading)
 ---
 
 In today's dynamic economic landscape, the ability to comprehend the nuances of costs is essential for businesses and individuals. Fixed and variable costs are two primary types that significantly impact financial planning and decision-making. Fixed costs, such as rent and salaries, remain constant regardless of production levels, while variable costs, like raw materials and utilities, fluctuate with business activity. This article examines how these costs influence overall financial health and planning.

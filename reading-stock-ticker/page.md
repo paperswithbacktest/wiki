@@ -1,6 +1,9 @@
 ---
-title: "Reading A Stock Ticker (Algo Trading)"
-description: "Learn to read stock tickers and explore their significance in algorithmic trading. Understand how real-time data fuels strategies for informed investment decisions."
+category: quant_concept
+description: Learn to read stock tickers and explore their significance in algorithmic
+  trading. Understand how real-time data fuels strategies for informed investment
+  decisions.
+title: Reading A Stock Ticker (Algo Trading)
 ---
 
 Stock tickers are fundamental in the financial markets, serving as the shorthand notation for trading securities. A stock ticker represents an issuer listed on a stock exchange and includes dynamic data such as price, volume, and price changes, which are critical for traders and investors. The essential purpose of a stock ticker is to provide real-time updates about market movements, thereby supporting informed trading decisions.

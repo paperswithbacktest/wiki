@@ -1,6 +1,9 @@
 ---
-title: "Net Liabilities to Policyholders' Surplus: Explanation and Function (Algo Trading)"
-description: "Explore how net liabilities to policyholders' surplus ratios impact insurer solvency and the role of algorithmic trading in optimizing financial strategies."
+category: quant_concept
+description: Explore how net liabilities to policyholders' surplus ratios impact insurer
+  solvency and the role of algorithmic trading in optimizing financial strategies.
+title: 'Net Liabilities to Policyholders'' Surplus: Explanation and Function (Algo
+  Trading)'
 ---
 
 The introduction to the intersection of insurance finance, policyholders' surplus, net liabilities, and algorithmic trading begins with an understanding of these financial constructs integral to the insurance sector. Policyholders' surplus is a critical indicator representing the cushion an insurer maintains to absorb unexpected losses, calculated as the insurer’s total admitted assets minus its total liabilities. This metric is paramount in assessing an insurer's solvency and financial health, providing insights into its capability to underwrite new policies and meet future policyholder obligations.

@@ -1,6 +1,9 @@
 ---
-title: "Rainbow Option: Definition and Mechanism (Algo Trading)"
-description: "Explore the intriguing world of rainbow options where complex strategies come alive through algorithmic trading. Unlock opportunities using these exotic derivatives."
+category: quant_concept
+description: Explore the intriguing world of rainbow options where complex strategies
+  come alive through algorithmic trading. Unlock opportunities using these exotic
+  derivatives.
+title: 'Rainbow Option: Definition and Mechanism (Algo Trading)'
 ---
 
 The world of financial derivatives is vast and multifaceted, offering numerous opportunities and instruments for investors to consider. Among these instruments are options, which provide strategic and complex ways to speculate or hedge within markets. Options allow investors to engage in transactions based on the anticipated movement of an underlying asset's price, providing a hedge against potential losses or leveraging positions for potential gains.

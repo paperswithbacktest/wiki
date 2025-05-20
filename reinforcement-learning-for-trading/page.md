@@ -1,6 +1,8 @@
 ---
-title: "Reinforcement Learning for Trading (Algo Trading)"
-description: "Explore how Reinforcement Learning enhances algorithmic trading by optimizing decision-making with AI. Learn strategies for adaptable, efficient market analysis."
+category: trading_strategy
+description: Explore how Reinforcement Learning enhances algorithmic trading by optimizing
+  decision-making with AI. Learn strategies for adaptable, efficient market analysis.
+title: Reinforcement Learning for Trading (Algo Trading)
 ---
 
 The application of Reinforcement Learning (RL) in algorithmic trading represents a cutting-edge approach to financial market analysis and decision-making. Reinforcement Learning, a subset of machine learning, allows AI systems to make informed decisions by learning from past actions and their outcomes. This feature makes RL particularly well-suited for trading environments where adaptability and continuous learning are paramount for success.

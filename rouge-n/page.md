@@ -1,7 +1,8 @@
 ---
-title: Rouge-N Metric for Evaluating Text Summarization Quality
+category: quant_concept
 description: Rouge-N evaluates summary quality by measuring overlapping n-grams to
   assess content accuracy and coherence in summarization systems Discover more inside
+title: Rouge-N Metric for Evaluating Text Summarization Quality
 ---
 
 ![Image](images/1.jpeg)

@@ -1,6 +1,8 @@
 ---
-title: "Risks of Investing in Marijuana Stocks (Algo Trading)"
-description: "Explore the promising yet volatile world of marijuana stocks and algorithmic trading. Learn about investment risks, opportunities, and market dynamics."
+category: trading_strategy
+description: Explore the promising yet volatile world of marijuana stocks and algorithmic
+  trading. Learn about investment risks, opportunities, and market dynamics.
+title: Risks of Investing in Marijuana Stocks (Algo Trading)
 ---
 
 The global cannabis market has experienced unparalleled growth, primarily driven by increasing legalization across various regions, notably in North America. In the United States, cannabis legalization has been a state-centric process, with states like Colorado and California leading in establishing legal frameworks for both medicinal and recreational use. As of 2023, a significant number of U.S. states have legalized marijuana, contributing to the burgeoning market. In Canada, the Cannabis Act, implemented in 2018, marked the country as the first major economy to legalize recreational cannabis nationwide, setting a precedence for international markets [1].

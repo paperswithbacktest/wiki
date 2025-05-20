@@ -1,6 +1,15 @@
 ---
-title: "Timing of Earnings Season (Algo Trading)"
-description: "Earnings season is a pivotal time in financial markets when companies disclose quarterly results, impacting stock valuations and investor sentiment. Understanding financial reports and key metrics, such as earnings per share and revenue growth, helps stakeholders make informed decisions. Algorithmic trading thrives during this period by quickly processing data and capitalizing on volatility triggered by earnings announcements. This convergence of technology and finance mitigates emotional bias in trading, offering strategic advantages. The article explores how traders can leverage these insights to navigate financial complexities and gain a competitive edge."
+category: trading_strategy
+description: Earnings season is a pivotal time in financial markets when companies
+  disclose quarterly results, impacting stock valuations and investor sentiment. Understanding
+  financial reports and key metrics, such as earnings per share and revenue growth,
+  helps stakeholders make informed decisions. Algorithmic trading thrives during this
+  period by quickly processing data and capitalizing on volatility triggered by earnings
+  announcements. This convergence of technology and finance mitigates emotional bias
+  in trading, offering strategic advantages. The article explores how traders can
+  leverage these insights to navigate financial complexities and gain a competitive
+  edge.
+title: Timing of Earnings Season (Algo Trading)
 ---
 
 Earnings season represents a crucial period in the financial markets when publicly traded companies disclose their quarterly financial outcomes. This cycle grants investors and analysts essential insights into corporate health and broader economic patterns, which in turn can significantly influence stock valuations and investor sentiment. Participation in earnings season requires a keen understanding of financial statements and the ability to interpret the data therein. Key metrics such as earnings per share, revenue growth, and net income provide a snapshot of a company’s performance, assisting stakeholders in making informed decisions.

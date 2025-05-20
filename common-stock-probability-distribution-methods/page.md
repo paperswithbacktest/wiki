@@ -1,6 +1,8 @@
 ---
-title: "Common Stock Probability Distribution Methods (Algo Trading)"
-description: "Explore probability distribution methods for common stocks in algorithmic trading Learn how these statistical tools enhance stock prediction and risk management."
+category: quant_concept
+description: Explore probability distribution methods for common stocks in algorithmic
+  trading Learn how these statistical tools enhance stock prediction and risk management.
+title: Common Stock Probability Distribution Methods (Algo Trading)
 ---
 
 In the fast-evolving world of stock analysis and trading, understanding the concepts of probability distributions is crucial. Probability distributions serve as a foundation for statistical methods used to analyze stock performance, providing traders with insights into potential returns and risks. These distributions describe how the probabilities of potential outcomes are spread, enabling traders to assess the likelihood of various return scenarios.

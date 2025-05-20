@@ -1,6 +1,8 @@
 ---
-title: "B-Note: Overview, Functionality, and Regulations (Algo Trading)"
-description: "Dive into the world of finance with insights on B-Notes, their role in structured finance, regulatory impacts post-2008, and the rise of algorithmic trading."
+category: quant_concept
+description: Dive into the world of finance with insights on B-Notes, their role in
+  structured finance, regulatory impacts post-2008, and the rise of algorithmic trading.
+title: 'B-Note: Overview, Functionality, and Regulations (Algo Trading)'
 ---
 
 In the rapidly evolving world of finance, understanding the nuances of financial instruments and their regulation is crucial. As financial markets grow increasingly complex, investors, regulators, and market participants must navigate a landscape defined by intricate products and advanced trading techniques. Among these, financial regulation, B-Notes, and algorithmic trading stand out as significant components.

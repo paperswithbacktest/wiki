@@ -1,6 +1,8 @@
 ---
-title: "Monte Carlo Analysis in Risk Estimation (Algo Trading)"
-description: "Explore risk estimation in algorithmic trading with Monte Carlo analysis to project financial outcomes and enhance strategy robustness against market uncertainties."
+category: quant_concept
+description: Explore risk estimation in algorithmic trading with Monte Carlo analysis
+  to project financial outcomes and enhance strategy robustness against market uncertainties.
+title: Monte Carlo Analysis in Risk Estimation (Algo Trading)
 ---
 
 Algorithmic trading, often referred to as algo trading, stands as a pivotal advancement within the finance industry, characterized by the automated execution of trading strategies grounded in quantitative analysis. This methodology leverages complex algorithms and high-speed data processing to assess market variables and execute trades with precision, significantly minimizing human intervention and enabling rapid responses to market changes.

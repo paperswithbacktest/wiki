@@ -1,6 +1,9 @@
 ---
-title: "Current Liabilities and Calculation Methods (Algo Trading)"
-description: "Explore current liabilities and modern methods to manage them effectively including algorithmic trading techniques to optimize financial stability and cash flow."
+category: quant_concept
+description: Explore current liabilities and modern methods to manage them effectively
+  including algorithmic trading techniques to optimize financial stability and cash
+  flow.
+title: Current Liabilities and Calculation Methods (Algo Trading)
 ---
 
 Financial accounting is a fundamental process that involves the identification, measurement, and communication of financial information. Central to this discipline is the management of liabilities, which form a crucial part of a company's balance sheet. Understanding liabilities is essential for businesses as they represent obligations that must be managed effectively to ensure ongoing financial stability.

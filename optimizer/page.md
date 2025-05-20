@@ -1,7 +1,8 @@
 ---
-title: Comprehensive Guide to Machine Learning Optimizers and Techniques
+category: quant_concept
 description: Machine Learning Optimizers guide models through loss landscapes by adjusting
   parameters to speed up learning and boost performance Discover more inside
+title: Comprehensive Guide to Machine Learning Optimizers and Techniques
 ---
 
 ![Image](images/1.png)

@@ -1,6 +1,8 @@
 ---
-title: "Compliance Costs and Mechanisms (Algo Trading)"
-description: "Compliance in algorithmic trading involves managing costs linked to regulatory adherence and implementing mechanisms to meet legal standards ensuring market integrity."
+category: quant_concept
+description: Compliance in algorithmic trading involves managing costs linked to regulatory
+  adherence and implementing mechanisms to meet legal standards ensuring market integrity.
+title: Compliance Costs and Mechanisms (Algo Trading)
 ---
 
 Algorithmic trading leverages advanced computer algorithms to execute trading orders at high velocity and significant volumes. This approach provides several benefits, notably improved efficiency and reduced transactional costs, by automating decision-making processes and minimizing human intervention. The algorithms can analyze vast datasets within seconds, reacting to market changes more swiftly than traditional trading methods.

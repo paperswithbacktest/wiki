@@ -1,6 +1,8 @@
 ---
-title: "TIBOR: Overview and Calculation Methodology (Algo Trading)"
-description: "Explore TIBOR's significance in Japan's financial markets, its calculation methodology, and its role in algorithmic trading, aiding investment decisions."
+category: quant_concept
+description: Explore TIBOR's significance in Japan's financial markets, its calculation
+  methodology, and its role in algorithmic trading, aiding investment decisions.
+title: 'TIBOR: Overview and Calculation Methodology (Algo Trading)'
 ---
 
 Understanding interest rate benchmarks is critical for both investors and traders, as these benchmarks provide a reference point for various financial transactions and instruments. The Tokyo Interbank Offered Rate (TIBOR) represents a key benchmark within the Japanese financial market, playing a significant role in shaping borrowing and lending conditions. As a widely-recognized indicator, TIBOR is essential for assessing the cost of interbank loans in Japan, allowing for more informed decision-making by financial institutions.

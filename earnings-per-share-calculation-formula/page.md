@@ -1,6 +1,9 @@
 ---
-title: "Earnings Per Share Calculation Formula (Algo Trading)"
-description: "Explore the Earnings Per Share calculation formula and its crucial role in enhancing algorithmic trading strategies. Learn key insights for better trading decisions."
+category: quant_concept
+description: Explore the Earnings Per Share calculation formula and its crucial role
+  in enhancing algorithmic trading strategies. Learn key insights for better trading
+  decisions.
+title: Earnings Per Share Calculation Formula (Algo Trading)
 ---
 
 Understanding key metrics in financial markets is essential for making informed investment decisions. One such critical metric that investors frequently analyze is Earnings Per Share (EPS). EPS measures a company's profitability by indicating how much money a company makes for each share of its stock. In recent years, the integration of technology into trading has significantly transformed the landscape, leading to the rise of algorithmic trading, commonly known as algo trading.

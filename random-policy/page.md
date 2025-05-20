@@ -1,10 +1,9 @@
 ---
-title: Understanding Random Policy in Reinforcement Learning
+category: quant_concept
 description: Random Policy in reinforcement learning establishes a baseline for comparing
   advanced strategies while exploring all actions evenly. Discover more inside
+title: Understanding Random Policy in Reinforcement Learning
 ---
-
-
 
 ## Table of Contents
 

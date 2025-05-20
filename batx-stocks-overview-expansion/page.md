@@ -1,6 +1,8 @@
 ---
-title: "BATX Stocks: Overview and Expansion (Algo Trading)"
-description: "Explore the rise of BATX stocks giants Baidu Alibaba Tencent and Xiaomi Their market dominance expansion into global markets and impact on the tech landscape"
+category: dataset
+description: Explore the rise of BATX stocks giants Baidu Alibaba Tencent and Xiaomi
+  Their market dominance expansion into global markets and impact on the tech landscape
+title: 'BATX Stocks: Overview and Expansion (Algo Trading)'
 ---
 
 The rise of BATX stocks marks a significant shift in the global technology market. BATX is an acronym for Baidu, Alibaba, Tencent, and Xiaomi, representing the leading Chinese tech giants. Together, these companies have redefined the digital landscape in China, offering services that rival those of major Western counterparts. Baidu functions much like Google, providing a comprehensive search engine service; Alibaba serves as a cornerstone of e-commerce, comparable to Amazon; Tencent excels in social media and gaming, resembling Facebook; and Xiaomi is notable for its consumer electronics, paralleling the likes of Samsung.

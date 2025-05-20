@@ -1,6 +1,11 @@
 ---
-title: "Cross Currency Triangulation and Its Mechanism (Algo Trading)"
-description: "Discover the mechanisms of cross currency triangulation and algorithmic trading in the forex market. Learn how leveraging advanced strategies can optimize trading outcomes by exploiting arbitrage opportunities and enhancing efficiency. Understand the key role of technology in reducing human error and ensuring precision in a dynamic trading environment."
+category: quant_concept
+description: Discover the mechanisms of cross currency triangulation and algorithmic
+  trading in the forex market. Learn how leveraging advanced strategies can optimize
+  trading outcomes by exploiting arbitrage opportunities and enhancing efficiency.
+  Understand the key role of technology in reducing human error and ensuring precision
+  in a dynamic trading environment.
+title: Cross Currency Triangulation and Its Mechanism (Algo Trading)
 ---
 
 Currency exchange plays a vital role in the global economy, facilitating international trade and investment by enabling the conversion of one currency into another. This process underpins economic activities, allowing businesses and individuals to purchase foreign goods, services, and assets. It also contributes to maintaining balance in the global financial system, as exchange rates adjust to reflect economic conditions, trade balances, and monetary policies.

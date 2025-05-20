@@ -1,6 +1,14 @@
 ---
-title: "NYSE Arca: Overview, History, and Membership (Algo Trading)"
-description: "NYSE Arca is a leading electronic securities exchange, renowned for its focus on exchange-traded products and robust algorithmic trading capabilities. This platform stands at the forefront of modern trading by offering advanced infrastructure that supports high-frequency trading and efficient market operations. Through its unique market structure, including narrow bid-ask spreads and liquidity incentives, NYSE Arca enhances market efficiency and accessibility for diverse participants. Its commitment to leveraging technology ensures superior execution quality and adaptability to evolving trading needs, maintaining its edge in the fast-paced financial landscape."
+category: quant_concept
+description: NYSE Arca is a leading electronic securities exchange, renowned for its
+  focus on exchange-traded products and robust algorithmic trading capabilities. This
+  platform stands at the forefront of modern trading by offering advanced infrastructure
+  that supports high-frequency trading and efficient market operations. Through its
+  unique market structure, including narrow bid-ask spreads and liquidity incentives,
+  NYSE Arca enhances market efficiency and accessibility for diverse participants.
+  Its commitment to leveraging technology ensures superior execution quality and adaptability
+  to evolving trading needs, maintaining its edge in the fast-paced financial landscape.
+title: 'NYSE Arca: Overview, History, and Membership (Algo Trading)'
 ---
 
 In the fast-paced world of financial markets, stock exchanges such as NYSE Arca play a pivotal role in maintaining and enhancing market efficiency and accessibility. As a prominent electronic securities exchange specializing in exchange-traded products (ETPs), NYSE Arca stands at the forefront of modern trading. This article examines the exchange's structure, functionalities, and its strategic position in the marketplace, particularly its dominance in the ETP segment.

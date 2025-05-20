@@ -1,6 +1,8 @@
 ---
-title: "Comparison of Greenfield Investment and International Acquisition (Algo Trading)"
-description: "Explore how greenfield investments and international acquisitions fuel global expansion. Delve into algorithmic trading's role in optimizing these strategies."
+category: trading_strategy
+description: Explore how greenfield investments and international acquisitions fuel
+  global expansion. Delve into algorithmic trading's role in optimizing these strategies.
+title: Comparison of Greenfield Investment and International Acquisition (Algo Trading)
 ---
 
 In the modern business landscape, expanding into international markets has become a strategic imperative for many companies seeking growth and diversification. As globalization continues to break down barriers, businesses are increasingly exploring opportunities beyond their domestic borders. This article investigates the key strategies employed by companies pursuing international acquisitions and greenfield investments—two prominent approaches to global expansion.

@@ -1,6 +1,11 @@
 ---
-title: "Exercise Price: Puts, Calls, and In/Out of the Money (Algo Trading)"
-description: "Discover the essentials of options trading, focusing on exercise price, 'in the money' and 'out of the money' distinctions, and the role of algorithmic trading. This guide empowers traders with strategies for optimizing portfolio performance, understanding intrinsic value, and leveraging technology to navigate complex financial markets efficiently for maximum returns."
+category: quant_concept
+description: Discover the essentials of options trading, focusing on exercise price,
+  'in the money' and 'out of the money' distinctions, and the role of algorithmic
+  trading. This guide empowers traders with strategies for optimizing portfolio performance,
+  understanding intrinsic value, and leveraging technology to navigate complex financial
+  markets efficiently for maximum returns.
+title: 'Exercise Price: Puts, Calls, and In/Out of the Money (Algo Trading)'
 ---
 
 Options trading has become an increasingly attractive strategy for investors aiming to enhance the performance of their portfolios. By allowing the purchase or sale of assets at predetermined prices, options provide flexibility and the potential for significant returns. The strategic nature of options trading necessitates a thorough understanding of essential concepts such as the exercise price and the conditions under which an option is considered 'in the money'. These factors are pivotal in determining the profitability of trades.

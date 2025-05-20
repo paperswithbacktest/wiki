@@ -1,6 +1,8 @@
 ---
-title: "Standard Deviation in Investment Portfolios (Algo Trading)"
-description: "Explore how standard deviation measures portfolio risk and aids in algo trading by quantifying volatility to optimize investment strategies efficiently."
+category: quant_concept
+description: Explore how standard deviation measures portfolio risk and aids in algo
+  trading by quantifying volatility to optimize investment strategies efficiently.
+title: Standard Deviation in Investment Portfolios (Algo Trading)
 ---
 
 Understanding financial risk in investments is crucial for effective portfolio management. Financial risk pertains to the uncertainty of returns and the potential loss of capital that investors might face. Effective management of this risk is essential to achieve optimal returns and to safeguard investors' capital. Standard deviation serves as a primary metric for measuring the volatility of an investment portfolio. It quantifies the dispersion of a set of data points, in this case, returns, from their mean. A higher standard deviation indicates greater volatility, signifying that an investment’s returns may deviate significantly from the average, which suggests higher risk.

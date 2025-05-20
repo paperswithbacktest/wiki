@@ -1,6 +1,8 @@
 ---
-title: "Determination of Currency Pair Closing Prices in Forex Market (Algo Trading)"
-description: "Explore the significance of forex currency pair closing prices essential in algorithmic trading strategies Learn how market dynamics influence trading outcomes"
+category: trading_strategy
+description: Explore the significance of forex currency pair closing prices essential
+  in algorithmic trading strategies Learn how market dynamics influence trading outcomes
+title: Determination of Currency Pair Closing Prices in Forex Market (Algo Trading)
 ---
 
 Currency trading in the forex market is characterized by its dynamic and fluid nature, heavily influenced by various factors such as global economic trends and specific geopolitical events. These elements play critical roles in shaping the behavior of currency pairs and their respective values. For traders, understanding these complexities is essential to navigate this vast and volatile financial landscape effectively.

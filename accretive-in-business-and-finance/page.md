@@ -1,6 +1,9 @@
 ---
-title: "Accretive in Business and Finance (Algo Trading)"
-description: "Explore how algorithmic trading can drive accretive growth in business by optimizing financial strategies, enhancing returns, and boosting shareholder value."
+category: quant_concept
+description: Explore how algorithmic trading can drive accretive growth in business
+  by optimizing financial strategies, enhancing returns, and boosting shareholder
+  value.
+title: Accretive in Business and Finance (Algo Trading)
 ---
 
 In today's competitive financial landscape, businesses are constantly seeking ways to achieve accretive growth. This article explores the intersection of business growth strategies, financial management, and algorithmic trading. The term 'accretive' in finance refers to any transaction that adds value to a company, often seen in mergers and acquisitions when they increase earnings per share (EPS). The formula used to determine if a transaction is accretive involves comparing the post-transaction EPS with the pre-transaction EPS:

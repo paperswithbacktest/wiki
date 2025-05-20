@@ -1,6 +1,8 @@
 ---
-title: "Premium Adjustable Convertible Securities (Algo Trading)"
-description: "Explore the dynamics of Premium Adjustable Convertible Securities and how they integrate with algo trading strategies for optimal investment returns."
+category: quant_concept
+description: Explore the dynamics of Premium Adjustable Convertible Securities and
+  how they integrate with algo trading strategies for optimal investment returns.
+title: Premium Adjustable Convertible Securities (Algo Trading)
 ---
 
 Convertible securities are complex financial instruments that combine characteristics of both debt and equity. They offer investors flexible investment options by providing the ability to convert these instruments into a specified number of shares of the issuing company. This feature allows investors to enjoy the benefits of fixed-income investment while maintaining the potential for equity appreciation.
@@ -148,5 +150,4 @@ Ongoing research and development continue to push the boundaries of convertible 
 
 [5]: ["High-Frequency Trading: A Practical Guide to Algorithmic Strategies and Trading Systems"](https://www.ahmetbeyefendi.com/wp-content/uploads/2020/07/High-Frequency-Trading-Irene-Aldridge.pdf) by Irene Aldridge.
 
-[6]: ["Options, Futures, and Other Derivatives"](https://www.amazon.com/Options-Futures-Other-Derivatives-6th/dp/0131499084) by John C. Hull. 
-
+[6]: ["Options, Futures, and Other Derivatives"](https://www.amazon.com/Options-Futures-Other-Derivatives-6th/dp/0131499084) by John C. Hull.

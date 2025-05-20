@@ -1,9 +1,14 @@
 ---
-title: "Sentiment indicators"
-Description: Discover the power of sentiment indicators in financial markets. These essential tools help investors and traders gauge the mood of the market by reflecting overall investor attitudes towards market conditions. Sentiment indicators include the VIX, Put/Call Ratio, Advance/Decline Line, High-Low Index, Bullish Percent Index, Arms Index (TRIN), Investor Sentiment Surveys, Consumer Confidence Index, and Commitment of Traders Report. Each indicator offers unique insights into market sentiment, with some focusing on market trends and others on investor behavior.
+Description: Discover the power of sentiment indicators in financial markets. These
+  essential tools help investors and traders gauge the mood of the market by reflecting
+  overall investor attitudes towards market conditions. Sentiment indicators include
+  the VIX, Put/Call Ratio, Advance/Decline Line, High-Low Index, Bullish Percent Index,
+  Arms Index (TRIN), Investor Sentiment Surveys, Consumer Confidence Index, and Commitment
+  of Traders Report. Each indicator offers unique insights into market sentiment,
+  with some focusing on market trends and others on investor behavior.
+category: quant_concept
+title: Sentiment indicators
 ---
-
-
 
 Sentiment indicators are essential tools that investors and traders utilize to gauge the mood of the financial markets. They reflect the overall attitude of investors towards market conditions and can significantly influence financial decisions and strategies. Sentiment indicators come in various forms, ranging from numerical data points such as the Put/Call Ratio to more complex qualitative analyses like news sentiment.
 

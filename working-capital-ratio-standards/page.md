@@ -1,6 +1,13 @@
 ---
-title: "Working Capital Ratio Standards (Algo Trading)"
-description: "Explore critical financial ratios, the significance of working capital, and the transformative role of algorithmic trading in modern finance. Learn how financial ratios aid in assessing company performance while understanding working capital's impact on liquidity and operational efficiency. Discover how algorithmic trading automates processes to enhance trade execution and profitability, offering strategic insights into asset allocation and risk management in today's dynamic financial landscape."
+category: quant_concept
+description: Explore critical financial ratios, the significance of working capital,
+  and the transformative role of algorithmic trading in modern finance. Learn how
+  financial ratios aid in assessing company performance while understanding working
+  capital's impact on liquidity and operational efficiency. Discover how algorithmic
+  trading automates processes to enhance trade execution and profitability, offering
+  strategic insights into asset allocation and risk management in today's dynamic
+  financial landscape.
+title: Working Capital Ratio Standards (Algo Trading)
 ---
 
 In the fast-paced world of business finance, possessing a thorough understanding of financial ratios and the concept of working capital is crucial for making informed decisions. This article will examine key financial ratios, elucidate the importance of working capital, and discuss the integration of algorithmic trading in modern finance. Financial ratios are vital analytical tools utilized for evaluating a company's performance and financial health, offering insights into various aspects such as liquidity, profitability, and solvency.

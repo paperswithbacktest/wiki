@@ -1,6 +1,8 @@
 ---
-title: "Unitized Fund: Overview and Mechanics (Algo Trading)"
-description: "Explore how unitized funds and algorithmic trading transform investment strategies Learn about unitized funds' pooled approach and algo trading's tech edge"
+category: quant_concept
+description: Explore how unitized funds and algorithmic trading transform investment
+  strategies Learn about unitized funds' pooled approach and algo trading's tech edge
+title: 'Unitized Fund: Overview and Mechanics (Algo Trading)'
 ---
 
 The financial sector is undergoing a transformative journey as innovative tools and strategies increasingly dictate market dynamics. Today, investment funds and algorithmic trading stand at the forefront of this evolution, serving as crucial instruments for both individual and institutional investors. These mechanisms are designed to enhance returns while effectively managing the inherent risks of the market, adapting to an environment that demands precision and strategic insight.

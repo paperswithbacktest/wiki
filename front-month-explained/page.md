@@ -1,6 +1,8 @@
 ---
-title: "Front Month Explained (Algo Trading)"
-description: "Explore the intricacies of front month futures in algorithmic trading to gain insights into liquidity trends and strategies for optimizing trading efficiency."
+category: quant_concept
+description: Explore the intricacies of front month futures in algorithmic trading
+  to gain insights into liquidity trends and strategies for optimizing trading efficiency.
+title: Front Month Explained (Algo Trading)
 ---
 
 Financial markets are pivotal to the global economy as they facilitate the exchange of financial instruments, including stocks, bonds, commodities, and derivatives. These markets enable businesses to raise capital, manage risks, and invest in innovation while allowing investors to earn returns on their capital. Among the various instruments traded in these markets, futures contracts play a crucial role. A futures contract is a standardized agreement to buy or sell an asset at a predetermined price at a specified time in the future. Initially introduced to help producers and consumers hedge against price volatility, futures contracts now serve numerous purposes, including speculation and portfolio diversification, contributing significantly to the overall efficiency and liquidity of financial markets.

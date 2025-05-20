@@ -1,6 +1,8 @@
 ---
-title: "Paris Agreement and COP21: History and Structure (Algo Trading)"
-description: "Explore the Paris Agreement's impact on global climate policy and the role of algorithmic trading in sustainable finance for a low-carbon future."
+category: quant_concept
+description: Explore the Paris Agreement's impact on global climate policy and the
+  role of algorithmic trading in sustainable finance for a low-carbon future.
+title: 'Paris Agreement and COP21: History and Structure (Algo Trading)'
 ---
 
 The Paris Agreement, established in 2015 during the 21st Conference of the Parties (COP21), marks a significant global initiative aimed at combating climate change. This landmark accord is a testament to international unity, as it aspires to limit the increase in global temperatures to well below 2 degrees Celsius above pre-industrial levels. By doing so, the agreement underscores the necessity of reducing greenhouse gas emissions and fostering a sustainable future.

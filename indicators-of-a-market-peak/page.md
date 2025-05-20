@@ -1,6 +1,9 @@
 ---
-title: "Indicators of a Market Peak (Algo Trading)"
-description: "Unlock successful trading with insights on market peaks using economic indicators and algorithmic tools Optimize strategies to maximize profits and minimize risks"
+category: trading_strategy
+description: Unlock successful trading with insights on market peaks using economic
+  indicators and algorithmic tools Optimize strategies to maximize profits and minimize
+  risks
+title: Indicators of a Market Peak (Algo Trading)
 ---
 
 In today's fast-paced financial markets, the ability to interpret economic indicators and employ algorithmic trading strategies is crucial for enhancing market analysis. Economic indicators, such as employment rates, Gross Domestic Product (GDP), and inflation, serve as vital statistics that reflect the health of an economy. These indicators are instrumental in guiding trader decisions by influencing market movements and anticipating shifts. This foundational understanding allows traders to align their strategies with the prevailing economic climate, optimizing their decision-making processes.

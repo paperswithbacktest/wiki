@@ -1,9 +1,13 @@
 ---
-title: "How can we assess the capacity of a trading strategy?"
-description: "Learn how to assess the capacity of a trading strategy in quantitative markets. Discover methods such as market liquidity analysis, testing at different capital levels, market impact estimation, historical performance examination, and large-scale backtesting. Consider factors like order size, trading frequency, asset diversity, and transaction costs when evaluating capacity for successful capital allocation and minimizing risks."
+category: trading_strategy
+description: Learn how to assess the capacity of a trading strategy in quantitative
+  markets. Discover methods such as market liquidity analysis, testing at different
+  capital levels, market impact estimation, historical performance examination, and
+  large-scale backtesting. Consider factors like order size, trading frequency, asset
+  diversity, and transaction costs when evaluating capacity for successful capital
+  allocation and minimizing risks.
+title: How can we assess the capacity of a trading strategy?
 ---
-
-
 
 In the fast-paced world of trading, developing a robust strategy is crucial for success. The capacity of a trading strategy is a critical aspect that enables traders to gauge how much capital it can effectively manage before its performance starts to deteriorate. This understanding not only informs the scalability of a strategy but also illuminates its potential for profitability. A well-calibrated strategy can maximize returns while mitigating risks, ensuring that traders can efficiently tap into market opportunities.
 

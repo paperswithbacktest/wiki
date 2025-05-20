@@ -1,6 +1,8 @@
 ---
-title: "Impact of Supply and Demand on Prices (Algo Trading)"
-description: "Explore how supply and demand dynamics influence prices in markets, and discover the impact of algorithmic trading on these economic principles."
+category: quant_concept
+description: Explore how supply and demand dynamics influence prices in markets, and
+  discover the impact of algorithmic trading on these economic principles.
+title: Impact of Supply and Demand on Prices (Algo Trading)
 ---
 
 Understanding the interplay of supply and demand is crucial for comprehending price determination in market economics. At the heart of any market are the forces of supply and demand, which dictate the prices of goods and services. Supply describes the amount of a good or service that producers are willing and able to sell at a given price, while demand represents the quantity that consumers are willing and able to purchase. This interaction establishes the equilibrium price, the price point at which the quantity supplied equals the quantity demanded. This intricate balance forms the cornerstone of market economics, impacting everything from consumer behavior to business strategy.

@@ -1,6 +1,14 @@
 ---
-title: "Median: Overview and Calculation Methods (Algo Trading)"
-description: "The article explores the key role of the median in algorithmic trading and highlights its importance over other statistical measures like mean or mode. It explains how the median provides resilience against data anomalies and outliers, making it invaluable in high volatility markets. The piece covers methods to calculate the median using programming languages like Python and R, illustrating its application in financial analysis to enhance decision-making processes and strategy development. Understanding and using the median can lead to better risk management and more effective trading strategies."
+category: quant_concept
+description: The article explores the key role of the median in algorithmic trading
+  and highlights its importance over other statistical measures like mean or mode.
+  It explains how the median provides resilience against data anomalies and outliers,
+  making it invaluable in high volatility markets. The piece covers methods to calculate
+  the median using programming languages like Python and R, illustrating its application
+  in financial analysis to enhance decision-making processes and strategy development.
+  Understanding and using the median can lead to better risk management and more effective
+  trading strategies.
+title: 'Median: Overview and Calculation Methods (Algo Trading)'
 ---
 
 In the world of trading, making data-driven decisions is essential for success. Traders rely heavily on statistical tools to analyze market trends and develop robust trading strategies. Among these tools, the median emerges as a key statistical measure. The median, unlike the average, offers better resilience to data anomalies such as outliers and extreme market movements. This makes it particularly valuable in financial analysis, where data sets often contain skewed distributions.

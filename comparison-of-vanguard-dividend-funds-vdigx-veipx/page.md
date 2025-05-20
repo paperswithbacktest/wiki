@@ -1,6 +1,8 @@
 ---
-title: "Comparison of Vanguard Dividend Funds: VDIGX and VEIPX (Algo Trading)"
-description: "Explore the differences between Vanguard VEIPX and VDIGX dividend funds and learn how algorithmic trading optimizes their strategies for investors."
+category: trading_strategy
+description: Explore the differences between Vanguard VEIPX and VDIGX dividend funds
+  and learn how algorithmic trading optimizes their strategies for investors.
+title: 'Comparison of Vanguard Dividend Funds: VDIGX and VEIPX (Algo Trading)'
 ---
 
 Vanguard has established itself as a leading global investment firm, renowned for its investor-centric approach and commitment to providing high-quality, low-cost index funds and ETFs. The firm's focus on mutual funds, particularly, has solidified its reputation in the financial industry. Among its diverse offerings are the Vanguard Equity Income Fund Investor Shares (VEIPX) and the Vanguard Dividend Growth Fund Investor Shares (VDIGX), both of which stand out for their emphasis on dividend-focused investment strategies.

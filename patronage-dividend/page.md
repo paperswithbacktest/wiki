@@ -1,6 +1,8 @@
 ---
-title: "Patronage Dividend (Algo Trading)"
-description: "Explore the unique financial model of patronage dividends in cooperatives and how algorithmic trading can enhance member benefits and profitability."
+category: quant_concept
+description: Explore the unique financial model of patronage dividends in cooperatives
+  and how algorithmic trading can enhance member benefits and profitability.
+title: Patronage Dividend (Algo Trading)
 ---
 
 Patronage dividends serve as a distinct financial advantage exclusive to cooperative organizations, providing a mechanism through which cooperative profits are distributed back to the members based on their participation and usage of the cooperative's services. This setup is fundamentally different from traditional corporate frameworks, where dividends are distributed based on ownership of company shares. In cooperatives, these dividends are not just financial rewards but are closely tied to the cooperative values of equality and democracy, ensuring that members directly benefit from the cooperative's success in proportion to their contribution.

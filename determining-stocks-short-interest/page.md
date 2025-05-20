@@ -1,6 +1,13 @@
 ---
-title: "Determining a Stock's Short Interest (Algo Trading)"
-description: "Explore the intricacies of short interest in stock trading: understand investor sentiment, market dynamics, and the impacts of high short interest. Discover how algorithmic trading leverages short interest data for strategic advantages. Learn key concepts about short selling and short squeezes, with examples on utilizing short interest information for profitable trading strategies. Whether you’re an investor or trader, this guide equips you with essential insights into market trends and algorithmic opportunities."
+category: quant_concept
+description: 'Explore the intricacies of short interest in stock trading: understand
+  investor sentiment, market dynamics, and the impacts of high short interest. Discover
+  how algorithmic trading leverages short interest data for strategic advantages.
+  Learn key concepts about short selling and short squeezes, with examples on utilizing
+  short interest information for profitable trading strategies. Whether you’re an
+  investor or trader, this guide equips you with essential insights into market trends
+  and algorithmic opportunities.'
+title: Determining a Stock's Short Interest (Algo Trading)
 ---
 
 Understanding the stock market can be a daunting task, especially when it comes to shorted shares and short interest. These concepts hold particular importance as they provide insights into investor sentiment and potential market movements. Short selling involves borrowing shares to sell them with the hope of repurchasing them at a lower price, thereby generating profit. Investors choose this strategy when they anticipate a decline in a stock's price. However, the dynamics of short selling extend beyond simple speculation, affecting liquidity and pricing in the broader market context.

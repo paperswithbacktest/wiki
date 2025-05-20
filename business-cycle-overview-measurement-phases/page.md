@@ -1,6 +1,9 @@
 ---
-title: "Business Cycle: Overview, Measurement, and Phases (Algo Trading)"
-description: "Understand the business cycle's impact on economic trends and trading strategies by exploring its phases and measurement methods to optimize financial decisions."
+category: quant_concept
+description: Understand the business cycle's impact on economic trends and trading
+  strategies by exploring its phases and measurement methods to optimize financial
+  decisions.
+title: 'Business Cycle: Overview, Measurement, and Phases (Algo Trading)'
 ---
 
 The business cycle is a fundamental concept in economics, illustrating the periodic fluctuations in the economic activity of a nation. These cycles are characterized by periods of expansion, peak, contraction, and trough, each profoundly impacting various dimensions of the economy, including employment, consumer spending, and investment behaviors. Understanding business cycles is crucial for successful business and financial planning, as they influence market trends and investor strategies.

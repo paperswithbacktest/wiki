@@ -1,6 +1,12 @@
 ---
-title: "Yield Maintenance in Financial Agreements (Algo Trading)"
-description: "Explore the interplay of yield maintenance, prepayment penalties, and algorithmic trading in financial agreements. Learn how yield maintenance protects lenders from early repayment losses, ensuring expected yields in long-term loans. Understand the role of prepayment penalties in safeguarding lenders’ interests, and discover how algo trading influences these financial strategies in today’s dynamic markets."
+category: quant_concept
+description: Explore the interplay of yield maintenance, prepayment penalties, and
+  algorithmic trading in financial agreements. Learn how yield maintenance protects
+  lenders from early repayment losses, ensuring expected yields in long-term loans.
+  Understand the role of prepayment penalties in safeguarding lenders’ interests,
+  and discover how algo trading influences these financial strategies in today’s dynamic
+  markets.
+title: Yield Maintenance in Financial Agreements (Algo Trading)
 ---
 
 Yield maintenance is a critical mechanism in financial agreements, primarily designed to protect lenders from the financial repercussions of borrowers repaying loans ahead of schedule. It ensures that lenders receive a guaranteed yield, even if the loan is paid off early, by requiring the borrower to compensate the lender for the interest that would have been earned over the life of the loan. This provision is particularly pertinent in long-term financial contracts, where the predictability of returns is essential for lenders' financial planning and risk management.

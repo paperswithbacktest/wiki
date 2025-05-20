@@ -1,6 +1,8 @@
 ---
-title: "Equilibrium Price and Its Calculation (Algo Trading)"
-description: "Explore equilibrium price calculation in algorithmic trading where supply meets demand transforming financial markets with technology-driven stability."
+category: quant_concept
+description: Explore equilibrium price calculation in algorithmic trading where supply
+  meets demand transforming financial markets with technology-driven stability.
+title: Equilibrium Price and Its Calculation (Algo Trading)
 ---
 
 Market equilibrium is a core concept in economics where the forces of supply and demand find a balance, leading to a state of stability in prices. This equilibrium occurs when the quantity of goods supplied matches the quantity demanded by consumers, resulting in an 'equilibrium price' and an 'equilibrium quantity'. These metrics are crucial in defining a market's state, indicating the price point and the number of goods exchanged in a balanced market.

@@ -1,6 +1,8 @@
 ---
-title: "Creditor Nation and Its Mechanisms (Algo Trading)"
-description: "Explore the influence of creditor nations in global trade and the role of algorithmic trading in enhancing their market power and economic stability."
+category: quant_concept
+description: Explore the influence of creditor nations in global trade and the role
+  of algorithmic trading in enhancing their market power and economic stability.
+title: Creditor Nation and Its Mechanisms (Algo Trading)
 ---
 
 The dynamics of global economic finance are ever-evolving, with creditor and debtor nations playing pivotal roles. Nations experience shifts between being creditors, with a positive net international investment position (NIIP), and debtors, marked by greater foreign liabilities than assets. These statuses influence international trade relationships, affecting economic leverage and negotiating power. 

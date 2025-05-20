@@ -1,6 +1,8 @@
 ---
-title: "Types of Funds for Recessionary Periods (Algo Trading)"
-description: "Discover effective fund options like government bonds and dividend funds designed to provide stability and growth opportunities during economic recessions."
+category: trading_strategy
+description: Discover effective fund options like government bonds and dividend funds
+  designed to provide stability and growth opportunities during economic recessions.
+title: Types of Funds for Recessionary Periods (Algo Trading)
 ---
 
 In an unpredictable economic environment characterized by downturns and recessions, investors are often faced with the challenge of preserving their capital while seeking growth opportunities. Economic recessions are marked by a decline in economic activity, typically resulting in lower investment returns. This downturn can manifest in various economic indicators, including substantial reductions in GDP, increased unemployment rates, and weakened consumer spending patterns. Such conditions generate uncertainty that complicates traditional investment decisions.

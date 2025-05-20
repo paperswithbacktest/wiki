@@ -1,6 +1,8 @@
 ---
-title: "Analysis of China's GDP: Service Sector Growth (Algo Trading)"
-description: "Explore China's GDP growth via its expanding service sector and the rise of algorithmic trading Learn how these shifts impact global economic dynamics"
+category: quant_concept
+description: Explore China's GDP growth via its expanding service sector and the rise
+  of algorithmic trading Learn how these shifts impact global economic dynamics
+title: 'Analysis of China''s GDP: Service Sector Growth (Algo Trading)'
 ---
 
 The global economy has undergone a significant transformation over the last few decades, shifting towards a service-oriented structure. China, as a leading economic powerhouse, has witnessed a pivotal transition with its service sector becoming a crucial component of its GDP. This shift not only highlights China's strategic economic reforms but also underscores the increasing importance of services over traditional industries like agriculture and manufacturing.

@@ -1,7 +1,8 @@
 ---
-title: Essential Attention Modules In Machine Learning Explained
+category: quant_concept
 description: Attention modules enhance neural networks by guiding focus on key data
   features across tasks from translation to image processing Discover more inside.
+title: Essential Attention Modules In Machine Learning Explained
 ---
 
 ![Image](images/1.png)

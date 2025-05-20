@@ -1,6 +1,8 @@
 ---
-title: "Underlying Security: Overview and Example (Algo Trading)"
-description: "Explore the vital role of underlying securities in algorithmic trading including examples like stocks and commodities and see how they drive market dynamics."
+category: quant_concept
+description: Explore the vital role of underlying securities in algorithmic trading
+  including examples like stocks and commodities and see how they drive market dynamics.
+title: 'Underlying Security: Overview and Example (Algo Trading)'
 ---
 
 In the modern financial landscape, the interplay between financial instruments, underlying securities, and algorithmic trading plays a pivotal role. Financial instruments such as equities, bonds, and derivatives form the building blocks of financial markets, enabling investors to channel funds and manage risks. Underlying securities, which include assets like stocks and commodities, serve as the foundation for derivatives, impacting their valuation and trading dynamics. Algorithmic trading further transforms these interactions by automating the process of trade execution, significantly enhancing speed and efficiency.

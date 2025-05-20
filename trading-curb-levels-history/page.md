@@ -1,6 +1,9 @@
 ---
-title: "Trading Curb: Levels and Historical Overview (Algo Trading)"
-description: "Explore the complexities of market regulation with a focus on trading curbs and algorithmic trading Learn how these elements affect market stability and efficiency"
+category: quant_concept
+description: Explore the complexities of market regulation with a focus on trading
+  curbs and algorithmic trading Learn how these elements affect market stability and
+  efficiency
+title: 'Trading Curb: Levels and Historical Overview (Algo Trading)'
 ---
 
 In today's financial markets, the dialogue around innovation and regulation is increasingly central, especially concerning stock exchanges. With technological advances such as algorithmic trading and the introduction of trading curbs, the complexities of market regulation have expanded. Algorithmic trading, which uses computer algorithms to execute trades at incredible speeds, has revolutionized the trading landscape, offering benefits in terms of efficiency and liquidity. However, it also poses risks like market manipulation and unexpected volatility spikes.

@@ -1,6 +1,8 @@
 ---
-title: "Gelber Group (Algo Trading)"
-description: "Explore how the Gelber Group leverages cutting-edge algorithms to excel in the competitive world of algorithmic trading gaining a strategic market edge."
+category: quant_concept
+description: Explore how the Gelber Group leverages cutting-edge algorithms to excel
+  in the competitive world of algorithmic trading gaining a strategic market edge.
+title: Gelber Group (Algo Trading)
 ---
 
 The financial markets have undergone a significant transformation with the advent of technology, resulting in profound changes in how trades are executed. At the forefront of this technological revolution is algorithmic trading, commonly referred to as algo trading. This method of trading utilizes complex algorithms to execute orders at speeds that exceed human capabilities, altering the dynamics of trading and introducing efficiency and precision on an unprecedented scale. Among the key players in this evolving landscape is the Gelber Group, a prominent entity that has embraced algo trading to gain and maintain a competitive edge.

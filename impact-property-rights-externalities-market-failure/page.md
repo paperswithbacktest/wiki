@@ -1,6 +1,9 @@
 ---
-title: "Impact of Property Rights on Externalities and Market Failure (Algo Trading)"
-description: "Discover the intricate relationship between property rights, externalities, market failure, and algorithmic trading to understand their impact on financial markets."
+category: quant_concept
+description: Discover the intricate relationship between property rights, externalities,
+  market failure, and algorithmic trading to understand their impact on financial
+  markets.
+title: Impact of Property Rights on Externalities and Market Failure (Algo Trading)
 ---
 
 Property rights, externalities, market failure, and algorithmic trading are fundamental concepts in the financial markets. Property rights refer to the legal ownership and control over resources, assets, or goods, which enable individuals or entities to utilize and transfer these assets legally. Historically, well-defined property rights have been crucial for economic development as they provide an incentive structure for investment and innovation. In contrast, externalities refer to the costs or benefits incurred by third parties not directly involved in a transaction. They can be either positive, such as innovation spill-overs that benefit society, or negative, like pollution that harms non-consenting parties.

@@ -1,6 +1,9 @@
 ---
-title: "Emissions Reduction Purchase Agreement (Algo Trading)"
-description: "Explore Emissions Reduction Purchase Agreements ERPAs and their role in carbon credit trading to incentivize greenhouse gas reductions through algorithmic trading solutions."
+category: quant_concept
+description: Explore Emissions Reduction Purchase Agreements ERPAs and their role
+  in carbon credit trading to incentivize greenhouse gas reductions through algorithmic
+  trading solutions.
+title: Emissions Reduction Purchase Agreement (Algo Trading)
 ---
 
 In a world increasingly focused on combating climate change, Emissions Reduction Purchase Agreements (ERPAs) have become critical. These agreements facilitate the trade of carbon credits, which are essential for regulating and incentivizing reductions in greenhouse gas emissions. Carbon credits serve as a mechanism to monitor and control the volume of emissions, effectively putting a price on carbon to encourage industries and nations to adopt cleaner technologies and reduce their carbon footprints. This pricing mechanism can be vital in ensuring alignment with international climate agreements, such as the Paris Agreement, which set targets for limiting temperature rises due to global warming.

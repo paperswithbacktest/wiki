@@ -1,6 +1,9 @@
 ---
-title: "Operating Cash Flow: Overview and Formula (Algo Trading)"
-description: "Discover how Operating Cash Flow (OCF) enhances algorithmic trading strategies by offering key insights into financial health and opportunities for improved market outcomes."
+category: quant_concept
+description: Discover how Operating Cash Flow (OCF) enhances algorithmic trading strategies
+  by offering key insights into financial health and opportunities for improved market
+  outcomes.
+title: 'Operating Cash Flow: Overview and Formula (Algo Trading)'
 ---
 
 The financial landscape is increasingly intricate, demanding robust analytical tools and techniques. In such a dynamic environment, Operating Cash Flow (OCF) emerges as a crucial metric for assessing a company's ability to generate cash from its regular operations. OCF provides insights into the core profitability and operational efficiency of a business by focusing on cash transactions rather than accounting profits, thus offering a clearer picture of financial health.
@@ -199,4 +202,3 @@ To further understand the synergy between Operating Cash Flow (OCF) and algorith
    - Engaging with communities on platforms like QuantConnect, Stack Exchange, and Reddit’s r/algotrading can provide real-time insights and peer support for both beginners and seasoned traders.
 
 By exploring these resources, individuals can gain a comprehensive understanding of how OCF data can be integrated into algorithmic trading strategies, enhancing decision-making and market performance through detailed financial analysis.
-

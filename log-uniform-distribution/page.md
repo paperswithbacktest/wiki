@@ -1,6 +1,13 @@
 ---
-title: "Log-uniform distribution (Algo Trading)"
-description: Discover the advantages of using log-uniform distribution in algorithmic trading to optimize hyperparameters that span multiple orders of magnitude. Learn how this statistical distribution efficiently enhances trading strategies by permitting comprehensive exploration of parameter spaces, ensuring better performance and adaptability in dynamic market conditions. Explore practical implementation using tools like Hyperopt for systematic hyperparameter optimization, crucial for achieving consistent trading success.
+category: quant_concept
+description: Discover the advantages of using log-uniform distribution in algorithmic
+  trading to optimize hyperparameters that span multiple orders of magnitude. Learn
+  how this statistical distribution efficiently enhances trading strategies by permitting
+  comprehensive exploration of parameter spaces, ensuring better performance and adaptability
+  in dynamic market conditions. Explore practical implementation using tools like
+  Hyperopt for systematic hyperparameter optimization, crucial for achieving consistent
+  trading success.
+title: Log-uniform distribution (Algo Trading)
 ---
 
 Algorithmic trading combines advanced algorithms and models to facilitate trading decisions at high speeds, capitalizing on minute market fluctuations. The unpredictable nature of financial markets necessitates sophisticated strategies to achieve consistent profitability. One emerging strategy in algorithmic trading is the application of probability distributions to refine trading algorithms. Among these, the log-uniform distribution has gained traction due to its efficacy in handling parameters that span numerous orders of magnitude.

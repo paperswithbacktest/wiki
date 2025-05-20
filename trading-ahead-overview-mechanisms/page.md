@@ -1,6 +1,9 @@
 ---
-title: "Trading Ahead: Overview and Mechanisms (Algo Trading)"
-description: "Explore the complexities of trading ahead and algorithmic trading mechanisms in financial markets Learn the regulatory frameworks ensuring market fairness and transparency"
+category: quant_concept
+description: Explore the complexities of trading ahead and algorithmic trading mechanisms
+  in financial markets Learn the regulatory frameworks ensuring market fairness and
+  transparency
+title: 'Trading Ahead: Overview and Mechanisms (Algo Trading)'
 ---
 
 In the fast-paced world of financial markets, understanding the mechanisms that govern trading is crucial for investors and market participants. This article explores the intricacies of trading ahead, market mechanisms, and the burgeoning field of algorithmic trading.

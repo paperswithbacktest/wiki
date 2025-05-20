@@ -1,6 +1,8 @@
 ---
-title: "Collar Options Strategy (Algo Trading)"
-description: "Discover the synergy between collar options strategy and algorithmic trading to optimize risk management and decision-making in evolving financial markets."
+category: trading_strategy
+description: Discover the synergy between collar options strategy and algorithmic
+  trading to optimize risk management and decision-making in evolving financial markets.
+title: Collar Options Strategy (Algo Trading)
 ---
 
 Options trading has gained significant popularity among investors due to its versatility and strategic potential in enhancing portfolio management. Essentially, options are financial derivatives that provide investors the right, but not the obligation, to buy (call options) or sell (put options) an underlying asset at a predetermined price within a specified timeframe. This flexibility allows for a range of investment strategies tailored to different market outlooks and risk appetites. Among various options trading strategies, the collar strategy stands out as an effective risk management tool.

@@ -1,6 +1,13 @@
 ---
-title: "Differences Between Medical and Recreational Cannabis Stocks (Algo Trading)"
-description: "Explore the unique characteristics and distinctions between medical and recreational cannabis stocks in this detailed article. Discover how different regulatory frameworks, consumer bases, and growth drivers impact investment strategies in the evolving cannabis industry. Gain insights into the role of algorithmic trading and understand the potential risks and rewards associated with cannabis investments. Stay informed about key players, market dynamics, and legal developments to effectively navigate and capitalize on opportunities within this promising market."
+category: trading_strategy
+description: Explore the unique characteristics and distinctions between medical and
+  recreational cannabis stocks in this detailed article. Discover how different regulatory
+  frameworks, consumer bases, and growth drivers impact investment strategies in the
+  evolving cannabis industry. Gain insights into the role of algorithmic trading and
+  understand the potential risks and rewards associated with cannabis investments.
+  Stay informed about key players, market dynamics, and legal developments to effectively
+  navigate and capitalize on opportunities within this promising market.
+title: Differences Between Medical and Recreational Cannabis Stocks (Algo Trading)
 ---
 
 The cannabis industry has been experiencing significant evolution, with the recreational and medical cannabis markets making substantial headway on a global scale. This surge can be attributed to shifting legal landscapes, increased societal acceptance, and growing awareness of cannabis's therapeutic benefits. The decriminalization and legalization of cannabis in various countries and states have opened up avenues for both medical and recreational markets, fostering a competitive and rapidly expanding commercial environment.

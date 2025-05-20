@@ -1,6 +1,8 @@
 ---
-title: "Soft Currency: Definition and Functionality (Algo Trading)"
-description: "Dive into the world of forex trading, understanding soft currencies and algorithmic trading strategies, and explore how they shape the dynamic forex market."
+category: quant_concept
+description: Dive into the world of forex trading, understanding soft currencies and
+  algorithmic trading strategies, and explore how they shape the dynamic forex market.
+title: 'Soft Currency: Definition and Functionality (Algo Trading)'
 ---
 
 The world of foreign exchange, commonly known as forex, is a vibrant and multifaceted market characterized by the global trading of currencies. It stands as one of the most significant financial markets, both in size and liquidity, facilitating over $6 trillion in daily transactions. Understanding the economics of foreign exchange is essential for traders, especially when engaging with currencies categorized as 'soft'. Soft currencies typically originate from nations with developing economies and are subject to high volatility and fluctuating demand.

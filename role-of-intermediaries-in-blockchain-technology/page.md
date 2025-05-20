@@ -1,6 +1,8 @@
 ---
-title: "The Role of Intermediaries in Blockchain Technology (Algo Trading)"
-description: "Discover how blockchain and algorithmic trading are reshaping financial markets by challenging traditional intermediaries while exploring possible new roles."
+category: quant_concept
+description: Discover how blockchain and algorithmic trading are reshaping financial
+  markets by challenging traditional intermediaries while exploring possible new roles.
+title: The Role of Intermediaries in Blockchain Technology (Algo Trading)
 ---
 
 Blockchain technology has emerged as a groundbreaking innovation with the potential to reshape multiple sectors, most notably the financial industry. Its core functionality as a decentralized, secure ledger system addresses numerous challenges traditionally managed by intermediaries, such as banks and clearinghouses. The elimination of these intermediaries promises greater efficiency, reduction in transaction costs, and enhanced transparency.

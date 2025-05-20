@@ -1,6 +1,8 @@
 ---
-title: "Tokyo Stock Exchange (Algo Trading)"
-description: "Explore the vital role of Tokyo Stock Exchange in global finance with a focus on algorithmic trading's impact on market speed, efficiency, and evolution."
+category: dataset
+description: Explore the vital role of Tokyo Stock Exchange in global finance with
+  a focus on algorithmic trading's impact on market speed, efficiency, and evolution.
+title: Tokyo Stock Exchange (Algo Trading)
 ---
 
 The Tokyo Stock Exchange (TSE) stands among the world’s most influential financial markets, serving as a cornerstone for Japan’s economy and significantly impacting the global financial ecosystem. Since its establishment in 1878, the TSE has undergone substantial transformation, mirroring Japan's economic surge and its adaptability to the evolving technological and economic milieu.
@@ -76,4 +78,3 @@ In summary, the TSE's blend of technological innovation and regulatory vigilance
 - Lo, A. W. (2011). *Adaptive Markets: Financial Evolution at the Speed of Thought*. Princeton University Press. Lo's book explores the concept of adaptive markets, integrating insights from traditional finance theories with the dynamic nature of market behaviors influenced by technological innovation.
 
 - Tokyo Stock Exchange, Inc. (2019). *Responsibility Report 2019*. Japan Exchange Group, Inc. The report details the Tokyo Stock Exchange's strategies for maintaining market integrity, with a focus on governance, risk management, and leveraging technology to enhance trading processes and stakeholder trust.
-

@@ -1,6 +1,8 @@
 ---
-title: "Parity Bond: Overview and Functionality (Algo Trading)"
-description: "Explore international bonds and the pivotal role of algorithmic trading in today's markets. Learn how parity bonds stand equal in claims and their implications."
+category: quant_concept
+description: Explore international bonds and the pivotal role of algorithmic trading
+  in today's markets. Learn how parity bonds stand equal in claims and their implications.
+title: 'Parity Bond: Overview and Functionality (Algo Trading)'
 ---
 
 In the dynamic landscape of financial markets, understanding the nuances of financial instruments like bonds, parity bonds, and the role of algorithmic trading is essential. Bonds are fundamental components of the investment world, primarily valued for their stability and predictable returns. They provide a continuous income stream and serve as effective tools for diversification. However, the financial markets are not static, and innovations such as algorithmic trading have brought about notable shifts.
@@ -109,4 +111,3 @@ Aronson, D. R. (2006). Evidence-Based Technical Analysis. Wiley. Aronson emphasi
 Jansen, S. (2020). Machine Learning for Algorithmic Trading. Packt Publishing. Jansen explores machine learning tools and models specifically tailored for algorithmic trading applications. The book includes practical coding examples and case studies, aiding readers in applying machine learning techniques to develop automated trading systems.
 
 Chan, E. P. (2008). Quantitative Trading: How to Build Your Own Algorithmic Trading Business. Wiley. Chan provides insights into developing and managing algorithmic trading operations, discussing the technical, operational, and strategic aspects necessary for building a successful trading business. This resource is crucial for understanding the comprehensive landscape of [quantitative trading](/wiki/quantitative-trading) strategies.
-

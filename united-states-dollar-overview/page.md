@@ -1,6 +1,13 @@
 ---
-title: "United States Dollar Overview (Algo Trading)"
-description: "Explore the integral role of the United States Dollar (USD) in global finance and the transformative impact of algorithmic trading in modern markets. Understand how the USD's liquidity and stability make it a primary currency for innovative trading strategies, enhancing efficiency and cost-effectiveness in financial transactions. Discover the dynamics of USD in algorithmic trading and the technological frameworks supporting this intersection, while anticipating future trends in an evolving financial landscape."
+category: quant_concept
+description: Explore the integral role of the United States Dollar (USD) in global
+  finance and the transformative impact of algorithmic trading in modern markets.
+  Understand how the USD's liquidity and stability make it a primary currency for
+  innovative trading strategies, enhancing efficiency and cost-effectiveness in financial
+  transactions. Discover the dynamics of USD in algorithmic trading and the technological
+  frameworks supporting this intersection, while anticipating future trends in an
+  evolving financial landscape.
+title: United States Dollar Overview (Algo Trading)
 ---
 
 The United States Dollar (USD) holds a paramount position in global finance, serving as the predominant currency for international trade and investment. Its widespread acceptance and stability have established it as the world's primary reserve currency, often used as a benchmark for gauging economic health. Historically, the USD gained its stature through a combination of economic strength and strategic policymaking, making it a vital component in the functioning of global markets.

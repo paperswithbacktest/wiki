@@ -1,6 +1,14 @@
 ---
-title: "How Many Candlestick Patterns Are There? (Algo Trading)"
-description: Explore the significance of candlestick patterns in algorithmic trading and their role in forecasting market movements. This guide investigates into the types and applications of candlestick patterns, essential for traders seeking to understand market sentiment and improve their strategies. Learn about the 75 distinct candlestick patterns, their historical context, and integration in automated trading systems to enhance decision-making and reduce emotional bias. Ideal for both novices and seasoned traders, this page provides a robust framework for utilizing candlestick patterns in technical analysis and algorithmic trading strategies.
+category: trading_strategy
+description: Explore the significance of candlestick patterns in algorithmic trading
+  and their role in forecasting market movements. This guide investigates into the
+  types and applications of candlestick patterns, essential for traders seeking to
+  understand market sentiment and improve their strategies. Learn about the 75 distinct
+  candlestick patterns, their historical context, and integration in automated trading
+  systems to enhance decision-making and reduce emotional bias. Ideal for both novices
+  and seasoned traders, this page provides a robust framework for utilizing candlestick
+  patterns in technical analysis and algorithmic trading strategies.
+title: How Many Candlestick Patterns Are There? (Algo Trading)
 ---
 
 In algorithmic trading, understanding market patterns is crucial, and candlesticks provide valuable insights into market sentiment. Candlestick patterns form an integral part of technical analysis, widely employed by traders to predict future price movements. These patterns offer a graphical representation of price movements over time, reflecting the underlying psychology and sentiment of market participants. By analyzing sequences of candlesticks, traders can identify potential trading opportunities based on historical price data.
@@ -141,4 +149,4 @@ Ongoing learning and adaptation are vital for traders aiming to maximize the use
 
 [5]: Do, B., Faff, R., & Wickramanayake, J. (2006). ["A Test of the Adaptive Market Hypothesis using the DJIA."](https://www.sciencedirect.com/science/article/abs/pii/S0378426615002824) 
 
-[6]: Zhang, G. P. (2003). ["Time series forecasting using a hybrid ARIMA and neural network model."](https://dl.icdst.org/pdfs/files/2c442c738bd6bc178e715f400bec5d5f.pdf) 
+[6]: Zhang, G. P. (2003). ["Time series forecasting using a hybrid ARIMA and neural network model."](https://dl.icdst.org/pdfs/files/2c442c738bd6bc178e715f400bec5d5f.pdf)

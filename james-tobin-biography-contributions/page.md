@@ -1,6 +1,9 @@
 ---
-title: "James Tobin: Biography and Contributions (Algo Trading)"
-description: "Explore the life and impact of James Tobin, a Nobel laureate whose contributions such as the Tobin Tax and portfolio theory shape modern finance, especially algo trading."
+category: quant_concept
+description: Explore the life and impact of James Tobin, a Nobel laureate whose contributions
+  such as the Tobin Tax and portfolio theory shape modern finance, especially algo
+  trading.
+title: 'James Tobin: Biography and Contributions (Algo Trading)'
 ---
 
 James Tobin was a renowned American economist and Nobel laureate whose research significantly impacted both academia and public policy. Born in 1918, Tobin's intellectual legacy includes pioneering economic concepts such as the Tobin Tax and the Tobit Model, which resonate in modern financial discourse. The Tobin Tax, a financial transaction tax on currency exchanges, aimed to mitigate market volatility and speculative trading—a proposal that has become increasingly relevant in discussions on global economic stability. The Tobit Model, on the other hand, addresses econometric issues involving a dependent variable that is censored or truncated, providing a robust statistical tool for analyzing limited datasets.
@@ -137,4 +140,3 @@ Overall, James Tobin remains a towering figure in economics, revered for his con
 [4]: Atkins, Ralph. (2011). ["Tobin tax is back on agenda."](https://www.linkedin.com/in/ralph-atkins-a30479112) Financial Times.
 
 [5]: Jovanovic, Franck, & Schinckus, Christophe. (2016). ["The History of Financial Theory."](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3294565) Palgrave Macmillan.
-

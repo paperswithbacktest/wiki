@@ -1,6 +1,9 @@
 ---
-title: "Volatility Calculation: Simplified Method (Algo Trading)"
-description: "Explore simplified volatility calculations for algorithmic trading Learn how understanding financial volatility enhances strategy and risk management in trading"
+category: quant_concept
+description: Explore simplified volatility calculations for algorithmic trading Learn
+  how understanding financial volatility enhances strategy and risk management in
+  trading
+title: 'Volatility Calculation: Simplified Method (Algo Trading)'
 ---
 
 Volatility is a fundamental concept affecting financial markets, providing a measure of the degree to which the price of an asset fluctuates over time. In the context of investments, understanding volatility is crucial for developing strategies that can manage risk effectively and optimize returns. Higher volatility often indicates a higher risk, which can lead to substantial gains or significant losses, depending on the market movements.

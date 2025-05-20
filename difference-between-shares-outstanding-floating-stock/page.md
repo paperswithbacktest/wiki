@@ -1,6 +1,9 @@
 ---
-title: "Difference Between Shares Outstanding and Floating Stock (Algo Trading)"
-description: "Explore the key differences between shares outstanding and floating stock, and their impact on market dynamics and algorithmic trading strategies, boosting investor insights."
+category: quant_concept
+description: Explore the key differences between shares outstanding and floating stock,
+  and their impact on market dynamics and algorithmic trading strategies, boosting
+  investor insights.
+title: Difference Between Shares Outstanding and Floating Stock (Algo Trading)
 ---
 
 The interconnected world of stock market trading is a complex ecosystem where floating stock, shares outstanding, and algorithmic trading play key roles. Understanding these concepts is crucial for both individual investors and financial institutions aiming to devise effective trading strategies and comprehend market dynamics deeply.
@@ -227,4 +230,3 @@ Continuous learning and adaptation are critical in leveraging the advancements i
    - Coursera's *Foundations of Data Science* course provides foundational knowledge in data analysis, helpful for those interested in algorithmic trading.
 
 These resources serve as a foundation to explore floating stock, shares outstanding, and algorithmic trading, enabling readers to enhance their understanding and apply these concepts effectively.
-

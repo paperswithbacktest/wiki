@@ -1,6 +1,9 @@
 ---
-title: "Trading Account: Overview, Opening Process, and Margin Requirements (Algo Trading)"
-description: "Explore trading account essentials including opening procedures and margin requirements Discover how algo trading enhances strategy and minimizes risks"
+category: trading_strategy
+description: Explore trading account essentials including opening procedures and margin
+  requirements Discover how algo trading enhances strategy and minimizes risks
+title: 'Trading Account: Overview, Opening Process, and Margin Requirements (Algo
+  Trading)'
 ---
 
 In the fast-paced world of trading, comprehending the nuances of trading accounts and margin requirements is essential for traders of all experience levels. Margin requirements, which signify the minimum deposit necessary to engage in leveraged trading, play a crucial role in determining the scope of a trader's ability to control larger positions with limited capital. This approach amplifies potential gains but also heightens risk, necessitating a thorough understanding of the rules and implications.

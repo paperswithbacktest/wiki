@@ -1,6 +1,9 @@
 ---
-title: "National Stock Exchange of India Overview (Algo Trading)"
-description: "Explore the impact of algorithmic trading on the National Stock Exchange of India its evolution from electronic systems to modern algo trading and regulatory insights."
+category: dataset
+description: Explore the impact of algorithmic trading on the National Stock Exchange
+  of India its evolution from electronic systems to modern algo trading and regulatory
+  insights.
+title: National Stock Exchange of India Overview (Algo Trading)
 ---
 
 The National Stock Exchange of India (NSE) is the largest stock exchange in the country, significantly impacting India's financial markets. Established in 1992, the NSE has its headquarters in Mumbai, which is the financial center of India. Over the years, the NSE has experienced substantial growth and has become a central component of the nation's economic infrastructure. Notably, the NSE was recognized as the world's largest derivatives exchange by trading volume, highlighting its global significance in financial trading activities.

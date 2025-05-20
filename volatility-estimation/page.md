@@ -1,6 +1,9 @@
 ---
-title: "Volatility Estimation (Algo Trading)"
-description: "Explore volatility estimation in algorithmic trading and uncover methods that optimize trading strategies by assessing price fluctuations and managing risk effectively."
+category: quant_concept
+description: Explore volatility estimation in algorithmic trading and uncover methods
+  that optimize trading strategies by assessing price fluctuations and managing risk
+  effectively.
+title: Volatility Estimation (Algo Trading)
 ---
 
 In the highly dynamic world of algorithmic trading, understanding market volatility is imperative for crafting effective trading strategies. Volatility refers to the degree of variation in the price of financial instruments over time and is a vital component for risk management. It measures the extent to which returns on an asset fluctuate, serving as an essential gauge of market uncertainty and investor sentiment. High volatility usually indicates a larger potential for erratic price changes, posing both opportunities and risks for traders.

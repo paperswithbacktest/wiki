@@ -1,6 +1,14 @@
 ---
-title: "Small Account Strategy Explained (Algo Trading)"
-description: Explore the essentials of successful small account trading in algorithmic settings. Learn how to navigate challenges with strategic planning, effective tactics, and risk management. Discover practical insights and strategies to grow small accounts through disciplined execution and capitalize on low-risk opportunities while managing the constraints of limited capital. Enhance your trading skills by leveraging strategies like Opening Range Breakout and NR7 to optimize returns. This guide provides the knowledge needed to effectively tackle undercapitalization and ensure compliance with market regulations for improved trading outcomes.
+category: trading_strategy
+description: Explore the essentials of successful small account trading in algorithmic
+  settings. Learn how to navigate challenges with strategic planning, effective tactics,
+  and risk management. Discover practical insights and strategies to grow small accounts
+  through disciplined execution and capitalize on low-risk opportunities while managing
+  the constraints of limited capital. Enhance your trading skills by leveraging strategies
+  like Opening Range Breakout and NR7 to optimize returns. This guide provides the
+  knowledge needed to effectively tackle undercapitalization and ensure compliance
+  with market regulations for improved trading outcomes.
+title: Small Account Strategy Explained (Algo Trading)
 ---
 
 In algorithmic trading, starting with a small account presents numerous challenges that require strategic planning and execution, but success is within reach. This article will explore the intricacies of trading with a limited capital base and how algorithmic strategies can be employed effectively to navigate these challenges. By focusing on the fundamentals of small account trading and the application of effective tactics, we aim to cover essential aspects vital for success.

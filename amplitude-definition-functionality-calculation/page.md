@@ -1,6 +1,9 @@
 ---
-title: "Amplitude: Definition, Functionality, and Calculation (Algo Trading)"
-description: "Gain insights into amplitude in algorithmic trading Understand how amplitude calculations predict market behavior and enhance trade execution strategies for success."
+category: quant_concept
+description: Gain insights into amplitude in algorithmic trading Understand how amplitude
+  calculations predict market behavior and enhance trade execution strategies for
+  success.
+title: 'Amplitude: Definition, Functionality, and Calculation (Algo Trading)'
 ---
 
 In the fast-paced world of financial markets, algorithmic trading is a crucial method for securing a competitive edge. Among the various techniques employed in this field, amplitude calculations are pivotal for predicting market behavior and optimizing trade execution strategies. This concept involves measuring the degree of change in market prices over time, providing essential insights into market volatility and price fluctuations, which, in turn, significantly impact trading outcomes.

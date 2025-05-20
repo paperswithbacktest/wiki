@@ -1,6 +1,9 @@
 ---
-title: "Components of a Country's Balance of Payments (Algo Trading)"
-description: "Explore the intricate relationship between a country's balance of payments and algorithmic trading within global finance, showcasing economic stability and trade dynamics."
+category: quant_concept
+description: Explore the intricate relationship between a country's balance of payments
+  and algorithmic trading within global finance, showcasing economic stability and
+  trade dynamics.
+title: Components of a Country's Balance of Payments (Algo Trading)
 ---
 
 International finance, economics, balance of payments, and algorithmic trading represent a complex tapestry that underpins the global economy. These elements are interconnected in ways that influence trade dynamics, investment decisions, and the flow of capital across borders. The global financial system aims to balance these various components to ensure smooth economic functioning and stability. Central to this system is the concept of the balance of payments (BOP), a record of all economic transactions between residents of a country and the rest of the world. It reflects how countries manage trade, investment, and capital flows, akin to a corporate balance sheet, but for entire national economies.

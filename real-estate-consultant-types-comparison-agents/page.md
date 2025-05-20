@@ -1,6 +1,9 @@
 ---
-title: "Real Estate Consultant: Types and Comparison with Agents (Algo Trading)"
-description: "Explore the unique roles of real estate consultants and agents and how algorithmic trading reshapes the industry Learn about strategic guidance vs transaction focus"
+category: trading_strategy
+description: Explore the unique roles of real estate consultants and agents and how
+  algorithmic trading reshapes the industry Learn about strategic guidance vs transaction
+  focus
+title: 'Real Estate Consultant: Types and Comparison with Agents (Algo Trading)'
 ---
 
 Understanding the complexities of real estate involves numerous dynamic components, extending from investment and property acquisition to sophisticated trading strategies. The real estate sector caters to varying needs and interests, whether an individual is a novice buyer or a seasoned investor looking to diversify a portfolio. Within this intricate arena, two distinct pathways—consulting and agencies—have emerged as primary mechanisms for providing expert services. Each path offers unique advantages, tailored to addressing the specific objectives of their clients.

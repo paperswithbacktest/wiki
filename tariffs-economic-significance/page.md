@@ -1,6 +1,9 @@
 ---
-title: "Tariffs and Their Economic Significance (Algo Trading)"
-description: "Explore the significance of tariffs and algorithmic trading in global markets understanding their effects on economic stability and strategies to navigate challenges."
+category: quant_concept
+description: Explore the significance of tariffs and algorithmic trading in global
+  markets understanding their effects on economic stability and strategies to navigate
+  challenges.
+title: Tariffs and Their Economic Significance (Algo Trading)
 ---
 
 In the rapidly evolving global economy, trade policies and tariffs are integral components that define the contours of international economic interactions. Trade policies establish the regulations governing the exchange of goods and services across borders, while tariffs serve as a primary tool within these policies to manage and influence trade flows. These mechanisms not only protect domestic industries but also have wide-reaching implications on consumer prices, international relations, and global supply chains. Consequently, the dynamics of trade policies and tariffs can provoke trade wars, alter competitive landscapes, and influence economic growth patterns globally.

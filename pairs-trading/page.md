@@ -1,6 +1,9 @@
 ---
-title: "Pairs trading (Algo Trading)"
-description: "Explore the advanced pairs trading strategy designed for market-neutral profit via statistical arbitrage. Ideal for varying market conditions leveraging asset correlations."
+category: trading_strategy
+description: Explore the advanced pairs trading strategy designed for market-neutral
+  profit via statistical arbitrage. Ideal for varying market conditions leveraging
+  asset correlations.
+title: Pairs trading (Algo Trading)
 ---
 
 Pairs trading is a sophisticated market-neutral trading strategy designed to generate profits under various market conditions through statistical arbitrage. Originating from the innovative work of Morgan Stanley's quantitative group in the 1980s, this strategy leverages the concept of convergence trading by exploiting price discrepancies between historically correlated financial instruments. The core mechanism involves simultaneously taking a long position in one asset and a short position in another, capitalizing on the expectation that their price relationship will revert to a historical norm.

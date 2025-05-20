@@ -1,6 +1,8 @@
 ---
-title: "Comparison of MCF and MCM in Natural Gas Measurement (Algo Trading)"
-description: "Explore the critical differences between MCF and MCM in natural gas measurement and their importance in trading strategies and global market analysis."
+category: quant_concept
+description: Explore the critical differences between MCF and MCM in natural gas measurement
+  and their importance in trading strategies and global market analysis.
+title: Comparison of MCF and MCM in Natural Gas Measurement (Algo Trading)
 ---
 
 In natural gas trading and investment, understanding the units of measurement is crucial. Natural gas plays a vital role in global energy supply, with significant impacts on both economic and environmental fronts. As the demand for natural gas fluctuates due to factors like geopolitical tensions, market trends, and seasonal shifts, accurately measuring its volume becomes essential for effective trading and investment strategies. 

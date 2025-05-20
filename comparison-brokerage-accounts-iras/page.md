@@ -1,6 +1,9 @@
 ---
-title: "Comparison of Brokerage Accounts and IRAs (Algo Trading)"
-description: "Explore the benefits and limitations of brokerage accounts and IRAs for algo trading. Understand key differences, strategies, and insights to enhance your portfolio."
+category: trading_strategy
+description: Explore the benefits and limitations of brokerage accounts and IRAs for
+  algo trading. Understand key differences, strategies, and insights to enhance your
+  portfolio.
+title: Comparison of Brokerage Accounts and IRAs (Algo Trading)
 ---
 
 In the evolving landscape of investment, managing retirement savings effectively is more crucial than ever. A well-structured retirement plan not only secures your financial future but also allows for strategic growth. Individual Retirement Accounts (IRAs) and brokerage accounts are two foundational tools that facilitate wealth accumulation over the long term. Each presents unique benefits and considerations for investors.

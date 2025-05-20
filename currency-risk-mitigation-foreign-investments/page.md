@@ -1,6 +1,8 @@
 ---
-title: "Currency Risk Mitigation for Foreign Investments (Algo Trading)"
-description: "Discover how algorithmic trading can help mitigate currency risk in foreign investments. Explore strategies to protect and optimize your global portfolio effectively."
+category: trading_strategy
+description: Discover how algorithmic trading can help mitigate currency risk in foreign
+  investments. Explore strategies to protect and optimize your global portfolio effectively.
+title: Currency Risk Mitigation for Foreign Investments (Algo Trading)
 ---
 
 In today's interconnected global economy, investors are increasingly venturing beyond their national borders to seek diversification in their portfolios. Engaging in foreign investments can offer substantial growth potential. However, they also pose unique challenges, most notably, currency risk. Currency fluctuations can significantly impact the value of foreign assets, making the management of this risk a critical component of a successful international investment strategy.

@@ -1,6 +1,9 @@
 ---
-title: "Analysis of Firstrade Brokerage Services (Algo Trading)"
-description: "Explore Firstrade's brokerage services with a focus on simplicity and cost-effectiveness, while examining the limitations in algorithmic trading features for advanced users."
+category: trading_strategy
+description: Explore Firstrade's brokerage services with a focus on simplicity and
+  cost-effectiveness, while examining the limitations in algorithmic trading features
+  for advanced users.
+title: Analysis of Firstrade Brokerage Services (Algo Trading)
 ---
 
 In the evolving landscape of online brokerage services, Firstrade stands out as a compelling option for both new and experienced investors. Established firms continually adapt to market demands, and Firstrade has managed to maintain relevance by offering competitive brokerage solutions. This article aims to provide an in-depth review of Firstrade's investments and brokerage services, with a special focus on their algorithmic trading solutions.

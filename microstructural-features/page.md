@@ -1,6 +1,12 @@
 ---
-title: "Microstructural features (Algo Trading)"
-description: Explore the intricate world of algorithmic trading and market microstructure to learn how these elements influence trading strategies and execution in modern financial markets. Discover the importance of understanding order types, the Limit Order Book, and market liquidity to develop effective trading strategies. This insight is crucial for traders to navigate and thrive in the fast-paced world of electronic markets.
+category: quant_concept
+description: Explore the intricate world of algorithmic trading and market microstructure
+  to learn how these elements influence trading strategies and execution in modern
+  financial markets. Discover the importance of understanding order types, the Limit
+  Order Book, and market liquidity to develop effective trading strategies. This insight
+  is crucial for traders to navigate and thrive in the fast-paced world of electronic
+  markets.
+title: Microstructural features (Algo Trading)
 ---
 
 Algorithmic trading, a key component of modern financial markets, has transformed how securities are traded, becoming indispensable for institutions looking to optimize their trading strategies. Understanding market microstructure is essential within this domain, as it refers to the intricate mechanisms and systems that facilitate securities trading. This understanding is especially crucial for high-frequency trading (HFT), where the swift and accurate execution of trades is vital.

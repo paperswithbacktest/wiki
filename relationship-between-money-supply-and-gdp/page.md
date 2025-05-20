@@ -1,6 +1,8 @@
 ---
-title: "Relationship Between Money Supply and GDP (Algo Trading)"
-description: "Explore the dynamic link between GDP, money supply, and algorithmic trading Learn how economic indicators guide financial strategies in complex markets"
+category: quant_concept
+description: Explore the dynamic link between GDP, money supply, and algorithmic trading
+  Learn how economic indicators guide financial strategies in complex markets
+title: Relationship Between Money Supply and GDP (Algo Trading)
 ---
 
 Understanding the intricate relationships among Gross Domestic Product (GDP), economic growth, money supply, and algorithmic trading is crucial in today's financial landscape. GDP serves as a vital economic indicator, reflecting the total value of goods and services produced within a country. It provides a snapshot of economic health by measuring consumption, investment, government spending, and net exports. Changes in GDP not only signal economic growth or contraction but also influence policy decisions and investment strategies.

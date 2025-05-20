@@ -1,6 +1,8 @@
 ---
-title: "International Energy Agency: Purpose, Functionality, Members (Algo Trading)"
-description: "Discover the pivotal role of the International Energy Agency in global energy markets and the impact of algorithmic trading on energy strategies and sustainability."
+category: quant_concept
+description: Discover the pivotal role of the International Energy Agency in global
+  energy markets and the impact of algorithmic trading on energy strategies and sustainability.
+title: 'International Energy Agency: Purpose, Functionality, Members (Algo Trading)'
 ---
 
 The International Energy Agency (IEA) stands as a pivotal organization influencing global energy strategies. Established in 1974 following the oil crisis, the IEA was originally created to ensure oil supply stability among its member countries. Over the decades, it has broadened its scope to include a diverse array of energy issues, such as renewable energy advocacy, energy efficiency, and climate change mitigation. As energy markets become increasingly complex and interconnected, the IEA’s role in shaping energy policy and fostering international cooperation has become more crucial than ever.

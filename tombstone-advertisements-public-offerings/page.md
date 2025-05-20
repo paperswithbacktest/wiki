@@ -1,6 +1,9 @@
 ---
-title: "Tombstone Advertisements in Public Offerings (Algo Trading)"
-description: "Explore the vital role of tombstone ads in public offerings and the impact of algorithmic trading on modern finance, enhancing investment strategies and market liquidity."
+category: quant_concept
+description: Explore the vital role of tombstone ads in public offerings and the impact
+  of algorithmic trading on modern finance, enhancing investment strategies and market
+  liquidity.
+title: Tombstone Advertisements in Public Offerings (Algo Trading)
 ---
 
 In finance, various advertising formats play crucial roles in driving investment opportunities. One such unique ad format is the tombstone ad, primarily used in public offerings. These simple, text-based advertisements serve as an essential communication tool between companies and potential investors, providing a concise overview of investment opportunities in a specific security offering. They highlight key details such as the type of security being offered, the total number of shares, and the contact information for further inquiries, while adhering to regulatory requirements set by bodies like the Securities and Exchange Commission (SEC).

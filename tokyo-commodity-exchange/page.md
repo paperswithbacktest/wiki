@@ -1,6 +1,8 @@
 ---
-title: "Tokyo Commodity Exchange (Algo Trading)"
-description: "Explore algorithmic trading at Tokyo Commodity Exchange (TOCOM) Japan's leading derivatives market offering cutting-edge solutions for commodities trade."
+category: trading_strategy
+description: Explore algorithmic trading at Tokyo Commodity Exchange (TOCOM) Japan's
+  leading derivatives market offering cutting-edge solutions for commodities trade.
+title: Tokyo Commodity Exchange (Algo Trading)
 ---
 
 Algorithmic trading has become an essential component of modern financial markets, offering sophisticated means to optimize trading strategies and capture opportunities in an increasingly competitive global environment. In the domain of commodities markets, the Tokyo Commodity Exchange (TOCOM) stands out as Japan's premier derivatives platform, providing an exceptional venue for algorithmic trading. TOCOM specializes in trading commodities such as precious metals, energy products, and rubber, all of which are highly suitable for algorithmic strategies due to their market dynamism and liquidity.

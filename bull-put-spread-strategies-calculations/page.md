@@ -1,6 +1,9 @@
 ---
-title: "Bull Put Spread Strategies and Calculations (Algo Trading)"
-description: "Explore how the bull put spread strategy in options trading can generate income while managing risk in anticipated moderate bullish markets. Discover the role of algorithmic trading in enhancing strategy execution with precision and speed."
+category: trading_strategy
+description: Explore how the bull put spread strategy in options trading can generate
+  income while managing risk in anticipated moderate bullish markets. Discover the
+  role of algorithmic trading in enhancing strategy execution with precision and speed.
+title: Bull Put Spread Strategies and Calculations (Algo Trading)
 ---
 
 In today's dynamic investment landscape, investors are constantly seeking strategies that optimize returns while managing risk. Options trading offers intriguing possibilities, and among them, the bull put spread stands out as a popular strategy. A bull put spread can provide an opportunity to generate income through options premiums while maintaining a predefined level of risk. This strategy is particularly attractive to investors who anticipate a moderate upward movement in an underlying asset's price. 

@@ -1,6 +1,11 @@
 ---
-title: "Consolidated Financial Statements: Requirements and Examples (Algo Trading)"
-description: "Explore the essentials of consolidated financial statements, crucial for assessing corporate financial health by combining the financials of a parent company and its subsidiaries. This comprehensive guide highlights their role in financial reporting and algo trading, emphasizing accurate disclosures for informed decisions and market efficiency."
+category: quant_concept
+description: Explore the essentials of consolidated financial statements, crucial
+  for assessing corporate financial health by combining the financials of a parent
+  company and its subsidiaries. This comprehensive guide highlights their role in
+  financial reporting and algo trading, emphasizing accurate disclosures for informed
+  decisions and market efficiency.
+title: 'Consolidated Financial Statements: Requirements and Examples (Algo Trading)'
 ---
 
 Understanding the financial health of a corporation involves analyzing various reports and statements. Among these, consolidated financial statements are paramount. They serve as comprehensive records that encapsulate the financial position of a business, merging the assets, liabilities, and operational outcomes of a parent company with its subsidiaries. This consolidation is essential for a transparent depiction of the entire corporate group's financial health.

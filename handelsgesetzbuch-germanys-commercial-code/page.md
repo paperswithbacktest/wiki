@@ -1,6 +1,8 @@
 ---
-title: "Handelsgesetzbuch: Germany's Commercial Code (Algo Trading)"
-description: "Explore the intersection of Germany's Commercial Code (HGB) and algorithmic trading How HGB regulations adapt to technological advances in trading practices"
+category: quant_concept
+description: Explore the intersection of Germany's Commercial Code (HGB) and algorithmic
+  trading How HGB regulations adapt to technological advances in trading practices
+title: 'Handelsgesetzbuch: Germany''s Commercial Code (Algo Trading)'
 ---
 
 The German Commercial Code, known as the Handelsgesetzbuch (HGB), is a crucial component of Germany's legal landscape, specifically regulating commercial and business activities. Established as a comprehensive body of commercial law, the HGB sets forth fundamental principles and guidelines that govern the conduct and duties of traders and business entities within Germany. Its provisions are designed to ensure transparency, reliability, and legal certainty in commercial operations, thereby playing a vital role in the country's economic framework.

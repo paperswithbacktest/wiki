@@ -1,6 +1,8 @@
 ---
-title: "Two-Tailed Test: Explanation and Example (Algo Trading)"
-description: "Explore the role of two-tailed tests in algorithmic trading to evaluate strategy performance by assessing deviations from benchmarks for optimized decision-making."
+category: quant_concept
+description: Explore the role of two-tailed tests in algorithmic trading to evaluate
+  strategy performance by assessing deviations from benchmarks for optimized decision-making.
+title: 'Two-Tailed Test: Explanation and Example (Algo Trading)'
 ---
 
 In statistics, hypothesis testing serves as a critical tool for drawing inferences or making decisions based on sampled data. This process becomes particularly crucial within the domain of trading, where strategic decisions hinge heavily on data-driven analyses. Algorithmic trading, which relies on advanced mathematical models and statistical algorithms, utilizes hypothesis testing to assess the validity and performance of trading strategies. The two-tailed test, a popular form of hypothesis testing, evaluates whether the sample data significantly deviates in either direction from a hypothesized benchmark. Understanding this test is essential to enhance the robustness of algorithmic trading strategies and to enable more informed decision-making within financial markets. By applying these statistical methods, traders can optimize their strategies, mitigate risks, and improve overall outcomes in their trading endeavors.

@@ -1,6 +1,8 @@
 ---
-title: "Esoteric Debt and Financial Crises (Algo Trading)"
-description: "Explore the complexities of esoteric debt and algorithmic trading shaping today's financial world, including their role in crises and impact on market dynamics."
+category: quant_concept
+description: Explore the complexities of esoteric debt and algorithmic trading shaping
+  today's financial world, including their role in crises and impact on market dynamics.
+title: Esoteric Debt and Financial Crises (Algo Trading)
 ---
 
 In an increasingly complex financial world, new forms of debt and trading mechanisms have emerged that challenge traditional understanding. The term 'esoteric debt' refers to complex financial instruments not widely understood or commonly traded. These instruments are characterized by their intricate structures and often require specialized knowledge to evaluate accurately.

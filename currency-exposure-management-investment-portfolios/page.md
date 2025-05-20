@@ -1,6 +1,9 @@
 ---
-title: "Currency Exposure Management in Investment Portfolios (Algo Trading)"
-description: "Discover how algorithmic trading revolutionizes currency exposure management in investment portfolios Enhance returns through diversification and strategic technology use"
+category: trading_strategy
+description: Discover how algorithmic trading revolutionizes currency exposure management
+  in investment portfolios Enhance returns through diversification and strategic technology
+  use
+title: Currency Exposure Management in Investment Portfolios (Algo Trading)
 ---
 
 In the fast-paced world of investment, the ability to manage a diversified portfolio is crucial for maximizing returns while minimizing risks. Diversification involves spreading investments across different asset classes, industries, and geographical regions to reduce the impact of individual asset volatility on the overall portfolio. This strategy aims to achieve an optimal balance between risk and return.

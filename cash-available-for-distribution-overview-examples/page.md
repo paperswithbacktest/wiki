@@ -1,6 +1,9 @@
 ---
-title: "Cash Available for Distribution: Overview and Examples (Algo Trading)"
-description: "Explore the key metric Cash Available for Distribution CAD essential for assessing REITs financial health and dividend potential with real-world examples and strategies"
+category: quant_concept
+description: Explore the key metric Cash Available for Distribution CAD essential
+  for assessing REITs financial health and dividend potential with real-world examples
+  and strategies
+title: 'Cash Available for Distribution: Overview and Examples (Algo Trading)'
 ---
 
 In the ever-evolving world of finance, understanding key financial metrics is crucial, particularly when it comes to real estate investment trusts (REITs). These investment vehicles play a significant role in diversifying portfolios, providing investors with exposure to real estate assets without directly owning properties. A critical aspect of evaluating REITs is assessing their financial health and distribution potential, which can largely be determined through specific financial metrics. Among these, Cash Available for Distribution (CAD) stands out as an essential measure.

@@ -1,6 +1,13 @@
 ---
-title: "Installing Python Packages (Algo Trading)"
-description: Discover how Python revolutionizes algorithmic trading by simplifying automation and enhancing efficiency through its libraries. Learn step-by-step package installation using 'pkg install' to set up a trading environment, covering essential tools like NumPy, Pandas, and TA-Lib. Understand the significance of virtual environments and Anaconda for managing dependencies, leading to more streamlined trading strategies. Unlock Python's full potential in crafting sophisticated, data-driven models within the trading realm by mastering these powerful packages and installation processes.
+category: quant_concept
+description: Discover how Python revolutionizes algorithmic trading by simplifying
+  automation and enhancing efficiency through its libraries. Learn step-by-step package
+  installation using 'pkg install' to set up a trading environment, covering essential
+  tools like NumPy, Pandas, and TA-Lib. Understand the significance of virtual environments
+  and Anaconda for managing dependencies, leading to more streamlined trading strategies.
+  Unlock Python's full potential in crafting sophisticated, data-driven models within
+  the trading realm by mastering these powerful packages and installation processes.
+title: Installing Python Packages (Algo Trading)
 ---
 
 The integration of Python into algorithmic trading has significantly transformed the trading industry, offering unprecedented opportunities for automation and efficiency. Python is favored for its simplicity and extensive range of libraries and packages designed to streamline the process of algorithmic trading. These tools provide essential functionalities for data manipulation, statistical analysis, and technical calculations, all of which are crucial for developing effective trading strategies.

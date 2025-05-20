@@ -1,6 +1,9 @@
 ---
-title: "E*TRADE: Online Brokerage Platform (Algo Trading)"
-description: "E*TRADE's online brokerage platform offers advanced algo trading tools enabling investors to automate trades for optimal results while minimizing manual risks."
+category: quant_concept
+description: E*TRADE's online brokerage platform offers advanced algo trading tools
+  enabling investors to automate trades for optimal results while minimizing manual
+  risks.
+title: 'E*TRADE: Online Brokerage Platform (Algo Trading)'
 ---
 
 In recent years, the evolution of technology has significantly transformed the investment landscape, with online brokerage trading platforms becoming increasingly popular among individual investors. The proliferation of these platforms has democratized access to financial markets, allowing investors, regardless of their experience level, to engage in trading from anywhere with an internet connection. These platforms are equipped with user-friendly interfaces, making them accessible to novice investors while providing sophisticated tools that meet the demands of seasoned traders.

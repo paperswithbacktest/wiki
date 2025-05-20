@@ -1,6 +1,8 @@
 ---
-title: "Taxation of Exchange-Traded Funds (Algo Trading)"
-description: "Explore how ETFs benefit from unique tax advantages compared to mutual funds and learn effective strategies for maximizing returns in your ETF portfolio."
+category: quant_concept
+description: Explore how ETFs benefit from unique tax advantages compared to mutual
+  funds and learn effective strategies for maximizing returns in your ETF portfolio.
+title: Taxation of Exchange-Traded Funds (Algo Trading)
 ---
 
 Exchange-Traded Funds (ETFs) have garnered significant attention among investors due to their innovative structure that offers both liquidity and diversification. As investment instruments, ETFs trade on stock exchanges much like individual stocks, but they encompass a diversified array of assets, including stocks, bonds, commodities, or other securities. This combination allows ETFs to provide the flexibility of individual stocks with the risk diversification typically found in mutual funds, making them a popular choice among both retail and institutional investors.

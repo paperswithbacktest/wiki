@@ -1,6 +1,9 @@
 ---
-title: "Covered Stock Coverage (Algo Trading)"
-description: "Explore stock coverage and algorithmic trading insights to enhance your investment strategies. Learn how analysis and automation drive informed trading decisions and market efficiency."
+category: quant_concept
+description: Explore stock coverage and algorithmic trading insights to enhance your
+  investment strategies. Learn how analysis and automation drive informed trading
+  decisions and market efficiency.
+title: Covered Stock Coverage (Algo Trading)
 ---
 
 In the financial markets, understanding key terms related to stock investments and algorithmic trading is crucial for both novice and experienced traders. Stock coverage and covered stocks are terms that investors encounter often, and they play a significant role in investment analysis. Stock coverage refers to the research and analytical reports prepared by financial analysts that evaluate and provide insights on specific stocks. Covered stocks are those for which such detailed research is available, assisting investors in making informed decisions. These reports often contain recommendations such as 'buy', 'sell', or 'hold', which are based on various quantitative and qualitative analyses of the company's performance, market conditions, and future prospects.

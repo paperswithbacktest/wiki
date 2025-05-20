@@ -1,6 +1,8 @@
 ---
-title: "Housing Trust Fund (Algo Trading)"
-description: "Explore how Housing Trust Funds innovate in the affordable housing crisis and the potential synergy with algorithmic trading for financial and social impact."
+category: trading_strategy
+description: Explore how Housing Trust Funds innovate in the affordable housing crisis
+  and the potential synergy with algorithmic trading for financial and social impact.
+title: Housing Trust Fund (Algo Trading)
 ---
 
 The growing issue of affordable housing continues to challenge communities worldwide. With urban populations increasing and rental costs skyrocketing, the need for sustainable and accessible housing solutions becomes more pressing. Housing Trust Funds (HTFs) are emerging as essential instruments in addressing this crisis. These funds are publicly financed programs designed to expand affordable housing options, targeting low-income individuals and families who are most affected by these market dynamics.

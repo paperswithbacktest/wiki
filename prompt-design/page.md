@@ -1,10 +1,9 @@
 ---
-title: Effective Prompt Design for Improved Machine Learning Responses
+category: quant_concept
 description: Prompt Design transforms machine learning interactions by guiding models
   to deliver clear, accurate responses efficiently. Discover more inside.
+title: Effective Prompt Design for Improved Machine Learning Responses
 ---
-
-
 
 ## Table of Contents
 

@@ -1,7 +1,8 @@
 ---
-title: Empirical Cumulative Distribution Function for Data Visualization
+category: quant_concept
 description: Empirical Cumulative Distribution Function illustrates data spread through
   stepwise proportions to reveal distribution patterns Discover more inside
+title: Empirical Cumulative Distribution Function for Data Visualization
 ---
 
 ![Image](images/1.png)

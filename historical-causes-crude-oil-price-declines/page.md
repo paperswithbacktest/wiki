@@ -1,6 +1,9 @@
 ---
-title: "Historical Causes of Crude Oil Price Declines (Algo Trading)"
-description: "Explore the historical causes of crude oil price declines and the impact of algorithmic trading on market dynamics. Understand key economic factors and OPEC's role."
+category: quant_concept
+description: Explore the historical causes of crude oil price declines and the impact
+  of algorithmic trading on market dynamics. Understand key economic factors and OPEC's
+  role.
+title: Historical Causes of Crude Oil Price Declines (Algo Trading)
 ---
 
 Crude oil, commonly known as 'black gold,' is an essential resource that underpins the global economy. Its significance stems from its extensive use in the energy sector and various industries, influencing economic stability across nations. The fluctuation of oil prices has far-reaching effects, impacting inflation rates and consumer prices globally. For instance, rising oil prices can increase transportation and production costs, leading to higher prices for goods and services, thus affecting consumer purchasing power and overall economic growth.

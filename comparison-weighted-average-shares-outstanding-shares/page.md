@@ -1,6 +1,8 @@
 ---
-title: "Comparison of Weighted Average Shares and Outstanding Shares (Algo Trading)"
-description: "Discover the difference between outstanding shares and weighted average shares in stock market analysis and their crucial roles in algorithmic trading decisions."
+category: quant_concept
+description: Discover the difference between outstanding shares and weighted average
+  shares in stock market analysis and their crucial roles in algorithmic trading decisions.
+title: Comparison of Weighted Average Shares and Outstanding Shares (Algo Trading)
 ---
 
 The stock market can often seem intimidating and complex, particularly when terms like 'outstanding shares' and 'weighted average shares' are thrown around. These concepts form the backbone of various financial analyses, and grasping them is fundamental for those participating in the financial markets. Outstanding shares and weighted average shares are basic yet critical components that help in evaluating a company's financial health and market position.

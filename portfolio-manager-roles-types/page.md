@@ -1,6 +1,8 @@
 ---
-title: "Portfolio Manager: Roles and Types (Algo Trading)"
-description: "Explore the dynamic role of portfolio managers blending finance expertise with algorithmic trading to optimize investment strategies in a tech-driven landscape."
+category: trading_strategy
+description: Explore the dynamic role of portfolio managers blending finance expertise
+  with algorithmic trading to optimize investment strategies in a tech-driven landscape.
+title: 'Portfolio Manager: Roles and Types (Algo Trading)'
 ---
 
 In the fast-paced world of finance, a career as a portfolio manager is both challenging and rewarding. This role is pivotal in investment management, requiring a blend of traditional financial expertise and modern technological acumen. Key among these technological advancements is algorithmic trading, which has revolutionized how investment decisions are made. Portfolio management involves balancing tried-and-true financial strategies with the latest in technological innovation, posing both a challenge and an opportunity for finance professionals.

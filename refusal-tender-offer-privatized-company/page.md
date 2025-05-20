@@ -1,6 +1,8 @@
 ---
-title: "Refusal of Tender Offer by Privatized Company (Algo Trading)"
-description: "Explore how private companies use corporate finance strategies, tender offers, and algorithmic trading to maximize value, ensure liquidity, and drive innovation."
+category: trading_strategy
+description: Explore how private companies use corporate finance strategies, tender
+  offers, and algorithmic trading to maximize value, ensure liquidity, and drive innovation.
+title: Refusal of Tender Offer by Privatized Company (Algo Trading)
 ---
 
 Private companies often employ sophisticated strategies to manage their financial operations effectively. This article explores how corporate finance, tender offers, and algorithmic trading influence private companies' financial strategies. Each of these elements plays a crucial role in maximizing value, ensuring liquidity, and driving innovation within private corporate finance.

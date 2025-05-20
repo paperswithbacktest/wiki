@@ -1,6 +1,9 @@
 ---
-title: "Risks of Excessive Portfolio Diversification (Algo Trading)"
-description: "Explore the potential downsides of excessive portfolio diversification in algorithmic trading and learn how to balance risk and reward for optimal investment returns."
+category: trading_strategy
+description: Explore the potential downsides of excessive portfolio diversification
+  in algorithmic trading and learn how to balance risk and reward for optimal investment
+  returns.
+title: Risks of Excessive Portfolio Diversification (Algo Trading)
 ---
 
 Understanding the complex world of financial risk and investment strategies is crucial for today's investors. The global financial landscape is characterized by uncertainty and rapid changes, making the management of financial risk a vital skill for investors aiming to safeguard their portfolios and achieve optimal returns. Financial risk encompasses various types, including market risk, credit risk, liquidity risk, and operational risk, all of which can significantly impact investment outcomes.

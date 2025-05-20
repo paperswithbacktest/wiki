@@ -1,6 +1,8 @@
 ---
-title: "Strategies to Mitigate Present Bias in Investment Decisions (Algo Trading)"
-description: "Explore strategies to mitigate present bias in algo trading by understanding its impact on investment decisions and implementing long-term focused measures."
+category: trading_strategy
+description: Explore strategies to mitigate present bias in algo trading by understanding
+  its impact on investment decisions and implementing long-term focused measures.
+title: Strategies to Mitigate Present Bias in Investment Decisions (Algo Trading)
 ---
 
 Algorithmic trading has transformed financial markets by leveraging quantitative models and automated processes to execute trades with speed and precision. However, despite the sophistication of these systems, human biases can inadvertently infiltrate algorithms and decision-making frameworks. One pervasive bias impacting financial decisions is present bias, where individuals and systems alike disproportionately favor immediate rewards over future gains. This bias is particularly significant in financial contexts, where it can lead to suboptimal outcomes by prioritizing present profits at the expense of long-term growth opportunities.

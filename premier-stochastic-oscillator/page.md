@@ -1,6 +1,9 @@
 ---
-title: "Premier Stochastic Oscillator (Algo Trading)"
-description: "Explore the stochastic oscillator's role in trading to spot market reversals and enhance strategies Learn how it integrates in manual and algorithmic trading setups"
+category: quant_concept
+description: Explore the stochastic oscillator's role in trading to spot market reversals
+  and enhance strategies Learn how it integrates in manual and algorithmic trading
+  setups
+title: Premier Stochastic Oscillator (Algo Trading)
 ---
 
 The stochastic oscillator is a fundamental component of technical analysis, serving as a valuable tool for traders seeking to identify potential market reversal points. Introduced by George Lane in the 1950s, this momentum indicator has maintained its importance in the arsenal of traders aiming to discern overbought and oversold market conditions. This article provides an in-depth exploration of the stochastic oscillator's mechanics, historical context, and its applications within both traditional trading settings and algorithmic trading frameworks.
@@ -158,4 +161,3 @@ Ultimately, by combining technical indicators like the stochastic oscillator wit
 [4]: Aronson, David R. (2007). ["Evidence-Based Technical Analysis: Applying the Scientific Method and Statistical Inference to Trading Signals."](https://www.amazon.com/Evidence-Based-Technical-Analysis-Scientific-Statistical/dp/0470008741) Wiley. Provides a scientific approach to evaluating technical trading signals, relevant for traders using the stochastic oscillator.
 
 [5]: Patel, J., Shah, S., & Thakkar, P. (2015). ["Predicting Stock and Stock Price Index Movement Using Trend Deterministic Data Preparation and Machine Learning Techniques."](https://www.sciencedirect.com/science/article/abs/pii/S0957417414004473) Procedia Computer Science. Examines the use of technical indicators in algorithmic trading strategies, including the stochastic oscillator.
-

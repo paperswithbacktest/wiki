@@ -1,6 +1,9 @@
 ---
-title: "Role of Exploration and Production in the Oil and Gas Industry (Algo Trading)"
-description: "Explore how algorithmic trading is transforming exploration and production in the oil and gas industry with advanced technologies for faster, precise trading decisions."
+category: trading_strategy
+description: Explore how algorithmic trading is transforming exploration and production
+  in the oil and gas industry with advanced technologies for faster, precise trading
+  decisions.
+title: Role of Exploration and Production in the Oil and Gas Industry (Algo Trading)
 ---
 
 The oil and gas industry is a cornerstone of the global energy sector, providing essential resources for numerous economic activities worldwide. Dominating energy markets, this industry's intricate operations span from exploration and production to refining and distribution, each stage crucial in sustaining the energy infrastructure that drives economies. As markets become increasingly complex and competitive, efficient trading practices have become imperative.
@@ -148,4 +151,3 @@ Lopez de Prado, M. (2018). "Advances in Financial Machine Learning." Lopez de Pr
 Chan, E. P. (2009). "Quantitative Trading: How to Build Your Own Algorithmic Trading Business." This book provides a comprehensive guide for establishing [quantitative trading](/wiki/quantitative-trading) strategies, detailing the processes and considerations for developing a robust algorithmic trading operation.
 
 Ghosh, S. (2017). "Algorithmic Trading & DMA: An Introduction to Direct Access Trading Strategies." Ghosh's book introduces readers to the intricacies of algorithmic trading and direct market access (DMA), focusing on the strategic and technical components necessary for optimizing trading execution and market interaction.
-

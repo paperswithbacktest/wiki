@@ -1,6 +1,9 @@
 ---
-title: "Origin of the Name 'Wall Street' (Algo Trading)"
-description: "Explore the historical roots and modern impact of Wall Street and algorithmic trading The article examines their origins and how technology shapes financial markets today"
+category: quant_concept
+description: Explore the historical roots and modern impact of Wall Street and algorithmic
+  trading The article examines their origins and how technology shapes financial markets
+  today
+title: Origin of the Name 'Wall Street' (Algo Trading)
 ---
 
 Wall Street stands as an emblematic symbol of the global financial landscape, representing both the historical roots and the future trajectory of economic marketplaces. Since its inception, Wall Street has been viewed as a barometer for economic health and a nucleus for financial activity, influencing markets not only in the United States but around the world. It serves as the headquarters for some of the largest financial institutions, worldwide stock exchanges, and diverse market activities, cementing its place as a pivotal axis of global finance.

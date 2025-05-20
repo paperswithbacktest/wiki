@@ -1,6 +1,8 @@
 ---
-title: "Central Purchasing Department: Advantages and Disadvantages (Algo Trading)"
-description: "Explore the benefits and challenges of central purchasing and algorithmic trading Discover how these strategies can enhance procurement and market efficiency"
+category: trading_strategy
+description: Explore the benefits and challenges of central purchasing and algorithmic
+  trading Discover how these strategies can enhance procurement and market efficiency
+title: 'Central Purchasing Department: Advantages and Disadvantages (Algo Trading)'
 ---
 
 The business landscape is continuously evolving with advancements in technology and strategic management approaches, particularly in the areas of central purchasing in procurement and algorithmic trading. Central purchasing aims to consolidate procurement activities within an organization to leverage economies of scale, reduce costs, and improve negotiation power. This method streamlines the procurement process, ensuring consistent quality and reducing redundancies. However, it can also pose challenges, such as inefficiencies and reduced agility due to bureaucratic structures that may hinder local decision-making.

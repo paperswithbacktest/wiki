@@ -1,6 +1,8 @@
 ---
-title: "Applied Economics: Overview and Applications (Algo Trading)"
-description: "Explore how applied economics bridges theory and practice, particularly in algorithmic trading, enhancing decision-making and optimizing financial strategies."
+category: quant_concept
+description: Explore how applied economics bridges theory and practice, particularly
+  in algorithmic trading, enhancing decision-making and optimizing financial strategies.
+title: 'Applied Economics: Overview and Applications (Algo Trading)'
 ---
 
 In today's rapidly changing financial environment, the practical application of economic theories plays a fundamental role in navigating complex economic landscapes. Applied economics serves as a bridge between theoretical frameworks and real-world decision-making, providing invaluable tools and methods to address diverse economic challenges. This field leverages theoretical insights to formulate economic strategies that are applicable across various sectors, including business strategy, public policy, and individual financial planning.

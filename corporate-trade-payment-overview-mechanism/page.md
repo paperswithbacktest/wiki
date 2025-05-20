@@ -1,6 +1,8 @@
 ---
-title: "Corporate Trade Payment: Overview and Mechanism (Algo Trading)"
-description: "Explore the evolution of corporate trade payments from CTP to CTX. Discover how algorithmic trading and modern fintech innovations enhance efficiency in transactions."
+category: quant_concept
+description: Explore the evolution of corporate trade payments from CTP to CTX. Discover
+  how algorithmic trading and modern fintech innovations enhance efficiency in transactions.
+title: 'Corporate Trade Payment: Overview and Mechanism (Algo Trading)'
 ---
 
 The evolution of corporate trade payments and business payment systems represents a significant chapter in the history of financial transactions. At the heart of this development was the Corporate Trade Payment (CTP) system, introduced in 1983. Designed to facilitate corporate and government transactions via the Automated Clearing House (ACH) system, CTP aimed to streamline and adapt the existing ACH framework to better accommodate the needs of commercial transactions. Its initial introduction brought about critical benefits like reduced postage and bank fees, which marked a significant advancement in electronic fund transfers. However, as technology advanced, the limitations of CTP became increasingly apparent, necessitating newer, more flexible solutions.

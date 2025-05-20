@@ -1,6 +1,8 @@
 ---
-title: "Sample Distribution and Applications (Algo Trading)"
-description: "Discover how statistical sampling distributions and Monte Carlo simulations enhance algorithmic trading by refining strategies and improving decision-making."
+category: quant_concept
+description: Discover how statistical sampling distributions and Monte Carlo simulations
+  enhance algorithmic trading by refining strategies and improving decision-making.
+title: Sample Distribution and Applications (Algo Trading)
 ---
 
 Algorithmic trading has increasingly become a cornerstone in the financial industry, enabling traders to execute orders with exceptional speed and efficiency. This sophisticated method relies heavily on statistical analysis to formulate data-driven strategies and make informed trading decisions. At the heart of this analytical process lies a profound understanding of sample distributions, which are essential for extracting meaningful insights from market data.

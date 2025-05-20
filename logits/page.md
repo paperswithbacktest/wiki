@@ -1,7 +1,8 @@
 ---
-title: Understanding Logits and Softmax in Machine Learning
+category: quant_concept
 description: Logits are raw neural network outputs before softmax conversion that
   accurately reveal model confidence in classification tasks Discover more inside.
+title: Understanding Logits and Softmax in Machine Learning
 ---
 
 ![Image](images/1.jpeg)

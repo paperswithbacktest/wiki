@@ -1,6 +1,8 @@
 ---
-title: "Hex Cryptocurrency: Overview, History, and Controversies (Algo Trading)"
-description: "Explore HEX cryptocurrency's unique model its history and controversies; discover algorithmic trading's role in managing crypto market risks and opportunities."
+category: quant_concept
+description: Explore HEX cryptocurrency's unique model its history and controversies;
+  discover algorithmic trading's role in managing crypto market risks and opportunities.
+title: 'Hex Cryptocurrency: Overview, History, and Controversies (Algo Trading)'
 ---
 
 The rise of cryptocurrencies has significantly transformed the financial landscape, introducing a decentralized form of currency that operates outside traditional banking systems. HEX, launched in December 2019, has emerged as one of the more notable cryptocurrencies, primarily due to its unique model and the controversies that have surrounded it. Developed by Richard Heart, HEX was initially marketed as the first blockchain certificate of deposit, promising high returns through staking—a mechanism where users lock up their funds for a specified period to earn rewards.

@@ -1,6 +1,8 @@
 ---
-title: "Quantity-Adjusting Option: Benefits and FAQs (Algo Trading)"
-description: "Explore the advantages and FAQs of quantity-adjusting options in algo trading Learn how these derivatives help manage currency risk in global markets"
+category: quant_concept
+description: Explore the advantages and FAQs of quantity-adjusting options in algo
+  trading Learn how these derivatives help manage currency risk in global markets
+title: 'Quantity-Adjusting Option: Benefits and FAQs (Algo Trading)'
 ---
 
 Financial derivatives are intricate instruments whose value is contingent upon the performance of an underlying asset such as stocks, bonds, commodities, or currencies. Among these derivatives, options are pivotal, offering investors tools for both hedging risk and optimizing investment strategies. Options enable investors to secure the right, but not the obligation, to buy or sell an underlying asset at a predetermined price and date, allowing them to take advantage of market movements while limiting potential losses.

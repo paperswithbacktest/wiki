@@ -1,6 +1,8 @@
 ---
-title: "Tariff War: Impact, History, and Implications (Algo Trading)"
-description: "Explore the influence of tariff wars and algorithmic trading on the global economy understanding their impacts on trade policies and financial market dynamics."
+category: quant_concept
+description: Explore the influence of tariff wars and algorithmic trading on the global
+  economy understanding their impacts on trade policies and financial market dynamics.
+title: 'Tariff War: Impact, History, and Implications (Algo Trading)'
 ---
 
 In today's global economy, trade policies significantly influence the shaping of economic landscapes. These policies comprise the rules and regulations that countries apply to international trade, including tariffs, quotas, and trade agreements. They are designed to protect domestic industries, enhance competitive advantages, and promote economic stability. However, the introduction of tariffs, especially when employed as instruments of economic conflict in tariff wars, can disrupt these goals by affecting trade balances and inflating consumer prices. 

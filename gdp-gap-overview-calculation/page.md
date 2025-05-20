@@ -1,6 +1,9 @@
 ---
-title: "GDP Gap: Overview and Calculation (Algo Trading)"
-description: "Explore the intricacies of GDP gaps and their influence on algorithmic trading Learn how understanding economic output and potential GDP helps optimize investment strategies"
+category: quant_concept
+description: Explore the intricacies of GDP gaps and their influence on algorithmic
+  trading Learn how understanding economic output and potential GDP helps optimize
+  investment strategies
+title: 'GDP Gap: Overview and Calculation (Algo Trading)'
 ---
 
 In today's interconnected global economy, comprehending the dynamics between economic output, potential GDP, and the GDP gap is essential for policymakers, economists, and investors. These economic indicators serve as vital tools in assessing the health and performance of an economy relative to its full productive capacity. This article aims to explore these variables and their significance in the context of algorithmic trading. By capitalizing on insights from economic metrics, algorithmic trading systems can make informed decisions, aligning with market trends and optimizing investment returns.

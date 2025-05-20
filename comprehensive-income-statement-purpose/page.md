@@ -1,6 +1,8 @@
 ---
-title: "Comprehensive Income Statement and Purpose (Algo Trading)"
-description: "Explore the importance of understanding comprehensive income and its role in financial analysis and algorithmic trading for informed decision-making."
+category: quant_concept
+description: Explore the importance of understanding comprehensive income and its
+  role in financial analysis and algorithmic trading for informed decision-making.
+title: Comprehensive Income Statement and Purpose (Algo Trading)
 ---
 
 Understanding a company's financial health is crucial for investors, stakeholders, and management alike. Financial statements are fundamental tools that provide insights into a company's operations and financial position, guiding decisions and reacting to economic challenges and opportunities. Among these statements, the income statement and the statement of comprehensive income stand out as key documents, each serving a distinct purpose.

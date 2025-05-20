@@ -1,6 +1,9 @@
 ---
-title: "Chain-Weighted Consumer Price Index (Algo Trading)"
-description: "Explore the impact of the Chain-Weighted Consumer Price Index on economic analysis and algorithmic trading by understanding its dynamic inflation measurement approach."
+category: quant_concept
+description: Explore the impact of the Chain-Weighted Consumer Price Index on economic
+  analysis and algorithmic trading by understanding its dynamic inflation measurement
+  approach.
+title: Chain-Weighted Consumer Price Index (Algo Trading)
 ---
 
 The Chain-Weighted Consumer Price Index (CPI) represents a crucial advancement in economic measurement, providing a dynamic approach to tracking changes in the cost of living. Unlike the traditional CPI, which employs a fixed-weight methodology, the chain-weighted CPI adjusts to consumer spending patterns more fluidly. This adaptability makes it a valuable tool for economists who seek a more accurate reflection of inflation as it responds to shifts in consumer preferences and product innovations.

@@ -1,6 +1,11 @@
 ---
-title: "Neural Network (Algo Trading)"
-description: Discover the future of algorithmic trading as we deep dive into the revolutionary role of neural networks. Neural networks, modeled after the human brain, process vast financial data sets to detect trends, anticipate market movements, and optimize trading strategies. Learn about their concrete applications, challenges, and the promising integration with other AI technologies.
+category: quant_concept
+description: Discover the future of algorithmic trading as we deep dive into the revolutionary
+  role of neural networks. Neural networks, modeled after the human brain, process
+  vast financial data sets to detect trends, anticipate market movements, and optimize
+  trading strategies. Learn about their concrete applications, challenges, and the
+  promising integration with other AI technologies.
+title: Neural Network (Algo Trading)
 ---
 
 Algorithmic trading involves using computer programs and systems to execute trades at optimal speeds and efficiencies, allowing traders to capitalize on minute price discrepancies and market movements. These rapidly executed trades often rely on complex mathematical formulas and calculated strategies. The significance of algorithmic trading in modern financial markets cannot be understated; it accounts for a substantial portion of trading volume in global exchanges. This methodology has reshaped how markets operate by improving liquidity, tightening spreads, and increasing the sheer volume of trades executed daily. 

@@ -1,6 +1,8 @@
 ---
-title: "Portfolio rebalancing (Algo Trading)"
-description: "Optimize investment outcomes with strategic portfolio rebalancing using algorithmic trading. Enhance efficiency and risk management through automated reallocation."
+category: trading_strategy
+description: Optimize investment outcomes with strategic portfolio rebalancing using
+  algorithmic trading. Enhance efficiency and risk management through automated reallocation.
+title: Portfolio rebalancing (Algo Trading)
 ---
 
 Portfolio rebalancing is a critical process in investment management, ensuring that an investor's asset allocation remains compatible with their financial objectives and risk tolerance. As market dynamics shift, the values of various assets within a portfolio can change, leading to a deviation from the initial allocation strategy. Rebalancing entails the strategic buying and selling of assets to restore the portfolio's target allocation, thereby mitigating risk and enhancing the potential for returns.

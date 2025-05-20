@@ -1,6 +1,8 @@
 ---
-title: "Options Arbitrage Through Put-Call Parity (Algo Trading)"
-description: "Explore options arbitrage using the put-call parity theorem in algorithmic trading. Enhance strategies with advanced models for precision in volatile markets."
+category: quant_concept
+description: Explore options arbitrage using the put-call parity theorem in algorithmic
+  trading. Enhance strategies with advanced models for precision in volatile markets.
+title: Options Arbitrage Through Put-Call Parity (Algo Trading)
 ---
 
 Financial derivatives, options, and arbitrage are fundamental instruments within modern financial markets. These instruments are pivotal in enabling traders and investors to effectively hedge against risks, engage in speculation regarding price movements, and optimize portfolio diversification. Financial derivatives, which include options, futures, swaps, and forwards, serve as contracts whose value is derived from underlying assets such as stocks, bonds, commodities, or market indices.

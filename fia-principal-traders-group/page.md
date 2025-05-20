@@ -1,6 +1,9 @@
 ---
-title: "FIA Principal Traders Group Overview (Algo Trading)"
-description: "Explore the world of algorithmic trading with the FIA Principal Traders Group, key players in market innovation and efficiency since 2010 within financial markets."
+category: quant_concept
+description: Explore the world of algorithmic trading with the FIA Principal Traders
+  Group, key players in market innovation and efficiency since 2010 within financial
+  markets.
+title: FIA Principal Traders Group Overview (Algo Trading)
 ---
 
 Financial markets have undergone substantial transformations over the years, largely due to technological advancements. A key development in this area is the adoption of algorithmic trading, also known as algo trading. This approach leverages technology to automate trading activities, enabling traders to execute orders with speed and precision that manual methods cannot achieve. Algo trading has allowed firms to analyze large datasets, implement complex strategies instantaneously, and manage risk more effectively. The competitive landscape of trading has been significantly shaped by these innovations, pushing firms to continuously adapt and refine their approaches.

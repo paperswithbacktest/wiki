@@ -1,6 +1,9 @@
 ---
-title: "Impact of Immigration on Economic Growth (Algo Trading)"
-description: "Explore how immigration impacts global economies and links to algorithmic trading, highlighting contributions to innovation and the interplay with economic dynamics."
+category: quant_concept
+description: Explore how immigration impacts global economies and links to algorithmic
+  trading, highlighting contributions to innovation and the interplay with economic
+  dynamics.
+title: Impact of Immigration on Economic Growth (Algo Trading)
 ---
 
 Immigration plays a crucial role in shaping global economies. It contributes significantly to various sectors, affecting labor markets, encouraging innovation, and impacting fiscal policies through taxes and public services. Understanding immigration's economic impact involves assessing diverse factors such as labor force contributions, entrepreneurship among immigrant populations, and the fiscal balance created by their integration into societies. Economists utilize models and data analysis to gauge these impacts, considering both the benefits and challenges posed by immigration.

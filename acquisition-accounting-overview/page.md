@@ -1,6 +1,9 @@
 ---
-title: "Acquisition Accounting Overview (Algo Trading)"
-description: "Explore acquisition accounting in algo trading to understand financial reporting impacts during mergers, enhancing strategic business operations in a dynamic market."
+category: quant_concept
+description: Explore acquisition accounting in algo trading to understand financial
+  reporting impacts during mergers, enhancing strategic business operations in a dynamic
+  market.
+title: Acquisition Accounting Overview (Algo Trading)
 ---
 
 In the rapidly evolving financial landscape, businesses are continually exploring strategic options for growth, including mergers and acquisitions (M&A). These strategies are pivotal for scaling operations, enhancing competitive edge, and achieving financial synergies. A crucial aspect underpinning these transactions is acquisition accounting, an essential practice ensuring transparency and accuracy in financial reporting post-acquisition. Through acquisition accounting, companies record acquired assets, liabilities, and goodwill on the acquirer's balance sheet, adhering to specific accounting standards such as the International Financial Reporting Standards (IFRS) and U.S. Generally Accepted Accounting Principles (GAAP).

@@ -1,6 +1,8 @@
 ---
-title: "Construction of a High-Risk Investment Portfolio (Algo Trading)"
-description: "Explore high-risk investment strategies and algorithmic trading to construct a portfolio with potential for high returns while managing associated risks."
+category: trading_strategy
+description: Explore high-risk investment strategies and algorithmic trading to construct
+  a portfolio with potential for high returns while managing associated risks.
+title: Construction of a High-Risk Investment Portfolio (Algo Trading)
 ---
 
 High-risk portfolio investment strategies hold a prominent place in the financial landscape due to their potential for substantial returns juxtaposed with significant risks. These strategies are particularly appealing to investors seeking opportunities beyond the relatively modest gains of traditional investment vehicles like bonds and dividends-centered stocks.

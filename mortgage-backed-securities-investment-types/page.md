@@ -1,6 +1,8 @@
 ---
-title: "Mortgage-Backed Securities and Investment Types (Algo Trading)"
-description: "Explore the world of Mortgage-Backed Securities and their role in finance Learn about algorithmic trading and how it impacts MBS investment strategies"
+category: quant_concept
+description: Explore the world of Mortgage-Backed Securities and their role in finance
+  Learn about algorithmic trading and how it impacts MBS investment strategies
+title: Mortgage-Backed Securities and Investment Types (Algo Trading)
 ---
 
 Mortgage-backed securities (MBS) have been an essential component of modern financial systems, serving as an intermediary between homeowners and investors. These securities have fundamentally transformed how housing finance operates by pooling home loans into marketable assets. Investors receive periodic payouts derived from homeowners' mortgage payments, making MBS an attractive investment option for those seeking steady income streams.

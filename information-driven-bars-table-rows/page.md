@@ -1,6 +1,14 @@
 ---
-title: "Information-driven bars (table rows) (Algo Trading)"
-description: Explore the advanced concept of information-driven bars in algorithmic trading. Unlike traditional bars that operate on fixed intervals, these adaptive bars adjust their sampling frequency based on market activity. This innovation enables traders to capture significant market shifts and patterns often missed by conventional methods. By focusing on dynamic market conditions, information-driven bars provide timely data insights essential for optimizing trading strategies. Discover how these advanced bar methods enhance decision-making by offering a more accurate reflection of market behavior, making them an invaluable tool for modern traders.
+category: trading_strategy
+description: Explore the advanced concept of information-driven bars in algorithmic
+  trading. Unlike traditional bars that operate on fixed intervals, these adaptive
+  bars adjust their sampling frequency based on market activity. This innovation enables
+  traders to capture significant market shifts and patterns often missed by conventional
+  methods. By focusing on dynamic market conditions, information-driven bars provide
+  timely data insights essential for optimizing trading strategies. Discover how these
+  advanced bar methods enhance decision-making by offering a more accurate reflection
+  of market behavior, making them an invaluable tool for modern traders.
+title: Information-driven bars (table rows) (Algo Trading)
 ---
 
 Algorithmic trading represents a sophisticated form of trading where complex algorithms execute trades based on pre-determined criteria at high speeds. Over the years, this field has significantly evolved as traders seek to gain a competitive edge by harnessing an ever-expanding array of data types. Traditionally, traders relied on time bars—data samples taken at regular time intervals—to construct their trading strategies. However, as markets have become increasingly dynamic, the limitations of these traditional methods have prompted the development of more advanced techniques.

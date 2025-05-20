@@ -1,6 +1,8 @@
 ---
-title: "Index Fund Investment Overview (Algo Trading)"
-description: "Explore the synergy of financial planning, index funds, and algo trading to maximize returns while managing risks in the evolving investment landscape."
+category: trading_strategy
+description: Explore the synergy of financial planning, index funds, and algo trading
+  to maximize returns while managing risks in the evolving investment landscape.
+title: Index Fund Investment Overview (Algo Trading)
 ---
 
 In the ever-evolving landscape of financial management, combining traditional and modern strategies often yields the best results. One such powerful combination includes investment financial planning, index funds, and algorithmic (algo) trading. This article explores the synergy between these elements and their collective potential to maximize returns while managing risks.

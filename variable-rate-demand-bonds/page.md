@@ -1,6 +1,8 @@
 ---
-title: "Variable-Rate Demand Bonds (Algo Trading)"
-description: "Discover the benefits and challenges of variable-rate demand bonds and the transformative role of algorithmic trading in enhancing bond market efficiency."
+category: quant_concept
+description: Discover the benefits and challenges of variable-rate demand bonds and
+  the transformative role of algorithmic trading in enhancing bond market efficiency.
+title: Variable-Rate Demand Bonds (Algo Trading)
 ---
 
 Variable-rate demand bonds (VRDBs) are increasingly capturing the attention of investors and municipal issuers in the market for municipal bonds. These bonds are distinguished by their floating interest rates, which adjust at regular intervals and are coupled with a put option allowing investors to sell them back to the issuer at par value. This combination offers unique features, including adjustable interest rates that provide a hedge against interest rate fluctuations and enhanced liquidity.

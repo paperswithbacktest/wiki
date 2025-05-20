@@ -1,6 +1,9 @@
 ---
-title: "Economic Impact of Halloween (Algo Trading)"
-description: "Explore Halloween's impact on the economy, with insights into consumer spending trends, business opportunities, and algorithmic trading's role in market analysis."
+category: quant_concept
+description: Explore Halloween's impact on the economy, with insights into consumer
+  spending trends, business opportunities, and algorithmic trading's role in market
+  analysis.
+title: Economic Impact of Halloween (Algo Trading)
 ---
 
 Halloween is a period traditionally associated with costumes, candies, and all things eerie. However, beyond its cultural and social dimensions, Halloween stands out as a noteworthy economic occasion in the United States. It stimulates a wide range of economic activities, making it a pivotal period for consumer spending and commercial ventures. 

@@ -1,7 +1,8 @@
 ---
-title: Understanding Dropout Regularization in Neural Networks
+category: quant_concept
 description: Dropout regularization improves neural network generalization by randomly
   disabling neurons during training to prevent overfitting. Discover more inside.
+title: Understanding Dropout Regularization in Neural Networks
 ---
 
 ![Image](images/1.png)

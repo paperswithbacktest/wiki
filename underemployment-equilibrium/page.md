@@ -1,6 +1,8 @@
 ---
-title: "Underemployment Equilibrium (Algo Trading)"
-description: "Explore the relationship between underemployment equilibrium and algorithmic trading and learn how technological advances shape labor markets and economic balance."
+category: quant_concept
+description: Explore the relationship between underemployment equilibrium and algorithmic
+  trading and learn how technological advances shape labor markets and economic balance.
+title: Underemployment Equilibrium (Algo Trading)
 ---
 
 In today's intricate economic environment, understanding the interplay between economic equilibrium, the labor market, underemployment, and algorithmic trading is crucial for stakeholders aiming to navigate financial markets efficiently. Economic equilibrium, a fundamental concept in economics, describes a state where supply meets demand, ensuring optimal allocation of resources. In the labor market, this translates to a scenario where the availability of jobs aligns with the workforce's skills and numbers. However, achieving this balance is often challenged by underemployment, where individuals are employed but not in roles that fully utilize their skills or hours. This situation traps economies in a state of inefficiency and can inflate unemployment figures, emphasizing the need for strategic interventions.
@@ -113,4 +115,3 @@ For a deeper understanding of these concepts, refer to academic literature on va
 For those interested in algorithmic trading methodologies, "Algorithmic Trading and DMA" by Barry Johnson is an excellent resource that covers the technical and strategic aspects of high-frequency trading. Additionally, "Advances in Financial Machine Learning" by Marcos López de Prado provides a modern approach to algorithmic trading, exploring how machine learning techniques can be applied to capture complex market patterns.
 
 Supplementary resources include case studies of historical economic events, such as the 2008 financial crisis, which offer insights into the effects of economic imbalances and the role of regulatory frameworks. Academic journals like the "Journal of Economic Literature" and the "Journal of Financial Economics" feature research articles on technological impacts on market equilibrium, further contributing to a nuanced understanding of these dynamics.
-

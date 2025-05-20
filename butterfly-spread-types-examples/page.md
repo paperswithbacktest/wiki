@@ -1,6 +1,9 @@
 ---
-title: "Butterfly Spread: Types and Examples (Algo Trading)"
-description: "Explore the nuances of butterfly spread strategies in options trading and discover how algorithmic trading enhances execution precision and efficiency for optimized results."
+category: trading_strategy
+description: Explore the nuances of butterfly spread strategies in options trading
+  and discover how algorithmic trading enhances execution precision and efficiency
+  for optimized results.
+title: 'Butterfly Spread: Types and Examples (Algo Trading)'
 ---
 
 In the world of options trading, numerous strategies are available for traders aiming to capitalize on fluctuations in market conditions. One such strategy is the butterfly spread, which stands out due to its potential for delivering considerable returns while maintaining a bounded risk profile. By employing combinations of call or put options with different strike prices but identical expiration dates, traders can structure a butterfly spread to benefit predominantly from minimal movements in the underlying asset's price.

@@ -1,6 +1,8 @@
 ---
-title: "S&P GSCI: Commodity Types and Drawbacks (Algo Trading)"
-description: "Explore the advantages and challenges of investing in the S&P GSCI commodity index through algorithmic trading. Understand risks and manage portfolios effectively."
+category: dataset
+description: Explore the advantages and challenges of investing in the S&P GSCI commodity
+  index through algorithmic trading. Understand risks and manage portfolios effectively.
+title: 'S&P GSCI: Commodity Types and Drawbacks (Algo Trading)'
 ---
 
 In investment, commodities represent a complex yet rewarding avenue for diversification. Among the various means of engaging with commodities, the S&P GSCI (Goldman Sachs Commodity Index) stands out as a pivotal benchmark for investors. This index reflects the performance of global commodity markets, providing an essential tool for assessing investment strategies in futures contracts linked to physical commodities. It offers exposure to a diverse range of sectors including energy, agriculture, and metals, allowing investors to gain insights without directly trading physical commodities.

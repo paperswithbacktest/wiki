@@ -1,6 +1,9 @@
 ---
-title: "Short Sale Rule: History and Controversy (Algo Trading)"
-description: "Discover the history and controversies of the short sale rule in stock markets. Understand its impact on algorithmic trading, market stability, and investor dynamics."
+category: quant_concept
+description: Discover the history and controversies of the short sale rule in stock
+  markets. Understand its impact on algorithmic trading, market stability, and investor
+  dynamics.
+title: 'Short Sale Rule: History and Controversy (Algo Trading)'
 ---
 
 The stock market is governed by a series of complex regulations designed to ensure equitable trading practices and maintain overall market stability. Among these regulations, the short sale rule plays a pivotal role. It is essential in controlling short selling activities—transactions that involve selling stocks that are borrowed, with the intention of repurchasing them later at a lower price. This rule aims to prevent excessive downward pressure on stock prices, which can destabilize financial markets during periods of volatility.

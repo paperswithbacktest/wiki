@@ -1,6 +1,8 @@
 ---
-title: "Required Yield and Its Functionality (Algo Trading)"
-description: "Discover the significance of required yield in algorithmic trading Understand its role in evaluating investment opportunities and optimizing trading strategies"
+category: quant_concept
+description: Discover the significance of required yield in algorithmic trading Understand
+  its role in evaluating investment opportunities and optimizing trading strategies
+title: Required Yield and Its Functionality (Algo Trading)
 ---
 
 The world of finance is extensive and intricate, characterized by a constant pursuit among investors to optimize returns while effectively managing risk. Central to this pursuit is a thorough understanding of financial concepts such as required yield and investment returns, which are foundational for sound financial planning. Required yield is crucial because it represents the minimum return that justifies participation in an investment, particularly within fixed-income markets like bonds. This concept helps investors evaluate the attractiveness of various investment opportunities relative to their risk levels.
@@ -209,4 +211,3 @@ Explore the intersection of financial formulas, yield types, and algorithmic tra
    - Financial news websites and platforms like Bloomberg and Reuters frequently publish articles and analyses that keep investors updated on the latest market trends related to investment returns and trading strategies.
 
 Engaging with these materials will support a deeper understanding of how fundamental financial concepts are applied within algorithmic trading contexts, further enhancing decision-making skills and strategic thinking in financial markets.
-

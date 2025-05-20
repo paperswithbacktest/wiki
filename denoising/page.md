@@ -1,7 +1,8 @@
 ---
-title: Data Denoising Techniques for Reliable Machine Learning Models
+category: quant_concept
 description: Data denoising with filters autoencoders and deep learning boosts model
   accuracy by cleaning noisy datasets from images to time series Discover more inside
+title: Data Denoising Techniques for Reliable Machine Learning Models
 ---
 
 ![Image](images/1.jpeg)

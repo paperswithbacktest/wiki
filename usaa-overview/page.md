@@ -1,6 +1,8 @@
 ---
-title: "USAA Overview (Algo Trading)"
-description: "Explore USAA's specialized financial services for military families focusing on insurance and algorithmic trading innovations that enhance the trading landscape."
+category: quant_concept
+description: Explore USAA's specialized financial services for military families focusing
+  on insurance and algorithmic trading innovations that enhance the trading landscape.
+title: USAA Overview (Algo Trading)
 ---
 
 The United Services Automobile Association (USAA) holds a distinguished position in the financial industry. Initially founded in 1922 by a group of U.S. Army officers, USAA was established with the aim of meeting the unique financial needs of military personnel and their families. Over time, it has expanded its offerings beyond basic financial services to encompass a broad spectrum of products, including insurance, banking, and investment services. USAA is renowned for its commitment to serving its membership, which primarily includes active, retired, and honorably separated officers and enlisted personnel of the U.S. military. 

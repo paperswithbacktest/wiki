@@ -1,7 +1,8 @@
 ---
-title: Optimizing Candidate Generation in Machine Learning Applications
+category: quant_concept
 description: Candidate generation in machine learning narrows millions of items into
   a focused set for faster and accurate recommendations Discover more inside.
+title: Optimizing Candidate Generation in Machine Learning Applications
 ---
 
 ![Image](images/1.png)

@@ -1,6 +1,8 @@
 ---
-title: "Shenzhen Special Economic Zone, China (Algo Trading)"
-description: "Explore Shenzhen’s rise from a fishing village to an innovation-driven financial hub. Discover how its SEZ policies fostered algorithmic trading growth."
+category: quant_concept
+description: Explore Shenzhen’s rise from a fishing village to an innovation-driven
+  financial hub. Discover how its SEZ policies fostered algorithmic trading growth.
+title: Shenzhen Special Economic Zone, China (Algo Trading)
 ---
 
 Shenzhen, once a small fishing village in southern China, has rapidly evolved into a major metropolitan hub known for its economic and technological advancements. The transformation of Shenzhen into a Special Economic Zone (SEZ) is a significant milestone in China's economic reform journey, initiated under the leadership of Deng Xiaoping in 1980. This strategic move propelled Shenzhen onto a path of rapid industrialization and urbanization, attracting substantial foreign investment due to advantageous tax policies and regulatory flexibilities.

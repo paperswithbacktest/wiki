@@ -1,6 +1,8 @@
 ---
-title: "Spot Rate: Overview and Examples (Algo Trading)"
-description: "Explore the significance of spot rates in forex trading and how algorithmic trading strategies can leverage real-time currency data for optimal market performance."
+category: quant_concept
+description: Explore the significance of spot rates in forex trading and how algorithmic
+  trading strategies can leverage real-time currency data for optimal market performance.
+title: 'Spot Rate: Overview and Examples (Algo Trading)'
 ---
 
 The foreign exchange market, or forex, is a globally decentralized market for trading currencies, notable for its high liquidity and substantial trading volumes. Operating continuously five days a week, it provides unmatched accessibility to traders around the world. This market is characterized by the rapid movement of currency prices, driven by an array of factors including economic indicators, geopolitical events, and market sentiment.

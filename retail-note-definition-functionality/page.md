@@ -1,6 +1,8 @@
 ---
-title: "Retail Note: Definition and Functionality (Algo Trading)"
-description: "Discover the significance of retail notes and their role in individual investing and algorithmic trading strategies to optimize fixed income investments."
+category: quant_concept
+description: Discover the significance of retail notes and their role in individual
+  investing and algorithmic trading strategies to optimize fixed income investments.
+title: 'Retail Note: Definition and Functionality (Algo Trading)'
 ---
 
 This article explores a facet of the financial ecosystem primarily through the lens of retail financial instruments, with a specific focus on retail notes. Financial instruments represent a broad category encompassing various assets, such as stocks, bonds, and derivatives, which facilitate the allocation of capital in the market. Retail versions of these instruments cater to individual investors, offering them opportunities to engage in the financial markets with instruments traditionally limited to institutional investors.

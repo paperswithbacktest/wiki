@@ -1,6 +1,8 @@
 ---
-title: "Mid-Cap ESG Investment Strategies (Algo Trading)"
-description: "Explore mid-cap ESG investment strategies enhanced by algorithmic trading to achieve financial success and positive societal impact through sustainable investing."
+category: trading_strategy
+description: Explore mid-cap ESG investment strategies enhanced by algorithmic trading
+  to achieve financial success and positive societal impact through sustainable investing.
+title: Mid-Cap ESG Investment Strategies (Algo Trading)
 ---
 
 Sustainable investment is increasingly becoming a pivotal factor shaping the future of global financial landscapes. This investment approach prioritizes not just financial returns but also the Environmental, Social, and Governance (ESG) impacts of the investments. The integration of ESG strategies ensures that investments are not only profitable but also contribute positively to society and the planet. With growing awareness of issues such as climate change, social inequality, and corporate governance, investors and companies are recognizing the importance of incorporating ESG criteria into their decision-making processes. This recognition not only meets ethical and societal expectations but is also becoming a mainstream strategy for achieving long-term financial returns.

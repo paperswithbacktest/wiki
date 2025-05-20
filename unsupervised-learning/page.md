@@ -1,6 +1,11 @@
 ---
-title: "Unsupervised Learning (Algo Trading)"
-description: Discover how unsupervised learning, a form of machine learning without labeled data, is revolutionizing algo trading. Learn about its applications in market segmentation, anomaly detection, and dimension reduction. Explore relevant techniques and challenges. Dive deeper into trading strategies, libraries, packages, and datasets. Become a quant trader and achieve financial independence.
+category: quant_concept
+description: Discover how unsupervised learning, a form of machine learning without
+  labeled data, is revolutionizing algo trading. Learn about its applications in market
+  segmentation, anomaly detection, and dimension reduction. Explore relevant techniques
+  and challenges. Dive deeper into trading strategies, libraries, packages, and datasets.
+  Become a quant trader and achieve financial independence.
+title: Unsupervised Learning (Algo Trading)
 ---
 
 Unsupervised learning is a type of machine learning algorithm used to draw inferences from datasets consisting of input data without labeled responses. Unlike supervised learning, there are no output variables to guide the learning process. Instead, unsupervised learning aims to identify underlying structures from input data. This form of learning is crucial in data science as it enables the discovery of hidden patterns or intrinsic structures in data, making it particularly valuable in domains where data labeling is impractical. Techniques such as clustering, dimensionality reduction, and anomaly detection fall under unsupervised learning, allowing for significant advancements in fields ranging from biology to marketing and finance.

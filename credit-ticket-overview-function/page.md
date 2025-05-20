@@ -1,6 +1,9 @@
 ---
-title: "Credit Ticket: Overview and Function (Algo Trading)"
-description: "Explore the roles of credit tickets in finance and algorithmic trading's impact on trade precision. Understand how these tools enhance financial management and decision-making."
+category: quant_concept
+description: Explore the roles of credit tickets in finance and algorithmic trading's
+  impact on trade precision. Understand how these tools enhance financial management
+  and decision-making.
+title: 'Credit Ticket: Overview and Function (Algo Trading)'
 ---
 
 In the world of finance, a variety of instruments play crucial roles in the growth and sustainability of businesses and the economy. These instruments, ranging from accounting elements to sophisticated trading platforms, are fundamental in shaping financial landscapes. Among them, credit tickets serve as essential components of bookkeeping, representing credits in accounting ledgers and maintaining financial balance. Properly managing these entries is vital for accurate financial reporting and analysis.

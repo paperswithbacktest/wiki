@@ -1,6 +1,8 @@
 ---
-title: "order flow imbalance (Algo Trading)"
-description: "Explore order flow imbalance in algorithmic trading to uncover key market dynamics Understand its calculation implications and how it signals trading opportunities"
+category: quant_concept
+description: Explore order flow imbalance in algorithmic trading to uncover key market
+  dynamics Understand its calculation implications and how it signals trading opportunities
+title: order flow imbalance (Algo Trading)
 ---
 
 In the constantly evolving world of algorithmic trading, order flow imbalance (OFI) has emerged as a significant concept, particularly in understanding high-frequency trading movements. Order flow imbalance refers to the disparity between buy and sell orders in the market, indicating potential opportunities for traders. This disparity is a measurement of market sentiment and liquidity, providing insights into current and future price movements.

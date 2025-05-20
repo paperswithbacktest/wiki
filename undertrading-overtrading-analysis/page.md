@@ -1,6 +1,8 @@
 ---
-title: "Undertrading and Overtrading Analysis (Algo Trading)"
-description: "Explore the balance between overtrading and undertrading in algorithmic trading to maintain financial health and market stability through strategic measures."
+category: trading_strategy
+description: Explore the balance between overtrading and undertrading in algorithmic
+  trading to maintain financial health and market stability through strategic measures.
+title: Undertrading and Overtrading Analysis (Algo Trading)
 ---
 
 In trading, achieving a balance between overtrading and undertrading is essential for maintaining financial health and promoting market stability. The rapid evolution of trading environments, especially with the integration of algorithmic trading, highlights the intricacies of trading behaviors and their significant impact on financial markets.

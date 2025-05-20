@@ -1,6 +1,9 @@
 ---
-title: "Business Cycle Indicators and Key Metrics (Algo Trading)"
-description: "Unlock trading success by leveraging Business Cycle Indicators in algorithmic strategies Gain insights into economic trends to optimize decisions and mitigate risks"
+category: trading_strategy
+description: Unlock trading success by leveraging Business Cycle Indicators in algorithmic
+  strategies Gain insights into economic trends to optimize decisions and mitigate
+  risks
+title: Business Cycle Indicators and Key Metrics (Algo Trading)
 ---
 
 In the fast-paced world of finance, understanding economic indicators is crucial for successful algorithmic trading. With markets reacting rapidly to changes in economic landscapes, the ability to anticipate such fluctuations can provide significant competitive advantages. Business Cycle Indicators (BCIs) are essential tools in this context, offering insights into economic trends and turning points that play a pivotal role in shaping trading strategies.

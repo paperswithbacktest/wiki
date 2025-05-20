@@ -1,6 +1,8 @@
 ---
-title: "Covered Combination Strategy (Algo Trading)"
-description: "Explore the synergy of covered combination strategy and algorithmic trading to boost portfolio returns manage risk and adapt swiftly to market changes."
+category: trading_strategy
+description: Explore the synergy of covered combination strategy and algorithmic trading
+  to boost portfolio returns manage risk and adapt swiftly to market changes.
+title: Covered Combination Strategy (Algo Trading)
 ---
 
 Options trading is a dynamic investment strategy that offers investors numerous opportunities to enhance their portfolios through various risk-adjusted tactics. Central to the sophistication of options trading is the covered combination strategy, an advanced approach that integrates both the sale of call and put options to leverage market conditions effectively. This technique allows investors to generate premium income while providing a cushion against potential price decreases.

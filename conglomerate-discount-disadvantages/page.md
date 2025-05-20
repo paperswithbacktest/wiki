@@ -1,6 +1,8 @@
 ---
-title: "Conglomerate Discount and Its Disadvantages (Algo Trading)"
-description: "Explore the complexities of conglomerate structures and the impact of algorithmic trading on valuations in today's multifaceted business environment."
+category: quant_concept
+description: Explore the complexities of conglomerate structures and the impact of
+  algorithmic trading on valuations in today's multifaceted business environment.
+title: Conglomerate Discount and Its Disadvantages (Algo Trading)
 ---
 
 In today's complex business landscape, conglomerate structures offer unique advantages and challenges. The concept of the conglomerate discount highlights one such challenge, which is the undervaluation of these multifaceted entities. A conglomerate is typically a large corporation made up of different independent business units, allowing it to diversify risk by operating across various industries and markets. However, this diversification can also lead to complexities that make these entities appear less focused, which subsequently impacts their market valuation.

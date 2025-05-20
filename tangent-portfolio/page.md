@@ -1,6 +1,9 @@
 ---
-title: "Tangent portfolio (Algo Trading)"
-description: "Master algorithmic trading concepts with our comprehensive guide on tangent portfolios crucial for optimal investment strategies achieving maximum risk-adjusted returns."
+category: quant_concept
+description: Master algorithmic trading concepts with our comprehensive guide on tangent
+  portfolios crucial for optimal investment strategies achieving maximum risk-adjusted
+  returns.
+title: Tangent portfolio (Algo Trading)
 ---
 
 In computational finance, the tangent portfolio is a pivotal concept used to optimize investments by achieving the highest possible return for a given level of risk. This article focuses on the role of tangent portfolios within algorithmic trading, underscoring their importance in maximizing returns while minimizing exposure to risk. As algorithmic trading continues to rise in prominence, mastering the tangent portfolio is increasingly vital for investors seeking to gain a competitive edge in the financial markets.

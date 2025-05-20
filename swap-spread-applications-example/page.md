@@ -1,6 +1,8 @@
 ---
-title: "Swap Spread: Applications and Example (Algo Trading)"
-description: "Discover the role of swap spreads in bond markets and algo trading Gain insights into credit risks and market liquidity for optimized investment strategies"
+category: quant_concept
+description: Discover the role of swap spreads in bond markets and algo trading Gain
+  insights into credit risks and market liquidity for optimized investment strategies
+title: 'Swap Spread: Applications and Example (Algo Trading)'
 ---
 
 In the evolving landscape of financial markets, understanding key indicators is crucial for savvy investors and traders. As markets grow more complex and interconnected, the ability to interpret these indicators effectively can provide a significant competitive advantage. One such important financial indicator is the swap spread, which has a substantial influence on both the bond market and algorithmic trading strategies.

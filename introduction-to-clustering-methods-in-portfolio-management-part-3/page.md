@@ -1,6 +1,13 @@
 ---
-title: "Introduction to Clustering Methods in Portfolio Management"
-description: Explore the final part of our series on clustering methods in portfolio management, focusing on their use in algorithmic trading. Discover how clustering enhances trading strategies by optimizing asset groupings for improved risk management and portfolio efficiency. Learn about clustered risk parity, dynamic market adaptation, and innovative risk management techniques through unique clustering methods like PAM, AGNES, and GMM. Ideal for financial professionals seeking advanced insights into leveraging clustering for enhanced investment strategies.
+category: trading_strategy
+description: Explore the final part of our series on clustering methods in portfolio
+  management, focusing on their use in algorithmic trading. Discover how clustering
+  enhances trading strategies by optimizing asset groupings for improved risk management
+  and portfolio efficiency. Learn about clustered risk parity, dynamic market adaptation,
+  and innovative risk management techniques through unique clustering methods like
+  PAM, AGNES, and GMM. Ideal for financial professionals seeking advanced insights
+  into leveraging clustering for enhanced investment strategies.
+title: Introduction to Clustering Methods in Portfolio Management
 ---
 
 This article represents the third and final part of our series on clustering methods in portfolio management, focusing on their application in algorithmic trading. Clustering methods, vital in many data-driven fields, serve the purpose of grouping assets into clusters with similar characteristics. This classification facilitates optimized portfolio management by reducing complexity and enhancing trading strategies through systematic analysis of asset behaviors and their interactions. 

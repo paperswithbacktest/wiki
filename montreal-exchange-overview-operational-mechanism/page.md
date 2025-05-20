@@ -1,6 +1,8 @@
 ---
-title: "Montréal Exchange: Overview and Operational Mechanism (Algo Trading)"
-description: "Explore the Montréal Exchange and its pivotal role in Canada's financial markets, focusing on trading mechanisms, algorithmic trading, and market dynamics."
+category: quant_concept
+description: Explore the Montréal Exchange and its pivotal role in Canada's financial
+  markets, focusing on trading mechanisms, algorithmic trading, and market dynamics.
+title: 'Montréal Exchange: Overview and Operational Mechanism (Algo Trading)'
 ---
 
 Financial markets are pivotal in the functioning of the global economy, providing a robust platform for capital allocation and risk management. They facilitate the transfer of funds between savers and borrowers, thereby enabling economic growth and stability. These markets include a variety of exchanges and institutions where financial instruments such as stocks, bonds, currencies, and derivatives are traded. The Montréal Exchange (MX) stands as a cornerstone of Canada's financial markets, specializing in the trading of equity, index, and interest rate derivatives. Founded in 1874, the MX has evolved into a vital hub for derivatives trading in North America, contributing significantly to the liquidity and stability of the financial markets in Canada.

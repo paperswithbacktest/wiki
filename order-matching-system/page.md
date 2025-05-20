@@ -1,6 +1,17 @@
 ---
-title: "Order matching system (Algo Trading)"
-description: An order matching system in financial exchanges pairs buy and sell orders based on parameters like price, time, and order type, playing a critical role in executing trades with efficiency and accuracy. These systems enable high-speed, high-frequency trading, providing market liquidity and stability while minimizing errors and enhancing transparency. Evolving from the manual open outcry method to electronic systems in the 1980s, order matching systems have drastically improved market operations by employing sophisticated algorithms that automate trade executions and maintain market integrity. Essential components include the central system for decision-making, settlement systems for transferring assets, and central securities depositories for safekeeping securities, all interacting seamlessly with electronic trading platforms.
+category: quant_concept
+description: An order matching system in financial exchanges pairs buy and sell orders
+  based on parameters like price, time, and order type, playing a critical role in
+  executing trades with efficiency and accuracy. These systems enable high-speed,
+  high-frequency trading, providing market liquidity and stability while minimizing
+  errors and enhancing transparency. Evolving from the manual open outcry method to
+  electronic systems in the 1980s, order matching systems have drastically improved
+  market operations by employing sophisticated algorithms that automate trade executions
+  and maintain market integrity. Essential components include the central system for
+  decision-making, settlement systems for transferring assets, and central securities
+  depositories for safekeeping securities, all interacting seamlessly with electronic
+  trading platforms.
+title: Order matching system (Algo Trading)
 ---
 
 An order matching system is a crucial component in financial exchanges, responsible for pairing buy and sell orders for securities, commodities, or other financial instruments. Its primary function is to facilitate trade executions by determining matches based on parameters such as price, time, and order type. This system acts as the engine that drives trading, ensuring that transactions are completed efficiently and accurately. 

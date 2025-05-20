@@ -1,6 +1,8 @@
 ---
-title: "Law of Diminishing Marginal Utility (Algo Trading)"
-description: "Explore the intersection of diminishing marginal utility, consumer behavior, and algorithmic trading to understand market trends and enhance trading strategies."
+category: quant_concept
+description: Explore the intersection of diminishing marginal utility, consumer behavior,
+  and algorithmic trading to understand market trends and enhance trading strategies.
+title: Law of Diminishing Marginal Utility (Algo Trading)
 ---
 
 Understanding consumer behavior is fundamental in both economics and the rapidly evolving domain of algorithmic trading. At the heart of this understanding lies the economic principle of diminishing marginal utility, which provides crucial insights into consumer decision-making processes. This principle posits that as a person consumes additional units of a good or service, the added satisfaction or utility derived from each successive unit tends to decrease. Thus, the concept of diminishing marginal utility is pivotal in explaining consumer purchasing behavior and preference formation.

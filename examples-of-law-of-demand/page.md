@@ -1,6 +1,11 @@
 ---
-title: "Examples of the Law of Demand (Algo Trading)"
-description: "Explore the connections between demand theory and algorithmic trading in this insightful article. Understand how changes in price impact consumer demand and discover strategies that leverage this knowledge to enhance trading performance. Gain insights on key economic concepts like the demand curve and demand elasticity to optimize your algorithmic trading systems for better market predictions and profitability."
+category: quant_concept
+description: Explore the connections between demand theory and algorithmic trading
+  in this insightful article. Understand how changes in price impact consumer demand
+  and discover strategies that leverage this knowledge to enhance trading performance.
+  Gain insights on key economic concepts like the demand curve and demand elasticity
+  to optimize your algorithmic trading systems for better market predictions and profitability.
+title: Examples of the Law of Demand (Algo Trading)
 ---
 
 The theory of demand is a cornerstone of economic thought that outlines how consumer demand for goods and services fluctuates in response to changing prices. It provides insights into how consumers decide what to purchase, considering factors like their income, price levels, and individual preferences. Understanding these mechanisms is crucial for analyzing both market dynamics and consumer behavior, serving as a foundational tool for economists and business professionals alike. 

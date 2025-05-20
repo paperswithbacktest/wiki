@@ -1,7 +1,8 @@
 ---
-title: Understanding Textual Meaning Extraction in Machine Learning
+category: quant_concept
 description: Textual meaning in machine learning explores how NLP and algorithms transform
   text into actionable insights for sentiment, topics and entities Discover more inside
+title: Understanding Textual Meaning Extraction in Machine Learning
 ---
 
 ![Image](images/1.png)

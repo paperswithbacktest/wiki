@@ -1,6 +1,8 @@
 ---
-title: "Detection Risk: Components and Analysis (Algo Trading)"
-description: "Explore the complexities of detection risk in auditing financial statements coupled with insights into audit risk and algorithmic trading in financial markets."
+category: quant_concept
+description: Explore the complexities of detection risk in auditing financial statements
+  coupled with insights into audit risk and algorithmic trading in financial markets.
+title: 'Detection Risk: Components and Analysis (Algo Trading)'
 ---
 
 In the fast-paced world of financial markets, risk analysis is a critical component for making informed investment decisions. Investors and traders must grasp several interconnected concepts: detection risk, audit risk, and algorithmic trading. Each plays a vital role in shaping financial strategy and ensuring market stability.

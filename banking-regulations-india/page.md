@@ -1,6 +1,8 @@
 ---
-title: "Banking Regulations in India (Algo Trading)"
-description: "Explore India's banking regulations and SEBI's algo trading guidelines that balance market stability, inclusivity, and innovation in the financial sector."
+category: quant_concept
+description: Explore India's banking regulations and SEBI's algo trading guidelines
+  that balance market stability, inclusivity, and innovation in the financial sector.
+title: Banking Regulations in India (Algo Trading)
 ---
 
 The global financial sector has witnessed remarkable transformations in recent years, driven largely by technological advancements. A focal point of this evolution is algorithmic trading, often referred to as 'algo trading', which leverages computer programs to execute trades based on pre-established criteria. This technological shift has significantly impacted financial markets by enhancing speed, efficiency, and precision in trade execution.

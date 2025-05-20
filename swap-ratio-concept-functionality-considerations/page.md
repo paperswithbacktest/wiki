@@ -1,6 +1,8 @@
 ---
-title: "Swap Ratio: Concept, Functionality, and Considerations (Algo Trading)"
-description: "Explore the concept of swap ratios in mergers and acquisitions and discover how algorithmic trading enhances financial strategies for effective decision-making."
+category: quant_concept
+description: Explore the concept of swap ratios in mergers and acquisitions and discover
+  how algorithmic trading enhances financial strategies for effective decision-making.
+title: 'Swap Ratio: Concept, Functionality, and Considerations (Algo Trading)'
 ---
 
 Mergers and acquisitions (M&A) represent a significant aspect of corporate finance and strategy, characterized by their complexity and the need for detailed financial analysis and strategic foresight. Among the critical components of financial analysis in M&A is the determination of the swap ratio, a pivotal metric crucial for evaluating the fairness and strategic fit of the transaction terms between the acquiring and target firms. The swap ratio dictates how the shares of the acquiring company will be exchanged for shares of the target company, impacting the proportional ownership and market value post-transaction. This metric is influenced by factors such as the relative market valuations, earnings prospects, and strategic goals of the entities involved.

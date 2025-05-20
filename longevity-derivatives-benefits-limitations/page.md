@@ -1,6 +1,8 @@
 ---
-title: "Longevity Derivatives: Benefits and Limitations (Algo Trading)"
-description: "Explore the benefits and limitations of longevity derivatives and algorithmic trading in modern markets. Discover how these tools impact risk management strategies."
+category: quant_concept
+description: Explore the benefits and limitations of longevity derivatives and algorithmic
+  trading in modern markets. Discover how these tools impact risk management strategies.
+title: 'Longevity Derivatives: Benefits and Limitations (Algo Trading)'
 ---
 
 In today's rapidly evolving financial markets, financial instruments play a pivotal role in facilitating capital flow and enabling investment strategies. These instruments, encompassing equities, bonds, derivatives, and commodities, are integral to the functionality of modern financial systems. Among them, derivatives and algorithmic trading stand out due to their substantial impact on market dynamics and risk management mechanisms.

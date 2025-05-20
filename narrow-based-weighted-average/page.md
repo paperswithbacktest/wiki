@@ -1,6 +1,8 @@
 ---
-title: "Narrow-Based Weighted Average (Algo Trading)"
-description: "Explore the impact of narrow-based weighted averages in algorithmic trading for safeguarding investor equity during funding rounds and optimizing trade strategies."
+category: quant_concept
+description: Explore the impact of narrow-based weighted averages in algorithmic trading
+  for safeguarding investor equity during funding rounds and optimizing trade strategies.
+title: Narrow-Based Weighted Average (Algo Trading)
 ---
 
 The rise of algorithmic trading in financial markets has significantly transformed the landscape of trading and investment strategies. At the core of these advanced methodologies lies the concept of weighted average calculations, which have become indispensable tools for market participants seeking to optimize trade executions and protect investor interests. Weighted averages, an extension of simple averages, provide greater analytical precision by assigning different weights to various data points based on their significance. This flexibility allows for a more nuanced interpretation of data, which is especially useful in dynamic financial environments.

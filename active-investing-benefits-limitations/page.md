@@ -1,6 +1,9 @@
 ---
-title: "Active Investing: Benefits and Limitations (Algo Trading)"
-description: "Explore the benefits and limitations of active investing and algorithmic trading to make informed decisions and optimize your financial market strategies effectively."
+category: trading_strategy
+description: Explore the benefits and limitations of active investing and algorithmic
+  trading to make informed decisions and optimize your financial market strategies
+  effectively.
+title: 'Active Investing: Benefits and Limitations (Algo Trading)'
 ---
 
 In today's dynamic financial landscape, investors are continually seeking effective strategies to maximize returns while managing risks. Investment strategies have evolved significantly, driven by technological advancements and changing market conditions. Among various approaches, active investing and algorithmic trading have gained significant prominence in recent years.

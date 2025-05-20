@@ -1,9 +1,9 @@
 ---
-title: Comprehensive Guide to Options Trading Platforms in 2024
+category: trading_strategy
 description: Options trading platforms offer user friendly interfaces fast execution
   and mobile access to help you trade with confidence Discover more inside
+title: Comprehensive Guide to Options Trading Platforms in 2024
 ---
-
 
 ![Image](images/1.webp)
 

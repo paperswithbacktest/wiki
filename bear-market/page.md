@@ -1,6 +1,12 @@
 ---
-title: "Bear Market (Algo Trading)"
-description: "Explore the dynamics of bear markets and the role of algorithmic trading during these times. Understand how bear markets trigger prolonged stock declines affecting financial systems and investor confidence. Discover how algo trading offers a data-driven approach, providing strategic insights and potential opportunities amidst market downturns. This article empowers investors to adapt their strategies and make informed decisions despite market challenges."
+category: trading_strategy
+description: Explore the dynamics of bear markets and the role of algorithmic trading
+  during these times. Understand how bear markets trigger prolonged stock declines
+  affecting financial systems and investor confidence. Discover how algo trading offers
+  a data-driven approach, providing strategic insights and potential opportunities
+  amidst market downturns. This article empowers investors to adapt their strategies
+  and make informed decisions despite market challenges.
+title: Bear Market (Algo Trading)
 ---
 
 Financial markets are an ever-evolving landscape where investors face various phases, including bear markets, characterized by sustained declines. A bear market is often defined when stock prices fall by 20% or more from recent highs, indicating a prolonged period of pessimism and declining investor confidence. During these downturns, traditional investment strategies can become ineffective, leading investors to seek alternative methods like algorithmic trading, also known as algo trading.

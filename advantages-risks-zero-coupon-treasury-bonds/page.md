@@ -1,6 +1,9 @@
 ---
-title: "Advantages and Risks of Zero-Coupon Treasury Bonds (Algo Trading)"
-description: "Explore the benefits and risks of zero-coupon Treasury bonds within the context of algorithmic trading and understand how these factors impact investment strategies."
+category: trading_strategy
+description: Explore the benefits and risks of zero-coupon Treasury bonds within the
+  context of algorithmic trading and understand how these factors impact investment
+  strategies.
+title: Advantages and Risks of Zero-Coupon Treasury Bonds (Algo Trading)
 ---
 
 Bond investments are a cornerstone of global financial markets, serving as essential instruments for both governments and corporations to raise capital. As fixed-income securities, bonds represent a loan made by an investor to a borrower. The borrower, in turn, agrees to pay back the principal amount along with periodic interest payments over a predetermined period. Bonds are valued for their consistent returns, relative safety, and the role they play in diversifying investment portfolios.

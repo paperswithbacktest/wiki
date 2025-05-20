@@ -1,6 +1,9 @@
 ---
-title: "Effective Annual Interest Rate (Algo Trading)"
-description: "Understand the Effective Annual Interest Rate (EAR) and its importance in financial decisions and algorithmic trading Enhance your knowledge on compounding effects"
+category: quant_concept
+description: Understand the Effective Annual Interest Rate (EAR) and its importance
+  in financial decisions and algorithmic trading Enhance your knowledge on compounding
+  effects
+title: Effective Annual Interest Rate (Algo Trading)
 ---
 
 The Effective Annual Rate (EAR) is a critical concept in financial decision-making, serving as a fundamental measure that reflects the actual annual interest an investment or loan earns or pays, accounting for compounding effects. In a world where financial calculations significantly influence investment strategies and outcomes, understanding the EAR is pivotal. Compounding, which refers to the process where interest is calculated on an initial sum and the accumulated interest from previous periods, is integral in determining the real return on investments.

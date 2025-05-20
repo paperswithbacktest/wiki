@@ -1,6 +1,8 @@
 ---
-title: "Market Maven: Meaning and Function (Algo Trading)"
-description: "Discover the influence of market mavens in algorithmic trading and how they shape consumer behavior through expert insights and strategic market navigation."
+category: quant_concept
+description: Discover the influence of market mavens in algorithmic trading and how
+  they shape consumer behavior through expert insights and strategic market navigation.
+title: 'Market Maven: Meaning and Function (Algo Trading)'
 ---
 
 The roles of market influence and market mavens have become crucial in shaping consumer behavior, particularly in algorithmic trading. Understanding these concepts is essential in today's rapidly changing economic landscape. This article examines the interconnectedness of market influence, market mavens, and their impact on financial markets. We explore how these entities affect consumer behavior and the adoption of algorithmic trading strategies.

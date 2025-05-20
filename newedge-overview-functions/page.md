@@ -1,6 +1,8 @@
 ---
-title: "Newedge: Overview and Functions (Algo Trading)"
-description: "Explore Newedge's journey into Société Générale, emphasizing its prowess in algorithmic trading and comprehensive brokerage services for institutional clients."
+category: quant_concept
+description: Explore Newedge's journey into Société Générale, emphasizing its prowess
+  in algorithmic trading and comprehensive brokerage services for institutional clients.
+title: 'Newedge: Overview and Functions (Algo Trading)'
 ---
 
 Newedge Group, now operating under the name Société Générale Prime Services, plays a significant role in the financial services industry, particularly impacting the areas of algorithmic trading and brokerage services. Throughout its evolution, Newedge has maintained a robust presence as a prominent financial brokerage firm. This article examines the company's offerings, tracing its journey from inception to becoming a vital part of Société Générale's suite of services. It will analyze the unique attributes and strategic advantages that position Newedge in a competitive marketplace.

@@ -1,6 +1,8 @@
 ---
-title: "Accelerated Return Note: Overview and Function (Algo Trading)"
-description: "Explore the dynamics of Accelerated Return Notes in algo trading Discover how these structured products offer potential high returns linked to market indices"
+category: quant_concept
+description: Explore the dynamics of Accelerated Return Notes in algo trading Discover
+  how these structured products offer potential high returns linked to market indices
+title: 'Accelerated Return Note: Overview and Function (Algo Trading)'
 ---
 
 Accelerated Return Notes (ARNs) are a distinctive type of financial instrument that have gained traction among investors seeking potentially high returns. These structured products derive their value from the performance of a specific reference index or stock, offering investors returns that are tied to the associated market movements. Unlike traditional debt instruments that provide returns based on issuer cash flows, ARNs are designed to yield higher potential returns through the appreciation of the underlying assets, albeit with a cap on the gains.

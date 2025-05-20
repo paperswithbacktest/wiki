@@ -1,6 +1,9 @@
 ---
-title: "Jim Kharouf: Journalist and Industry Expert (Algo Trading)"
-description: "Discover Jim Kharouf's influential career as a journalist and industry expert in algorithmic trading, contributing significantly to financial media and market analysis."
+category: quant_concept
+description: Discover Jim Kharouf's influential career as a journalist and industry
+  expert in algorithmic trading, contributing significantly to financial media and
+  market analysis.
+title: 'Jim Kharouf: Journalist and Industry Expert (Algo Trading)'
 ---
 
 Jim Kharouf is a distinguished figure in financial journalism, recognized for his deep insights into the financial markets and his influential role in content development at IncubEx. Over a career that exceeds two decades, Kharouf has established himself as a key contributor and innovator in the fields of journalism and media, with a keen focus on global markets and trading strategies. He has consistently demonstrated his expertise as a journalist, editor, and media executive, making substantial contributions that have helped shape the understanding of complex financial mechanisms and trading strategies. 

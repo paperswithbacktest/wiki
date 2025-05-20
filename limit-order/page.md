@@ -1,6 +1,12 @@
 ---
-title: "Limit Order (Algo Trading)"
-description: "Explore the dynamic intersection of limit orders and algorithmic trading in stock markets. This article demystifies these essential tools, clarifying how limit orders allow precise price control by executing trades only at specified prices, and how algorithmic trading automates these processes for speed and accuracy. Discover strategies to optimize market opportunities and enhance execution efficiency in a fast-evolving financial landscape."
+category: quant_concept
+description: Explore the dynamic intersection of limit orders and algorithmic trading
+  in stock markets. This article demystifies these essential tools, clarifying how
+  limit orders allow precise price control by executing trades only at specified prices,
+  and how algorithmic trading automates these processes for speed and accuracy. Discover
+  strategies to optimize market opportunities and enhance execution efficiency in
+  a fast-evolving financial landscape.
+title: Limit Order (Algo Trading)
 ---
 
 The world of financial markets is characterized by its complexity and diversity, where various financial instruments and strategies entice both traders and investors. Among the myriad of options available, stock trading stands out as a prominent avenue. This article focuses on two integral components of stock trading: limit orders and algorithmic (algo) trading. By understanding these core concepts, traders can enhance their ability to navigate and exploit opportunities within the market efficiently.

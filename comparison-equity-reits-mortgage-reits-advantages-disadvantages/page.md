@@ -1,6 +1,10 @@
 ---
-title: "Comparison of Equity REITs and Mortgage REITs: Advantages and Disadvantages (Algo Trading)"
-description: "Explore the benefits and challenges of investing in Mortgage and Equity REITs and discover how algorithmic trading can enhance performance in the real estate market."
+category: trading_strategy
+description: Explore the benefits and challenges of investing in Mortgage and Equity
+  REITs and discover how algorithmic trading can enhance performance in the real estate
+  market.
+title: 'Comparison of Equity REITs and Mortgage REITs: Advantages and Disadvantages
+  (Algo Trading)'
 ---
 
 In the evolving landscape of real estate investment, two prominent players—Mortgage Real Estate Investment Trusts (mREITs) and Equity Real Estate Investment Trusts (Equity REITs)—stand out. These investment vehicles provide unique opportunities and challenges for investors seeking exposure to real estate markets. Mortgage REITs primarily invest in mortgage loans and mortgage-backed securities, generating income through interest, whereas Equity REITs focus on owning and managing physical properties, deriving revenue from leasing space and operating these real estate assets.

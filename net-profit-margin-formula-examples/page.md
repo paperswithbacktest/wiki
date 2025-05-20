@@ -1,6 +1,9 @@
 ---
-title: "Net Profit Margin: Formula and Examples (Algo Trading)"
-description: "Explore the importance of net profit margin in algorithmic trading to enhance trading strategies by understanding financial efficiency and profitability insights."
+category: quant_concept
+description: Explore the importance of net profit margin in algorithmic trading to
+  enhance trading strategies by understanding financial efficiency and profitability
+  insights.
+title: 'Net Profit Margin: Formula and Examples (Algo Trading)'
 ---
 
 In the fast-paced world of finance, understanding key financial ratios is crucial for assessing a company's profitability and making informed trading decisions. Among these ratios, the net profit margin stands out as one of the most significant indicators for both individual investors and algorithmic traders. By measuring the percentage of profit a company makes from its total revenue, the net profit margin provides a clear view of financial efficiency.

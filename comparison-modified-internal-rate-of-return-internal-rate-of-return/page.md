@@ -1,6 +1,16 @@
 ---
-title: "Comparison of Modified Internal Rate of Return and Internal Rate of Return (Algo Trading)"
-description: "Explore the intricate relationship between Modified Internal Rate of Return (MIRR), Internal Rate of Return (IRR), and algorithmic trading in modern investment strategies. This article investigates into how these financial metrics are integrated within algorithmic systems to optimize trading performance and investment analysis. Learn how the convergence of advanced technology and traditional investment metrics can enhance decision-making, offering investors a significant edge in profitability and risk management. Discover how this integration empowers traders with automated, precise tools to capitalize on investment opportunities effectively in today's dynamic financial markets."
+category: quant_concept
+description: Explore the intricate relationship between Modified Internal Rate of
+  Return (MIRR), Internal Rate of Return (IRR), and algorithmic trading in modern
+  investment strategies. This article investigates into how these financial metrics
+  are integrated within algorithmic systems to optimize trading performance and investment
+  analysis. Learn how the convergence of advanced technology and traditional investment
+  metrics can enhance decision-making, offering investors a significant edge in profitability
+  and risk management. Discover how this integration empowers traders with automated,
+  precise tools to capitalize on investment opportunities effectively in today's dynamic
+  financial markets.
+title: Comparison of Modified Internal Rate of Return and Internal Rate of Return
+  (Algo Trading)
 ---
 
 In today's fast-paced investment world, professionals are constantly seeking tools and techniques to enhance their analysis and decision-making processes. Investment analysis plays a critical role in this environment, focusing on evaluating potential investments by assessing risks and expected returns to ensure decisions are both efficient and profitable. Traditional financial metrics like the Internal Rate of Return (IRR) and Modified Internal Rate of Return (MIRR) have long served as essential tools in this process. IRR, by design, is used to estimate the profitability of investments over time, calculated such that it makes the net present value (NPV) of cash flows equal to zero. The formula for IRR is derived from:

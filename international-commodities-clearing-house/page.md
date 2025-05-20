@@ -1,6 +1,8 @@
 ---
-title: "International Commodities Clearing House (Algo Trading)"
-description: "Explore the evolution of the International Commodities Clearing House and its transition to the London Clearing House as it adapts to algorithmic trading."
+category: quant_concept
+description: Explore the evolution of the International Commodities Clearing House
+  and its transition to the London Clearing House as it adapts to algorithmic trading.
+title: International Commodities Clearing House (Algo Trading)
 ---
 
 In an ever-evolving financial landscape, understanding the role and evolution of commodities clearing houses, such as the International Commodities Clearing House (ICCH), is crucial. Commodities trading involves dealing with essential goods like oil, grains, and metals, which require efficient systems to manage transactions and risks. The efficient handling of these transactions is indispensable for maintaining the stability and integrity of financial markets, ensuring liquidity, and mitigating counterparty risks.

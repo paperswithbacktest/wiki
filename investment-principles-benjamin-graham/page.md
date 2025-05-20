@@ -1,6 +1,8 @@
 ---
-title: "Investment Principles of Benjamin Graham (Algo Trading)"
-description: "Explore Benjamin Graham's timeless investment principles adapted to modern algorithmic trading techniques to spot undervalued stocks and leverage market volatility."
+category: trading_strategy
+description: Explore Benjamin Graham's timeless investment principles adapted to modern
+  algorithmic trading techniques to spot undervalued stocks and leverage market volatility.
+title: Investment Principles of Benjamin Graham (Algo Trading)
 ---
 
 Value investing is a strategic approach to investing that emphasizes purchasing stocks that are priced below their intrinsic value, with the expectation that their true worth will be recognized over time, leading to profit. This strategy is distinguished by its focus on strong fundamental analysis to uncover securities that the market has undervalued, providing a margin of safety and potential for long-term capital appreciation. 

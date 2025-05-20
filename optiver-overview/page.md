@@ -1,6 +1,8 @@
 ---
-title: "Optiver Overview (Algo Trading)"
-description: "Optiver leads in algorithmic trading by integrating tech-driven strategies to boost liquidity and market efficiency, showcasing innovation in financial operations."
+category: quant_concept
+description: Optiver leads in algorithmic trading by integrating tech-driven strategies
+  to boost liquidity and market efficiency, showcasing innovation in financial operations.
+title: Optiver Overview (Algo Trading)
 ---
 
 Algorithmic trading has revolutionized the way financial markets operate, offering a highly automated and efficient trading mechanism. This transformation has enabled traders to execute orders at speeds and frequencies that are impractical for manual trading. The use of algorithms allows for the rapid analysis of market conditions, instant execution of trading strategies, and effective risk management, making financial operations significantly more precise and less susceptible to human error.

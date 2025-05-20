@@ -1,6 +1,8 @@
 ---
-title: "Chicago Trading Company (Algo Trading)"
-description: "Explore the dynamic world of algorithmic trading with Chicago Trading Company a leader since 1995 known for innovation and integrity in financial markets."
+category: quant_concept
+description: Explore the dynamic world of algorithmic trading with Chicago Trading
+  Company a leader since 1995 known for innovation and integrity in financial markets.
+title: Chicago Trading Company (Algo Trading)
 ---
 
 The Chicago Trading Company (CTC) stands as a prominent entity in the field of algorithmic trading, distinguished by its innovative approaches and steadfast adherence to integrity. Since its establishment in 1995, CTC has been a significant player in the vibrant trading ecosystem of Chicago. Initially dominating the city's trade floors, CTC has since transformed into a modern powerhouse, employing state-of-the-art technology while nurturing a workplace culture that emphasizes collaboration among its heterogeneous teams.

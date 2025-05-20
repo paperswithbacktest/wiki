@@ -1,9 +1,15 @@
 ---
-title: "Fractals indicator"
-description: The fractals indicator is a technical analysis tool that identifies potential market reversal points by recognizing specific candlestick patterns. Developed from the concept of fractals in mathematics, it helps traders analyze market trends, using patterns formed by consecutive price bars. Often combined with other indicators like moving averages or the Alligator indicator, the fractals indicator is useful in multiple markets, including stocks, forex, and commodities. This versatile tool aids in trend confirmation, risk management, and strategic decision-making in trading across different timeframes.
+category: quant_concept
+description: The fractals indicator is a technical analysis tool that identifies potential
+  market reversal points by recognizing specific candlestick patterns. Developed from
+  the concept of fractals in mathematics, it helps traders analyze market trends,
+  using patterns formed by consecutive price bars. Often combined with other indicators
+  like moving averages or the Alligator indicator, the fractals indicator is useful
+  in multiple markets, including stocks, forex, and commodities. This versatile tool
+  aids in trend confirmation, risk management, and strategic decision-making in trading
+  across different timeframes.
+title: Fractals indicator
 ---
-
-
 
 The fractals indicator is a tool used in technical analysis that helps traders identify potential reversal points in the market. This indicator is based on the concept of fractals, a term coined by mathematician Benoit Mandelbrot, which refers to complex patterns that are self-similar across different scales. In trading, a fractal is a recurring pattern that can predict reversals among larger, more chaotic price movements.
 

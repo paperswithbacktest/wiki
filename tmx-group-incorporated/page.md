@@ -1,6 +1,8 @@
 ---
-title: "TMX Group Incorporated (Algo Trading)"
-description: "Explore TMX Group's role in advancing global financial markets through innovation in algorithmic trading, technological integration, and strategic acquisitions."
+category: quant_concept
+description: Explore TMX Group's role in advancing global financial markets through
+  innovation in algorithmic trading, technological integration, and strategic acquisitions.
+title: TMX Group Incorporated (Algo Trading)
 ---
 
 The TMX Group Limited, based in Toronto, stands as a leading player in the financial services sphere, managing some of the world's largest stock exchanges, most notably the Toronto Stock Exchange (TSX) and TSX Venture Exchange. As a pivotal force in the global financial markets, the TMX Group has embraced technological advancements, with a particular emphasis on algorithmic trading, reshaping how financial transactions are conducted. This article aims to elucidate the TMX Group's significant influence, exploring its storied history, distinctive market structure, and pioneering technological innovations within trading platforms.

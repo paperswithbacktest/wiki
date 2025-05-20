@@ -1,6 +1,8 @@
 ---
-title: "Type II Error and Type I Error Comparison (Algo Trading)"
-description: "Explore Type I and Type II errors in algorithmic trading to enhance decision-making. Understand their impacts on trade signals and strategies for error mitigation."
+category: quant_concept
+description: Explore Type I and Type II errors in algorithmic trading to enhance decision-making.
+  Understand their impacts on trade signals and strategies for error mitigation.
+title: Type II Error and Type I Error Comparison (Algo Trading)
 ---
 
 In statistical analysis and algorithmic trading, accurate decision-making is vital for successful outcomes. Central to this pursuit is the understanding and management of errors in statistical testing, specifically Type I and Type II errors. These errors can profoundly impact algorithmic trading strategies by influencing the accuracy of trade signals, leading to either missed opportunities or unprofitable trades.

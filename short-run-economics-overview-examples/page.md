@@ -1,6 +1,12 @@
 ---
-title: "Short Run in Economics: Overview and Examples (Algo Trading)"
-description: "Explore the synergistic relationship between short-run economic principles and algorithmic trading in this comprehensive article. Discover how fixed inputs define short-run market analysis and influence trading strategies. Uncover the advantages of algorithmic trading like speed and efficiency in adapting to short-term market changes. Learn how integrating short-run economics with algorithmic trading can optimize strategies and enhance decision-making in today's dynamic financial markets."
+category: quant_concept
+description: Explore the synergistic relationship between short-run economic principles
+  and algorithmic trading in this comprehensive article. Discover how fixed inputs
+  define short-run market analysis and influence trading strategies. Uncover the advantages
+  of algorithmic trading like speed and efficiency in adapting to short-term market
+  changes. Learn how integrating short-run economics with algorithmic trading can
+  optimize strategies and enhance decision-making in today's dynamic financial markets.
+title: 'Short Run in Economics: Overview and Examples (Algo Trading)'
 ---
 
 This article examines the interplay between economics and algorithmic trading with an emphasis on short-run economic principles and their applications in trading strategies. The short run in economics is characterized by at least one fixed input, allowing businesses to analyze specific stimuli affecting markets differently than in the long run. This distinction is significant for traders and businesses, providing insights into market behaviors and decision-making processes under the constraints of fixed inputs. 

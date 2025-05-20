@@ -1,6 +1,9 @@
 ---
-title: "Absolute Return Index (Algo Trading)"
-description: "Explore the world of absolute return index and algorithmic trading to gain insights into maximizing returns and enhancing trading efficiency in dynamic markets."
+category: quant_concept
+description: Explore the world of absolute return index and algorithmic trading to
+  gain insights into maximizing returns and enhancing trading efficiency in dynamic
+  markets.
+title: Absolute Return Index (Algo Trading)
 ---
 
 The financial markets offer numerous avenues for investors who seek to maximize their returns through strategic investments. The diversity and complexity inherent in these markets require a comprehensive understanding of several key components to enable informed decision-making. Among these essential elements are investment indexes, which serve as benchmarks for tracking sector performance; financial performance metrics that evaluate the effectiveness of investment strategies; absolute return strategies aimed at achieving consistent positive returns; and algorithmic trading, which leverages technology to enhance trading efficiency.

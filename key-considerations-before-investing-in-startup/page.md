@@ -1,6 +1,8 @@
 ---
-title: "Key Considerations Before Investing in a Startup (Algo Trading)"
-description: "Explore key considerations before investing in startups and algorithmic trading Learn about risks involvement timeframes potential returns and exit strategies"
+category: trading_strategy
+description: Explore key considerations before investing in startups and algorithmic
+  trading Learn about risks involvement timeframes potential returns and exit strategies
+title: Key Considerations Before Investing in a Startup (Algo Trading)
 ---
 
 In today's financial landscape, investors encounter a myriad of opportunities and challenges, prominently marked by the emergence of startups and the technological advancements in trading. The rise of startups offers a dynamic frontier for investors seeking to engage with innovative businesses at their inception. On the other hand, algorithmic trading, often referred to as algo trading, leverages sophisticated algorithms and computer systems to execute trades with high precision and speed.

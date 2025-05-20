@@ -1,6 +1,9 @@
 ---
-title: "ABN AMRO Bank (Algo Trading)"
-description: "Discover ABN AMRO's journey into algorithmic trading showcasing innovation in finance. Learn how advanced algorithms enhance trading efficiency and client service."
+category: quant_concept
+description: Discover ABN AMRO's journey into algorithmic trading showcasing innovation
+  in finance. Learn how advanced algorithms enhance trading efficiency and client
+  service.
+title: ABN AMRO Bank (Algo Trading)
 ---
 
 ABN AMRO is one of the largest banking institutions in the Netherlands, offering a diverse portfolio of financial services. Its historical roots trace back to the 1700s, with its growth significantly shaped by a series of strategic mergers and acquisitions. ABN AMRO's formation in 1991 was the result of several banks coming together, helping it establish a strong presence in the European financial scene. In 2007, the bank was part of a major acquisition that marked an unprecedented move in European banking history.

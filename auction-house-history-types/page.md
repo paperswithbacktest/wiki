@@ -1,6 +1,9 @@
 ---
-title: "Auction House: Definition, History, and Types (Algo Trading)"
-description: "Discover the fascinating evolution of auction houses from ancient practices to modern-day algorithmic trading covering key types and historical significance in commerce."
+category: quant_concept
+description: Discover the fascinating evolution of auction houses from ancient practices
+  to modern-day algorithmic trading covering key types and historical significance
+  in commerce.
+title: 'Auction House: Definition, History, and Types (Algo Trading)'
 ---
 
 Auctions have been an integral component of human economics for centuries, serving as a distinctive platform for buying and selling a wide array of assets. Originating from as early as 500 B.C., auctions have continually adapted to societal and technological shifts, cementing their presence as a crucial mechanism in economic activities. Traditional auctions, which relied heavily on physical settings and direct human interaction, have undergone transformative changes with technological advancements. This evolution was particularly accelerated with the introduction of the internet and digital technologies, paving the way for more sophisticated methods such as online auctions and algorithmic trading systems.

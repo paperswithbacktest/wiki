@@ -1,6 +1,9 @@
 ---
-title: "Bond Option (Algo Trading)"
-description: "Explore the role of bond options and algorithmic trading in investment strategy. Learn how these financial instruments shape market dynamics and manage risk effectively."
+category: quant_concept
+description: Explore the role of bond options and algorithmic trading in investment
+  strategy. Learn how these financial instruments shape market dynamics and manage
+  risk effectively.
+title: Bond Option (Algo Trading)
 ---
 
 In the world of finance, financial instruments serve as vital tools for both investment and risk management. Among these instruments, financial derivatives, fixed income securities, bond options, and algorithmic trading stand out for their significant contributions to the financial ecosystem. Each component plays a distinct role in shaping market dynamics and providing various opportunities for investors and traders.

@@ -1,6 +1,8 @@
 ---
-title: "Bursa Malaysia Derivatives Berhad (Algo Trading)"
-description: "Explore Bursa Malaysia Derivatives' role in global markets with algorithmic trading innovations boosting efficiency and liquidity for investors worldwide."
+category: quant_concept
+description: Explore Bursa Malaysia Derivatives' role in global markets with algorithmic
+  trading innovations boosting efficiency and liquidity for investors worldwide.
+title: Bursa Malaysia Derivatives Berhad (Algo Trading)
 ---
 
 Bursa Malaysia Derivatives Berhad (BMD) is a pivotal entity within the Malaysian financial landscape, contributing significantly to the country's capital market development. Established as a derivative trading platform, BMD has evolved into an influential player in the global derivatives market, notably through its pioneering palm oil futures contracts. This evolution highlights Malaysia's strategic economic position and its ability to attract diverse trading participants.
@@ -133,4 +135,3 @@ Moving forward, the focus should be on creating a balanced and resilient financi
 - Machine Learning for Algorithmic Trading by Stefan Jansen is an essential resource that details practical implementations of machine learning in financial markets. The book covers the development of prediction models, their validation, and deployment in live trading environments using Python—demonstrating the role of technology in modern trading strategies.
 
 - *Quantitative Trading* by Ernest P. Chan simplifies the process of developing and implementing quantitative trading strategies. The book emphasizes the importance of backtesting and the necessity of robust programming skills for creating effective algorithmic trading systems. It is particularly useful for practitioners seeking to leverage quantitative methods to enhance trades on platforms like Bursa Malaysia.
-

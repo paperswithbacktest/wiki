@@ -1,6 +1,8 @@
 ---
-title: "Comparison of Levered and Unlevered Free Cash Flow (Algo Trading)"
-description: "Explore Levered and Unlevered Free Cash Flow as essential metrics for assessing company performance and integrating them into algorithmic trading strategies."
+category: quant_concept
+description: Explore Levered and Unlevered Free Cash Flow as essential metrics for
+  assessing company performance and integrating them into algorithmic trading strategies.
+title: Comparison of Levered and Unlevered Free Cash Flow (Algo Trading)
 ---
 
 In today's evolving financial landscape, understanding cash flow metrics is crucial for investors, analysts, and businesses. Cash flow metrics, such as Levered Free Cash Flow (LFCF) and Unlevered Free Cash Flow (UFCF), play a significant role in assessing the financial health and performance of companies. These metrics provide insights into a company's cash generation capability, influencing investment decisions and valuations.

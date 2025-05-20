@@ -1,6 +1,9 @@
 ---
-title: "Compustat: Overview, Products, and Statistics (Algo Trading)"
-description: "Discover how Compustat empowers algorithmic trading with comprehensive financial data essential for developing and refining trading strategies in global markets."
+category: dataset
+description: Discover how Compustat empowers algorithmic trading with comprehensive
+  financial data essential for developing and refining trading strategies in global
+  markets.
+title: 'Compustat: Overview, Products, and Statistics (Algo Trading)'
 ---
 
 The financial trading landscape is undergoing a rapid transformation, driven by significant advancements in data analysis and algorithmic trading strategies. At the heart of this transformation is Compustat, a comprehensive and widely respected financial database that plays a crucial role in algorithmic trading. Managed by Standard & Poor's, Compustat provides vital financial data on publicly traded companies, making it indispensable for traders developing sophisticated algorithms designed to maximize returns on investments.
@@ -106,4 +109,3 @@ Furthermore, as machine learning and [artificial intelligence](/wiki/ai-artifici
 [4]: "Machine Learning for Algorithmic Trading" by Stefan Jansen - Jansen's book discusses the integration of machine learning in trading, highlighting how databases such as Compustat can be leveraged to enhance model building and hypothesis testing.
 
 [5]: "Quantitative Trading: How to Build Your Own Algorithmic Trading Business" by Ernest P. Chan - Chan presents practical approaches to setting up algorithmic trading systems, with a focus on using high-quality financial datasets like Compustat to gain a competitive edge in the market.
-

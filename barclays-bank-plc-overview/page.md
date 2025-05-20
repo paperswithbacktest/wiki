@@ -1,6 +1,8 @@
 ---
-title: "Barclays Bank PLC Overview (Algo Trading)"
-description: "Explore Barclays' strategic approach to finance highlighting the impact of algorithmic trading through its BARX platform and commitment to innovation."
+category: quant_concept
+description: Explore Barclays' strategic approach to finance highlighting the impact
+  of algorithmic trading through its BARX platform and commitment to innovation.
+title: Barclays Bank PLC Overview (Algo Trading)
 ---
 
 Barclays, as a global financial services institution, plays a crucial role in the contemporary financial landscape. With a storied history dating back to 1690, Barclays has established itself as a formidable presence in retail and commercial banking, investment banking, and wealth and investment management. The bank serves millions of customers worldwide, providing a diverse range of services including personal banking, business banking, and wealth management, catering to both individual and institutional clients.

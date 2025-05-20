@@ -1,6 +1,9 @@
 ---
-title: "Impact and Applications of Financial Technology (Algo Trading)"
-description: "Explore the transformative impact of fintech in financial markets with a focus on algorithmic trading Discover how technology enhances efficiency and market access"
+category: quant_concept
+description: Explore the transformative impact of fintech in financial markets with
+  a focus on algorithmic trading Discover how technology enhances efficiency and market
+  access
+title: Impact and Applications of Financial Technology (Algo Trading)
 ---
 
 Financial technology, commonly referred to as fintech, has been a game-changer in the financial industry, ushering in a digital transformation that has significantly altered financial markets and the trading landscape. At its core, fintech encompasses a wide range of technological innovations aimed at improving and automating the delivery and use of financial services. This innovation has led to increased efficiency, reduced costs, and enhanced accessibility in various financial sectors, including banking, investment, and insurance. Algorithmic trading, a key component of fintech, exemplifies these changes by utilizing computer algorithms to automate trading decisions, thereby increasing the speed and accuracy of trades.

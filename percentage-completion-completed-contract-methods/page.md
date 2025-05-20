@@ -1,6 +1,8 @@
 ---
-title: "Percentage of Completion and Completed Contract Methods (Algo Trading)"
-description: "Explore the integration of traditional accounting methods with algorithmic trading to enhance financial reporting and trading strategies for long-term projects."
+category: quant_concept
+description: Explore the integration of traditional accounting methods with algorithmic
+  trading to enhance financial reporting and trading strategies for long-term projects.
+title: Percentage of Completion and Completed Contract Methods (Algo Trading)
 ---
 
 In today's rapidly evolving financial landscape, businesses and investors are constantly seeking effective methods to manage financial reporting and trading. The dynamic twin challenges arise from the need to accurately account for long-term projects and the pursuit of efficient trading strategies in increasingly sophisticated markets. This article addresses the intersection between traditional accounting methods—particularly the Percentage of Completion and Completed Contract methods—and the advancing field of algorithmic trading.

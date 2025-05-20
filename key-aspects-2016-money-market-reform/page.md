@@ -1,6 +1,9 @@
 ---
-title: "Key Aspects of the 2016 Money Market Reform (Algo Trading)"
-description: "Explore the key changes in the 2016 money market reforms and their impact on investors, highlighting the role of algorithmic trading in navigating these regulatory shifts."
+category: quant_concept
+description: Explore the key changes in the 2016 money market reforms and their impact
+  on investors, highlighting the role of algorithmic trading in navigating these regulatory
+  shifts.
+title: Key Aspects of the 2016 Money Market Reform (Algo Trading)
 ---
 
 The 2016 financial reform instituted by the U.S. Securities and Exchange Commission (SEC) marked a pivotal moment for money market funds. These reforms emerged as a consequence of vulnerabilities laid bare by the 2008 financial crisis, prompting a reevaluation of regulatory frameworks to bolster the stability and integrity of money market investments. 
@@ -120,4 +123,4 @@ For financial professionals, understanding and leveraging these advanced algorit
 
 [7]: ["Trading and Exchanges: Market Microstructure for Practitioners"](https://www.amazon.com/Trading-Exchanges-Market-Microstructure-Practitioners/dp/0195144708) by Larry Harris
 
-[8]: ["Financial Innovation and Trading"](https://jfin-swufe.springeropen.com/) by Caspar Peter Benzler and Jürgen Kühling 
+[8]: ["Financial Innovation and Trading"](https://jfin-swufe.springeropen.com/) by Caspar Peter Benzler and Jürgen Kühling

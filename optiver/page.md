@@ -1,6 +1,8 @@
 ---
-title: "Optiver (Algo Trading)"
-description: "Explore Optiver's pivotal role in algorithmic trading, leveraging advanced technology for efficient trading strategies that enhance market liquidity and decision-making."
+category: quant_concept
+description: Explore Optiver's pivotal role in algorithmic trading, leveraging advanced
+  technology for efficient trading strategies that enhance market liquidity and decision-making.
+title: Optiver (Algo Trading)
 ---
 
 Algorithmic trading has revolutionized modern financial markets by utilizing complex algorithms and sophisticated electronic systems to execute trades at speeds and volumes beyond human capability. This method leverages data-driven strategies and technological advancements to enhance trading efficiency, reduce costs, and improve decision accuracy. It's estimated that algorithmic trading accounts for a significant portion of trading activities in major global markets, underscoring its significance and impact.

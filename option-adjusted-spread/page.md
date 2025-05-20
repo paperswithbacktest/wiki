@@ -1,6 +1,9 @@
 ---
-title: "Option-adjusted spread (Algo Trading)"
-description: "Explore the significance of Option-Adjusted Spread in algorithmic trading for insights into risk-adjusted returns and dynamic evaluation of bonds with embedded options."
+category: quant_concept
+description: Explore the significance of Option-Adjusted Spread in algorithmic trading
+  for insights into risk-adjusted returns and dynamic evaluation of bonds with embedded
+  options.
+title: Option-adjusted spread (Algo Trading)
 ---
 
 The world of financial markets continuously evolves, driven by technological advancements and innovative financial strategies. Among these, the Option-Adjusted Spread (OAS) has emerged as a pivotal tool for investors and traders, offering insights into the risk-adjusted returns of bonds, especially those with embedded options. This metric significantly enhances the ability to accurately evaluate the potential profitability and risk associated with bond investments.
@@ -192,4 +195,3 @@ Incorporating OAS into algorithmic trading enhances the precision and adaptabili
 
 5. "Options, Futures, and Other Derivatives" by John C. Hull  
    A key resource for understanding derivatives markets, this book covers a wide range of derivative instruments including options, futures, swaps, and risk management techniques. It provides a solid foundation for understanding the pricing and application of derivatives in financial markets, crucial for managing complex investment portfolios.
-

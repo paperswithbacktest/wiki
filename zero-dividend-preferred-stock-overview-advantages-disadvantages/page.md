@@ -1,6 +1,9 @@
 ---
-title: "Zero-Dividend Preferred Stock: Overview, Advantages, and Disadvantages (Algo Trading)"
-description: "Explore the nuances of zero-dividend preferred stock and its benefits in an algorithmic trading setting Discover investment strategies for optimal results"
+category: quant_concept
+description: Explore the nuances of zero-dividend preferred stock and its benefits
+  in an algorithmic trading setting Discover investment strategies for optimal results
+title: 'Zero-Dividend Preferred Stock: Overview, Advantages, and Disadvantages (Algo
+  Trading)'
 ---
 
 This article will explore the nuances of zero-dividend preferred stock as a financial instrument, highlighting its investment pros and cons. Zero-dividend preferred stocks are distinct because they do not provide regular income through dividends, offering investors different benefits such as potential capital appreciation over time. Understanding both the merits and detractions of these financial instruments will enable investors to make informed decisions about their inclusion in investment portfolios.

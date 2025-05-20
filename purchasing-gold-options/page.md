@@ -1,6 +1,12 @@
 ---
-title: "Purchasing Gold Options (Algo Trading)"
-description: "Discover the benefits of investing in gold options, a flexible strategy for speculating on future gold prices. By leveraging algorithmic trading, investors can automate trades, enhance efficiency, and manage risks effectively. Explore key concepts such as call and put options, strike prices, and expiry dates, and learn how combining traditional strategies with modern technology can optimize your investment portfolio."
+category: trading_strategy
+description: Discover the benefits of investing in gold options, a flexible strategy
+  for speculating on future gold prices. By leveraging algorithmic trading, investors
+  can automate trades, enhance efficiency, and manage risks effectively. Explore key
+  concepts such as call and put options, strike prices, and expiry dates, and learn
+  how combining traditional strategies with modern technology can optimize your investment
+  portfolio.
+title: Purchasing Gold Options (Algo Trading)
 ---
 
 Investing in gold options provides investors with a flexible means of speculating on future gold prices. Gold options, as financial derivatives, grant the holder the right, but not the obligation, to buy or sell gold at a predetermined price within a specified period. This flexibility allows investors to potentially profit from both rising and falling gold markets, depending on their strategic choices between call and put options.

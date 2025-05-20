@@ -1,6 +1,8 @@
 ---
-title: "Money Flow in Trading (Algo Trading)"
-description: "Explore the Money Flow Index MFI in algorithmic trading to enhance market analysis with price and volume data helping traders optimize their strategies."
+category: quant_concept
+description: Explore the Money Flow Index MFI in algorithmic trading to enhance market
+  analysis with price and volume data helping traders optimize their strategies.
+title: Money Flow in Trading (Algo Trading)
 ---
 
 Algorithmic trading has transformed the landscape of the financial markets, offering traders the ability to execute transactions with speed and precision unattainable through manual trading. This advancement comes through leveraging sophisticated algorithms and state-of-the-art technology to analyze large volumes of market data. Among the various technical indicators available to traders, the Money Flow Index (MFI) stands out for its ability to integrate both price and volume data, providing a comprehensive measure of market momentum.

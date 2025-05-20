@@ -1,7 +1,8 @@
 ---
-title: Graphical Models in Machine Learning Using ManifoldPlus
+category: quant_concept
 description: Graphical models in machine learning expose variable connections using
   ManifoldPlus to drive smarter predictions and clearer insights Discover more inside
+title: Graphical Models in Machine Learning Using ManifoldPlus
 ---
 
 ![Image](images/1.gif)

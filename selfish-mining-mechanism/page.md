@@ -1,6 +1,8 @@
 ---
-title: "Selfish Mining and Its Mechanism (Algo Trading)"
-description: "Explore blockchain attacks and the mechanism of selfish mining a strategy disrupting cryptocurrency mining and impacting algorithmic trading reliability."
+category: quant_concept
+description: Explore blockchain attacks and the mechanism of selfish mining a strategy
+  disrupting cryptocurrency mining and impacting algorithmic trading reliability.
+title: Selfish Mining and Its Mechanism (Algo Trading)
 ---
 
 Blockchain technology and cryptocurrencies are dynamic and rapidly evolving fields transforming various aspects of digital finance and decentralized systems. As this technology advances, it simultaneously brings forth a range of vulnerabilities that could potentially disrupt its fundamental operations; one such vulnerability is known as "selfish mining." This article intends to shed light on blockchain attacks, with a particular focus on selfish mining, to understand its implications within cryptocurrency mining.

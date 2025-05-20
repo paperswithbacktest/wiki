@@ -1,6 +1,8 @@
 ---
-title: "Inverse Volatility ETFs: History and Criticism (Algo Trading)"
-description: "Explore the dynamic world of inverse volatility ETFs in this comprehensive article detailing their history, criticism, and role in algorithmic trading strategies."
+category: trading_strategy
+description: Explore the dynamic world of inverse volatility ETFs in this comprehensive
+  article detailing their history, criticism, and role in algorithmic trading strategies.
+title: 'Inverse Volatility ETFs: History and Criticism (Algo Trading)'
 ---
 
 Exchange-Traded Funds (ETFs) are a widely utilized investment tool in today's financial markets. They offer a diverse range of assets, including stocks, bonds, and commodities, and are often lauded for their affordability and liquidity, making them an attractive option for both individual and institutional investors. ETFs function by tracking the performance of specific indices, allowing investors to gain exposure to a broad spectrum of market segments without purchasing each underlying security individually. This passively managed approach helps reduce costs and simplifies portfolio management while providing opportunities for diversification and risk management.

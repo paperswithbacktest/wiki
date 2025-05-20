@@ -1,6 +1,8 @@
 ---
-title: "Swing Option: Meaning and Mechanics (Algo Trading)"
-description: "Explore the dynamics of swing options and algorithmic trading in commodities markets to optimize investment strategies and mitigate risks effectively."
+category: quant_concept
+description: Explore the dynamics of swing options and algorithmic trading in commodities
+  markets to optimize investment strategies and mitigate risks effectively.
+title: 'Swing Option: Meaning and Mechanics (Algo Trading)'
 ---
 
 Financial derivatives have fundamentally reshaped the trading landscape by offering diverse opportunities for investment and risk management. Among these, swing options and algorithmic trading strategies are prominent, equipping traders with advanced tools to effectively harness market dynamics. In this article, we focus on the crucial elements of financial derivatives, specifically swing options, paralleled by the progression of trading strategies augmented through algorithmic frameworks.

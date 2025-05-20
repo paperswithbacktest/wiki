@@ -1,6 +1,8 @@
 ---
-title: "China's Response to the 2015 Stock Market Crash (Algo Trading)"
-description: "Explore China's response to the 2015 stock market crash highlighting government interventions and the impact of algorithmic trading on market dynamics."
+category: quant_concept
+description: Explore China's response to the 2015 stock market crash highlighting
+  government interventions and the impact of algorithmic trading on market dynamics.
+title: China's Response to the 2015 Stock Market Crash (Algo Trading)
 ---
 
 The 2015 stock market crash was a pivotal moment in China's economic landscape, marked by swift and severe fluctuations in stock prices, causing widespread concern among investors and policymakers both domestically and internationally. This event is critical to understanding not only because of its immediate financial implications but also due to its exposure of underlying vulnerabilities and challenges within the Chinese financial system and broader global markets.

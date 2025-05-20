@@ -1,6 +1,9 @@
 ---
-title: "Diversification in Investment (Algo Trading)"
-description: "Explore diversification, portfolio management, and algorithmic trading to maximize returns and mitigate risks in dynamic financial markets with expert insights."
+category: trading_strategy
+description: Explore diversification, portfolio management, and algorithmic trading
+  to maximize returns and mitigate risks in dynamic financial markets with expert
+  insights.
+title: Diversification in Investment (Algo Trading)
 ---
 
 In today's fast-paced financial markets, diversification, portfolio management, and algorithmic trading have become essential tools for investors. As markets evolve and become increasingly complex, these strategies work together to maximize returns and mitigate risks, thus forming the cornerstone of a resilient investment approach. 

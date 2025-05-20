@@ -1,6 +1,9 @@
 ---
-title: "Statistical Distributions of Returns (Algo Trading)"
-description: "Explore statistical distributions for algorithmic trading to enhance predictive models and trading strategies with insights into asset price movements and risk management."
+category: quant_concept
+description: Explore statistical distributions for algorithmic trading to enhance
+  predictive models and trading strategies with insights into asset price movements
+  and risk management.
+title: Statistical Distributions of Returns (Algo Trading)
 ---
 
 Algorithmic trading has transformed the financial industry by systematically leveraging computer algorithms to execute trades at high speeds and volumes. At the heart of these algorithms is the robust use of statistical methods, particularly the analysis of statistical distributions of returns. Understanding these distributions is crucial as they form the backbone of predictive models that guide trading decisions and strategies.

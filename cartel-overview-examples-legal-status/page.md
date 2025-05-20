@@ -1,6 +1,8 @@
 ---
-title: "Cartel: Overview, Examples, and Legal Status (Algo Trading)"
-description: "Explore the intersection of cartels antitrust laws and algorithmic trading's impact on market competition and consumer protection in the digital age."
+category: quant_concept
+description: Explore the intersection of cartels antitrust laws and algorithmic trading's
+  impact on market competition and consumer protection in the digital age.
+title: 'Cartel: Overview, Examples, and Legal Status (Algo Trading)'
 ---
 
 The intersection of cartel behavior, antitrust laws, economic collusion, and algorithmic trading is becoming increasingly significant in today’s financial markets. As artificial intelligence (AI) and machine learning technologies continue to advance, they provide new avenues for economic collusion, challenging the effectiveness of traditional antitrust enforcement mechanisms. AI-driven algorithmic trading has the potential to facilitate cartel-like behavior, raising concerns about fair competition and consumer protection.

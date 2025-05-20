@@ -1,7 +1,8 @@
 ---
-title: Comprehensive Guide To Linear Models In Machine Learning
+category: quant_concept
 description: Linear models deliver clear predictions and insights using regression
   classification and regularization for reliable generalization Discover more inside
+title: Comprehensive Guide To Linear Models In Machine Learning
 ---
 
 ![Image](images/1.webp)

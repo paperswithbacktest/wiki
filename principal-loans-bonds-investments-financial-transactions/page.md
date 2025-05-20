@@ -1,6 +1,8 @@
 ---
-title: "Principal in Loans, Bonds, Investments, and Financial Transactions (Algo Trading)"
-description: "Explore the principal's critical role in loans, bonds, investments, and financial transactions with a focus on algorithmic trading and modern market strategies."
+category: quant_concept
+description: Explore the principal's critical role in loans, bonds, investments, and
+  financial transactions with a focus on algorithmic trading and modern market strategies.
+title: Principal in Loans, Bonds, Investments, and Financial Transactions (Algo Trading)
 ---
 
 The financial landscape in modern economies is a complex and ever-evolving framework that underpins both individual and corporate prosperity. Understanding financial transactions and investments is crucial for navigating this landscape effectively. In an era marked by rapid technological advancements and globalization, financial markets exhibit intricate interdependencies, making financial literacy more important than ever.

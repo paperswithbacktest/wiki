@@ -1,6 +1,9 @@
 ---
-title: "Crown Corporation: Overview and Types (Algo Trading)"
-description: "Explore the critical role and diverse functions of Crown corporations in the economy including governance, public services, and the rise of algorithmic trading."
+category: quant_concept
+description: Explore the critical role and diverse functions of Crown corporations
+  in the economy including governance, public services, and the rise of algorithmic
+  trading.
+title: 'Crown Corporation: Overview and Types (Algo Trading)'
 ---
 
 Crown corporations and government-owned entities play a crucial role in the economic landscape, serving as key instruments through which governments can implement and manage public policy objectives. These entities are typically established to address specific areas that are either underserved by the private sector or require significant government oversight and support. They can be found at both national and regional levels, operating across a variety of sectors including transportation, energy, media, and finance. 

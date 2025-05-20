@@ -1,6 +1,8 @@
 ---
-title: "Accumulating Shares: Mechanism and Functionality (Algo Trading)"
-description: "Explore accumulating shares and algorithmic trading as effective investment strategies. Understand their benefits and how they complement diversified portfolios."
+category: trading_strategy
+description: Explore accumulating shares and algorithmic trading as effective investment
+  strategies. Understand their benefits and how they complement diversified portfolios.
+title: 'Accumulating Shares: Mechanism and Functionality (Algo Trading)'
 ---
 
 The stock market offers numerous opportunities for both seasoned and novice investors, each aiming to maximize returns and achieve financial success. An effective investment strategy is pivotal for navigating the market's complexities, ensuring that investors can capitalize on opportunities while mitigating risks. Two popular approaches among investors are accumulating shares and leveraging algorithmic trading. Accumulating shares involves the consistent purchase of stock over time, enabling investors to benefit from long-term growth and the power of compounding. In contrast, algorithmic trading employs sophisticated computer programs to execute trades at speeds beyond human capability, based on predefined criteria or market signals.

@@ -1,6 +1,9 @@
 ---
-title: "Importance of Time Value of Money to Investors (Algo Trading)"
-description: "Understand the importance of the time value of money in algo trading for investors Leverage key financial principles to enhance investment strategies and returns"
+category: quant_concept
+description: Understand the importance of the time value of money in algo trading
+  for investors Leverage key financial principles to enhance investment strategies
+  and returns
+title: Importance of Time Value of Money to Investors (Algo Trading)
 ---
 
 The world of finance is in a perpetual state of transformation, propelled by the continual development of new strategies and technologies that redefine investment practices. At the heart of successful investment strategies lies a robust understanding of fundamental financial principles, such as the time value of money (TVM). TVM is a core concept that underscores the idea that a dollar today is worth more than a dollar in the future due to its potential earning capacity. This principle serves as a cornerstone for evaluating investment opportunities by taking into account both current and future values, allowing investors to make more informed decisions.

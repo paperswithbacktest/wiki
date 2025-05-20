@@ -1,6 +1,9 @@
 ---
-title: "Understanding Stock Option Ticker Symbols (Algo Trading)"
-description: "Gain a comprehensive understanding of stock option ticker symbols in algorithmic trading to enhance your investment strategy in fast-paced financial markets."
+category: quant_concept
+description: Gain a comprehensive understanding of stock option ticker symbols in
+  algorithmic trading to enhance your investment strategy in fast-paced financial
+  markets.
+title: Understanding Stock Option Ticker Symbols (Algo Trading)
 ---
 
 In today's fast-paced financial markets, a thorough understanding of trading tools and mechanisms is vital for investors aiming to optimize their investment opportunities. This article provides an overview of key components such as financial markets, ticker symbols, stock options, and algorithmic trading, offering valuable insights for navigating these intricate yet profitable domains.

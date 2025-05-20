@@ -1,6 +1,8 @@
 ---
-title: "Limited Discretionary Account (Algo Trading)"
-description: "Discover how limited discretionary accounts and algorithmic trading can enhance your investment strategy, offering balance and efficiency for today's investors."
+category: trading_strategy
+description: Discover how limited discretionary accounts and algorithmic trading can
+  enhance your investment strategy, offering balance and efficiency for today's investors.
+title: Limited Discretionary Account (Algo Trading)
 ---
 
 In today's dynamic financial landscape, investors have numerous options for effective investment management. Limited discretionary accounts stand out as a balanced solution, allowing investors to maintain oversight while benefiting from professional financial expertise. This article focuses on limited discretionary accounts, financial management investment accounts, and the rising trend of algorithmic trading, aiming to provide insights for experienced and new investors alike.

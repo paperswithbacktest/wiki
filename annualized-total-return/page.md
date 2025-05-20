@@ -1,6 +1,9 @@
 ---
-title: "Annualized Total Return (Algo Trading)"
-description: "Discover the importance of total return and annualized return in evaluating investment performance and algorithmic trading success, optimizing your financial strategies."
+category: trading_strategy
+description: Discover the importance of total return and annualized return in evaluating
+  investment performance and algorithmic trading success, optimizing your financial
+  strategies.
+title: Annualized Total Return (Algo Trading)
 ---
 
 In the contemporary investment environment, maximizing returns is only part of the equation. A thorough understanding of investment performance is equally important to achieve long-term financial goals. Among the array of tools and metrics available, total return and annualized return stand out as critical benchmarks for evaluating investment success over varying time horizons. These metrics serve as essential indicators for investors to gauge how well their portfolios have performed, incorporating both capital gains and income generated over time.

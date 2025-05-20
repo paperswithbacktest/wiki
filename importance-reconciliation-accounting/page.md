@@ -1,6 +1,9 @@
 ---
-title: "Importance of Reconciliation in Accounting (Algo Trading)"
-description: "Explore the vital role of reconciliation in accounting for algorithmic trading. Discover how reconciling records enhances data accuracy, trading efficiency, and compliance."
+category: quant_concept
+description: Explore the vital role of reconciliation in accounting for algorithmic
+  trading. Discover how reconciling records enhances data accuracy, trading efficiency,
+  and compliance.
+title: Importance of Reconciliation in Accounting (Algo Trading)
 ---
 
 In the rapidly evolving world of finance, understanding key processes such as reconciliation is crucial. Reconciliation refers to the process of ensuring that two sets of records, typically financial accounts, are in agreement. This is an essential aspect of financial management, as it helps maintain the accuracy and reliability of financial data. By confirming that figures in different sets of records or statements match, reconciliation helps prevent errors and inconsistencies that could lead to financial misstatements or impact trading outcomes.

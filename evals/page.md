@@ -1,7 +1,8 @@
 ---
-title: Understanding Machine Learning Evals for Model Performance
+category: quant_concept
 description: Machine Learning Evals assess model accuracy, precision and recall to
   guide improvements and prevent overfitting with strategies Discover more inside
+title: Understanding Machine Learning Evals for Model Performance
 ---
 
 ![Image](images/1.png)

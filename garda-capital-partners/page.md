@@ -1,6 +1,9 @@
 ---
-title: "Garda Capital Partners (Algo Trading)"
-description: "Garda Capital Partners leverages algorithmic trading with advanced technology and innovative strategies to offer superior market solutions and enhance investor confidence."
+category: quant_concept
+description: Garda Capital Partners leverages algorithmic trading with advanced technology
+  and innovative strategies to offer superior market solutions and enhance investor
+  confidence.
+title: Garda Capital Partners (Algo Trading)
 ---
 
 Garda Capital Partners has established itself as a prominent player in the financial industry, particularly noted for its prowess in algorithmic trading. This approach to trading involves deploying advanced mathematical models and cutting-edge technology to execute trades with precision and speed that surpasses traditional methods. As the global financial landscape becomes increasingly complex and competitive, Garda Capital's utilization of algorithmic trading stands out as a strategic advantage that enhances its market positioning.

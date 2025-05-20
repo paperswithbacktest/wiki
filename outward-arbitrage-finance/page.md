@@ -1,6 +1,8 @@
 ---
-title: "Outward Arbitrage in Finance (Algo Trading)"
-description: "Explore the synergy between arbitrage and algorithmic trading in finance. Learn how this combination maximizes investment gains and market efficiency."
+category: trading_strategy
+description: Explore the synergy between arbitrage and algorithmic trading in finance.
+  Learn how this combination maximizes investment gains and market efficiency.
+title: Outward Arbitrage in Finance (Algo Trading)
 ---
 
 Arbitrage refers to the simultaneous purchase and sale of an asset to profit from a difference in its price across different markets. This fundamental trading strategy exploits market inefficiencies, ensuring that prices for the same asset converge across various platforms, thus enhancing market efficiency. Arbitrage activities, by their nature, contribute significantly to the stability and efficiency of financial markets. They help ensure that asset prices do not significantly deviate from their fair value for extended periods, which in turn, fosters investor confidence and market stability.

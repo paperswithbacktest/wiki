@@ -1,6 +1,8 @@
 ---
-title: "Comparison of R-Squared and Beta (Algo Trading)"
-description: "Explore the pivotal role of R-Squared and Beta in algorithmic trading. Learn to evaluate market risks and optimize trading strategies for improved returns."
+category: quant_concept
+description: Explore the pivotal role of R-Squared and Beta in algorithmic trading.
+  Learn to evaluate market risks and optimize trading strategies for improved returns.
+title: Comparison of R-Squared and Beta (Algo Trading)
 ---
 
 In algorithmic trading, statistical metrics such as Beta and R-Squared are pivotal in developing effective trading strategies. This article provides an in-depth examination of these metrics, with a particular emphasis on their application within algorithmic trading. A thorough understanding of Beta and R-Squared enables traders to evaluate market risks, predict security returns, and improve the reliability of their models.
@@ -136,4 +138,3 @@ For readers interested in expanding their understanding of R-squared, beta, and 
    - Websites like Investopedia and QuantStart frequently publish articles that break down complex financial terms and provide examples of how metrics like R-squared and beta are applied in algorithmic trading.
 
 These references collectively provide a well-rounded exploration of R-squared and beta, essential for anyone looking to deepen their knowledge in quantitative trading and enhance their trading models.
-

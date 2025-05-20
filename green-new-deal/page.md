@@ -1,6 +1,8 @@
 ---
-title: "Green New Deal (Algo Trading)"
-description: "Explore the synergy of the Green New Deal and algorithmic trading in shaping climate policies focusing on environmental sustainability and economic growth."
+category: quant_concept
+description: Explore the synergy of the Green New Deal and algorithmic trading in
+  shaping climate policies focusing on environmental sustainability and economic growth.
+title: Green New Deal (Algo Trading)
 ---
 
 The escalating urgency of addressing climate change has made climate policies a vital component of global political agendas. Nations worldwide are increasingly implementing comprehensive strategies to mitigate the adverse effects of climate change, emphasizing the significance of robust environmental legislation. Among such efforts, the Green New Deal emerges as a transformative piece of environmental legislation, proposing sweeping reforms to achieve net-zero greenhouse gas emissions and promote economic equity. Its comprehensive approach highlights a significant shift towards a sustainable future, focusing on reducing carbon footprints while addressing socio-economic disparities.

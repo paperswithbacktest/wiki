@@ -1,6 +1,9 @@
 ---
-title: "Capital market line (Algo Trading)"
-description: "Explore the optimal risk-return tradeoff with the Capital Market Line in modern portfolio theory Understand how algorithmic trading optimizes your investment strategy"
+category: quant_concept
+description: Explore the optimal risk-return tradeoff with the Capital Market Line
+  in modern portfolio theory Understand how algorithmic trading optimizes your investment
+  strategy
+title: Capital market line (Algo Trading)
 ---
 
 The Capital Market Line (CML) represents a cornerstone concept in financial markets, embodying the optimal relationship between expected return and risk. It is an integral part of Modern Portfolio Theory (MPT), introduced by Harry Markowitz, which provides a framework for assembling a portfolio of assets in such a way that it optimizes expected return for a given level of market risk. The CML specifically offers insights into the optimal risk-return tradeoff by connecting the risk-free rate of return with the expected return of the market portfolio through a straight line.
@@ -172,4 +175,3 @@ For investors operating in dynamic financial markets, understanding the CML is i
 12. **Python Libraries Documentation: NumPy, Pandas, and Scipy** – For practical implementations, the documentation of these Python libraries provides essential tools for calculations involving CML-related strategies in algorithmic trading.
 
 These resources will provide a comprehensive foundation for understanding the theoretical underpinnings and practical applications of the Capital Market Line, Capital Asset Pricing Model, and their intersections with modern computational finance practices like algorithmic trading.
-

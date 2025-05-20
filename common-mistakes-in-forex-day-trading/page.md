@@ -1,6 +1,11 @@
 ---
-title: "Common Mistakes in Forex Day Trading (Algo Trading)"
-description: "Discover common mistakes in forex day trading, including algorithmic strategies, and learn how to avoid them for enhanced trading success. This article highlights pitfalls like emotional trading, inadequate risk management, and technical errors. Gain insights into developing effective strategies and disciplined execution to navigate the volatile forex market."
+category: trading_strategy
+description: Discover common mistakes in forex day trading, including algorithmic
+  strategies, and learn how to avoid them for enhanced trading success. This article
+  highlights pitfalls like emotional trading, inadequate risk management, and technical
+  errors. Gain insights into developing effective strategies and disciplined execution
+  to navigate the volatile forex market.
+title: Common Mistakes in Forex Day Trading (Algo Trading)
 ---
 
 Day trading in the forex market has long been seen as a potential avenue for substantial profits, yet it inherently carries a significant degree of risk. The volatile nature of currency exchange rates offers numerous opportunities for profit, but it also exposes traders to potential losses. As the forex market operates 24 hours a day, this continuous activity can lead to swift and unpredictable changes in market conditions.

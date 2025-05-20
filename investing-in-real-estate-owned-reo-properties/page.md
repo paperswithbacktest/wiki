@@ -1,6 +1,9 @@
 ---
-title: "Investing in Real Estate Owned (REO) Properties (Algo Trading)"
-description: "Discover the benefits of investing in REO properties using algorithmic trading to strategically purchase distressed assets below market value and maximize returns."
+category: trading_strategy
+description: Discover the benefits of investing in REO properties using algorithmic
+  trading to strategically purchase distressed assets below market value and maximize
+  returns.
+title: Investing in Real Estate Owned (REO) Properties (Algo Trading)
 ---
 
 Real estate investing encompasses a wide array of opportunities, particularly when focusing on distressed properties. Among these, Real Estate Owned (REO) properties and foreclosure properties stand out as unique investment possibilities for both novice and seasoned investors. REO properties are those owned by lenders, typically banks, following an unsuccessful foreclosure auction. In contrast, foreclosure properties are in the process of being repossessed due to the owner's failure to keep up with mortgage payments. Both types offer the potential to acquire real estate below market value, appealing to investors willing to embrace the challenges associated with these properties.

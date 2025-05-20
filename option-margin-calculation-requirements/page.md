@@ -1,6 +1,8 @@
 ---
-title: "Option Margin: Calculation and Requirements (Algo Trading)"
-description: "Master option margin calculations in algorithmic trading to optimize strategies enhance returns and manage risks more effectively in competitive markets."
+category: quant_concept
+description: Master option margin calculations in algorithmic trading to optimize
+  strategies enhance returns and manage risks more effectively in competitive markets.
+title: 'Option Margin: Calculation and Requirements (Algo Trading)'
 ---
 
 In algorithmic trading, mastering option margin requirements is vital for effective risk management and enhancing the potential returns of trading strategies. This article examines how option margin calculations are integral to algorithmic trading. We will first clarify the fundamentals of option margin and how they differ from traditional stock trading margin. Option margins act as collateral necessary for carrying option positions, a key distinction from the leverage-focused stock margins. This collateral requirement is set by regulatory authorities to mitigate default risks associated with options.

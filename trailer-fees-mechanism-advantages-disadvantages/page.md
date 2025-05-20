@@ -1,6 +1,8 @@
 ---
-title: "Trailer Fees: Mechanism, Advantages, and Disadvantages (Algo Trading)"
-description: "Explore the intricacies of trailer fees in algo trading, including their mechanism, advantages, and drawbacks, to make informed investment decisions."
+category: quant_concept
+description: Explore the intricacies of trailer fees in algo trading, including their
+  mechanism, advantages, and drawbacks, to make informed investment decisions.
+title: 'Trailer Fees: Mechanism, Advantages, and Disadvantages (Algo Trading)'
 ---
 
 In today's dynamic financial world, options for investments abound. Among these options are investment funds, which play a crucial role in financial markets. Investment funds are vehicles that pool resources from multiple investors to invest in a diversified portfolio of assets, such as stocks, bonds, and other securities. They allow individual investors to access a range of investments they might not be able to afford individually. This pooling of resources is managed by professional fund managers who utilize their expertise to optimize returns for the investors, thereby achieving economies of scale and diversification.

@@ -1,6 +1,8 @@
 ---
-title: "Liar's Poker: Overview, Rules, and Strategies (Algo Trading)"
-description: "Discover Liar's Poker a strategic game fusing psychology and stats Intrigue awaits as you master rules and strategies linked to algo trading insights"
+category: trading_strategy
+description: Discover Liar's Poker a strategic game fusing psychology and stats Intrigue
+  awaits as you master rules and strategies linked to algo trading insights
+title: 'Liar''s Poker: Overview, Rules, and Strategies (Algo Trading)'
 ---
 
 Liar's Poker is an intriguing blend of strategy, psychology, and statistical reasoning, deeply embedded in Wall Street's trading culture. The game, popularized by Michael Lewis's semi-autobiographical book, embodies the competitive nature and risk-taking behavior that characterize financial markets. This article focuses on the intricacies of Liar's Poker, aiming to elucidate its rules, strategies, and its surprising connections to algorithmic trading.

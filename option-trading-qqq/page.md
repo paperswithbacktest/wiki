@@ -1,6 +1,13 @@
 ---
-title: "Option Trading with QQQ (Algo Trading)"
-description: The QQQ Wheel Strategy offers a novel approach to options trading through algorithmic methods with a focus on the Invesco QQQ Trust. It combines selling put and covered call options to generate income while benefiting from stock ownership, making it appealing for traders seeking systematic and adaptable strategies. This process, revolving around selling puts and acquiring shares to sell calls, enables consistent profit from market trends and leverages algorithmic efficiency to automate and optimize trading actions for improved results.
+category: trading_strategy
+description: The QQQ Wheel Strategy offers a novel approach to options trading through
+  algorithmic methods with a focus on the Invesco QQQ Trust. It combines selling put
+  and covered call options to generate income while benefiting from stock ownership,
+  making it appealing for traders seeking systematic and adaptable strategies. This
+  process, revolving around selling puts and acquiring shares to sell calls, enables
+  consistent profit from market trends and leverages algorithmic efficiency to automate
+  and optimize trading actions for improved results.
+title: Option Trading with QQQ (Algo Trading)
 ---
 
 The QQQ Wheel Strategy is an intriguing concept in algorithmic trading, offering a systematic approach to generating income through options on the Invesco QQQ Trust (QQQ), which tracks the Nasdaq-100 Index. This strategy combines elements of options trading and equity investment, allowing traders to potentially benefit from both premium collection and stock appreciation.

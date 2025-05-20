@@ -1,6 +1,8 @@
 ---
-title: "Open-Ended Investment Company: Overview and Functionality (Algo Trading)"
-description: "Explore the synergy between Open-Ended Investment Companies and algorithmic trading to understand how technology enhances investment flexibility and strategy."
+category: quant_concept
+description: Explore the synergy between Open-Ended Investment Companies and algorithmic
+  trading to understand how technology enhances investment flexibility and strategy.
+title: 'Open-Ended Investment Company: Overview and Functionality (Algo Trading)'
 ---
 
 Open-Ended Investment Companies (OEICs) play a pivotal role in the UK investment landscape, offering investors flexibility paired with diverse investment opportunities. As a type of investment fund domiciled in the UK, OEICs are structured to allow the creation and redemption of shares according to investor demand, providing a high degree of liquidity. This contrasts with closed-ended funds, where shares are fixed and traded on stock exchanges, potentially leading to discrepancies between the market price and the underlying asset value. OEICs are regulated by the Financial Conduct Authority (FCA), ensuring a level of investor protection and transparency. The daily calculation of an OEIC's net asset value (NAV) further guarantees that the share price accurately reflects the value of its underlying assets.

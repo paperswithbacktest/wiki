@@ -1,6 +1,8 @@
 ---
-title: "Angolan Novo Kwanza (Algo Trading)"
-description: "Discover the dynamics of the Angolan Kwanza and the rise of algorithmic trading. Explore how algo trading can optimize outcomes in Angola's volatile market."
+category: quant_concept
+description: Discover the dynamics of the Angolan Kwanza and the rise of algorithmic
+  trading. Explore how algo trading can optimize outcomes in Angola's volatile market.
+title: Angolan Novo Kwanza (Algo Trading)
 ---
 
 The Angolan Kwanza (AON) plays a crucial role in Angola's financial ecosystem, acting as the central pillar upon which much of the country's economic activity hinges. Since its inception, the Kwanza has undergone several transformations, reflecting Angola's complex socio-economic landscape. Understanding these changes is vital, not only for historical insight but also for grasping the current and future dynamics of Angolan currency trading.

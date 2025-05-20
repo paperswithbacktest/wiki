@@ -1,6 +1,8 @@
 ---
-title: "Sampling Errors in Statistics (Algo Trading)"
-description: "Explore sampling errors in statistics and their impact on algorithmic trading. Learn to identify, mitigate, and understand errors for robust trading models."
+category: quant_concept
+description: Explore sampling errors in statistics and their impact on algorithmic
+  trading. Learn to identify, mitigate, and understand errors for robust trading models.
+title: Sampling Errors in Statistics (Algo Trading)
 ---
 
 In the world of statistics, particularly in trading and finance, errors are inevitable. Statistical analysis is foundational in these fields, providing critical insights that drive decision-making and strategy development. However, the accuracy of these insights heavily relies on the quality of the underlying data. Errors, whether they arise during data collection, processing, or analysis, can significantly skew results, leading to potentially costly misjudgments in trading and investment contexts.

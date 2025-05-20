@@ -1,6 +1,9 @@
 ---
-title: "Make-to-Order (MTO) Manufacturing (Algo Trading)"
-description: "Explore the intersection of Make-to-Order manufacturing and algorithmic trading to enhance efficiency, customer satisfaction, and competitive advantage in modern markets."
+category: quant_concept
+description: Explore the intersection of Make-to-Order manufacturing and algorithmic
+  trading to enhance efficiency, customer satisfaction, and competitive advantage
+  in modern markets.
+title: Make-to-Order (MTO) Manufacturing (Algo Trading)
 ---
 
 Understanding the synergy between Make-to-Order (MTO) manufacturing and algorithmic trading can yield fascinating insights for businesses navigating modern markets. MTO manufacturing represents a custom production model that is crucial in industries where unique specifications determine value, providing tailored solutions to precisely meet customer demands. Such a model reduces waste and enhances flexibility by producing goods only after receiving confirmed orders, thereby aligning production schedules with actual market needs.

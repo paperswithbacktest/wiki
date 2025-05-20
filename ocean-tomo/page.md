@@ -1,6 +1,9 @@
 ---
-title: "Ocean Tomo (Algo Trading)"
-description: "Explore the intersection of intellectual property valuation and algorithmic trading to enhance your business strategy and investment decisions in the digital age."
+category: quant_concept
+description: Explore the intersection of intellectual property valuation and algorithmic
+  trading to enhance your business strategy and investment decisions in the digital
+  age.
+title: Ocean Tomo (Algo Trading)
 ---
 
 In the digital age, intellectual property (IP) has become a cornerstone of business value, particularly for companies rooted in technology and innovation. These intangible assets, which include patents, trademarks, and copyrights, offer substantial leverage in competitive markets. Effectively managing IP is crucial as it not only protects a company's innovations and brand identity but also enhances market positioning and revenue potential.

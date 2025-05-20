@@ -1,6 +1,9 @@
 ---
-title: "European Depositary Receipt: Overview and Functionality (Algo Trading)"
-description: "European Depositary Receipts (EDRs) allow European investors to access non-European stocks efficiently while algorithmic trading boosts market liquidity and reduces costs."
+category: quant_concept
+description: European Depositary Receipts (EDRs) allow European investors to access
+  non-European stocks efficiently while algorithmic trading boosts market liquidity
+  and reduces costs.
+title: 'European Depositary Receipt: Overview and Functionality (Algo Trading)'
 ---
 
 The global financial market offers a wide array of investment instruments, allowing investors to strategically diversify their portfolios across different regions and asset classes. Among these instruments, European Depositary Receipts (EDRs) serve as a key avenue for European investors seeking to invest in non-European companies. EDRs represent shares of companies outside Europe and enable investors to participate in the economic performance of these global enterprises without the need for cross-border currency transactions or direct dealings in foreign exchanges. This capability not only simplifies the investment process but also enhances the accessibility of international equities, aligning with the broader trend of globalization in capital markets.

@@ -1,6 +1,11 @@
 ---
-title: "Investment Guidelines for a $50,000 Annual Income (Algo Trading)"
-description: "Discover effective investment strategies tailored for a $50000 annual income through algorithmic trading. This guide provides insights into personal finance management budgeting and leveraging advanced financial technologies to optimize wealth growth. Learn how to navigate the complexities of modern markets and align investment choices with your unique risk profile and financial goals."
+category: trading_strategy
+description: Discover effective investment strategies tailored for a $50000 annual
+  income through algorithmic trading. This guide provides insights into personal finance
+  management budgeting and leveraging advanced financial technologies to optimize
+  wealth growth. Learn how to navigate the complexities of modern markets and align
+  investment choices with your unique risk profile and financial goals.
+title: Investment Guidelines for a $50,000 Annual Income (Algo Trading)
 ---
 
 In today's fast-paced financial world, managing personal finance and investment decisions can be overwhelming due to the sheer volume of information and the complexity of financial instruments. Individual investors often face challenges in discerning the most beneficial strategies to achieve their financial objectives amidst fluctuating markets and economic uncertainties. 

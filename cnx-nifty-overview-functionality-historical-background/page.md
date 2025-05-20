@@ -1,6 +1,8 @@
 ---
-title: "CNX Nifty: Overview, Functionality, and Historical Background (Algo Trading)"
-description: "Explore the CNX Nifty index and its role in the Indian stock market alongside the impact and strategies of algorithmic trading for informed investment decisions."
+category: quant_concept
+description: Explore the CNX Nifty index and its role in the Indian stock market alongside
+  the impact and strategies of algorithmic trading for informed investment decisions.
+title: 'CNX Nifty: Overview, Functionality, and Historical Background (Algo Trading)'
 ---
 
 The CNX Nifty, also known as the Nifty 50, is a benchmark stock market index representing the weighted average of 50 of the largest and most liquid Indian securities listed on the National Stock Exchange (NSE). Launched on April 22, 1996, it serves as a key indicator of the Indian equity market's performance and reflects the overall health of the Indian economy. The significance of the CNX Nifty lies in its comprehensive coverage of various sectors, providing investors and traders with a broad spectrum of the market's movements. It acts as a critical tool for investment decisions, portfolio management, and tracking market trends.

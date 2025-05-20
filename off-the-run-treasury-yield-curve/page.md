@@ -1,6 +1,8 @@
 ---
-title: "Off-The-Run Treasury Yield Curve (Algo Trading)"
-description: "Explore the intricacies of off-the-run Treasury yield curves and algorithmic trading to enhance your fixed-income investment strategies and portfolio performance."
+category: quant_concept
+description: Explore the intricacies of off-the-run Treasury yield curves and algorithmic
+  trading to enhance your fixed-income investment strategies and portfolio performance.
+title: Off-The-Run Treasury Yield Curve (Algo Trading)
 ---
 
 Treasury yield curves, off-the-run securities, and algorithmic trading in Treasury bonds are fundamental components of the financial markets, particularly within the fixed-income sector. Understanding these concepts is crucial for investors, as they impact decision-making processes and influence overall portfolio performance.

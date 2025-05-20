@@ -1,6 +1,9 @@
 ---
-title: "Current Portion of Long-Term Debt (Algo Trading)"
-description: "Understand the significance of CPLTD in financial statements and its impact on liquidity ratios Crucial for assessing short-term obligations and investment strategies"
+category: quant_concept
+description: Understand the significance of CPLTD in financial statements and its
+  impact on liquidity ratios Crucial for assessing short-term obligations and investment
+  strategies
+title: Current Portion of Long-Term Debt (Algo Trading)
 ---
 
 Understanding the Current Portion of Long-Term Debt (CPLTD) is fundamental for interpreting financial statements accurately. CPLTD refers to the segment of a company's long-term debt that is due within the forthcoming year and is a crucial indicator of a company's short-term financial obligations. It provides insight into the immediate debt repayment obligations that a company faces, which in turn affects liquidity ratios, such as the current ratio and the quick ratio. These ratios are essential for evaluating a company's financial stability in the short term, influencing both investor and creditor decisions.

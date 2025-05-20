@@ -1,6 +1,8 @@
 ---
-title: "Polarized Fractal Efficiency: Concept and Application (Algo Trading)"
-description: "Explore the innovative Polarized Fractal Efficiency indicator to enhance your algorithmic trading strategies by analyzing market trends and efficiency dynamics."
+category: quant_concept
+description: Explore the innovative Polarized Fractal Efficiency indicator to enhance
+  your algorithmic trading strategies by analyzing market trends and efficiency dynamics.
+title: 'Polarized Fractal Efficiency: Concept and Application (Algo Trading)'
 ---
 
 In the rapidly evolving world of algorithmic trading, the choice of indicators can significantly impact trading outcomes. Traders and analysts continually seek innovative methods to gain insights into market behavior and optimize their strategies. One such promising indicator is the Polarized Fractal Efficiency (PFE), which combines fractal geometry with price efficiency assessment to provide a nuanced understanding of market dynamics.

@@ -1,6 +1,12 @@
 ---
-title: "Restaurants & Food Delivery Alternative Data (Algo Trading)"
-description: Explore how alternative data can transform the restaurant and food delivery sectors by providing vital insights beyond traditional metrics. Learn how businesses can utilize data from sources like geo-location and social media to enhance strategic planning and customer satisfaction. Discover the benefits of incorporating alternative data into algorithmic trading to identify new opportunities and make informed decisions in a rapidly evolving market landscape.
+category: dataset
+description: Explore how alternative data can transform the restaurant and food delivery
+  sectors by providing vital insights beyond traditional metrics. Learn how businesses
+  can utilize data from sources like geo-location and social media to enhance strategic
+  planning and customer satisfaction. Discover the benefits of incorporating alternative
+  data into algorithmic trading to identify new opportunities and make informed decisions
+  in a rapidly evolving market landscape.
+title: Restaurants & Food Delivery Alternative Data (Algo Trading)
 ---
 
 The rise of the digital age has had a profound impact on various industries, notably transforming the restaurant and food delivery sectors. This transformation is primarily driven by the increasing accessibility and sophistication of technology, which has reshaped consumer expectations and competitive dynamics. As competition intensifies, businesses increasingly seek unique data insights to gain a competitive edge and better understand evolving market trends.

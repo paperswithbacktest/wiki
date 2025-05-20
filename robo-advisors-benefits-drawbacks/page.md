@@ -1,6 +1,8 @@
 ---
-title: "Robo-Advisors: Benefits and Drawbacks (Algo Trading)"
-description: "Explore the advantages and challenges of robo-advisors in financial management Discover how algorithmic trading transforms investment strategies."
+category: trading_strategy
+description: Explore the advantages and challenges of robo-advisors in financial management
+  Discover how algorithmic trading transforms investment strategies.
+title: 'Robo-Advisors: Benefits and Drawbacks (Algo Trading)'
 ---
 
 Financial technology, commonly referred to as fintech, encompasses the integration of technology into financial services, fundamentally transforming how these services are delivered and accessed. Fintech has significantly impacted the investment landscape by introducing innovative tools and platforms that enhance the efficiency, accessibility, and personalization of investment strategies.

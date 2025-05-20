@@ -1,6 +1,8 @@
 ---
-title: "Impact of Consumer Confidence on Economic Indicators (Algo Trading)"
-description: "Explore how consumer confidence impacts economic indicators and algorithmic trading enhancing prediction of market trends and optimizing trading strategies."
+category: quant_concept
+description: Explore how consumer confidence impacts economic indicators and algorithmic
+  trading enhancing prediction of market trends and optimizing trading strategies.
+title: Impact of Consumer Confidence on Economic Indicators (Algo Trading)
 ---
 
 Understanding economic indicators is pivotal for evaluating the overall health and robustness of an economy. These indicators provide insights into various dimensions of economic performance, such as growth, employment, and inflation, offering stakeholders critical data to base their decisions on. Among these indicators, consumer confidence plays a unique role as it reflects the optimism or pessimism of consumers regarding their financial situation and the general economic environment. High consumer confidence usually denotes increased consumer spending, which can lead to economic expansion. Conversely, low confidence may signal cautious behavior, often resulting in reduced spending and economic slowdown.

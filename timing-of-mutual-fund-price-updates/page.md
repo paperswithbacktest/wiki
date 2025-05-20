@@ -1,6 +1,9 @@
 ---
-title: "Timing of Mutual Fund Price Updates (Algo Trading)"
-description: "Explore the impact of algorithmic trading on mutual fund price updates and valuation. Discover insights to enhance investment strategies in this evolving landscape."
+category: quant_concept
+description: Explore the impact of algorithmic trading on mutual fund price updates
+  and valuation. Discover insights to enhance investment strategies in this evolving
+  landscape.
+title: Timing of Mutual Fund Price Updates (Algo Trading)
 ---
 
 In investing, it is essential for investors to remain updated on the latest trends and developments in mutual funds. Technology has brought significant advancements, with algorithmic trading and sophisticated fund valuation methods reshaping how mutual fund prices are updated and managed. 

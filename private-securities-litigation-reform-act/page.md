@@ -1,6 +1,9 @@
 ---
-title: "Private Securities Litigation Reform Act (Algo Trading)"
-description: "Explore the impact of the Private Securities Litigation Reform Act and algorithmic trading on securities litigation amidst evolving legal and financial landscapes."
+category: quant_concept
+description: Explore the impact of the Private Securities Litigation Reform Act and
+  algorithmic trading on securities litigation amidst evolving legal and financial
+  landscapes.
+title: Private Securities Litigation Reform Act (Algo Trading)
 ---
 
 The intersection of securities litigation, legal reforms, and algorithmic trading presents a crucial area of consideration in modern finance and law. This complex triad highlights significant challenges and opportunities that have transformed how financial markets operate. Key legislative measures, such as the Private Securities Litigation Reform Act (PSLRA), have been instrumental in shaping the legal landscape of securities litigation. Enacted in 1995, the PSLRA was designed to address and curb frivolous securities lawsuits by establishing stringent standards for filing claims related to securities fraud. This legislation sought to protect corporations from meritless legal disputes while ensuring that genuine cases of fraud were effectively addressed.

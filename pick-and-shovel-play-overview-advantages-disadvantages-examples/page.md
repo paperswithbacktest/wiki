@@ -1,6 +1,10 @@
 ---
-title: "Pick-and-Shovel Play: Overview, Advantages, Disadvantages, and Examples (Algo Trading)"
-description: "Discover the pick-and-shovel investment strategy explore its benefits and challenges and learn how it supports high-growth sectors with examples from algo trading."
+category: trading_strategy
+description: Discover the pick-and-shovel investment strategy explore its benefits
+  and challenges and learn how it supports high-growth sectors with examples from
+  algo trading.
+title: 'Pick-and-Shovel Play: Overview, Advantages, Disadvantages, and Examples (Algo
+  Trading)'
 ---
 
 The world of investing is as diverse as it is dynamic, offering strategies to suit every type of investor. Among the varied approaches, the 'pick-and-shovel play' has garnered significant attention for its innovative perspective on wealth creation. This strategy, inspired by the success stories of tool providers during the California Gold Rush, advocates investing in industries that support major developments rather than focusing solely on the end products themselves. By targeting ancillary services and products that facilitate burgeoning industries, investors can often find more stable opportunities that align with changing market needs.

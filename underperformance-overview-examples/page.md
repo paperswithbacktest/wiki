@@ -1,6 +1,8 @@
 ---
-title: "Underperformance: Overview and Examples (Algo Trading)"
-description: "Explore underperformance in algo trading through an in-depth overview and examples Learn how to identify correct and improve trading strategies effectively"
+category: trading_strategy
+description: Explore underperformance in algo trading through an in-depth overview
+  and examples Learn how to identify correct and improve trading strategies effectively
+title: 'Underperformance: Overview and Examples (Algo Trading)'
 ---
 
 Algorithmic trading, often referred to as algo trading, represents a significant shift in the way financial markets operate. This approach utilizes computer algorithms to execute trading orders at speeds and frequencies that are beyond human capabilities. By leveraging vast datasets and sophisticated statistical models, algo trading can optimize trade execution and seek out profitable opportunities more efficiently than traditional methods. The prevalence of algo trading has grown considerably, accounting for a large volume of trades in modern financial markets and reshaping market dynamics in the process.

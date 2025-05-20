@@ -1,6 +1,8 @@
 ---
-title: "Comparables in Financial Analysis (Algo Trading)"
-description: "Explore asset valuation techniques like Comparable Company Analysis and algorithmic trading to enhance your financial strategy and make informed decisions."
+category: quant_concept
+description: Explore asset valuation techniques like Comparable Company Analysis and
+  algorithmic trading to enhance your financial strategy and make informed decisions.
+title: Comparables in Financial Analysis (Algo Trading)
 ---
 
 In the fast-paced world of finance, professionals employ a variety of sophisticated techniques to assess the value of assets, make informed investment decisions, and optimize trading strategies. Asset valuation lies at the core of these endeavors, providing critical insights into both the intrinsic worth and the market perception of financial assets. This article focuses on three key areas in financial strategy: valuation methods, the use of comparables in financial analysis, and algorithmic trading.
@@ -195,4 +197,3 @@ As financial markets continue to evolve, the integration of traditional valuatio
 [8]: Jansen, S. (2020). ["Machine Learning for Algorithmic Trading: Predictive models to extract signals from market and alternative data for systematic trading strategies with Python."](https://www.amazon.com/Machine-Learning-Algorithmic-Trading-alternative/dp/1839217715) Packt Publishing.
 
 [9]: Murphy, J. J. (1999). ["Technical Analysis of the Financial Markets: A Comprehensive Guide to Trading Methods and Applications."](https://archive.org/details/technicalanalysi0000murp) Penguin.
-

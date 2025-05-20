@@ -1,6 +1,11 @@
 ---
-title: "George Washington Day / Presidents’ Day Holiday Effect Explained (Algo Trading)"
-description: Explore the intriguing influence of Presidents' Day on algorithmic trading strategies, as U.S. financial markets pause for this federal holiday. Analyze how traders adapt their algorithms to these unique market closures and investigate potential patterns or opportunities that may arise around this period to optimize trading performance.
+category: trading_strategy
+description: Explore the intriguing influence of Presidents' Day on algorithmic trading
+  strategies, as U.S. financial markets pause for this federal holiday. Analyze how
+  traders adapt their algorithms to these unique market closures and investigate potential
+  patterns or opportunities that may arise around this period to optimize trading
+  performance.
+title: George Washington Day / Presidents’ Day Holiday Effect Explained (Algo Trading)
 ---
 
 Presidents' Day, commemorated in the United States on the third Monday of February, carries significance that transcends its historical context. While primarily meant to honor the legacies of past U.S. presidents, such as George Washington and Abraham Lincoln, this federal holiday also influences the financial landscape, particularly affecting stock market operations. Notably, U.S. financial markets, including the New York Stock Exchange (NYSE) and Nasdaq, remain closed on Presidents' Day. This cessation of trading activities presents a unique scenario worth exploring, especially concerning trading strategies like algorithmic trading.

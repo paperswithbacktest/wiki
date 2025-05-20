@@ -1,6 +1,9 @@
 ---
-title: "Overview of the Securities Transfer Agents Medallion Program (Algo Trading)"
-description: "Explore the intersection of the Medallion Program and algorithmic trading highlighting their roles in ensuring secure and efficient financial transactions. Discover their impact on modern securities trading."
+category: quant_concept
+description: Explore the intersection of the Medallion Program and algorithmic trading
+  highlighting their roles in ensuring secure and efficient financial transactions.
+  Discover their impact on modern securities trading.
+title: Overview of the Securities Transfer Agents Medallion Program (Algo Trading)
 ---
 
 The financial industry has seen continuous evolution with the advent of significant innovations like the Medallion Program and algorithmic trading. These systems have become essential components in the financial markets, contributing to their security and efficiency.

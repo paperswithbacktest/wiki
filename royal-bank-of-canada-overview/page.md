@@ -1,6 +1,8 @@
 ---
-title: "Royal Bank of Canada Overview (Algo Trading)"
-description: "Explore the impact of algorithmic trading within the Canadian financial sector as it enhances efficiency and innovation, helping banks like RBC stay competitive."
+category: quant_concept
+description: Explore the impact of algorithmic trading within the Canadian financial
+  sector as it enhances efficiency and innovation, helping banks like RBC stay competitive.
+title: Royal Bank of Canada Overview (Algo Trading)
 ---
 
 The Canadian banking sector is a fundamental component of the national economy, crucially involved in furnishing both individuals and businesses with the financial services needed for growth and stability. This sector, known globally for its robustness and innovation, relies on its ability to adapt to technological advancements to maintain its competitive edge. One such technological advancement is algorithmic trading, often referred to simply as algo trading. This practice involves the use of complex algorithms and high-speed, automated systems to perform trading activities that traditionally would require human intervention. By analyzing vast quantities of data and executing trades with remarkable speed and precision, algorithmic trading optimizes the entire trading process.

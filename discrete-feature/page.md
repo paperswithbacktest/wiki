@@ -1,7 +1,8 @@
 ---
-title: Understanding Discrete Features in Machine Learning Models
+category: quant_concept
 description: Discrete features help classify data in machine learning through effective
   encoding of categories and improve model accuracy Discover more inside
+title: Understanding Discrete Features in Machine Learning Models
 ---
 
 ![Image](images/1.png)

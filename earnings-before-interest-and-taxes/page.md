@@ -1,6 +1,9 @@
 ---
-title: "Earnings Before Interest and Taxes (Algo Trading)"
-description: "Explore how Earnings Before Interest and Taxes (EBIT) enhances algorithmic trading by providing crucial insights into a company's operational efficiency, guiding investment strategies."
+category: quant_concept
+description: Explore how Earnings Before Interest and Taxes (EBIT) enhances algorithmic
+  trading by providing crucial insights into a company's operational efficiency, guiding
+  investment strategies.
+title: Earnings Before Interest and Taxes (Algo Trading)
 ---
 
 In today's fast-paced financial markets, understanding crucial financial metrics is essential for making informed investment decisions. Among these metrics, Earnings Before Interest and Taxes (EBIT) serves as a crucial indicator of a company's financial health, primarily focusing on its operational efficiency. By isolating earnings from the influences of capital costs and taxation, EBIT offers a clear perspective on how well a company performs in its core business activities. This clarity makes it indispensable for investors and traders alike, as they look to navigate the complex and rapidly changing market environments. 

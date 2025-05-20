@@ -1,6 +1,8 @@
 ---
-title: "Macro Risk: Definition, Function, and Effects (Algo Trading)"
-description: "Explore how algorithmic trading helps manage macro and economic risks, enhancing investment strategies with rapid data analysis and efficient trade execution."
+category: quant_concept
+description: Explore how algorithmic trading helps manage macro and economic risks,
+  enhancing investment strategies with rapid data analysis and efficient trade execution.
+title: 'Macro Risk: Definition, Function, and Effects (Algo Trading)'
 ---
 
 In the ever-evolving world of finance, risk management serves as a cornerstone for safeguarding investments. It is essential for traders and investors to account for macro risks—those that impact the economy at large, such as inflation rates, interest rates, and geopolitical events—and economic risks that stem from specific fiscal policies and currency stability within a particular country. The precise management of these risks ensures stability and profitability in financial markets.

@@ -1,6 +1,8 @@
 ---
-title: "Alternative Data in Trading (Algo Trading)"
-description: "Alternative data enhances algorithmic trading by offering insights into market trends through non-traditional sources like social media and satellite imagery."
+category: dataset
+description: Alternative data enhances algorithmic trading by offering insights into
+  market trends through non-traditional sources like social media and satellite imagery.
+title: Alternative Data in Trading (Algo Trading)
 ---
 
 The rapid evolution of trading strategies in recent years has been significantly influenced by the integration of alternative data as a transformative factor in algorithmic trading. Unlike traditional financial data, which primarily includes metrics such as stock prices, trading volumes, and financial statements, alternative data encompasses a broad range of non-conventional sources. These sources provide traders with new insights into market trends and dynamics, potentially leading to a competitive advantage.

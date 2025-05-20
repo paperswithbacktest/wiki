@@ -1,7 +1,8 @@
 ---
-title: Precision Recall Curve And AUPRC Explained For Imbalanced Data
+category: quant_concept
 description: Precision Recall Curve visualizes precision recall trade off on imbalanced
   data and AUPRC captures performance across thresholds Discover more inside
+title: Precision Recall Curve And AUPRC Explained For Imbalanced Data
 ---
 
 ![Image](images/1.png)

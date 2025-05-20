@@ -1,6 +1,8 @@
 ---
-title: "Developing and Managing a Forex Trading Strategy (Algo Trading)"
-description: "Explore the world of forex trading strategies and algorithmic trading techniques to enhance your trading skills and succeed in the dynamic forex market."
+category: trading_strategy
+description: Explore the world of forex trading strategies and algorithmic trading
+  techniques to enhance your trading skills and succeed in the dynamic forex market.
+title: Developing and Managing a Forex Trading Strategy (Algo Trading)
 ---
 
 The foreign exchange (Forex) market stands as the largest and most liquid financial market globally, characterized by its staggering daily trading volumes exceeding $6 trillion. This market operates on an international scale, offering vast opportunities for traders seeking profitable ventures. Unlike traditional stock markets, the forex market remains open 24 hours a day, five days a week, across various financial hubs like London, New York, Tokyo, and Sydney, facilitating continuous trading and liquidity.

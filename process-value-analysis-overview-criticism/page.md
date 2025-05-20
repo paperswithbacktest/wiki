@@ -1,6 +1,8 @@
 ---
-title: "Process Value Analysis: Overview and Criticism (Algo Trading)"
-description: "Discover how Process Value Analysis (PVA) enhances algorithmic trading by streamlining processes and optimizing trading algorithms for efficiency and profitability."
+category: quant_concept
+description: Discover how Process Value Analysis (PVA) enhances algorithmic trading
+  by streamlining processes and optimizing trading algorithms for efficiency and profitability.
+title: 'Process Value Analysis: Overview and Criticism (Algo Trading)'
 ---
 
 In today's fast-paced business environment, efficiency and the rapid delivery of goods or services are essential to maintaining a competitive edge. Companies continuously seek ways to optimize their operations to respond swiftly to market demands and technological advancements. Process Value Analysis (PVA) emerges as a powerful tool that businesses employ to streamline their internal processes by thoroughly evaluating each component for its contribution to the end value delivered to the customer.

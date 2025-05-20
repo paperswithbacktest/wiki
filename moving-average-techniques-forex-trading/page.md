@@ -1,6 +1,8 @@
 ---
-title: "Moving Average Techniques in Forex Trading (Algo Trading)"
-description: "Discover how moving average techniques and algorithmic trading can enhance forex trading strategies by identifying trends and improving market insights."
+category: trading_strategy
+description: Discover how moving average techniques and algorithmic trading can enhance
+  forex trading strategies by identifying trends and improving market insights.
+title: Moving Average Techniques in Forex Trading (Algo Trading)
 ---
 
 Forex trading, short for foreign exchange trading, involves the buying and selling of currencies on the global market. This type of trading is significant because it facilitates international trade and investment, by enabling currency conversion. Forex markets are the largest and most liquid in the world, with trillions of dollars exchanged daily. The primary goal of forex trading is to profit from the changes in currency pairs' prices, which makes the development and application of trading strategies a critical component for success.

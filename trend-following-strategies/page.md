@@ -1,9 +1,12 @@
 ---
-title: "Trend following strategies"
-description: Discover the concept and significance of trend following in trading, including how to identify trends through observation and technical indicators. Learn about short-term vs long-term trends and adapt your strategy accordingly. Understand the factors influencing trend formation and make informed decisions based on market momentum.
+category: trading_strategy
+description: Discover the concept and significance of trend following in trading,
+  including how to identify trends through observation and technical indicators. Learn
+  about short-term vs long-term trends and adapt your strategy accordingly. Understand
+  the factors influencing trend formation and make informed decisions based on market
+  momentum.
+title: Trend following strategies
 ---
-
-
 
 Trend following, a critical concept in trading, is based on the idea that financial markets move in trends – upward, downward, or sideways – over time. This strategy, widely regarded for its straightforwardness and efficacy, involves identifying and riding these market trends to capitalize on their momentum. It's not just about predicting future movements; instead, trend followers aim to react to current market movements and make decisions based on actual trends rather than forecasts or assumptions.
 

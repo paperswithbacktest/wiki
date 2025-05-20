@@ -1,6 +1,9 @@
 ---
-title: "Chinese Yuan Renminbi: Overview and History (Algo Trading)"
-description: "Explore the evolution of the Chinese Yuan Renminbi and its strategic role in global finance and algorithmic trading offering opportunities for savvy investors."
+category: quant_concept
+description: Explore the evolution of the Chinese Yuan Renminbi and its strategic
+  role in global finance and algorithmic trading offering opportunities for savvy
+  investors.
+title: 'Chinese Yuan Renminbi: Overview and History (Algo Trading)'
 ---
 
 The Chinese Yuan Renminbi (CNY) stands as a fundamental component of the global financial landscape. Recognized for its vital role in international trade and finance, the understanding of its history and its function in algorithmic trading is essential for investors worldwide. This article examines the CNY's evolution from its inception to its present-day role and explores its structural intricacies and trading dynamics.

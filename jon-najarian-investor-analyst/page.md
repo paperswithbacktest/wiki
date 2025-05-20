@@ -1,6 +1,8 @@
 ---
-title: "Jon Najarian: Investor and Analyst (Algo Trading)"
-description: "Explore the world of trading with Jon Najarian a respected figure in algorithmic trading and market analysis Learn about his influential financial strategies"
+category: trading_strategy
+description: Explore the world of trading with Jon Najarian a respected figure in
+  algorithmic trading and market analysis Learn about his influential financial strategies
+title: 'Jon Najarian: Investor and Analyst (Algo Trading)'
 ---
 
 In the fast-paced world of trading, few names stand out quite like Jon Najarian. A prominent figure in the financial markets, Najarian is recognized as a leading options trader, market analyst, and co-founder of several influential financial platforms. Over the decades, Najarian has established himself as a crucial voice in trading strategies and market analysis, notably in algorithmic trading, or algo trading. His insights and innovative strategies have helped shape the landscape of modern trading, enhancing the decision-making abilities of traders and investors.

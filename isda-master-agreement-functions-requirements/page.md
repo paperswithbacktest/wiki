@@ -1,6 +1,9 @@
 ---
-title: "ISDA Master Agreement: Functions and Requirements (Algo Trading)"
-description: "Explore the crucial interplay between the ISDA Master Agreement and algo trading in derivatives markets highlighting their roles in risk management and market efficiency."
+category: quant_concept
+description: Explore the crucial interplay between the ISDA Master Agreement and algo
+  trading in derivatives markets highlighting their roles in risk management and market
+  efficiency.
+title: 'ISDA Master Agreement: Functions and Requirements (Algo Trading)'
 ---
 
 Derivatives are fundamental components of the modern financial market, serving as vital instruments for risk management, price discovery, and market efficiency. These financial contracts derive their value from underlying assets, such as stocks, bonds, interest rates, or currencies, and are pivotal in enabling market participants to hedge against potential price volatility. By allowing traders and investors to manage exposure to financial risks more effectively, derivatives contribute to the stability and robustness of financial systems globally.

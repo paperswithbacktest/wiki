@@ -1,6 +1,8 @@
 ---
-title: "Full Stock: Definition, Mechanisms, and Examples (Algo Trading)"
-description: "Discover how inventory management and algorithmic trading systems enhance operational efficiency with data-driven strategies for resource management and trading."
+category: quant_concept
+description: Discover how inventory management and algorithmic trading systems enhance
+  operational efficiency with data-driven strategies for resource management and trading.
+title: 'Full Stock: Definition, Mechanisms, and Examples (Algo Trading)'
 ---
 
 In today's rapidly evolving financial landscape, inventory management and algorithmic trading have become crucial components for business success. As businesses strive to increase efficiency and maintain competitiveness, these two areas have gained prominence due to their ability to leverage data-driven approaches for managing resources and making informed decisions.

@@ -1,6 +1,9 @@
 ---
-title: "Financial Structure (Algo Trading)"
-description: "Explore how financial structure, capital structure, and algorithmic trading converge to enhance corporate finance strategies by optimizing capital allocation and managing risks."
+category: quant_concept
+description: Explore how financial structure, capital structure, and algorithmic trading
+  converge to enhance corporate finance strategies by optimizing capital allocation
+  and managing risks.
+title: Financial Structure (Algo Trading)
 ---
 
 Corporate finance is a multifaceted field that involves making crucial financial decisions essential for optimizing a company's financial health and maximizing its value. It encompasses various aspects that collectively contribute to a firm's overall financial strategy. A crucial component within this realm is understanding the financial structure, which is the mix of debt and equity employed by a company. This dynamic blend plays a significant role in shaping a firm's risk profile and influences its cost of capital, thereby affecting the company's ability to fund its operations and investments effectively.

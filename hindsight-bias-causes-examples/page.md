@@ -1,6 +1,9 @@
 ---
-title: "Hindsight Bias: Causes and Examples (Algo Trading)"
-description: "Explore hindsight bias and its effect on algorithmic trading. Understand how cognitive distortions shape trading decisions and learn strategies to mitigate them."
+category: quant_concept
+description: Explore hindsight bias and its effect on algorithmic trading. Understand
+  how cognitive distortions shape trading decisions and learn strategies to mitigate
+  them.
+title: 'Hindsight Bias: Causes and Examples (Algo Trading)'
 ---
 
 In finance and trading, cognitive biases can shape decision-making processes, often leading to errors and missed potential gains. A particularly relevant bias in this sphere is hindsight bias. This psychological phenomenon occurs when individuals, after an event has occurred, believe they had predicted or could have predicted the event's outcome. This false sense of predictability post-event can distort an individual’s assessment of past decisions, leading to misplaced confidence in their forecasting abilities.

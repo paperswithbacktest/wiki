@@ -1,6 +1,9 @@
 ---
-title: "Long-Legged Doji: Overview, Importance, and Trading Strategies (Algo Trading)"
-description: "Discover the significance of the Long-Legged Doji candlestick pattern in trading Identify key strategies and the role of algorithmic trading for market insights"
+category: trading_strategy
+description: Discover the significance of the Long-Legged Doji candlestick pattern
+  in trading Identify key strategies and the role of algorithmic trading for market
+  insights
+title: 'Long-Legged Doji: Overview, Importance, and Trading Strategies (Algo Trading)'
 ---
 
 Technical analysis is an essential component of trading, providing tools and techniques for predicting market movements and making informed decisions. Among the various methods employed, candlestick patterns are prominent for offering insights into market sentiment and identifying potential reversals. A notable candlestick pattern is the Long-Legged Doji, recognized for its distinctive structure and significant implications.

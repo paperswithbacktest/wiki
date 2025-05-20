@@ -1,6 +1,9 @@
 ---
-title: "Silver Standard: Definition, Mechanism, and Examples (Algo Trading)"
-description: "Explore the role of the silver standard in monetary systems and its historical impact, alongside the advancements and influence of algorithmic trading in modern finance."
+category: quant_concept
+description: Explore the role of the silver standard in monetary systems and its historical
+  impact, alongside the advancements and influence of algorithmic trading in modern
+  finance.
+title: 'Silver Standard: Definition, Mechanism, and Examples (Algo Trading)'
 ---
 
 In today's rapidly evolving financial landscape, understanding the interconnected elements of monetary systems, the silver standard, and algorithmic trading is crucial. The complexity of these components defines the backbone of our modern economic world, influencing how financial transactions are conducted and how markets operate. Monetary systems, which involve the institutions, rules, and regulations managing a nation's currency and money supply, serve as the foundation upon which economic stability and growth are built. A deep knowledge of these systems is essential in discerning current economic trends and the impact of policy changes.

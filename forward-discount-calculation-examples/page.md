@@ -1,6 +1,8 @@
 ---
-title: "Forward Discount Calculation and Examples (Algo Trading)"
-description: "Explore the role of forward discounts in algorithmic trading and currency exchange Understand how calculations and interest rate differentials inform trades"
+category: quant_concept
+description: Explore the role of forward discounts in algorithmic trading and currency
+  exchange Understand how calculations and interest rate differentials inform trades
+title: Forward Discount Calculation and Examples (Algo Trading)
 ---
 
 In the growing field of algorithmic trading, understanding the nuances of financial calculations in currency exchange is crucial. Algorithmic trading, which utilizes advanced mathematical models and sophisticated software to automate trading decisions, relies heavily on accurate financial computations to capitalize on market fluctuations. One such critical concept in this domain is the forward discount.

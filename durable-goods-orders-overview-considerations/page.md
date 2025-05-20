@@ -1,6 +1,9 @@
 ---
-title: "Durable Goods Orders: Overview and Considerations (Algo Trading)"
-description: "Explore the significance of Durable Goods Orders in economic analysis and algo trading These reports provide insights into manufacturing trends and economic forecasting"
+category: quant_concept
+description: Explore the significance of Durable Goods Orders in economic analysis
+  and algo trading These reports provide insights into manufacturing trends and economic
+  forecasting
+title: 'Durable Goods Orders: Overview and Considerations (Algo Trading)'
 ---
 
 The economic landscape is deeply intertwined with a variety of key indicators that facilitate a comprehensive understanding of market dynamics and forecasting economic growth. Among these indicators, the Durable Goods Orders report stands out as a critical tool for economists, investors, and policymakers. This report, regularly compiled by the U.S. Census Bureau, provides invaluable insights into the health of the manufacturing sector, a pivotal component of the economy. 

@@ -1,6 +1,8 @@
 ---
-title: "Hydrocarbons: Companies, Types, and Uses (Algo Trading)"
-description: "Explore the role of hydrocarbons in energy production and the impact of algorithmic trading in optimizing the financial landscape for energy companies."
+category: quant_concept
+description: Explore the role of hydrocarbons in energy production and the impact
+  of algorithmic trading in optimizing the financial landscape for energy companies.
+title: 'Hydrocarbons: Companies, Types, and Uses (Algo Trading)'
 ---
 
 In the modern economic landscape, hydrocarbons and algorithmic trading have established themselves as essential components for energy production and financial optimization, respectively. Hydrocarbons, which primarily consist of carbon and hydrogen atoms, are critical chemical compounds that form the backbone of major fuel sources such as oil, natural gas, and coal. Their role extends beyond mere combustion for energy; hydrocarbons are also the building blocks for a multitude of chemical derivatives, including plastics and solvents, crucial to many industrial sectors.

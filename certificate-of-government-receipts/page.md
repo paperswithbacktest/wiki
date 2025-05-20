@@ -1,6 +1,9 @@
 ---
-title: "Certificate of Government Receipts (Algo Trading)"
-description: "Explore the dynamics of modern financial markets with insights into government receipts, securities, and the transformative role of algorithmic trading for market stability."
+category: quant_concept
+description: Explore the dynamics of modern financial markets with insights into government
+  receipts, securities, and the transformative role of algorithmic trading for market
+  stability.
+title: Certificate of Government Receipts (Algo Trading)
 ---
 
 Financial instruments, government receipts, and government finance are integral components of global economic systems. These elements form the backbone of financial markets, facilitating capital flow, supporting economic development, and ensuring the effective functioning of governments. Financial instruments, such as stocks, bonds, and derivatives, allow for the trading of capital and risk, providing mechanisms for wealth creation and risk management.

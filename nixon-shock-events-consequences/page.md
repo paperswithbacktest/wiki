@@ -1,6 +1,8 @@
 ---
-title: "Nixon Shock: Events and Consequences (Algo Trading)"
-description: "Explore the shift from the Bretton Woods System through the Nixon Shock of 1971 to the rise of algorithmic trading and its impact on modern financial markets."
+category: quant_concept
+description: Explore the shift from the Bretton Woods System through the Nixon Shock
+  of 1971 to the rise of algorithmic trading and its impact on modern financial markets.
+title: 'Nixon Shock: Events and Consequences (Algo Trading)'
 ---
 
 The "Nixon Shock," the "Bretton Woods System," and "Algorithmic Trading" are three pivotal elements in the narrative of global economic history and modern financial innovation. The Nixon Shock refers to a series of economic measures undertaken by U.S. President Richard Nixon in 1971, most notably the unilateral suspension of the U.S. dollar's convertibility into gold. This move effectively dismantled the Bretton Woods System, a financial order established in 1944 designed to promote international monetary cooperation and stability in the post-World War II era. The Bretton Woods System was characterized by fixed exchange rates pegged to the U.S. dollar, which was, in turn, convertible to gold, thereby instituting a form of the gold standard.

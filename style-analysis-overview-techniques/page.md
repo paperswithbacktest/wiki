@@ -1,6 +1,8 @@
 ---
-title: "Style Analysis: Overview and Techniques (Algo Trading)"
-description: "Explore the dynamic world of investment focusing on style analysis and algorithmic trading to enhance portfolio management and optimize financial strategies."
+category: trading_strategy
+description: Explore the dynamic world of investment focusing on style analysis and
+  algorithmic trading to enhance portfolio management and optimize financial strategies.
+title: 'Style Analysis: Overview and Techniques (Algo Trading)'
 ---
 
 The financial world is ever-evolving, requiring investors to maintain a comprehensive understanding of various investment components to navigate it effectively. Investment strategies, style analysis, portfolio management, and algorithmic trading are pivotal elements that investors must master. Each of these components plays a distinct role in shaping financial success, yet they synergize effectively to form a cohesive strategy.
@@ -197,4 +199,3 @@ By leveraging these interconnected components, investors are better equipped to 
    - edX's "Algorithmic Trading and Computational Finance" course is designed for those looking to understand the mathematical underpinnings and practical applications of algorithmic trading.
 
 These resources are recommended for investors aiming to expand their understanding of contemporary investment strategies, enhance their financial planning skills, and explore the dynamic field of algorithmic trading.
-

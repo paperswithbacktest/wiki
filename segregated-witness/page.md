@@ -1,6 +1,10 @@
 ---
-title: "Segregated Witness (Algo Trading)"
-description: "Explore how Segregated Witness impacts Bitcoin's scalability by increasing transaction efficiency and reducing fees. Discover its role in advancing algorithmic trading and the Lightning Network as it addresses key challenges and enhances transaction security and throughput."
+category: quant_concept
+description: Explore how Segregated Witness impacts Bitcoin's scalability by increasing
+  transaction efficiency and reducing fees. Discover its role in advancing algorithmic
+  trading and the Lightning Network as it addresses key challenges and enhances transaction
+  security and throughput.
+title: Segregated Witness (Algo Trading)
 ---
 
 Scalability and transaction efficiency are crucial challenges in the Bitcoin network, which is designed to be a decentralized and transparent ledger. Bitcoin's architecture, while revolutionary, became constrained by its original block size limit of 1 MB, leading to congestion and increased transaction fees during periods of high demand. This limitation has prompted innovations aimed at optimizing the network's capacity without compromising its core principles of decentralization and security. Segregated Witness (SegWit) emerged as a notable solution implemented to enhance Bitcoin's scalability and efficiency. SegWit modifies the transaction data storage and validation process by separating signature data from transaction data, effectively allowing more transactions to fit within a block and addressing the issue of transaction malleability – a problem wherein transaction IDs could be altered before confirmation without affecting the transaction itself.

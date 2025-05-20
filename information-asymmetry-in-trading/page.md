@@ -1,6 +1,9 @@
 ---
-title: "Information asymmetry in trading (Algo Trading)"
-description: "Explore how information asymmetry impacts algorithmic trading dynamics and market efficiency, highlighting its role, challenges, and implications in financial markets."
+category: quant_concept
+description: Explore how information asymmetry impacts algorithmic trading dynamics
+  and market efficiency, highlighting its role, challenges, and implications in financial
+  markets.
+title: Information asymmetry in trading (Algo Trading)
 ---
 
 In today's fast-paced trading environment, information asymmetry plays a crucial role in shaping the dynamics of financial markets. This concept refers to a situation where one party in a transaction possesses more or superior information compared to another. In financial markets, this imbalance can significantly affect decision-making, trading outcomes, and overall market efficiency.

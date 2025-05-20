@@ -1,6 +1,9 @@
 ---
-title: "Shareholder Value Transfer (Algo Trading)"
-description: "understood and executed. By optimizing trading strategies and minimizing errors, algorithmic trading plays a crucial role in enhancing shareholder value and market efficiency."
+category: quant_concept
+description: understood and executed. By optimizing trading strategies and minimizing
+  errors, algorithmic trading plays a crucial role in enhancing shareholder value
+  and market efficiency.
+title: Shareholder Value Transfer (Algo Trading)
 ---
 
 The modern corporate finance landscape is undergoing significant transformation due to technological advancements and changing market dynamics. These changes are influencing key elements such as Shareholder Value Transfer (SVT), shareholder value, and algorithmic trading. Each of these components plays a vital role in shaping corporate strategies and enhancing shareholder returns. 
@@ -106,4 +109,3 @@ Looking ahead, future trends in corporate finance are likely to emphasize the st
 9. Bodie, Z., Kane, A., & Marcus, A. J. (2019). *Investments*. McGraw-Hill Education. A detailed exploration of investment theories and practices, including the interplay between market forces and corporate finance strategies.
 
 10. "The Future of Corporate Finance" (2023). Harvard Business Review. [HBR Article on Corporate Finance Trends](https://hbr.org/2023/01/the-future-of-corporate-finance). The article predicts future trends in corporate finance, emphasizing the strategic importance of integrating technology to enrich shareholder value and operational efficiency.
-

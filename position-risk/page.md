@@ -1,6 +1,13 @@
 ---
-title: "Position risk (Algo Trading)"
-description: Discover the critical role of position risk management in algorithmic trading, focusing on strategies to minimize financial losses and enhance trading efficiency. Learn how to balance capital allocation across trades to mitigate market volatility, protect against systemic risks, and optimize trading performance using quantitative models and simulations. Explore the significance of leveraging, market depth, and asset correlation in effective risk management, ensuring informed decision-making for sustained profitability in the fast-paced trading environment.
+category: trading_strategy
+description: Discover the critical role of position risk management in algorithmic
+  trading, focusing on strategies to minimize financial losses and enhance trading
+  efficiency. Learn how to balance capital allocation across trades to mitigate market
+  volatility, protect against systemic risks, and optimize trading performance using
+  quantitative models and simulations. Explore the significance of leveraging, market
+  depth, and asset correlation in effective risk management, ensuring informed decision-making
+  for sustained profitability in the fast-paced trading environment.
+title: Position risk (Algo Trading)
 ---
 
 In the fast-paced world of algorithmic trading, managing risk is crucial for sustaining profitability and minimizing losses. Algorithmic trading, which uses sophisticated mathematical models to automate trading strategies, heavily relies on the effective management of position risk. Position risk involves the strategic allocation of capital across trades to tackle market volatility effectively. This allocation is fundamental to safeguarding assets against sudden market shifts that can lead to significant financial losses.

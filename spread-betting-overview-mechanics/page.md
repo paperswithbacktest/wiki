@@ -1,6 +1,9 @@
 ---
-title: "Spread Betting: Overview and Mechanics (Algo Trading)"
-description: "Explore the dynamics of spread betting and algorithmic trading to enhance your trading strategies with flexibility, leverage, and precise automation for improved profitability."
+category: quant_concept
+description: Explore the dynamics of spread betting and algorithmic trading to enhance
+  your trading strategies with flexibility, leverage, and precise automation for improved
+  profitability.
+title: 'Spread Betting: Overview and Mechanics (Algo Trading)'
 ---
 
 In the ever-evolving world of financial markets, traders constantly seek innovative ways to gain an edge. Two such prominent methods are spread betting and algorithmic trading. Spread betting involves speculating on the price movements of financial instruments without owning the underlying assets, allowing for high leverage and potential tax advantages in certain jurisdictions. On the other hand, algorithmic trading employs computer algorithms to execute trades swiftly based on predefined criteria, optimizing trading strategies through speed and precision.

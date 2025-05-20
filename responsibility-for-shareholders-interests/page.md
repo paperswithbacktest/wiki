@@ -1,6 +1,8 @@
 ---
-title: "Responsibility for Shareholders' Interests (Algo Trading)"
-description: "Explore the interplay between shareholder interests, corporate responsibility, and algo trading in today's financial markets to gain insights on market dynamics."
+category: quant_concept
+description: Explore the interplay between shareholder interests, corporate responsibility,
+  and algo trading in today's financial markets to gain insights on market dynamics.
+title: Responsibility for Shareholders' Interests (Algo Trading)
 ---
 
 The financial landscape is undergoing significant transformation as shareholder interests, corporate responsibility, and algorithmic trading converge, reshaping traditional market dynamics. Grasping the interaction among these elements is vital for various stakeholders, including shareholders, corporate management, and regulatory bodies, who must adapt to these changes to ensure effective governance and competitive advantage.
@@ -148,4 +150,3 @@ In conclusion, the future of investments lies in the harmonious integration of s
 9. Barberis, N., & Thaler, R. (2003). "A Survey of Behavioral Finance." This review provides an overview of the behavioral aspects influencing stock markets, including insights into how algorithmic trading strategies can be affected by investor psychology. [Handbook of the Economics of Finance, 1-B, 1053-1128](https://doi.org/10.1016/S1574-0102(03)01027-6).
 
 10. Hasbrouck, J., & Saar, G. (2013). "Low-Latency Trading." This research paper examines the role and impact of low-latency, high-frequency trading in financial markets, providing empirical data on its benefits and risks. [Journal of Financial Markets, 16(4), 646-679](https://doi.org/10.1016/j.finmar.2013.06.006).
-

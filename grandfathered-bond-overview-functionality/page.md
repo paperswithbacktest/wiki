@@ -1,6 +1,8 @@
 ---
-title: "Grandfathered Bond: Overview and Functionality (Algo Trading)"
-description: "Explore how grandfathered bonds combine with algorithmic trading for optimized financial strategies offering reliable income, stability, and market dynamics."
+category: quant_concept
+description: Explore how grandfathered bonds combine with algorithmic trading for
+  optimized financial strategies offering reliable income, stability, and market dynamics.
+title: 'Grandfathered Bond: Overview and Functionality (Algo Trading)'
 ---
 
 In the complex world of finance, understanding both bonds and algorithmic trading is crucial for modern investors. Bonds are well-regarded for their role in providing stability through fixed-income returns. They act as a cornerstone in diversified portfolios by offering regular interest payments and preserving capital until maturity. This characteristic makes them an appealing choice for risk-averse investors seeking reliable income streams.
@@ -174,4 +176,3 @@ Gomber, P., et al. (2011). *High-Frequency Trading.* In Market Engineering. This
 De Prado, M. L. (2018). *Advances in Financial Machine Learning*. Wiley. This work is pivotal for those interested in applying [machine learning](/wiki/machine-learning) techniques to finance. It introduces innovations in data processing, predictive modeling, and strategy formulation. The book includes practical examples and code, focusing on improving financial forecasts and algorithmic trading strategies through machine learning.
 
 Chan, E. P. (2009). *Quantitative Trading: How to Build Your Own Algorithmic Trading Business*. Wiley Trading. This guide is essential for anyone aiming to enter algorithmic trading. It offers a detailed framework for developing and deploying [quantitative trading](/wiki/quantitative-trading) strategies, including risk management and execution. With a focus on Python, it gives practical guidance on infrastructure, strategies, and the business aspects of launching a trading venture.
-

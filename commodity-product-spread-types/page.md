@@ -1,6 +1,9 @@
 ---
-title: "Commodity-Product Spread and Types (Algo Trading)"
-description: "Discover the intricacies of commodity-product spread trading and learn how algorithmic trading optimizes strategic execution for enhanced profits and reduced risks."
+category: trading_strategy
+description: Discover the intricacies of commodity-product spread trading and learn
+  how algorithmic trading optimizes strategic execution for enhanced profits and reduced
+  risks.
+title: Commodity-Product Spread and Types (Algo Trading)
 ---
 
 Commodity spread trading is a strategy employed by traders to exploit price differences between related financial instruments, typically within the same market sector. This practice aims to generate profits by leveraging the price discrepancies that arise due to supply and demand, seasonal trends, or macroeconomic factors. A fundamental aspect of commodity spread trading is the simultaneous buying and selling of two related contracts or instruments, a technique designed to neutralize market movements while capitalizing on the relative price changes between the two positions.
@@ -210,4 +213,3 @@ In conclusion, the combination of traditional spread trading techniques with mod
    - **QuantConnect Forum:** Hosted by a quantitative algorithmic trading platform, this forum offers discussions about spread trading algorithms, as well as detailed tutorials and code sharing.
 
 These resources, both traditional ([books](/wiki/algo-trading-books) and articles) and modern (online forums and interactive platforms), offer traders plenty of opportunities for expanding their knowledge and refining their approach to commodity spread trading and algorithmic strategies. Engaging with dynamic and knowledgeable communities further enhances the practical understanding necessary for successful trading.
-

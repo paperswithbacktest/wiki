@@ -1,6 +1,11 @@
 ---
-title: "Impact of SEC Regulations on Cryptocurrency Markets (Algo Trading)"
-description: "Explore how the U.S. Securities and Exchange Commission's regulations impact cryptocurrency markets, emphasizing their role in maintaining market integrity and investor protection. Discover the balance between fostering innovation and ensuring security, particularly concerning algorithmic trading practices, within this evolving financial landscape."
+category: quant_concept
+description: Explore how the U.S. Securities and Exchange Commission's regulations
+  impact cryptocurrency markets, emphasizing their role in maintaining market integrity
+  and investor protection. Discover the balance between fostering innovation and ensuring
+  security, particularly concerning algorithmic trading practices, within this evolving
+  financial landscape.
+title: Impact of SEC Regulations on Cryptocurrency Markets (Algo Trading)
 ---
 
 The financial landscape is undergoing a transformative shift with the emergence and growing prominence of cryptocurrencies. Digital currencies such as Bitcoin, Ethereum, and a multitude of altcoins have catalyzed new possibilities for financial transactions, investments, and technological advancements. Amidst this digital revolution, the U.S. Securities and Exchange Commission (SEC) has emerged as a pivotal entity in facilitating and regulating this emerging sector. The SEC's influence is critical in providing a structured regulatory framework that seeks to uphold market integrity, protect investors, and deter fraudulent activities.

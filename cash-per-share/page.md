@@ -1,6 +1,9 @@
 ---
-title: "Cash Per Share (Algo Trading)"
-description: "Discover how Cash Per Share enhances investment strategies by providing insight into liquidity and operational potential, intersecting with algorithmic trading."
+category: quant_concept
+description: Discover how Cash Per Share enhances investment strategies by providing
+  insight into liquidity and operational potential, intersecting with algorithmic
+  trading.
+title: Cash Per Share (Algo Trading)
 ---
 
 In today's rapidly evolving financial landscape, investors are increasingly looking for innovative ways to analyze and optimize their investments. This search for more effective strategies has led to a growing emphasis on financial metrics that play a crucial role in guiding investment decisions and assessing a company's health. Among these metrics, Cash Per Share (CPS) has gained attention for its ability to provide insight into a company's liquidity and overall financial strength.

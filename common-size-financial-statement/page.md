@@ -1,6 +1,9 @@
 ---
-title: "Common Size Financial Statement (Algo Trading)"
-description: "Explore how financial statements, common size analysis, and algorithmic trading synergize to optimize financial strategies, enhancing decision-making in modern finance."
+category: quant_concept
+description: Explore how financial statements, common size analysis, and algorithmic
+  trading synergize to optimize financial strategies, enhancing decision-making in
+  modern finance.
+title: Common Size Financial Statement (Algo Trading)
 ---
 
 Financial statements, common size analysis, and algorithmic trading are three critical elements shaping the landscape of modern finance. Financial statements serve as foundational documents in financial analysis, providing a structured summary of a company's financial position and performance over a specific period. Typically comprising the balance sheet, income statement, and cash flow statement, these documents are essential for stakeholders such as investors, regulatory bodies, and internal management to assess a company's health and make informed decisions.
@@ -278,4 +281,3 @@ The interplay between financial statements, common-size analysis, and algorithmi
      print(df_common_size.head())
      ```
    - Invest in learning machine learning techniques with platforms like DataCamp or Kaggle to design and optimize trading algorithms, enhancing the potential of automated strategies in financial markets.
-

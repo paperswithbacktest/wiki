@@ -1,6 +1,9 @@
 ---
-title: "Universal Health Coverage Overview (Algo Trading)"
-description: "Explore the dynamics of universal health coverage systems worldwide and their financial implications with a focus on accessibility affordability and public health outcomes."
+category: quant_concept
+description: Explore the dynamics of universal health coverage systems worldwide and
+  their financial implications with a focus on accessibility affordability and public
+  health outcomes.
+title: Universal Health Coverage Overview (Algo Trading)
 ---
 
 The interplay among healthcare systems, health coverage, and universal healthcare represents a multifaceted and essential area of exploration. With persistent discussions regarding the accessibility and affordability of healthcare, comprehending the variations in healthcare system models becomes imperative. This understanding allows for informed decisions regarding policy-making and implementation strategies that strive to balance equity and efficiency in healthcare delivery. 

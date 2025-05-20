@@ -1,6 +1,8 @@
 ---
-title: "Debt-to-EBITDA Ratio Overview and Calculation (Algo Trading)"
-description: "Discover the impact of the Debt-to-EBITDA ratio in algorithmic trading and financial health analysis. Learn its calculation and significance for investors."
+category: quant_concept
+description: Discover the impact of the Debt-to-EBITDA ratio in algorithmic trading
+  and financial health analysis. Learn its calculation and significance for investors.
+title: Debt-to-EBITDA Ratio Overview and Calculation (Algo Trading)
 ---
 
 The financial world is full of metrics that help assess the fiscal health of companies. Among these metrics, the Debt-to-EBITDA ratio stands out as a significant indicator of a company's financial leverage. It provides a snapshot of a firm's ability to manage its debts relative to its earnings, excluding interest, taxes, depreciation, and amortization (EBITDA). This ratio is widely used by analysts, investors, and lenders to evaluate the financial health and creditworthiness of a business.

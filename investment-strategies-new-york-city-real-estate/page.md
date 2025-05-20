@@ -1,6 +1,8 @@
 ---
-title: "Investment Strategies in New York City Real Estate (Algo Trading)"
-description: "Explore strategic investment approaches in NYC real estate including algorithmic trading to optimize returns in this competitive urban market."
+category: trading_strategy
+description: Explore strategic investment approaches in NYC real estate including
+  algorithmic trading to optimize returns in this competitive urban market.
+title: Investment Strategies in New York City Real Estate (Algo Trading)
 ---
 
 New York City's real estate market stands as one of the most attractive yet challenging areas for investment globally. Known for its iconic skyline and dense urban landscape, the city's real estate offers both potential high returns and significant barriers to entry due to escalating property prices. This confluence of opportunity and challenge makes NYC a focal point for investors worldwide, who are drawn to the city's lucrative prospects in both commercial and residential sectors.

@@ -1,6 +1,8 @@
 ---
-title: "Investment Portfolio Strategies for Climate Change Adaptation (Algo Trading)"
-description: "Explore how investors can integrate climate change adaptation into portfolios using algorithmic trading to boost resilience and capture sustainable opportunities."
+category: trading_strategy
+description: Explore how investors can integrate climate change adaptation into portfolios
+  using algorithmic trading to boost resilience and capture sustainable opportunities.
+title: Investment Portfolio Strategies for Climate Change Adaptation (Algo Trading)
 ---
 
 Climate change is undeniably one of the most critical issues facing the world today, with wide-ranging implications not only for the environment but also for global economic stability. The shift in weather patterns, increasing frequency of extreme weather events, and rising sea levels are just some of the manifestations of climate change that threaten ecosystems and human societies alike. These environmental changes pose new challenges and risks to the global economy, impacting everything from agriculture to infrastructure, and creating volatility in financial markets.

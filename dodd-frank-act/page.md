@@ -1,6 +1,8 @@
 ---
-title: "Dodd-Frank Act (Algo Trading)"
-description: "Explore the impact of the Dodd-Frank Act on financial markets focusing on consumer protection measures and the regulation of algorithmic trading practices."
+category: quant_concept
+description: Explore the impact of the Dodd-Frank Act on financial markets focusing
+  on consumer protection measures and the regulation of algorithmic trading practices.
+title: Dodd-Frank Act (Algo Trading)
 ---
 
 The Dodd-Frank Wall Street Reform and Consumer Protection Act, enacted in 2010, represents a pivotal response to the critical vulnerabilities and systemic failures exposed during the 2008 financial crisis. Aimed at comprehensive financial reform, the Act was crafted to reinforce the stability and integrity of the United States financial system. Central to this legislation is its commitment to enhancing consumer protection, restructuring financial markets, and addressing the complexities of algorithmic trading.

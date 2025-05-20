@@ -1,6 +1,8 @@
 ---
-title: "Evaluation of IronFX (Algo Trading)"
-description: "Explore the strengths of IronFX in algorithmic trading with our in-depth review Discover features educational resources and account options for traders"
+category: trading_strategy
+description: Explore the strengths of IronFX in algorithmic trading with our in-depth
+  review Discover features educational resources and account options for traders
+title: Evaluation of IronFX (Algo Trading)
 ---
 
 Forex trading continues to be a popular venture for both individual and institutional investors across the globe. As a highly liquid and dynamic market, forex trading offers substantial opportunities for profit but also presents considerable risks. Therefore, the choice of a forex trading broker can significantly impact the success of a trader, making it crucial to choose a trustworthy and efficient platform. 

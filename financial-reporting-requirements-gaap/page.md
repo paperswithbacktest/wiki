@@ -1,6 +1,9 @@
 ---
-title: "Financial Reporting Requirements Under GAAP (Algo Trading)"
-description: "Explore how GAAP integrates with algorithmic trading to enhance transparency and consistency in financial reporting a crucial aspect for investor confidence and market efficiency."
+category: quant_concept
+description: Explore how GAAP integrates with algorithmic trading to enhance transparency
+  and consistency in financial reporting a crucial aspect for investor confidence
+  and market efficiency.
+title: Financial Reporting Requirements Under GAAP (Algo Trading)
 ---
 
 The integration of financial reporting standards such as Generally Accepted Accounting Principles (GAAP) with algorithmic trading marks a pivotal advancement within the financial industry. GAAP plays an essential role in ensuring transparency and consistency across financial documentation, which is vital for maintaining investor confidence and aiding informed decision-making. As trading environments evolve, incorporating robust reporting standards has become increasingly important to uphold the integrity of financial statements.
@@ -118,4 +121,3 @@ The strategic integration of accounting standards with algorithmic trading techn
 4. **Handbook of High-Frequency Trading** edited by Greg N. Gregoriou - This handbook provides an exploration of high-frequency trading, encompassing its techniques, challenges, and regulatory aspects. Check it out on [Wiley Online Library](https://www.wiley.com/en-us/Handbook+of+High+Frequency+Trading-p-9781119941791).
 
 5. **International Financial Reporting Standards (IFRS)** by IFRS Foundation - Essential for understanding global accounting standards, IFRS provides a framework for preparing and presenting financial statements. More information is available at the [IFRS Foundation website](https://www.ifrs.org/).
-

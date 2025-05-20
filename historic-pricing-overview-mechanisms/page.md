@@ -1,6 +1,8 @@
 ---
-title: "Historic Pricing: Overview and Mechanisms (Algo Trading)"
-description: "Dive into the intricate world of financial asset valuation from historic pricing methods to modern algorithmic trading advancements and dynamic pricing strategies."
+category: quant_concept
+description: Dive into the intricate world of financial asset valuation from historic
+  pricing methods to modern algorithmic trading advancements and dynamic pricing strategies.
+title: 'Historic Pricing: Overview and Mechanisms (Algo Trading)'
 ---
 
 Understanding pricing mechanisms in economics and finance is essential for the efficient operation of markets. From early economic theories to contemporary practices, the process of determining the value of assets has undergone significant development. Historical precedents and modern technological advancements have collectively informed this evolution, influencing how assets are priced today.

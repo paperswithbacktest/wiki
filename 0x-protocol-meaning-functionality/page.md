@@ -1,6 +1,8 @@
 ---
-title: "0x Protocol and Algorithmic Trading"
-description: "Explore the functionality and significance of the 0x Protocol in decentralized asset trading and algorithmic trading within blockchain environments."
+category: quant_concept
+description: Explore the functionality and significance of the 0x Protocol in decentralized
+  asset trading and algorithmic trading within blockchain environments.
+title: 0x Protocol and Algorithmic Trading
 ---
 
 ![Image](images/image.png)

@@ -1,6 +1,15 @@
 ---
-title: "Guide to Buying Over-the-Counter Stocks (Algo Trading)"
-description: "Explore the dynamic world of OTC trading with our comprehensive guide designed for both novice and seasoned investors. Learn how the decentralized broker-dealer network operates beyond traditional exchanges like NYSE or NASDAQ to offer flexibility and access to diverse securities. This article investigates into the mechanics of OTC trading, the application of algo trading, and weighs both risks and rewards. Gain insights into market volatility, liquidity concerns, and strategic approaches to mitigate risk while uncovering opportunities with small and emerging companies. Equip yourself with knowledge to make informed and strategic investment choices in the OTC market."
+category: trading_strategy
+description: Explore the dynamic world of OTC trading with our comprehensive guide
+  designed for both novice and seasoned investors. Learn how the decentralized broker-dealer
+  network operates beyond traditional exchanges like NYSE or NASDAQ to offer flexibility
+  and access to diverse securities. This article investigates into the mechanics of
+  OTC trading, the application of algo trading, and weighs both risks and rewards.
+  Gain insights into market volatility, liquidity concerns, and strategic approaches
+  to mitigate risk while uncovering opportunities with small and emerging companies.
+  Equip yourself with knowledge to make informed and strategic investment choices
+  in the OTC market.
+title: Guide to Buying Over-the-Counter Stocks (Algo Trading)
 ---
 
 The world of stock trading offers a spectrum of opportunities catering to investors of varying expertise and objectives. Among these prospects is over-the-counter (OTC) trading, a market wherein stocks are bought and sold through a decentralized broker-dealer network, bypassing traditional centralized exchanges like the New York Stock Exchange (NYSE) or NASDAQ. This market structure provides flexibility and accessibility, particularly for securities from smaller companies that may not meet the stringent listing criteria of major exchanges. OTC trading allows for a diverse array of securities including stocks, bonds, and derivatives, thereby opening up possibilities for investors to engage with emerging companies and industries.

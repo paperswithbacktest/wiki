@@ -1,6 +1,9 @@
 ---
-title: "Level 1 Assets and Comparison with Level 2 and 3 Assets (Algo Trading)"
-description: "Explore the essential role of asset valuation in finance highlighting the significance of Level 1 assets and how they compare with Level 2 and 3 assets in algo trading"
+category: quant_concept
+description: Explore the essential role of asset valuation in finance highlighting
+  the significance of Level 1 assets and how they compare with Level 2 and 3 assets
+  in algo trading
+title: Level 1 Assets and Comparison with Level 2 and 3 Assets (Algo Trading)
 ---
 
 Asset valuations play a fundamental role in the financial sector, underpinning accurate financial reporting and facilitating informed decision-making. These valuations are critical for investors, analysts, and regulators, who rely on them to gauge the worth of various financial instruments. One of the key concepts in asset valuation is the hierarchy of financial assets, which organizes them based on the ease and reliability of their valuation. Within this framework, Level 1 assets are particularly significant due to their transparency and liquidity. These assets, including stocks and bonds traded in active markets, have readily available market prices that enhance valuation accuracy and investor confidence.

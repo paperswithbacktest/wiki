@@ -1,6 +1,15 @@
 ---
-title: "Analysis of Lime Financial Services (Algo Trading)"
-description: "Discover the comprehensive analysis of Lime Financial's algo trading solutions in this article. Established in 2000, Lime Financial has significantly impacted the financial trading sector by offering advanced algorithmic trading platforms designed to enhance efficiency and profitability. Catering to both financial institutions and independent traders, Lime Financial stands out with a robust system tailored for high-frequency trading. This detailed review explores the platform's capabilities, including powerful low-latency technology and extensive API options, ensuring a seamless trading experience for professional traders seeking to optimize performance and gains in the fast-paced, data-driven markets."
+category: quant_concept
+description: Discover the comprehensive analysis of Lime Financial's algo trading
+  solutions in this article. Established in 2000, Lime Financial has significantly
+  impacted the financial trading sector by offering advanced algorithmic trading platforms
+  designed to enhance efficiency and profitability. Catering to both financial institutions
+  and independent traders, Lime Financial stands out with a robust system tailored
+  for high-frequency trading. This detailed review explores the platform's capabilities,
+  including powerful low-latency technology and extensive API options, ensuring a
+  seamless trading experience for professional traders seeking to optimize performance
+  and gains in the fast-paced, data-driven markets.
+title: Analysis of Lime Financial Services (Algo Trading)
 ---
 
 Lime Financial, established in 2000, has emerged as a significant entity in the financial trading sector, primarily recognized for its sophisticated algorithmic trading solutions. Initially designed to cater to the needs of competitive financial institutions, the firm has successfully broadened its outreach, integrating independent traders into its clientele. This capacity expansion underscores Lime Financial's adaptability and forward-thinking strategy in a rapidly evolving trading environment.

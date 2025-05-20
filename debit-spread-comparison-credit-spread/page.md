@@ -1,6 +1,8 @@
 ---
-title: "Debit Spread Comparison With Credit Spread (Algo Trading)"
-description: "Explore the differences between debit and credit spreads in options trading with insights on algorithmic trading strategies to enhance your trading approach."
+category: trading_strategy
+description: Explore the differences between debit and credit spreads in options trading
+  with insights on algorithmic trading strategies to enhance your trading approach.
+title: Debit Spread Comparison With Credit Spread (Algo Trading)
 ---
 
 In today's financial markets, options trading is a dynamic approach that offers investors the chance to leverage their positions through a variety of strategies. Credit spreads, debit spreads, and algorithmic trading represent key tactical methods within this domain that have garnered significant attention. Credit spreads involve selling an option with a higher premium while simultaneously buying an option with a lower premium, providing a net credit to the trader's account. This strategy is particularly useful for generating income in stable or bearish market conditions. Conversely, debit spreads are constructed by purchasing an option with a higher premium and selling one with a lower premium, resulting in a net debit. Profitability in debit spreads hinges on significant market movements in the anticipated direction.

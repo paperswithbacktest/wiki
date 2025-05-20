@@ -1,6 +1,8 @@
 ---
-title: "Fiscal Deficits in U.S. State and Local Governments (Algo Trading)"
-description: "Explore fiscal challenges in U.S. state and local governments and innovative strategies like algorithmic trading for effective management and economic stability."
+category: quant_concept
+description: Explore fiscal challenges in U.S. state and local governments and innovative
+  strategies like algorithmic trading for effective management and economic stability.
+title: Fiscal Deficits in U.S. State and Local Governments (Algo Trading)
 ---
 
 In recent times, discussions about fiscal policies and budgeting have gained significant prominence in political and economic spheres. A major area of focus within these discussions is the fiscal deficits faced by state and local governments. Unlike the federal government, which has the capability to operate with deficits largely due to its ability to issue treasury securities, state and local governments confront unique constraints. The legal and financial mechanisms that govern their fiscal operations impose stricter requirements, often necessitating balanced budgets.

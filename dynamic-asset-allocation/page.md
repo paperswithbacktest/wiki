@@ -1,6 +1,8 @@
 ---
-title: "Dynamic Asset Allocation (Algo Trading)"
-description: "Discover how dynamic asset allocation combined with algorithmic trading can optimize portfolio performance and manage risk in today's volatile markets."
+category: trading_strategy
+description: Discover how dynamic asset allocation combined with algorithmic trading
+  can optimize portfolio performance and manage risk in today's volatile markets.
+title: Dynamic Asset Allocation (Algo Trading)
 ---
 
 The investment landscape is undergoing significant transformation, with dynamic asset allocation emerging as a crucial component of contemporary portfolio management. In recent years, the convergence of dynamic asset allocation with algorithmic trading has further revolutionized investment strategies. This synergy empowers investors to fine-tune their portfolios for optimal performance while deftly navigating the inherent risks of volatile markets.

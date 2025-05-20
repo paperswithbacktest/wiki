@@ -1,6 +1,9 @@
 ---
-title: "Impact of Fracking on U.S. Oil Independence (Algo Trading)"
-description: "Explore the impact of fracking and algorithmic trading on U.S. oil independence Analyzing their roles in energy security and market dynamics with environmental considerations"
+category: quant_concept
+description: Explore the impact of fracking and algorithmic trading on U.S. oil independence
+  Analyzing their roles in energy security and market dynamics with environmental
+  considerations
+title: Impact of Fracking on U.S. Oil Independence (Algo Trading)
 ---
 
 The quest for U.S. oil independence has been a pivotal topic for decades, intertwining energy security with political and economic concerns. As global geopolitical dynamics and market fluctuations continue to highlight vulnerabilities in relying on foreign oil, the United States has undertaken significant measures to enhance its energy autonomy. A key component of this national strategy has been the advancement of fracking technology. Known formally as hydraulic fracturing, fracking has emerged as a transformative process in boosting domestic oil production. By accessing previously inaccessible oil and gas deposits in shale formations, fracking has shifted the U.S. towards greater energy self-sufficiency.

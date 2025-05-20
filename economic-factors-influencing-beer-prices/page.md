@@ -1,6 +1,8 @@
 ---
-title: "Economic Factors Influencing Beer Prices (Algo Trading)"
-description: "Discover the economic factors that influence beer pricing including supply and demand dynamics regulatory impact and the role of algorithmic trading."
+category: quant_concept
+description: Discover the economic factors that influence beer pricing including supply
+  and demand dynamics regulatory impact and the role of algorithmic trading.
+title: Economic Factors Influencing Beer Prices (Algo Trading)
 ---
 
 The beer industry represents a sophisticated synthesis of art and economics, playing a pivotal role in cultural and social contexts worldwide. Beer, widely regarded as a quintessential social lubricant, occupies a unique space where craftsmanship meets economic strategy. Despite its ubiquity at social gatherings, the economic intricacies that determine its pricing remain largely underappreciated. 

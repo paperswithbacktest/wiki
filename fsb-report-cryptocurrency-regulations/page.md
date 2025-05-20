@@ -1,6 +1,8 @@
 ---
-title: "FSB Report on Cryptocurrency Regulations (Algo Trading)"
-description: "Explore the FSB's insights into cryptocurrency regulations focusing on the impact of algo trading and the drive for safety, transparency, and consistency."
+category: quant_concept
+description: Explore the FSB's insights into cryptocurrency regulations focusing on
+  the impact of algo trading and the drive for safety, transparency, and consistency.
+title: FSB Report on Cryptocurrency Regulations (Algo Trading)
 ---
 
 The global cryptocurrency landscape has experienced rapid evolution, presenting significant challenges for regulatory bodies worldwide. These challenges include keeping pace with technological advancements and ensuring the safety and stability of financial systems. As digital assets continue to grow in prominence, a harmonized regulatory approach becomes indispensable. In response, the Financial Stability Board (FSB) has developed a comprehensive framework designed to bring consistency and safety to the rapidly evolving crypto ecosystem.

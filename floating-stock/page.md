@@ -1,6 +1,8 @@
 ---
-title: "Floating Stock (Algo Trading)"
-description: "Explore the dynamics of floating stock and its impact on stock liquidity and trading volatility with insights into algorithmic trading strategies for investors."
+category: quant_concept
+description: Explore the dynamics of floating stock and its impact on stock liquidity
+  and trading volatility with insights into algorithmic trading strategies for investors.
+title: Floating Stock (Algo Trading)
 ---
 
 The stock market serves as a pivotal pillar in the global economy, facilitating capital formation, enabling economic growth, and providing investors with avenues to build wealth. As an organized platform for buying, selling, and issuing shares of publicly-traded companies, the stock market plays a critical role in the financial system, influencing economic stability and performance globally.

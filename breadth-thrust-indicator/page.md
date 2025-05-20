@@ -1,6 +1,8 @@
 ---
-title: "Breadth Thrust Indicator (Algo Trading)"
-description: "Discover the Breadth Thrust Indicator's role in advanced trading strategies Learn how this unique tool predicts bull markets by analyzing stock market momentum"
+category: trading_strategy
+description: Discover the Breadth Thrust Indicator's role in advanced trading strategies
+  Learn how this unique tool predicts bull markets by analyzing stock market momentum
+title: Breadth Thrust Indicator (Algo Trading)
 ---
 
 Technical indicators have become pivotal in modern trading strategies, functioning as tools that traders and analysts use to interpret market data and make informed decisions. These indicators utilize historical price, volume data, or a combination of both, to predict future price movements and identify potential buy and sell signals. Among a plethora of technical indicators, the Breadth Thrust Indicator holds a distinct position due to its unique approach in assessing market momentum and predicting potential bull markets.

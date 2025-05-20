@@ -1,6 +1,9 @@
 ---
-title: "Experimental Economics: Concepts and Mechanisms (Algo Trading)"
-description: "Explore the intersection of experimental and behavioral economics with algorithmic trading Discover how these fields shape financial strategies and market dynamics"
+category: quant_concept
+description: Explore the intersection of experimental and behavioral economics with
+  algorithmic trading Discover how these fields shape financial strategies and market
+  dynamics
+title: 'Experimental Economics: Concepts and Mechanisms (Algo Trading)'
 ---
 
 The exploration of economic theories has undergone significant evolution, with experimental and behavioral economics playing crucial roles in this transformative journey. As traditional economic models often rely on abstract mathematical frameworks, the advent of experimental economics, pioneered by Vernon Smith, has introduced a more empirical approach to studying economic phenomena. By creating controlled experimental settings, researchers can observe human behavior and market mechanisms, thereby providing valuable insights that contrast with conventional theoretical predictions.

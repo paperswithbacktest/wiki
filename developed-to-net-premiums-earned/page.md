@@ -1,6 +1,8 @@
 ---
-title: "Developed to Net Premiums Earned (Algo Trading)"
-description: "Explore the critical role of net premiums earned in insurance, deciphering its financial impact, and discover the effects of algorithmic trading on the market."
+category: quant_concept
+description: Explore the critical role of net premiums earned in insurance, deciphering
+  its financial impact, and discover the effects of algorithmic trading on the market.
+title: Developed to Net Premiums Earned (Algo Trading)
 ---
 
 In the intricate world of financial accounting, the concept of net premiums earned occupies a pivotal role, particularly within the insurance industry. As a crucial component of an insurance company’s financial statements, net premiums earned reflect the portion of total premiums that have been recognized as revenue, corresponding to the expired part of an insurance policy over a designated period. Unlike gross premiums written, which capture the total premiums collected from policyholders, net premiums earned provide a more accurate representation of the actual income earned after accounting for unearned premium reserves.

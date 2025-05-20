@@ -1,7 +1,8 @@
 ---
-title: Understanding Mask Branches in Image Segmentation Models
+category: quant_concept
 description: Mask Branches enable precise object segmentation by highlighting pixel-level
   shapes and boundaries in segmentation tasks Discover more inside
+title: Understanding Mask Branches in Image Segmentation Models
 ---
 
 ![Image](images/1.png)

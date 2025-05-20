@@ -1,6 +1,12 @@
 ---
-title: "Brokerage APIs (Algo Trading)"
-description: Discover how brokerage APIs are revolutionizing algorithmic trading by enabling seamless automated trade execution and data access directly from broker platforms. These APIs enhance trading efficiency through real-time data, reduce human errors, and support complex strategies by providing versatile order functionalities and backtesting capabilities. Explore the various forms of APIs and their role in optimizing modern trading practices.
+category: quant_concept
+description: Discover how brokerage APIs are revolutionizing algorithmic trading by
+  enabling seamless automated trade execution and data access directly from broker
+  platforms. These APIs enhance trading efficiency through real-time data, reduce
+  human errors, and support complex strategies by providing versatile order functionalities
+  and backtesting capabilities. Explore the various forms of APIs and their role in
+  optimizing modern trading practices.
+title: Brokerage APIs (Algo Trading)
 ---
 
 In today's fast-paced financial markets, algorithmic trading has transformed how trading is conducted by enabling institutions and individual traders to execute trades at speeds and frequencies that are impossible for human traders. This evolution relies heavily on sophisticated technologies, with the brokerage API (Application Programming Interface) playing a pivotal role. Brokerage APIs act as a critical bridge, connecting cutting-edge trading algorithms with the broker's trading platform, facilitating automated and efficient trading operations.

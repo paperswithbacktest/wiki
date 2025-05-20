@@ -1,7 +1,8 @@
 ---
-title: Hybrid Fuzzing And Machine Learning For Enhanced Bug Detection
+category: quant_concept
 description: Hybrid fuzzing uses random and targeted tests guided by machine learning
   to boost coverage and uncover elusive vulnerabilities faster Discover more inside
+title: Hybrid Fuzzing And Machine Learning For Enhanced Bug Detection
 ---
 
 ![Image](images/1.png)

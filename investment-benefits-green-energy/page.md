@@ -1,6 +1,8 @@
 ---
-title: "Investment Benefits in Green Energy (Algo Trading)"
-description: "Explore the benefits of investing in green energy and algorithmic trading in our latest article Learn how these trends offer financial and environmental gains"
+category: trading_strategy
+description: Explore the benefits of investing in green energy and algorithmic trading
+  in our latest article Learn how these trends offer financial and environmental gains
+title: Investment Benefits in Green Energy (Algo Trading)
 ---
 
 In the 21st century, sustainable investment solutions are becoming increasingly critical as the global community unites to combat climate change. Investors are directing their focus toward renewable resources due to the pressing need for clean energy alternatives to reduce carbon emissions and ensure a sustainable future. The transition from fossil fuels to renewable energy is not only a response to environmental concerns but also a strategic financial decision, as green energy projects become more economically viable and technologically advanced.

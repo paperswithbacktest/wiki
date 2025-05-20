@@ -1,6 +1,8 @@
 ---
-title: "Investing Versus Gambling (Algo Trading)"
-description: "Explore the intricate distinctions between investing and gambling, and the role of algorithmic trading in shaping financial strategies and market dynamics."
+category: quant_concept
+description: Explore the intricate distinctions between investing and gambling, and
+  the role of algorithmic trading in shaping financial strategies and market dynamics.
+title: Investing Versus Gambling (Algo Trading)
 ---
 
 In the ever-evolving financial landscape, distinguishing between investing, gambling, financial strategy, and algorithmic trading can be complex. Each discipline has unique characteristics, yet their boundaries often overlap, leading to misconceptions and debates about their nature and interplay. This article aims to clarify these concepts by examining both their distinct features and shared aspects.

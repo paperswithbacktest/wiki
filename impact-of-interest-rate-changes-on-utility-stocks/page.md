@@ -1,6 +1,8 @@
 ---
-title: "Impact of Interest Rate Changes on Utility Stocks (Algo Trading)"
-description: "Explore how interest rate fluctuations impact utility stocks and discover the role of algorithmic trading in optimizing investment strategies in this sector."
+category: trading_strategy
+description: Explore how interest rate fluctuations impact utility stocks and discover
+  the role of algorithmic trading in optimizing investment strategies in this sector.
+title: Impact of Interest Rate Changes on Utility Stocks (Algo Trading)
 ---
 
 In today's dynamic economic environment, utility stocks represent a crucial sector for investors seeking stability and predictable returns. Known for their resilience and consistent dividend payouts, utility stocks are often seen as a safe haven, especially during periods of economic volatility. However, the performance of these stocks is intricately linked to fluctuations in interest rates.

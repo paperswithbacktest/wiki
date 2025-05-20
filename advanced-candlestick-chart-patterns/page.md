@@ -1,6 +1,9 @@
 ---
-title: "Advanced Candlestick Chart Patterns (Algo Trading)"
-description: "Explore advanced candlestick patterns and algorithmic trading strategies to gain an edge in financial markets with technical analysis and efficient trade execution."
+category: trading_strategy
+description: Explore advanced candlestick patterns and algorithmic trading strategies
+  to gain an edge in financial markets with technical analysis and efficient trade
+  execution.
+title: Advanced Candlestick Chart Patterns (Algo Trading)
 ---
 
 Welcome to the world of trading strategies, where technical analysis, candlestick patterns, and algorithmic trading come together to offer traders an edge in navigating complex financial markets. In this article, we will explore how these components can be leveraged to enhance trading outcomes.

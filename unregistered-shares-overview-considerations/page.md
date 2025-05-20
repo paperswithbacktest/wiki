@@ -1,6 +1,9 @@
 ---
-title: "Unregistered Shares: Overview and Considerations (Algo Trading)"
-description: "Explore the dynamics of unregistered shares in algo trading Understand how private securities and regulatory frameworks shape market liquidity and investor opportunities"
+category: quant_concept
+description: Explore the dynamics of unregistered shares in algo trading Understand
+  how private securities and regulatory frameworks shape market liquidity and investor
+  opportunities
+title: 'Unregistered Shares: Overview and Considerations (Algo Trading)'
 ---
 
 Unregistered shares, often referred to as private securities, represent a significant yet less visible component of the stock market. Unlike their registered counterparts, these shares are not listed on public exchanges and do not require the comprehensive registration process mandated by the Securities and Exchange Commission (SEC). Typically issued in private placements, unregistered shares enable companies to raise capital without undergoing the rigorous and often costly procedures associated with public offerings.

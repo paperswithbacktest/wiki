@@ -1,6 +1,9 @@
 ---
-title: "Comparison of Capitalism and Free Market (Algo Trading)"
-description: "Compare capitalism's private ownership with free market principles of voluntary exchange and minimal intervention. Explore algorithmic trading's role in enhancing market efficiency within capitalistic systems."
+category: quant_concept
+description: Compare capitalism's private ownership with free market principles of
+  voluntary exchange and minimal intervention. Explore algorithmic trading's role
+  in enhancing market efficiency within capitalistic systems.
+title: Comparison of Capitalism and Free Market (Algo Trading)
 ---
 
 Capitalism, as an economic system, is characterized by private ownership of the means of production, market-driven economies, and the primacy of capital accumulation. It plays a pivotal role in shaping modern economies by fostering innovation, efficiency, and competition. At its core, capitalism is predicated on the free market, which operates on the principles of voluntary exchange, supply and demand dynamics, and minimal government intervention. The free market serves as the operational framework for capitalist economies, allowing for efficient resource allocation and wealth creation through competitive forces.

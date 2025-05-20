@@ -1,6 +1,8 @@
 ---
-title: "Per Capita Income: Uses, Limitations, and Examples (Algo Trading)"
-description: "Explore the complex ties between per capita income and algorithmic trading to better understand economic metrics used in crafting effective financial strategies."
+category: quant_concept
+description: Explore the complex ties between per capita income and algorithmic trading
+  to better understand economic metrics used in crafting effective financial strategies.
+title: 'Per Capita Income: Uses, Limitations, and Examples (Algo Trading)'
 ---
 
 The intricate relationship between income analysis, economic measurement, per capita income, and algorithmic trading is a topic of great significance in understanding modern economic health and formulating financial strategies. Income analysis serves as a cornerstone for evaluating the financial well-being and growth potential of a nation or region, providing valuable insights into economic stability. Central to this analysis is the concept of per capita income, which measures the average income earned by individuals in a given area, offering a useful gauge of living standards and economic prosperity.

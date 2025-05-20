@@ -1,6 +1,8 @@
 ---
-title: "Silver Certificate (Algo Trading)"
-description: "Discover the evolving market value of silver certificates, their historical significance, and how algorithmic trading enhances investment opportunities."
+category: quant_concept
+description: Discover the evolving market value of silver certificates, their historical
+  significance, and how algorithmic trading enhances investment opportunities.
+title: Silver Certificate (Algo Trading)
 ---
 
 In this article, we explore the intriguing world of silver certificate currency, a distinctive form of paper money issued by the United States government. These certificates hold both historical significance and monetary value, making them a focal point for collectors and investors alike. Originally introduced as an exchangeable legal tender for silver bullion, silver certificates represent a unique chapter in the history of U.S. currency. As we examine their place in today's market, we'll delve into their evolving worth influenced by factors such as rarity and condition.

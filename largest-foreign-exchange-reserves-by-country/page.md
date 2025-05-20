@@ -1,6 +1,8 @@
 ---
-title: "Largest Foreign Exchange Reserves by Country (Algo Trading)"
-description: "Explore how countries manage foreign exchange reserves and how algorithmic trading revolutionizes reserve management strategies to optimize economic stability."
+category: dataset
+description: Explore how countries manage foreign exchange reserves and how algorithmic
+  trading revolutionizes reserve management strategies to optimize economic stability.
+title: Largest Foreign Exchange Reserves by Country (Algo Trading)
 ---
 
 Foreign exchange reserves represent a vital component of a nation's economic framework, serving as a measure of its financial resilience and its capability to uphold its currency's value. These reserves, typically comprised of foreign currencies, gold, and other reserve assets, are indispensable for ensuring economic stability, particularly in times of economic shocks or volatility in global markets. By examining the dynamics of forex reserves, one gains critical insights into global economic trends and the stability of financial markets.

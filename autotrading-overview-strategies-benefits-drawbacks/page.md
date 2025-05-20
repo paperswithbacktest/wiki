@@ -1,6 +1,9 @@
 ---
-title: "Autotrading: Overview, Strategies, Benefits, and Drawbacks (Algo Trading)"
-description: "Explore the world of autotrading to understand its strategies benefits and drawbacks Learn how algorithmic systems can optimize trading while minimizing risks"
+category: trading_strategy
+description: Explore the world of autotrading to understand its strategies benefits
+  and drawbacks Learn how algorithmic systems can optimize trading while minimizing
+  risks
+title: 'Autotrading: Overview, Strategies, Benefits, and Drawbacks (Algo Trading)'
 ---
 
 In today's fast-paced financial markets, autotrading has gained significant traction as a strategy among traders and investors. This approach leverages algorithmic trading techniques to automate the buying and selling of assets, employing pre-set rules and strategies to execute trades efficiently. Automation eliminates the influence of human emotions such as fear and greed, often leading to more disciplined trading compared to manual processes.

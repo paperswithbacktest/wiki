@@ -1,6 +1,8 @@
 ---
-title: "Hamilton-Jacobi-Bellman equation (Algo Trading)"
-description: "Discover how the Hamilton-Jacobi-Bellman equation enhances algorithmic trading by optimizing decision-making for maximum profit and minimal risk."
+category: quant_concept
+description: Discover how the Hamilton-Jacobi-Bellman equation enhances algorithmic
+  trading by optimizing decision-making for maximum profit and minimal risk.
+title: Hamilton-Jacobi-Bellman equation (Algo Trading)
 ---
 
 The Hamilton-Jacobi-Bellman (HJB) equation is a cornerstone in control theory, embodying the principles necessary for determining optimal control strategies. As a nonlinear partial differential equation, it provides a comprehensive framework for optimizing decision-making processes, ensuring that a given system operates at its most efficient state. The essence of the HJB equation lies in its ability to compute the value function, which represents the minimal cost associated with controlling a system from a specific state. By continuously adjusting control strategies, the HJB equation facilitates the realization of objectives such as minimizing cost or maximizing returns over time.

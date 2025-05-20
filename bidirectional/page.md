@@ -1,7 +1,8 @@
 ---
-title: Enhancing Context in Models With Bidirectional Machine Learning
+category: quant_concept
 description: Bidirectional machine learning leverages past and future data to deliver
   richer context and more accurate predictions for NLP Discover more inside
+title: Enhancing Context in Models With Bidirectional Machine Learning
 ---
 
 ![Image](images/1.png)

@@ -1,6 +1,14 @@
 ---
-title: "Creative Accounting (Algo Trading)"
-description: "Explore the intersection of financial reporting, creative accounting, and algorithmic trading in the modern financial landscape. This article investigates into standardized accounting practices, the ethical considerations of creative accounting, and how emerging technologies like algorithmic trading influence corporate transparency and market dynamics. It highlights the importance of transparency and ethical standards in maintaining investor trust and preventing financial misconduct. Understand the role of accurate financial reporting, regulatory oversight, and technological advancements in shaping sustainable financial ecosystems."
+category: quant_concept
+description: Explore the intersection of financial reporting, creative accounting,
+  and algorithmic trading in the modern financial landscape. This article investigates
+  into standardized accounting practices, the ethical considerations of creative accounting,
+  and how emerging technologies like algorithmic trading influence corporate transparency
+  and market dynamics. It highlights the importance of transparency and ethical standards
+  in maintaining investor trust and preventing financial misconduct. Understand the
+  role of accurate financial reporting, regulatory oversight, and technological advancements
+  in shaping sustainable financial ecosystems.
+title: Creative Accounting (Algo Trading)
 ---
 
 Understanding key accounting practices and emerging technologies is crucial for professionals and investors alike in today’s fast-paced financial environment. Transparency and accurate reporting are the bedrock of trust in business operations and essential for making informed investment decisions. This article addresses essential topics in modern finance—financial reporting, creative accounting, and the innovative application of algorithmic trading—and highlights their interplay and impact on corporate transparency and market dynamics.

@@ -1,6 +1,12 @@
 ---
-title: "Diversification (Algo Trading)"
-description: Explore the strategic advantages of diversification in algorithmic trading to enhance performance and manage risk. This guide examines how utilizing a variety of algorithms and asset classes can mitigate risks associated with single strategies and market sectors. Gain insights into the methods for effectively diversifying portfolios, ensuring reduced volatility and more consistent returns in the fast-paced world of algo trading.
+category: trading_strategy
+description: Explore the strategic advantages of diversification in algorithmic trading
+  to enhance performance and manage risk. This guide examines how utilizing a variety
+  of algorithms and asset classes can mitigate risks associated with single strategies
+  and market sectors. Gain insights into the methods for effectively diversifying
+  portfolios, ensuring reduced volatility and more consistent returns in the fast-paced
+  world of algo trading.
+title: Diversification (Algo Trading)
 ---
 
 Algorithmic trading, often abbreviated as algo trading, involves the use of computer algorithms to automatically execute trading orders. These algorithms are designed to make trading decisions at speeds and frequencies that are impossible for human traders. The adoption of algo trading has seen remarkable growth, driven by advancements in technology, increased computational power, and the desire for efficiency in trading operations. According to a report by Aite Group, over 60% of market transactions in the United States were attributed to algo trading by 2020, reflecting its widespread adoption.

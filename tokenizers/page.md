@@ -1,7 +1,8 @@
 ---
-title: A Comprehensive Guide to Tokenizers in NLP and Machine Learning
+category: quant_concept
 description: Tokenizers break text into tokens for machine learning and NLP tasks
   using subword methods to handle new words efficiently Discover more inside
+title: A Comprehensive Guide to Tokenizers in NLP and Machine Learning
 ---
 
 ![Image](images/1.png)

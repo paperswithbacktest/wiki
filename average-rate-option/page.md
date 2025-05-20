@@ -1,6 +1,9 @@
 ---
-title: "Average Rate Option (Algo Trading)"
-description: "Discover how Average Rate Options provide a strategic edge by smoothing currency fluctuation risk through unique, sophisticated hedging mechanisms tailored for global trade."
+category: quant_concept
+description: Discover how Average Rate Options provide a strategic edge by smoothing
+  currency fluctuation risk through unique, sophisticated hedging mechanisms tailored
+  for global trade.
+title: Average Rate Option (Algo Trading)
 ---
 
 In today's dynamic financial markets, derivatives have become indispensable tools for managing risk and optimizing financial performance. Among these instruments, Average Rate Options (AROs) stand out as a unique category, specifically catering to the needs of entities involved in international trade and finance. AROs are considered exotic options due to their complex structures and distinctive features compared to traditional options.

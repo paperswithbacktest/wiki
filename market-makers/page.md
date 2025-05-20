@@ -1,6 +1,9 @@
 ---
-title: "Market makers (Algo Trading)"
-description: "Explore the critical role of market makers in financial markets, their strategies for liquidity provision, and the advanced technologies that enhance trade execution."
+category: quant_concept
+description: Explore the critical role of market makers in financial markets, their
+  strategies for liquidity provision, and the advanced technologies that enhance trade
+  execution.
+title: Market makers (Algo Trading)
 ---
 
 Market makers play a vital role in maintaining liquidity and ensuring stability within financial markets through their continuous provision of buy and sell quotes. This function is indispensable, especially with the widespread adoption of algorithmic trading, which requires a fluid and responsive market environment. Market makers operate across diverse financial markets, including stocks, options, and cryptocurrencies, where they are crucial in facilitating trade execution and stabilizing prices.

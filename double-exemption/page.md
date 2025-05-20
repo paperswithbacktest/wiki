@@ -1,6 +1,9 @@
 ---
-title: "Double Exemption (Algo Trading)"
-description: "Explore the complexities of tax status, financial terminology, double exemption, and algorithmic trading to optimize financial strategies and minimize liabilities."
+category: quant_concept
+description: Explore the complexities of tax status, financial terminology, double
+  exemption, and algorithmic trading to optimize financial strategies and minimize
+  liabilities.
+title: Double Exemption (Algo Trading)
 ---
 
 The financial arena is complex, encompassing a multitude of terms and statuses that significantly affect investors and traders. A thorough understanding of these concepts is essential for making well-informed financial decisions. In this article, we focus on four critical areas: 'tax status', 'financial terminology', 'double exemption', and the growing trend of 'algorithmic trading'. Each of these elements is pivotal in determining how securities are bought, sold, and taxed, offering numerous potential benefits and challenges. This article aims to provide insights into effectively maneuvering through the financial landscape to optimize benefits and minimize liabilities.

@@ -1,6 +1,9 @@
 ---
-title: "Consolidation Phase in Finance (Algo Trading)"
-description: "Explore the consolidation phase in finance a key period of market indecision crucial for algorithmic trading Learn how identifying this phase boosts trading success"
+category: quant_concept
+description: Explore the consolidation phase in finance a key period of market indecision
+  crucial for algorithmic trading Learn how identifying this phase boosts trading
+  success
+title: Consolidation Phase in Finance (Algo Trading)
 ---
 
 In the complex world of financial trading, the consolidation phase is a crucial concept that reflects periods of indecision in the market. This phase is marked by an asset’s price fluctuating within a narrow range, lacking any clear directional trend. During consolidation, the forces of supply and demand reach a temporary equilibrium, causing price movements to stabilize. This condition often precedes significant price volatility as markets prepare to breakout in one direction or another, making it a focal point of interest for traders.

@@ -1,6 +1,14 @@
 ---
-title: "Neural Networks in Python (Algo Trading)"
-description: Explore the transformative role of neural networks in algorithmic trading using Python. This article offers insights into leveraging Python's rich library ecosystem to simplify the deployment of neural networks for developing advanced trading strategies. Understand how neural networks enhance predictive accuracy by learning complex patterns within financial datasets and discover their significant impact on trading outcomes. Gain expertise through a practical guide focused on setting up neural network trading strategies to optimize and adapt your algorithmic trading with improved decision-making capabilities.
+category: trading_strategy
+description: Explore the transformative role of neural networks in algorithmic trading
+  using Python. This article offers insights into leveraging Python's rich library
+  ecosystem to simplify the deployment of neural networks for developing advanced
+  trading strategies. Understand how neural networks enhance predictive accuracy by
+  learning complex patterns within financial datasets and discover their significant
+  impact on trading outcomes. Gain expertise through a practical guide focused on
+  setting up neural network trading strategies to optimize and adapt your algorithmic
+  trading with improved decision-making capabilities.
+title: Neural Networks in Python (Algo Trading)
 ---
 
 Neural networks have emerged as transformative tools across numerous domains, with algorithmic trading being one of the most promising areas for their application. In recent years, the integration of neural networks in Python has simplified the process for traders, offering an accessible platform to harness these advanced technologies. Python, with its extensive library support, provides a rich ecosystem that facilitates the development and deployment of neural networks, making it a preferred choice for implementing algorithmic trading strategies.

@@ -1,6 +1,9 @@
 ---
-title: "Federal Agricultural Mortgage Corporation (Farmer Mac) (Algo Trading)"
-description: "Discover how Farmer Mac, a key player in agricultural finance, integrates algorithmic trading to boost investment strategies and enhance risk and liquidity management."
+category: quant_concept
+description: Discover how Farmer Mac, a key player in agricultural finance, integrates
+  algorithmic trading to boost investment strategies and enhance risk and liquidity
+  management.
+title: Federal Agricultural Mortgage Corporation (Farmer Mac) (Algo Trading)
 ---
 
 The Federal Agricultural Mortgage Corporation, commonly known as Farmer Mac, serves a pivotal role in the agricultural finance sector. Created by Congress in 1987, Farmer Mac was established to address the agricultural lending crisis by providing a secondary market for agricultural mortgage-backed securities. Its function resembles that of other government-sponsored enterprises, such as Fannie Mae and Freddie Mac, which facilitate secondary markets for residential loans. Farmer Mac's establishment marked a significant intervention in ensuring that farmers and agricultural businesses have access to consistent and reliable credit sources.

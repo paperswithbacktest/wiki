@@ -1,6 +1,8 @@
 ---
-title: "OpenSea (Algo Trading)"
-description: "Explore the world of NFTs and algorithmic trading on OpenSea a leading decentralized marketplace where you can buy sell and trade unique digital assets."
+category: quant_concept
+description: Explore the world of NFTs and algorithmic trading on OpenSea a leading
+  decentralized marketplace where you can buy sell and trade unique digital assets.
+title: OpenSea (Algo Trading)
 ---
 
 Non-Fungible Tokens (NFTs) represent a revolutionary advancement in digital assets. Unlike cryptocurrencies such as Bitcoin or Ethereum, which are fungible and identical, NFTs are unique digital identifiers recorded on a blockchain, and they cannot be replicated. This uniqueness has catapulted NFTs into the spotlight, gaining significant traction in areas such as digital art, music, gaming, and virtual real estate [1]. The NFT market has witnessed exponential growth, attracting artists, collectors, and investors alike, and solidifying its place as a significant segment of the digital economy.

@@ -1,7 +1,8 @@
 ---
-title: Value Function Estimation In Reinforcement Learning
+category: quant_concept
 description: Value function estimation guides agents to predict and maximize rewards
   using predictive state value methods for decision making Discover more inside
+title: Value Function Estimation In Reinforcement Learning
 ---
 
 ![Image](images/1.jpeg)

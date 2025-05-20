@@ -1,7 +1,8 @@
 ---
-title: Multi-Scale Analysis Techniques for Machine Learning Models
+category: quant_concept
 description: Multi-scale analysis helps models learn from global patterns and fine
   details at multiple scales to improve accuracy and robustness Discover more inside
+title: Multi-Scale Analysis Techniques for Machine Learning Models
 ---
 
 ![Image](images/1.png)

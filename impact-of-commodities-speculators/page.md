@@ -1,6 +1,8 @@
 ---
-title: "Impact of Commodities Speculators (Algo Trading)"
-description: "Explore the impact of speculators and algorithmic trading on commodities markets Uncover their influence on market efficiency price discovery and liquidity"
+category: trading_strategy
+description: Explore the impact of speculators and algorithmic trading on commodities
+  markets Uncover their influence on market efficiency price discovery and liquidity
+title: Impact of Commodities Speculators (Algo Trading)
 ---
 
 The commodities market is a vital component of the global economy, offering essential goods such as energy, metals, and agricultural products. These markets serve as the backbone for many industries, providing the raw materials necessary for production and consumption worldwide. Commodities are traded on exchanges, where prices are determined by the forces of supply and demand.

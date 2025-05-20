@@ -1,6 +1,8 @@
 ---
-title: "Reverse Repurchase Agreement: Mechanism and Example (Algo Trading)"
-description: "Explore the critical role of Reverse Repurchase Agreements in financial markets to maintain liquidity and stability through short-term borrowing mechanisms."
+category: quant_concept
+description: Explore the critical role of Reverse Repurchase Agreements in financial
+  markets to maintain liquidity and stability through short-term borrowing mechanisms.
+title: 'Reverse Repurchase Agreement: Mechanism and Example (Algo Trading)'
 ---
 
 Financial agreements are foundational components of modern financial markets, facilitating the smooth operation of transactions, ensuring liquidity, and maintaining market stability. These agreements come in various forms, including loans, bonds, leases, and derivatives, all of which serve distinct purposes in the financial ecosystem. By formalizing the terms and conditions under which parties transact, financial agreements provide a structured framework that reduces uncertainty and enhances trust among market participants.

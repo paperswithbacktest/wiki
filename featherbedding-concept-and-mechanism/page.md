@@ -1,6 +1,9 @@
 ---
-title: "Featherbedding: Concept and Mechanism (Algo Trading)"
-description: "Explore the interplay between featherbedding labor practices and algorithmic trading in today's economy Discover their impacts on efficiency employment and market dynamics"
+category: quant_concept
+description: Explore the interplay between featherbedding labor practices and algorithmic
+  trading in today's economy Discover their impacts on efficiency employment and market
+  dynamics
+title: 'Featherbedding: Concept and Mechanism (Algo Trading)'
 ---
 
 In a constantly evolving economic landscape, business practices and employment strategies are crucial topics for both companies and workers. Featherbedding labor practices have been a contentious issue between unions and employers for decades. This practice involves requiring employers to hire more workers than necessary, adhering to union rules or agreements. It aims to protect jobs, particularly in industries facing technological advancements and automation. Critics argue that featherbedding hinders efficiency and increases operational costs, while proponents claim it helps redistribute wealth within an organization.

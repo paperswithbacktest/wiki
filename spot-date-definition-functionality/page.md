@@ -1,6 +1,12 @@
 ---
-title: "Spot Date: Definition and Functionality (Algo Trading)"
-description: "Explore the essential role of spot dates in algorithmic trading, highlighting their impact on the timing, execution, and strategy of financial transactions. Understand how spot date conventions, particularly in forex markets, influence exchange rates and protect against volatility, ensuring trade accuracy and strategic optimization. Gain insights into how traders and institutions leverage these key dates to enhance market efficiency and maintain seamless transaction processes amid evolving technologies."
+category: quant_concept
+description: Explore the essential role of spot dates in algorithmic trading, highlighting
+  their impact on the timing, execution, and strategy of financial transactions. Understand
+  how spot date conventions, particularly in forex markets, influence exchange rates
+  and protect against volatility, ensuring trade accuracy and strategic optimization.
+  Gain insights into how traders and institutions leverage these key dates to enhance
+  market efficiency and maintain seamless transaction processes amid evolving technologies.
+title: 'Spot Date: Definition and Functionality (Algo Trading)'
 ---
 
 Algorithmic trading, a blend of finance and technology, has significantly reshaped the dynamics of global financial markets. Employing sophisticated algorithms, traders and financial institutions execute orders at speeds and frequencies unparalleled by manual trading practices. At the core of these operations lies a fundamental understanding of financial transaction dates, notably spot and settlement dates. These dates are vital components that influence the timing, execution, and strategy of trades, impacting both the market's microstructure and overall efficiency.

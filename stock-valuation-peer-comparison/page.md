@@ -1,6 +1,8 @@
 ---
-title: "Stock Valuation Through Peer Comparison (Algo Trading)"
-description: "Discover how investors leverage stock valuation and peer comparison to identify undervalued stocks Enhance your trading strategies with algorithmic insights"
+category: trading_strategy
+description: Discover how investors leverage stock valuation and peer comparison to
+  identify undervalued stocks Enhance your trading strategies with algorithmic insights
+title: Stock Valuation Through Peer Comparison (Algo Trading)
 ---
 
 Investors in the stock market often seek opportunities to maximize their returns by identifying stocks that are undervalued. A stock is considered undervalued when its market price is lower than its intrinsic value, representing a potential buying opportunity for informed investors. The intrinsic value of a stock reflects its true worth based on factors such as financial performance, growth prospects, and market conditions. Identifying these disparities between market price and intrinsic value can provide substantial returns upon market correction.

@@ -1,6 +1,9 @@
 ---
-title: "Markets in Financial Instruments Directive (Algo Trading)"
-description: "Explore the impact of the Markets in Financial Instruments Directive on algorithmic trading, highlighting its role in enhancing transparency and market stability in the EU."
+category: quant_concept
+description: Explore the impact of the Markets in Financial Instruments Directive
+  on algorithmic trading, highlighting its role in enhancing transparency and market
+  stability in the EU.
+title: Markets in Financial Instruments Directive (Algo Trading)
 ---
 
 The landscape of financial markets has undergone substantial transformation with the implementation of regulations aimed at enhancing transparency, stability, and investor trust. Among these, the Markets in Financial Instruments Directive (MiFID) stands out as a cornerstone regulatory framework within the European Union’s financial market. Initially introduced in 2007, MiFID has played a vital role in governing market activities and ensuring a fair trading environment. 

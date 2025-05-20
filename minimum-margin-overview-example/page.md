@@ -1,6 +1,8 @@
 ---
-title: "Minimum Margin: Overview and Example (Algo Trading)"
-description: "Explore the pivotal role of minimum margin, margin accounts, and algorithmic trading in enhancing trading strategies, optimizing returns, and managing risks."
+category: quant_concept
+description: Explore the pivotal role of minimum margin, margin accounts, and algorithmic
+  trading in enhancing trading strategies, optimizing returns, and managing risks.
+title: 'Minimum Margin: Overview and Example (Algo Trading)'
 ---
 
 In financial trading, the integration of concepts like minimum margin, margin accounts, and algorithmic trading is pivotal for enhancing investment strategies. These elements play significant roles in empowering traders to expand their opportunities and optimize returns. Minimum margin serves as the threshold for entering trading positions on borrowed funds, impacting leverage and potential profits. It represents the initial capital set aside to meet the broker's requirements to engage in trading, often influenced by regulatory standards. 

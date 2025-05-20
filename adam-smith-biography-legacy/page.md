@@ -1,6 +1,9 @@
 ---
-title: "Adam Smith: Biography and Legacy (Algo Trading)"
-description: "Explore Adam Smith's influential economic theories and their connection to modern algorithmic trading shaping economic thought and policy since the 18th century."
+category: quant_concept
+description: Explore Adam Smith's influential economic theories and their connection
+  to modern algorithmic trading shaping economic thought and policy since the 18th
+  century.
+title: 'Adam Smith: Biography and Legacy (Algo Trading)'
 ---
 
 Adam Smith, a pivotal figure in economics, is often referred to as the father of modern economics. Born in the 18th century, Smith's contributions have drastically shaped the landscape of economic theory. His pioneering works, notably "The Wealth of Nations," marked the inception of classical economics, introducing foundational concepts like the division of labor and the "invisible hand." These ideas have greatly influenced how economies are understood and organized, emphasizing the role of free markets and limited governmental intervention.

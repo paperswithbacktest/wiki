@@ -1,6 +1,9 @@
 ---
-title: "Price-to-Book Ratio and Its Function (Algo Trading)"
-description: "Explore the critical role of the Price-to-Book (P/B) Ratio in investment analysis and algorithmic trading to uncover potential undervaluation or overvaluation opportunities."
+category: quant_concept
+description: Explore the critical role of the Price-to-Book (P/B) Ratio in investment
+  analysis and algorithmic trading to uncover potential undervaluation or overvaluation
+  opportunities.
+title: Price-to-Book Ratio and Its Function (Algo Trading)
 ---
 
 The world of financial metrics is vast, with tools like the Price-to-Book (P/B) Ratio playing a crucial role in investment analysis. The P/B Ratio is a fundamental financial metric that provides investors with insights into the valuation of a company by comparing its market value to its book value. This comparison helps investors assess whether a company might be undervalued or overvalued in the market. Investors and analysts utilize the P/B Ratio to make informed decisions based on its ability to highlight discrepancies between market perceptions and actual financial health, thereby offering a basis for potential investment opportunities.

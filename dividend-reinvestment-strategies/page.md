@@ -1,6 +1,8 @@
 ---
-title: "Dividend Reinvestment Strategies (Algo Trading)"
-description: "Explore dividend reinvestment and algo trading for robust portfolio growth Learn how AI-driven strategies enhance returns and efficiency in modern finance"
+category: trading_strategy
+description: Explore dividend reinvestment and algo trading for robust portfolio growth
+  Learn how AI-driven strategies enhance returns and efficiency in modern finance
+title: Dividend Reinvestment Strategies (Algo Trading)
 ---
 
 Investment strategies have evolved significantly over the years, reflecting changes in technology, economic conditions, and investor expectations. Initially, dividend reinvestment plans (DRIPs) constituted a foundational approach for investors seeking to enhance portfolio growth. These plans allow shareholders to reinvest dividends received from stocks back into additional shares, without incurring brokerage fees. This strategy leverages the concept of compounding, where reinvested earnings generate their own future earnings, potentially leading to exponential portfolio growth over time.

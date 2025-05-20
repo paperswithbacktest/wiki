@@ -1,6 +1,8 @@
 ---
-title: "Revdex in Fixed Income: Meaning and Functionality (Algo Trading)"
-description: "Explore the transformative impact of algorithmic trading on fixed income markets and the role of Revdex in optimizing bonds portfolios for investors."
+category: quant_concept
+description: Explore the transformative impact of algorithmic trading on fixed income
+  markets and the role of Revdex in optimizing bonds portfolios for investors.
+title: 'Revdex in Fixed Income: Meaning and Functionality (Algo Trading)'
 ---
 
 The financial markets have seen transformative changes with the introduction of advanced technologies, especially notable in the fixed income trading sector. Traditionally, algorithmic trading has been leveraged predominantly in the equities and foreign exchange (forex) markets due to their liquidity and data availability. However, the recent transition of algorithmic methods into fixed income trading marks a pivotal shift, introducing new dynamics to a historically manual process.

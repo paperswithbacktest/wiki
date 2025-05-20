@@ -1,6 +1,9 @@
 ---
-title: "Tax Anticipation Note: Purpose and Advantages (Algo Trading)"
-description: "Tax anticipation notes help municipalities manage cash flow by leveraging expected tax revenues. Explore how TANs, aided by algorithmic trading, optimize finances."
+category: quant_concept
+description: Tax anticipation notes help municipalities manage cash flow by leveraging
+  expected tax revenues. Explore how TANs, aided by algorithmic trading, optimize
+  finances.
+title: 'Tax Anticipation Note: Purpose and Advantages (Algo Trading)'
 ---
 
 Short-term borrowing through tax anticipation notes (TANs) has become a crucial aspect of municipal finance. TANs are debt securities issued by local governments to address timing gaps between when revenues, primarily tax collections, are received and when expenditures are due. This mechanism allows municipalities to maintain financial stability and continue funding essential public services without interruption.

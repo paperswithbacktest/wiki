@@ -1,6 +1,9 @@
 ---
-title: "Asset and Liability Management Strategies (Algo Trading)"
-description: "Discover strategies for managing assets and liabilities with algorithmic trading Learn how modern finance integrates these elements for improved financial stability"
+category: trading_strategy
+description: Discover strategies for managing assets and liabilities with algorithmic
+  trading Learn how modern finance integrates these elements for improved financial
+  stability
+title: Asset and Liability Management Strategies (Algo Trading)
 ---
 
 In the landscape of modern finance, the management of liabilities and assets is crucial for maintaining financial stability and achieving strategic goals. In recent decades, financial markets have undergone significant transformations, driven by globalization, technological advancements, and regulatory changes. These factors have collectively increased the complexity of financial mechanisms, necessitating a more comprehensive and integrated approach to financial management.

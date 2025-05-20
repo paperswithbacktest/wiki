@@ -1,6 +1,9 @@
 ---
-title: "Outrights in the Foreign Exchange Market (Algo Trading)"
-description: "Explore the role of FX outrights in algorithmic trading Discover how these instruments mitigate currency risk and optimize trading in the dynamic forex market"
+category: trading_strategy
+description: Explore the role of FX outrights in algorithmic trading Discover how
+  these instruments mitigate currency risk and optimize trading in the dynamic forex
+  market
+title: Outrights in the Foreign Exchange Market (Algo Trading)
 ---
 
 The foreign exchange (FX) market stands as the largest and most liquid financial market globally, operating as a central hub for international commerce and financial transactions. With an average daily turnover exceeding $6 trillion, the FX market facilitates the exchange of currencies necessary for global trade and investment, making it integral to the world economy (Bank for International Settlements, 2019).

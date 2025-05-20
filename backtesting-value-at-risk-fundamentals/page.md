@@ -1,6 +1,8 @@
 ---
-title: "Backtesting Value-at-Risk Fundamentals (Algo Trading)"
-description: "Improve your understanding of Backtesting Value-at-Risk in algo trading Explore methodologies to enhance risk management accuracy and financial stability"
+category: trading_strategy
+description: Improve your understanding of Backtesting Value-at-Risk in algo trading
+  Explore methodologies to enhance risk management accuracy and financial stability
+title: Backtesting Value-at-Risk Fundamentals (Algo Trading)
 ---
 
 In today's fast-paced financial markets, effective risk management is crucial for traders and investors. The intricate and volatile nature of these markets necessitates advanced tools and methodologies to safeguard investments and ensure stable returns. Among these tools, Value at Risk (VaR) has emerged as a pivotal measure for mitigating financial risk, particularly in algorithmic trading systems where rapid decision-making is essential.

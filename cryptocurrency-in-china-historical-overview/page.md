@@ -1,6 +1,12 @@
 ---
-title: "Cryptocurrency in China: A Historical Overview (Algo Trading)"
-description: "Discover China's profound influence on cryptocurrency markets, exploring the country's historical engagement from early adoption to recent regulatory measures. This insightful article investigates into the evolution of crypto trading in China, highlighting the pivotal role of algorithmic trading within its unique financial landscape. Gain valuable perspectives on how technology, policy, and market dynamics interplay in one of the world's largest economies."
+category: quant_concept
+description: Discover China's profound influence on cryptocurrency markets, exploring
+  the country's historical engagement from early adoption to recent regulatory measures.
+  This insightful article investigates into the evolution of crypto trading in China,
+  highlighting the pivotal role of algorithmic trading within its unique financial
+  landscape. Gain valuable perspectives on how technology, policy, and market dynamics
+  interplay in one of the world's largest economies.
+title: 'Cryptocurrency in China: A Historical Overview (Algo Trading)'
 ---
 
 The world of cryptocurrency represents a dynamic and complex segment of the global economy, characterized by rapid technological innovations and continually evolving regulations. Among the major global players, China stands out for having a significant and multifaceted impact on cryptocurrency's historical development. As one of the world's largest economies and a technological powerhouse, China's engagement with cryptocurrency goes beyond simple adoption, influencing technological progress and regulatory norms.

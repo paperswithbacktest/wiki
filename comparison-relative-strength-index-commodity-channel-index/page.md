@@ -1,6 +1,8 @@
 ---
-title: "Comparison of Relative Strength Index and Commodity Channel Index (Algo Trading)"
-description: "Explore how Commodity Channel Index and Relative Strength Index aid in algorithmic trading with insights into their roles, benefits, and practical applications."
+category: trading_strategy
+description: Explore how Commodity Channel Index and Relative Strength Index aid in
+  algorithmic trading with insights into their roles, benefits, and practical applications.
+title: Comparison of Relative Strength Index and Commodity Channel Index (Algo Trading)
 ---
 
 The integration of technical indicators such as the Commodity Channel Index (CCI) and the Relative Strength Index (RSI) plays a crucial role in algorithmic trading, where the analysis of market trends and conditions is automated using algorithms. Both these indicators are classified as momentum oscillators, used extensively by traders to interpret market conditions and predict future price movements. 

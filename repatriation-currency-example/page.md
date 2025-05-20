@@ -1,6 +1,9 @@
 ---
-title: "Repatriation of Currency with Example (Algo Trading)"
-description: "Explore the challenges and strategies of currency repatriation in global finance, focusing on algorithmic trading's role in optimizing currency exchange rates."
+category: quant_concept
+description: Explore the challenges and strategies of currency repatriation in global
+  finance, focusing on algorithmic trading's role in optimizing currency exchange
+  rates.
+title: Repatriation of Currency with Example (Algo Trading)
 ---
 
 In today's globalized economy, the movement of capital across borders is an essential aspect of financial operations. Corporations and individuals frequently engage in the complex process of transferring money internationally to optimize investments and manage resources. The process of repatriating funds, which involves transferring money back to the home country, can pose significant challenges. These challenges stem from the need to navigate a labyrinth of currency exchange rates, taxes, and differing regulations in multiple jurisdictions—all of which can impact the net value of the funds once they are returned to the home country.

@@ -1,8 +1,8 @@
 ---
-title: "Comprehensive Guide to Few\u2011Shot Learning Methods and Applications"
-description: "Few\u2011Shot Learning accelerates model adaptation with minimal data\
-  \ using transfer and meta\u2011learning techniques for rapid task mastery. Discover\
-  \ more inside."
+category: quant_concept
+description: Few‑Shot Learning accelerates model adaptation with minimal data using
+  transfer and meta‑learning techniques for rapid task mastery. Discover more inside.
+title: Comprehensive Guide to Few‑Shot Learning Methods and Applications
 ---
 
 ![Image](images/1.png)

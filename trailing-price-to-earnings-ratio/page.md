@@ -1,6 +1,8 @@
 ---
-title: "Trailing Price-To-Earnings Ratio (Algo Trading)"
-description: "Discover how the trailing Price-to-Earnings ratio aids algorithmic trading by valuing stocks with past earnings data, optimizing strategies for better trades."
+category: quant_concept
+description: Discover how the trailing Price-to-Earnings ratio aids algorithmic trading
+  by valuing stocks with past earnings data, optimizing strategies for better trades.
+title: Trailing Price-To-Earnings Ratio (Algo Trading)
 ---
 
 The financial world relies heavily on metrics to assess the value and performance of stocks. A fundamental valuation metric is the Price-to-Earnings (P/E) ratio, with the trailing P/E being particularly significant. This metric helps investors understand how much they are paying for a company's earnings based on actual earnings reporting over the past 12 months. The formula is straightforward:
@@ -165,4 +167,3 @@ print(df)
 In addition, academic journals and publications provide valuable insights into the latest developments in algorithmic trading. Keeping up with academic papers can reveal emerging trends and novel approaches to integrating financial metrics with algorithmic strategies, ensuring a well-rounded understanding of the field.
 
 Ultimately, a combination of classic literature, online resources, and hands-on practice is recommended for those wishing to deepen their understanding of financial metrics and their application in algorithmic trading.
-

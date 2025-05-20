@@ -1,6 +1,8 @@
 ---
-title: "One-Time Items: Overview and Examples (Algo Trading)"
-description: "Explore the pivotal role of one-time items in accounting and their integration with algorithmic trading to enhance financial analysis and trading strategies."
+category: quant_concept
+description: Explore the pivotal role of one-time items in accounting and their integration
+  with algorithmic trading to enhance financial analysis and trading strategies.
+title: 'One-Time Items: Overview and Examples (Algo Trading)'
 ---
 
 In today's rapidly evolving financial landscape, two distinct yet interconnected concepts have surfaced as pivotal tools for analysts and traders—one-time items in accounting and algorithmic trading. One-time items refer to nonrecurring gains or losses on a company's income statement, such as restructuring charges or asset sales. These are separated from regular operations to provide a clearer understanding of a company's core performance. Algorithmic trading, on the other hand, utilizes computer algorithms to execute trades based on predefined criteria such as price, volume, or market signals. This approach offers advantages like enhanced speed, precision, and the removal of emotional bias, making it increasingly popular in financial markets.

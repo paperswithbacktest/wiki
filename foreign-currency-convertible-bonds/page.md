@@ -1,6 +1,9 @@
 ---
-title: "Foreign Currency Convertible Bonds (Algo Trading)"
-description: "Discover how Foreign Currency Convertible Bonds (FCCBs) blend debt and equity features to offer firms international market access and investors unique strategic benefits."
+category: quant_concept
+description: Discover how Foreign Currency Convertible Bonds (FCCBs) blend debt and
+  equity features to offer firms international market access and investors unique
+  strategic benefits.
+title: Foreign Currency Convertible Bonds (Algo Trading)
 ---
 
 Financial instruments serve as the backbone of the global investment landscape, offering myriad avenues for investors and companies to engage in capital markets. Among the varied instruments are bonds, equities, derivatives, and hybrid securities—each providing distinct attributes catered to different investor needs and regulatory environments. Globalization has profoundly impacted these instruments, facilitating the flow of capital across borders and enabling a broader range of investment opportunities. This interconnected nature of modern finance enhances market liquidity but also introduces complexity and risks associated with geopolitical, economic, and currency fluctuations.

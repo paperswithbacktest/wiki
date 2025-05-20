@@ -1,6 +1,9 @@
 ---
-title: "Preferred Equity Redemption Stock (Algo Trading)"
-description: "Unlock the complexities of Preferred Equity Redemption Stock in algorithmic trading Discover how PERCs and PERCS offer investment flexibility with unique equity and debt traits"
+category: quant_concept
+description: Unlock the complexities of Preferred Equity Redemption Stock in algorithmic
+  trading Discover how PERCs and PERCS offer investment flexibility with unique equity
+  and debt traits
+title: Preferred Equity Redemption Stock (Algo Trading)
 ---
 
 The financial world is filled with intricate instruments that cater to diverse investment requirements, offering a blend of both equity and debt characteristics. Among these, Preferred Equity Redemption Stock (PERC) and Preference Equity Redemption Cumulative Stock (PERCS) emerge as notable options for both investors and issuers. These instruments are uniquely structured to combine the benefits of preferred stocks with the security features typically associated with debt instruments. 

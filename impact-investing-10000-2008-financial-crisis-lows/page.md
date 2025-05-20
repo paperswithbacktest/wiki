@@ -1,6 +1,8 @@
 ---
-title: "Impact of Investing $10,000 at 2008 Financial Crisis Lows (Algo Trading)"
-description: "Discover the impact of investing $10,000 at 2008 crisis lows with insights into market recovery algorithmic trading and long-term investment strategies."
+category: trading_strategy
+description: Discover the impact of investing $10,000 at 2008 crisis lows with insights
+  into market recovery algorithmic trading and long-term investment strategies.
+title: Impact of Investing $10,000 at 2008 Financial Crisis Lows (Algo Trading)
 ---
 
 The 2008 financial crisis marked a pivotal moment in the history of the global economy, reshaping financial landscapes and altering investment paradigms worldwide. Triggered by the implosion of the U.S. housing market and the widespread issuance of subprime mortgages, the crisis sent shockwaves across financial institutions, resulting in severe instability that echoed through global markets. At its peak, the collapse of Lehman Brothers, a titan of the financial industry, intensified the panic, leading to rapid declines in stock markets and a tightening of credit flows.

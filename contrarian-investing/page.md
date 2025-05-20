@@ -1,6 +1,8 @@
 ---
-title: "Contrarian investing (Algo Trading)"
-description: "Discover the unique strategies and benefits of contrarian investing combined with algorithmic trading for savvy investors looking to capitalize on market inefficiencies."
+category: trading_strategy
+description: Discover the unique strategies and benefits of contrarian investing combined
+  with algorithmic trading for savvy investors looking to capitalize on market inefficiencies.
+title: Contrarian investing (Algo Trading)
 ---
 
 Contrarian investing is a strategic approach that involves buying and selling against prevailing market trends. This strategy is grounded in the belief that markets overreact to news and events, leading to mispriced assets. Investors who practice contrarian investing capitalize on these overreactions by acquiring undervalued assets or selling overvalued ones, aiming to profit when market perceptions eventually align with intrinsic values. 

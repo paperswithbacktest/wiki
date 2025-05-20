@@ -1,6 +1,8 @@
 ---
-title: "Capabilities and Limitations of Robo-Advisors for Investors (Algo Trading)"
-description: "Explore the advantages and limitations of robo-advisors and algorithmic trading to make informed investment decisions using cutting-edge financial technology."
+category: trading_strategy
+description: Explore the advantages and limitations of robo-advisors and algorithmic
+  trading to make informed investment decisions using cutting-edge financial technology.
+title: Capabilities and Limitations of Robo-Advisors for Investors (Algo Trading)
 ---
 
 The world of investing has undergone a significant shift with the advent and adoption of financial technology, commonly referred to as fintech. This field has introduced innovations like robo-advisors and algorithmic trading, which have become pivotal in altering how both individual and institutional investors manage their investment portfolios.

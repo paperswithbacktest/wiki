@@ -1,6 +1,8 @@
 ---
-title: "Equity Income: Overview, Functionality, and Examples (Algo Trading)"
-description: "Discover how dividend stocks, equity income, and algorithmic trading integrate to enhance investment portfolios, balance risk, and maximize returns effectively."
+category: trading_strategy
+description: Discover how dividend stocks, equity income, and algorithmic trading
+  integrate to enhance investment portfolios, balance risk, and maximize returns effectively.
+title: 'Equity Income: Overview, Functionality, and Examples (Algo Trading)'
 ---
 
 In today's ever-evolving financial landscape, investors are constantly seeking new strategies to maximize their returns. As traditional methods encounter challenges from low-interest rates and market volatility, the integration of different investment approaches becomes vital. One effective strategy involves merging the benefits of dividend stocks, equity income, and algorithmic trading to enhance investment income, offering a comprehensive approach that balances risk and reward.

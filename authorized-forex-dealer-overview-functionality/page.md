@@ -1,6 +1,8 @@
 ---
-title: "Authorized Forex Dealer: Overview and Functionality (Algo Trading)"
-description: "Discover the pivotal role of authorized forex dealers in ensuring secure and efficient trading within the global forex market through regulatory compliance."
+category: quant_concept
+description: Discover the pivotal role of authorized forex dealers in ensuring secure
+  and efficient trading within the global forex market through regulatory compliance.
+title: 'Authorized Forex Dealer: Overview and Functionality (Algo Trading)'
 ---
 
 The foreign exchange (forex) market is a global decentralized marketplace where participants trade currencies. It is the largest and most liquid financial market in the world, with an average daily trading volume exceeding $6 trillion, as reported by the Bank for International Settlements in their 2019 triennial survey. This immense scale of operations results from the need to exchange currencies across different countries for various purposes, including trade, investment, tourism, and speculation.

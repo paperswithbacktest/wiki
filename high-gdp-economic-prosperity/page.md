@@ -1,6 +1,9 @@
 ---
-title: "High GDP and Economic Prosperity (Algo Trading)"
-description: "Explore the connection between GDP, economic indicators, and algorithmic trading to gain insights into optimizing trading strategies and informed financial decisions."
+category: quant_concept
+description: Explore the connection between GDP, economic indicators, and algorithmic
+  trading to gain insights into optimizing trading strategies and informed financial
+  decisions.
+title: High GDP and Economic Prosperity (Algo Trading)
 ---
 
 Understanding the intricate relationship between Gross Domestic Product (GDP), economic prosperity, economic indicators, and algorithmic trading is crucial for investors and financial professionals. GDP serves as a primary gauge of economic health, providing insights into the size and performance of an economy. It represents the total monetary value of all finished goods and services produced within a country over a specific period. However, GDP has limitations as it does not account for disparities in income distribution, environmental impacts, and overall societal well-being. Thus, while an increasing GDP often signals healthy economic conditions, supplemented metrics like the Genuine Progress Indicator (GPI) aim to offer a more comprehensive view of economic prosperity.
@@ -160,4 +163,3 @@ Investopedia. "Economic Indicators." Retrieved from [Investopedia](https://www.i
 U.S. Bureau of Economic Analysis. "Gross Domestic Product (GDP)." Retrieved from [BEA](https://www.bea.gov). The U.S. Bureau of Economic Analysis provides authoritative data on national, international, regional, and industry-specific economic performance. Their GDP reports are critical for gauging economic health, and this resource is essential for any financial analysis involving national accounting.
 
 Chan, E. (2009). "Quantitative Trading: How to Build Your Own Algorithmic Trading Business." This book demystifies the process of setting up an algorithmic trading operation. It covers key concepts in trading strategies, trading system design, and risk management. It is particularly useful for those looking to incorporate economic data and indicators into automated trading systems, providing practical guidance for building a trading business from the ground up.
-

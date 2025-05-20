@@ -1,6 +1,9 @@
 ---
-title: "Last In, First Out Inventory Cost Method (Algo Trading)"
-description: "Explore how the Last In, First Out (LIFO) inventory method impacts accounting, taxes, and algorithmic trading strategies, offering unique financial advantages during inflation."
+category: quant_concept
+description: Explore how the Last In, First Out (LIFO) inventory method impacts accounting,
+  taxes, and algorithmic trading strategies, offering unique financial advantages
+  during inflation.
+title: Last In, First Out Inventory Cost Method (Algo Trading)
 ---
 
 Inventory costing methods are vital in accounting and finance as they determine inventory value and cost of goods sold. Among these methods, Last In, First Out (LIFO) is particularly noteworthy. This technique is widely recognized for its unique approach to handling inventory costs; it assumes that the most recently acquired or produced items are sold first. This method can significantly affect a company’s financial results, especially during inflationary periods.

@@ -1,6 +1,8 @@
 ---
-title: "Investment Automation Techniques (Algo Trading)"
-description: "Explore investment automation and algorithmic trading, uncovering their impact on finance by enhancing efficiency and accuracy while presenting unique challenges."
+category: trading_strategy
+description: Explore investment automation and algorithmic trading, uncovering their
+  impact on finance by enhancing efficiency and accuracy while presenting unique challenges.
+title: Investment Automation Techniques (Algo Trading)
 ---
 
 The evolution of financial technology has significantly transformed the way we invest, trade, and manage assets. Central to these advancements is automation, particularly through algorithmic trading, which has reshaped the financial sector by enhancing precision, speed, and operational efficiency. This article aims to explore the implications, benefits, and challenges associated with financial technology, focusing on investment automation and algorithmic trading.

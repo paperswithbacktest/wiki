@@ -1,6 +1,8 @@
 ---
-title: "Non-Equity Options: Definition and Mechanism (Algo Trading)"
-description: "Explore the dynamics of non-equity options and algorithmic trading in financial markets including strategies for risk management diversification and leveraging."
+category: quant_concept
+description: Explore the dynamics of non-equity options and algorithmic trading in
+  financial markets including strategies for risk management diversification and leveraging.
+title: 'Non-Equity Options: Definition and Mechanism (Algo Trading)'
 ---
 
 Financial derivatives are financial instruments whose value is derived from an underlying asset or group of assets. These instruments, which include options, futures, swaps, and forwards, are vital in modern financial markets for purposes such as risk management, speculation, and price discovery [1]. Financial derivatives enable market participants to hedge against risks, gain exposure to assets or markets, and leverage positions to enhance returns.

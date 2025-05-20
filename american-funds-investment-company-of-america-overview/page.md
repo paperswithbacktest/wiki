@@ -1,6 +1,9 @@
 ---
-title: "American Funds Investment Company of America Overview (Algo Trading)"
-description: "Discover how American Funds’ AIVSX integrates algorithmic trading for enhanced investment strategies, optimizing performance and fostering growth through technology."
+category: trading_strategy
+description: Discover how American Funds’ AIVSX integrates algorithmic trading for
+  enhanced investment strategies, optimizing performance and fostering growth through
+  technology.
+title: American Funds Investment Company of America Overview (Algo Trading)
 ---
 
 The evolving landscape of investment procedures has undergone a significant transformation with the rise of algorithmic trading. As technology continuously reshapes various sectors, the financial industry is no exception. In this context, we'll explore the potential of algorithmic trading with particular emphasis on AIVSX, the American Funds Investment Company of America. This fund is recognized not only for its longevity and resilience since its inception in 1934 but also for its steady performance and diversified portfolio over the decades.

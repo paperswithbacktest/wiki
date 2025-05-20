@@ -1,6 +1,8 @@
 ---
-title: "Habendum Clause: Definition and Function (Algo Trading)"
-description: "The habendum clause in real estate contracts outlines property rights transfer making it essential for clarity in ownership and any conditions attached."
+category: quant_concept
+description: The habendum clause in real estate contracts outlines property rights
+  transfer making it essential for clarity in ownership and any conditions attached.
+title: 'Habendum Clause: Definition and Function (Algo Trading)'
 ---
 
 Real estate contracts incorporate numerous clauses that define the rights and obligations of the parties involved. Among these, the habendum clause stands out due to its critical role in the transfer of property rights. This clause specifically delineates the extent to which ownership and interests are conveyed in a property transaction, thus serving as a cornerstone of clarity and precision in real estate agreements. An in-depth understanding of the habendum clause is indispensable for real estate professionals, as it affects transaction outcomes and any associated legal implications.

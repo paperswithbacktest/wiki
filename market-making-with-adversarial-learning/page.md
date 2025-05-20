@@ -1,6 +1,8 @@
 ---
-title: "Market-Making with Adversarial Learning (Algo Trading)"
-description: "Explore the transformative role of adversarial learning in algorithmic market-making to enhance trade efficiency, liquidity, and robust strategy adaptation."
+category: quant_concept
+description: Explore the transformative role of adversarial learning in algorithmic
+  market-making to enhance trade efficiency, liquidity, and robust strategy adaptation.
+title: Market-Making with Adversarial Learning (Algo Trading)
 ---
 
 Market-making is a fundamental component of financial markets, serving as a mechanism to enhance liquidity and facilitate the smooth functioning of trade. Market-makers operate by providing continuous bid and ask prices for financial instruments, thus enabling buyers and sellers to execute trades at nearly any given moment. By offering to buy and sell securities, market-makers assume the risk of holding assets and in return, earn profits from the bid-ask spread. This liquidity provision is crucial as it reduces trading costs and aids in the price discovery process, ensuring market efficiency.

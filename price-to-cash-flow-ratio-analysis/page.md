@@ -1,6 +1,8 @@
 ---
-title: "Price-to-Cash-Flow Ratio Analysis (Algo Trading)"
-description: "Explore the Price-to-Cash-Flow ratio analysis in finance to uncover insights into a company's stock value and cash-generating abilities for better trading decisions."
+category: quant_concept
+description: Explore the Price-to-Cash-Flow ratio analysis in finance to uncover insights
+  into a company's stock value and cash-generating abilities for better trading decisions.
+title: Price-to-Cash-Flow Ratio Analysis (Algo Trading)
 ---
 
 In the world of finance, understanding investment metrics is key to making informed decisions. Among these metrics, the price-to-cash-flow (P/CF) ratio stands out as a lesser-known but highly insightful tool. This ratio allows investors to evaluate a firm's stock price relative to its cash-generating capabilities, providing a clearer insight into its financial health. Unlike earnings, which can be subject to various accounting practices and manipulations, cash flow is considered a more straightforward representation of a company's ability to generate liquid assets.

@@ -1,6 +1,14 @@
 ---
-title: "Volume-synchronized probability of informed trading (VPIN) (Algo Trading)"
-description: Discover the innovative Volume-Synchronized Probability of Informed Trading (VPIN) model, a breakthrough in financial analytics. Developed by Easley, López de Prado, and O'Hara, VPIN evaluates buy-sell imbalances to estimate informed trading risks, offering traders real-time insights into market liquidity and volatility dynamics. This tool is especially powerful in high-frequency trading settings, providing predictive capabilities that enhance risk management and strategy optimization. Learn how VPIN can transform market analysis with its volume-time framework, offering a proactive edge in navigating complex trading environments.
+category: quant_concept
+description: Discover the innovative Volume-Synchronized Probability of Informed Trading
+  (VPIN) model, a breakthrough in financial analytics. Developed by Easley, López
+  de Prado, and O'Hara, VPIN evaluates buy-sell imbalances to estimate informed trading
+  risks, offering traders real-time insights into market liquidity and volatility
+  dynamics. This tool is especially powerful in high-frequency trading settings, providing
+  predictive capabilities that enhance risk management and strategy optimization.
+  Learn how VPIN can transform market analysis with its volume-time framework, offering
+  a proactive edge in navigating complex trading environments.
+title: Volume-synchronized probability of informed trading (VPIN) (Algo Trading)
 ---
 
 The Volume-Synchronized Probability of Informed Trading (VPIN) represents a significant breakthrough in the field of financial analytics, offering a nuanced approach to understanding market dynamics. Developed by academics and researchers David Easley, Marcos López de Prado, and Maureen O'Hara, VPIN stands as a pivotal advancement in market analysis tools. This metric is designed to evaluate imbalances between buy and sell volumes to estimate the likelihood of informed trading, thereby providing a sophisticated perspective on market liquidity and volatility.

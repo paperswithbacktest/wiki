@@ -1,6 +1,8 @@
 ---
-title: "Call Risk: Explanation and Mechanics (Algo Trading)"
-description: "Explore the complexities of call risk in bond investments and learn how algorithmic trading can help mitigate these risks, securing better returns for investors."
+category: quant_concept
+description: Explore the complexities of call risk in bond investments and learn how
+  algorithmic trading can help mitigate these risks, securing better returns for investors.
+title: 'Call Risk: Explanation and Mechanics (Algo Trading)'
 ---
 
 In the complex world of finance, bond investments provide a reliable income stream by offering periodic interest payments to investors. However, these investments carry various risks, with call risk being a significant concern. Call risk emerges when a bond issuer decides to redeem a bond before its scheduled maturity date. This preemptive redemption often occurs in environments where interest rates are declining, enabling issuers to refinance debt at more favorable rates. For investors, this action can disrupt income forecasts and planned financial strategies, as the holder is forced to seek alternative investment opportunities, potentially at lower yields.

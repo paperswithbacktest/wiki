@@ -1,6 +1,9 @@
 ---
-title: "Applied Overhead: Explanation and Example (Algo Trading)"
-description: "Learn how applied overhead impacts algorithmic trading and financial planning. Discover methods to allocate costs for enhanced strategy and profitability analysis."
+category: quant_concept
+description: Learn how applied overhead impacts algorithmic trading and financial
+  planning. Discover methods to allocate costs for enhanced strategy and profitability
+  analysis.
+title: 'Applied Overhead: Explanation and Example (Algo Trading)'
 ---
 
 Understanding the different types of costs involved in production and operations is crucial for businesses navigating the complexities of financial management. Among these expenses, overhead costs often present challenges for companies striving to optimize budgeting and financial planning strategies. Overhead costs are the expenses incurred to support the production process but are not directly tied to output. These costs can include utilities, rent, administrative salaries, and other necessary operational expenses.

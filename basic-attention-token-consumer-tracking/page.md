@@ -1,6 +1,9 @@
 ---
-title: "Basic Attention Token and Consumer Tracking (Algo Trading)"
-description: "Explore the transformative impact of Basic Attention Token in digital advertising and its innovative use of blockchain for secure consumer tracking and algorithmic trading."
+category: quant_concept
+description: Explore the transformative impact of Basic Attention Token in digital
+  advertising and its innovative use of blockchain for secure consumer tracking and
+  algorithmic trading.
+title: Basic Attention Token and Consumer Tracking (Algo Trading)
 ---
 
 The Basic Attention Token (BAT) represents a significant shift in the digital advertising landscape by leveraging blockchain technology to transform the manner in which media consumption is tracked and valued. Developed as an integral component of the Brave web browser ecosystem, BAT focuses on enhancing advertising effectiveness and bolstering data privacy. By introducing a decentralized system, it allows for precise and confidential monitoring of how media consumers engage with content, aiming to reshape the dynamics between advertisers, publishers, and users.

@@ -1,6 +1,13 @@
 ---
-title: "Role of Traders on the Exchange Floor (Algo Trading)"
-description: "Explore the transformation of trading practices from traditional exchange floor traders to modern algorithmic trading in financial markets. Delve into the historical evolution, the role of human intuition, technological advancements, and the impact on market dynamics, liquidity, and efficiency. Gain insights into the benefits and challenges accompanying algorithmic trading, including speed, precision, and systemic risks, to better understand the current and future landscape of financial trading."
+category: quant_concept
+description: Explore the transformation of trading practices from traditional exchange
+  floor traders to modern algorithmic trading in financial markets. Delve into the
+  historical evolution, the role of human intuition, technological advancements, and
+  the impact on market dynamics, liquidity, and efficiency. Gain insights into the
+  benefits and challenges accompanying algorithmic trading, including speed, precision,
+  and systemic risks, to better understand the current and future landscape of financial
+  trading.
+title: Role of Traders on the Exchange Floor (Algo Trading)
 ---
 
 Financial markets have long formed the backbone of global economic systems, facilitating the exchange of assets, risk, and capital across both borders and sectors. Historically, trading practices within these markets have evolved alongside technological, regulatory, and institutional transformations. Understanding this progression is vital to appreciating the current state and future potential of financial markets.

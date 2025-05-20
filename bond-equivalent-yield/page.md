@@ -1,6 +1,8 @@
 ---
-title: "Bond Equivalent Yield (Algo Trading)"
-description: "Explore the synergy between Bond Equivalent Yield and algorithmic trading to enhance investment strategies and optimize returns in fixed-income markets."
+category: quant_concept
+description: Explore the synergy between Bond Equivalent Yield and algorithmic trading
+  to enhance investment strategies and optimize returns in fixed-income markets.
+title: Bond Equivalent Yield (Algo Trading)
 ---
 
 In today's financial markets, understanding key concepts such as bond yields and algorithmic trading can significantly enhance investment strategies. At the heart of fixed-income securities analysis is the Bond Equivalent Yield (BEY), a vital metric that evaluates the performance of bonds. BEY enables investors to compare bonds with differing maturities and payment structures effectively by providing a standardized yield method. This uniformity is particularly important for zero-coupon bonds or bonds with non-annual interest payments, facilitating informed investment decisions.
@@ -120,4 +122,3 @@ Investopedia: Bond Equivalent Yield - This resource provides a comprehensive ove
 Algorithmic Trading Resources and Libraries - A collection of resources and libraries that offer insights into algorithmic trading strategies, tools, and programming frameworks. These materials are invaluable for those looking to enhance their knowledge of algorithm automation and implementation in financial markets.
 
 Wall Street Mojo: Bond Equivalent Yield Examples and Calculations - This reference offers practical examples and step-by-step calculations of BEY. It is particularly useful for those seeking to comprehend the application of BEY in real-world scenarios, providing clarity through detailed examples and case studies.
-

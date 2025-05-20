@@ -1,6 +1,9 @@
 ---
-title: "Treasury STRIPS: Overview and Investment Guide (Algo Trading)"
-description: "Explore Treasury STRIPS as secure zero-coupon bonds sold at a discount offering predictable returns and learn about algorithmic trading strategies to optimize investments."
+category: quant_concept
+description: Explore Treasury STRIPS as secure zero-coupon bonds sold at a discount
+  offering predictable returns and learn about algorithmic trading strategies to optimize
+  investments.
+title: 'Treasury STRIPS: Overview and Investment Guide (Algo Trading)'
 ---
 
 In today's financial landscape, Treasury STRIPS (Separate Trading of Registered Interest and Principal of Securities) offer a unique investment opportunity for both individual and institutional investors. As zero-coupon bonds, Treasury STRIPS are distinct in that they are sold at a discount and do not offer periodic interest payments. Instead, investors receive the bond's face value upon maturity, making them a secure investment option with predictable long-term returns.

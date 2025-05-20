@@ -1,6 +1,9 @@
 ---
-title: "Effective Gross Income and Calculation Formula (Algo Trading)"
-description: "Explore how Effective Gross Income and algorithmic trading converge to enhance real estate investment strategies by providing precise data analysis and planning."
+category: quant_concept
+description: Explore how Effective Gross Income and algorithmic trading converge to
+  enhance real estate investment strategies by providing precise data analysis and
+  planning.
+title: Effective Gross Income and Calculation Formula (Algo Trading)
 ---
 
 Effective Gross Income (EGI) serves as a fundamental metric for both real estate investors and property managers by offering a more nuanced understanding of a property's income potential. Unlike gross rental income, EGI accounts for factors such as vacancies and credit losses, thus providing a realistic projection of cash flow. This measurement is essential for making informed investment decisions, such as evaluating a property's market value, forecasting future income, and underwriting loans.

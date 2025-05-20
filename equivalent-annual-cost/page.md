@@ -1,6 +1,9 @@
 ---
-title: "Equivalent Annual Cost (Algo Trading)"
-description: "Explore the role of Equivalent Annual Cost in comparing investments by transforming costs into a uniform annual figure vital for capital budgeting and algorithm trading."
+category: quant_concept
+description: Explore the role of Equivalent Annual Cost in comparing investments by
+  transforming costs into a uniform annual figure vital for capital budgeting and
+  algorithm trading.
+title: Equivalent Annual Cost (Algo Trading)
 ---
 
 In finance and investment analysis, metrics such as the Equivalent Annual Cost (EAC) are essential in evaluating the feasibility and cost-effectiveness of projects. EAC is particularly significant in capital budgeting, where it aids companies in comparing projects that have different lifespans and investment scales. By transforming total project costs over a lifespan into an equivalent annual figure, EAC provides a uniform basis for comparison, allowing for a more standardized approach to evaluating long-term investments or equipment purchases.

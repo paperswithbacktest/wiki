@@ -1,6 +1,8 @@
 ---
-title: "Benchmark Crude Oil: Significance and Function (Algo Trading)"
-description: "Discover the significance of benchmark crude oils and algorithmic trading in the global oil market and learn how they influence pricing and trading strategies."
+category: quant_concept
+description: Discover the significance of benchmark crude oils and algorithmic trading
+  in the global oil market and learn how they influence pricing and trading strategies.
+title: 'Benchmark Crude Oil: Significance and Function (Algo Trading)'
 ---
 
 The global crude oil market is an integral part of the energy landscape, playing a significant role in shaping both global economies and industries. As one of the most actively traded commodities, crude oil's influence extends far beyond its traditional role as an energy source. Its pricing affects a wide range of sectors, from transportation and manufacturing to chemicals and finance, thereby impacting everything from daily consumer prices to national economic policies. 

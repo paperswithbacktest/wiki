@@ -1,6 +1,8 @@
 ---
-title: "Goodwill Impairment: Timing and Causes (Algo Trading)"
-description: "Explore the timing and causes of goodwill impairment in corporate finance and its impact on algorithmic trading strategies and financial transparency."
+category: quant_concept
+description: Explore the timing and causes of goodwill impairment in corporate finance
+  and its impact on algorithmic trading strategies and financial transparency.
+title: 'Goodwill Impairment: Timing and Causes (Algo Trading)'
 ---
 
 Corporate finance is essential for the effective management of a company's financial endeavors and strategic direction. Within this domain, goodwill impairment holds significant importance in financial accounting. Goodwill arises when a company acquires another business for a price exceeding the fair value of its net identifiable assets. This intangible asset reflects anticipated economic benefits from synergies, customer relationships, and other non-physical assets. However, its value can fluctuate, necessitating careful assessment to ensure accurate financial reporting.

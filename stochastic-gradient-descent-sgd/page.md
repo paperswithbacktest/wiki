@@ -1,7 +1,8 @@
 ---
-title: Stochastic Gradient Descent Essentials for Machine Learning
+category: quant_concept
 description: Stochastic Gradient Descent accelerates training by updating parameters
   on mini-batches to boost efficiency and avoid local minima Discover more inside
+title: Stochastic Gradient Descent Essentials for Machine Learning
 ---
 
 ![Image](images/1.jpeg)

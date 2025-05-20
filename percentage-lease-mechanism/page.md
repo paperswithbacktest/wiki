@@ -1,6 +1,9 @@
 ---
-title: "Percentage Lease and Its Mechanism (Algo Trading)"
-description: "Explore the dynamics of percentage leases in retail real estate which links rent to sales performance benefiting both landlords and tenants. Discover its adaptability and incentives."
+category: quant_concept
+description: Explore the dynamics of percentage leases in retail real estate which
+  links rent to sales performance benefiting both landlords and tenants. Discover
+  its adaptability and incentives.
+title: Percentage Lease and Its Mechanism (Algo Trading)
 ---
 
 Retail lease percentage agreements play a vital role in the landscape of commercial real estate, offering a unique approach to leasing that aligns the interests of landlords and tenants. These agreements typically entail a leasing arrangement where tenants pay a base rent in addition to a percentage of their gross sales to the landlord. This structure is predominantly employed in retail environments such as shopping malls and high-traffic commercial centers, where tenant sales performance can significantly vary.

@@ -1,6 +1,11 @@
 ---
-title: "ETFs: What’s Better? Full Replication vs. Representative Sampling?"
-description: Explore the pros and cons of full replication vs representative sampling in ETFs in this comprehensive guide. Understand how these methods impact tracking accuracy, costs, and trading strategies, drawing insights from Dyer and Guest's 2022 study. Ideal for investors and algorithmic traders seeking to optimize their investment strategies.
+category: quant_concept
+description: Explore the pros and cons of full replication vs representative sampling
+  in ETFs in this comprehensive guide. Understand how these methods impact tracking
+  accuracy, costs, and trading strategies, drawing insights from Dyer and Guest's
+  2022 study. Ideal for investors and algorithmic traders seeking to optimize their
+  investment strategies.
+title: 'ETFs: What’s Better? Full Replication vs. Representative Sampling?'
 ---
 
 In recent decades, passive investing has increasingly gained traction over active investing, primarily due to its cost-effectiveness and ability to deliver market-conforming returns. At the forefront of this investment trend are Exchange-Traded Funds (ETFs), which are designed to track market indices and mimic their performance. ETFs are popular instruments in passive investment strategies because they offer investors diversified exposure while typically incurring lower fees than actively managed funds. 

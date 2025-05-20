@@ -1,6 +1,8 @@
 ---
-title: "Monday Effect on Stock Market Prices (Algo Trading)"
-description: "Discover the Monday Effect's potential impact on stock markets and algorithmic trading Explore this intriguing trend for valuable trading insights"
+category: trading_strategy
+description: Discover the Monday Effect's potential impact on stock markets and algorithmic
+  trading Explore this intriguing trend for valuable trading insights
+title: Monday Effect on Stock Market Prices (Algo Trading)
 ---
 
 The Monday Effect is an intriguing phenomenon in the stock market that investors and traders often examine closely. This financial theory suggests that Monday stock returns tend to follow the trends seen on the previous Friday. In practice, if a stock market closes on a high note on Friday, it is likely that it will open stronger on the following Monday, and similarly, if the market closes low on Friday, a weaker opening is anticipated on Monday. This effect is drawn from observed patterns in trading behaviors that occur over weekends when the market is closed. 

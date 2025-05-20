@@ -1,7 +1,8 @@
 ---
-title: Mitigating Bias in Machine Learning for Fair and Accurate Models
+category: quant_concept
 description: Bias in Machine Learning can skew predictions and impact fairness Use
   fairness metrics and diverse data to measure and reduce bias Discover more inside
+title: Mitigating Bias in Machine Learning for Fair and Accurate Models
 ---
 
 ![Image](images/1.jpeg)

@@ -1,6 +1,9 @@
 ---
-title: "Constant Maturity Concept in Treasury Securities (Algo Trading)"
-description: "Explore the interplay between constant maturity in Treasury securities and algorithmic trading. Learn how this key concept enhances financial comparisons and trading strategies."
+category: quant_concept
+description: Explore the interplay between constant maturity in Treasury securities
+  and algorithmic trading. Learn how this key concept enhances financial comparisons
+  and trading strategies.
+title: Constant Maturity Concept in Treasury Securities (Algo Trading)
 ---
 
 The world of finance is both intricate and intriguing, particularly when it comes to instruments such as Treasury securities. These securities, issued by the federal government, serve as essential tools for financing national operations and managing monetary policy. Treasury securities form a backbone of the financial system, influencing a wide range of economic activities from government funding to market liquidity.

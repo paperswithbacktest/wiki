@@ -1,6 +1,8 @@
 ---
-title: "Calculating ETF Value (Algo Trading)"
-description: "Learn how to accurately value ETFs with insights into Net Asset Value NAV calculations market price dynamics and the role of algorithmic trading."
+category: trading_strategy
+description: Learn how to accurately value ETFs with insights into Net Asset Value
+  NAV calculations market price dynamics and the role of algorithmic trading.
+title: Calculating ETF Value (Algo Trading)
 ---
 
 Exchange-Traded Funds (ETFs) are investment vehicles that offer a blend of features commonly associated with individual stocks and mutual funds. Like stocks, ETFs are traded on major exchanges, allowing investors to buy and sell them throughout the trading day. However, similar to mutual funds, they provide exposure to a wide range of assets, including stocks, bonds, and other securities, often tracking an index. These characteristics make ETFs a versatile and increasingly popular choice for both individual and institutional investors. The growing appeal of ETFs is driven by their inexpensive nature, tax efficiency, and ease of diversification, which is why they have become a central component of many investment portfolios.

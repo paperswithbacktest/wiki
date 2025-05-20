@@ -1,6 +1,8 @@
 ---
-title: "Portfolio Pumping: Overview, History, and Examples (Algo Trading)"
-description: "Explore portfolio pumping and stock market manipulation in algo trading, learn about the history, examples, and ethical concerns within financial markets."
+category: trading_strategy
+description: Explore portfolio pumping and stock market manipulation in algo trading,
+  learn about the history, examples, and ethical concerns within financial markets.
+title: 'Portfolio Pumping: Overview, History, and Examples (Algo Trading)'
 ---
 
 The stock market is a dynamic arena characterized by its potential for substantial gains and significant risks. It is a complex ecosystem where various tactics are employed to influence investor decisions and fund performances. Among these, portfolio pumping and stock market manipulation are two notable practices that raise ethical and legal concerns due to their deceptive nature.

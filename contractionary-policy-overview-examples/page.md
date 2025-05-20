@@ -1,6 +1,8 @@
 ---
-title: "Contractionary Policy: Overview and Examples (Algo Trading)"
-description: "Explore the intersection of contractionary policies and algo trading to understand how economic strategies impact financial markets and trading systems."
+category: quant_concept
+description: Explore the intersection of contractionary policies and algo trading
+  to understand how economic strategies impact financial markets and trading systems.
+title: 'Contractionary Policy: Overview and Examples (Algo Trading)'
 ---
 
 In today's complex economic landscape, understanding the various tools and strategies used by governments and financial entities is crucial for investors and policymakers alike. Economic policies, such as contractionary policy and monetary policy, play pivotal roles in steering the macroeconomic environment. Contractionary policies, for instance, are designed to reduce inflation by decreasing money supply and curbing excessive economic growth, while monetary policies aim to achieve economic objectives such as stable growth and full employment through various tools like interest rates and reserve requirements.

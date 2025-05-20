@@ -1,6 +1,12 @@
 ---
-title: "Depreciation and Types with Calculation Examples (Algo Trading)"
-description: "Explore the essential concept of depreciation and its various methods in the context of algorithmic trading. Understand how businesses allocate the cost of tangible assets over their useful life and why this accounting practice is pivotal for financial accuracy and compliance. Discover how different depreciation techniques impact financial statements and trading operations by examining calculation examples and their relevance to maximizing resource allocation and operational efficiency."
+category: quant_concept
+description: Explore the essential concept of depreciation and its various methods
+  in the context of algorithmic trading. Understand how businesses allocate the cost
+  of tangible assets over their useful life and why this accounting practice is pivotal
+  for financial accuracy and compliance. Discover how different depreciation techniques
+  impact financial statements and trading operations by examining calculation examples
+  and their relevance to maximizing resource allocation and operational efficiency.
+title: Depreciation and Types with Calculation Examples (Algo Trading)
 ---
 
 Depreciation is a fundamental accounting concept that facilitates the allocation of the cost of tangible assets over their useful life. This systematic process is crucial for both financial accounting and tax purposes, enabling businesses to accurately report the value of their assets over time. In financial statements, depreciation impacts both the income statement and the balance sheet by reducing the book value of assets and adjusting net income to reflect realistic financial health.

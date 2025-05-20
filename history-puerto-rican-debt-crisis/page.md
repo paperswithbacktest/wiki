@@ -1,6 +1,8 @@
 ---
-title: "History of the Puerto Rican Debt Crisis (Algo Trading)"
-description: "Explore Puerto Rico's economic narrative from strategic advantages and debt crises to the rise of algorithmic trading and its potential in recovery."
+category: quant_concept
+description: Explore Puerto Rico's economic narrative from strategic advantages and
+  debt crises to the rise of algorithmic trading and its potential in recovery.
+title: History of the Puerto Rican Debt Crisis (Algo Trading)
 ---
 
 Puerto Rico's economic narrative is characterized by its strategic geographical location and its unique status as a United States territory. These factors have shaped both its advantages and challenges over time. The island's proximity to major shipping routes in the Caribbean has historically positioned it as a crucial hub for trade and commerce. However, this advantageous location has also subjected it to global market fluctuations and political influences that have, at times, constrained its economic autonomy.
@@ -100,4 +102,3 @@ In conclusion, Puerto Rico's economic path forward requires a balanced approach 
 [5]: Harris, L. (2003). ["Trading and Exchanges: Market Microstructure for Practitioners."](https://www.amazon.com/Trading-Exchanges-Market-Microstructure-Practitioners/dp/0195144708) Oxford University Press.
 
 [6]: Coll-Hurtado, A., & Mercatante W. (2021). ["Addressing Inequality in Puerto Rico: The Role of Federal Policies & Political Status."](https://ajph.aphapublications.org/doi/10.2105/AJPH.2024.307585) *Critical Sociology*.
-

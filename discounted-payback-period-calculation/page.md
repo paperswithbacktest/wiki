@@ -1,6 +1,8 @@
 ---
-title: "Discounted Payback Period Calculation (Algo Trading)"
-description: "Discover how the discounted payback period enhances investment analysis by accounting for the time value of money and improving algorithmic trading strategies."
+category: quant_concept
+description: Discover how the discounted payback period enhances investment analysis
+  by accounting for the time value of money and improving algorithmic trading strategies.
+title: Discounted Payback Period Calculation (Algo Trading)
 ---
 
 Understanding the importance of financial metrics in investment analysis is crucial for both individual investors and financial institutions. The discounted payback period is a critical financial calculation that helps assess the profitability and risk of investments over time. Unlike the traditional payback period, which only considers the time it takes for an investment to recoup its initial cost, the discounted payback period accounts for the time value of money, offering a more precise evaluation of an investment's break-even point.

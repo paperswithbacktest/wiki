@@ -1,6 +1,8 @@
 ---
-title: "Phantom Stock Plan: Overview and Types (Algo Trading)"
-description: "Explore the synergy between phantom stock plans and algorithmic trading in modern compensation strategies Learn how to enhance employee engagement and retention"
+category: quant_concept
+description: Explore the synergy between phantom stock plans and algorithmic trading
+  in modern compensation strategies Learn how to enhance employee engagement and retention
+title: 'Phantom Stock Plan: Overview and Types (Algo Trading)'
 ---
 
 Employee compensation is undergoing a significant transformation as businesses strive to attract and retain top talent in an increasingly competitive marketplace. In this evolving landscape, phantom stock plans and algorithmic trading have emerged as pivotal components shaping modern employment strategies. While phantom stock plans offer employees economic benefits similar to stock ownership without actual equity transfer, algorithmic trading influences market conditions, potentially impacting the valuation of these plans.

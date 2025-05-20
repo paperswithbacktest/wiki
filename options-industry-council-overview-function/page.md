@@ -1,6 +1,9 @@
 ---
-title: "Options Industry Council: Overview and Function (Algo Trading)"
-description: "Explore the Options Industry Council's vital role in educating investors about options trading with resources on strategies, algorithmic trading, and market dynamics."
+category: quant_concept
+description: Explore the Options Industry Council's vital role in educating investors
+  about options trading with resources on strategies, algorithmic trading, and market
+  dynamics.
+title: 'Options Industry Council: Overview and Function (Algo Trading)'
 ---
 
 Options trading is an intricate and dynamic segment of the financial markets designed to provide investors with unique opportunities for hedging, speculation, and enhancing income. It involves the use of contracts, known as options, which grant the investor the right, but not the obligation, to buy or sell an underlying asset at a specified price before a certain expiration date. This flexibility allows investors to tailor their market positions to align with specific financial goals, risk appetites, and market expectations.

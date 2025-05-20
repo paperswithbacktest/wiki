@@ -1,6 +1,9 @@
 ---
-title: "Marginal Cost of Funds and Its Mechanism (Algo Trading)"
-description: "Explore the significance of the marginal cost of funds in algorithmic trading Analyze how financial mechanisms and costs impact modern trading strategies for success"
+category: quant_concept
+description: Explore the significance of the marginal cost of funds in algorithmic
+  trading Analyze how financial mechanisms and costs impact modern trading strategies
+  for success
+title: Marginal Cost of Funds and Its Mechanism (Algo Trading)
 ---
 
 In today’s rapidly evolving financial landscape, understanding the concepts of financial mechanisms and costs is crucial for success. The complexity of modern financial markets requires a comprehensive grasp of topics such as financial mechanism costs, the cost of funds, and the marginal cost of funds. These concepts are particularly relevant when exploring their impact on algorithmic trading—an area that exemplifies how technology has transformed traditional market strategies.

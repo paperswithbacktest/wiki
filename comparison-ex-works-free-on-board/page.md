@@ -1,6 +1,8 @@
 ---
-title: "Comparison of Ex Works and Free on Board (Algo Trading)"
-description: "Explore the intricacies of Ex Works and Free on Board shipping terms in relation to algorithmic trading strategies to enhance global trade efficiency."
+category: quant_concept
+description: Explore the intricacies of Ex Works and Free on Board shipping terms
+  in relation to algorithmic trading strategies to enhance global trade efficiency.
+title: Comparison of Ex Works and Free on Board (Algo Trading)
 ---
 
 In the world of international trade and commerce, understanding shipping terms is essential for effective business operations. Terms like 'Ex Works' (EXW) and 'Free on Board' (FOB) represent standardized international trade agreements that delineate the responsibilities between buyers and sellers. These terms are pivotal in defining the point at which liability and responsibility for goods shift from seller to buyer, thereby influencing shipping costs, risk management, and logistics planning.

@@ -1,8 +1,9 @@
 ---
-title: Point Cloud Representation Techniques in Machine Learning
+category: quant_concept
 description: Point cloud representation boosts 3D modeling and object recognition
   using PolarNet filtering segmentation and BTF texture enhancement Discover more
   inside
+title: Point Cloud Representation Techniques in Machine Learning
 ---
 
 ![Image](images/1.png)

@@ -1,6 +1,9 @@
 ---
-title: "Murray Rothbard on Education and Economics (Algo Trading)"
-description: "Explore Murray Rothbard's impact on education economics and algorithmic trading Learn how his libertarian views shape modern discussions on market dynamics and freedoms"
+category: quant_concept
+description: Explore Murray Rothbard's impact on education economics and algorithmic
+  trading Learn how his libertarian views shape modern discussions on market dynamics
+  and freedoms
+title: Murray Rothbard on Education and Economics (Algo Trading)
 ---
 
 Murray Rothbard stands as a significant contributor to economics and educational theory. His work in Austrian economics and libertarianism has greatly influenced how markets and personal freedoms are perceived. Beyond merely economic discussions, Rothbard looked closely at the role of free markets in societal structures such as education. He advocated for reducing state involvement, suggesting that minimal government interference could lead to more effective educational systems. This article explores Rothbard's enduring impact on education, economic theory, and the evolving landscape of algorithmic trading.

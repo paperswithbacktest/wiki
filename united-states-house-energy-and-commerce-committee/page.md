@@ -1,6 +1,8 @@
 ---
-title: "United States House Energy and Commerce Committee (Algo Trading)"
-description: "Explore the pivotal role of the U.S. House Energy and Commerce Committee in shaping policy on energy commerce and the regulation of algorithmic trading."
+category: quant_concept
+description: Explore the pivotal role of the U.S. House Energy and Commerce Committee
+  in shaping policy on energy commerce and the regulation of algorithmic trading.
+title: United States House Energy and Commerce Committee (Algo Trading)
 ---
 
 The Energy and Commerce Committee represents a cornerstone of legislative functions within the U.S. House of Representatives, wielding substantial influence in shaping policy across numerous critical domains. The committee's purview spans energy, commerce, and technology, amongst other sectors, which positions it as a vital player in guiding congressional oversight and legislative initiatives that impact the nation's economic framework. This article offers insights into the committee's historical trajectory, current responsibilities, and its engagement with algorithmic trading, a transformative element in modern financial markets.

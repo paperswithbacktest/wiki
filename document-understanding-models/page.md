@@ -1,7 +1,8 @@
 ---
-title: Exploring Document Understanding Models With LayoutLMv2
+category: quant_concept
 description: Document Understanding Models automate data extraction using OCR NLP
   and layout analysis to reduce errors and speed workflows Discover more inside
+title: Exploring Document Understanding Models With LayoutLMv2
 ---
 
 ![Image](images/1.jpeg)

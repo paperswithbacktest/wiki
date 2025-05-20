@@ -1,6 +1,9 @@
 ---
-title: "Convertible Securities (Algo Trading)"
-description: "Explore convertible securities a unique investment blending debt and equity features ideal for diversification and growth potential with algorithmic trading insights."
+category: quant_concept
+description: Explore convertible securities a unique investment blending debt and
+  equity features ideal for diversification and growth potential with algorithmic
+  trading insights.
+title: Convertible Securities (Algo Trading)
 ---
 
 Convertible securities are a distinctive category of financial instruments that merge characteristics of both debt and equity, presenting a flexible investment option with the prospect of substantial returns. These securities grant the holder the ability to convert their investment into common stock, providing a unique opportunity to capitalize on equity appreciation while still benefiting from the stability and income typically associated with fixed-income securities.
@@ -137,4 +140,3 @@ However, the introduction of algorithmic trading also necessitates sophisticated
    - "Python for Finance: Analyze Big Financial Data" by Yves Hilpisch. This book investigates into the application of Python programming for financial data analysis and trading strategy development, particularly useful for those interested in algorithmic trading of convertible securities.
 
 These resources provide comprehensive reading material that spans foundational theories, market operations, and advanced trading techniques relevant to convertible securities and their interaction with modern financial markets.
-

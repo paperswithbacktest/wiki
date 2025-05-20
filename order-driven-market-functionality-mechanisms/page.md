@@ -1,6 +1,9 @@
 ---
-title: "Order-Driven Market: Functionality and Mechanisms (Algo Trading)"
-description: "Explore key concepts of order-driven markets and algorithmic trading to understand how they influence trade executions and participant interactions in market dynamics."
+category: quant_concept
+description: Explore key concepts of order-driven markets and algorithmic trading
+  to understand how they influence trade executions and participant interactions in
+  market dynamics.
+title: 'Order-Driven Market: Functionality and Mechanisms (Algo Trading)'
 ---
 
 Understanding market structures and mechanisms is crucial in finance and trading. This article explores key concepts such as market structure, market mechanisms, order-driven markets, and algorithmic trading. These elements play a significant role in determining how trades are executed and how market participants interact. By examining these components, traders and investors can develop a clearer understanding of market dynamics. This knowledge is essential for navigating the complex landscape of modern financial markets. Market structures refer to the organization and characteristics of a market, encompassing the number of participants, the level of competition, and the types of products traded. Analyzing these factors allows individuals to identify potential advantages and challenges within a market, aiding in making informed strategic decisions.

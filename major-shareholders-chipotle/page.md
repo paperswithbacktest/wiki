@@ -1,6 +1,9 @@
 ---
-title: "Major Shareholders of Chipotle (Algo Trading)"
-description: "Discover how algorithmic trading impacts Chipotle investors by enhancing trading precision, cost efficiency, and market analysis for optimized shareholder value."
+category: quant_concept
+description: Discover how algorithmic trading impacts Chipotle investors by enhancing
+  trading precision, cost efficiency, and market analysis for optimized shareholder
+  value.
+title: Major Shareholders of Chipotle (Algo Trading)
 ---
 
 Algorithmic trading has emerged as a prominent element in modern financial markets, revolutionizing the way trading activities are executed. This advancement leverages complex mathematical models and sophisticated software to automate the buying and selling of stocks at speeds unattainable by human traders. As a result, algorithmic trading can process vast amounts of market data in real time, offering a strategic edge to investors seeking to optimize their portfolios.

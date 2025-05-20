@@ -1,6 +1,8 @@
 ---
-title: "Legal Status of Bitcoin (Algo Trading)"
-description: "Explore the evolving legal landscape of Bitcoin and cryptocurrency regulations worldwide Learn how these changes impact algorithmic trading and investment strategies"
+category: quant_concept
+description: Explore the evolving legal landscape of Bitcoin and cryptocurrency regulations
+  worldwide Learn how these changes impact algorithmic trading and investment strategies
+title: Legal Status of Bitcoin (Algo Trading)
 ---
 
 Understanding the evolving landscape of Bitcoin's legal status and cryptocurrency regulation is paramount for investors, businesses, and policymakers. Since its inception in 2009 by the pseudonymous Satoshi Nakamoto, Bitcoin has experienced a substantial transformation. Initially perceived as a niche digital asset with a limited audience, Bitcoin has progressively gained traction as a mainstream financial tool. This shift has captured considerable attention from regulatory bodies across the globe, prompting a diverse array of legal interpretations and regulatory frameworks.

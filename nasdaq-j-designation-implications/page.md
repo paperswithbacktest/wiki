@@ -1,6 +1,12 @@
 ---
-title: "Nasdaq 'J' Designation Implications (Algo Trading)"
-description: "Explore the implications of Nasdaq's 'J' designation and algorithmic trading in the stock market. Understand how the 'J' designation affects shareholder participation, emphasizing stocks with special voting rights. Discover the role of algorithmic trading in automating trade decisions using computer algorithms for enhanced efficiency and potential profitability. Dive into these critical concepts to better navigate the fast-paced financial landscape."
+category: quant_concept
+description: Explore the implications of Nasdaq's 'J' designation and algorithmic
+  trading in the stock market. Understand how the 'J' designation affects shareholder
+  participation, emphasizing stocks with special voting rights. Discover the role
+  of algorithmic trading in automating trade decisions using computer algorithms for
+  enhanced efficiency and potential profitability. Dive into these critical concepts
+  to better navigate the fast-paced financial landscape.
+title: Nasdaq 'J' Designation Implications (Algo Trading)
 ---
 
 The stock market is a multifaceted system characterized by a myriad of intricate components that often elude the attention of average investors. One such component is the Nasdaq "J" designation, a temporary marker used to indicate stocks that come with voting rights. This designation, appearing as a fifth letter in the ticker symbol, plays a crucial role during shareholder voting processes by distinguishing stocks with unique voting privileges. Investors need to be aware of these designations as they directly impact shareholder participation and can influence an investor's decision-making process.

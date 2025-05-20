@@ -1,6 +1,8 @@
 ---
-title: "Common Assets in Special Purpose Vehicles (Algo Trading)"
-description: "Explore how Special Purpose Vehicles optimize risk management and asset efficiency in algorithmic trading Discover SPV advantages for financial professionals"
+category: quant_concept
+description: Explore how Special Purpose Vehicles optimize risk management and asset
+  efficiency in algorithmic trading Discover SPV advantages for financial professionals
+title: Common Assets in Special Purpose Vehicles (Algo Trading)
 ---
 
 Special purpose vehicles (SPVs) have become a cornerstone of contemporary financial structuring, especially in asset holding and algorithmic trading. Originating as distinct legal entities designed to manage and isolate financial risks, SPVs have evolved to play a significant role in the financial ecosystem. This article aims to elucidate the processes through which SPVs are meticulously crafted to isolate risks, manage assets, and facilitate seamless financial operations.  

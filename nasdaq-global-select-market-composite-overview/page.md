@@ -1,6 +1,8 @@
 ---
-title: "NASDAQ Global Select Market Composite Overview (Algo Trading)"
-description: "Explore the NASDAQ Global Select Market Composite and its impact on global markets Discover how algo trading reshapes financial dynamics and enhances efficiency"
+category: dataset
+description: Explore the NASDAQ Global Select Market Composite and its impact on global
+  markets Discover how algo trading reshapes financial dynamics and enhances efficiency
+title: NASDAQ Global Select Market Composite Overview (Algo Trading)
 ---
 
 The stock market operates as a multifaceted and ever-evolving entity, serving as a vital component of global economic frameworks. Within this intricate landscape, indices act as essential benchmarks, offering insights into the overall economic activity and investment health. Among these indices, the NASDAQ Global Select Market Composite holds a prominent position. This index is noted for its comprehensive representation of a wide array of industries, encapsulating a diverse range of companies both from the United States and internationally. Its significance is underscored not only by the breadth of its representation but also by the standards of financial integrity and corporate governance expected of its listed entities.

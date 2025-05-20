@@ -1,6 +1,8 @@
 ---
-title: "Real Estate Investment Trusts (Algo Trading)"
-description: "Explore the benefits of integrating algorithmic trading with Real Estate Investment Trusts REITs to enhance precision and optimize investment strategies."
+category: trading_strategy
+description: Explore the benefits of integrating algorithmic trading with Real Estate
+  Investment Trusts REITs to enhance precision and optimize investment strategies.
+title: Real Estate Investment Trusts (Algo Trading)
 ---
 
 Real Estate Investment Trusts (REITs) present a viable option for investors wanting exposure to the real estate market while avoiding the direct responsibilities of property management. By investing in REITs, individuals can partake in the potential income and growth provided by real estate assets, which are professionally managed and diversified across various sectors. This mode of investment offers a liquid and accessible alternative to physical real estate ownership.

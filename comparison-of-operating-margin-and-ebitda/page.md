@@ -1,6 +1,8 @@
 ---
-title: "Comparison of Operating Margin and EBITDA (Algo Trading)"
-description: "Explore the significance of operating margin and EBITDA in algorithmic trading to gain insights into a company's financial health and operational efficiency."
+category: trading_strategy
+description: Explore the significance of operating margin and EBITDA in algorithmic
+  trading to gain insights into a company's financial health and operational efficiency.
+title: Comparison of Operating Margin and EBITDA (Algo Trading)
 ---
 
 Understanding key financial metrics is essential for traders and investors navigating today's fast-paced financial markets. Among these metrics, Earnings Before Interest, Taxes, Depreciation, and Amortization (EBITDA) and operating margin stand out for their role in offering insights into a company's financial health and operational efficiency. This article explores how these specific metrics can be utilized within the context of algorithmic trading.
@@ -155,4 +157,3 @@ For those seeking to gain a competitive edge in the dynamic financial markets, l
 - Additional financial literature can offer broader perspectives and case studies on the use of financial metrics in trading. These resources provide practical insights and real-world applications, aiding traders in applying theoretical knowledge to optimize their trading algorithms.
 
 Readers interested in exploring these topics further can consult these references for more detailed explanations and examples of integrating financial metrics into algorithmic trading.
-

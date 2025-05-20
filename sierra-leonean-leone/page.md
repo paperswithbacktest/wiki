@@ -1,6 +1,8 @@
 ---
-title: "Sierra Leonean Leone (Algo Trading)"
-description: "Explore the role of the Sierra Leonean Leone in algorithmic trading to understand its impact on emerging markets and how traders can leverage this currency."
+category: quant_concept
+description: Explore the role of the Sierra Leonean Leone in algorithmic trading to
+  understand its impact on emerging markets and how traders can leverage this currency.
+title: Sierra Leonean Leone (Algo Trading)
 ---
 
 In today's interconnected world, understanding local currencies is crucial for navigating global markets. Local currencies, such as the Sierra Leonean Leone (SLL), play a pivotal role in shaping the economic landscape of their respective countries.  The Sierra Leonean Leone, introduced in 1964 to replace the British West African pound, is the official currency of Sierra Leone. As a significant economic instrument, the SLL influences national trade, impacts inflation, and reflects the economic health of the country.

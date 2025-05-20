@@ -1,6 +1,9 @@
 ---
-title: "Bancor: Overview, Purpose, and Criticisms (Algo Trading)"
-description: "Explore Bancor's transformative role in decentralized finance and algorithmic trading while understanding its innovations, challenges, and impact on the crypto ecosystem."
+category: quant_concept
+description: Explore Bancor's transformative role in decentralized finance and algorithmic
+  trading while understanding its innovations, challenges, and impact on the crypto
+  ecosystem.
+title: 'Bancor: Overview, Purpose, and Criticisms (Algo Trading)'
 ---
 
 In the evolving landscape of decentralized finance (DeFi), Bancor has established itself as a pioneering protocol that redefines the trading and management of cryptocurrencies. As algorithmic trading gains traction in the crypto markets, Bancor’s innovative solutions present lucrative opportunities for both investors and traders. 

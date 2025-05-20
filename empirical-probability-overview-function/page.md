@@ -1,6 +1,9 @@
 ---
-title: "Empirical Probability: Overview and Function (Algo Trading)"
-description: "Explore how empirical probability enhances algorithmic trading by providing data-driven insights to predict market movements minimize risks and improve trading outcomes."
+category: quant_concept
+description: Explore how empirical probability enhances algorithmic trading by providing
+  data-driven insights to predict market movements minimize risks and improve trading
+  outcomes.
+title: 'Empirical Probability: Overview and Function (Algo Trading)'
 ---
 
 In the fast-paced world of trading, the ability to analyze data and predict market movements is paramount. Traders rely heavily on statistical analysis and probability theory to guide their decisions, forming the backbone of algorithmic trading. Algorithmic trading involves the use of complex mathematical models and systems that process large quantities of market data to make trading decisions, often executed at speeds far beyond human capabilities. By utilizing these statistical methods, traders can base their strategies on empirical data rather than intuition or speculative forecasts, thus minimizing risks and enhancing performance.

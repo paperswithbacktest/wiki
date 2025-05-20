@@ -1,6 +1,9 @@
 ---
-title: "Utility in Microeconomics: Origins, Types, and Applications (Algo Trading)"
-description: "Explore how utility theory in microeconomics guides algorithmic trading to optimize decisions aligning with risk preference and market dynamics for financial gains."
+category: quant_concept
+description: Explore how utility theory in microeconomics guides algorithmic trading
+  to optimize decisions aligning with risk preference and market dynamics for financial
+  gains.
+title: 'Utility in Microeconomics: Origins, Types, and Applications (Algo Trading)'
 ---
 
 In this article, we explore the intersection of utility economic theory, microeconomics, and algorithmic trading to shine a light on how these concepts contribute to modern financial markets. As a cornerstone of economic decision-making, utility theory provides a framework for quantifying satisfaction or utility derived from various decisions. In the context of microeconomics, this theory aids in explaining consumer behavior and decision-making under constraints, offering insights into market dynamics and pricing strategies.

@@ -1,6 +1,8 @@
 ---
-title: "Comparison of CBOT and CME (Algo Trading)"
-description: "Discover the impact of algorithmic trading on the CME and CBOT exchanges exploring pivotal changes since their merger in 2006 and technology-driven strategies."
+category: quant_concept
+description: Discover the impact of algorithmic trading on the CME and CBOT exchanges
+  exploring pivotal changes since their merger in 2006 and technology-driven strategies.
+title: Comparison of CBOT and CME (Algo Trading)
 ---
 
 Algorithmic trading, commonly referred to as algo trading, plays a crucial role in the dynamic landscape of financial markets, particularly on major exchanges like the Chicago Mercantile Exchange (CME) and the Chicago Board of Trade (CBOT). Algo trading employs computer programs to execute trading strategies automatically based on pre-defined rules, allowing for increased efficiency and speed in the execution of trades. As technology continues to advance, these automated processes are becoming indispensable, reshaping the way trading is conducted on these influential exchanges.

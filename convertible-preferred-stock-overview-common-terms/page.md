@@ -1,6 +1,8 @@
 ---
-title: "Convertible Preferred Stock: Overview and Common Terms (Algo Trading)"
-description: "Explore the unique benefits of Convertible Preferred Stock in this comprehensive guide to CPS concepts and algorithmic trading strategies for optimized investments."
+category: quant_concept
+description: Explore the unique benefits of Convertible Preferred Stock in this comprehensive
+  guide to CPS concepts and algorithmic trading strategies for optimized investments.
+title: 'Convertible Preferred Stock: Overview and Common Terms (Algo Trading)'
 ---
 
 Convertible preferred stock (CPS) is a unique hybrid financial instrument that combines elements of both equity and debt, providing investors with a structured approach to capitalize on the benefits of each. By design, CPS offers the investor a stable income stream through dividends, akin to traditional debt instruments, while also granting the potential for capital appreciation similar to common equity through conversion features. This duality makes CPS particularly appealing in various market conditions, as it can provide a balance of risk and reward tailored to an investor's financial objectives.

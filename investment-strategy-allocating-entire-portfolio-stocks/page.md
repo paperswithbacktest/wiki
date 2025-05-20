@@ -1,6 +1,8 @@
 ---
-title: "Investment Strategy: Allocating Entire Portfolio to Stocks (Algo Trading)"
-description: "Explore how strategic portfolio allocation combined with algorithmic trading can optimize stock investments and enhance returns amidst market volatility."
+category: trading_strategy
+description: Explore how strategic portfolio allocation combined with algorithmic
+  trading can optimize stock investments and enhance returns amidst market volatility.
+title: 'Investment Strategy: Allocating Entire Portfolio to Stocks (Algo Trading)'
 ---
 
 In today's rapidly evolving financial markets, the process of investing in stocks and constructing a robust investment portfolio transcends mere intuition; it necessitates strategic planning and a keen integration of technology. This article centers on the synthesis of investment strategy, portfolio allocation, and algorithmic trading, aiming to optimize stock investments effectively.

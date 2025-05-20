@@ -1,6 +1,9 @@
 ---
-title: "Deferred Share Mechanics (Algo Trading)"
-description: "Understand deferred share mechanics and algorithmic trading to enhance investment strategies. Explore equity investments, market dynamics, and corporate share structuring for informed decisions."
+category: quant_concept
+description: Understand deferred share mechanics and algorithmic trading to enhance
+  investment strategies. Explore equity investments, market dynamics, and corporate
+  share structuring for informed decisions.
+title: Deferred Share Mechanics (Algo Trading)
 ---
 
 In the modern investment landscape, terms like equity investment, deferred share, share mechanics, and algorithmic trading are often thrown around. These concepts are not only buzzwords but are foundational elements that can significantly impact investment strategies and outcomes. Understanding these terms is crucial for both seasoned investors and newcomers looking to navigate the complexities of the financial markets effectively.

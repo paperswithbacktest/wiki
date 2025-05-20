@@ -1,6 +1,9 @@
 ---
-title: "Tariffs and Their Impact (Algo Trading)"
-description: "Explore how tariffs and trade policies shape algorithmic trading and market dynamics impacting businesses and consumers worldwide in today's fast-paced economy."
+category: quant_concept
+description: Explore how tariffs and trade policies shape algorithmic trading and
+  market dynamics impacting businesses and consumers worldwide in today's fast-paced
+  economy.
+title: Tariffs and Their Impact (Algo Trading)
 ---
 
 Tariffs and trade policies have traditionally been vital instruments in influencing global economic frameworks. In recent years, the accelerated pace of international trade and technological advancements has further expanded their influence across various sectors. Their economic impact is especially pronounced in the domain of algorithmic trading, where trading decisions occur in milliseconds, and minor shifts in trade policy can translate into significant financial gains or losses.

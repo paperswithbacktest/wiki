@@ -1,6 +1,9 @@
 ---
-title: "Environmental, Social, and Governance (ESG) Criteria (Algo Trading)"
-description: "Explore the integration of ESG criteria in algorithmic trading Discover how aligning sustainable practices with financial goals enhances ethical investment strategies"
+category: quant_concept
+description: Explore the integration of ESG criteria in algorithmic trading Discover
+  how aligning sustainable practices with financial goals enhances ethical investment
+  strategies
+title: Environmental, Social, and Governance (ESG) Criteria (Algo Trading)
 ---
 
 In today's rapidly changing financial landscape, themes like corporate responsibility, sustainability, ethical investing, and algorithmic trading (commonly known as algo trading) are gaining significant traction. These elements have carved distinct niches in the financial ecosystem, offering insights into how modern finance can evolve by embracing responsibility and ethics. The convergence of these themes has created a comprehensive framework prioritizing financial returns while integrating ethical and sustainable practices, heralding a transformative era in the investment world.

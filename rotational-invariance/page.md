@@ -1,7 +1,8 @@
 ---
-title: Achieving Rotational Invariance in Machine Learning Models
+category: quant_concept
 description: Rotational invariance in machine learning helps models recognize objects
   at any angle using data augmentation and convolutions Discover more inside
+title: Achieving Rotational Invariance in Machine Learning Models
 ---
 
 ![Image](images/1.png)

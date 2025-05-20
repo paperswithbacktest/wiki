@@ -1,6 +1,14 @@
 ---
-title: "Understanding Financial Footnotes (Algo Trading)"
-description: "Understanding financial footnotes is vital for informed decision-making in finance as they provide essential details revealing insights about a company's financial health beyond standard statements. These notes expand on figures by explaining accounting policies and potential liabilities, offering a nuanced view of financial situations. In algorithmic trading, which relies heavily on quantitative data, integrating qualitative insights from financial footnotes can enhance models and predictions. This article investigates into how financial footnotes and algorithmic trading intertwine, aiding investors in navigating volatile markets more precisely."
+category: quant_concept
+description: Understanding financial footnotes is vital for informed decision-making
+  in finance as they provide essential details revealing insights about a company's
+  financial health beyond standard statements. These notes expand on figures by explaining
+  accounting policies and potential liabilities, offering a nuanced view of financial
+  situations. In algorithmic trading, which relies heavily on quantitative data, integrating
+  qualitative insights from financial footnotes can enhance models and predictions.
+  This article investigates into how financial footnotes and algorithmic trading intertwine,
+  aiding investors in navigating volatile markets more precisely.
+title: Understanding Financial Footnotes (Algo Trading)
 ---
 
 In the world of finance, understanding the fine print in financial statements is crucial for informed decision-making. Financial footnotes are often overlooked yet integral components of these statements, providing essential details that reveal hidden insights about a company's financial health. These footnotes elaborate on the figures presented, offering explanations about accounting policies, revenue recognition standards, and potential liabilities. They serve as a window into the nuanced aspects of a company's financial situation, enabling investors to discern risks or opportunities that are not immediately apparent from the primary numbers alone.

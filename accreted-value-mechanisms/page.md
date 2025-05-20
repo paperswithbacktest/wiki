@@ -1,6 +1,8 @@
 ---
-title: "Accreted Value and Its Mechanisms (Algo Trading)"
-description: "Explore the intricacies of accreted value, investment analysis, and algorithmic trading essential for informed decision-making in modern financial markets."
+category: quant_concept
+description: Explore the intricacies of accreted value, investment analysis, and algorithmic
+  trading essential for informed decision-making in modern financial markets.
+title: Accreted Value and Its Mechanisms (Algo Trading)
 ---
 
 In the rapidly changing field of finance, understanding key concepts is fundamental to guiding decision-making and strategy development. This article examines the complexities of accreted value, investment analysis, and algorithmic trading—three essential components that have a significant impact on modern financial markets.
@@ -133,4 +135,3 @@ Journal articles and white papers are essential for understanding the impacts of
 Online resources from financial institutions and educational platforms provide practical applications in trading and investment. Websites of major financial institutions often feature insights and research reports that delve into current market trends and strategies. Additionally, educational platforms such as Coursera and edX offer courses and materials that teach investment strategies, financial modeling, and trading techniques, catering to various skill levels.
 
 Incorporating a mix of these resources can provide a well-rounded perspective on accreted value, investment analysis, and algorithmic trading, enhancing one's ability to navigate and succeed in contemporary financial markets.
-

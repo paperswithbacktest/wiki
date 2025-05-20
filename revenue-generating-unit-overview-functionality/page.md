@@ -1,6 +1,8 @@
 ---
-title: "Revenue Generating Unit: Overview and Functionality (Algo Trading)"
-description: "Enhance decision-making with Revenue Generating Units in algo trading. Discover how RGUs and strategic integration optimize revenue in subscription models."
+category: quant_concept
+description: Enhance decision-making with Revenue Generating Units in algo trading.
+  Discover how RGUs and strategic integration optimize revenue in subscription models.
+title: 'Revenue Generating Unit: Overview and Functionality (Algo Trading)'
 ---
 
 In today's data-driven world, understanding the right business metrics is crucial for companies striving for growth and sustainability. As businesses seek to enhance their decision-making processes, Revenue Generating Units (RGUs) emerge as a vital metric, particularly for subscription-based enterprises. RGUs represent a unit of product or service that contributes to a company's recurring revenue, making them invaluable for assessing the financial health and potential of a company.

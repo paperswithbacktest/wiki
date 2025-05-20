@@ -1,6 +1,9 @@
 ---
-title: "Adjusted Exercise Price: Overview and Application (Algo Trading)"
-description: "Explore the strategic synergy of options and algorithmic trading focusing on adjusted exercise prices vital for maintaining option values during corporate events."
+category: quant_concept
+description: Explore the strategic synergy of options and algorithmic trading focusing
+  on adjusted exercise prices vital for maintaining option values during corporate
+  events.
+title: 'Adjusted Exercise Price: Overview and Application (Algo Trading)'
 ---
 
 Options trading has significantly matured, characterized by its inherent flexibility in crafting investment strategies and managing risk. As a cornerstone of modern financial markets, options trading allows investors to maneuver through a spectrum of market conditions using tools that can both hedge and speculate.

@@ -1,6 +1,10 @@
 ---
-title: "Comparison of EBIT and EBITDA (Algo Trading)"
-description: "Explore the intricacies of EBIT and EBITDA in algorithmic trading, highlighting how these financial metrics enhance investment strategies. Understand their role in evaluating operational efficiency and cash flow, and discover their integration into modern trading frameworks for optimized decision-making."
+category: quant_concept
+description: Explore the intricacies of EBIT and EBITDA in algorithmic trading, highlighting
+  how these financial metrics enhance investment strategies. Understand their role
+  in evaluating operational efficiency and cash flow, and discover their integration
+  into modern trading frameworks for optimized decision-making.
+title: Comparison of EBIT and EBITDA (Algo Trading)
 ---
 
 In the contemporary landscape of financial markets, the ability to accurately assess the financial health of companies is indispensable for making well-informed investment decisions. This necessity is accentuated by the adoption of sophisticated strategies, such as algorithmic trading, which rely on critical financial metrics. Among these metrics, Earnings Before Interest and Taxes (EBIT) and Earnings Before Interest, Taxes, Depreciation, and Amortization (EBITDA) stand out for their ability to provide insights into a company's operational effectiveness and cash flow potential.

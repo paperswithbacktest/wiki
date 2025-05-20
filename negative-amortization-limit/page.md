@@ -1,6 +1,9 @@
 ---
-title: "Negative Amortization Limit (Algo Trading)"
-description: "Explore negative amortization loans limits and algorithmic trading in finance. Learn how these concepts impact investment strategies and financial risk management."
+category: quant_concept
+description: Explore negative amortization loans limits and algorithmic trading in
+  finance. Learn how these concepts impact investment strategies and financial risk
+  management.
+title: Negative Amortization Limit (Algo Trading)
 ---
 
 In the complex world of finance, understanding the intricacies of various financial instruments and strategies is crucial. This article will focus on the topics of negative amortization loans, loan limits, and algorithmic trading. These are vital facets of the financial markets that impact the decision-making processes of both individuals and businesses. By grasping these concepts, stakeholders can enhance their ability to make informed financial decisions, thereby optimizing their investment strategies and managing risks more effectively.

@@ -1,6 +1,8 @@
 ---
-title: "Feasibility of Infinite Economic Growth on a Finite Planet (Algo Trading)"
-description: "Explore the challenges of infinite economic growth on a finite planet and the role of algorithmic trading in balancing prosperity with environmental sustainability."
+category: quant_concept
+description: Explore the challenges of infinite economic growth on a finite planet
+  and the role of algorithmic trading in balancing prosperity with environmental sustainability.
+title: Feasibility of Infinite Economic Growth on a Finite Planet (Algo Trading)
 ---
 
 The intricate relationship between economic growth and sustainability presents a significant challenge, particularly on a planet with finite resources. Economic growth has been the cornerstone of modern development, enhancing living standards and accelerating technological advancements. However, the environmental repercussions of relentless pursuit of growth demand urgent attention. Finite natural resources and environmental degradation necessitate a shift towards sustainable practices that ensure long-term ecological balance while promoting economic prosperity.

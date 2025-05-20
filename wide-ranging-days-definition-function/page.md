@@ -1,6 +1,9 @@
 ---
-title: "Wide-Ranging Days: Definition and Function (Algo Trading)"
-description: "Explore the importance of wide-ranging days in algorithmic trading strategies to optimize performance by understanding market volatility and identifying potential opportunities."
+category: quant_concept
+description: Explore the importance of wide-ranging days in algorithmic trading strategies
+  to optimize performance by understanding market volatility and identifying potential
+  opportunities.
+title: 'Wide-Ranging Days: Definition and Function (Algo Trading)'
 ---
 
 In today's fast-paced financial markets, traders must effectively navigate the complexities of market volatility and trading patterns to achieve success. This is especially crucial for those employing algorithmic trading strategies, where precision and timely decisions can significantly impact profitability. One of the key concepts in technical analysis that aids traders in understanding and responding to market dynamics is the identification of wide-ranging days. These are days characterized by substantial price movements, often resulting from heightened market activity.

@@ -1,6 +1,9 @@
 ---
-title: "Targeted Amortization Class (Algo Trading)"
-description: "Explore Targeted Amortization Class (TAC) bonds designed to mitigate prepayment risk and enhance yield with algorithmic trading offering stability and efficiency."
+category: quant_concept
+description: Explore Targeted Amortization Class (TAC) bonds designed to mitigate
+  prepayment risk and enhance yield with algorithmic trading offering stability and
+  efficiency.
+title: Targeted Amortization Class (Algo Trading)
 ---
 
 In the world of finance, Targeted Amortization Class (TAC) bonds have emerged as a significant tool for investors, particularly in the context of mortgage-backed securities (MBS). These specialized bonds are a subset of collateralized mortgage obligations (CMOs), designed to manage and minimize prepayment risk, which is a common concern for those investing in mortgage-related securities. Prepayment risk occurs when borrowers repay their mortgages faster than expected, often as a result of declining interest rates, leading to a reduction in expected interest income for investors. TAC bonds address this issue by adhering to a predefined principal repayment schedule, thereby offering investors a more stable and predictable cash flow.

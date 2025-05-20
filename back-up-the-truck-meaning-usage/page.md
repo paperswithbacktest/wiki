@@ -1,6 +1,8 @@
 ---
-title: "Back Up The Truck: Meaning and Usage (Algo Trading)"
-description: "Explore 'back up the truck' in algo trading a term for investing heavily in promising assets. Learn its origins usage and its role in investment strategies"
+category: trading_strategy
+description: Explore 'back up the truck' in algo trading a term for investing heavily
+  in promising assets. Learn its origins usage and its role in investment strategies
+title: 'Back Up The Truck: Meaning and Usage (Algo Trading)'
 ---
 
 Investment strategies constitute a fundamental aspect of financial markets, serving as blueprints for making informed decisions aimed at achieving specific financial goals. These strategies encompass a range of techniques and approaches that investors use to allocate their resources across different financial instruments, such as stocks, bonds, and derivatives. The overarching objective is to maximize returns while managing risk appropriately.

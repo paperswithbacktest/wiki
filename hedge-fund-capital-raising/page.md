@@ -1,9 +1,12 @@
 ---
-title: "Hedge fund capital raising"
-description: Learn about the intricacies of hedge fund capital raising, from creating a compelling investment thesis and extensive networking to effective communication, regulatory compliance, and fee structures. Discover how market dynamics, investor preferences, and global economic trends shape this critical process in the dynamic world of hedge funds.
+category: quant_concept
+description: Learn about the intricacies of hedge fund capital raising, from creating
+  a compelling investment thesis and extensive networking to effective communication,
+  regulatory compliance, and fee structures. Discover how market dynamics, investor
+  preferences, and global economic trends shape this critical process in the dynamic
+  world of hedge funds.
+title: Hedge fund capital raising
 ---
-
-
 
 Raising capital is a fundamental aspect for hedge funds, representing a critical step in their establishment and growth within the financial market. In essence, capital raising for hedge funds involves accumulating assets under management (AUM) from various investors. This capital is then employed in diverse investment strategies, aimed at achieving returns that are not typically correlated with broader market indices.
 

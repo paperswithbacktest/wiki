@@ -1,6 +1,9 @@
 ---
-title: "Chartalism and Its Mechanisms in the Context of Cryptocurrency (Algo Trading)"
-description: "Explore Chartalism's influence on cryptocurrencies and algorithmic trading as they reshape financial markets challenging traditional monetary theories and regulations."
+category: quant_concept
+description: Explore Chartalism's influence on cryptocurrencies and algorithmic trading
+  as they reshape financial markets challenging traditional monetary theories and
+  regulations.
+title: Chartalism and Its Mechanisms in the Context of Cryptocurrency (Algo Trading)
 ---
 
 Chartalism, a unique monetary theory, has gained significant attention in modern financial discourse, especially within the contexts of cryptocurrency and algorithmic trading. Traditionally, Chartalism asserts that money derives its value from its status as a government-issued instrument, primarily used for paying taxes. This foundational idea contrasts with metallism, which ties the value of money to intrinsic commodities like gold or silver. With the advent and proliferation of digital currencies and sophisticated trading technologies, the relevance and applicability of such traditional monetary theories are being re-evaluated.

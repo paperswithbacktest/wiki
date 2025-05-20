@@ -1,6 +1,8 @@
 ---
-title: "Pigou Effect: History and Examples (Algo Trading)"
-description: "Explore the Pigou Effect in economics and its link to algo trading Learn how real wealth boosts consumer spending amidst deflation, impacting financial markets"
+category: quant_concept
+description: Explore the Pigou Effect in economics and its link to algo trading Learn
+  how real wealth boosts consumer spending amidst deflation, impacting financial markets
+title: 'Pigou Effect: History and Examples (Algo Trading)'
 ---
 
 Economic theory provides valuable insights into how economies function and how various variables interact within these systems. Among the multitude of theories within this field, the Real Balance Effect and the Pigou Effect stand out as pivotal in understanding consumer behavior and economic stability. The Real Balance Effect refers to changes in consumer consumption patterns resulting from adjustments in the real value of money holdings. This concept is crucial in analyzing how variations in purchasing power can influence overall economic equilibrium.

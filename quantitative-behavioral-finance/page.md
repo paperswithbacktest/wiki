@@ -1,6 +1,9 @@
 ---
-title: "Quantitative behavioral finance (Algo Trading)"
-description: "Explore quantitative behavioral finance in algorithmic trading, where psychological insights and biases enhance market modeling and refine automated trading strategies."
+category: quant_concept
+description: Explore quantitative behavioral finance in algorithmic trading, where
+  psychological insights and biases enhance market modeling and refine automated trading
+  strategies.
+title: Quantitative behavioral finance (Algo Trading)
 ---
 
 Quantitative behavioral finance is a field of study that integrates the principles of behavioral finance with quantitative financial modeling. It seeks to understand and model financial markets by incorporating human psychology and cognitive biases into traditional economic theories. Traditionally, financial markets have been studied under the assumption that market participants are rational actors. However, quantitative behavioral finance recognizes that human psychology often influences financial decision-making, leading to market anomalies and deviations from expected outcomes.

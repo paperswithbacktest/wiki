@@ -1,6 +1,15 @@
 ---
-title: "Market Sentiment and Indicators Explained (Algo Trading)"
-description: This article explores the transformative impact of human emotions and market psychology on algorithmic trading through market sentiment and sentiment indicators. By integrating sentiment analysis into trading strategies, traders can enhance precision and decision-making, understanding investor sentiments such as bullish, bearish, or neutral. The article investigates into the role of sentiment indicators in interpreting these emotional cues, illustrating how they empower traders with qualitative insights that complement traditional analysis. This approach aids in optimizing risk management and forecasting market trends, ultimately advancing trading performance by aligning computational logic with human emotional factors.
+category: quant_concept
+description: This article explores the transformative impact of human emotions and
+  market psychology on algorithmic trading through market sentiment and sentiment
+  indicators. By integrating sentiment analysis into trading strategies, traders can
+  enhance precision and decision-making, understanding investor sentiments such as
+  bullish, bearish, or neutral. The article investigates into the role of sentiment
+  indicators in interpreting these emotional cues, illustrating how they empower traders
+  with qualitative insights that complement traditional analysis. This approach aids
+  in optimizing risk management and forecasting market trends, ultimately advancing
+  trading performance by aligning computational logic with human emotional factors.
+title: Market Sentiment and Indicators Explained (Algo Trading)
 ---
 
 Algorithmic trading, often referred to as algo trading or automated trading, represents a significant transformation in the financial markets. It leverages computerized systems for executing trading instructions at lightning speed based on a predefined set of rules or algorithms. This technology has extended the capabilities of traders by enhancing precision, speed, and efficiency, ultimately altering how markets operate. Traditional trading methods relied heavily on human judgement and perception, which are susceptible to emotional bias and erroneous decisions. Algorithmic trading, however, minimizes human error by relying on logic-driven computational strategies.

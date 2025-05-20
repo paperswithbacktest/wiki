@@ -1,7 +1,8 @@
 ---
-title: Comprehensive Guide to Levenshtein Distance in Machine Learning
+category: quant_concept
 description: Levenshtein Distance powers text similarity and spell checking by counting
   minimal edits for accurate matching in ML and bioinformatics Discover more inside
+title: Comprehensive Guide to Levenshtein Distance in Machine Learning
 ---
 
 ![Image](images/1.png)

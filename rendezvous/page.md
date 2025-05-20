@@ -1,7 +1,8 @@
 ---
-title: Rendezvous Mechanisms for Efficient Distributed Machine Learning
+category: quant_concept
 description: Rendezvous synchronization improves coordination resilience and scalability
   in distributed machine learning and multi-agent systems Discover more inside
+title: Rendezvous Mechanisms for Efficient Distributed Machine Learning
 ---
 
 ![Image](images/1.jpeg)

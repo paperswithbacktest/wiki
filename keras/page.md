@@ -1,7 +1,8 @@
 ---
-title: Comprehensive Keras Guide for Machine Learning Projects
+category: quant_concept
 description: Keras simplifies building and training neural network models with an
   intuitive API installation tips and best practices Discover more inside.
+title: Comprehensive Keras Guide for Machine Learning Projects
 ---
 
 ![Image](images/1.png)

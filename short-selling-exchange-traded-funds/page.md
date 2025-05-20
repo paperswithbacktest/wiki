@@ -1,6 +1,9 @@
 ---
-title: "Short Selling Exchange-Traded Funds (Algo Trading)"
-description: "Explore short selling ETFs and algorithmic trading to understand dynamic investment strategies. Learn how these tools enhance flexibility and decision-making in the market."
+category: trading_strategy
+description: Explore short selling ETFs and algorithmic trading to understand dynamic
+  investment strategies. Learn how these tools enhance flexibility and decision-making
+  in the market.
+title: Short Selling Exchange-Traded Funds (Algo Trading)
 ---
 
 Exchange-Traded Funds (ETFs) are investment vehicles that have gained substantial popularity due to their flexibility and the broad market exposure they offer. An ETF is essentially a collection of securities, such as stocks or bonds, that is traded on stock exchanges much like a single stock. The growing attractiveness of ETFs can be attributed to their benefits which include diversification, liquidity, and cost-effectiveness, making them an appealing option for a wide range of investors.

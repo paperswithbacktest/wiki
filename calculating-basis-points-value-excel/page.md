@@ -1,6 +1,9 @@
 ---
-title: "Calculating Basis Points Value in Excel (Algo Trading)"
-description: "Enhance your financial analysis skills by learning how to calculate basis points in Excel, essential for precise algorithmic trading and strategic investment decisions."
+category: quant_concept
+description: Enhance your financial analysis skills by learning how to calculate basis
+  points in Excel, essential for precise algorithmic trading and strategic investment
+  decisions.
+title: Calculating Basis Points Value in Excel (Algo Trading)
 ---
 
 In the contemporary world of finance, precision in calculations is paramount. Basis points (BPS) serve as a critical metric for professionals handling financial instruments, especially when addressing minuscule changes in interest rates or investment returns. A basis point is equivalent to 0.01%, and its utility lies in providing a clear and standardized method to express percentage changes, thereby minimizing ambiguity in financial discussions. This is crucial in environments where even minor shifts can have substantial financial consequences.

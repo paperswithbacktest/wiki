@@ -1,6 +1,9 @@
 ---
-title: "Crossover Refunding: Definition and Mechanisms (Algo Trading)"
-description: "Explore the innovative approach of crossover refunding in municipal bonds to manage debt efficiently by leveraging algorithmic trading for optimized financial outcomes."
+category: quant_concept
+description: Explore the innovative approach of crossover refunding in municipal bonds
+  to manage debt efficiently by leveraging algorithmic trading for optimized financial
+  outcomes.
+title: 'Crossover Refunding: Definition and Mechanisms (Algo Trading)'
 ---
 
 Crossover refunding within municipal bonds represents an evolving tactic in financial management, offering debt-handling flexibility and interest rate optimization. This approach specifically aids municipalities in replacing high-interest debt with lower-interest obligations, thus improving overall financial efficiency. The introduction and growth of algorithmic trading have further enhanced the potential for municipalities and investors to refine their strategies, as algorithms allow for precise market analyses and the execution of trades based on intricate, data-driven criteria.

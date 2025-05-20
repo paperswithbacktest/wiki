@@ -1,6 +1,8 @@
 ---
-title: "Ex-Dividend Date and Date of Record: Differences (Algo Trading)"
-description: "Explore the key differences between ex-dividend date and date of record in stock trading and learn how they impact dividend eligibility and investment strategies."
+category: quant_concept
+description: Explore the key differences between ex-dividend date and date of record
+  in stock trading and learn how they impact dividend eligibility and investment strategies.
+title: 'Ex-Dividend Date and Date of Record: Differences (Algo Trading)'
 ---
 
 In the world of investing, dividend payments play a significant role for investors who seek a steady stream of income from their stock holdings. Dividends are periodic payments made by companies to their shareholders, typically as a distribution of profits. For investors, understanding key dates in the dividend distribution process, such as the ex-dividend date and the date of record, is essential to effectively manage and optimize their investments.

@@ -1,6 +1,9 @@
 ---
-title: "Elasticity and Inelasticity of Demand (Algo Trading)"
-description: "Explore how understanding demand elasticity and inelasticity enhances algorithmic trading by predicting market trends and optimizing strategies for reliable outcomes."
+category: quant_concept
+description: Explore how understanding demand elasticity and inelasticity enhances
+  algorithmic trading by predicting market trends and optimizing strategies for reliable
+  outcomes.
+title: Elasticity and Inelasticity of Demand (Algo Trading)
 ---
 
 In the fast-paced world of algorithmic trading, understanding core economic concepts is crucial for success. Among these concepts, demand elasticity and demand inelasticity stand out as essential tools for traders aiming to forecast market movements effectively. These concepts elucidate how changes in price influence consumer demand, thereby impacting market dynamics and trading strategies.

@@ -1,6 +1,8 @@
 ---
-title: "Application of Technical Indicators in Mutual Fund Analysis (Algo Trading)"
-description: "Enhance your mutual fund strategies with technical indicators and algorithmic trading to optimize entries and exits adaptively in today's evolving market landscape."
+category: trading_strategy
+description: Enhance your mutual fund strategies with technical indicators and algorithmic
+  trading to optimize entries and exits adaptively in today's evolving market landscape.
+title: Application of Technical Indicators in Mutual Fund Analysis (Algo Trading)
 ---
 
 In investing, mutual funds have consistently been a dependable choice for those seeking long-term growth. They offer diversification, professional management, and are generally accessible to retail investors, making them a prevalent investment vehicle. Traditionally, mutual fund analysis has been rooted in fundamental analysis, which assesses the intrinsic value of an investment based on economic indicators, company performance, and other qualitative and quantitative factors. However, recent technological advancements and the rise of algorithmic trading have opened new avenues for enhancing the traditionally long-term strategy of mutual fund investment.

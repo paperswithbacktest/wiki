@@ -1,6 +1,8 @@
 ---
-title: "FTSE RAFI US 1000 Index: Overview and Functionality (Algo Trading)"
-description: "Explore the FTSE RAFI US 1000 Index's innovative approach to stock selection using fundamental financial metrics to capture economic value over market cap."
+category: quant_concept
+description: Explore the FTSE RAFI US 1000 Index's innovative approach to stock selection
+  using fundamental financial metrics to capture economic value over market cap.
+title: 'FTSE RAFI US 1000 Index: Overview and Functionality (Algo Trading)'
 ---
 
 The FTSE RAFI US 1000 Index represents a pioneering approach to index construction by utilizing fundamental weighting methodologies. This index includes 1000 of the largest U.S. companies selected based on fundamental metrics rather than traditional market capitalization. This approach focuses on four core financial factors: sales, cash flow, dividends, and book value. By evaluating these components, the index aims to better capture the economic footprint of a company rather than just its market valuation.

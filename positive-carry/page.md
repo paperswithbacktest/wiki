@@ -1,6 +1,9 @@
 ---
-title: "Positive Carry (Algo Trading)"
-description: "Explore how positive carry strategies combined with algorithmic trading provide a robust investment approach optimizing returns and reducing manual trading risks."
+category: trading_strategy
+description: Explore how positive carry strategies combined with algorithmic trading
+  provide a robust investment approach optimizing returns and reducing manual trading
+  risks.
+title: Positive Carry (Algo Trading)
 ---
 
 Algorithmic trading has fundamentally transformed the landscape of financial markets by facilitating trade executions with unparalleled precision and speed. This transformation is primarily attributed to the ability of algorithms to process extensive datasets rapidly and make calculated decisions beyond human capabilities. Positive carry strategies, a prominent investment approach, have become integral to these automated systems.
@@ -218,4 +221,3 @@ The future trajectory suggests a trend toward the integration of multi-strategy 
 10. **Statistical Modeling Techniques in Finance - MIT Courseware.** This course provides online resources on statistical models critical for implementing effective algorithmic trading and carry strategies.
 
 These references provide a thorough grounding in theoretical and practical aspects relevant to carry strategies and algorithmic trading, facilitating a deeper understanding and exploration of the topic.
-

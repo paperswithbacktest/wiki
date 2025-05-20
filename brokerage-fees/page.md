@@ -1,6 +1,8 @@
 ---
-title: "Brokerage Fees (Algo Trading)"
-description: "Discover the ins and outs of brokerage fees and algorithmic trading costs in financial services Learn strategies to minimize fees and maximize your returns"
+category: quant_concept
+description: Discover the ins and outs of brokerage fees and algorithmic trading costs
+  in financial services Learn strategies to minimize fees and maximize your returns
+title: Brokerage Fees (Algo Trading)
 ---
 
 The financial services industry is an integral part of the global economy, promoting capital formation, liquidity, and wealth creation. As it continues to evolve, it becomes increasingly complex due to advancements in technology, globalization, and regulatory changes. Among the critical components of modern financial services are brokerage and algorithmic trading, both of which play a significant role in facilitating efficient market operations.

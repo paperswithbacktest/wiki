@@ -1,6 +1,8 @@
 ---
-title: "Overview of the Export-Import Bank of the United States (Algo Trading)"
-description: "Discover the role of the Export-Import Bank of the United States and how algorithmic trading enhances trade finance efficiency for U.S. exporters."
+category: quant_concept
+description: Discover the role of the Export-Import Bank of the United States and
+  how algorithmic trading enhances trade finance efficiency for U.S. exporters.
+title: Overview of the Export-Import Bank of the United States (Algo Trading)
 ---
 
 The global marketplace is characterized by constant change and an intricate web of trade relationships, where trade finance is fundamental in driving international commerce. At the heart of this complex network is the Export-Import Bank of the United States (EXIM Bank), which serves as a critical facilitator of U.S. exports through a range of essential financial services. As the official export credit agency of the United States, EXIM Bank is instrumental in supporting American businesses by providing loans, guarantees, and insurance to mitigate the risks associated with entering foreign markets.

@@ -1,6 +1,9 @@
 ---
-title: "Non-Recurring Gains and Losses (Algo Trading)"
-description: "Explore non-recurring gains and losses in financial accounting and their impact on algorithmic trading. Learn to analyze and interpret financial statements effectively."
+category: quant_concept
+description: Explore non-recurring gains and losses in financial accounting and their
+  impact on algorithmic trading. Learn to analyze and interpret financial statements
+  effectively.
+title: Non-Recurring Gains and Losses (Algo Trading)
 ---
 
 Financial accounting is a fundamental component of business operations, encompassing the systematic process of recording, summarizing, and reporting financial transactions. This structured approach ensures that stakeholders have access to reliable and timely financial information, crucial for making informed decisions. A pivotal aspect of financial accounting is the accurate representation of non-recurring gains and losses. These financial transactions are characterized by their infrequent nature and lack of association with a company’s standard business activities. Examples of non-recurring items include gains from the sale of a subsidiary or losses due to natural disasters. 

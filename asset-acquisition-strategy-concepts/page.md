@@ -1,6 +1,8 @@
 ---
-title: "Asset Acquisition Strategy Concepts (Algo Trading)"
-description: "Explore the intricacies of asset acquisition strategies in algorithmic trading Learn how business and algorithmic models shape modern investment practices"
+category: trading_strategy
+description: Explore the intricacies of asset acquisition strategies in algorithmic
+  trading Learn how business and algorithmic models shape modern investment practices
+title: Asset Acquisition Strategy Concepts (Algo Trading)
 ---
 
 Investment strategies have continuously adapted in response to technological advancements and evolving market dynamics. The financial landscape is characterized by its complexity and the rapid pace of change, necessitating a deep understanding of core concepts to navigate it successfully. Among these concepts are business strategy, asset acquisition, and algorithmic trading, each playing a pivotal role in shaping modern investment frameworks.

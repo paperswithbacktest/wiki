@@ -1,6 +1,9 @@
 ---
-title: "auto-differentiation for finance (Algo Trading)"
-description: "Explore how auto-differentiation enhances algorithmic trading by ensuring precise derivative calculations, optimizing strategies, and improving risk management for finance professionals."
+category: quant_concept
+description: Explore how auto-differentiation enhances algorithmic trading by ensuring
+  precise derivative calculations, optimizing strategies, and improving risk management
+  for finance professionals.
+title: auto-differentiation for finance (Algo Trading)
 ---
 
 The financial industry is continuously transforming, utilizing advanced technology to streamline trading processes and enhance efficiency. One pivotal innovation is Algorithmic Trading, or Algo Trading, which has become increasingly popular due to its ability to execute trades with unparalleled speed and precision. At the core of algo trading lies the critical technique of auto-differentiation—an essential tool used to calculate derivatives accurately and efficiently, greatly impacting financial modeling and strategy formulation.

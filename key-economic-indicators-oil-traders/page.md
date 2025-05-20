@@ -1,6 +1,13 @@
 ---
-title: "Key Economic Indicators for Oil Traders (Algo Trading)"
-description: "Explore the complex world of oil trading with a focus on key economic indicators and algorithmic trading strategies. Understand how factors like crude oil inventories, production levels, and global GDP growth influence price movements. Learn how advanced algorithmic trading methods enhance efficiency and accuracy, offering traders a competitive edge in a volatile market through the use of machine learning and AI. Discover how integrating economic insights and technological advancements can lead to greater success in navigating the oil market."
+category: trading_strategy
+description: Explore the complex world of oil trading with a focus on key economic
+  indicators and algorithmic trading strategies. Understand how factors like crude
+  oil inventories, production levels, and global GDP growth influence price movements.
+  Learn how advanced algorithmic trading methods enhance efficiency and accuracy,
+  offering traders a competitive edge in a volatile market through the use of machine
+  learning and AI. Discover how integrating economic insights and technological advancements
+  can lead to greater success in navigating the oil market.
+title: Key Economic Indicators for Oil Traders (Algo Trading)
 ---
 
 This article explores the intricate world of oil trading, focusing on crucial economic indicators and the role of algorithmic trading in oil market analysis. The oil market's complexity stems from various influencing factors, encompassing geopolitical events, supply and demand dynamics, and macroeconomic trends. These elements require investors and traders to adopt a comprehensive approach to market analysis to stay competitive.
@@ -202,4 +209,3 @@ Ultimately, the foundation of a successful oil trading endeavor lies in the deve
 - Jansen, S. "Machine Learning for Algorithmic Trading." This resource illustrates the use of machine learning models in developing algorithmic trading strategies, offering practical examples and Python code implementations.
 
 - Chan, E. P. "Quantitative Trading: How to Build Your Own Algorithmic Trading Business." This book serves as a guide for individuals looking to establish their own algorithmic trading operations, detailing the necessary steps from strategy development to execution.
-

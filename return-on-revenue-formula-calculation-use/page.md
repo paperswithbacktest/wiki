@@ -1,6 +1,8 @@
 ---
-title: "Return on Revenue: Formula, Calculation, and Use (Algo Trading)"
-description: "Explore how return on revenue is calculated and its significance in evaluating company profitability in the context of algorithmic trading strategies."
+category: quant_concept
+description: Explore how return on revenue is calculated and its significance in evaluating
+  company profitability in the context of algorithmic trading strategies.
+title: 'Return on Revenue: Formula, Calculation, and Use (Algo Trading)'
 ---
 
 In today's financial landscape, understanding key financial metrics is crucial for assessing a company's performance. To navigate this complex environment, it is essential to grasp metrics like revenue calculation and return on revenue. These metrics serve as fundamental tools for analyzing a company's profitability and operational efficiency. 

@@ -1,6 +1,8 @@
 ---
-title: "Notional Value in Financial Contracts (Algo Trading)"
-description: "Discover the significance of notional value in derivatives and algorithmic trading Learn how these financial components interact to optimize trading strategies"
+category: quant_concept
+description: Discover the significance of notional value in derivatives and algorithmic
+  trading Learn how these financial components interact to optimize trading strategies
+title: Notional Value in Financial Contracts (Algo Trading)
 ---
 
 In today's complex financial markets, understanding the intricacies of financial contracts and derivatives is essential. Financial derivatives are powerful instruments that derive their value from underlying assets such as stocks, bonds, commodities, or indices, and their effective use hinges upon the concept of notional value. Notional value refers to the aggregate value of a derivative's underlying asset, which differs from its market value. This metric is crucial for gauging the scale and potential impact of trading activities, especially when the actual cash exchanged in transactions is a fraction of the notional value. It plays an essential role in risk exposure assessments within derivative transactions.

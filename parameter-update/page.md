@@ -1,7 +1,8 @@
 ---
-title: Optimizing Parameter Updates in Machine Learning Models
+category: quant_concept
 description: Parameter updates drive model learning by adjusting weights through gradient
   descent and adaptive optimizers to improve accuracy Discover more inside
+title: Optimizing Parameter Updates in Machine Learning Models
 ---
 
 ![Image](images/1.jpeg)

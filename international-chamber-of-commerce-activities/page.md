@@ -1,6 +1,13 @@
 ---
-title: "International Chamber of Commerce Activities (Algo Trading)"
-description: "Explore the pivotal activities of the International Chamber of Commerce in promoting global trade and fostering innovation in algorithmic trading solutions. This article investigates into the ICC's role in establishing trading standards, offering dispute resolution, and integrating advanced trading technologies which together create a stable and efficient international trade environment. With a history of driving economic growth since 1919, the ICC continues to enhance cross-border collaboration, benefiting businesses and economies worldwide."
+category: quant_concept
+description: Explore the pivotal activities of the International Chamber of Commerce
+  in promoting global trade and fostering innovation in algorithmic trading solutions.
+  This article investigates into the ICC's role in establishing trading standards,
+  offering dispute resolution, and integrating advanced trading technologies which
+  together create a stable and efficient international trade environment. With a history
+  of driving economic growth since 1919, the ICC continues to enhance cross-border
+  collaboration, benefiting businesses and economies worldwide.
+title: International Chamber of Commerce Activities (Algo Trading)
 ---
 
 The International Chamber of Commerce (ICC) plays a pivotal role in global trade by providing a robust framework of rules, standards, and dispute resolution mechanisms. As the world's largest business organization, the ICC represents 45 million companies located across more than 170 countries [^1^]. Established to promote international commerce and foster a prosperous business environment, the ICC's influence extends far beyond traditional trading practices.

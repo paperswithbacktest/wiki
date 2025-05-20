@@ -1,6 +1,9 @@
 ---
-title: "Investment in Greek Bonds: A Guide (Algo Trading)"
-description: "Explore investment opportunities in Greek bonds with our comprehensive guide. Discover benefits, risks, and the role of algorithmic trading in the bond market."
+category: trading_strategy
+description: Explore investment opportunities in Greek bonds with our comprehensive
+  guide. Discover benefits, risks, and the role of algorithmic trading in the bond
+  market.
+title: 'Investment in Greek Bonds: A Guide (Algo Trading)'
 ---
 
 Investing in Greek bonds presents an intriguing avenue for diversifying a portfolio with fixed-income securities. These bonds offer a distinctive blend of opportunities and challenges that cater to investors seeking stable returns amidst Greece's evolving economic landscape. As the country's economy continues its recovery, potential opportunities in the Greek bond market may emerge, providing attractive options for investors.

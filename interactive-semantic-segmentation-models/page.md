@@ -1,7 +1,8 @@
 ---
-title: Enhancing Interactive Semantic Segmentation With EdgeFlow
+category: quant_concept
 description: Interactive semantic segmentation leverages user clicks and EdgeFlow
   edge analysis to improve labeling accuracy and efficiency Discover more inside.
+title: Enhancing Interactive Semantic Segmentation With EdgeFlow
 ---
 
 ![Image](images/1.webp)

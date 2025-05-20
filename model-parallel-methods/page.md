@@ -1,7 +1,8 @@
 ---
-title: Understanding Model Parallel Methods for Large Scale ML Training
+category: quant_concept
 description: Model Parallel Methods enable training of large ML models by splitting
   them across devices to boost efficiency and cut wait times Discover more inside
+title: Understanding Model Parallel Methods for Large Scale ML Training
 ---
 
 ![Image](images/1.png)

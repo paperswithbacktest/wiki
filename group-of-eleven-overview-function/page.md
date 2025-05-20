@@ -1,6 +1,8 @@
 ---
-title: "Group of Eleven: Overview and Function (Algo Trading)"
-description: "Explore the Group of Eleven's impact on algorithmic trading and international collaboration Boost your trading efficiency through G11's innovations and insights"
+category: quant_concept
+description: Explore the Group of Eleven's impact on algorithmic trading and international
+  collaboration Boost your trading efficiency through G11's innovations and insights
+title: 'Group of Eleven: Overview and Function (Algo Trading)'
 ---
 
 The rapidly evolving world of trading has witnessed significant technological advancements in recent years. One of the most notable advancements is algorithmic trading. This innovation merges financial markets with sophisticated computer algorithms to automate and streamline trading strategies. By leveraging algorithms, traders can execute orders with increased speed and precision, effectively reducing the likelihood of human error and enhancing overall market efficiency.

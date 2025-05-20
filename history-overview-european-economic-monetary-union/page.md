@@ -1,6 +1,9 @@
 ---
-title: "History and Overview of the European Economic and Monetary Union (Algo Trading)"
-description: "Explore the evolution and impact of the European Economic and Monetary Union EMU on the EU economy and the growing role of algorithmic trading in financial markets"
+category: quant_concept
+description: Explore the evolution and impact of the European Economic and Monetary
+  Union EMU on the EU economy and the growing role of algorithmic trading in financial
+  markets
+title: History and Overview of the European Economic and Monetary Union (Algo Trading)
 ---
 
 The European Union's Economic and Monetary Union (EMU) represents a critical framework within Europe, facilitating economic integration and monetary cohesion among member states. Established by the Maastricht Treaty on February 7, 1992, the EMU aims to eliminate exchange rate variability and increase economic stability by adopting a single currency—the euro—for participating countries. This ambition promotes seamless trade, investment, and financial interactions across borders, significantly contributing to the economic growth and stability of the region. The EMU's significance lies not merely in currency unification but also in harmonizing monetary policies, which are governed by the European Central Bank (ECB), thus impacting fiscal strategies, price stability, and inflation control throughout the eurozone. 

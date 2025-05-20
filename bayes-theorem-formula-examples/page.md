@@ -1,6 +1,8 @@
 ---
-title: "Bayes' Theorem: Formula and Examples (Algo Trading)"
-description: "Explore how Bayes' Theorem enhances algorithmic trading with dynamic probability updates risk assessments and improved decision-making in volatile markets."
+category: quant_concept
+description: Explore how Bayes' Theorem enhances algorithmic trading with dynamic
+  probability updates risk assessments and improved decision-making in volatile markets.
+title: 'Bayes'' Theorem: Formula and Examples (Algo Trading)'
 ---
 
 Bayesian probability and Bayes' Theorem are central to the field of statistical analysis, providing a systematic framework for updating the probability of a hypothesis as new evidence becomes available. When applied to algorithmic trading, these concepts can significantly enhance decision-making processes by improving predictions and refining risk assessments. By leveraging the principles of Bayesian inference, traders can achieve a level of adaptability that is often lacking in traditional statistical methods, particularly in the dynamically changing market environments.

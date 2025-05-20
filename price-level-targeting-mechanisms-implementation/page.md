@@ -1,6 +1,9 @@
 ---
-title: "Price Level Targeting: Mechanisms and Implementation (Algo Trading)"
-description: "Explore the intricate dynamics of price level targeting and algorithmic trading in today's financial landscape Learn about their mechanisms impact and future implications"
+category: quant_concept
+description: Explore the intricate dynamics of price level targeting and algorithmic
+  trading in today's financial landscape Learn about their mechanisms impact and future
+  implications
+title: 'Price Level Targeting: Mechanisms and Implementation (Algo Trading)'
 ---
 
 In the constantly evolving financial landscape, factors such as monetary policies, economic strategies, and technological advancements significantly influence the global economy. Understanding the interplay among these components is essential for investors, policymakers, and economists as they navigate through economic challenges and opportunities. This article examines the intricate relationship between economic strategy, monetary policy, price level targeting, and algorithmic trading, highlighting their interactions and impact on financial markets.

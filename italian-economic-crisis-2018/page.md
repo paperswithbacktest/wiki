@@ -1,6 +1,9 @@
 ---
-title: "Italian Economic Crisis of 2018 (Algo Trading)"
-description: "Explore the Italian economic crisis of 2018 examining its political and financial roots as well as the stabilizing role of algorithmic trading amidst eurozone uncertainties."
+category: quant_concept
+description: Explore the Italian economic crisis of 2018 examining its political and
+  financial roots as well as the stabilizing role of algorithmic trading amidst eurozone
+  uncertainties.
+title: Italian Economic Crisis of 2018 (Algo Trading)
 ---
 
 The Italian economic downturn in 2018 marked a significant period of instability for a nation that is among the largest economies in the eurozone. Italy, grappling with high government debt, political instability, and external pressures from the European Union, faced a confluence of challenges that threatened its economic stability and impacted the broader European financial landscape. The downturn was not only a test of Italy's economic resilience but also a critical moment in understanding the dynamics of European economic integration and modern financial technologies.

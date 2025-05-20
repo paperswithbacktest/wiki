@@ -1,6 +1,8 @@
 ---
-title: "Dividends vs. Capital Gains (Algo Trading)"
-description: "Explore the differences between dividends and capital gains in algo trading and learn how they can jointly optimize your investment returns for financial success."
+category: quant_concept
+description: Explore the differences between dividends and capital gains in algo trading
+  and learn how they can jointly optimize your investment returns for financial success.
+title: Dividends vs. Capital Gains (Algo Trading)
 ---
 
 In today's complex financial landscape, understanding various income streams is essential for maximizing investment returns. Among the most significant components of these streams are dividends, capital gains, and algorithmic trading. Each plays a distinct, yet interrelated role in enhancing an investor's portfolio performance.

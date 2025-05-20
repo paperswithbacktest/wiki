@@ -1,6 +1,9 @@
 ---
-title: "Pre-Market and Post-Market Trading (Algo Trading)"
-description: "Explore the opportunities and challenges of pre-market and post-market trading. Learn how algorithmic strategies enhance trading efficiency during these extended hours."
+category: trading_strategy
+description: Explore the opportunities and challenges of pre-market and post-market
+  trading. Learn how algorithmic strategies enhance trading efficiency during these
+  extended hours.
+title: Pre-Market and Post-Market Trading (Algo Trading)
 ---
 
 The stock market is a dynamic entity that operates beyond the traditional trading hours, providing opportunities through pre-market and post-market sessions. These extended sessions are becoming increasingly relevant as they allow traders to engage with market events virtually around the clock. By comprehending the intricacies of these non-standard trading hours, traders can better strategize and optimize their trading activities.

@@ -1,10 +1,9 @@
 ---
-title: Understanding the Role of Raters in Machine Learning Data Quality
+category: dataset
 description: Rater in machine learning play a key role in labeling and validating
   data to boost model accuracy and reliability Discover more inside
+title: Understanding the Role of Raters in Machine Learning Data Quality
 ---
-
-
 
 ## Table of Contents
 

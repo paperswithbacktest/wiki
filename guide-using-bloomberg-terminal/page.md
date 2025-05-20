@@ -1,6 +1,8 @@
 ---
-title: "Guide to Using the Bloomberg Terminal (Algo Trading)"
-description: "Explore the Bloomberg Terminal's vital role in algorithmic trading with real-time data and analytics that empower investment professionals to refine strategies."
+category: dataset
+description: Explore the Bloomberg Terminal's vital role in algorithmic trading with
+  real-time data and analytics that empower investment professionals to refine strategies.
+title: Guide to Using the Bloomberg Terminal (Algo Trading)
 ---
 
 In financial markets, staying ahead requires more than just basic tools. Bloomberg Terminal, a market leader in financial software, offers unparalleled access to real-time data and advanced analytics. For investment professionals, the ability to access and analyze data quickly and accurately is crucial for making informed decisions. The Bloomberg Terminal, with its extensive suite of features, has become an indispensable asset in the competitive landscape of financial trading and investment management.

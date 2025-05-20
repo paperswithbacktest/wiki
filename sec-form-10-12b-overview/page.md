@@ -1,6 +1,9 @@
 ---
-title: "SEC Form 10-12B Overview (Algo Trading)"
-description: "Discover the significance of SEC Form 10-12B in company spinoffs and its impact on algorithmic trading. Learn about securities registration and market strategies."
+category: quant_concept
+description: Discover the significance of SEC Form 10-12B in company spinoffs and
+  its impact on algorithmic trading. Learn about securities registration and market
+  strategies.
+title: SEC Form 10-12B Overview (Algo Trading)
 ---
 
 The world of public companies and securities is complex, involving various regulatory filings and forms. In this article, we examine SEC Form 10-12B, a pivotal document in the spinoff process for companies seeking to create independent entities. This form is essential in facilitating a seamless transition of securities from a parent company to a newly formed entity. We also explore its connection with algorithmic trading, a prominent development in financial markets, which relies extensively on data-driven strategies and automated systems. Join us as we unravel the significance of SEC Form 10-12B in securities registration and its impact on trading strategies in today's fast-paced and technologically advanced market landscape.

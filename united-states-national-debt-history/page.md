@@ -1,6 +1,12 @@
 ---
-title: "United States National Debt History (Algo Trading)"
-description: "Explore the evolving history of the U.S. national debt and its implications on financial stability and economic growth. This article provides insights into the trajectory of the national debt, key contributing factors, and explores the role of algorithmic trading in debt management. Delve into the impact of significant historical events on debt levels, the cyclical nature of fiscal policies, and the importance of the debt-to-GDP ratio in assessing economic health and stability."
+category: quant_concept
+description: Explore the evolving history of the U.S. national debt and its implications
+  on financial stability and economic growth. This article provides insights into
+  the trajectory of the national debt, key contributing factors, and explores the
+  role of algorithmic trading in debt management. Delve into the impact of significant
+  historical events on debt levels, the cyclical nature of fiscal policies, and the
+  importance of the debt-to-GDP ratio in assessing economic health and stability.
+title: United States National Debt History (Algo Trading)
 ---
 
 The U.S. national debt has reached historic highs, posing substantial concerns for its impact on financial stability and economic growth. This article endeavors to provide a comprehensive overview of the U.S. national debt, examining its historical growth trajectory and key contributing factors. We will explore significant periods of debt expansion, analyze the repercussions of rising debt levels on fiscal policy, and discuss potential pathways for managing this enormous financial liability.

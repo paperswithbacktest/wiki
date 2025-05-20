@@ -1,6 +1,8 @@
 ---
-title: "Passive Management: Overview and Mechanism (Algo Trading)"
-description: "Explore passive management and its role in modern investment with insights into asset management and algorithmic trading Learn how they shape financial strategies"
+category: trading_strategy
+description: Explore passive management and its role in modern investment with insights
+  into asset management and algorithmic trading Learn how they shape financial strategies
+title: 'Passive Management: Overview and Mechanism (Algo Trading)'
 ---
 
 Investment strategies play a critical role in the financial landscape, guiding how investors manage their resources to achieve desired financial outcomes. In today's complex financial markets, there is a significant convergence of passive management, asset management, and algorithmic trading, shaping robust investment strategies. Understanding these concepts is essential for both novice and seasoned investors, as each approach offers distinct benefits and caters to different investment objectives and risk tolerances.

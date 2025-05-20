@@ -1,6 +1,8 @@
 ---
-title: "Okun's Law: Formula, History, and Limitations (Algo Trading)"
-description: "Explore Okun's Law and its relevance to economic theory and trading strategies as it bridges unemployment with GDP, assisting in market forecasting."
+category: quant_concept
+description: Explore Okun's Law and its relevance to economic theory and trading strategies
+  as it bridges unemployment with GDP, assisting in market forecasting.
+title: 'Okun''s Law: Formula, History, and Limitations (Algo Trading)'
 ---
 
 The multifaceted relationship between unemployment, economic theory, and trading strategies serves as a crucial foundation for understanding modern financial dynamics. These three elements provide a comprehensive framework for analyzing how macroeconomic indicators influence financial markets and, conversely, how market behavior can impact economic metrics. Unemployment, a key indicator of economic health, not only affects social welfare but also informs macroeconomic policies and investment decisions. It is classified into various types, such as cyclical, structural, and frictional, each shedding light on different economic dynamics. Understanding these distinctions is imperative for policymakers and investors alike, as they carry implications for economic growth and stability.

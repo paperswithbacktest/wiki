@@ -1,6 +1,9 @@
 ---
-title: "Impact of Investment Banks on the Economy (Algo Trading)"
-description: "Investment banks drive economic growth by facilitating capital flow and optimizing trading through algorithmic strategies. Explore their impact on global finance."
+category: quant_concept
+description: Investment banks drive economic growth by facilitating capital flow and
+  optimizing trading through algorithmic strategies. Explore their impact on global
+  finance.
+title: Impact of Investment Banks on the Economy (Algo Trading)
 ---
 
 Investment banks play a pivotal role in the global financial system, functioning as key intermediaries that facilitate the flow of capital between investors and entities seeking funding. Their primary functions include underwriting securities for issuance, providing advisory services for mergers and acquisitions, and managing assets for various clients. As crucial participants in capital markets, investment banks are instrumental in price discovery, capital allocation, and risk management, which consequently influence economic growth and stability.

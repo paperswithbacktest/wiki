@@ -1,6 +1,12 @@
 ---
-title: "New York Mercantile Exchange (NYMEX) (Algo Trading)"
-description: Explore the dynamic world of the New York Mercantile Exchange (NYMEX) and the critical role of algorithmic trading in commodities markets. Learn how advanced algorithms enhance trading efficiency and precision, while influencing liquidity and market operations. Understand the strategies and technologies driving modern financial trading at NYMEX, and the evolving landscape shaped by these innovations for investors, traders, and financial professionals.
+category: quant_concept
+description: Explore the dynamic world of the New York Mercantile Exchange (NYMEX)
+  and the critical role of algorithmic trading in commodities markets. Learn how advanced
+  algorithms enhance trading efficiency and precision, while influencing liquidity
+  and market operations. Understand the strategies and technologies driving modern
+  financial trading at NYMEX, and the evolving landscape shaped by these innovations
+  for investors, traders, and financial professionals.
+title: New York Mercantile Exchange (NYMEX) (Algo Trading)
 ---
 
 The New York Mercantile Exchange (NYMEX) stands as a pivotal entity in global commodities trading, influencing markets with its comprehensive frameworks for trading energy and other commodities. Within this significant market ecosystem, algorithmic trading has emerged as an essential tool for modern investors and financial professionals. Algorithmic trading employs advanced mathematical models and sophisticated software to execute trading decisions, transforming how participants interact with financial markets.

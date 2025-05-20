@@ -1,6 +1,8 @@
 ---
-title: "Euronext Dublin: Overview, Functionality, and History (Algo Trading)"
-description: "Explore Euronext Dublin's pivotal role in Europe's stock exchanges focusing on the rise of algorithmic trading that enhances liquidity and market efficiency."
+category: quant_concept
+description: Explore Euronext Dublin's pivotal role in Europe's stock exchanges focusing
+  on the rise of algorithmic trading that enhances liquidity and market efficiency.
+title: 'Euronext Dublin: Overview, Functionality, and History (Algo Trading)'
 ---
 
 The financial markets have experienced a profound transformation with the integration of advanced technologies, reshaping trading dynamics and introducing both new opportunities and challenges. At the forefront of this evolution is Euronext Dublin, a leading player in the European stock exchange landscape. Euronext Dublin demonstrates significant changes in its operations and influence, particularly evident in the rise of algorithmic trading, commonly referred to as algo trading, which fundamentally alters trading practices on exchanges like Euronext Dublin.

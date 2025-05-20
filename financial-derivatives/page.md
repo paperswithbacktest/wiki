@@ -1,6 +1,9 @@
 ---
-title: "Financial Derivatives (Algo Trading)"
-description: "Explore risk management strategies in financial markets, focusing on algorithmic trading, market risk, credit risk, and technology-driven solutions for investors."
+category: quant_concept
+description: Explore risk management strategies in financial markets, focusing on
+  algorithmic trading, market risk, credit risk, and technology-driven solutions for
+  investors.
+title: Financial Derivatives (Algo Trading)
 ---
 
 In financial markets, risk management is crucial for the success of investment strategies. Financial markets are characterized by volatility and unpredictability, making effective risk management paramount to avoid significant losses. The advent of algorithmic trading has further heightened the importance of efficiently managing risks. Algorithmic trading uses intricate algorithms and rapid execution to optimize trades and potentially increase profitability but also introduces complexities and potential vulnerabilities.

@@ -1,6 +1,9 @@
 ---
-title: "Ethical Considerations of Investing in Controversial Stocks (Algo Trading)"
-description: "Explore the ethical challenges of investing in controversial stocks through algorithmic trading while balancing profitability with societal values and market integrity."
+category: trading_strategy
+description: Explore the ethical challenges of investing in controversial stocks through
+  algorithmic trading while balancing profitability with societal values and market
+  integrity.
+title: Ethical Considerations of Investing in Controversial Stocks (Algo Trading)
 ---
 
 Investing is a multifaceted endeavor that extends beyond the pursuit of financial gains, encompassing ethical considerations that can significantly impact society. The intersection of ethical investing and the allure of unethical stocks presents a complex landscape for traders, especially with the prevalence of algorithmic trading. As investors pursue financial returns, they must navigate the challenges of supporting potentially controversial industries such as tobacco, alcohol, and firearms, which, though profitable, raise moral and ethical queries. These sectors are characterized by high demand but are often marred by ethical controversies due to their societal impact.

@@ -1,6 +1,9 @@
 ---
-title: "Apple Inc. Dividend Overview: Payout, Yield, and Growth Analysis (Algo Trading)"
-description: "Explore Apple's dividend growth, yield, and strategies influenced by algorithmic trading to understand tech investment dynamics and enhance portfolio decisions."
+category: trading_strategy
+description: Explore Apple's dividend growth, yield, and strategies influenced by
+  algorithmic trading to understand tech investment dynamics and enhance portfolio
+  decisions.
+title: 'Apple Inc. Dividend Overview: Payout, Yield, and Growth Analysis (Algo Trading)'
 ---
 
 The landscape of investing is continually changing, driven by innovations in financial strategies and market dynamics. Among the diverse investment opportunities, dividend growth stocks have gained prominence for their potential to offer reliable returns over time. These stocks provide a combination of capital appreciation and income generation, appealing to both conservative investors seeking steady income and growth-oriented investors looking for compounding returns.

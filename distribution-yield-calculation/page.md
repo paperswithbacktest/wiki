@@ -1,6 +1,8 @@
 ---
-title: "Distribution Yield and Its Calculation (Algo Trading)"
-description: "Discover the impacts of distribution yield and yield calculations on investment returns and see how algorithmic trading optimizes these financial metrics."
+category: quant_concept
+description: Discover the impacts of distribution yield and yield calculations on
+  investment returns and see how algorithmic trading optimizes these financial metrics.
+title: Distribution Yield and Its Calculation (Algo Trading)
 ---
 
 In the complex landscape of investments, acquiring an understanding of key concepts and metrics is essential for making informed decisions. Among these, distribution yield, yield calculation, investment returns, and algorithmic trading are especially significant. This article examines how distribution yield and yield calculations impact investment returns and the ways algorithmic trading can be employed to optimize these factors. Through a detailed analysis of these subjects, investors can enhance their decision-making processes and achieve improved financial outcomes. 

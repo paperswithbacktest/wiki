@@ -1,6 +1,9 @@
 ---
-title: "Comparison of H-Shares and A-Shares (Algo Trading)"
-description: "Explore the key differences between Chinese A-Shares and H-Shares in the context of algorithmic trading and understand their impact on global investment strategies."
+category: trading_strategy
+description: Explore the key differences between Chinese A-Shares and H-Shares in
+  the context of algorithmic trading and understand their impact on global investment
+  strategies.
+title: Comparison of H-Shares and A-Shares (Algo Trading)
 ---
 
 Global stock markets are integral to the economic framework, facilitating capital flow and investment opportunities across various regions. Each regional market possesses distinctive characteristics influenced by economic policies, local investor behavior, and geopolitical factors. Understanding these differences is essential for investors, analysts, and policymakers to navigate potential opportunities and risks effectively.

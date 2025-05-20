@@ -1,6 +1,8 @@
 ---
-title: "Decentraland (Algo Trading)"
-description: "Explore Decentraland, a blockchain-powered virtual world where users buy, sell, and trade digital assets securely, plus discover automated trading possibilities."
+category: quant_concept
+description: Explore Decentraland, a blockchain-powered virtual world where users
+  buy, sell, and trade digital assets securely, plus discover automated trading possibilities.
+title: Decentraland (Algo Trading)
 ---
 
 In recent years, blockchain technology has brought significant advancements to various industries, including finance, supply chain, and healthcare. Notably, the virtual world is also experiencing a profound transformation, primarily through platforms like Decentraland. Decentraland is a blockchain-based virtual environment that allows users to create, experience, and monetize digital content within a shared, immersive space. It represents a shift towards decentralized governance and ownership in digital realms, enabled by blockchain infrastructure.

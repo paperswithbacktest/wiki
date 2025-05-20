@@ -1,6 +1,8 @@
 ---
-title: "Quasi-Monte Carlo method (Algo Trading)"
-description: "Explore how Quasi-Monte Carlo methods enhance algorithmic trading with improved accuracy and efficiency using low-discrepancy sequences for financial modeling."
+category: quant_concept
+description: Explore how Quasi-Monte Carlo methods enhance algorithmic trading with
+  improved accuracy and efficiency using low-discrepancy sequences for financial modeling.
+title: Quasi-Monte Carlo method (Algo Trading)
 ---
 
 The Quasi-Monte Carlo (QMC) method is a numerical integration technique often utilized in computational finance and particularly in algorithmic trading. Unlike its counterpart, the Monte Carlo method, which relies on random sampling, QMC employs low-discrepancy sequences to cover the integration domain more uniformly. This characteristic of QMC methods is crucial for enhancing the accuracy of numerical solutions, particularly in high-dimensional spaces commonly encountered in financial computations.

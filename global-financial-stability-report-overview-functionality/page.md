@@ -1,6 +1,9 @@
 ---
-title: "Global Financial Stability Report: Overview and Functionality (Algo Trading)"
-description: "Explore the Global Financial Stability Report's insights on algorithmic trading and emerging market risks, highlighting its role in assessing and guiding market stability."
+category: quant_concept
+description: Explore the Global Financial Stability Report's insights on algorithmic
+  trading and emerging market risks, highlighting its role in assessing and guiding
+  market stability.
+title: 'Global Financial Stability Report: Overview and Functionality (Algo Trading)'
 ---
 
 The International Monetary Fund (IMF), a critical institution aimed at fostering global monetary cooperation, releases the Global Financial Stability Report (GFSR) twice a year, specifically in April and October. This report serves as an essential tool in assessing the stability of global financial markets. Central to its objectives is the examination of emerging-market financing conditions, which are crucial for understanding the global economic landscape.

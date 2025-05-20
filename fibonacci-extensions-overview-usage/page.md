@@ -1,6 +1,8 @@
 ---
-title: "Fibonacci Extensions: Overview and Usage (Algo Trading)"
-description: "Utilize Fibonacci extensions in algorithmic trading to predict market movements and identify key support and resistance levels for informed decision-making."
+category: quant_concept
+description: Utilize Fibonacci extensions in algorithmic trading to predict market
+  movements and identify key support and resistance levels for informed decision-making.
+title: 'Fibonacci Extensions: Overview and Usage (Algo Trading)'
 ---
 
 Fibonacci extensions are a critical component of technical analysis used widely by traders to predict potential price movements and identify reversal zones in financial markets. Rooted in the mathematical principles of the Fibonacci sequence, these extensions provide a structured method to project future price levels based on previous market trends. Traders find these tools particularly beneficial as they endeavor to pinpoint critical levels of support and resistance, enhancing their ability to make informed trading decisions.

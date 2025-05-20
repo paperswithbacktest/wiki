@@ -1,6 +1,8 @@
 ---
-title: "Accumulation in Finance (Algo Trading)"
-description: "Explore the role of accumulation finance and algorithmic trading in building wealth Use strategic planning and tech to optimize investments and enhance returns"
+category: quant_concept
+description: Explore the role of accumulation finance and algorithmic trading in building
+  wealth Use strategic planning and tech to optimize investments and enhance returns
+title: Accumulation in Finance (Algo Trading)
 ---
 
 In today's dynamic financial environment, competitiveness and innovation are driven by accumulation finance, financial strategy, and algorithmic trading. These components have become vital for investors, whether they are just starting or have years of experience. Accumulation finance is the process of gradually increasing one's asset holdings, which serves as a cornerstone for building sustainable wealth. This approach not only helps in managing costs and risks but also positions investors to take advantage of market fluctuations.

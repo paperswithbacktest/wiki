@@ -1,7 +1,8 @@
 ---
-title: Machine Learning Advances in Air Quality Forecasting
+category: quant_concept
 description: Air quality forecasting employs graph attention networks to predict pollution
   trends from weather traffic and sensor data in real time Discover more inside
+title: Machine Learning Advances in Air Quality Forecasting
 ---
 
 ![Image](images/1.jpeg)

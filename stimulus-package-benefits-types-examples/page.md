@@ -1,6 +1,13 @@
 ---
-title: "Stimulus Package: Benefits, Types, and Examples (Algo Trading)"
-description: "Explore the intricacies of economic stimulus packages and their impact on market dynamics in this insightful discussion. Delve into fiscal and monetary policies that stabilize economies during downturns, complemented by the transformative role of algorithmic trading. Understand how government initiatives like tax cuts and spending boost economic activity and how swift market reactions create opportunities for algorithmic traders. This comprehensive examination underscores the importance of timely interventions for economic stability and growth."
+category: quant_concept
+description: Explore the intricacies of economic stimulus packages and their impact
+  on market dynamics in this insightful discussion. Delve into fiscal and monetary
+  policies that stabilize economies during downturns, complemented by the transformative
+  role of algorithmic trading. Understand how government initiatives like tax cuts
+  and spending boost economic activity and how swift market reactions create opportunities
+  for algorithmic traders. This comprehensive examination underscores the importance
+  of timely interventions for economic stability and growth.
+title: 'Stimulus Package: Benefits, Types, and Examples (Algo Trading)'
 ---
 
 Understanding fiscal policy and its role in economic stabilization is fundamental in today's globalized economy. Fiscal policy encompasses a range of government actions, including spending adjustments and tax policies, which are designed to influence a nation's economic health. During periods of economic downturn, governments often turn to economic stimulus packages as a strategic measure to bolster economic activity and prevent further decline. These packages may include initiatives like tax cuts, increased public spending, and direct financial assistance to individuals and businesses.

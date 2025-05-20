@@ -1,6 +1,12 @@
 ---
-title: "Significance of Short Interest in Financial Markets (Algo Trading)"
-description: "Explore the significance of short interest in financial markets and its role in modern algo trading strategies. Understand how algorithmic models utilizing short interest data can influence trading decisions and market dynamics. Gain insights on investing, exploring various vehicle types, risk management, and the technology-driven transformation of markets. Learn to navigate complex financial systems and adapt to emerging trends and challenges to succeed in today's fast-paced investment landscape."
+category: trading_strategy
+description: Explore the significance of short interest in financial markets and its
+  role in modern algo trading strategies. Understand how algorithmic models utilizing
+  short interest data can influence trading decisions and market dynamics. Gain insights
+  on investing, exploring various vehicle types, risk management, and the technology-driven
+  transformation of markets. Learn to navigate complex financial systems and adapt
+  to emerging trends and challenges to succeed in today's fast-paced investment landscape.
+title: Significance of Short Interest in Financial Markets (Algo Trading)
 ---
 
 In today's fast-paced financial environment, the ability to navigate complex markets is crucial for investment success. This article explores the interplay between financial markets, investing, short interest, and algorithmic trading, offering insights into how these components contribute to the ever-evolving landscape of modern trading strategies. 

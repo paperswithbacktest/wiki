@@ -1,6 +1,8 @@
 ---
-title: "Group One Trading (Algo Trading)"
-description: "Explore Group One Trading's journey in algorithmic trading and discover its innovative strategies that have reshaped modern financial markets."
+category: trading_strategy
+description: Explore Group One Trading's journey in algorithmic trading and discover
+  its innovative strategies that have reshaped modern financial markets.
+title: Group One Trading (Algo Trading)
 ---
 
 Group One Trading is a prominent player in the algorithmic trading industry, recognized for its pioneering contributions and influence in financial markets. Established in 1989, Group One Trading initially focused on options market making in U.S. exchanges. Over the years, it has evolved to incorporate advanced algorithmic trading systems, setting a benchmark for innovation and efficiency in the trading world.

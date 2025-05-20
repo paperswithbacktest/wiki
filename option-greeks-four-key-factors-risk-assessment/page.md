@@ -1,6 +1,9 @@
 ---
-title: "Option Greeks: Four Key Factors for Risk Assessment (Algo Trading)"
-description: "Explore the crucial role of Option Greeks in options trading and algorithmic strategies Understand Delta Gamma Theta and Vega for effective risk management and decision-making"
+category: quant_concept
+description: Explore the crucial role of Option Greeks in options trading and algorithmic
+  strategies Understand Delta Gamma Theta and Vega for effective risk management and
+  decision-making
+title: 'Option Greeks: Four Key Factors for Risk Assessment (Algo Trading)'
 ---
 
 Options trading and derivative markets often present a high level of complexity, requiring traders to understand and effectively manage risk to achieve success. Central to this understanding are the Option Greeks—crucial tools that allow traders to quantify and manage the risks associated with options positions. Each Greek letter represents a different aspect of risk measurement, helping traders gain insights into the sensitivity of option prices to various underlying factors.

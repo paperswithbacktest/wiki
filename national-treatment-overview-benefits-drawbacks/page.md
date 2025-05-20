@@ -1,6 +1,9 @@
 ---
-title: "National Treatment: Overview, Benefits, and Drawbacks (Algo Trading)"
-description: "Explore the intersection of national treatment and algorithmic trading in international trade policy unraveling their impact on global commerce and market competition."
+category: quant_concept
+description: Explore the intersection of national treatment and algorithmic trading
+  in international trade policy unraveling their impact on global commerce and market
+  competition.
+title: 'National Treatment: Overview, Benefits, and Drawbacks (Algo Trading)'
 ---
 
 In the rapidly evolving landscape of global trade, the intersection of trade policy, national treatment, and algorithmic trading plays a pivotal role in shaping the future of international commerce. Over the past several decades, globalization and technological innovation have driven substantial changes in how trade is conducted, fundamentally altering the dynamics of global markets.

@@ -1,6 +1,13 @@
 ---
-title: "Bruce Kovner: A Trading Legend (Algo Trading)"
-description: Bruce Kovner, a celebrated hedge fund manager and founder of Caxton Associates, is renowned for his macro trading strategies and influence on algorithmic trading. His meticulous approach to risk management and strategic decision-making has made a lasting impact on modern trading systems. This article explores Kovner's trading philosophy and its unexpected effect on the development of algorithmic trading, highlighting the principles of rigorous risk management and emotional discipline that continue to shape trading technologies today.
+category: trading_strategy
+description: Bruce Kovner, a celebrated hedge fund manager and founder of Caxton Associates,
+  is renowned for his macro trading strategies and influence on algorithmic trading.
+  His meticulous approach to risk management and strategic decision-making has made
+  a lasting impact on modern trading systems. This article explores Kovner's trading
+  philosophy and its unexpected effect on the development of algorithmic trading,
+  highlighting the principles of rigorous risk management and emotional discipline
+  that continue to shape trading technologies today.
+title: 'Bruce Kovner: A Trading Legend (Algo Trading)'
 ---
 
 Bruce Kovner is a prominent figure in the trading industry, widely recognized for his notable achievements as a hedge fund manager and as the founder of Caxton Associates. Over the years, Kovner has earned a reputation for his macro trading strategies, which have established him as a leading thinker in the financial markets. His career offers valuable insights into the mechanisms of global finance, framed by his adept handling of economic indicators and policy shifts. This deep understanding not only propelled his success but also influenced a generation of traders who look to his methods as a model of excellence.

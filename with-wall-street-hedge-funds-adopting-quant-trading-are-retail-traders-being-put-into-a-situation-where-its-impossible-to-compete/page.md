@@ -1,6 +1,13 @@
 ---
-title: "With Wall Street hedge funds adopting quant trading, are retail traders being put into a situation where it’s impossible to compete?"
-description: "Explore the challenges and opportunities faced by retail traders in today's competitive financial markets as hedge funds adopt quantitative trading. Learn how access to data, computational power, research & development, economies of scale, and regulation impact retail traders, and discover strategies for success. Dive into curated resources for systematic trading, including strategies with code, libraries, datasets, and educational materials."
+category: quant_concept
+description: Explore the challenges and opportunities faced by retail traders in today's
+  competitive financial markets as hedge funds adopt quantitative trading. Learn how
+  access to data, computational power, research & development, economies of scale,
+  and regulation impact retail traders, and discover strategies for success. Dive
+  into curated resources for systematic trading, including strategies with code, libraries,
+  datasets, and educational materials.
+title: With Wall Street hedge funds adopting quant trading, are retail traders being
+  put into a situation where it’s impossible to compete?
 ---
 
 Quantitative trading, often referred to as quant trading, is a method that relies on mathematical models and statistical analysis to make trading decisions. Unlike traditional trading, which might depend on human intuition and fundamental analysis, quant trading leverages algorithms, computational models, and vast datasets to identify trading opportunities with precision and speed. Wall Street hedge funds have increasingly adopted these quantitative techniques, harnessing their potential to execute trades at lightning-fast speeds and optimize their returns.

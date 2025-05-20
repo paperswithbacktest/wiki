@@ -1,6 +1,12 @@
 ---
-title: "Pennant Trading Strategy (Algo Trading)"
-description: Explore the pivotal role of bullish pennants in algorithmic trading, providing insights into market trends and aiding traders in capitalizing on ongoing movements. Learn how these patterns indicate market consolidation before an uptrend continues, offering crucial entry and exit points to optimize trade accuracy and profitability. Enhance your algorithmic trading strategy by understanding and integrating these technical analysis tools to systematically improve precision in trading decisions.
+category: trading_strategy
+description: Explore the pivotal role of bullish pennants in algorithmic trading,
+  providing insights into market trends and aiding traders in capitalizing on ongoing
+  movements. Learn how these patterns indicate market consolidation before an uptrend
+  continues, offering crucial entry and exit points to optimize trade accuracy and
+  profitability. Enhance your algorithmic trading strategy by understanding and integrating
+  these technical analysis tools to systematically improve precision in trading decisions.
+title: Pennant Trading Strategy (Algo Trading)
 ---
 
 In algorithmic trading, chart patterns such as bullish pennants play a pivotal role in providing traders with significant insights into market trends. A bullish pennant is a continuation pattern typically observed following a sharp upward movement. It indicates a brief market consolidation or pause before the prevailing uptrend continues. Recognizing and understanding these patterns can be crucial for traders aiming to capitalize on ongoing market movements.

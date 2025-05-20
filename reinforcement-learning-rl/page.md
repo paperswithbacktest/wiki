@@ -1,6 +1,8 @@
 ---
-title: "Reinforcement Learning (RL) (Algo Trading)"
-description: "Discover how Reinforcement Learning revolutionizes algorithmic trading by enabling adaptive strategies that optimize decision-making amid market fluctuations."
+category: quant_concept
+description: Discover how Reinforcement Learning revolutionizes algorithmic trading
+  by enabling adaptive strategies that optimize decision-making amid market fluctuations.
+title: Reinforcement Learning (RL) (Algo Trading)
 ---
 
 In the fast-paced world of algorithmic trading, staying ahead requires cutting-edge tools and techniques. Reinforcement Learning (RL), a type of machine learning, is revolutionizing how trading strategies are developed and executed. RL's ability to learn optimal strategies through interaction with dynamic environments makes it particularly suited to the fluctuating nature of financial markets. In contrast to traditional methods that rely heavily on historical data and static models, RL offers adaptive learning that can evolve with market conditions.

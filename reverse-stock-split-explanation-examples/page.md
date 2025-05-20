@@ -1,6 +1,14 @@
 ---
-title: "Reverse Stock Split: Explanation and Examples (Algo Trading)"
-description: "Explore the complex dynamics of reverse stock splits and algorithmic trading with insights into how these financial mechanisms impact investment strategies. Uncover the reasons behind reverse stock splits and their effects on share prices and market perception. Learn about the benefits of algorithmic trading in modern investing, including speed and efficiency, and how it integrates with traditional finance strategies to optimize portfolio performance. Understanding these concepts empowers investors to make informed decisions and adapt to the dynamic landscape of the stock market."
+category: quant_concept
+description: Explore the complex dynamics of reverse stock splits and algorithmic
+  trading with insights into how these financial mechanisms impact investment strategies.
+  Uncover the reasons behind reverse stock splits and their effects on share prices
+  and market perception. Learn about the benefits of algorithmic trading in modern
+  investing, including speed and efficiency, and how it integrates with traditional
+  finance strategies to optimize portfolio performance. Understanding these concepts
+  empowers investors to make informed decisions and adapt to the dynamic landscape
+  of the stock market.
+title: 'Reverse Stock Split: Explanation and Examples (Algo Trading)'
 ---
 
 The stock market serves as a vital component of the global economy, facilitating the exchange of securities and offering a platform for both personal and institutional investors to grow their wealth. This market not only reflects economic health but also plays a significant role in capital formation, providing companies the means to raise funds for expansion and innovation. For individual and institutional investors, the stock market is a critical arena for building investment portfolios, managing risks, and achieving financial goals.

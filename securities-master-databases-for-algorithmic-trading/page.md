@@ -1,6 +1,12 @@
 ---
-title: "Securities Master Databases for Algorithmic Trading Explained (Algo Trading)"
-description: Discover how Securities Master Databases (SMDs) are vital for effective algorithmic trading by providing centralized, accurate, and up-to-date financial securities information. This article explores the components, benefits, and challenges of implementing an SMD, highlighting its impact on trading outcomes, risk management, and regulatory compliance in the rapidly evolving financial markets. Learn how SMDs enhance data integrity, speed, and decision-making for optimal trading performance.
+category: dataset
+description: Discover how Securities Master Databases (SMDs) are vital for effective
+  algorithmic trading by providing centralized, accurate, and up-to-date financial
+  securities information. This article explores the components, benefits, and challenges
+  of implementing an SMD, highlighting its impact on trading outcomes, risk management,
+  and regulatory compliance in the rapidly evolving financial markets. Learn how SMDs
+  enhance data integrity, speed, and decision-making for optimal trading performance.
+title: Securities Master Databases for Algorithmic Trading Explained (Algo Trading)
 ---
 
 A Securities Master Database (SMD) is a centralized repository that holds comprehensive information about financial securities, including stocks, bonds, derivatives, and other investment instruments. It plays a critical role in the financial sector by consolidating data from various sources to provide a reliable and uniform reference that supports different financial operations, including trading, compliance, risk management, and reporting. An SMD ensures that all data related to securities is accurate, up-to-date, and accessible, thus maintaining data integrity and consistency across the organization.

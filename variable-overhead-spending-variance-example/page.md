@@ -1,6 +1,9 @@
 ---
-title: "Variable Overhead Spending Variance with Example (Algo Trading)"
-description: "Optimize algorithmic trading profitability with insights into variable overhead spending variance to manage indirect expenses efficiently and improve financial performance."
+category: quant_concept
+description: Optimize algorithmic trading profitability with insights into variable
+  overhead spending variance to manage indirect expenses efficiently and improve financial
+  performance.
+title: Variable Overhead Spending Variance with Example (Algo Trading)
 ---
 
 In the fast-paced world of algorithmic trading, the meticulous understanding of cost components is crucial to maximizing profitability. Algorithmic trading, characterized by the use of complex algorithms to automate and accelerate trading decisions, incurs various cost structures, among which the variable overhead spending variance holds substantial significance but is frequently overlooked. This cost component entails the fluctuation of overhead costs that vary with the level of operational activity, such as trading volumes and computational requirements.

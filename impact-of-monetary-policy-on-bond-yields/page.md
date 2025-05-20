@@ -1,6 +1,9 @@
 ---
-title: "Impact of Monetary Policy on Bond Yields (Algo Trading)"
-description: "Explore the impact of monetary policy on bond yields with insights into algorithmic trading Learn how interest rates and central bank strategies shape financial markets"
+category: quant_concept
+description: Explore the impact of monetary policy on bond yields with insights into
+  algorithmic trading Learn how interest rates and central bank strategies shape financial
+  markets
+title: Impact of Monetary Policy on Bond Yields (Algo Trading)
 ---
 
 In the evolving landscape of global finance, understanding its interconnected components is increasingly vital for both seasoned investors and newcomers. The modern financial ecosystem is shaped significantly by four key elements: monetary policy, interest rates, bond yields, and algorithmic trading. Each component plays a distinct role while simultaneously influencing one another, thereby affecting economic conditions and investment landscapes.

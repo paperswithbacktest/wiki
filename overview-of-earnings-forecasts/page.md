@@ -1,6 +1,9 @@
 ---
-title: "Overview of Earnings Forecasts (Algo Trading)"
-description: "Explore the transformative role of AI in algorithmic trading Discover how advanced algorithms enhance market prediction improve trade efficiency and shape future strategies"
+category: trading_strategy
+description: Explore the transformative role of AI in algorithmic trading Discover
+  how advanced algorithms enhance market prediction improve trade efficiency and shape
+  future strategies
+title: Overview of Earnings Forecasts (Algo Trading)
 ---
 
 Trading in the financial markets is intricate, influenced by numerous economic and psychological factors. In recent years, the rapid influx of information has significantly impacted profitability in trading, necessitating the deployment of artificial intelligence (AI) to aid in making informed trading decisions. AI systems excel at swiftly analyzing vast quantities of data sourced from diverse platforms, thereby facilitating high-frequency trading (HFT). HFT involves executing a large number of trades at extreme speeds, capitalizing on minute price fluctuations that a human trader might overlook.

@@ -1,6 +1,8 @@
 ---
-title: "game theory in trading (Algo Trading)"
-description: "Explore the synergy between game theory and algorithmic trading to enhance decision-making and strategy formulation for competitive market efficiency."
+category: quant_concept
+description: Explore the synergy between game theory and algorithmic trading to enhance
+  decision-making and strategy formulation for competitive market efficiency.
+title: game theory in trading (Algo Trading)
 ---
 
 Algorithmic trading, or algo-trading, involves deploying computer algorithms to execute trades with enhanced speed and efficiency. These algorithms are designed to make swift decisions based on predetermined criteria, minimizing human intervention and maximizing the potential for profit. The fast-paced nature of financial markets makes this technology indispensable.

@@ -1,6 +1,9 @@
 ---
-title: "Financial Leverage in Corporate Capital Structure (Algo Trading)"
-description: "Explore the impact of financial leverage in corporate capital structures and the role of algorithmic trading in optimizing risk-return profiles for strategic growth."
+category: quant_concept
+description: Explore the impact of financial leverage in corporate capital structures
+  and the role of algorithmic trading in optimizing risk-return profiles for strategic
+  growth.
+title: Financial Leverage in Corporate Capital Structure (Algo Trading)
 ---
 
 Corporate capital structure is a cornerstone of financial management, reflecting the blend of a company's financing sources: equity, debt, and any hybrid securities. This structure is pivotal as it directly influences a firm's risk profile and potential returns, thus playing a critical role in strategic financial decision-making. By optimizing capital structure, companies can enhance their valuation, minimize their cost of capital, and ensure sustainable growth.

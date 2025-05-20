@@ -1,7 +1,8 @@
 ---
-title: Understanding Logistic Regression Key Concepts and Applications
+category: quant_concept
 description: Logistic regression predicts probabilities for binary outcomes using
   sigmoid transformation and optimized cost functions Discover more inside
+title: Understanding Logistic Regression Key Concepts and Applications
 ---
 
 ![Image](images/1.png)

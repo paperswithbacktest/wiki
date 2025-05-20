@@ -1,6 +1,8 @@
 ---
-title: "MoneyLion: Overview, Loan Process, and Fees (Algo Trading)"
-description: "Discover how MoneyLion revolutionizes personal finance with its streamlined loan process and algorithmic trading insights while understanding associated fees."
+category: dataset
+description: Discover how MoneyLion revolutionizes personal finance with its streamlined
+  loan process and algorithmic trading insights while understanding associated fees.
+title: 'MoneyLion: Overview, Loan Process, and Fees (Algo Trading)'
 ---
 
 In the evolving landscape of financial technology, MoneyLion emerges as a leading platform, providing an array of services tailored to the needs of middle-class consumers in America. Established as a fintech pioneer, MoneyLion offers innovative financial solutions, such as loans and investment tools, designed to empower users in managing their finances more effectively.

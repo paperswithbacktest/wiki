@@ -1,6 +1,8 @@
 ---
-title: "Loonie: Economic Role and Significance (Algo Trading)"
-description: "Explore the pivotal role of the Canadian dollar, the loonie, in the economy and its dynamic connection with algorithmic trading in global markets."
+category: quant_concept
+description: Explore the pivotal role of the Canadian dollar, the loonie, in the economy
+  and its dynamic connection with algorithmic trading in global markets.
+title: 'Loonie: Economic Role and Significance (Algo Trading)'
 ---
 
 The Canadian dollar, affectionately known as 'the loonie,' plays a pivotal role in Canada's economy. Named after the distinctive bird depicted on its one-dollar coin, the loonie not only symbolizes Canadian identity but also influences the country's financial landscape. Issued by the Bank of Canada, the loonie serves as the backbone for financial transactions within Canada and as a significant currency in global trading. As the fifth most held reserve currency worldwide, its strength and stability are closely tied to Canada’s economic prosperity and its vast array of natural resources, particularly oil and minerals.

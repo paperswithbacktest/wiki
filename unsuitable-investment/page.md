@@ -1,6 +1,9 @@
 ---
-title: "Unsuitable Investment (Algo Trading)"
-description: "Explore how unsuitable investments, especially with algorithmic trading, pose risks by misaligning with investors' goals and risk tolerance, impacting financial health."
+category: quant_concept
+description: Explore how unsuitable investments, especially with algorithmic trading,
+  pose risks by misaligning with investors' goals and risk tolerance, impacting financial
+  health.
+title: Unsuitable Investment (Algo Trading)
 ---
 
 Understanding the landscape of financial investments is crucial, yet the concept of financial suitability is often overlooked. Financial suitability refers to the alignment between an investment product and an individual investor's financial goals, risk tolerance, and personal circumstances. It serves as a foundational principle in investment management, ensuring that the investor's requirements are appropriately matched with investment recommendations.

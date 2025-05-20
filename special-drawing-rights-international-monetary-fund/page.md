@@ -1,6 +1,9 @@
 ---
-title: "Special Drawing Rights of the International Monetary Fund (Algo Trading)"
-description: "Explore the influential role of Special Drawing Rights by the IMF in global finance and how they integrate with algorithmic trading to enhance economic stability."
+category: quant_concept
+description: Explore the influential role of Special Drawing Rights by the IMF in
+  global finance and how they integrate with algorithmic trading to enhance economic
+  stability.
+title: Special Drawing Rights of the International Monetary Fund (Algo Trading)
 ---
 
 The global financial landscape is in a state of perpetual transformation, heavily influenced by advancements in technology and shifts in economic paradigms. At the heart of this dynamic environment lies the International Monetary Fund's (IMF) Special Drawing Rights (SDRs), which, though not conventional currencies, are pivotal assets for the IMF's member nations. Established to bolster international liquidity, SDRs have progressively become instrumental in providing financial support during periods of economic distress.

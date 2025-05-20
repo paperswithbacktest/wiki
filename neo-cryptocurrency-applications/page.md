@@ -1,6 +1,8 @@
 ---
-title: "NEO Cryptocurrency and Its Applications (Algo Trading)"
-description: "Explore the intersection of NEO cryptocurrency blockchain and algorithmic trading Understand NEO's smart economy and discover trading strategies and tools"
+category: quant_concept
+description: Explore the intersection of NEO cryptocurrency blockchain and algorithmic
+  trading Understand NEO's smart economy and discover trading strategies and tools
+title: NEO Cryptocurrency and Its Applications (Algo Trading)
 ---
 
 Blockchain technology has revolutionized the financial sector by introducing a decentralized, secure, and transparent method of recording transactions. Unlike traditional financial systems, which rely on centralized authorities, blockchain operates on a network of distributed ledgers, ensuring that transactions are immutable and resistant to tampering. This technology's innate ability to create trust in a trustless environment is reshaping how financial services are delivered globally, potentially reducing costs and increasing the speed of transactions across borders.

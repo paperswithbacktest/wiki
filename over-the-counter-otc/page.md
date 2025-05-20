@@ -1,6 +1,10 @@
 ---
-title: "Over-The-Counter (OTC) (Algo Trading)"
-description: "Explore the transformative impact of algorithmic trading on the Over-the-Counter (OTC) pharmaceutical market. Discover how this innovative approach enhances trading efficiency, streamlines transactions, and influences market dynamics while offering insights into future trends and strategic opportunities within the industry."
+category: trading_strategy
+description: Explore the transformative impact of algorithmic trading on the Over-the-Counter
+  (OTC) pharmaceutical market. Discover how this innovative approach enhances trading
+  efficiency, streamlines transactions, and influences market dynamics while offering
+  insights into future trends and strategic opportunities within the industry.
+title: Over-The-Counter (OTC) (Algo Trading)
 ---
 
 The pharmaceutical industry is currently undergoing significant transformation, marked by continuous advancements in both product offerings and trading mechanisms. A key development is the increased accessibility of Over-the-Counter (OTC) pharmaceuticals, which allows consumers worldwide to obtain medications without the need for prescriptions. This growing accessibility underscores the necessity for innovative trading strategies to better serve the market's demands.

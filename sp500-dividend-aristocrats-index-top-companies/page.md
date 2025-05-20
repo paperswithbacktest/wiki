@@ -1,6 +1,9 @@
 ---
-title: "S&P 500 Dividend Aristocrats Index and Leading Companies (Algo Trading)"
-description: "Explore how the S&P 500 Dividend Aristocrats maintain reliability in dividends and discover the role of algorithmic trading in optimizing investment potential."
+category: trading_strategy
+description: Explore how the S&P 500 Dividend Aristocrats maintain reliability in
+  dividends and discover the role of algorithmic trading in optimizing investment
+  potential.
+title: S&P 500 Dividend Aristocrats Index and Leading Companies (Algo Trading)
 ---
 
 The S&P 500 Dividend Aristocrats are an esteemed group of companies recognized for their commitment to increasing dividends over extended periods. These firms have maintained a remarkable track record, consistently enhancing their dividends annually for at least 25 consecutive years. Such financial discipline and stability underscore the reliability of Dividend Aristocrats, making them attractive to investors seeking dependable income streams and potential growth.

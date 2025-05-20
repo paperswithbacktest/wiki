@@ -1,6 +1,8 @@
 ---
-title: "Short Selling in ETFs vs. Index Funds (Algo Trading)"
-description: "Explore the dynamic interplay between ETFs, index funds, short selling, and algorithmic trading to enhance your investment strategies and optimize returns."
+category: trading_strategy
+description: Explore the dynamic interplay between ETFs, index funds, short selling,
+  and algorithmic trading to enhance your investment strategies and optimize returns.
+title: Short Selling in ETFs vs. Index Funds (Algo Trading)
 ---
 
 Exchange-Traded Funds (ETFs) and index funds have emerged as pivotal players in modern investment strategies, gaining popularity for their ability to offer investors diversified portfolios at lower costs. ETFs provide flexibility similar to stocks, as they can be traded throughout the day on exchanges, while index funds, generally managed passively, aim to replicate the performance of a specific index. Both instruments cater to a range of investment goals and risk appetites, making them accessible to both retail and institutional investors seeking efficient portfolio diversification 

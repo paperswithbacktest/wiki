@@ -1,6 +1,9 @@
 ---
-title: "Financial Crisis Responsibility Fee (Algo Trading)"
-description: "Explore the implications of the Financial Crisis Responsibility Fee and algorithmic trading in restoring financial accountability and mitigating future risks."
+category: quant_concept
+description: Explore the implications of the Financial Crisis Responsibility Fee and
+  algorithmic trading in restoring financial accountability and mitigating future
+  risks.
+title: Financial Crisis Responsibility Fee (Algo Trading)
 ---
 
 The financial landscape has been repeatedly shaped by crises, each leaving a legacy of heightened awareness and a call for reform. These events spotlight the sectors involved, notably the banking industry, whose operations are critical to maintaining economic stability. A significant turning point in recent history was the 2008 financial crisis, which underscored systemic vulnerabilities linked to irresponsible lending practices and the failure of major financial institutions. This debacle not only triggered a global economic downturn but also led to introspection about the role of financial intermediaries.

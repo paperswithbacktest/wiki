@@ -1,6 +1,8 @@
 ---
-title: "Good Through: Definition and Mechanics (Algo Trading)"
-description: "Explore how expiration terms and product validity drive strategic decisions in algorithmic trading ensuring traders make informed choices in financial markets."
+category: quant_concept
+description: Explore how expiration terms and product validity drive strategic decisions
+  in algorithmic trading ensuring traders make informed choices in financial markets.
+title: 'Good Through: Definition and Mechanics (Algo Trading)'
 ---
 
 The integration of expiration terms, product validity, and good through strategies in algorithmic trading is a pivotal component in financial markets. This convergence ensures that traders can maximize their strategies while effectively managing associated risks. Understanding expiration terms is critical for traders both in consumer goods, where they ensure safety and quality, and in financial markets, where they determine the viability of products like options and futures.
@@ -260,4 +262,3 @@ Lopez de Prado, M. (2018). *Advances in Financial Machine Learning*. This work e
 Glasserman, P. (2004). *Monte Carlo Methods in Financial Engineering*. Glasserman's book is a comprehensive guide to the application of Monte Carlo simulation in finance, which can be utilized for pricing options and managing risk associated with their expiration. 
 
 These resources provide foundational and advanced insights into the interaction of expiration terms, algorithmic trading, and risk management, essential for anyone looking to deepen their understanding of these complex topics.
-

@@ -1,6 +1,9 @@
 ---
-title: "Patent Value Evaluation Methods and Types (Algo Trading)"
-description: "Explore patent valuation methods and their role in strategic business decisions and algorithmic trading Discover traditional and AI-driven techniques to maximize patent value."
+category: quant_concept
+description: Explore patent valuation methods and their role in strategic business
+  decisions and algorithmic trading Discover traditional and AI-driven techniques
+  to maximize patent value.
+title: Patent Value Evaluation Methods and Types (Algo Trading)
 ---
 
 In the fast-evolving world of technology and innovation, patents play an indispensable role as significant assets for companies and individual innovators. These legal protections not only safeguard inventions but also add substantial value to businesses. Understanding the value of a patent is essential for numerous reasons, including strategic business decisions, market positioning, and maintaining a competitive advantage.

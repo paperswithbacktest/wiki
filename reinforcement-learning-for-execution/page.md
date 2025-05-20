@@ -1,6 +1,8 @@
 ---
-title: "reinforcement learning for execution (Algo Trading)"
-description: "Explore the role of reinforcement learning in algorithmic trading for enhanced trade execution, adaptability, and efficiency within financial markets."
+category: trading_strategy
+description: Explore the role of reinforcement learning in algorithmic trading for
+  enhanced trade execution, adaptability, and efficiency within financial markets.
+title: reinforcement learning for execution (Algo Trading)
 ---
 
 In recent years, algorithmic trading has gained significant traction within the financial markets due to its ability to process large datasets and execute trades at speeds far beyond human capability. This shift is largely driven by advancements in computational power and data accessibility, which allow for the development of sophisticated trading strategies. One of the emerging areas in this space is the application of reinforcement learning (RL) for trade execution.

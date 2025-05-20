@@ -1,6 +1,8 @@
 ---
-title: "Taxable Preferred Securities (Algo Trading)"
-description: "Explore the benefits and risks of taxable preferred securities and how algorithmic trading can optimize investments by enhancing trade efficiency and analysis."
+category: quant_concept
+description: Explore the benefits and risks of taxable preferred securities and how
+  algorithmic trading can optimize investments by enhancing trade efficiency and analysis.
+title: Taxable Preferred Securities (Algo Trading)
 ---
 
 The world of investing offers a multitude of options, each presenting unique benefits and risks. Within this landscape, preferred securities and taxable securities are notable for their distinct characteristics. Preferred securities, often viewed as a hybrid between stocks and bonds, provide investors with fixed dividends, typically at higher yields than common stock dividends, while maintaining certain protections afforded to creditors. Their appeal lies in combining elements of equity and debt, which can offer lower volatility compared to common stocks.

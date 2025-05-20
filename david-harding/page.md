@@ -1,6 +1,15 @@
 ---
-title: "David Harding (Algo Trading)"
-description: David Winton Harding is a prominent figure in algorithmic trading, known for transforming modern investment strategies through quantitative finance. His integration of scientific methods into trading has led to notable financial success and provided a model for others in the industry. Harding's investment philosophy focuses on a multidisciplinary approach, incorporating statisticians and scientists to drive data-driven decisions. Beyond finance, his philanthropic efforts and influence on policy underscore his impact on both education and commerce. Harding's career offers insights into the innovative use of scientific research in quantitative investing, shaping the future of investment management.
+category: quant_concept
+description: David Winton Harding is a prominent figure in algorithmic trading, known
+  for transforming modern investment strategies through quantitative finance. His
+  integration of scientific methods into trading has led to notable financial success
+  and provided a model for others in the industry. Harding's investment philosophy
+  focuses on a multidisciplinary approach, incorporating statisticians and scientists
+  to drive data-driven decisions. Beyond finance, his philanthropic efforts and influence
+  on policy underscore his impact on both education and commerce. Harding's career
+  offers insights into the innovative use of scientific research in quantitative investing,
+  shaping the future of investment management.
+title: David Harding (Algo Trading)
 ---
 
 David Winton Harding stands out as a key figure in algorithmic trading and investment management. Renowned for his pioneering contributions to quantitative finance, Harding's work reshaped modern investment strategies. By applying rigorous scientific and quantitative methods to trading, he has developed a portfolio of strategies that leverage empirical data and sophisticated algorithms. This approach has not only led to substantial financial returns but has also provided a model for others in the industry to follow.

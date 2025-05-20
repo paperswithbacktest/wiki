@@ -1,6 +1,9 @@
 ---
-title: "Monthly Income Preferred Securities (Algo Trading)"
-description: "Invest in Monthly Income Preferred Securities to enjoy steady income with monthly dividends Use algorithmic trading for optimized returns and reduced risks"
+category: trading_strategy
+description: Invest in Monthly Income Preferred Securities to enjoy steady income
+  with monthly dividends Use algorithmic trading for optimized returns and reduced
+  risks
+title: Monthly Income Preferred Securities (Algo Trading)
 ---
 
 In the ever-evolving world of finance, investors are continuously seeking instruments that offer both stability and potential returns. Preferred securities stand out as a unique financial instrument that embodies characteristics of both equity and debt, providing investors with a versatile avenue for capital allocation. This blend of features allows preferred securities to offer dividends similar to stocks, while also providing the fixed income typically associated with bonds.

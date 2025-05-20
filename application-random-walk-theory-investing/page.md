@@ -1,6 +1,9 @@
 ---
-title: "Application of Random Walk Theory in Investing (Algo Trading)"
-description: "Explore how Random Walk Theory influences algorithmic trading in modern finance, offering unique insights for developing superior trading strategies and optimizing returns."
+category: quant_concept
+description: Explore how Random Walk Theory influences algorithmic trading in modern
+  finance, offering unique insights for developing superior trading strategies and
+  optimizing returns.
+title: Application of Random Walk Theory in Investing (Algo Trading)
 ---
 
 In the rapidly evolving world of finance, the dynamics between investing and algorithmic trading are becoming increasingly important. Investors and traders are continually seeking tools and theories to predict market movements and optimize returns. The Random Walk Theory offers a distinctive lens through which to view stock price behaviors, asserting that these movements are essentially unpredictable. This concept challenges traditional investment strategies that rely on market timing or stock picking, suggesting instead that all available information is already embedded in stock prices.

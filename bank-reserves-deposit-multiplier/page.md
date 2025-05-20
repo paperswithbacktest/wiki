@@ -1,6 +1,9 @@
 ---
-title: "Bank Reserves and the Deposit Multiplier (Algo Trading)"
-description: "Explore how bank reserves, the deposit multiplier, and algorithmic trading influence modern banking and economic stability, aiding finance professionals and consumers."
+category: quant_concept
+description: Explore how bank reserves, the deposit multiplier, and algorithmic trading
+  influence modern banking and economic stability, aiding finance professionals and
+  consumers.
+title: Bank Reserves and the Deposit Multiplier (Algo Trading)
 ---
 
 Understanding the intricacies of the banking system is crucial for both professionals in the finance industry and everyday consumers. The banking sector is a multifaceted network where various elements interact to maintain economic stability and foster growth. Among these, the deposit multiplier, bank reserves, banking regulations, and algorithmic trading play significant roles. 

@@ -1,9 +1,15 @@
 ---
-title: "yfinance for Algo Trading"
-description: Learn how to integrate Yahoo Finance data into your algorithmic trading strategies with `yfinance`, a Python library that simplifies access to stock market data. This article provides a step-by-step guide on using `yfinance` to fetch historical stock prices, real-time data, options, and financial metrics. Whether you're analyzing market trends, building a trading bot, or backtesting strategies, yfinance offers a free and versatile toolset. Explore installation tips, data extraction techniques, and advanced financial analysis using Python to streamline your trading process efficiently.
+category: dataset
+description: Learn how to integrate Yahoo Finance data into your algorithmic trading
+  strategies with `yfinance`, a Python library that simplifies access to stock market
+  data. This article provides a step-by-step guide on using `yfinance` to fetch historical
+  stock prices, real-time data, options, and financial metrics. Whether you're analyzing
+  market trends, building a trading bot, or backtesting strategies, yfinance offers
+  a free and versatile toolset. Explore installation tips, data extraction techniques,
+  and advanced financial analysis using Python to streamline your trading process
+  efficiently.
+title: yfinance for Algo Trading
 ---
-
-
 
 ## Table of Contents
 

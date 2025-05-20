@@ -1,6 +1,9 @@
 ---
-title: "Red Candlestick in Financial Charts (Algo Trading)"
-description: "Explore the impact of red candlesticks in financial charts for algorithmic trading revealing bearish trends signaling selling pressure and aiding strategy formation."
+category: quant_concept
+description: Explore the impact of red candlesticks in financial charts for algorithmic
+  trading revealing bearish trends signaling selling pressure and aiding strategy
+  formation.
+title: Red Candlestick in Financial Charts (Algo Trading)
 ---
 
 Candlestick charts are an essential tool in financial analysis, widely used by traders and analysts to visualize price movements of securities such as stocks, forex, and commodities over a specific period. Originating from Japan in the 18th century and popularized by traders like Munehisa Homma, these charts provide a graphical representation of price action that encapsulates market sentiment and decision-making. A standard candlestick chart consists of individual 'candles,' where each candle displays the opening, closing, high, and low prices for a given time interval. The components of a candlestick include the body, representing the price range between open and close, and the wicks or shadows, which indicate the high and low within the period.

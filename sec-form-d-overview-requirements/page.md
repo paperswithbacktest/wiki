@@ -1,6 +1,8 @@
 ---
-title: "SEC Form D Overview and Requirements (Algo Trading)"
-description: "Explore the essentials of SEC Form D for algo trading with insights on regulatory compliance and strategic advantages in private securities offerings."
+category: quant_concept
+description: Explore the essentials of SEC Form D for algo trading with insights on
+  regulatory compliance and strategic advantages in private securities offerings.
+title: SEC Form D Overview and Requirements (Algo Trading)
 ---
 
 In the intricate world of finance, navigating regulatory requirements is pivotal for companies and investors alike. The Securities and Exchange Commission (SEC) Form D filing under Regulation D represents a key process within the domain of private securities. Form D is particularly significant for businesses seeking to raise capital through private placements by providing necessary information to the regulatory bodies. As algorithmic trading gains momentum and reshapes modern trading strategies, it is important to understand how these trading activities intersect with regulatory frameworks such as those governing Form D filings.

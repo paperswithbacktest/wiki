@@ -1,6 +1,8 @@
 ---
-title: "Method for Interpreting Intraday Trading Volume (Algo Trading)"
-description: "Discover how intraday trading volume informs algorithmic trading decisions by providing insights into market activity and liquidity for optimized trade execution."
+category: quant_concept
+description: Discover how intraday trading volume informs algorithmic trading decisions
+  by providing insights into market activity and liquidity for optimized trade execution.
+title: Method for Interpreting Intraday Trading Volume (Algo Trading)
 ---
 
 Intraday volume plays a crucial role in stock market trading as it provides insights into the level of activity and participation that occurs within a single trading day. It serves as a barometer for traders and investors to understand short-term market dynamics and make informed decisions. Unlike daily trading volume, which aggregates data from the opening to the closing of the market, intraday volume focuses on the fluctuations that occur within the trading day, offering a more granular view of market activity.

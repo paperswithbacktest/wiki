@@ -1,7 +1,8 @@
 ---
-title: Understanding Threshold Selection in Decision Tree Models
+category: quant_concept
 description: Decision Tree Threshold selection boosts accuracy and controls complexity
   using Gini impurity and entropy to optimize splits Discover more inside
+title: Understanding Threshold Selection in Decision Tree Models
 ---
 
 ![Image](images/1.png)

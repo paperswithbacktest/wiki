@@ -1,6 +1,9 @@
 ---
-title: "Ethical Considerations in Investment (Algo Trading)"
-description: "Explore the ethical considerations in algorithmic trading and investment as technology transforms financial markets with speed and efficiency while raising issues of fairness and transparency."
+category: trading_strategy
+description: Explore the ethical considerations in algorithmic trading and investment
+  as technology transforms financial markets with speed and efficiency while raising
+  issues of fairness and transparency.
+title: Ethical Considerations in Investment (Algo Trading)
 ---
 
 The concept of ethical investment has gained prominence as investors look to align their financial goals with personal values. Ethical investment, also known as socially responsible investing (SRI), is an investment strategy that incorporates environmental, social, and governance (ESG) criteria to generate both financial return and positive societal impact [1]. This approach reflects a growing awareness of the implications of investment decisions not only on individual portfolios but also on the larger society and environment. With increasing attention to issues such as climate change and corporate social responsibility, ethical investing has become central in shaping the future of global finance.

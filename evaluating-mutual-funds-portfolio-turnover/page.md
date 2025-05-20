@@ -1,6 +1,8 @@
 ---
-title: "Evaluating Mutual Funds Through Portfolio Turnover (Algo Trading)"
-description: "Explore how portfolio turnover affects mutual fund evaluation and algorithmic trading to optimize investment strategies reduce costs and enhance market success."
+category: trading_strategy
+description: Explore how portfolio turnover affects mutual fund evaluation and algorithmic
+  trading to optimize investment strategies reduce costs and enhance market success.
+title: Evaluating Mutual Funds Through Portfolio Turnover (Algo Trading)
 ---
 
 Investing encompasses a diverse spectrum of opportunities and challenges, each presenting unique implications for investors. Central to navigating this landscape are the concepts of investment strategies, portfolio turnover, mutual fund evaluation, and algorithmic trading. These elements are pivotal in shaping the decisions investors make, as well as the dynamics of financial markets.

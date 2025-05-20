@@ -1,6 +1,9 @@
 ---
-title: "Financial Greeks and Their Applications (Algo Trading)"
-description: "Explore the essential role of the Greeks in algorithmic trading and risk management within financial derivatives to enhance trading strategies and market stability."
+category: quant_concept
+description: Explore the essential role of the Greeks in algorithmic trading and risk
+  management within financial derivatives to enhance trading strategies and market
+  stability.
+title: Financial Greeks and Their Applications (Algo Trading)
 ---
 
 Financial derivatives are pivotal instruments in modern financial markets, playing a critical role in risk management. These are financial contracts whose value is derived from an underlying asset or group of assets, such as stocks, bonds, commodities, currencies, interest rates, and market indexes. Derivatives, which include options, futures, and swaps, allow market participants to hedge against risks such as price fluctuations, interest rate changes, and currency exchange rate variations. As tools for transferring risk, derivatives enable investors to mitigate potential losses associated with the underlying assets, thus enhancing market stability and efficiency.

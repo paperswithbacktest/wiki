@@ -1,6 +1,12 @@
 ---
-title: "Trading Floor (Algo Trading)"
-description: "Discover the world of algorithmic trading where technology revolutionizes financial markets by optimizing speed and accuracy in trade executions Explore how algo trading transforms traditional methods enhances strategy precision and reshapes global stock exchanges Navigate key concepts and advantages of algorithmic trading to thrive in today's competitive market environment where understanding these technological advancements is crucial for success"
+category: trading_strategy
+description: Discover the world of algorithmic trading where technology revolutionizes
+  financial markets by optimizing speed and accuracy in trade executions Explore how
+  algo trading transforms traditional methods enhances strategy precision and reshapes
+  global stock exchanges Navigate key concepts and advantages of algorithmic trading
+  to thrive in today's competitive market environment where understanding these technological
+  advancements is crucial for success
+title: Trading Floor (Algo Trading)
 ---
 
 The world of financial markets is constantly evolving due to rapid advancements in technology. This evolution has led trading to become more sophisticated and efficient than ever before. One of the most significant developments in recent years is algorithmic trading, a process that uses computer algorithms to automate trading strategies. Algorithmic trading significantly reduces human intervention, thereby increasing the speed and accuracy of executing trades. 

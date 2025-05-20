@@ -1,6 +1,9 @@
 ---
-title: "Deferred Payment Option (Algo Trading)"
-description: "Enhance your investment strategy with deferred payment options and algorithmic trading. Combine financial flexibility with cutting-edge technology for optimized returns."
+category: quant_concept
+description: Enhance your investment strategy with deferred payment options and algorithmic
+  trading. Combine financial flexibility with cutting-edge technology for optimized
+  returns.
+title: Deferred Payment Option (Algo Trading)
 ---
 
 The financial landscape is in a constant state of flux, shaped by new technologies and innovative strategies that offer novel opportunities for investors and traders. Among these developments, deferred payment options and algorithmic trading have emerged as particularly intriguing areas. Each offers distinct advantages, and when combined, they hold the potential to significantly enhance investment strategies.

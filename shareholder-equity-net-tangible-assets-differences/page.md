@@ -1,6 +1,8 @@
 ---
-title: "Shareholder Equity and Net Tangible Assets: Differences (Algo Trading)"
-description: "Explore the differences between net tangible assets and shareholder equity and their significance in financial evaluations plus their role in algorithmic trading."
+category: quant_concept
+description: Explore the differences between net tangible assets and shareholder equity
+  and their significance in financial evaluations plus their role in algorithmic trading.
+title: 'Shareholder Equity and Net Tangible Assets: Differences (Algo Trading)'
 ---
 
 In the world of finance, evaluating a company's real value involves more than just examining its stock price or revenue figures. Investors and analysts often seek a deeper understanding of a company's financial health by looking at its net tangible assets (NTA). NTA focuses on a company's physical, measurable assets, offering a clearer picture of its intrinsic worth. By deducting intangible assets and liabilities from the total assets, NTA provides an estimate of the monetary value of a company's physical presence.

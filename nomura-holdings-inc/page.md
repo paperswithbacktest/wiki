@@ -1,6 +1,8 @@
 ---
-title: "Nomura Holdings, Inc. (Algo Trading)"
-description: "Nomura Holdings leads Japan's securities industry, leveraging cutting-edge algorithmic trading to enhance efficiency and adaptability in global financial markets."
+category: quant_concept
+description: Nomura Holdings leads Japan's securities industry, leveraging cutting-edge
+  algorithmic trading to enhance efficiency and adaptability in global financial markets.
+title: Nomura Holdings, Inc. (Algo Trading)
 ---
 
 Nomura Group, a prominent entity in financial services, holds the distinction of being the largest securities firm in Japan and is recognized globally as a leading investment banking institution. The firm's strategic embrace of technology has positioned it at the forefront of algorithmic trading, significantly impacting the landscape of Japanese financial services. With a profound history marked by innovation and adaptability, Nomura has advanced its algorithmic trading prowess, offering enhanced efficiencies and opportunities for its diverse clientele.

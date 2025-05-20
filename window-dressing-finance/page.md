@@ -1,6 +1,8 @@
 ---
-title: "Window Dressing in Finance (Algo Trading)"
-description: "Explore the concept of window dressing in finance its impact on portfolio management and the role of algorithmic trading in modern investment strategies."
+category: quant_concept
+description: Explore the concept of window dressing in finance its impact on portfolio
+  management and the role of algorithmic trading in modern investment strategies.
+title: Window Dressing in Finance (Algo Trading)
 ---
 
 In the ever-evolving world of finance and investment, strategies to optimize returns and manage portfolios are crucial. Investors and portfolio managers continuously seek methods to enhance performance and align with their financial objectives. One noteworthy concept prevalent in this domain is window dressing, a practice often employed by portfolio managers. This involves adjusting the composition of a portfolio, typically near the end of a reporting period, to make it appear more attractive to shareholders or potential investors. 

@@ -1,6 +1,9 @@
 ---
-title: "SEC Form N-Q Overview (Algo Trading)"
-description: "Explore the evolution of SEC Form N-Q and its replacement by Form N-PORT, highlighting changes in reporting frequency and data transparency for investment companies."
+category: dataset
+description: Explore the evolution of SEC Form N-Q and its replacement by Form N-PORT,
+  highlighting changes in reporting frequency and data transparency for investment
+  companies.
+title: SEC Form N-Q Overview (Algo Trading)
 ---
 
 SEC Form N-Q served as a pivotal financial disclosure document, primarily for registered investment companies in the United States, until its phase-out in recent years. Established by the Securities and Exchange Commission (SEC), Form N-Q required investment companies to report their complete portfolio holdings for the first and third quarters of each fiscal year. This complemented the semi-annual and annual reports covered by Form N-CSR and aimed to enhance transparency in the investment sector by making crucial financial data available on a more frequent basis.

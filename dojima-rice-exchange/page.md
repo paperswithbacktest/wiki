@@ -1,6 +1,9 @@
 ---
-title: "Dojima Rice Exchange (Algo Trading)"
-description: "Explore the Dojima Rice Exchange's pivotal role in history as the first organized futures exchange, transforming Japan's economy with innovative trading systems."
+category: quant_concept
+description: Explore the Dojima Rice Exchange's pivotal role in history as the first
+  organized futures exchange, transforming Japan's economy with innovative trading
+  systems.
+title: Dojima Rice Exchange (Algo Trading)
 ---
 
 The Dojima Rice Exchange, established in 1697 in Osaka, Japan, represents a significant landmark in the history of commodities trading as the first organized futures exchange. Prior to its inception, rice, a fundamental staple in Japanese society, was primarily traded in localized and informal settings. The formation of this exchange introduced a systematic approach to trading, thereby transforming the economic landscape of the time. By centralizing transactions, the Dojima Rice Exchange bestowed predictability and structure to the volatile rice market, allowing participants to engage in futures contracts. These contracts were instrumental in stabilizing prices by enabling traders to lock in purchase or sale prices for future dates, shielding them from market fluctuations.

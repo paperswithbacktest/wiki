@@ -1,6 +1,8 @@
 ---
-title: "Overview of Exodus Wallet (Algo Trading)"
-description: "Discover the Exodus Wallet and learn its features, benefits, and integration with algorithmic trading to enhance your cryptocurrency storage and trading strategies."
+category: quant_concept
+description: Discover the Exodus Wallet and learn its features, benefits, and integration
+  with algorithmic trading to enhance your cryptocurrency storage and trading strategies.
+title: Overview of Exodus Wallet (Algo Trading)
 ---
 
 Digital currency storage constitutes a fundamental pillar in the expansive ecosystem of cryptocurrencies. These digital currencies require secure and efficient storage solutions because they lack the physical form attached to traditional money systems. Their storage is primarily handled through cryptocurrency wallets, which play an instrumental role in facilitating various aspects of crypto trading.

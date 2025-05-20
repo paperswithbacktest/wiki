@@ -1,6 +1,8 @@
 ---
-title: "Comparison of Day Trading and Swing Trading (Algo Trading)"
-description: "Explore the differences between day trading and swing trading in algorithmic trading Learn which strategy suits your investment goals and risk tolerance"
+category: trading_strategy
+description: Explore the differences between day trading and swing trading in algorithmic
+  trading Learn which strategy suits your investment goals and risk tolerance
+title: Comparison of Day Trading and Swing Trading (Algo Trading)
 ---
 
 In the world of financial markets, traders employ various strategies to align with their specific investment objectives and risk appetites. Among the most popular of these strategies are swing trading, day trading, and algorithmic trading. Each of these methodologies offers distinct approaches, tools, and skill requirements, catering to the diverse needs and expertise levels of traders.

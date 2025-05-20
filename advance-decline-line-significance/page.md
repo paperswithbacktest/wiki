@@ -1,6 +1,8 @@
 ---
-title: "Advance/Decline Line and Its Significance (Algo Trading)"
-description: "Discover the significance of the Advance/Decline Line in algorithmic trading and how it aids in assessing market breadth and sentiment."
+category: trading_strategy
+description: Discover the significance of the Advance/Decline Line in algorithmic
+  trading and how it aids in assessing market breadth and sentiment.
+title: Advance/Decline Line and Its Significance (Algo Trading)
 ---
 
 The stock market is a complex and ever-changing landscape that demands the use of various analytical tools and indicators to assist traders and analysts in making informed decisions. One significant tool in this context is the Advance/Decline (A/D) Line, a technical indicator prized for its ability to assess market breadth and sentiment. The A/D Line captures the relationship between advancing and declining stocks, providing insights into the overall participation of stocks in market trends.

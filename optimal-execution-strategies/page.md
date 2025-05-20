@@ -1,6 +1,9 @@
 ---
-title: "Optimal Execution Strategies (Algo Trading)"
-description: "Explore optimal execution strategies in algorithmic trading to minimize market impact and costs. Learn about VWAP, TWAP, and the role of AI in enhancing trade efficiency."
+category: trading_strategy
+description: Explore optimal execution strategies in algorithmic trading to minimize
+  market impact and costs. Learn about VWAP, TWAP, and the role of AI in enhancing
+  trade efficiency.
+title: Optimal Execution Strategies (Algo Trading)
 ---
 
 Optimal execution strategies in algorithmic trading refer to a set of advanced techniques and methodologies designed to execute large orders while minimizing market impact and trading costs. These strategies are crucial for achieving the best possible execution price, enabling traders to optimize trade performance in dynamic financial markets.

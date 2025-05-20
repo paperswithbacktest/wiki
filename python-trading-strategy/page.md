@@ -1,6 +1,14 @@
 ---
-title: "Python Trading Strategy Explained (Algo Trading)"
-description: Explore the transformative impact of Python in algorithmic trading as it empowers investors to create efficient and robust trading strategies. Uncover how Python’s simplicity and powerful libraries like NumPy, Pandas, and Quandl make it an ideal choice for conducting complex data analyses, turning historical and real-time data into actionable insights. This guide dives deep into the role of Python in automating trades, improving decision-making, and enhancing profitability in today’s fast-paced financial markets, making it accessible to both novice and seasoned traders seeking enhanced trading capabilities.
+category: trading_strategy
+description: Explore the transformative impact of Python in algorithmic trading as
+  it empowers investors to create efficient and robust trading strategies. Uncover
+  how Python’s simplicity and powerful libraries like NumPy, Pandas, and Quandl make
+  it an ideal choice for conducting complex data analyses, turning historical and
+  real-time data into actionable insights. This guide dives deep into the role of
+  Python in automating trades, improving decision-making, and enhancing profitability
+  in today’s fast-paced financial markets, making it accessible to both novice and
+  seasoned traders seeking enhanced trading capabilities.
+title: Python Trading Strategy Explained (Algo Trading)
 ---
 
 In recent years, the financial industry has seen significant transformations driven by advancements in technology, leading to the rise of algorithmic trading as a favored strategy among investors. Algorithmic trading exploits the power of computers to execute trades based on a pre-defined set of instructions, allowing for swift and efficient transactions that human traders cannot replicate. One of the primary forces behind this technological shift is Python, a programming language renowned for its simplicity and extensive range of libraries. Python has become a preferred language for developing trading strategies due to its capability to process complex calculations and data manipulations with ease. 

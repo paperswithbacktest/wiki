@@ -1,6 +1,9 @@
 ---
-title: "SEC Regulations on Social Media Use (Algo Trading)"
-description: "Explore how the SEC regulates social media use for public companies focusing on compliance, transparency, and the impact of algorithmic trading in the digital age."
+category: quant_concept
+description: Explore how the SEC regulates social media use for public companies focusing
+  on compliance, transparency, and the impact of algorithmic trading in the digital
+  age.
+title: SEC Regulations on Social Media Use (Algo Trading)
 ---
 
 Social media platforms have transformed into indispensable tools for public companies, enabling the dynamic engagement with stakeholders. This new era of communication, however, brings with it a necessity for strict regulation to ensure adherence to securities laws. The U.S. Securities and Exchange Commission (SEC) is instrumental in supervising how companies utilize social media platforms to safeguard investor interests and sustain fair market practices.

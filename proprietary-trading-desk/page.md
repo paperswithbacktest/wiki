@@ -1,6 +1,12 @@
 ---
-title: "Inside a Proprietary Trading Desk (Algo Trading)"
-description: Discover the intricacies of proprietary trading desks in this comprehensive guide exploring their unique roles within financial institutions. Understand how these desks utilize advanced technology and strategic acumen to execute high-stakes trades using the firm's capital without client involvement. Delve into the benefits and challenges faced in this dynamic sector and explore potential career paths for aspiring traders in an environment that thrives on innovation and precision.
+category: trading_strategy
+description: Discover the intricacies of proprietary trading desks in this comprehensive
+  guide exploring their unique roles within financial institutions. Understand how
+  these desks utilize advanced technology and strategic acumen to execute high-stakes
+  trades using the firm's capital without client involvement. Delve into the benefits
+  and challenges faced in this dynamic sector and explore potential career paths for
+  aspiring traders in an environment that thrives on innovation and precision.
+title: Inside a Proprietary Trading Desk (Algo Trading)
 ---
 
 In the fast-paced world of trading, proprietary trading desks, known as prop desks, have established a distinct niche within financial institutions. These desks focus on utilizing a firm's own capital to trade in various financial markets, aiming to generate substantial profits without the involvement of client funds. This practice stands in contrast to traditional trading methods where traders act on behalf of clients.

@@ -1,6 +1,9 @@
 ---
-title: "E-Micro Forex Futures (Algo Trading)"
-description: "Explore E-Micro Forex Futures and algo trading to enter the forex market with lower capital and high-speed strategies. Boost precision and control trading risks."
+category: trading_strategy
+description: Explore E-Micro Forex Futures and algo trading to enter the forex market
+  with lower capital and high-speed strategies. Boost precision and control trading
+  risks.
+title: E-Micro Forex Futures (Algo Trading)
 ---
 
 Forex trading, also known as foreign exchange trading, is the exchange of one currency for another in a decentralized market that is highly liquid and operates 24/5 worldwide. With a daily trading volume exceeding $6 trillion, it is the largest financial market in the world. Emerging financial instruments such as E-Micro Forex Futures have created new avenues for retail traders, allowing access to forex markets with reduced capital requirements and enhanced control over investments.

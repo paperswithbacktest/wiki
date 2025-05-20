@@ -1,6 +1,9 @@
 ---
-title: "Economics of Philately (Algo Trading)"
-description: "Explore the economics of philately with insights into its history and value, and discover how algorithmic trading creates new investment opportunities in stamp collecting."
+category: quant_concept
+description: Explore the economics of philately with insights into its history and
+  value, and discover how algorithmic trading creates new investment opportunities
+  in stamp collecting.
+title: Economics of Philately (Algo Trading)
 ---
 
 Stamp collecting, or philately, captivates millions globally, functioning as both a cherished hobby and an intriguing economic venture. Throughout its history, philately has transitioned from a simple pastime to a sophisticated domain with profound economic implications. This article underscores the intersection between philately, economics, and modern algorithmic trading, examining how these fields converge and influence each other.

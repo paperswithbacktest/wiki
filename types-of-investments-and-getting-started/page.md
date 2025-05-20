@@ -1,6 +1,9 @@
 ---
-title: "Types of Investments and Getting Started (Algo Trading)"
-description: "Discover the basics of various investments and embrace the potential of algorithmic trading. Learn how to build a diversified portfolio and enhance financial literacy."
+category: trading_strategy
+description: Discover the basics of various investments and embrace the potential
+  of algorithmic trading. Learn how to build a diversified portfolio and enhance financial
+  literacy.
+title: Types of Investments and Getting Started (Algo Trading)
 ---
 
 In the fast-paced world of financial markets, investing can seem daunting for beginners. The complexities and vast array of options often make the initial steps overwhelming. However, understanding various investment types is crucial for creating a diversified portfolio, which can balance risk and reward to achieve personal financial goals. Diversification is a cornerstone of investing, reducing the volatility of returns by spreading investments across different asset types.

@@ -1,6 +1,8 @@
 ---
-title: "Economic Analysis of Low-Cost Airlines (Algo Trading)"
-description: "Explore the economic analysis of low-cost airlines and algorithmic trading strategies that optimize their financial operations and offer competitive pricing."
+category: quant_concept
+description: Explore the economic analysis of low-cost airlines and algorithmic trading
+  strategies that optimize their financial operations and offer competitive pricing.
+title: Economic Analysis of Low-Cost Airlines (Algo Trading)
 ---
 
 The aviation industry's competitive landscape has undergone a significant transformation with the rise of low-cost and budget airlines. Emerging as pivotal players, these carriers have democratized air travel by offering affordable options to a broader audience. The business models of low-cost airlines, characterized by cost efficiency and high aircraft utilization, have challenged traditional carriers and reshaped industry dynamics.

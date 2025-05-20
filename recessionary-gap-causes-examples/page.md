@@ -1,6 +1,12 @@
 ---
-title: "Recessionary Gap: Causes and Examples (Algo Trading)"
-description: "Explore the causes and examples of recessionary gaps and the role of algorithmic trading in analyzing these economic phenomena. Understand how economic downturns impact GDP and employment, leading to unused resources, and discover how modern trading technologies help investors navigate market volatility during these challenging times. Learn about potential policy interventions and the macroeconomic implications of recessionary gaps for a more informed approach to economic decision-making."
+category: quant_concept
+description: Explore the causes and examples of recessionary gaps and the role of
+  algorithmic trading in analyzing these economic phenomena. Understand how economic
+  downturns impact GDP and employment, leading to unused resources, and discover how
+  modern trading technologies help investors navigate market volatility during these
+  challenging times. Learn about potential policy interventions and the macroeconomic
+  implications of recessionary gaps for a more informed approach to economic decision-making.
+title: 'Recessionary Gap: Causes and Examples (Algo Trading)'
 ---
 
 Understanding the interconnectedness of macroeconomic phenomena is crucial, especially in times of economic uncertainty. Economic systems are complex and multifaceted, with various factors influencing growth, stability, and overall health. During periods of downturn, these factors become more pronounced, requiring deeper analysis and strategic adjustments.

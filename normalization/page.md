@@ -1,7 +1,8 @@
 ---
-title: Essential Data Normalization Techniques for Machine Learning
+category: dataset
 description: Data normalization in machine learning aligns feature scales to boost
   training efficiency with min-max and Z-score methods Discover more inside.
+title: Essential Data Normalization Techniques for Machine Learning
 ---
 
 ![Image](images/1.webp)

@@ -1,6 +1,8 @@
 ---
-title: "Comorian Franc: Overview and History (Algo Trading)"
-description: "Explore the evolution of the Comorian Franc and its economic significance in Comoros Learn about its history challenges and the impact of algorithmic trading"
+category: dataset
+description: Explore the evolution of the Comorian Franc and its economic significance
+  in Comoros Learn about its history challenges and the impact of algorithmic trading
+title: 'Comorian Franc: Overview and History (Algo Trading)'
 ---
 
 The Comoros, an archipelago located in the Indian Ocean, boasts a distinctive monetary history centered on its national currency, the Comorian Franc (KMF). This article seeks to provide an in-depth exploration of the evolution of the KMF, from its origins to its current status, while considering the potential influences of emerging financial technologies, such as algorithmic trading, on this currency. Despite being relatively lesser-known on the global stage, the Comorian Franc is pivotal to the local economy of Comoros, which faces unique challenges within international financial markets.

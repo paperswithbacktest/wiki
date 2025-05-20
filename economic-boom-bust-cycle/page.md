@@ -1,6 +1,9 @@
 ---
-title: "Economic Boom and Bust Cycle (Algo Trading)"
-description: "Explore the interplay between economic cycles and algorithmic trading uncovering how technology enhances the analysis of boom and bust phases within financial markets."
+category: quant_concept
+description: Explore the interplay between economic cycles and algorithmic trading
+  uncovering how technology enhances the analysis of boom and bust phases within financial
+  markets.
+title: Economic Boom and Bust Cycle (Algo Trading)
 ---
 
 The economic cycle is an essential concept in understanding the fluctuations in economic activity over time, characterized by periods of expansion and contraction commonly referred to as boom and bust phases. During expansion, the economy experiences growth in GDP, low unemployment rates, and increased consumer confidence, while the contraction phase often brings about economic slowdown, rising unemployment, and adjustments in inflation.

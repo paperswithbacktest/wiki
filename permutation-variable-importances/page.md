@@ -1,10 +1,9 @@
 ---
-title: Understanding Permutation Variable Importance in Machine Learning
+category: quant_concept
 description: Permutation Variable Importance shows which features drive your model
   by shuffling values and measuring prediction changes Discover more inside
+title: Understanding Permutation Variable Importance in Machine Learning
 ---
-
-
 
 ## Table of Contents
 

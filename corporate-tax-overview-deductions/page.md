@@ -1,6 +1,9 @@
 ---
-title: "Corporate Tax Overview and Deductions (Algo Trading)"
-description: "Discover effective corporate tax strategies and deductions tailored for businesses in algorithmic trading Boost profitability by aligning tax planning with trading innovations"
+category: quant_concept
+description: Discover effective corporate tax strategies and deductions tailored for
+  businesses in algorithmic trading Boost profitability by aligning tax planning with
+  trading innovations
+title: Corporate Tax Overview and Deductions (Algo Trading)
 ---
 
 Welcome to the comprehensive guide on corporate tax, business taxes, tax deductions, and algo trading. This article is designed to provide businesses with a thorough understanding of how to optimize their tax strategies in conjunction with the rapidly growing field of algorithmic trading. Corporate tax obligations and relevant deductions are pivotal to effective financial management, impacting overall profitability and strategic planning.

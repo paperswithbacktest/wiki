@@ -1,6 +1,8 @@
 ---
-title: "Financial Statement Analysis of a Bank (Algo Trading)"
-description: "Explore how financial statement analysis and algorithmic trading transform bank operations gaining insights into performance and strategic growth opportunities."
+category: quant_concept
+description: Explore how financial statement analysis and algorithmic trading transform
+  bank operations gaining insights into performance and strategic growth opportunities.
+title: Financial Statement Analysis of a Bank (Algo Trading)
 ---
 
 The financial industry is undergoing rapid transformations driven by continuous technological advancements. At the heart of these changes is the integration of finance with technology, which is reshaping how financial institutions operate and compete. One vital area of focus is financial statement analysis, a critical tool that aids stakeholders in understanding a bank's performance and evaluating its financial health. Through careful analysis of financial statements, which include the balance sheet, income statement, and cash flow statement, investors, analysts, and regulators can gain valuable insights into a bank's operational efficiency and risk exposure.

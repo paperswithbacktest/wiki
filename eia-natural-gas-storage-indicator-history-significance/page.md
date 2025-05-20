@@ -1,6 +1,9 @@
 ---
-title: "EIA Natural Gas Storage Indicator History and Significance (Algo Trading)"
-description: "Discover the significance of EIA's Natural Gas Storage Indicator in energy markets and its impact on algorithmic trading strategies. Gain insights into data-driven decisions."
+category: dataset
+description: Discover the significance of EIA's Natural Gas Storage Indicator in energy
+  markets and its impact on algorithmic trading strategies. Gain insights into data-driven
+  decisions.
+title: EIA Natural Gas Storage Indicator History and Significance (Algo Trading)
 ---
 
 In today's dynamic energy market, natural gas plays a pivotal role as a primary energy source, influencing both economic activities and environmental strategies. Its versatility lies in its extensive use for electricity generation, residential heating, and as an essential industrial feedstock. This widespread application underscores its importance and the resultant focus on its supply and pricing dynamics.

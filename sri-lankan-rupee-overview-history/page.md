@@ -1,6 +1,8 @@
 ---
-title: "Sri Lankan Rupee: Overview and Historical Context (Algo Trading)"
-description: "Explore the historical significance of the Sri Lankan Rupee and its impact on today's forex market with algorithmic trading insights and market dynamics."
+category: quant_concept
+description: Explore the historical significance of the Sri Lankan Rupee and its impact
+  on today's forex market with algorithmic trading insights and market dynamics.
+title: 'Sri Lankan Rupee: Overview and Historical Context (Algo Trading)'
 ---
 
 The Sri Lankan Rupee (LKR) is recognized as the official currency of the Democratic Socialist Republic of Sri Lanka, functioning as a crucial facet of the nation's economic framework. This article examines the historical trajectory of the LKR, its pivotal economic role, and its significance in the contemporary practice of algorithmic trading. The currency has undergone various transformations since its inception, and understanding these changes is vital for grasping its current market dynamics.

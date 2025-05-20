@@ -1,6 +1,9 @@
 ---
+category: quant_concept
+description: Discover the significance of Schedule 13D filings with the SEC in transparency
+  and algorithmic trading strategies enhancing market predictability and informed
+  decisions.
 title: "Schedule 13D: Filing Process and Requirements (Algo Trading)"
-description: "Discover the significance of Schedule 13D filings with the SEC in transparency and algorithmic trading strategies enhancing market predictability and informed decisions."
 ---
 
 Investment disclosures are vital components of modern financial markets, serving as tools for transparency and trust between investors and companies. Among these disclosures, Schedule 13D filings with the U.S. Securities and Exchange Commission (SEC) are particularly significant. These filings are required when an entity acquires more than 5% of a company's voting shares, offering insights into potential shifts in control and strategic intentions related to mergers, takeovers, or other pivotal corporate actions. The transparency provided by Schedule 13D not only reassures existing shareholders but also informs potential investors of any changes in the composition and influence within a company's shareholder base.

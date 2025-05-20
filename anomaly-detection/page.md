@@ -1,7 +1,8 @@
 ---
-title: Anomaly Detection In Machine Learning Methods And Applications
+category: quant_concept
 description: Anomaly detection in machine learning highlights unusual data patterns
   across industries with statistical and ML models Discover more inside.
+title: Anomaly Detection In Machine Learning Methods And Applications
 ---
 
 ![Image](images/1.png)

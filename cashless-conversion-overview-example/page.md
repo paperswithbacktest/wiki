@@ -1,6 +1,8 @@
 ---
-title: "Cashless Conversion: Overview and Example (Algo Trading)"
-description: "Explore how the cashless conversion is transforming the economy by enhancing convenience, boosting digital transactions, and reshaping financial markets globally."
+category: quant_concept
+description: Explore how the cashless conversion is transforming the economy by enhancing
+  convenience, boosting digital transactions, and reshaping financial markets globally.
+title: 'Cashless Conversion: Overview and Example (Algo Trading)'
 ---
 
 The ongoing digital transformation has led to a seismic shift toward digital payments, significantly reshaping the global economy and fostering the development of a cashless society. This profound change is primarily driven by the convenience and speed offered by digital payments, effectively reducing the reliance on physical money. The increasing prevalence of mobile wallets and digital banking solutions catalyzes this evolution, prompting traditional payment methods to adapt or become obsolete.

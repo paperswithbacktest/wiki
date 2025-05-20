@@ -1,6 +1,9 @@
 ---
-title: "Tertiary Sector Industries (Algo Trading)"
-description: "Discover the transformative role of the tertiary sector and algorithmic trading in today's economy Unlock insights on optimizing investments and driving growth"
+category: quant_concept
+description: Discover the transformative role of the tertiary sector and algorithmic
+  trading in today's economy Unlock insights on optimizing investments and driving
+  growth
+title: Tertiary Sector Industries (Algo Trading)
 ---
 
 The tertiary sector, also known as the service industry, is integral to the modern economic framework, profoundly influencing the structure and growth of global markets. Unlike the primary sector, which focuses on raw materials, and the secondary sector, dedicated to manufacturing, the tertiary sector is centered around providing services rather than physical goods. These services, ranging from healthcare and education to financial and retail, have become fundamental to not only individual consumption but also economic development.

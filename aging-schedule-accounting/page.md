@@ -1,6 +1,9 @@
 ---
-title: "Aging Schedule in Accounting (Algo Trading)"
-description: "Explore how accounts receivable aging schedules and algorithmic trading can be integrated to enhance financial analysis and optimize business cash flow management."
+category: quant_concept
+description: Explore how accounts receivable aging schedules and algorithmic trading
+  can be integrated to enhance financial analysis and optimize business cash flow
+  management.
+title: Aging Schedule in Accounting (Algo Trading)
 ---
 
 In the rapidly evolving landscape of modern finance, businesses are challenged to adopt a variety of strategies to effectively manage their financial operations. Financial analysis has become increasingly multifaceted, necessitating the use of traditional and innovative tools alike. Among the most significant of these are accounts receivable aging schedules and algorithmic trading, both of which play pivotal roles in optimizing financial outcomes.

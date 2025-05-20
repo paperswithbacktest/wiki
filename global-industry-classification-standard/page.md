@@ -1,6 +1,9 @@
 ---
-title: "Global Industry Classification Standard (Algo Trading)"
-description: "Explore the integration of the Global Industry Classification Standard in algorithmic trading and its impact on developing precise, sector-specific trading models."
+category: dataset
+description: Explore the integration of the Global Industry Classification Standard
+  in algorithmic trading and its impact on developing precise, sector-specific trading
+  models.
+title: Global Industry Classification Standard (Algo Trading)
 ---
 
 The financial landscape is rapidly evolving as technology becomes increasingly integrated into trading and investment practices. This evolution is marked by the widespread use of algorithmic trading, which has become a cornerstone of today's financial markets. Algorithmic trading involves the use of automated algorithms to execute trades based on pre-defined criteria, allowing for high-speed and efficient trading. A critical component of successful algorithmic trading is the use of robust data classification systems. One such system is the Global Industry Classification Standard (GICS), which offers a comprehensive framework for categorizing publicly-traded companies based on their primary business activities.

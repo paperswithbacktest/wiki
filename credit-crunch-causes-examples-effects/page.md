@@ -1,6 +1,9 @@
 ---
-title: "Credit Crunch: Causes, Examples, and Effects (Algo Trading)"
-description: "Explore the causes and effects of credit crunches in the global economy and their connection with algorithmic trading Discover how these phenomena impact market stability"
+category: quant_concept
+description: Explore the causes and effects of credit crunches in the global economy
+  and their connection with algorithmic trading Discover how these phenomena impact
+  market stability
+title: 'Credit Crunch: Causes, Examples, and Effects (Algo Trading)'
 ---
 
 The global economy is intricately woven with various financial mechanisms, and disruptions within these can have far-reaching effects. Such disruptions, particularly financial crises, often present a complex mix of challenges and changes that ripple through markets and societies. Financial crises encompass a broad spectrum of events, from banking collapses to currency devaluations, each leaving a distinct mark on economic structures. 

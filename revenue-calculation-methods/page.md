@@ -1,6 +1,8 @@
 ---
-title: "Revenue Calculation Methods (Algo Trading)"
-description: "Explore revenue calculation methods and how they intertwine with corporate earnings and algorithmic trading—key pillars of business financial strategies."
+category: quant_concept
+description: Explore revenue calculation methods and how they intertwine with corporate
+  earnings and algorithmic trading—key pillars of business financial strategies.
+title: Revenue Calculation Methods (Algo Trading)
 ---
 
 In the modern corporate landscape, understanding business finance and its intricate components is crucial for success. Business finance encompasses various aspects, including revenue calculation, corporate earnings, and the innovative application of algorithmic trading. These elements form the backbone of a company's financial health and strategic growth.

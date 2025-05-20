@@ -1,6 +1,11 @@
 ---
-title: "Cash Flow from Investing Activities: Types and Examples (Algo Trading)"
-description: "Explore the intricacies of cash flow from investing activities and the impact of algorithmic trading on modern finance. Understand how these elements shape investment decisions and strategies, and learn about cash management for sustainable growth and financial health. Discover examples of strategic investments and the automation revolutionizing trading decisions."
+category: quant_concept
+description: Explore the intricacies of cash flow from investing activities and the
+  impact of algorithmic trading on modern finance. Understand how these elements shape
+  investment decisions and strategies, and learn about cash management for sustainable
+  growth and financial health. Discover examples of strategic investments and the
+  automation revolutionizing trading decisions.
+title: 'Cash Flow from Investing Activities: Types and Examples (Algo Trading)'
 ---
 
 Investment activities and algorithmic trading are integral components of the modern financial ecosystem, significantly influencing how financial decisions are made and executed. Investment activities encompass the allocation of resources, including cash and other assets, toward opportunities that can generate returns over time. These activities range from purchasing company stocks and bonds to acquiring real estate or investing in technology. The ultimate goal is to enhance value and achieve financial growth. 

@@ -1,6 +1,8 @@
 ---
-title: "Breadth Indicator: Overview and Examples (Algo Trading)"
-description: "Explore the role of breadth indicators in algorithmic trading to understand market sentiment and dynamics. Learn how these tools can enhance trading strategies."
+category: trading_strategy
+description: Explore the role of breadth indicators in algorithmic trading to understand
+  market sentiment and dynamics. Learn how these tools can enhance trading strategies.
+title: 'Breadth Indicator: Overview and Examples (Algo Trading)'
 ---
 
 In the ever-evolving landscape of financial markets, gaining insights through diverse analytical approaches is crucial for traders and investors. Among these analytical tools, breadth indicators stand out for providing a comprehensive view of the market's health and direction. Unlike traditional indicators that focus on individual stocks or specific sectors, breadth indicators evaluate the overall participation in market movements, making them invaluable for assessing market sentiment and potential reversals.

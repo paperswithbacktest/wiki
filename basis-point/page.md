@@ -1,6 +1,15 @@
 ---
-title: "Basis Point (Algo Trading)"
-description: "Understanding key financial concepts such as interest rates and algorithmic trading is crucial for making informed investment decisions. Interest rates influence borrowing costs and investment returns, impacting economic conditions and asset valuations. Algorithmic trading uses computer programs to analyze data and execute trades, enhancing speed, efficiency, and decision-making in financial markets. By leveraging these elements, investors can better navigate market dynamics, allocate resources effectively, and optimize strategies. This page explores how these components influence financial markets and investment strategies, offering insights into managing risks and seizing opportunities."
+category: quant_concept
+description: Understanding key financial concepts such as interest rates and algorithmic
+  trading is crucial for making informed investment decisions. Interest rates influence
+  borrowing costs and investment returns, impacting economic conditions and asset
+  valuations. Algorithmic trading uses computer programs to analyze data and execute
+  trades, enhancing speed, efficiency, and decision-making in financial markets. By
+  leveraging these elements, investors can better navigate market dynamics, allocate
+  resources effectively, and optimize strategies. This page explores how these components
+  influence financial markets and investment strategies, offering insights into managing
+  risks and seizing opportunities.
+title: Basis Point (Algo Trading)
 ---
 
 Understanding financial terms like interest rates and algorithmic trading is crucial for making informed investment decisions. These components directly influence how individuals and institutions allocate resources and manage risk in financial markets.

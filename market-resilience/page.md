@@ -1,6 +1,9 @@
 ---
-title: "Market resilience (Algo Trading)"
-description: "Enhance your understanding of how algorithmic trading impacts market resilience with strategies to manage risks and regulatory frameworks that ensure market stability."
+category: quant_concept
+description: Enhance your understanding of how algorithmic trading impacts market
+  resilience with strategies to manage risks and regulatory frameworks that ensure
+  market stability.
+title: Market resilience (Algo Trading)
 ---
 
 In the ever-evolving world of financial markets, algorithmic trading has become a cornerstone for executing trades with speed and precision. As financial transactions grow in complexity and volume, the use of algorithms has transformed trading by automating the decision-making process and enabling rapid execution, which is crucial for capturing fleeting market opportunities. Algorithmic trading utilizes complex mathematical models and computational techniques to analyze market data, drive trade execution, and manage risk, thereby enhancing market efficiency and liquidity.

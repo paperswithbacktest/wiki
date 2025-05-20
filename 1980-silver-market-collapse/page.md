@@ -1,6 +1,8 @@
 ---
-title: "1980 Silver Market Collapse (Algo Trading)"
-description: "Explore the dramatic 1980 silver market collapse, known as Silver Thursday, driven by the Hunt brothers' strategic maneuvers and its lasting impact on trading."
+category: trading_strategy
+description: Explore the dramatic 1980 silver market collapse, known as Silver Thursday,
+  driven by the Hunt brothers' strategic maneuvers and its lasting impact on trading.
+title: 1980 Silver Market Collapse (Algo Trading)
 ---
 
 The 1980 silver market crash, commonly known as Silver Thursday, stands as one of the most influential events in the history of financial markets. This dramatic episode was characterized by a precipitous rise and subsequent collapse in silver prices, primarily driven by attempts at market manipulation. Central to this tumultuous period were the Hunt brothers, Nelson Bunker Hunt and William Herbert Hunt, who embarked on an endeavor to corner the silver market. Their actions pushed silver prices to astonishing levels before ultimately triggering a substantial economic downfall.

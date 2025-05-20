@@ -1,6 +1,9 @@
 ---
-title: "Triple Net Lease: Definition and Applications (Algo Trading)"
-description: "Explore the dynamics of Triple Net Leases and how they impact both landlords and tenants. Learn about innovative applications like algorithmic trading in real estate."
+category: quant_concept
+description: Explore the dynamics of Triple Net Leases and how they impact both landlords
+  and tenants. Learn about innovative applications like algorithmic trading in real
+  estate.
+title: 'Triple Net Lease: Definition and Applications (Algo Trading)'
 ---
 
 In the ever-evolving landscape of commercial real estate, the concept of Triple Net (NNN) Leases stands out as a significant agreement for both landlords and tenants. Triple Net Leases transfer the responsibility of property expenses—such as property taxes, insurance, and maintenance—from the landlord to the tenant. This particular setup provides landlords with the convenience of minimal management involvement and steady income, as the tenant effectively shoulders the cost of operating the property. Meanwhile, tenants gain control over these expenses and the opportunity to manage the property as needed, allowing them to align costs with their business requirements.

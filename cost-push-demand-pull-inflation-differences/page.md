@@ -1,6 +1,8 @@
 ---
-title: "Cost-Push and Demand-Pull Inflation: Differences Explained (Algo Trading)"
-description: "Explore how cost-push and demand-pull inflation influence financial markets and algorithmic trading strategies. Adapt and optimize your investments today"
+category: quant_concept
+description: Explore how cost-push and demand-pull inflation influence financial markets
+  and algorithmic trading strategies. Adapt and optimize your investments today
+title: 'Cost-Push and Demand-Pull Inflation: Differences Explained (Algo Trading)'
 ---
 
 Inflation is a critical economic indicator denoting the rate at which the general level of prices for goods and services rises, consequently eroding purchasing power. It is fundamental for economic planning and forecasting, impacting consumer behavior, business investment, and policy-making. Among its various forms, two primary types are cost-push and demand-pull inflation. Cost-push inflation arises when the costs of production inputs, such as labor and raw materials, increase, leading businesses to pass these costs onto consumers in the form of higher prices. Conversely, demand-pull inflation occurs when aggregate demand within an economy surpasses aggregate supply, causing prices to rise due to higher consumer spending, investment, or government expenditure.

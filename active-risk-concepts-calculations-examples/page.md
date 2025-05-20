@@ -1,6 +1,8 @@
 ---
-title: "Active Risk: Concepts, Calculations, and Examples (Algo Trading)"
-description: "Explore key concepts of active risk in algo trading including portfolio deviations from benchmarks security selection market timing and risk management."
+category: quant_concept
+description: Explore key concepts of active risk in algo trading including portfolio
+  deviations from benchmarks security selection market timing and risk management.
+title: 'Active Risk: Concepts, Calculations, and Examples (Algo Trading)'
 ---
 
 In modern finance, successful trading strategies are shaped by several critical components: risk management, active risk, investment performance, and algorithmic trading (algo trading). Risk management serves as a foundational principle, ensuring that potential losses are minimized through the identification, analysis, and mitigation of various risks. This discipline is particularly critical in algo trading, where trades are executed at high speeds and volumes, necessitating a structured approach to managing uncertainties.

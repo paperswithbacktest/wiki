@@ -1,6 +1,9 @@
 ---
-title: "Interledger Protocol: Functionality and Significance (Algo Trading)"
-description: "Explore the Interledger Protocol's role in blockchain interoperability and digital payments revolutionizing finance through seamless currency exchanges and algo trading."
+category: quant_concept
+description: Explore the Interledger Protocol's role in blockchain interoperability
+  and digital payments revolutionizing finance through seamless currency exchanges
+  and algo trading.
+title: 'Interledger Protocol: Functionality and Significance (Algo Trading)'
 ---
 
 In recent years, blockchain interoperability has gained significant attention, particularly in digital payments and financial technology. As the volume of digital transactions continues to grow, the demand for systems that facilitate seamless currency exchanges across different platforms has become imperative. The Interledger Protocol (ILP) emerges as a promising solution to this challenge by enabling interoperability between disparate blockchain systems. 

@@ -1,6 +1,8 @@
 ---
-title: "Economic Indicators and Interpretation (Algo Trading)"
-description: "Explore how economic indicators like GDP and unemployment rates integrate with algorithmic trading strategies to enhance trading decisions in financial markets."
+category: quant_concept
+description: Explore how economic indicators like GDP and unemployment rates integrate
+  with algorithmic trading strategies to enhance trading decisions in financial markets.
+title: Economic Indicators and Interpretation (Algo Trading)
 ---
 
 Economic indicators play a crucial role in financial markets by providing quantitative metrics that assess the current state and predict future trends of an economy. These indicators, such as Gross Domestic Product (GDP), unemployment rates, and inflation, are instrumental for investors and policymakers alike, offering valuable insights into economic performance and aiding in the decision-making process. By analyzing economic indicators, market participants can gauge the overall health of the economy, identify emerging opportunities, and mitigate potential risks.

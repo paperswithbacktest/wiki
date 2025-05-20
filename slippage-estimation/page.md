@@ -1,6 +1,9 @@
 ---
-title: "slippage estimation (Algo Trading)"
-description: "Understand the importance of estimating slippage in algorithmic trading as it affects profitability Discover factors like market liquidity and how to mitigate slippage"
+category: quant_concept
+description: Understand the importance of estimating slippage in algorithmic trading
+  as it affects profitability Discover factors like market liquidity and how to mitigate
+  slippage
+title: slippage estimation (Algo Trading)
 ---
 
 Slippage is a critical concept in algorithmic trading, defined as the divergence between the expected price of a trade and its actual execution price. This discrepancy can arise from a variety of factors, each of which has the potential to significantly affect the profitability and efficiency of automated trading systems. Properly understanding and estimating slippage is crucial for traders aiming to optimize their trading strategies and maximize returns.

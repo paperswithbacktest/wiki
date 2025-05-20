@@ -1,6 +1,8 @@
 ---
-title: "Neoliberalism: Overview, Examples, and Discussion (Algo Trading)"
-description: "Explore the interplay of neoliberalism and algorithmic trading in finance uncovering their combined impact on market efficiency and the associated risks."
+category: quant_concept
+description: Explore the interplay of neoliberalism and algorithmic trading in finance
+  uncovering their combined impact on market efficiency and the associated risks.
+title: 'Neoliberalism: Overview, Examples, and Discussion (Algo Trading)'
 ---
 
 In the ever-evolving landscape of global finance, economic policies are pivotal in shaping market dynamics. One of the most influential frameworks over recent decades has been neoliberalism, which promotes deregulation, privatization, and the primacy of free-market principles. Neoliberalism supports the idea that minimizing government intervention leads to more efficient markets and optimal resource allocations. This economic ideology has substantially impacted policy-making worldwide, influencing financial markets and investment strategies.

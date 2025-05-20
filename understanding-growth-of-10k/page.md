@@ -1,6 +1,8 @@
 ---
-title: "Understanding the Growth of 10K (Algo Trading)"
-description: "Explore the 'Growth of 10K' a key benchmark for evaluating investment performance that aids in optimizing strategies within algorithmic trading frameworks."
+category: quant_concept
+description: Explore the 'Growth of 10K' a key benchmark for evaluating investment
+  performance that aids in optimizing strategies within algorithmic trading frameworks.
+title: Understanding the Growth of 10K (Algo Trading)
 ---
 
 The increasing complexity of financial markets has led investors to seek innovative solutions for maximizing portfolio returns. Investors now operate in an environment characterized by rapid technological advancements, increased scrutiny from regulatory bodies, and an ever-expanding range of financial instruments. This complexity necessitates robust analytical tools and strategies to optimize investment outcomes. A prominent concept in financial analysis and algorithmic trading is the 'Growth of 10K', which serves as a key benchmark for measuring investment performance over time.

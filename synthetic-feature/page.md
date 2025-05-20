@@ -1,8 +1,9 @@
 ---
-title: Understanding Synthetic Features in Machine Learning Models
+category: quant_concept
 description: Synthetic features in machine learning improve model accuracy by capturing
   hidden data relationships through feature transformations and combinations Discover
   more inside
+title: Understanding Synthetic Features in Machine Learning Models
 ---
 
 ![Image](images/1.jpeg)

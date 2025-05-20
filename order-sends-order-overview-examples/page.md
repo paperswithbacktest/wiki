@@ -1,6 +1,8 @@
 ---
-title: "Order-Sends-Order: Overview and Examples (Algo Trading)"
-description: "Explore Order-Sends-Order trading in algorithmic strategies. Learn how these interdependent orders enhance execution efficiency and risk management."
+category: trading_strategy
+description: Explore Order-Sends-Order trading in algorithmic strategies. Learn how
+  these interdependent orders enhance execution efficiency and risk management.
+title: 'Order-Sends-Order: Overview and Examples (Algo Trading)'
 ---
 
 Algorithmic trading, the utilization of computers programmed to execute trades based on predetermined criteria, has become a cornerstone in modern financial markets. By automating the trading process, algorithmic trading aims to enhance the speed, accuracy, and efficiency of trade execution, thereby playing a pivotal role in the increased complexity and interconnectivity of today’s markets. Within this framework, OSO (Order-Sends-Order) trading emerges as a unique strategic approach. Unlike traditional single-order strategies, OSO involves a sequence of interdependent orders, where the execution of one order triggers subsequent orders, thus allowing more sophisticated trade logic and dynamic market interaction.

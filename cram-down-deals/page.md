@@ -1,6 +1,9 @@
 ---
-title: "Cram-Down Deals (Algo Trading)"
-description: "Discover key insights into debt restructuring and cram-down deals in bankruptcy, alongside the impact and challenges of algorithmic trading in today's financial markets."
+category: trading_strategy
+description: Discover key insights into debt restructuring and cram-down deals in
+  bankruptcy, alongside the impact and challenges of algorithmic trading in today's
+  financial markets.
+title: Cram-Down Deals (Algo Trading)
 ---
 
 Debt restructuring is a strategic process employed by corporations facing financial distress to alter the terms of their debt agreements to improve liquidity and avoid default. This can involve restructuring the principal amount, interest rates, or extending the loan maturities. The success of debt restructuring is crucial in corporate finance as it aids companies in maintaining operations, protecting shareholder value, and ensuring long-term viability. It serves as a mechanism for firms to align their financial obligations with their current economic conditions, thereby assisting in dodging the severe repercussions of bankruptcy.

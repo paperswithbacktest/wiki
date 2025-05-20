@@ -1,6 +1,8 @@
 ---
-title: "Tezos (XTZ): Overview and Functionality in Cryptocurrency (Algo Trading)"
-description: "Discover Tezos XTZ's innovative on-chain governance and eco-friendly PoS mechanism Learn how this blockchain stands out in crypto and algorithmic trading"
+category: quant_concept
+description: Discover Tezos XTZ's innovative on-chain governance and eco-friendly
+  PoS mechanism Learn how this blockchain stands out in crypto and algorithmic trading
+title: 'Tezos (XTZ): Overview and Functionality in Cryptocurrency (Algo Trading)'
 ---
 
 The world of cryptocurrency is characterized by rapid innovation and evolving technologies. Among the variety of blockchain platforms, Tezos (XTZ) has positioned itself as a notable contender due to its unique governance features. Unlike many other cryptocurrencies, Tezos facilitates a participatory framework where stakeholders actively engage in decision-making processes. This inherent capability has drawn considerable attention from both investors and developers, who are keen on participating in a self-upgrading blockchain ecosystem.

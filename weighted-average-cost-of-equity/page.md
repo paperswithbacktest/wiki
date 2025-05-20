@@ -1,6 +1,8 @@
 ---
-title: "Weighted Average Cost of Equity (Algo Trading)"
-description: "Explore the connection between Weighted Average Cost of Equity and algorithmic trading to enhance financial strategies and informed investment decisions."
+category: quant_concept
+description: Explore the connection between Weighted Average Cost of Equity and algorithmic
+  trading to enhance financial strategies and informed investment decisions.
+title: Weighted Average Cost of Equity (Algo Trading)
 ---
 
 In modern finance, understanding capital cost, equity finance, the Weighted Average Cost of Equity (WACE), and their connection to algorithmic trading is essential for making informed financial decisions. These elements play a pivotal role in shaping the financial strategies of companies and influencing investment decisions in highly dynamic markets.

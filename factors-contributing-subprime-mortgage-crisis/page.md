@@ -1,6 +1,8 @@
 ---
-title: "Factors Contributing to the Subprime Mortgage Crisis (Algo Trading)"
-description: "Explore the factors behind the subprime mortgage crisis focusing on how subprime mortgages and algorithmic trading contributed to financial instability."
+category: quant_concept
+description: Explore the factors behind the subprime mortgage crisis focusing on how
+  subprime mortgages and algorithmic trading contributed to financial instability.
+title: Factors Contributing to the Subprime Mortgage Crisis (Algo Trading)
 ---
 
 The financial crisis of 2007-2008 marked a significant disruption in the global financial landscape, primarily instigated by the collapse of the subprime mortgage housing bubble. This period is characterized by widespread financial instability, leading to the most severe global economic downturn since the Great Depression. At the heart of this crisis were subprime mortgages, which were extended to borrowers with poor credit histories, increasing their susceptibility to default. Financial institutions significantly contributed to the crisis by creating and heavily investing in mortgage-backed securities, products that promised high returns but also carried substantial risks. These securities were often based on subprime mortgages, leading to a cascading effect when defaults occurred.

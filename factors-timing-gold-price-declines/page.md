@@ -1,6 +1,8 @@
 ---
-title: "Factors and Timing of Gold Price Declines (Algo Trading)"
-description: "Explore factors influencing gold price declines such as economic indicators geopolitical events and the rise of algorithmic trading in shaping investment strategies."
+category: trading_strategy
+description: Explore factors influencing gold price declines such as economic indicators
+  geopolitical events and the rise of algorithmic trading in shaping investment strategies.
+title: Factors and Timing of Gold Price Declines (Algo Trading)
 ---
 
 Gold has long stood as a symbol of wealth and security, renowned for its intrinsic value and historical significance. This precious metal has captivated investors across generations, offering a reliable means to diversify portfolios and mitigate risks associated with economic volatility. As financial markets evolve, the dynamics surrounding gold investments become increasingly intricate, influenced by a range of factors that alter its market pricing.

@@ -1,6 +1,9 @@
 ---
-title: "Gross Merchandise Value: Formula, Advantages and Disadvantages, Example (Algo Trading)"
-description: "Explore how Gross Merchandise Value (GMV) serves as a vital metric in e-commerce and how algorithmic trading enhances GMV to optimize business strategies."
+category: quant_concept
+description: Explore how Gross Merchandise Value (GMV) serves as a vital metric in
+  e-commerce and how algorithmic trading enhances GMV to optimize business strategies.
+title: 'Gross Merchandise Value: Formula, Advantages and Disadvantages, Example (Algo
+  Trading)'
 ---
 
 The e-commerce industry has witnessed an unprecedented surge in growth over the past decade, revolutionizing the way businesses operate and consumers interact with the marketplace. This rapid expansion has necessitated the introduction of new performance metrics, most notably Gross Merchandise Value (GMV). GMV has emerged as a vital metric, offering a comprehensive measure of the total dollar value of all merchandise sold through a particular e-commerce platform within a specified timeframe. By capturing the cumulative value of sales, GMV provides key insights into the operational health and overall performance of an e-commerce business.

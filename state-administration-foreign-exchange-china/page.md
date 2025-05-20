@@ -1,6 +1,9 @@
 ---
-title: "State Administration of Foreign Exchange of China (Algo Trading)"
-description: "Explore China's financial growth via the State Administration of Foreign Exchange and algorithmic trading Learn about global impacts and regulatory insights here"
+category: quant_concept
+description: Explore China's financial growth via the State Administration of Foreign
+  Exchange and algorithmic trading Learn about global impacts and regulatory insights
+  here
+title: State Administration of Foreign Exchange of China (Algo Trading)
 ---
 
 The landscape of global finance is continuously evolving, and China is a pivotal player, largely through its State Administration of Foreign Exchange (SAFE). As the world becomes increasingly interconnected, China's influence on financial systems is profound, particularly in the foreign exchange markets where SAFE plays a central role. This institution is not only responsible for overseeing China's foreign exchange reserves but also for implementing extensive control mechanisms designed to maintain economic stability. 

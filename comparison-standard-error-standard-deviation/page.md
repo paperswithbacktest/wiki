@@ -1,6 +1,12 @@
 ---
-title: "Comparison of Standard Error and Standard Deviation (Algo Trading)"
-description: "Explore the essential role of standard error and standard deviation in algorithmic trading, key statistical tools for understanding and quantifying financial market risks. Learn how these measures enhance trading strategy effectiveness by gauging sample accuracy and assessing market volatility. This guide offers vital insights for traders of all experience levels, helping them optimize algorithms and develop robust strategies in complex financial environments."
+category: quant_concept
+description: Explore the essential role of standard error and standard deviation in
+  algorithmic trading, key statistical tools for understanding and quantifying financial
+  market risks. Learn how these measures enhance trading strategy effectiveness by
+  gauging sample accuracy and assessing market volatility. This guide offers vital
+  insights for traders of all experience levels, helping them optimize algorithms
+  and develop robust strategies in complex financial environments.
+title: Comparison of Standard Error and Standard Deviation (Algo Trading)
 ---
 
 Algorithmic trading has become an integral part of modern financial markets, enabling traders to execute orders with speed and precision by leveraging computational algorithms. At the heart of successful algorithmic trading lies a firm grasp of statistical concepts, most notably standard error and standard deviation. These statistical measures are essential tools that provide insights into market data, allowing traders to develop more effective and robust trading strategies.

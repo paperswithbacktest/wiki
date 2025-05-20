@@ -1,6 +1,8 @@
 ---
-title: "NEX: Overview, Functionality, Advantages, and Disadvantages (Algo Trading)"
-description: "Explore the NEX exchange's role within algo trading including its benefits for struggling companies lower costs and unique challenges in investor perception."
+category: trading_strategy
+description: Explore the NEX exchange's role within algo trading including its benefits
+  for struggling companies lower costs and unique challenges in investor perception.
+title: 'NEX: Overview, Functionality, Advantages, and Disadvantages (Algo Trading)'
 ---
 
 Algorithmic trading, often referred to as algo trading, has been at the forefront of transforming financial markets by offering unprecedented speed and accuracy in data-driven decision making. Harnessing the power of advanced algorithms and high-speed computing, this approach allows traders to execute orders that can capitalize on minute price discrepancies in a fraction of a second. Such capabilities have significantly enhanced the efficiency of financial markets and widened the accessibility for various types of investors.

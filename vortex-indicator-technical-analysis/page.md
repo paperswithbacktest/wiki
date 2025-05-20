@@ -1,6 +1,8 @@
 ---
-title: "Vortex Indicator in Technical Analysis (Algo Trading)"
-description: "Explore the versatile Vortex Indicator in algo trading to enhance stock market strategies by identifying trend reversals and confirming current trends."
+category: trading_strategy
+description: Explore the versatile Vortex Indicator in algo trading to enhance stock
+  market strategies by identifying trend reversals and confirming current trends.
+title: Vortex Indicator in Technical Analysis (Algo Trading)
 ---
 
 In the complex world of stock trading, investors and traders are continuously in pursuit of effective tools that can provide an edge over market trends. Enter the Vortex Indicator (VI), a relatively new entrant in the technical analysis toolkit, that has gained popularity for its ability to identify trend reversals and confirm existing trends. The Vortex Indicator was developed through the collaboration of Etienne Botes and Douglas Siepman in 2010, and has gained traction among traders who are seeking a competitive advantage in the financial markets.

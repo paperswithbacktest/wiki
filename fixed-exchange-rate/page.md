@@ -1,6 +1,12 @@
 ---
-title: "Fixed Exchange Rate (Algo Trading)"
-description: "Gain insights into fixed exchange rate systems where countries peg their currency to major global currencies to ensure stability. Learn about the role of algorithmic trading in navigating the complexities of these systems, and explore how technology enhances trading efficiency despite the constraints. Understand the importance of foreign reserves, monetary policy, and fiscal strategies in maintaining currency stability and supporting international trade amid the global economic landscape."
+category: quant_concept
+description: Gain insights into fixed exchange rate systems where countries peg their
+  currency to major global currencies to ensure stability. Learn about the role of
+  algorithmic trading in navigating the complexities of these systems, and explore
+  how technology enhances trading efficiency despite the constraints. Understand the
+  importance of foreign reserves, monetary policy, and fiscal strategies in maintaining
+  currency stability and supporting international trade amid the global economic landscape.
+title: Fixed Exchange Rate (Algo Trading)
 ---
 
 Understanding the dynamics of exchange rates is crucial for economic stability and investment strategies. The fixed exchange rate system is a specific type of exchange rate framework where a country's currency value is tied to another major currency or a basket of currencies. This system is pivotal within monetary policy, influencing how countries manage their economic health and engage in international trade. By maintaining a stable exchange rate, nations can minimize currency value fluctuations, potentially enhancing economic predictability and supporting global commerce. 

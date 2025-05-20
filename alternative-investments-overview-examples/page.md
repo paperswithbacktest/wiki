@@ -1,6 +1,8 @@
 ---
-title: "Alternative Investments: Overview and Examples (Algo Trading)"
-description: "Explore the world of alternative investments including algorithmic trading strategies to diversify portfolios with unique risks and potential returns."
+category: quant_concept
+description: Explore the world of alternative investments including algorithmic trading
+  strategies to diversify portfolios with unique risks and potential returns.
+title: 'Alternative Investments: Overview and Examples (Algo Trading)'
 ---
 
 Understanding the diverse spectrum of investment types is essential for constructing a robust and diversified portfolio. In the contemporary investment landscape, options span from traditional investments such as stocks and bonds to more sophisticated alternative assets and algorithmic trading strategies. Each of these investment types offers distinctive benefits and challenges, contributing uniquely to the financial ecosystem and providing varying degrees of risk and return potential.

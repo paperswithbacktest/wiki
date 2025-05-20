@@ -1,6 +1,8 @@
 ---
-title: "Overview of Major Mid-Cap Exchange-Traded Funds (Algo Trading)"
-description: "Explore the dynamic world of mid-cap ETFs and discover how algorithmic trading refines investment strategies enhancing portfolio diversification and growth."
+category: trading_strategy
+description: Explore the dynamic world of mid-cap ETFs and discover how algorithmic
+  trading refines investment strategies enhancing portfolio diversification and growth.
+title: Overview of Major Mid-Cap Exchange-Traded Funds (Algo Trading)
 ---
 
 Exchange-traded funds (ETFs) have fundamentally transformed the investment landscape by providing investors with an efficient means to achieve diversified exposure across various market segments. With their inherent ability to track indices and offer liquidity similar to stocks, ETFs have become a mainstay for both individual and institutional investors seeking to construct well-rounded portfolios. Among the diverse array of ETFs available, mid-cap ETFs hold a unique position. They specifically cater to investors aiming to capitalize on the potential of mid-sized companies, typically characterized by market capitalizations ranging from $2 billion to $10 billion. These companies often represent a sweet spot in the investment universe, offering the stability of established businesses, while still retaining the capacity for significant growth, akin to smaller firms poised on the threshold of expansion.

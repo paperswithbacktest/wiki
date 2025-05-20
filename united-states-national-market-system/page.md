@@ -1,6 +1,9 @@
 ---
-title: "United States National Market System (Algo Trading)"
-description: "Explore the relationship between securities regulation algorithmic trading and U.S. stock exchanges focusing on transparency fairness and efficiency in market practices."
+category: quant_concept
+description: Explore the relationship between securities regulation algorithmic trading
+  and U.S. stock exchanges focusing on transparency fairness and efficiency in market
+  practices.
+title: United States National Market System (Algo Trading)
 ---
 
 The landscape of financial markets is continually evolving, with U.S. stock exchanges at the forefront of global trading. As one of the largest and most liquid markets worldwide, U.S. stock exchanges play a crucial role in setting trends and standards for trading practices and innovations. In such a dynamic environment, securities regulation becomes crucial to ensure the market's integrity and protect investors from fraud and market manipulation. This regulation provides a framework that strives for transparency, fairness, and efficiency, which is essential for fostering investor trust and maintaining market stability.
@@ -1741,4 +1744,3 @@ HousenProtract',
 [5]: Aldridge, I. (2013). ["High-Frequency Trading: A Practical Guide to Algorithmic Strategies and Trading Systems."](https://onlinelibrary.wiley.com/doi/pdf/10.1002/9781119203803.fmatter) Wiley Finance.
 
 [6]: Kirby, D., & Keatley, J. (2020). ["The Mechanics of High-Frequency Trading."](https://onlinelibrary.wiley.com/doi/abs/10.1111/bjd.18707) Journal of Financial and Quantitative Analysis.
-

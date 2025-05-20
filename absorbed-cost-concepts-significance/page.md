@@ -1,6 +1,8 @@
 ---
-title: "Absorbed Cost: Concepts and Significance (Algo Trading)"
-description: "Explore absorbed cost and its impact on financial statements and algorithmic trading strategies in finance Learn about its role in cost accounting and analysis"
+category: quant_concept
+description: Explore absorbed cost and its impact on financial statements and algorithmic
+  trading strategies in finance Learn about its role in cost accounting and analysis
+title: 'Absorbed Cost: Concepts and Significance (Algo Trading)'
 ---
 
 In the intersection of finance and technology, the ability to understand and apply the principles of financial analysis, cost accounting, and algorithmic trading is essential. These areas, once distinct, are now increasingly interwoven, with each playing a critical role in shaping financial strategies and outcomes. Financial analysis provides insights into the financial health and performance of an organization, offering metrics and evaluations that guide investment and operational decisions. Cost accounting, on the other hand, meticulously tracks, records, and analyzes all costs associated with a company's production processes. One pivotal concept within cost accounting is the absorbed cost, which encompasses both variable and fixed overheads in determining the overall cost of a product.
@@ -193,4 +195,3 @@ The use of absorbed cost analysis within financial systems not only aids in refi
 9. **Reinstein, D. & Sadun, R. (2020). "The Contribution of Management to Allocation and Productivity."** This Harvard Business School paper explores how effective cost management strategies can enhance trading system performance, relevant to absorbed cost's application in algorithmic contexts. [Link](https://www.hbs.edu)
 
 These resources offer a comprehensive understanding of the intricate interplay between cost accounting, financial analysis, and algorithmic trading, equipping professionals and academics alike with the theoretical and practical knowledge needed in today's financial landscape.
-

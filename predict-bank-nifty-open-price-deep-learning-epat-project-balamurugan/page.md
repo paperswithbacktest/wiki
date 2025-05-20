@@ -1,6 +1,10 @@
 ---
-title: "Predicting Bank Nifty Open Price with Deep Learning (EPAT Project) (Algo Trading)"
-description: Predict Bank Nifty open prices with deep learning using advanced algorithms and strategies. Gain insights into economic indicators and market sentiment. Enhance trading decisions with technical and fundamental analyses for improved forecast accuracy in a dynamic banking sector market.
+category: trading_strategy
+description: Predict Bank Nifty open prices with deep learning using advanced algorithms
+  and strategies. Gain insights into economic indicators and market sentiment. Enhance
+  trading decisions with technical and fundamental analyses for improved forecast
+  accuracy in a dynamic banking sector market.
+title: Predicting Bank Nifty Open Price with Deep Learning (EPAT Project) (Algo Trading)
 ---
 
 Understanding and predicting the movement of the Bank Nifty index is crucial for traders, especially those involved in options and futures trading. As a prominent index representing the performance of leading banking stocks on the National Stock Exchange (NSE) of India, Bank Nifty provides insights into the financial health and sentiment of the banking sector. This makes it an attractive candidate for traders aiming for strategic gains through astute market analysis.

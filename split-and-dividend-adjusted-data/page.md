@@ -1,6 +1,12 @@
 ---
-title: "Split and dividend-adjusted data (Algo Trading)"
-description: Explore the importance of split and dividend-adjusted data in algorithmic trading. Understand how corporate actions like stock splits and dividends impact stock prices and why adjusting historical data is essential for effective backtesting and strategy development. Learn how these adjustments provide a realistic view of stock performance over time, ensuring strategies are reliable and reflective of true market dynamics.
+category: dataset
+description: Explore the importance of split and dividend-adjusted data in algorithmic
+  trading. Understand how corporate actions like stock splits and dividends impact
+  stock prices and why adjusting historical data is essential for effective backtesting
+  and strategy development. Learn how these adjustments provide a realistic view of
+  stock performance over time, ensuring strategies are reliable and reflective of
+  true market dynamics.
+title: Split and dividend-adjusted data (Algo Trading)
 ---
 
 Algorithmic trading, a method of executing trades based on pre-defined criteria, hinges on the effective use of historical data. This data forms the backbone of strategy development and backtesting, ensuring that past patterns and trends can inform future trading decisions. At the heart of this process is understanding how corporate actions, such as stock splits and dividend payments, influence stock prices.

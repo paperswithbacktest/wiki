@@ -1,6 +1,8 @@
 ---
-title: "Dividend Growth Impact (Algo Trading)"
-description: "Explore the synergy of dividend growth, investment calculations, and algorithmic trading to optimize returns and build a resilient investment strategy."
+category: trading_strategy
+description: Explore the synergy of dividend growth, investment calculations, and
+  algorithmic trading to optimize returns and build a resilient investment strategy.
+title: Dividend Growth Impact (Algo Trading)
 ---
 
 In the ever-evolving landscape of financial markets, investors are perpetually in search of strategies that can optimize their returns. The interplay of dividend growth, investment strategies, and algorithmic trading represents a multifaceted approach that addresses both the aspirations and challenges of modern investing. This article examines the integration of these elements into a cohesive investment framework, which can be instrumental in constructing a portfolio resilient to market volatility.

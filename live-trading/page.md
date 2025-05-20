@@ -1,6 +1,12 @@
 ---
-title: "Live Trading Basics (Algo Trading)"
-description: Discover the essentials of live trading in algorithmic trading, focusing on real-time trade execution and the strategic framework it necessitates. Explore various strategies like day trading and scalping, understand crucial software tools, and gain insights into managing real market conditions. Learn how to transition from paper trading to live trading, and equip yourself with the knowledge needed for informed decision-making in this dynamic field.
+category: trading_strategy
+description: Discover the essentials of live trading in algorithmic trading, focusing
+  on real-time trade execution and the strategic framework it necessitates. Explore
+  various strategies like day trading and scalping, understand crucial software tools,
+  and gain insights into managing real market conditions. Learn how to transition
+  from paper trading to live trading, and equip yourself with the knowledge needed
+  for informed decision-making in this dynamic field.
+title: Live Trading Basics (Algo Trading)
 ---
 
 Live trading in algorithmic trading is a crucial element of today's financial markets, demonstrating the evolution of trading from manual to automated systems. This article sets out to provide a comprehensive understanding of live trading and its role within the broader context of algorithmic trading. Live trading refers to the practice of executing trades in real-time based on current market data and conditions. Unlike paper trading, which involves simulated trades without actual financial stakes, live trading exposes traders to real financial risks, necessitating a sound strategy and careful market analysis.

@@ -1,6 +1,9 @@
 ---
-title: "Keystone XL Pipeline Overview (Algo Trading)"
-description: "Discover the complexities of the Keystone XL Pipeline and its impact on energy security environmental policy and the evolving role of algorithmic trading in energy markets."
+category: quant_concept
+description: Discover the complexities of the Keystone XL Pipeline and its impact
+  on energy security environmental policy and the evolving role of algorithmic trading
+  in energy markets.
+title: Keystone XL Pipeline Overview (Algo Trading)
 ---
 
 The Keystone XL Pipeline has been a critical focal point in discussions surrounding energy infrastructure and environmental policy. It stands at the intersection of economic interests and ecological preservation, highlighting the challenges of balancing these often opposing priorities. Initially proposed by TransCanada Corp, now known as TC Energy, the project was designed to enhance crude oil transport from Alberta, Canada, to refineries in the United States. This initiative aimed to address energy security by potentially decreasing reliance on oil imports from more geopolitically unstable regions.
@@ -129,4 +132,4 @@ Overall, the Keystone XL Pipeline underscores a critical need for balance in ene
 
 [5]: ["Trade-Offs Between Greenhouse Gas Reductions and Economic Impacts: The Case of a Carbon Tax"](https://iac.gatech.edu/news/item/602187/new-research-highlights-trade-emissions-reductions-economic-growth) by Lawrence Goulder and Marc A.C. Hafstead
 
-[6]: ["Environmental and Economic Effects of Pipeline and Rail Transportation of Crude Oil"](https://scholars.org/contribution/comparing-accident-and-environmental-costs-shipping-crude-oil-railroad-versus) by James L. Medlock III et al. 
+[6]: ["Environmental and Economic Effects of Pipeline and Rail Transportation of Crude Oil"](https://scholars.org/contribution/comparing-accident-and-environmental-costs-shipping-crude-oil-railroad-versus) by James L. Medlock III et al.

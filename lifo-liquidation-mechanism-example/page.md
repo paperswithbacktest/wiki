@@ -1,6 +1,9 @@
 ---
-title: "LIFO Liquidation: Mechanism and Example (Algo Trading)"
-description: "Explore the impacts of LIFO liquidation in inventory accounting, its role in algorithmic trading, and its influence on financial reporting and taxable income."
+category: quant_concept
+description: Explore the impacts of LIFO liquidation in inventory accounting, its
+  role in algorithmic trading, and its influence on financial reporting and taxable
+  income.
+title: 'LIFO Liquidation: Mechanism and Example (Algo Trading)'
 ---
 
 Financial reporting and inventory accounting are fundamental to understanding a company's financial health and operational efficiency. Various inventory accounting methods impact how businesses report their financial status, make strategic decisions, and comply with tax obligations. One such method is Last-In, First-Out (LIFO) liquidation, which has significant implications, especially regarding taxation and financial reporting during periods of inflation. LIFO liquidation involves the sale of older inventory when a company's sales surpass its purchases. This method affects how profits and costs are reported, and thus it can substantially influence a company's taxable income.

@@ -1,9 +1,12 @@
 ---
-title: "Market resiliency modeling (Algo Trading)"
-description: "Explore how market resiliency modeling in algorithmic trading ensures stability and efficiency in financial markets by mitigating risks and adapting to volatility."
+category: quant_concept
+description: Explore how market resiliency modeling in algorithmic trading ensures
+  stability and efficiency in financial markets by mitigating risks and adapting to
+  volatility.
+title: Market resiliency modeling (Algo Trading)
 ---
 
- to Market Resiliency Modeling in Algo Trading
+to Market Resiliency Modeling in Algo Trading
 
 Algorithmic trading has reshaped the financial landscape by enabling the execution of trades with remarkable speed and efficiency. Through the deployment of sophisticated algorithms, traders and institutions can automatically conduct transactions based on pre-defined criteria, drastically reducing human error and optimizing market strategies. However, the proficiency with which these trades are executed necessitates a robust understanding and assurance of market resiliency—a concept pivotal to maintaining stability and investor confidence in an increasingly automated environment.
 

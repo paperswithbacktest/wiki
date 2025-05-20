@@ -1,6 +1,8 @@
 ---
-title: "Execution-Only Services: Overview and Functionality (Algo Trading)"
-description: "Execution-only services give investors independent control over trades without advisory input reducing costs and offering flexibility for strategic decisions."
+category: quant_concept
+description: Execution-only services give investors independent control over trades
+  without advisory input reducing costs and offering flexibility for strategic decisions.
+title: 'Execution-Only Services: Overview and Functionality (Algo Trading)'
 ---
 
 The world of investment trading has undergone significant transformation over the past few decades, driven by rapid technological advancement and evolving market dynamics. Trading platforms have emerged as indispensable tools for investors, facilitating access to numerous financial markets and instruments with unprecedented ease and efficiency. These platforms have evolved from basic order execution interfaces to sophisticated systems offering comprehensive analytical tools, real-time data, and portfolio management capabilities.

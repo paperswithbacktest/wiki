@@ -1,6 +1,8 @@
 ---
-title: "Auroracoin: Overview and History (Algo Trading)"
-description: "Explore the unique journey of Auroracoin developed from Iceland's financial crisis to its role in algorithmic trading offering a decentralized currency solution."
+category: quant_concept
+description: Explore the unique journey of Auroracoin developed from Iceland's financial
+  crisis to its role in algorithmic trading offering a decentralized currency solution.
+title: 'Auroracoin: Overview and History (Algo Trading)'
 ---
 
 Auroracoin is a distinctive cryptocurrency, birthed from the economic challenges that beset Iceland's financial system following the 2008 financial crisis. As a digital currency, it presents an alternative to conventional banking methods, enabling secure and anonymous transactions without the need for traditional financial intermediaries. This decentralized nature is a core feature of Auroracoin, designed to empower users by removing reliance on centralized financial institutions, which had come under scrutiny during Iceland's economic turmoil.

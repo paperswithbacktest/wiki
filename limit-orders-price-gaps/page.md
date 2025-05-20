@@ -1,6 +1,8 @@
 ---
-title: "Limit Orders and Price Gaps (Algo Trading)"
-description: "Explore how limit orders, price gaps, and algorithmic trading shape efficient trading strategies, manage risks, and enhance market execution speed."
+category: quant_concept
+description: Explore how limit orders, price gaps, and algorithmic trading shape efficient
+  trading strategies, manage risks, and enhance market execution speed.
+title: Limit Orders and Price Gaps (Algo Trading)
 ---
 
 In the world of financial trading, several sophisticated strategies and concepts ensure market efficiency and profitability. Among these are limit orders, price gaps, and algorithmic (algo) trading, which have revolutionized how trades are executed. Each of these elements plays a crucial role in the dynamic landscape of financial markets, enhancing the precision and speed with which trades are performed, while also mitigating risks associated with market volatility.

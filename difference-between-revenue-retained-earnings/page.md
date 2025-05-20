@@ -1,6 +1,8 @@
 ---
-title: "Difference Between Revenue and Retained Earnings (Algo Trading)"
-description: "Explore the key differences between revenue and retained earnings crucial for algorithmic trading strategies and financial accounting in the modern market."
+category: quant_concept
+description: Explore the key differences between revenue and retained earnings crucial
+  for algorithmic trading strategies and financial accounting in the modern market.
+title: Difference Between Revenue and Retained Earnings (Algo Trading)
 ---
 
 In today's rapidly evolving financial landscape, understanding the intersection of accounting principles and trading technologies has become increasingly vital. At the core of this intersection are concepts like revenue and retained earnings, critical components of financial accounting that hold significant implications for both traditional investors and algorithmic traders. Revenue, defined as the total income generated from business operations before expenses, serves as an indicator of a company's sales performance and market demand. Retained earnings, on the other hand, represent the portion of net income that remains within the business after dividends have been distributed to shareholders. This metric highlights how much capital a company is reinvesting into its growth and operational sustainability.
@@ -200,4 +202,3 @@ In conclusion, the intersection of financial accounting and algorithmic trading 
    - "Integration of Financial Accounting Data into Algorithmic Trading Models" from the Journal of Trading, which discusses the challenges and benefits of utilizing financial accounting data in trading algorithms.
 
 These resources provide a solid foundation for understanding the intricate relationships between revenue, retained earnings, and algorithmic trading, offering insights into both theoretical concepts and practical applications.
-

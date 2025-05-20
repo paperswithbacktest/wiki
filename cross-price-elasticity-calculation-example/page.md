@@ -1,6 +1,8 @@
 ---
-title: "Cross Price Elasticity: Calculation and Example (Algo Trading)"
-description: "Discover how cross price elasticity and elasticity of demand shape algo trading strategies enabling traders to anticipate market trends and optimize portfolios."
+category: quant_concept
+description: Discover how cross price elasticity and elasticity of demand shape algo
+  trading strategies enabling traders to anticipate market trends and optimize portfolios.
+title: 'Cross Price Elasticity: Calculation and Example (Algo Trading)'
 ---
 
 Understanding various economic formulas is essential in the fields of economics and trading, as they are integral to making informed decisions. Among these, cross price elasticity and elasticity of demand stand out as fundamental concepts that significantly impact market analysis. Cross price elasticity measures the responsiveness of the quantity demanded for one good when the price of another good changes, offering insights into whether two goods function as substitutes or complements. Elasticity of demand, on the other hand, assesses how the quantity demanded of a product reacts to changes in its price, thus informing pricing strategies and revenue forecasts.

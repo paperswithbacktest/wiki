@@ -1,6 +1,13 @@
 ---
-title: "Short Call in Options Trading (Algo Trading)"
-description: "Explore the world of options trading with a focus on short call strategies within algorithmic trading. Learn how selling a call option works, the associated risks and rewards, and how to integrate these strategies into automated systems for efficient execution. This guide offers insights for both novice and seasoned traders looking to enhance their trading toolkit and navigate modern financial markets confidently. Discover the benefits of algorithmic solutions in managing short call strategies and making informed trading decisions."
+category: trading_strategy
+description: Explore the world of options trading with a focus on short call strategies
+  within algorithmic trading. Learn how selling a call option works, the associated
+  risks and rewards, and how to integrate these strategies into automated systems
+  for efficient execution. This guide offers insights for both novice and seasoned
+  traders looking to enhance their trading toolkit and navigate modern financial markets
+  confidently. Discover the benefits of algorithmic solutions in managing short call
+  strategies and making informed trading decisions.
+title: Short Call in Options Trading (Algo Trading)
 ---
 
 Financial derivatives, particularly options, play a vital role in today's financial markets. They provide traders and investors with essential tools for hedging against potential losses, speculating on market movements, and generating income through premium collection. Options, through their intrinsic versatility and various strategic applications, have become indispensable in managing modern portfolios and navigating complex market dynamics.

@@ -1,6 +1,8 @@
 ---
-title: "Order Flow Analysis (Algo Trading)"
-description: "Discover the essentials of order flow analysis in algorithmic trading to understand market dynamics and optimize your trading strategies for better results."
+category: quant_concept
+description: Discover the essentials of order flow analysis in algorithmic trading
+  to understand market dynamics and optimize your trading strategies for better results.
+title: Order Flow Analysis (Algo Trading)
 ---
 
 Order flow analysis is a critical element of algorithmic trading, focusing on the examination of buy and sell orders within financial markets. This analysis enables traders to gain a deeper understanding of market dynamics, thereby facilitating informed trading decisions. By evaluating the flow and volume of orders, traders can discern the intentions of market participants and anticipate price movements influenced by the principles of supply and demand. This approach aids in deciphering the underlying patterns and trends that drive market behavior.

@@ -1,6 +1,8 @@
 ---
-title: "Stock Support Levels and Trading Strategies (Algo Trading)"
-description: "Gain insights into stock trading by exploring technical analysis and support levels Learn effective algo trading strategies to enhance your market approach"
+category: trading_strategy
+description: Gain insights into stock trading by exploring technical analysis and
+  support levels Learn effective algo trading strategies to enhance your market approach
+title: Stock Support Levels and Trading Strategies (Algo Trading)
 ---
 
 Technical analysis plays a pivotal role in stock trading by focusing on statistical trends gathered from trading activity, such as price movement and volume. Unlike fundamental analysis, which seeks to understand a company's intrinsic value by examining related economic factors, technical analysis seeks to evaluate securities by analyzing historical price charts and other market indicators. Recognizing patterns, such as support and resistance levels, helps traders make informed decisions about when to enter or exit a trade.

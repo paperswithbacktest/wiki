@@ -1,6 +1,14 @@
 ---
-title: "QuantLib (Algo Trading)"
-description: Discover the transformative power of algorithmic trading with QuantLib, a leading open-source C++ library for financial instrument valuation. This page discusses how QuantLib enhances trading strategies by providing advanced quantitative analysis tools, supporting multiple asset classes, and offering robust models for options, bonds, and derivatives pricing. Ideal for traders and analysts, QuantLib's flexibility, wide-ranging functionality, and seamless integration with languages like Python and R make it a crucial asset for mastering today's complex financial markets.
+category: quant_concept
+description: Discover the transformative power of algorithmic trading with QuantLib,
+  a leading open-source C++ library for financial instrument valuation. This page
+  discusses how QuantLib enhances trading strategies by providing advanced quantitative
+  analysis tools, supporting multiple asset classes, and offering robust models for
+  options, bonds, and derivatives pricing. Ideal for traders and analysts, QuantLib's
+  flexibility, wide-ranging functionality, and seamless integration with languages
+  like Python and R make it a crucial asset for mastering today's complex financial
+  markets.
+title: QuantLib (Algo Trading)
 ---
 
 Algorithmic trading has transformed financial markets by using cutting-edge technology and complex mathematical models for executing trades with unprecedented speed and accuracy. This technological leap has enabled traders to capitalize on market inefficiencies, optimize trading strategies, and manage risks more effectively. Central to this evolution is the adoption of quantitative analysis tools, which allow traders to develop and test strategies based on large datasets.

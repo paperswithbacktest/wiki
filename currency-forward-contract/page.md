@@ -1,6 +1,15 @@
 ---
-title: "Currency Forward Contract (Algo Trading)"
-description: "Explore the dynamic world of forex with our detailed analysis of currency forward contracts and algorithmic trading. Discover how currency forwards serve as essential tools for risk management in the international currency market by allowing entities to lock in future exchange rates, mitigating the impact of currency fluctuations on financial transactions. Dive into the innovative realm of algorithmic trading, where automated processes enhance speed and accuracy in forex trading, reducing human error and seizing market opportunities. Uncover the synergy between these instruments and their role in optimizing trading strategies and managing financial risk effectively."
+category: quant_concept
+description: Explore the dynamic world of forex with our detailed analysis of currency
+  forward contracts and algorithmic trading. Discover how currency forwards serve
+  as essential tools for risk management in the international currency market by allowing
+  entities to lock in future exchange rates, mitigating the impact of currency fluctuations
+  on financial transactions. Dive into the innovative realm of algorithmic trading,
+  where automated processes enhance speed and accuracy in forex trading, reducing
+  human error and seizing market opportunities. Uncover the synergy between these
+  instruments and their role in optimizing trading strategies and managing financial
+  risk effectively.
+title: Currency Forward Contract (Algo Trading)
 ---
 
 The foreign exchange (forex) market is a dynamic environment for trading international currencies, facilitating approximately $6.6 trillion in daily transactions (BIS, 2019). This global marketplace enables participants to exchange national currencies, capitalize on varying currency values, and manage financial risks. A key instrument in forex trading is the currency forward, a customizable derivative product that allows participating parties to lock in an exchange rate for a future date. Unlike standardized futures contracts, currency forwards are negotiated over-the-counter (OTC) and tailored to meet the specific requirements of the involved parties, providing flexibility in terms of amount, settlement date, and currency pair.

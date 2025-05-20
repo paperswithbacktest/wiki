@@ -1,6 +1,8 @@
 ---
-title: "Beggar-Thy-Neighbor Policy in Forex Market History (Algo Trading)"
-description: "Explore the impacts of beggar-thy-neighbor policies in Forex markets and the role of algorithmic trading. Delve into historical insights and global implications."
+category: quant_concept
+description: Explore the impacts of beggar-thy-neighbor policies in Forex markets
+  and the role of algorithmic trading. Delve into historical insights and global implications.
+title: Beggar-Thy-Neighbor Policy in Forex Market History (Algo Trading)
 ---
 
 In the globalized economy, interconnected markets make the economic policies of one country capable of creating profound effects on others. A particularly relevant example of this is found in 'beggar-thy-neighbor' policies, which have gained prominence as countries adapt to economic challenges. These strategies involve measures whereby a country aims to enhance its own economic position by negatively affecting the economic conditions of other countries. This is especially prominent in the context of foreign exchange (Forex) markets.

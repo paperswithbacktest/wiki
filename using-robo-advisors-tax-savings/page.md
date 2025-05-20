@@ -1,6 +1,8 @@
 ---
-title: "Using Robo-Advisors for Tax Savings (Algo Trading)"
-description: "Discover the potential of robo-advisors in tax savings with algo trading strategies Learn how automation enhances investment efficiency and after-tax returns"
+category: trading_strategy
+description: Discover the potential of robo-advisors in tax savings with algo trading
+  strategies Learn how automation enhances investment efficiency and after-tax returns
+title: Using Robo-Advisors for Tax Savings (Algo Trading)
 ---
 
 The world of investing has undergone significant transformation with the advent of digital platforms designed to streamline and enhance portfolio management. At the forefront of this transformation are investment robo-advisors, which have become increasingly popular among both novice and experienced investors. These platforms provide low-cost, automated investment solutions that appeal to a wide range of users seeking efficiency and optimization in managing their investments.

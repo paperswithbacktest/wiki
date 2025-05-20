@@ -1,6 +1,8 @@
 ---
-title: "Production Rate and Calculation Formula (Algo Trading)"
-description: "Discover how manufacturing efficiency principles boost algorithmic trading performance. Learn key metrics to enhance productivity and optimize operations."
+category: quant_concept
+description: Discover how manufacturing efficiency principles boost algorithmic trading
+  performance. Learn key metrics to enhance productivity and optimize operations.
+title: Production Rate and Calculation Formula (Algo Trading)
 ---
 
 In today’s dynamic industrial and financial landscape, efficiency has become a crucial determinant of success. This article examines the intersecting domains of manufacturing efficiency and algorithmic trading, highlighting how principles from the former are applied to the latter to enhance operational performance within financial markets.
@@ -148,4 +150,3 @@ In conclusion, by applying universal principles of efficiency drawn from diverse
 - Fabozzi, F. J., & Markowitz, H. M. (2002). *The Theory and Practice of Investment Management*. This work discusses foundational concepts in investment management, including strategies to optimize portfolio performance and manage risks effectively.
 
 - Sutton, R. (2013). *Learning Patterns: The Blending of Process and Insight in Algorithmic Trading Development*. This publication examines the development of algorithmic trading systems, focusing on combining technical processes with innovative insights to enhance market efficiency and trading effectiveness.
-

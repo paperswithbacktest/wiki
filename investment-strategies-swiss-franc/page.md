@@ -1,6 +1,8 @@
 ---
-title: "Investment Strategies for the Swiss Franc (Algo Trading)"
-description: "Explore investment strategies focusing on the Swiss Franc using algorithmic trading to unlock potential opportunities in currency trading while managing risks."
+category: trading_strategy
+description: Explore investment strategies focusing on the Swiss Franc using algorithmic
+  trading to unlock potential opportunities in currency trading while managing risks.
+title: Investment Strategies for the Swiss Franc (Algo Trading)
 ---
 
 Currency trading offers numerous opportunities for investors seeking to diversify and enhance their portfolios. Among the prominent currencies available in the forex market, the Swiss Franc (CHF) stands out due to its stability and safe-haven status. The CHF is highly regarded by both traders and investors, primarily because of Switzerland's political neutrality and robust economic system. This reputation makes the Swiss Franc a preferred currency during periods of global economic uncertainty, often serving as a refuge for investors.

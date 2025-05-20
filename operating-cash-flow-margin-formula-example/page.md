@@ -1,6 +1,8 @@
 ---
-title: "Operating Cash Flow Margin: Formula and Example (Algo Trading)"
-description: "Explore the integration of operating cash flow and cash flow margin metrics in algorithmic trading to optimize strategies and assess financial stability."
+category: quant_concept
+description: Explore the integration of operating cash flow and cash flow margin metrics
+  in algorithmic trading to optimize strategies and assess financial stability.
+title: 'Operating Cash Flow Margin: Formula and Example (Algo Trading)'
 ---
 
 This article examines the intersection of operating cash flow financial metrics, cash flow margin, and algorithmic trading. Operating cash flow (OCF) is a crucial financial metric that measures the cash generated from a company's core operational activities. It provides insights into a company's ability to maintain liquidity and support growth through its primary business operations. The cash flow margin, on the other hand, is the ratio of operating cash flow to total sales, indicating the efficiency of a company in converting sales into actual cash generated.

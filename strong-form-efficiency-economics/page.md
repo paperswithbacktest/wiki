@@ -1,6 +1,8 @@
 ---
-title: "Strong Form Efficiency in Economics (Algo Trading)"
-description: "Explore the role of strong form efficiency in economic theory and algorithmic trading revealing how asset prices absorb all information impacting investment decisions."
+category: quant_concept
+description: Explore the role of strong form efficiency in economic theory and algorithmic
+  trading revealing how asset prices absorb all information impacting investment decisions.
+title: Strong Form Efficiency in Economics (Algo Trading)
 ---
 
 This article explores the intersection of economic theory, market efficiency, strong form efficiency, and algorithmic trading. At the heart of this investigation is the concept of market efficiency, a cornerstone of economic theory that suggests financial markets are effective in reflecting all available information in asset prices. Market efficiency implies that these prices adjust rapidly to new information, rendering it challenging for investors to consistently outperform the market without assuming additional risk. 

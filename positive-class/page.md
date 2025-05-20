@@ -1,10 +1,9 @@
 ---
-title: Understanding the Positive Class in Machine Learning Models
+category: quant_concept
 description: Positive class in machine learning helps define target outcomes and optimize
   models using precision recall and F1 score. Discover more inside.
+title: Understanding the Positive Class in Machine Learning Models
 ---
-
-
 
 ## Table of Contents
 

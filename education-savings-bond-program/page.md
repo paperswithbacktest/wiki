@@ -1,6 +1,9 @@
 ---
-title: "Education Savings Bond Program (Algo Trading)"
-description: "Explore the benefits and workings of the Education Savings Bond Program to efficiently save for higher education using tax-free interest from government-backed bonds."
+category: quant_concept
+description: Explore the benefits and workings of the Education Savings Bond Program
+  to efficiently save for higher education using tax-free interest from government-backed
+  bonds.
+title: Education Savings Bond Program (Algo Trading)
 ---
 
 Understanding the need for efficient education saving plans is crucial for families planning for the rising costs of higher education. The Education Savings Bond Program offers a viable solution for many looking to secure funds for future educational expenses. This article explores how savings bonds can be effectively utilized for educational purposes and highlights the workings, benefits, and potential drawbacks of this program.

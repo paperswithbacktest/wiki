@@ -1,6 +1,8 @@
 ---
-title: "World Federation of Exchanges Overview (Algo Trading)"
-description: "Explore the role of the World Federation of Exchanges in algorithmic trading the impact of AI and the evolution of global stock markets on economic growth."
+category: quant_concept
+description: Explore the role of the World Federation of Exchanges in algorithmic
+  trading the impact of AI and the evolution of global stock markets on economic growth.
+title: World Federation of Exchanges Overview (Algo Trading)
 ---
 
 In today's interconnected world, understanding the complexities of global financial markets is crucial. These markets form a vast network that includes various instruments and platforms, where assets are traded across borders, influencing economies worldwide. Among the essential components of this intricate system are global stock exchanges, which facilitate trade and investment, thus playing a crucial role in economic development.

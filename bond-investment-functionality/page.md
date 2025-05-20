@@ -1,6 +1,8 @@
 ---
-title: "Bond Investment and Functionality (Algo Trading)"
-description: "Explore the intersection of traditional bonds and innovative algorithmic trading to maximize investment returns while balancing stability and technology."
+category: quant_concept
+description: Explore the intersection of traditional bonds and innovative algorithmic
+  trading to maximize investment returns while balancing stability and technology.
+title: Bond Investment and Functionality (Algo Trading)
 ---
 
 In finance, various instruments cater to different investor needs and goals. Within this spectrum, bonds stand as one of the most enduring forms of investment, continuing to attract a significant number of investors due to their perceived stability and predictable income streams. Bonds essentially represent loans made by an investor to a borrower, typically governmental or corporate entities, offering a fixed income over a predetermined period. This fixed-income attribute makes bonds particularly appealing to risk-averse investors seeking consistent returns.

@@ -1,6 +1,14 @@
 ---
-title: "Comparison of Alpha and Beta (Algo Trading)"
-description: "Explore the critical differences between alpha and beta in algorithmic trading to enhance your investment strategies. This page provides an insightful comparison of these key metrics, vital for assessing performance and risk in complex financial markets. Alpha focuses on the excess return over a benchmark, highlighting the added value of active management. In contrast, beta measures an asset's market sensitivity, essential for gauging systematic risk and volatility. Understand how to leverage alpha and beta for optimizing trading strategies, managing risk, and improving financial outcomes."
+category: quant_concept
+description: Explore the critical differences between alpha and beta in algorithmic
+  trading to enhance your investment strategies. This page provides an insightful
+  comparison of these key metrics, vital for assessing performance and risk in complex
+  financial markets. Alpha focuses on the excess return over a benchmark, highlighting
+  the added value of active management. In contrast, beta measures an asset's market
+  sensitivity, essential for gauging systematic risk and volatility. Understand how
+  to leverage alpha and beta for optimizing trading strategies, managing risk, and
+  improving financial outcomes.
+title: Comparison of Alpha and Beta (Algo Trading)
 ---
 
 Algorithmic trading refers to the use of computer algorithms to automate trading strategies in financial markets. This method leverages computational power and advanced mathematical models to execute trades at speeds and frequencies that are impossible for human traders. The impact of algorithmic trading on financial markets is profound, significantly increasing market liquidity, reducing transaction costs, and improving the efficiency of price discovery. By enabling rapid execution of trades, algorithmic trading can also help mitigate the risk of human error and bias, making it a preferred tool for many institutional investors and hedge funds.

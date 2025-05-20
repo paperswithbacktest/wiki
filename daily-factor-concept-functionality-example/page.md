@@ -1,6 +1,8 @@
 ---
-title: "Daily Factor: Concept, Functionality, and Example (Algo Trading)"
-description: "Explore the synergy between daily factors and algorithmic trading to optimize yield management and trading outcomes in the modern financial landscape."
+category: quant_concept
+description: Explore the synergy between daily factors and algorithmic trading to
+  optimize yield management and trading outcomes in the modern financial landscape.
+title: 'Daily Factor: Concept, Functionality, and Example (Algo Trading)'
 ---
 
 The financial industry is experiencing continual transformation with the increased adoption of algorithmic trading. This methodology uses computer programs to automate and optimize the process of executing trades, cementing its place as a pivotal element in modern financial markets. An important component within this domain is the concept of daily factors, which serve as a metric to represent the annual yield of an investment on a daily basis. As investors seek more precise and granular insights into their yields, understanding daily factors becomes increasingly crucial.

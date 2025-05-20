@@ -1,6 +1,8 @@
 ---
-title: "Above Full Employment Equilibrium (Algo Trading)"
-description: "Explore the complex interplay between full employment and economic equilibrium, examining how algorithmic trading influences labor markets and macroeconomic stability."
+category: quant_concept
+description: Explore the complex interplay between full employment and economic equilibrium,
+  examining how algorithmic trading influences labor markets and macroeconomic stability.
+title: Above Full Employment Equilibrium (Algo Trading)
 ---
 
 The economic equilibrium within labor markets is a fundamental concept essential for understanding macroeconomic stability. It represents the balance between job supply and demand, which directly influences various macroeconomic aspects such as salaries, job availability, and economic growth. Achieving economic equilibrium can ensure that resources in the labor market are neither underutilized nor overstrained, thereby promoting sustainable economic development.

@@ -1,6 +1,8 @@
 ---
-title: "Implicit Bias and Its Impact on Investment Decisions (Algo Trading)"
-description: "Explore how implicit bias affects investment decisions and learn strategies to minimize its impact with insights into algorithmic trading and investment psychology."
+category: quant_concept
+description: Explore how implicit bias affects investment decisions and learn strategies
+  to minimize its impact with insights into algorithmic trading and investment psychology.
+title: Implicit Bias and Its Impact on Investment Decisions (Algo Trading)
 ---
 
 Informed investment decisions are pivotal for attaining financial objectives and ensuring the sustainability of financial markets. An informed decision is one where investors assess and analyze pertinent data and insights, minimizing errors driven by misinformation or emotional impulses. The significance extends to individual investors safeguarding their portfolios and to financial institutions aiming to optimize returns while managing risks effectively.

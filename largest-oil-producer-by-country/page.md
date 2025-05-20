@@ -1,6 +1,8 @@
 ---
-title: "Largest Oil Producer by Country (Algo Trading)"
-description: "Explore leading oil-producing nations and the growing role of algorithmic trading in the global market. Understand oil's impact on economies and energy policies."
+category: dataset
+description: Explore leading oil-producing nations and the growing role of algorithmic
+  trading in the global market. Understand oil's impact on economies and energy policies.
+title: Largest Oil Producer by Country (Algo Trading)
 ---
 
 The global oil market is a multifaceted and ever-changing landscape shaped by an interplay of geopolitical, technological, and economic factors. Oil production plays a critical role in shaping a country's economic vitality and geopolitical standing. As one of the most traded commodities, oil influences energy policies, international relations, and economic strategies on a global scale.

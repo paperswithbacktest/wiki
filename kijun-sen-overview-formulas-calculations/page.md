@@ -1,6 +1,8 @@
 ---
-title: "Kijun-Sen: Overview, Formulas, and Calculations (Algo Trading)"
-description: "Explore the Kijun-Sen's role in algorithmic trading as part of the Ichimoku Kinko Hyo indicator for analyzing market trends and improving trading strategies."
+category: quant_concept
+description: Explore the Kijun-Sen's role in algorithmic trading as part of the Ichimoku
+  Kinko Hyo indicator for analyzing market trends and improving trading strategies.
+title: 'Kijun-Sen: Overview, Formulas, and Calculations (Algo Trading)'
 ---
 
 Algorithmic trading has significantly altered the landscape of financial markets by enabling traders to execute strategies that leverage precise, data-driven insights at remarkable speeds. Such technological advancements allow for more informed decision-making, aligning closely with the ever-changing dynamics of market behavior. One of the standout tools used in this sophisticated trading environment is the Ichimoku Kinko Hyo indicator, which has gained popularity due to its holistic approach to market analysis.

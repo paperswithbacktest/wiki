@@ -1,6 +1,9 @@
 ---
-title: "Gaussian processes in trading (Algo Trading)"
-description: "Gaussian processes revolutionize algorithmic trading by enhancing prediction accuracy and quantifying uncertainties, offering traders a competitive advantage in volatile markets."
+category: quant_concept
+description: Gaussian processes revolutionize algorithmic trading by enhancing prediction
+  accuracy and quantifying uncertainties, offering traders a competitive advantage
+  in volatile markets.
+title: Gaussian processes in trading (Algo Trading)
 ---
 
 In algorithmic trading, mathematical models play a vital role in enabling traders to make informed decisions by systematically analyzing market data. Gaussian processes, a non-parametric and probabilistic modeling approach, have gained prominence as a powerful tool in this domain. They are particularly effective for modeling complex financial data, providing an ability to quantify uncertainties and improve prediction accuracy.

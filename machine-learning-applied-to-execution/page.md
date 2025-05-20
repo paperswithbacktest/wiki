@@ -1,6 +1,8 @@
 ---
-title: "machine learning applied to execution (Algo Trading)"
-description: "Explore how machine learning revolutionizes algorithmic trading by enhancing execution strategies and optimizing market participation for maximized returns."
+category: trading_strategy
+description: Explore how machine learning revolutionizes algorithmic trading by enhancing
+  execution strategies and optimizing market participation for maximized returns.
+title: machine learning applied to execution (Algo Trading)
 ---
 
 In the evolving landscape of financial trading, algorithmic trading—commonly referred to as algo trading—has gained prominence as a significant trend. This method of trading leverages automated algorithms to execute trades quickly and accurately, thereby optimizing market participation and maximizing potential returns. The integration of machine learning (ML) into this domain is an influential development that has enhanced the efficacy and sophistication of algorithmic trading strategies. 

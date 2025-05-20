@@ -1,6 +1,9 @@
 ---
-title: "United States Unemployment Rate Trends by Year (Algo Trading)"
-description: "Explore the trends of U.S. unemployment rates over the years and their impact on job markets alongside the role of algorithmic trading in shaping employment dynamics."
+category: dataset
+description: Explore the trends of U.S. unemployment rates over the years and their
+  impact on job markets alongside the role of algorithmic trading in shaping employment
+  dynamics.
+title: United States Unemployment Rate Trends by Year (Algo Trading)
 ---
 
 The employment landscape in the United States holds paramount significance in economic analysis and policymaking, serving as a reflection of the country's fiscal health and societal well-being. Understanding historical unemployment trends is crucial as they not only track economic cycles but also inform decisions regarding fiscal, monetary, and labor policies. These trends offer insights into how different economic phases, from booms to recessions, impact job availability and security.

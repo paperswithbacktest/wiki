@@ -1,6 +1,8 @@
 ---
-title: "Tier 1 Common Capital Ratio (Algo Trading)"
-description: "Explore the synergy between Tier 1 Common Capital Ratios and algorithmic trading in banking. Understand key regulatory impacts and financial resilience dynamics."
+category: quant_concept
+description: Explore the synergy between Tier 1 Common Capital Ratios and algorithmic
+  trading in banking. Understand key regulatory impacts and financial resilience dynamics.
+title: Tier 1 Common Capital Ratio (Algo Trading)
 ---
 
 Tier 1 Capital forms the cornerstone of banking regulations designed to ensure financial stability and resilience. It represents a bank's core equity, consisting predominantly of common equity tier 1 (CET1) capital, which includes common shares, stock surplus, retained earnings, and other comprehensive income items recognized under accounting standards. Crucially, Tier 1 Capital serves as a measure of a bank's financial strength from a regulator's viewpoint, offering a buffer against potential losses and helping to absorb shocks during economic downturns. 
@@ -176,4 +178,3 @@ For readers seeking further exploration of banking regulations and algorithmic t
 - The Financial Stability Board [resources](https://www.fsb.org/publications/) on global financial regulations and practices. 
 
 These references provide a solid foundation for understanding the complex dynamics between banking regulations, capital adequacy, and the technological advancements in algorithmic trading.
-

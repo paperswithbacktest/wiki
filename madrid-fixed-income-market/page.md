@@ -1,6 +1,8 @@
 ---
-title: "Madrid Fixed Income Market (Algo Trading)"
-description: "Explore the influence of algorithmic trading on Madrid's robust fixed-income market, highlighting technology's role in enhancing efficiency and liquidity."
+category: quant_concept
+description: Explore the influence of algorithmic trading on Madrid's robust fixed-income
+  market, highlighting technology's role in enhancing efficiency and liquidity.
+title: Madrid Fixed Income Market (Algo Trading)
 ---
 
 The bond market is an essential pillar of the global financial architecture, providing a platform for the issuance and trading of debt securities by governments, municipalities, and corporations. This market has undergone significant changes driven by technological advancements, particularly the integration of algorithmic trading. This evolution is evident in Madrid, a prominent European financial hub renowned for its active fixed-income market. 

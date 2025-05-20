@@ -1,6 +1,8 @@
 ---
-title: "Price-to-Earnings Ratios in Real Estate (Algo Trading)"
-description: "Explore the impact of price-to-earnings ratios in real estate investing Learn how P/E metrics and algorithmic trading optimize financial insights and strategies"
+category: quant_concept
+description: Explore the impact of price-to-earnings ratios in real estate investing
+  Learn how P/E metrics and algorithmic trading optimize financial insights and strategies
+title: Price-to-Earnings Ratios in Real Estate (Algo Trading)
 ---
 
 Understanding financial metrics is crucial for investors navigating the real estate market. The price-to-earnings (P/E) ratio, a cornerstone of financial analysis, serves as a key tool for evaluating relative value and future growth potential of companies, including those within real estate. This metric essentially compares a company’s current share price to its earnings per share (EPS), providing investors with a measure of how much they are paying for each dollar of earnings. It is calculated as follows:

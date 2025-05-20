@@ -1,6 +1,8 @@
 ---
-title: "Euro Notes and Denominations (Algo Trading)"
-description: "Discover how algorithmic trading reshapes Euro currency markets, enhancing liquidity, stability, and efficiency in Europe's dynamic financial landscape."
+category: quant_concept
+description: Discover how algorithmic trading reshapes Euro currency markets, enhancing
+  liquidity, stability, and efficiency in Europe's dynamic financial landscape.
+title: Euro Notes and Denominations (Algo Trading)
 ---
 
 In today's world, defined by rapid advancements in technology and financial innovation, the convergence of currency trading and algorithmic strategies has gained significant importance. This convergence is especially evident when examining the Euro—the official currency of 19 European Union member states—fundamentally altering the financial landscape both within Europe and globally. Euro denominations and notes, essential for daily transactions and major financial operations, underpin the stability and fluidity of the Eurozone economy. 

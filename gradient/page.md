@@ -1,7 +1,8 @@
 ---
-title: Gradient Descent and Optimization Techniques in Machine Learning
+category: quant_concept
 description: Gradient descent powers model training by guiding parameter updates to
   minimize loss and avoid pitfalls like local minima. Discover more inside.
+title: Gradient Descent and Optimization Techniques in Machine Learning
 ---
 
 ![Image](images/1.png)

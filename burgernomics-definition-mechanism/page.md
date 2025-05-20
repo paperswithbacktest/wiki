@@ -1,6 +1,9 @@
 ---
-title: "Burgernomics: Definition and Mechanism (Algo Trading)"
-description: "Explore the synergy between Burgernomics economic theory and algorithmic trading Analyzing purchasing power reveals insights into global currency valuation and market strategies"
+category: quant_concept
+description: Explore the synergy between Burgernomics economic theory and algorithmic
+  trading Analyzing purchasing power reveals insights into global currency valuation
+  and market strategies
+title: 'Burgernomics: Definition and Mechanism (Algo Trading)'
 ---
 
 In today's intricate economic landscape, understanding the interplay between purchasing power, Burgernomics, economic theory, and algorithmic trading is crucial. Purchasing power, at its core, dictates the value of currency in terms of the quantity and quality of goods and services it can buy, making it fundamental to everyday economic transactions and international trade. Fluctuations in purchasing power, influenced by factors such as inflation and exchange rates, directly affect consumer behavior and the global market dynamics.

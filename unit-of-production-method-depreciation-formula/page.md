@@ -1,6 +1,8 @@
 ---
-title: "Unit of Production Method and Depreciation Formula (Algo Trading)"
-description: "Explore how depreciation methods impact algorithmic trading strategies, enhancing model precision and asset valuation for informed financial decision-making."
+category: quant_concept
+description: Explore how depreciation methods impact algorithmic trading strategies,
+  enhancing model precision and asset valuation for informed financial decision-making.
+title: Unit of Production Method and Depreciation Formula (Algo Trading)
 ---
 
 The intersection of depreciation methods and algorithmic trading strategies presents a nuanced understanding of how financial data impacts trading models. Depreciation plays a significant role in determining an asset's value over time, allowing businesses to accurately reflect diminishing asset value due to usage or age in their financial statements. This accuracy is foundational for constructing robust trading models, especially for those operating in data-driven environments like algorithmic trading.

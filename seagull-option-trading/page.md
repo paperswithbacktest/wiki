@@ -1,6 +1,8 @@
 ---
-title: "Seagull Option in Trading (Algo Trading)"
-description: "Explore the seagull option strategy in algo trading to effectively balance risk and return. Learn how automated tools optimize this options trading technique."
+category: trading_strategy
+description: Explore the seagull option strategy in algo trading to effectively balance
+  risk and return. Learn how automated tools optimize this options trading technique.
+title: Seagull Option in Trading (Algo Trading)
 ---
 
 In today’s complex financial markets, options trading has gained prominence as a viable method for hedging and speculation. This has urged traders and investors to explore a diverse array of financial derivatives. Among these, the seagull option strategy stands out as it merges different elements of options, particularly a mix of call and put options, to effectively manage both risk and potential returns.

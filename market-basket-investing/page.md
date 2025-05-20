@@ -1,6 +1,8 @@
 ---
-title: "Market Basket in Investing (Algo Trading)"
-description: "Discover how market baskets and algorithmic trading revolutionize investing. Learn to diversify risk, optimize returns, and leverage technology for smarter strategies."
+category: trading_strategy
+description: Discover how market baskets and algorithmic trading revolutionize investing.
+  Learn to diversify risk, optimize returns, and leverage technology for smarter strategies.
+title: Market Basket in Investing (Algo Trading)
 ---
 
 Investment strategies have undergone considerable transformation, influenced by technological advancements and shifts in market dynamics. Historically, investment practices were dominated by traditional approaches such as buying and holding stocks and bonds. However, with the rise of technology, particularly in computing and data analytics, new methodologies have emerged that allow for more sophisticated and responsive investment strategies. These innovations enable investors to better navigate complex financial landscapes, optimize returns, and mitigate risks.

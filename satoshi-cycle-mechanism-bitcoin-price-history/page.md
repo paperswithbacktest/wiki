@@ -1,6 +1,9 @@
 ---
-title: "Satoshi Cycle: Mechanism and Bitcoin Price History (Algo Trading)"
-description: "Explore the intriguing connection between the Satoshi Cycle and Bitcoin's volatile price history. Discover the impact of algorithmic trading on cryptocurrency markets."
+category: trading_strategy
+description: Explore the intriguing connection between the Satoshi Cycle and Bitcoin's
+  volatile price history. Discover the impact of algorithmic trading on cryptocurrency
+  markets.
+title: 'Satoshi Cycle: Mechanism and Bitcoin Price History (Algo Trading)'
 ---
 
 In the rapidly evolving world of cryptocurrency, understanding the history and trends of Bitcoin is crucial. Over the past decade, Bitcoin has transitioned from an obscure digital experiment to a globally recognized financial asset. A comprehensive examination of Bitcoin includes its price history, notable patterns such as the Satoshi Cycle, and the role of algorithmic trading in modern cryptocurrency markets.

@@ -1,6 +1,8 @@
 ---
-title: "Reverse-Engineering DCF for Stock Price Evaluation (Algo Trading)"
-description: "Explore reverse-engineering the DCF model for stock valuation to derive market growth assumptions, enhance algorithmic trading, and improve investment accuracy."
+category: trading_strategy
+description: Explore reverse-engineering the DCF model for stock valuation to derive
+  market growth assumptions, enhance algorithmic trading, and improve investment accuracy.
+title: Reverse-Engineering DCF for Stock Price Evaluation (Algo Trading)
 ---
 
 Understanding the value of a stock is crucial for making informed investment decisions. Accurate stock valuation helps investors determine whether a stock is priced appropriately, thus influencing buy, hold, or sell decisions. In this context, stock price evaluation can be approached through reverse-engineering the discounted cash flow (DCF) model, a strategy that offers an alternative to traditional valuation methods. The reverse-engineering method turns the conventional DCF on its head by starting with the observable market stock price and working backward to infer the underlying market expectations for future cash flows.

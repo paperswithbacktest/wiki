@@ -1,6 +1,9 @@
 ---
-title: "Environmental Impact of Ethereum (Algo Trading)"
-description: "Explore how Ethereum's transition to Ethereum 2.0 addresses environmental concerns from high energy consumption and how algorithmic trading impacts sustainability efforts."
+category: quant_concept
+description: Explore how Ethereum's transition to Ethereum 2.0 addresses environmental
+  concerns from high energy consumption and how algorithmic trading impacts sustainability
+  efforts.
+title: Environmental Impact of Ethereum (Algo Trading)
 ---
 
 Ethereum, launched in 2015 by Vitalik Buterin, has emerged as a pioneering platform in the world of cryptocurrencies, renowned for its capability to enable decentralized applications (dApps) via smart contracts. Unlike Bitcoin, which primarily focuses on facilitating peer-to-peer transactions, Ethereum allows developers to build and deploy complex applications without third-party interference. Its native cryptocurrency, Ether (ETH), is the second-largest by market capitalization, underscoring Ethereum’s paramount role in the blockchain ecosystem.

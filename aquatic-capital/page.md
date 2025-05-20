@@ -1,6 +1,8 @@
 ---
-title: "Aquatic Capital (Algo Trading)"
-description: "Explore Aquatic Capital's impact on financial markets through algorithmic trading focusing on its innovation-driven strategies and role in market evolution."
+category: trading_strategy
+description: Explore Aquatic Capital's impact on financial markets through algorithmic
+  trading focusing on its innovation-driven strategies and role in market evolution.
+title: Aquatic Capital (Algo Trading)
 ---
 
 In the complex world of financial markets, algorithmic trading has emerged as a pivotal force. By leveraging algorithms, trading strategies that once belonged exclusively to a select few are now shaping the future of finance. This evolution in trading methodologies has facilitated unprecedented levels of speed, efficiency, and precision in financial markets, ushering in a new era of trading innovation.

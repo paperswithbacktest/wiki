@@ -1,6 +1,8 @@
 ---
-title: "Present Value and Calculation Methods in Excel (Algo Trading)"
-description: "Discover how Excel simplifies present value calculations crucial for algo trading Evaluate future cash flows' worth today to enhance financial decision-making."
+category: quant_concept
+description: Discover how Excel simplifies present value calculations crucial for
+  algo trading Evaluate future cash flows' worth today to enhance financial decision-making.
+title: Present Value and Calculation Methods in Excel (Algo Trading)
 ---
 
 Financial formulas, especially those embedded within Excel, play a pivotal role in modern financial analysis and decision-making. By leveraging the computational power of Excel, financial professionals can efficiently evaluate investment opportunities and strategic financial plans. One of the fundamental concepts at the heart of these analyses is the calculation of present value (PV). Present value is a key financial metric that aids in understanding the value of future cash flows in today's terms, considering a specific rate of return. 

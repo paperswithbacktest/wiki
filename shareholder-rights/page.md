@@ -1,6 +1,9 @@
 ---
-title: "Shareholder Rights (Algo Trading)"
-description: "Explore corporate governance investor rights and algorithmic trading to understand their impact on financial markets and shareholder interests in a digital world."
+category: quant_concept
+description: Explore corporate governance investor rights and algorithmic trading
+  to understand their impact on financial markets and shareholder interests in a digital
+  world.
+title: Shareholder Rights (Algo Trading)
 ---
 
 Corporate governance, investor rights, shareholder interests, and algorithmic trading are integral components of the modern financial landscape. These elements are deeply interconnected, shaping how financial markets operate and influencing corporate behavior. Understanding these mechanisms is critical for investors and corporate entities as they navigate the complexities of the present-day market.

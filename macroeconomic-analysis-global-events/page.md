@@ -1,6 +1,9 @@
 ---
-title: "Macroeconomic Analysis of Global Events (Algo Trading)"
-description: "Explore how global economic events influence macroeconomic indicators and enhance algorithmic trading strategies for informed decision-making in dynamic markets."
+category: quant_concept
+description: Explore how global economic events influence macroeconomic indicators
+  and enhance algorithmic trading strategies for informed decision-making in dynamic
+  markets.
+title: Macroeconomic Analysis of Global Events (Algo Trading)
 ---
 
 In today's interconnected global landscape, economic events occurring in one part of the world can have far-reaching effects on financial markets across the globe. Understanding the intricate dance of global economies and financial systems is crucial for those looking to navigate the complexities of these markets effectively. Central to this understanding are the fields of macroeconomics and algorithmic trading—two disciplines that offer valuable tools and insights for market participants.

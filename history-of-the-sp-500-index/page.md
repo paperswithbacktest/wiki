@@ -1,6 +1,8 @@
 ---
-title: "History of the S&P 500 Index (Algo Trading)"
-description: "Explore the history of the S&P 500 and the role algorithmic trading plays in its dynamics, offering insights into its resilience and adaptability."
+category: quant_concept
+description: Explore the history of the S&P 500 and the role algorithmic trading plays
+  in its dynamics, offering insights into its resilience and adaptability.
+title: History of the S&P 500 Index (Algo Trading)
 ---
 
 The Standard & Poor's 500 Index (S&P 500) stands as a critical benchmark in the evaluation of large U.S. equities, embodying an essential fragment of the financial landscape. Since its launch in 1957, the index has evolved into a quintessential barometer for investors seeking to assess the health of the U.S. economy through a diversified representation of 500 leading companies. These companies, spanning various sectors, collectively capture the essence of American corporate performance, making the S&P 500 a mirror for economic conditions.

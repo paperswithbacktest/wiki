@@ -1,6 +1,13 @@
 ---
-title: "Introduction to Call Option Buying (Algo Trading)"
-description: "Discover the essentials of call option buying in algo trading with this comprehensive guide. Learn how call options provide investors the right to purchase assets at a set price, offering strategic leverage and risk management. Explore the synergy between algorithmic trading and call options for enhanced trading strategies. Perfect for beginners eager to deepen their understanding of options and algorithmic trading, this resource offers insights into maximizing profits while minimizing risks in dynamic financial markets."
+category: quant_concept
+description: Discover the essentials of call option buying in algo trading with this
+  comprehensive guide. Learn how call options provide investors the right to purchase
+  assets at a set price, offering strategic leverage and risk management. Explore
+  the synergy between algorithmic trading and call options for enhanced trading strategies.
+  Perfect for beginners eager to deepen their understanding of options and algorithmic
+  trading, this resource offers insights into maximizing profits while minimizing
+  risks in dynamic financial markets.
+title: Introduction to Call Option Buying (Algo Trading)
 ---
 
 Options trading has become an increasingly popular financial strategy, providing investors with a unique level of flexibility and potential for profit that extends beyond traditional investment methods. At the core of options trading is the concept of call options, which serve as one of the primary instruments used in this investment technique.

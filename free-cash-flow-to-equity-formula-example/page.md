@@ -1,6 +1,8 @@
 ---
-title: "Free Cash Flow to Equity Formula and Example (Algo Trading)"
-description: "Understand Free Cash Flow to Equity (FCFE) and its role in equity valuation and algorithmic trading Learn how FCFE can guide investment strategies and decision-making"
+category: quant_concept
+description: Understand Free Cash Flow to Equity (FCFE) and its role in equity valuation
+  and algorithmic trading Learn how FCFE can guide investment strategies and decision-making
+title: Free Cash Flow to Equity Formula and Example (Algo Trading)
 ---
 
 The world of finance continually evolves as new techniques and tools for equity valuation emerge. One such significant tool is Free Cash Flow to Equity (FCFE), which plays a crucial role in evaluating a company's financial health. The FCFE metric provides insights into the cash available to equity shareholders after accounting for reinvestments, expenses, and debt settlements. By understanding FCFE, investors can better gauge a company's capacity to distribute dividends and repurchase shares, offering a clearer picture of financial sustainability and shareholder value.

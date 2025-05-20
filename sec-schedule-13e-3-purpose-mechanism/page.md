@@ -1,6 +1,9 @@
 ---
-title: "SEC Schedule 13E-3: Purpose and Mechanism (Algo Trading)"
-description: "Explore how SEC Schedule 13E-3 impacts algorithmic trading by ensuring transparency in going-private transactions Dive into regulatory influence on trading dynamics"
+category: quant_concept
+description: Explore how SEC Schedule 13E-3 impacts algorithmic trading by ensuring
+  transparency in going-private transactions Dive into regulatory influence on trading
+  dynamics
+title: 'SEC Schedule 13E-3: Purpose and Mechanism (Algo Trading)'
 ---
 
 Financial regulations are pivotal in preserving market integrity and safeguarding investor interests. This article aims to shed light on SEC Schedule 13E-3 and its effects on algorithmic trading. SEC Schedule 13E-3 is a regulatory mandate applicable when a publicly traded company decides to transition to private ownership. Comprehensive understanding of this requirement is critical for companies undergoing such transitions. This document necessitates disclosures that furnish shareholders with vital transaction details, facilitating transparency and informed decision-making.

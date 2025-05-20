@@ -1,6 +1,8 @@
 ---
-title: "Tick Size in Trading (Algo Trading)"
-description: "Explore the crucial role of tick size in trading and its impact on market liquidity, pricing, and algorithmic strategies in evolving financial markets."
+category: quant_concept
+description: Explore the crucial role of tick size in trading and its impact on market
+  liquidity, pricing, and algorithmic strategies in evolving financial markets.
+title: Tick Size in Trading (Algo Trading)
 ---
 
 Tick size trading plays a pivotal role in financial markets by determining the minimum price movement of a financial instrument. It is a crucial factor in established trading dynamics and for traders using algorithmic strategies. Algorithmic trading involves deploying automated and complex mathematical models for decision-making in financial markets, enabling trades at speeds and frequencies impossible for human traders. This article aims to investigate the intricacies of tick size trading - from its historical background and significance in shaping trading strategies to its integration with algorithmic approaches.

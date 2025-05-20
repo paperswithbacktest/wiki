@@ -1,6 +1,9 @@
 ---
-title: "Monopolistic State Fund: Overview and Functionality (Algo Trading)"
-description: "Explore the intersection of monopolistic state funds and algorithmic trading and their economic implications. Discover how advanced trading technologies influence market dynamics and stability."
+category: quant_concept
+description: Explore the intersection of monopolistic state funds and algorithmic
+  trading and their economic implications. Discover how advanced trading technologies
+  influence market dynamics and stability.
+title: 'Monopolistic State Fund: Overview and Functionality (Algo Trading)'
 ---
 
 Monopolistic state funds have increasingly become a focal point in economic discussions due to their role as exclusive providers in certain sectors, which in turn substantially affect market dynamics. These funds are typically government-established entities that manage specific services without facing competition from private enterprises. The underlying objectives include stabilizing markets that might suffer from issues such as adverse selection and moral hazards, which are often observed in sectors like workers' compensation insurance in specific U.S. states.

@@ -1,6 +1,9 @@
 ---
-title: "Bid-Ask Spread vs. Bid-Ask Bounce (Algo Trading)"
-description: "Understand essential financial concepts with our detailed comparison of bid-ask spread and bounce These insights reveal market liquidity and trading strategies"
+category: quant_concept
+description: Understand essential financial concepts with our detailed comparison
+  of bid-ask spread and bounce These insights reveal market liquidity and trading
+  strategies
+title: Bid-Ask Spread vs. Bid-Ask Bounce (Algo Trading)
 ---
 
 The bid-ask spread and bid-ask bounce are pivotal concepts in grasping the mechanics of financial markets. For traders, investors, and various market participants, comprehending these terms is critical, as they engage actively in trading activities. The bid-ask spread specifically denotes the difference between the bid price— the maximum price a buyer is willing to pay for an asset—and the ask price, which represents the minimum price a seller is willing to accept. This spread is an inherent feature of any financial market and serves as a fundamental indicator of market liquidity and transaction costs.

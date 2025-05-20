@@ -1,6 +1,9 @@
 ---
-title: "Prepayment Risk: Effects and Examples (Algo Trading)"
-description: "Explore the concept of prepayment risk in finance analyze its effects on investments like mortgage-backed securities and discover strategies in algorithmic trading."
+category: quant_concept
+description: Explore the concept of prepayment risk in finance analyze its effects
+  on investments like mortgage-backed securities and discover strategies in algorithmic
+  trading.
+title: 'Prepayment Risk: Effects and Examples (Algo Trading)'
 ---
 
 Prepayment risk is a critical concept within the financial sector that affects various investment instruments, notably mortgage-backed securities (MBS), bonds, and aspects of algorithmic trading. It represents the risk associated with the early repayment of the principal amount on fixed-income securities. This early repayment disrupts the expected cash flows and diminishes potential investment returns for stakeholders. As interest rates decline, the likelihood of prepayment increases, posing a significant consideration for investors holding these securities.

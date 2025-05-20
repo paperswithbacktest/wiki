@@ -1,6 +1,8 @@
 ---
-title: "Revenue Generation in Higher Education Institutions (Algo Trading)"
-description: "Explore how higher education institutions can leverage algorithmic trading as an innovative revenue stream to diversify income and achieve financial sustainability."
+category: quant_concept
+description: Explore how higher education institutions can leverage algorithmic trading
+  as an innovative revenue stream to diversify income and achieve financial sustainability.
+title: Revenue Generation in Higher Education Institutions (Algo Trading)
 ---
 
 Higher education finance is a complex and multifaceted topic that has seen substantial evolution over the years. Traditionally, universities and colleges have relied on several revenue streams, including tuition and fees, government funding, private donations, research grants, and income from endowments. However, current challenges such as fluctuating enrollment rates, decreasing public funding, and the evolving economic climate necessitate the exploration of diverse and innovative revenue sources to achieve financial sustainability and independence.

@@ -1,6 +1,10 @@
 ---
-title: "Serial Bonds with Balloon Payments: Overview, Advantages and Disadvantages (Algo Trading)"
-description: "Explore the unique structure of serial bonds with balloon payments, their advantages, and the impact of algorithmic trading on bond markets and financing strategies."
+category: quant_concept
+description: Explore the unique structure of serial bonds with balloon payments, their
+  advantages, and the impact of algorithmic trading on bond markets and financing
+  strategies.
+title: 'Serial Bonds with Balloon Payments: Overview, Advantages and Disadvantages
+  (Algo Trading)'
 ---
 
 In bond financing, serial bonds with balloon payments represent a distinctive structure designed to meet particular fiscal requirements. Serial bonds distribute principal repayments over several intervals, while a balloon payment signifies a substantial final payout that covers the remaining principal amount. This financial approach allows issuers to lower periodic payments and manage cash flows more flexibly.

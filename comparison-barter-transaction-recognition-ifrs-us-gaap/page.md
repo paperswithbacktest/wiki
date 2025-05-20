@@ -1,6 +1,8 @@
 ---
-title: "Comparison of Barter Transaction Recognition Under IFRS and US GAAP (Algo Trading)"
-description: "Explore how barter transactions are accounted for under US GAAP and IFRS focusing on valuation challenges and the impact on financial statements."
+category: quant_concept
+description: Explore how barter transactions are accounted for under US GAAP and IFRS
+  focusing on valuation challenges and the impact on financial statements.
+title: Comparison of Barter Transaction Recognition Under IFRS and US GAAP (Algo Trading)
 ---
 
 This article explores the intricacies of barter transactions under two major accounting frameworks: US GAAP and IFRS. Barter transactions represent non-monetary exchanges of goods or services, a practice rooted in history but still relevant today. These transactions differ from traditional sales and purchases as they do not utilize currency, posing unique accounting challenges. Accurately recording barter transactions is crucial, as they can significantly impact financial statements, especially in industries where such exchanges are prevalent.

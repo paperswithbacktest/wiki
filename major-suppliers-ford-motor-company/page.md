@@ -1,6 +1,8 @@
 ---
-title: "Major Suppliers to Ford Motor Company (Algo Trading)"
-description: "Discover the crucial role of major suppliers to Ford Motor Company and explore how algorithmic trading optimizes their automotive supply chain."
+category: dataset
+description: Discover the crucial role of major suppliers to Ford Motor Company and
+  explore how algorithmic trading optimizes their automotive supply chain.
+title: Major Suppliers to Ford Motor Company (Algo Trading)
 ---
 
 The automotive industry has a storied history, characterized by relentless innovation and paradigm shifts, many of which have been spearheaded by Ford Motor Company. Founded in 1903 by Henry Ford, the company revolutionized mass production with the introduction of the moving assembly line, setting new benchmarks for efficiency and setting the stage for the modern automotive landscape. Today, Ford remains a leader in the industry, continually adapting to technological advancements and changing consumer demands.

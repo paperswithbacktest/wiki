@@ -1,6 +1,8 @@
 ---
-title: "Financial Analysis of Chipotle Mexican Grill (Algo Trading)"
-description: "Explore the financial dynamics of Chipotle Mexican Grill with insights into profitability and the impact of algo trading strategies on stock performance."
+category: trading_strategy
+description: Explore the financial dynamics of Chipotle Mexican Grill with insights
+  into profitability and the impact of algo trading strategies on stock performance.
+title: Financial Analysis of Chipotle Mexican Grill (Algo Trading)
 ---
 
 Chipotle Mexican Grill, Inc. (CMG) stands as a quintessential example of success within the fast-casual dining sector. Renowned for its commitment to using fresh, high-quality ingredients and its focus on delivering a simple yet customizable menu, Chipotle has set itself apart from traditional quick-service restaurant chains. Since its inception in 1993, the company has grown exponentially, capitalizing on the demand for convenient yet healthy meals. As of recent years, Chipotle's financial success is evidenced by its robust revenue growth, strong brand loyalty, and strategic expansion plans, cementing its status as a leader in the industry.

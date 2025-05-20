@@ -1,7 +1,8 @@
 ---
-title: Handling Nonstationarity in Machine Learning Models
+category: quant_concept
 description: Nonstationarity in machine learning can erode model performance as data
   patterns shift. Adaptive preprocessing restores accuracy. Discover more inside
+title: Handling Nonstationarity in Machine Learning Models
 ---
 
 ![Image](images/1.jpeg)

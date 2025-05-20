@@ -1,6 +1,14 @@
 ---
-title: "Performance attribution (Algo Trading)"
-description: Explore the evolving world of algorithmic trading and its emphasis on performance attribution. This analytical process dissects the elements of trading strategies to identify factors driving returns. Key metrics like the Sharpe Ratio, Maximum Drawdown, and Profit Factor aid in evaluating and refining strategies, enhancing risk management and profitability. Performance attribution not only distinguishes between skill and chance but also identifies areas for improvement, ensuring robust and adaptive algorithms in dynamic markets. Essential for traders, it enables the continuous optimization and risk assessment crucial for long-term success.
+category: trading_strategy
+description: Explore the evolving world of algorithmic trading and its emphasis on
+  performance attribution. This analytical process dissects the elements of trading
+  strategies to identify factors driving returns. Key metrics like the Sharpe Ratio,
+  Maximum Drawdown, and Profit Factor aid in evaluating and refining strategies, enhancing
+  risk management and profitability. Performance attribution not only distinguishes
+  between skill and chance but also identifies areas for improvement, ensuring robust
+  and adaptive algorithms in dynamic markets. Essential for traders, it enables the
+  continuous optimization and risk assessment crucial for long-term success.
+title: Performance attribution (Algo Trading)
 ---
 
 The landscape of trading has undergone significant transformation with the advent of algorithmic trading. This sophisticated approach leverages complex algorithms to automate trading processes, redefining the dynamics of modern financial markets. Algorithmic trading not only enhances efficiency but also increases the potential for profitability by executing trades at speeds and frequencies beyond human capability.

@@ -1,6 +1,9 @@
 ---
-title: "Marxism and Its Comparison to Communism, Socialism, and Capitalism (Algo Trading)"
-description: "Explore the interplay between Marxism communism socialism and capitalism in the context of algorithmic trading and financial markets understanding their impact on economies"
+category: quant_concept
+description: Explore the interplay between Marxism communism socialism and capitalism
+  in the context of algorithmic trading and financial markets understanding their
+  impact on economies
+title: Marxism and Its Comparison to Communism, Socialism, and Capitalism (Algo Trading)
 ---
 
 Economic systems are fundamental frameworks that determine how resources are allocated and goods are distributed within societies. Understanding how these systems interact with financial markets is essential, as they profoundly influence economic behavior, policy-making, and global trade. Historically, economic systems are characterized by distinct ideological foundations, such as communism, Marxism, capitalism, and socialism, each of which presents unique perspectives on ownership, production, and the distribution of wealth.

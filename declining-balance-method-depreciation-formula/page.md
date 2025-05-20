@@ -1,6 +1,9 @@
 ---
-title: "Declining Balance Method and Depreciation Formula (Algo Trading)"
-description: "Explore the connection between algorithmic trading and declining balance depreciation, and learn how these concepts shape financial strategies and asset valuations."
+category: quant_concept
+description: Explore the connection between algorithmic trading and declining balance
+  depreciation, and learn how these concepts shape financial strategies and asset
+  valuations.
+title: Declining Balance Method and Depreciation Formula (Algo Trading)
 ---
 
 Accounting, the declining balance method, depreciation, and algorithmic trading may initially appear as distinct concepts; however, a closer look reveals a profound connection between them, especially in the context of modern financial markets. Accounting, fundamentally, is the systematic recording, reporting, and analysis of financial transactions, serving as the backbone of business decision-making. Within accounting, the declining balance method is a technique used to calculate depreciation, an essential concept that signifies the reduction in value of tangible assets over time.

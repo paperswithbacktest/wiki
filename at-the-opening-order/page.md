@@ -1,6 +1,9 @@
 ---
-title: "At-The-Opening Order (Algo Trading)"
-description: "Enhance your trading strategy with at-the-opening orders designed for execution at market open, ideal for capitalizing on overnight news and early price actions."
+category: trading_strategy
+description: Enhance your trading strategy with at-the-opening orders designed for
+  execution at market open, ideal for capitalizing on overnight news and early price
+  actions.
+title: At-The-Opening Order (Algo Trading)
 ---
 
 Stock market trading strategies have evolved significantly, encompassing a wide range of order types that cater to different trading objectives and risk appetites. Understanding these order types is crucial for traders seeking to optimize their trading outcomes. Common order types include market orders, which enable immediate execution at the current market price, limit orders, which set a predetermined price for buying or selling, and stop orders, which trigger a trade once a specific price is reached. Each order type comes with its own set of advantages and limitations, making the choice of order type a critical component of effective trading strategies.

@@ -1,6 +1,9 @@
 ---
-title: "Types and Examples of Exchanges (Algo Trading)"
-description: "Explore the multifaceted world of trading exchanges including traditional models and algorithmic strategies for optimal trading efficiency and competitive advantage."
+category: quant_concept
+description: Explore the multifaceted world of trading exchanges including traditional
+  models and algorithmic strategies for optimal trading efficiency and competitive
+  advantage.
+title: Types and Examples of Exchanges (Algo Trading)
 ---
 
 The financial marketplace is a multifaceted and intricate domain, characterized by the presence of diverse exchanges tailored to meet specific trading requirements. These exchanges provide essential platforms for the buying and selling of a myriad of financial instruments, including securities, commodities, and various other assets. Through these venues, market participants engage in price discovery and liquidity facilitation, activities that underpin the efficient operation of financial markets. 

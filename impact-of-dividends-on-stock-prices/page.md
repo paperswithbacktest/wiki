@@ -1,6 +1,8 @@
 ---
-title: "Impact of Dividends on Stock Prices (Algo Trading)"
-description: "Explore how dividends influence stock prices and enhance investment strategies, from dividend capture to algorithmic trading, optimizing returns for investors."
+category: quant_concept
+description: Explore how dividends influence stock prices and enhance investment strategies,
+  from dividend capture to algorithmic trading, optimizing returns for investors.
+title: Impact of Dividends on Stock Prices (Algo Trading)
 ---
 
 In financial markets, investors are consistently looking for ways to maximize returns, minimize risk, and ensure a steady stream of income. Dividends play a crucial role in these investment strategies by providing shareholders with a share of a company’s earnings. Acting as a bridge between corporate profitability and investor rewards, dividends appeal to both income-focused and growth-oriented investors.

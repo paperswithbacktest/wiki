@@ -1,6 +1,8 @@
 ---
-title: "Guinean Franc: Overview and Mechanism (Algo Trading)"
-description: "Explore the role of the Guinean Franc in Guinea’s economy and the transformative impact of algorithmic trading on currency markets in emerging economies."
+category: quant_concept
+description: Explore the role of the Guinean Franc in Guinea’s economy and the transformative
+  impact of algorithmic trading on currency markets in emerging economies.
+title: 'Guinean Franc: Overview and Mechanism (Algo Trading)'
 ---
 
 The Guinean Franc (GNF) serves as the official monetary unit of Guinea, a nation situated in the heart of West Africa. Despite its modest visibility on the global financial stage, the GNF occupies a critical position in Guinea's economic framework. A comprehensive analysis of this currency and its implications reveals insightful connections between the GNF and Guinea's economic performance, especially against the backdrop of advancements in algorithmic trading.

@@ -1,6 +1,8 @@
 ---
-title: "Optimal execution (Algo Trading)"
-description: "Optimize your trading strategy with optimal execution in algorithmic trading minimizing market impact and transaction costs for superior trade performance."
+category: trading_strategy
+description: Optimize your trading strategy with optimal execution in algorithmic
+  trading minimizing market impact and transaction costs for superior trade performance.
+title: Optimal execution (Algo Trading)
 ---
 
 Optimal execution in algorithmic trading employs quantitative techniques to effectively execute large orders, playing a pivotal role in modern financial markets. The primary objective is to minimize market impact, which refers to the influence that executing a large order has on the market price. This is crucial as significant market impact can lead to adverse price changes, escalating transaction costs, and ultimately diminishing trade performance. By carefully managing market impact, traders can strive for favorable price execution, ensuring that their trading activity does not unduly affect the market equilibrium.

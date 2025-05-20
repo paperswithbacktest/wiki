@@ -1,6 +1,8 @@
 ---
-title: "Non-Open Market: Concepts and Applications (Algo Trading)"
-description: "Explore non-open market concepts and algorithmic trading to enhance financial strategies. Learn how private deals and algo trading impact modern markets."
+category: quant_concept
+description: Explore non-open market concepts and algorithmic trading to enhance financial
+  strategies. Learn how private deals and algo trading impact modern markets.
+title: 'Non-Open Market: Concepts and Applications (Algo Trading)'
 ---
 
 In the evolving landscape of financial markets, understanding a broad range of economic concepts is vital for both investors and traders. In particular, non-open market economic concepts and algorithmic trading (algo trading) have become increasingly significant. This article examines these two mechanisms, highlighting their applications and impacts on the market.

@@ -1,6 +1,8 @@
 ---
-title: "Madrid Stock Exchange MA: Overview and Functionality (Algo Trading)"
-description: "Explore the rise of algorithmic trading on the Madrid Stock Exchange its impact on market efficiency and innovation in Spain's leading securities market."
+category: quant_concept
+description: Explore the rise of algorithmic trading on the Madrid Stock Exchange
+  its impact on market efficiency and innovation in Spain's leading securities market.
+title: 'Madrid Stock Exchange MA: Overview and Functionality (Algo Trading)'
 ---
 
 The financial markets have undergone substantial changes with the rise of algorithmic trading, also known as algo trading. It represents a shift towards automated, high-speed trading processes driven by complex algorithms. This paper examines how algo trading intersects with the Madrid Stock Exchange, focusing on the technological innovations that have altered traditional trading methods. The Madrid Stock Exchange, known for its historical significance and economic influence, has incorporated these advancements to adapt to the evolving global financial landscape.

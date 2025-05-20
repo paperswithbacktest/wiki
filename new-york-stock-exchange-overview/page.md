@@ -1,6 +1,8 @@
 ---
-title: "New York Stock Exchange Overview (Algo Trading)"
-description: "Discover how algorithmic trading has revolutionized the NYSE, boosting liquidity, efficiency, and market stability for over 2300 listed companies."
+category: quant_concept
+description: Discover how algorithmic trading has revolutionized the NYSE, boosting
+  liquidity, efficiency, and market stability for over 2300 listed companies.
+title: New York Stock Exchange Overview (Algo Trading)
 ---
 
 Algorithmic trading has fundamentally transformed trading operations on the New York Stock Exchange (NYSE), a premier platform for large financial institutions. The NYSE operates under the Intercontinental Exchange Group and enables extensive trading activities for over 2,300 companies, boasting a combined market capitalization of $28.8 trillion. This transformation underscores the exchange's shift from traditional manual trading practices to a more advanced, technology-focused approach.

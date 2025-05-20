@@ -1,6 +1,8 @@
 ---
-title: "Funds From Operations: Measuring REIT Performance (Algo Trading)"
-description: "Explore how Funds From Operations (FFO) enhance REIT performance assessment and algorithmic trading strategies to optimize real estate investment returns."
+category: quant_concept
+description: Explore how Funds From Operations (FFO) enhance REIT performance assessment
+  and algorithmic trading strategies to optimize real estate investment returns.
+title: 'Funds From Operations: Measuring REIT Performance (Algo Trading)'
 ---
 
 Real Estate Investment Trusts (REITs) play a critical role in real estate investing by allowing individuals to invest in a diversified portfolio of income-generating real estate assets. Among the various metrics used to evaluate the financial health and performance of REITs, Funds From Operations (FFO) stands out due to its ability to provide insight into a REIT's operating performance. Unlike traditional metrics such as net income, which may be skewed by non-cash items like depreciation, FFO offers a clearer picture by focusing on the cash generated from core business operations.

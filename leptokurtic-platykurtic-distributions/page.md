@@ -1,6 +1,8 @@
 ---
-title: "Leptokurtic and Platykurtic Distributions (Algo Trading)"
-description: "Understand how leptokurtic and platykurtic distributions impact algorithmic trading strategies by influencing risk management and financial decision-making."
+category: quant_concept
+description: Understand how leptokurtic and platykurtic distributions impact algorithmic
+  trading strategies by influencing risk management and financial decision-making.
+title: Leptokurtic and Platykurtic Distributions (Algo Trading)
 ---
 
 In today's financial markets, understanding statistical distributions can significantly impact trading strategies. Leptokurtic and platykurtic distributions are particularly important in algorithmic trading, where they influence risk management and decision-making processes. Dealer and market makers continually strive to predict price movements and manage risks, and knowledge of these distributions can offer a competitive edge.

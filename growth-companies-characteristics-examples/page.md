@@ -1,6 +1,9 @@
 ---
-title: "Growth Companies: Characteristics and Examples (Algo Trading)"
-description: "Explore the synergy between growth companies and algorithmic trading to identify investment opportunities driven by innovation, market expansion, and data precision."
+category: quant_concept
+description: Explore the synergy between growth companies and algorithmic trading
+  to identify investment opportunities driven by innovation, market expansion, and
+  data precision.
+title: 'Growth Companies: Characteristics and Examples (Algo Trading)'
 ---
 
 In today's rapidly evolving financial landscape, growth companies are at the forefront of innovation and expansion. As these companies consistently outperform their peers by generating above-average returns and rapidly expanding their market presence, they draw significant attention from investors seeking robust opportunities. Characterized by high revenue growth, innovation, and strategic reinvestment in development rather than dividend distribution, growth companies represent significant value propositions across various sectors, including technology, healthcare, and renewable energy.

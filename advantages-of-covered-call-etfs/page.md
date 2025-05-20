@@ -1,6 +1,8 @@
 ---
-title: "Advantages of Covered Call ETFs (Algo Trading)"
-description: "Explore the benefits of covered call ETFs and algorithmic trading, learn how they enhance income, manage risk, and optimize portfolios for better returns."
+category: trading_strategy
+description: Explore the benefits of covered call ETFs and algorithmic trading, learn
+  how they enhance income, manage risk, and optimize portfolios for better returns.
+title: Advantages of Covered Call ETFs (Algo Trading)
 ---
 
 Investment strategies are systematic plans designed to achieve specific financial objectives. These strategies often involve balancing risk and return, taking into account an investor’s goals, risk tolerance, and time horizon. Among contemporary investment methods, covered call ETFs and algorithmic trading stand out for their unique mechanisms and potential to enhance financial returns.

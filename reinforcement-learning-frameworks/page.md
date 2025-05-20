@@ -1,7 +1,8 @@
 ---
-title: Understanding Reinforcement Learning Frameworks and Core Concepts
+category: quant_concept
 description: Reinforcement learning frameworks define agents environments actions
   states and rewards to build efficient policies for dynamic tasks Discover more inside
+title: Understanding Reinforcement Learning Frameworks and Core Concepts
 ---
 
 ![Image](images/1.jpeg)

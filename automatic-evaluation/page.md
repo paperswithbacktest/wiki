@@ -1,7 +1,8 @@
 ---
-title: Automatic Evaluation in Machine Learning Systems and Metrics
+category: quant_concept
 description: Automatic evaluation in machine learning uses metrics like accuracy precision
   recall and F1 score to deliver consistent model insights Discover more inside
+title: Automatic Evaluation in Machine Learning Systems and Metrics
 ---
 
 ![Image](images/1.png)

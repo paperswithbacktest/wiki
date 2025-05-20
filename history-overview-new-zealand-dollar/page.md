@@ -1,6 +1,9 @@
 ---
-title: "History and Overview of the New Zealand Dollar (Algo Trading)"
-description: "Explore the New Zealand Dollar's history and its influence on global trading markets Understand how algorithmic trading strategies utilize historical currency data to optimize investments"
+category: quant_concept
+description: Explore the New Zealand Dollar's history and its influence on global
+  trading markets Understand how algorithmic trading strategies utilize historical
+  currency data to optimize investments
+title: History and Overview of the New Zealand Dollar (Algo Trading)
 ---
 
 The New Zealand Dollar (NZD), abbreviated as NZD and known colloquially as the "Kiwi," plays a significant role in global financial markets. Introduced in 1967 to replace the New Zealand pound, the NZD has since established itself as one of the top ten most traded currencies in the world. Its importance stems from New Zealand's robust economic standing, including key sectors like agriculture, tourism, and commodities, that influence its valuation and impact on global trade (Reserve Bank of New Zealand, 2021).

@@ -1,6 +1,8 @@
 ---
-title: "Capital Investment: Types and Functionality (Algo Trading)"
-description: "Explore the diverse types of capital investments that shape financial strategies and enhance portfolio diversification through algorithmic trading insights."
+category: quant_concept
+description: Explore the diverse types of capital investments that shape financial
+  strategies and enhance portfolio diversification through algorithmic trading insights.
+title: 'Capital Investment: Types and Functionality (Algo Trading)'
 ---
 
 Capital investments and the varied landscape of investment types form the bedrock of modern finance, playing crucial roles in shaping financial markets and influencing global economies. At the core, a capital investment refers to the expenditure funds by a firm to acquire or upgrade physical assets such as property, industrial buildings, or equipment—significant moves vital to fueling a company’s growth and ensuring long-term competitiveness. Capital investments are inherently aimed at generating future returns, making them pivotal in the broader context of investment strategies.

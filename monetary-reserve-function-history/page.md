@@ -1,6 +1,8 @@
 ---
-title: "Monetary Reserve: Function and History (Algo Trading)"
-description: "Explore the function and history of monetary reserves and their impact on global finance alongside insights into algorithmic trading innovations and challenges."
+category: quant_concept
+description: Explore the function and history of monetary reserves and their impact
+  on global finance alongside insights into algorithmic trading innovations and challenges.
+title: 'Monetary Reserve: Function and History (Algo Trading)'
 ---
 
 In this article, we explore the complexities of the financial system, focusing on monetary reserves, economic history, and algorithmic trading. Monetary reserves are essential for stabilizing currencies and economic systems, as they consist of key holdings like currencies, precious metals, and liquid assets maintained by central banks. These reserves support national currencies and stabilize the money supply, helping to regulate currency values and facilitate international trade.

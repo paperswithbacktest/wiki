@@ -1,7 +1,8 @@
 ---
-title: Understanding Binary Classification in Machine Learning
+category: quant_concept
 description: Binary classification methods explained from data preparation and model
   training to performance evaluation and advanced techniques. Discover more inside.
+title: Understanding Binary Classification in Machine Learning
 ---
 
 ![Image](images/1.jpeg)

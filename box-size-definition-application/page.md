@@ -1,6 +1,13 @@
 ---
-title: "Box Size: Definition and Application (Algo Trading)"
-description: "Explore the essential role of box size measurement in algorithmic trading. This concept is crucial for filtering noise and enhancing the accuracy of technical analysis, particularly in point and figure charting. By understanding and optimizing box sizes, traders can make more informed and precise trading decisions, improving their strategies and performance. Discover how box size adjustments can adapt to market volatility, optimize trade execution, and ultimately contribute to successful trading outcomes."
+category: quant_concept
+description: Explore the essential role of box size measurement in algorithmic trading.
+  This concept is crucial for filtering noise and enhancing the accuracy of technical
+  analysis, particularly in point and figure charting. By understanding and optimizing
+  box sizes, traders can make more informed and precise trading decisions, improving
+  their strategies and performance. Discover how box size adjustments can adapt to
+  market volatility, optimize trade execution, and ultimately contribute to successful
+  trading outcomes.
+title: 'Box Size: Definition and Application (Algo Trading)'
 ---
 
 The rapidly evolving world of financial markets has witnessed a growing reliance on algorithms to make trading decisions. As market complexity and speed have increased, the need for precise and efficient decision-making tools has become critical. Algorithmic trading, gaining in popularity among both institutional and retail traders, uses these algorithms to automate trading decisions, thereby removing human error and emotions from the equation. One of the critical concepts that have emerged in this domain is 'box size measurement,' a fundamental element for those engaged in technical analysis, particularly in the creation of point and figure charts.

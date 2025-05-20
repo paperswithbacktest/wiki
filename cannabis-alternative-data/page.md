@@ -1,6 +1,12 @@
 ---
-title: "Cannabis Alternative Data (Algo Trading)"
-description: Explore the intersection of cannabis alternative data and algorithmic trading to uncover unique insights and opportunities within the financial ecosystem. With the legalization of cannabis, a diverse range of data on sales and consumer behavior has become accessible, offering traders a competitive edge. Discover how the integration of this unconventional data source can enhance trading strategies and refine decision-making processes in the rapidly evolving cannabis market.
+category: dataset
+description: Explore the intersection of cannabis alternative data and algorithmic
+  trading to uncover unique insights and opportunities within the financial ecosystem.
+  With the legalization of cannabis, a diverse range of data on sales and consumer
+  behavior has become accessible, offering traders a competitive edge. Discover how
+  the integration of this unconventional data source can enhance trading strategies
+  and refine decision-making processes in the rapidly evolving cannabis market.
+title: Cannabis Alternative Data (Algo Trading)
 ---
 
 In the ever-evolving landscape of finance and technology, algorithmic trading has emerged as a vital tool for traders and investors seeking to maximize returns. This sophisticated method leverages the power of computers to execute trades at speeds and frequencies beyond human capability. Alongside this evolution, alternative data has gained prominence, offering new insights and opportunities that traditional data sources may overlook. This includes various non-traditional datasets such as social media trends, satellite imagery, and point of sale information.

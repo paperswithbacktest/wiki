@@ -1,6 +1,8 @@
 ---
-title: "Cash Contract: Overview and Functionality (Algo Trading)"
-description: "Discover the essentials of cash contracts and algo trading in finance. Learn how these agreements impact market efficiency and industry supply chains."
+category: quant_concept
+description: Discover the essentials of cash contracts and algo trading in finance.
+  Learn how these agreements impact market efficiency and industry supply chains.
+title: 'Cash Contract: Overview and Functionality (Algo Trading)'
 ---
 
 The world of financial agreements is vast and diverse, with each type serving distinct purposes in various sectors. At the core of these agreements are cash contracts and trading agreements, which hold significant positions in commodity markets and investment circles. Cash contracts facilitate immediate transactions involving tangible goods, playing an essential role in industries that rely on the steady supply of raw materials, where prompt delivery is crucial for maintaining production schedules. Concurrently, trading agreements establish clear terms for exchanging financial instruments, ensuring transparency and reducing risk for all parties involved.

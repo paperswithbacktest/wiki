@@ -1,6 +1,12 @@
 ---
-title: "Review of Fidelity Investments (Algo Trading)"
-description: "Explore Fidelity Investments and its robust range of financial services, emphasizing innovative algorithmic trading platforms that enhance investment decision-making. Discover comprehensive offerings including stocks, ETFs, mutual funds, and personalized portfolio management, supported by exceptional customer service and educational resources. Assess the pros and cons of Fidelity's platforms to maximize trading efficiency and optimize your investment strategy."
+category: trading_strategy
+description: Explore Fidelity Investments and its robust range of financial services,
+  emphasizing innovative algorithmic trading platforms that enhance investment decision-making.
+  Discover comprehensive offerings including stocks, ETFs, mutual funds, and personalized
+  portfolio management, supported by exceptional customer service and educational
+  resources. Assess the pros and cons of Fidelity's platforms to maximize trading
+  efficiency and optimize your investment strategy.
+title: Review of Fidelity Investments (Algo Trading)
 ---
 
 Fidelity Investments is a prominent financial services company that has established itself as a leader in the industry since its inception in 1946. The company has built a strong legacy by offering a wide range of investment management and advisory services to individual investors, institutions, and financial advisors worldwide. With a commitment to innovation and customer service, Fidelity has grown to become a trusted name in financial planning, brokerage services, retirement services, and asset management.

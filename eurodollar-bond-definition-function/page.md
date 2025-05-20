@@ -1,6 +1,9 @@
 ---
-title: "Eurodollar Bond: Definition and Function (Algo Trading)"
-description: "Explore the intersection of Eurodollar bonds and algorithmic trading to understand their roles in global finance enhancing liquidity and efficiency in bond markets."
+category: quant_concept
+description: Explore the intersection of Eurodollar bonds and algorithmic trading
+  to understand their roles in global finance enhancing liquidity and efficiency in
+  bond markets.
+title: 'Eurodollar Bond: Definition and Function (Algo Trading)'
 ---
 
 International finance is a complex network of transactions that transcend national borders, involving currencies, financial instruments, and institutions. Eurodollar bonds are significant instruments within this system, playing a vital role in the global bond markets. These are dollar-denominated bonds issued outside the United States, typically in Europe, although the geographical scope of their issuance has expanded. The importance of Eurodollar bonds lies in their ability to provide issuers with access to U.S. dollar funding without being subject to American regulatory constraints. This has facilitated cross-border investments and contributed to global economic liquidity and stability.

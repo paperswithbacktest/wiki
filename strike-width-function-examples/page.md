@@ -1,6 +1,8 @@
 ---
-title: "Strike Width: Function and Examples (Algo Trading)"
-description: "Explore strike width's vital role in options trading and algo strategies Gain insights into optimizing trades managing risk and enhancing market performance"
+category: quant_concept
+description: Explore strike width's vital role in options trading and algo strategies
+  Gain insights into optimizing trades managing risk and enhancing market performance
+title: 'Strike Width: Function and Examples (Algo Trading)'
 ---
 
 In the fast-paced world of finance, algorithmic trading has revolutionized the way investment strategies are approached, with technology enabling swift and precise decision-making. A pivotal element in options trading is the concept of 'strike width,' which significantly influences trade strategies and outcomes. Strike width refers to the difference between the strike prices of options within a single series, such as $1.00, $2.50, or $10, depending on the underlying security. It plays a crucial role in determining the price and risk parameters of various options strategies, such as spreads, butterflies, and iron condors.

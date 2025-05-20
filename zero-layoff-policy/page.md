@@ -1,6 +1,9 @@
 ---
-title: "Zero Layoff Policy (Algo Trading)"
-description: "Explore the benefits and challenges of zero layoff policies in algorithmic trading Discover innovative strategies to ensure job security and boost employee morale"
+category: trading_strategy
+description: Explore the benefits and challenges of zero layoff policies in algorithmic
+  trading Discover innovative strategies to ensure job security and boost employee
+  morale
+title: Zero Layoff Policy (Algo Trading)
 ---
 
 The modern job market is characterized by a landscape of volatility and unpredictability. Economic fluctuations, technological advancements, and corporate restructuring contribute to a pervasive uncertainty, causing many employees to live in fear of job layoffs. In such an environment, maintaining job security becomes a critical issue both for employees seeking stability and organizations aiming to foster a committed workforce.

@@ -1,6 +1,9 @@
 ---
-title: "Troubled Asset Relief Program: Overview and Mechanism (Algo Trading)"
-description: "Explore the Troubled Asset Relief Program's pivotal role in stabilizing the 2008 financial sector, its link to algorithmic trading, and its lasting regulatory impact."
+category: quant_concept
+description: Explore the Troubled Asset Relief Program's pivotal role in stabilizing
+  the 2008 financial sector, its link to algorithmic trading, and its lasting regulatory
+  impact.
+title: 'Troubled Asset Relief Program: Overview and Mechanism (Algo Trading)'
 ---
 
 The 2008 financial crisis marked a defining moment in economic history, characterized by extraordinary disruptions in global markets and a shattered trust in financial institutions. The shockwaves of this crisis reverberated across economies, prompting government interventions of a scale and scope not seen in recent history. Central to these interventions was the Troubled Asset Relief Program (TARP), a controversial yet pivotal initiative introduced to stabilize the financial sector at a critical juncture.

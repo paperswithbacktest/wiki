@@ -1,6 +1,9 @@
 ---
-title: "David Einhorn, Founder of Greenlight Capital (Algo Trading)"
-description: "Discover the unique investment strategies of David Einhorn and Greenlight Capital as they navigate the evolving financial landscape amid algorithmic trading trends."
+category: trading_strategy
+description: Discover the unique investment strategies of David Einhorn and Greenlight
+  Capital as they navigate the evolving financial landscape amid algorithmic trading
+  trends.
+title: David Einhorn, Founder of Greenlight Capital (Algo Trading)
 ---
 
 Hedge funds play a pivotal role in financial markets by managing large pools of capital for institutional and wealthy individual investors. Among these funds, Greenlight Capital stands out due to its distinct approach and the influence of its founder, David Einhorn. Founded in 1996, Greenlight Capital has historically emphasized value investing, a strategy focused on identifying undervalued companies and positions that others may overlook. Einhorn is renowned for his bold investment strategies, including successful short positions that have brought significant attention to his fund.

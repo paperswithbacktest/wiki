@@ -1,6 +1,9 @@
 ---
-title: "Junk Bonds Overview (Algo Trading)"
-description: "Explore the world of junk bonds and algorithmic trading. Understand the risks and rewards involved and learn how to effectively integrate them into your portfolio."
+category: quant_concept
+description: Explore the world of junk bonds and algorithmic trading. Understand the
+  risks and rewards involved and learn how to effectively integrate them into your
+  portfolio.
+title: Junk Bonds Overview (Algo Trading)
 ---
 
 Junk bonds, also known as high-yield bonds, are a category of fixed-income securities that carry a higher risk of default than investment-grade bonds. These bonds are termed "junk" because they are issued by companies with lower credit ratings, usually below "BBB" as per Standard & Poor's or "Baa" according to Moody's Investors Service. The lower credit rating is indicative of a higher likelihood of credit events such as default, making these bonds riskier investments. However, to compensate for the increased risk, junk bonds offer higher yields, making them attractive to investors seeking enhanced returns.

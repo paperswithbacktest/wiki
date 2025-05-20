@@ -1,6 +1,8 @@
 ---
-title: "Nasdaq Intermarket (Algo Trading)"
-description: "Explore the intricate world of Nasdaq's algorithmic trading systems Dive into the evolution and innovation driving high-frequency trades and market efficiency"
+category: trading_strategy
+description: Explore the intricate world of Nasdaq's algorithmic trading systems Dive
+  into the evolution and innovation driving high-frequency trades and market efficiency
+title: Nasdaq Intermarket (Algo Trading)
 ---
 
 The world of stock trading is continuously evolving with technological advancements. This evolution is significantly marked by the rise of algorithmic trading, which has become a critical component, especially on prominent exchanges like Nasdaq. Algorithmic trading involves the use of automated systems to execute trades based on pre-determined criteria, allowing for rapid response times and enhanced precision. This method is intrinsically linked with the surge in electronic trading platforms, which provide the infrastructure necessary for employing sophisticated trading algorithms.

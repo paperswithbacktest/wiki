@@ -1,6 +1,8 @@
 ---
-title: "Wilcoxon Test in Statistics: Types and Calculation (Algo Trading)"
-description: "Discover the importance of the Wilcoxon test in algo trading for analyzing non-normally distributed data and refining trading strategies effectively."
+category: quant_concept
+description: Discover the importance of the Wilcoxon test in algo trading for analyzing
+  non-normally distributed data and refining trading strategies effectively.
+title: 'Wilcoxon Test in Statistics: Types and Calculation (Algo Trading)'
 ---
 
 In today's data-driven world, statistical methods play a critical role in multiple domains, notably in finance and trading where they underpin decision-making processes and risk management strategies. Among these statistical tools, the Wilcoxon test stands out as a non-parametric method, renowned for its robustness and adaptability when dealing with non-normally distributed data. Its significance lies in its ability to provide reliable results without the stringent assumptions associated with parametric tests, such as the normality of data distribution.

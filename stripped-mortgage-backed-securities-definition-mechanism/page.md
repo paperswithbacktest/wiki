@@ -1,6 +1,9 @@
 ---
-title: "Stripped Mortgage-Backed Securities: Definition and Mechanism (Algo Trading)"
-description: "Discover the role of stripped mortgage-backed securities in finance and algorithmic trading Learn how these instruments offer investment opportunities and risks"
+category: quant_concept
+description: Discover the role of stripped mortgage-backed securities in finance and
+  algorithmic trading Learn how these instruments offer investment opportunities and
+  risks
+title: 'Stripped Mortgage-Backed Securities: Definition and Mechanism (Algo Trading)'
 ---
 
 Mortgage-backed securities (MBS) are pivotal components of the financial market, providing an essential link between borrowers and a diverse group of investors. These securities are created by bundling individual mortgage loans into large pools, which are then structured to form tradable financial instruments. This transformation has revolutionized housing finance by offering investors a compelling alternative that yields steady income streams. By extending the reach of mortgage finance, MBS have facilitated a more efficient allocation of capital and contributed to the expansion of homeownership.

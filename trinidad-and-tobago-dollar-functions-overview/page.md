@@ -1,6 +1,8 @@
 ---
-title: "Trinidad and Tobago Dollar: Functions and Overview (Algo Trading)"
-description: "Explore the role of the Trinidad and Tobago Dollar in both local and international markets. Understand its history, forex implications, and trading benefits."
+category: quant_concept
+description: Explore the role of the Trinidad and Tobago Dollar in both local and
+  international markets. Understand its history, forex implications, and trading benefits.
+title: 'Trinidad and Tobago Dollar: Functions and Overview (Algo Trading)'
 ---
 
 The Trinidad and Tobago Dollar (TTD) serves as the official currency of Trinidad and Tobago, a twin-island nation situated in the Caribbean. Designated as TTD in currency market terminologies, it plays a vital role in fueling economic activities, both within the borders of the country and on an international platform. Emerging from a robust economic backdrop largely driven by oil and gas exports, TTD is integral in transactions ranging from everyday purchases to complex international trade agreements.

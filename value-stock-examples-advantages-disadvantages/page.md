@@ -1,6 +1,8 @@
 ---
-title: "Value Stock: Definition, Examples, Advantages, and Disadvantages (Algo Trading)"
-description: "Explore value stocks and learn how they fit into algorithmic trading strategies featuring insights on benefits and drawbacks to optimize your investments."
+category: quant_concept
+description: Explore value stocks and learn how they fit into algorithmic trading
+  strategies featuring insights on benefits and drawbacks to optimize your investments.
+title: 'Value Stock: Definition, Examples, Advantages, and Disadvantages (Algo Trading)'
 ---
 
 The investment landscape has undergone profound changes with the advent of technology, particularly in trading and financial analysis. One of the most significant advancements is the use of algorithmic trading, which employs sophisticated computational algorithms to execute trades based on pre-defined criteria, thereby optimizing decision-making processes. This approach reduces the influence of human emotion, offering a systematic and efficient mechanism for engaging with financial markets.

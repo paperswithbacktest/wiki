@@ -1,6 +1,14 @@
 ---
-title: "Trading curb (Algo Trading)"
-description: Trading curbs, or circuit breakers, are vital mechanisms in financial markets designed to temporarily halt trading when significant price declines occur. These systems help maintain market stability during extreme volatility by preventing panic selling and allowing time for traders to assess information and make informed decisions. Circuit breakers are activated at set threshold levels, as seen on the NYSE with declines of 7%, 13%, and 20%. They provide necessary pause to facilitate orderly trading and protect investors from hasty market reactions, playing a crucial role in financial regulation and market integrity.
+category: quant_concept
+description: Trading curbs, or circuit breakers, are vital mechanisms in financial
+  markets designed to temporarily halt trading when significant price declines occur.
+  These systems help maintain market stability during extreme volatility by preventing
+  panic selling and allowing time for traders to assess information and make informed
+  decisions. Circuit breakers are activated at set threshold levels, as seen on the
+  NYSE with declines of 7%, 13%, and 20%. They provide necessary pause to facilitate
+  orderly trading and protect investors from hasty market reactions, playing a crucial
+  role in financial regulation and market integrity.
+title: Trading curb (Algo Trading)
 ---
 
 Trading curbs, also known as circuit breakers, are mechanisms implemented in financial markets to temporarily halt trading in response to significant price declines. These systems are crucial for maintaining market stability during periods of extreme volatility. Trading curbs aim to cool down rapid market movements, allowing traders and investors to assess information and make rational decisions, ultimately preventing panic selling that could lead to a market crash.

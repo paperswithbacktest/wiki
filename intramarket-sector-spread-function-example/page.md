@@ -1,6 +1,8 @@
 ---
-title: "Intramarket Sector Spread: Function and Example (Algo Trading)"
-description: "Explore the nuances of intramarket sector spread in algorithmic trading Learn how to leverage price differentials for strategic investment opportunities"
+category: trading_strategy
+description: Explore the nuances of intramarket sector spread in algorithmic trading
+  Learn how to leverage price differentials for strategic investment opportunities
+title: 'Intramarket Sector Spread: Function and Example (Algo Trading)'
 ---
 
 The financial markets are continuously changing arenas where both traders and investors work toward achieving optimal returns on their investments. In this dynamic environment, various trading strategies have been developed, each aimed at balancing risk with potential profit. Among these strategies, spread trading has gained significant popularity due to its potential for achieving profits through calculated risk management. Spread trading involves taking advantage of the price differentials between various financial instruments and sectors, providing a structured approach to extracting value from market movements.

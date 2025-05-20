@@ -1,6 +1,8 @@
 ---
-title: "Optimal stopping (Algo Trading)"
-description: "Optimal stopping in algo trading uses mathematical models and AI to improve trading decisions enhancing returns and minimizing risks by precise timing."
+category: quant_concept
+description: Optimal stopping in algo trading uses mathematical models and AI to improve
+  trading decisions enhancing returns and minimizing risks by precise timing.
+title: Optimal stopping (Algo Trading)
 ---
 
 Algorithmic trading requires strategic decision-making to achieve optimal financial outcomes in a competitive environment. Optimal stopping theory serves as an essential mathematical framework tailored for making pivotal trading decisions. It is a branch of mathematics that involves deciding the best time to take a particular action to optimize rewards or minimize costs. This concept is instrumental in guiding traders when to execute trades, thereby maximizing their expected returns or minimizing potential losses.

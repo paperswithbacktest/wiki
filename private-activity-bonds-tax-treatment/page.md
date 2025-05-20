@@ -1,6 +1,9 @@
 ---
-title: "Private Activity Bonds and Tax Treatment (Algo Trading)"
-description: "Explore Private Activity Bonds their tax treatment and the impact of algorithmic trading. Understand these complex financial instruments for better investment strategies."
+category: quant_concept
+description: Explore Private Activity Bonds their tax treatment and the impact of
+  algorithmic trading. Understand these complex financial instruments for better investment
+  strategies.
+title: Private Activity Bonds and Tax Treatment (Algo Trading)
 ---
 
 Municipal bonds and Private Activity Bonds (PABs) are critical instruments in the landscape of public and private financing. These bonds serve as vital conduits for channeling investments into projects that deliver societal benefits, such as infrastructure enhancement, educational facilities, and health care development. The distinctive feature of municipal bonds, particularly their tax-exempt status, poses interesting opportunities for investors, primarily those situated in higher tax brackets. Understanding the tax treatment associated with these bonds is paramount for investors who wish to optimize their portfolio returns and minimize liabilities.

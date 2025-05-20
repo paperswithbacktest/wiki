@@ -1,6 +1,8 @@
 ---
-title: "Short Put Hedging Strategies in Trading (Algo Trading)"
-description: "Explore the integration of short put hedging strategies in algorithmic trading for enhanced risk management and trading efficiency in financial markets."
+category: trading_strategy
+description: Explore the integration of short put hedging strategies in algorithmic
+  trading for enhanced risk management and trading efficiency in financial markets.
+title: Short Put Hedging Strategies in Trading (Algo Trading)
 ---
 
 The evolution of trading methodologies in recent years can be largely attributed to the integration of algorithmic solutions and the development of advanced derivatives. Among these innovations, strategies such as hedging with short puts have emerged as significant tools for managing risk in financial markets. This article focuses on the utilization of short put options within the framework of algorithmic trading, highlighting how these strategies enhance trading efficiency and risk management.

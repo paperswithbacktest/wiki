@@ -1,6 +1,9 @@
 ---
-title: "Trilateral Commission: Overview, History, Criticism (Algo Trading)"
-description: "Explore the influence of the Trilateral Commission on global policies and its role in algorithmic trading. Discover insights into economic strategies shaped by think tanks."
+category: quant_concept
+description: Explore the influence of the Trilateral Commission on global policies
+  and its role in algorithmic trading. Discover insights into economic strategies
+  shaped by think tanks.
+title: 'Trilateral Commission: Overview, History, Criticism (Algo Trading)'
 ---
 
 In the increasingly interconnected world, geopolitical organizations and think tanks play a critical role in shaping global policies. Among these influential entities is the Trilateral Commission, a non-governmental forum that has become pivotal in discussing international policy issues. Established in 1973, the Commission acts as a platform facilitating cooperation among North America, Europe, and Asia-Pacific, addressing global challenges and promoting dialogue among business leaders, academics, and non-profit organizations.

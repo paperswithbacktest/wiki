@@ -1,6 +1,9 @@
 ---
-title: "Methods for Analyzing Marijuana Stocks (Algo Trading)"
-description: "Discover effective strategies for investing in marijuana stocks with insights on risk management and algorithmic trading to optimize returns in a volatile market."
+category: trading_strategy
+description: Discover effective strategies for investing in marijuana stocks with
+  insights on risk management and algorithmic trading to optimize returns in a volatile
+  market.
+title: Methods for Analyzing Marijuana Stocks (Algo Trading)
 ---
 
 The marijuana industry has rapidly emerged as an arena of significant interest among investors, primarily due to the expansive growth opportunities it presents. This burgeoning sector comprises various players engaged in both the medical and recreational marijuana markets. Projections indicate substantial increases in market size, driven by widespread legalization efforts and growing acceptance of cannabis products. This environment has naturally attracted investors seeking to capitalize on the industry's potential for explosive growth.
@@ -184,4 +187,3 @@ In conclusion, while marijuana stocks offer promising growth avenues, they deman
     - **Seeking Alpha's Cannabis Section** - A collection of articles discussing trends and strategies in marijuana stock investments.
 
 These resources provide a diverse range of information and tools to aid in understanding and optimizing investment strategies for marijuana stocks using algorithmic trading.
-

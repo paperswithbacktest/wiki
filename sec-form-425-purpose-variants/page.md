@@ -1,6 +1,8 @@
 ---
-title: "SEC Form 425: Purpose and Variants (Algo Trading)"
-description: "Explore the importance of SEC Form 425 in mergers and acquisitions for transparency and its impact on algorithmic trading strategies in financial markets."
+category: quant_concept
+description: Explore the importance of SEC Form 425 in mergers and acquisitions for
+  transparency and its impact on algorithmic trading strategies in financial markets.
+title: 'SEC Form 425: Purpose and Variants (Algo Trading)'
 ---
 
 The world of finance is a complex and dynamic environment where understanding regulatory frameworks is crucial. One crucial aspect of these frameworks is the communication filings mandated by the Securities and Exchange Commission (SEC). Among these, SEC Form 425 stands out as a vital document that companies file during business combination transactions, such as mergers and acquisitions (M&A). This form is essential for ensuring transparency and fairness, informing investors about the critical details of such transactions.

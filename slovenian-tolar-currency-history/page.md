@@ -1,6 +1,8 @@
 ---
-title: "Slovenian Tolar: Currency History (Algo Trading)"
-description: "Explore the history of the Slovenian Tolar and its impact on Slovenia's economy, along with the rise of algorithmic trading in modern financial markets."
+category: quant_concept
+description: Explore the history of the Slovenian Tolar and its impact on Slovenia's
+  economy, along with the rise of algorithmic trading in modern financial markets.
+title: 'Slovenian Tolar: Currency History (Algo Trading)'
 ---
 
 The Slovenian Tolar, serving as Slovenia's official currency from 1991 until 2006, marks a significant chapter in the country's economic history. This article covers the trajectory of the Tolar and its eventual replacement by the Euro, highlighting the currency's influence on Slovenia's economic landscape. A discussion follows on the role of algorithmic trading in contemporary Slovenian financial markets.

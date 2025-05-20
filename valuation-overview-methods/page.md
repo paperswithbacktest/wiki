@@ -1,6 +1,9 @@
 ---
-title: "Valuation: Overview and Methods (Algo Trading)"
-description: "Explore how valuation techniques intersect with algorithmic trading to enhance profitability and manage risk providing essential market insights for strategic decisions."
+category: quant_concept
+description: Explore how valuation techniques intersect with algorithmic trading to
+  enhance profitability and manage risk providing essential market insights for strategic
+  decisions.
+title: 'Valuation: Overview and Methods (Algo Trading)'
 ---
 
 Business valuation is a fundamental process that determines the economic value of a company or asset, providing essential insights into a company's market position. Various valuation methods are available, each offering distinctive perspectives on a company's worth. These methods are crucial not only for financial reporting but also for transactions such as mergers and acquisitions, and strategic decision-making in business environments.
