@@ -12,7 +12,7 @@ description: Explore the captivating journey of Turtle Trading, a systematic and
 title: Modernising the Turtle Trading Strategy for Today’s Markets
 ---
 
-![Image](images/1.jpeg)
+![Image](images/1.png)
 
 The classic **Turtle Trading** strategy, born in the 1980s experiment by Richard Dennis, relied on simple price breakouts and strict rules. It turned novice “turtles” into profitable traders by following mechanical entries (e.g. buying 20-day highs) and exits (e.g. selling on 10-day lows) across diversified markets. Decades later, markets have evolved – we have faster electronic trading, new asset classes (like crypto), and more algos hunting breakouts. In this article, we walk through how to **modernize the Turtle Trading strategy** for today’s market conditions. We’ll briefly recap the original rules, then show how **algorithmic enhancements** (like code-driven backtesting) and **parameter tuning** (adjusting breakout periods or adding filters) can adapt the strategy to modern dynamics. The tone here is casual and accessible – whether you’re a beginner or advanced trader, you’ll get insights into bringing a classic trend strategy into 2025.
 
@@ -33,6 +33,8 @@ By rigorously applying these principles, the Turtles were able to make significa
 
 ## Core Principles of Turtle Trading
 
+![Image](images/2.png)
+
 Turtle Trading, introduced by Richard Dennis and William Eckhardt, is a systematic approach rooted in a trend-following methodology. It primarily involves buying into markets that are exhibiting upward trends and selling in those showing downward trends. This method capitalizes on market momentum, aiming to profit from significant trends by following predefined rules for market entry and [exit](/wiki/exit-strategy).
 
 Central to the Turtle Trading strategy are these predefined rules, which dictate how traders respond to price breakouts and market [volatility](/wiki/volatility-trading-strategies). Price breakouts are identified when the current market price exceeds the highest high or falls below the lowest low of a specified period. This triggers entry signals, with traders buying when prices rise above recent highs and selling when prices drop below recent lows. This systematic approach ensures consistency, removing emotional or subjective decision-making in trading practices.
@@ -50,6 +52,8 @@ A cornerstone of the Turtle Trading philosophy is psychological discipline. The 
 By combining structured entry and exit protocols, a robust risk management system, and unwavering psychological discipline, Turtle Trading remains a powerful strategy in achieving sustainable profitability through trend-following.
 
 ## Mechanisms of Turtle Trading Strategies
+
+![Image](images/3.png)
 
 Turtle Trading mechanisms are primarily based on [breakout](/wiki/breakout-trading) systems and volatility-based position sizing, providing a structured approach to capturing market trends. This systematic methodology was designed to minimize risk and maximize potential returns through disciplined trading practices.
 
@@ -186,6 +190,8 @@ print(f"Modern Turtle final value:   ${cerebro.broker.getvalue():.2f}")
 In this example segment, you can see the **20-day High** (orange dashes) and **20-day Low** (pink dashes) moving up as the stock rallies. The modern strategy went long on the breakout (first green triangle) once price hit a new high *and* was above the 50-day MA. It then exited on a dip below the 10-day low (red downward triangle), locking in profit before the larger downtrend. When the market reversed upward again, a new breakout entry was taken. By contrast, an unfiltered strategy might have **entered earlier** on some of those dashed-line breakouts but also **stayed longer** into the downturn (giving back gains).
 
 ## Practical Takeaways
+
+![Image](images/4.png)
 
 Modernizing a classic doesn’t mean reinventing the wheel – often it’s about subtle tweaks and harnessing computing power:
 
