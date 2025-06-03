@@ -124,15 +124,25 @@ Each of these is a piece of the broader theme: **seasonality in markets**. Some 
 
 To rigorously determine whether a calendar effect is real and significant, researchers use a variety of statistical techniques:
 
-* **Mean Return Comparisons:** A simple approach is to calculate the average return during the supposed anomaly periods versus the rest of the time. For example, average daily return on Mondays vs. all other days, or average January return vs. returns of other months. A *t-test* can assess if the difference in means is statistically significant. Early studies like Rozeff & Kinney (1976) used such comparisons to show January’s mean return was significantly higher than other months.
+**Mean Return Comparisons:**
 
-* **Dummy Variable Regressions:** As mentioned for the day-of-week effect, regression models with dummy variables for each time period allow testing the significance of each calendar indicator while controlling for overall market drift. For instance, a regression of daily returns on Monday, Tuesday, … Friday dummies (with one omitted) will yield coefficients that tell us the average excess return for each day-of-week compared to baseline. Similarly, one can include a January dummy in a regression of monthly returns to test the January effect, or dummies for turn-of-month days in a regression of daily returns. If the dummy’s coefficient is statistically different from zero (using standard errors or a bootstrap), that indicates an anomaly.
+A simple approach is to calculate the average return during the supposed anomaly periods versus the rest of the time. For example, average daily return on Mondays vs. all other days, or average January return vs. returns of other months. A *t-test* can assess if the difference in means is statistically significant. Early studies like Rozeff & Kinney (1976) used such comparisons to show January’s mean return was significantly higher than other months.
 
-* **ANOVA / Seasonality Tests:** Analysis of variance can check if variability in returns is significantly explained by the calendar grouping (e.g., between-month variance vs within-month variance).
+**Dummy Variable Regressions:**
 
-* **Non-parametric Tests:** Because return distributions are not perfectly normal, non-parametric tests (like the Wilcoxon rank-sum test or a signs test) are also used to verify anomalies (for example, testing if the probability of a positive return is higher on Fridays than other days).
+As mentioned for the day-of-week effect, regression models with dummy variables for each time period allow testing the significance of each calendar indicator while controlling for overall market drift. For instance, a regression of daily returns on Monday, Tuesday, … Friday dummies (with one omitted) will yield coefficients that tell us the average excess return for each day-of-week compared to baseline. Similarly, one can include a January dummy in a regression of monthly returns to test the January effect, or dummies for turn-of-month days in a regression of daily returns. If the dummy’s coefficient is statistically different from zero (using standard errors or a bootstrap), that indicates an anomaly.
 
-* **Data Mining Corrections:** A crucial concern is that with so many possible calendar patterns to test, one might find an “anomaly” by pure chance (the multiple comparisons problem). Modern research often applies **data-snooping adjustments** (e.g., Bonferroni corrections) or advanced methods like the **Sullivan, Timmermann, and White (STW) bootstrap reality check** to ensure the effect is not a false discovery. Hansen, Lunde, and Nason (2003) proposed a robust test that **controls for all possible calendar effects simultaneously** to avoid spurious significance. They use a bootstrap methodology conditioned on each specific effect to achieve this. The result of such rigorous testing has been that some reported anomalies failed to pass the data-snooping hurdle, while others (notably turn-of-the-month and some holiday effects) remained significant across many markets.
+**ANOVA / Seasonality Tests:**
+
+Analysis of variance can check if variability in returns is significantly explained by the calendar grouping (e.g., between-month variance vs within-month variance).
+
+**Non-parametric Tests:**
+
+Because return distributions are not perfectly normal, non-parametric tests (like the Wilcoxon rank-sum test or a signs test) are also used to verify anomalies (for example, testing if the probability of a positive return is higher on Fridays than other days).
+
+**Data Mining Corrections:**
+
+A crucial concern is that with so many possible calendar patterns to test, one might find an “anomaly” by pure chance (the multiple comparisons problem). Modern research often applies **data-snooping adjustments** (e.g., Bonferroni corrections) or advanced methods like the **Sullivan, Timmermann, and White (STW) bootstrap reality check** to ensure the effect is not a false discovery. Hansen, Lunde, and Nason (2003) proposed a robust test that **controls for all possible calendar effects simultaneously** to avoid spurious significance. They use a bootstrap methodology conditioned on each specific effect to achieve this. The result of such rigorous testing has been that some reported anomalies failed to pass the data-snooping hurdle, while others (notably turn-of-the-month and some holiday effects) remained significant across many markets.
 
 In practice, quantitative analysts will often perform an *in-sample analysis* to detect a calendar pattern and then verify it *out-of-sample* or on a more recent dataset to check persistence. It’s also common to use **visual tools** – for example, plotting the cumulative return of an “anomaly strategy” over time. If a strategy that is long during anomaly periods and in cash otherwise shows a steadily rising equity curve (especially out-of-sample), that lends credence to the effect’s robustness. Many of the datasets on PapersWithBacktest (such as long-run equity index returns) are well-suited for such analyses, and the platform’s tools allow users to backtest these seasonal strategies with statistical rigor.
 

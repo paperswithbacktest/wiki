@@ -12,9 +12,10 @@ To a beginner, the bid-ask spread might just seem like “pennies” difference,
 
 ## Table of Contents
 
-![Image](images/spreads.png)
 
 ## Types of Bid-Ask Spreads
+
+![Image](images/spreads.png)
 
 When discussing the types of bid-ask spreads, it's essential to understand three key variations: quoted spread, effective spread, and realized spread, as each offers distinct insights into market behavior and transaction costs.
 
