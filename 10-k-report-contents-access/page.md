@@ -6,6 +6,8 @@ description: The significance of the SEC 10-K report for both traditional
 title: 'What’s Inside a 10-K Report: A Complete Guide to Reading and Accessing SEC Filings'
 ---
 
+![Image](images/10k-apple.png)
+
 
 ## Table of Contents
 
@@ -13,8 +15,6 @@ title: 'What’s Inside a 10-K Report: A Complete Guide to Reading and Accessing
 
 A **Form 10-K** is an annual report that U.S. public companies must file with the Securities and Exchange Commission (SEC). It provides a comprehensive overview of a company’s business, financial performance, and risks for the fiscal year. Although often simply called an “annual report,” the 10-K is a specific regulatory filing distinct from the glossy shareholder reports companies may send to investors. In essence, the 10-K is the authoritative source for detailed information about a company’s operations and financial results, intended to give investors, analysts, and the public a complete picture of the company’s condition.
 
-
-![Image](images/10k-apple.png)
 
 **Who uses 10-Ks?**
 
@@ -24,9 +24,7 @@ Companies must file the 10-K shortly after their fiscal year ends (typically wit
 
 Below, we’ll dive deeper into **the structure of a 10-K**, explain how to interpret each major section, provide practical examples of how 10-K information is used in analysis, and outline how to access 10-K filings (manually via SEC EDGAR or programmatically via APIs and tools). We’ll also introduce some techniques for parsing 10-K data (including Python and natural language processing methods) for those looking to analyze reports at scale.
 
-## Structure of a 10-K: Key Sections Explained
-
-![Image](images/10k-report.png)
+## Structure of a 10-K
 
 Every 10-K report is organized into several **parts** and **items** as defined by SEC regulations. The major components include:
 
@@ -34,6 +32,8 @@ Every 10-K report is organized into several **parts** and **items** as defined b
 * **Part II: Financial Performance** – Contains Item 7 **Management’s Discussion & Analysis (MD\&A)** and Item 8 **Financial Statements**, among other financial disclosures.
 * **Part III: Management & Governance** – Contains details often incorporated from the proxy statement, such as executive compensation and corporate governance (Items 10–14).
 * **Part IV: Exhibits and Signatures** – Includes Item 15, which lists **exhibits, financial statement schedules**, and the signatures of officers and directors.
+
+![Image](images/10k-report.png)
 
 Let’s break down the **key sections** of a 10-K and what you can learn from each:
 
@@ -60,7 +60,7 @@ For investors and analysts, this section is crucial for **identifying what could
 * Many risk factors use boilerplate language (legal wording) and may appear similar across companies (e.g., most companies mention competition and macroeconomic conditions). Focus on anything unique or specific in the wording that might indicate a particularly acute risk.
 * Changes year-over-year in this section are telling. If a new risk appears or a risk moves higher in priority, it may reflect emerging issues. (For instance, after 2020, many companies added pandemic-related risks that were absent before.)
 
-**Practical tip:** Don’t be overwhelmed by the length of this section – even though it can span many pages. Read it for a **holistic understanding of vulnerabilities**. Are there regulatory risks (like dependence on government contracts or pending legislation)? Is the business heavily reliant on one customer or supplier? For example, **Apple’s 10-K risk factors** include the dependence on third-party manufacturers in Asia; this highlights a supply chain concentration risk that analysts would factor into their evaluation of Apple’s operational stability. Investors sometimes summarize risk factors into categories (strategic, financial, operational, etc.) to assess which areas pose the greatest threat to the company’s outlook.
+Don’t be overwhelmed by the length of this section – even though it can span many pages. Read it for a **holistic understanding of vulnerabilities**. Are there regulatory risks (like dependence on government contracts or pending legislation)? Is the business heavily reliant on one customer or supplier? For example, **Apple’s 10-K risk factors** include the dependence on third-party manufacturers in Asia; this highlights a supply chain concentration risk that analysts would factor into their evaluation of Apple’s operational stability. Investors sometimes summarize risk factors into categories (strategic, financial, operational, etc.) to assess which areas pose the greatest threat to the company’s outlook.
 
 ### Item 7 – Management’s Discussion and Analysis (MD\&A)
 
@@ -98,7 +98,7 @@ The financial statements are the quantitative heart of the 10-K. They allow anal
 
 Because the financials are audited, they carry a high level of credibility. A quick check is to see the auditor’s opinion – an *“unqualified” opinion (no reservations)* is what you want to see. If there are any flags like a “going concern” warning (auditor expressing doubt about the company’s ability to continue business), that’s extremely important. Also, item 9A (Controls and Procedures) in Part II will state whether any material weaknesses in financial reporting were found.
 
-**Note:** Previously, 10-Ks also included an **Item 6: Selected Financial Data**, which was a 5-year summary of key financial figures. As of 2021, the SEC no longer requires this section (it was eliminated to reduce redundancy). Some companies still voluntarily provide a five-year summary in their annual reports, but if you don’t see an Item 6 in a recent 10-K, that is normal under the updated rules.
+Previously, 10-Ks also included an **Item 6: Selected Financial Data**, which was a 5-year summary of key financial figures. As of 2021, the SEC no longer requires this section (it was eliminated to reduce redundancy). Some companies still voluntarily provide a five-year summary in their annual reports, but if you don’t see an Item 6 in a recent 10-K, that is normal under the updated rules.
 
 ### Other Items in the 10-K
 
