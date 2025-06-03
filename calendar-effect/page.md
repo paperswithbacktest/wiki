@@ -1,14 +1,6 @@
 ---
 category: quant_concept
-description: Discover the intriguing world of calendar effects in algorithmic trading,
-  where predictable patterns in financial markets linked to specific calendar periods
-  are explored. These patterns, such as the January and weekend effects, challenge
-  the efficient-market hypothesis and offer potential insights into market behaviors.
-  By understanding these temporal anomalies, algorithmic trading strategies can be
-  crafted to anticipate market movements, potentially enhancing profits. This article
-  investigates into the causes, debates, and practical applications of calendar effects
-  in trading, providing a comprehensive guide for traders seeking to leverage these
-  patterns for optimized returns.
+description: Market seasonality decoded: turn-of-the-month, Halloween effect, and more.
 title: Calendar Effects in Financial Markets
 ---
 
