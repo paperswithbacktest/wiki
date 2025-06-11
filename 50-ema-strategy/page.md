@@ -1,11 +1,7 @@
 ---
 category: trading_strategy
-description: Discover how the 50 EMA strategy can enhance your algorithmic trading
-  approach by effectively identifying market trends and generating actionable buy
-  and sell signals. Understand its benefits for smoothing price fluctuations and balancing
-  simplicity with adaptability to achieve optimal trading performance in various market
-  conditions.
-title: 50 EMA Trading Strategy – A Practical Guide
+description: A Practical Guide to enhance your algorithmic trading.
+title: 50 EMA Trading Strategy
 ---
 
 

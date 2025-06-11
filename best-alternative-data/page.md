@@ -1,9 +1,7 @@
 ---
 category: dataset
-description: The best alternative data sources for quant trading in 2025,
-  from the types of data and top providers to integration techniques,
-  compliance considerations, and emerging trends shaping the future of this fast-growing field
-title: Best Alternative Data Sources for Quant Traders in 2025
+description: The best alternative data sources for quant trading in 2025.
+title: Best Alternative Data Sources in 2025
 ---
 
 ![Alternative data](images/alternative-data.png)

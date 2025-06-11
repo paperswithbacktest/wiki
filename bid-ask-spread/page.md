@@ -1,7 +1,7 @@
 ---
 category: quant_concept
 description: Why the bid-ask spread eats your profits, and how to beat it.
-title: "Bid-Ask Spread: The Basics, Microstructure, and Trading Impact"
+title: "Bid-Ask Spread Microstructure"
 ---
 
 ![Image](images/1.jpeg)

@@ -1,11 +1,6 @@
 ---
 category: trading_strategy
-description: Discover the All Weather Portfolio, a comprehensive investment strategy
-  designed to balance risk and reward across various asset classes. Originally developed
-  by Ray Dalio of Bridgewater Associates, this approach aims for consistent returns
-  in any economic climate by diversifying assets like stocks, bonds, commodities,
-  and gold. Enhance your portfolio with algorithmic trading strategies for optimal
-  performance.
+description: Enhance your portfolio with Ray Dalio of Bridgewater Associates.
 title: All Weather Portfolio and Algo Trading
 ---
 

@@ -1,9 +1,7 @@
 ---
 category: quant_concept
-description: From top-down vs bottom-up analysis
-  to qualitative and quantitative fundamentals, discover the importance of this approach
-  for optimizing trading strategies and maximizing returns.
-title: "Fundamental Analysis: Principles, Methods, and Real‑World Applications"
+description: From top-down vs bottom-up analysis to qualitative and quantitative fundamentals.
+title: "Fundamental Analysis, and Real‑World Applications"
 ---
 
 

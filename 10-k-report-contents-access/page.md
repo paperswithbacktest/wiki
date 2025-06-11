@@ -1,9 +1,7 @@
 ---
 category: dataset
-description: The significance of the SEC 10-K report for both traditional
-  and algorithmic trading. How to unlock key insights into financial health and strategic
-  advantage.
-title: 'What’s Inside a 10-K Report: A Complete Guide to Reading and Accessing SEC Filings'
+description: A complete guide to reading and accessing SEC Filings.
+title: 'What’s Inside a 10-K Report'
 ---
 
 ![Image](images/10k-apple.png)

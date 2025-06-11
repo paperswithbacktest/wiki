@@ -1,8 +1,7 @@
 ---
 category: quant_concept
-description: K-fold cross-validation is a key technique in machine learning used to
-  evaluate predictive models by dividing data into 'k' subsets or folds.
-title: "K-Fold Cross-Validation: Theory, Implementation, and Best Practices"
+description: K-fold cross-validation to evaluate predictive models.
+title: "K-Fold Cross-Validation: Best Practices"
 ---
 
 

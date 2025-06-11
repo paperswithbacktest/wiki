@@ -1,8 +1,7 @@
 ---
 category: dataset
-description: Tick data is essential in algorithmic trading, providing detailed real-time
-  insights into financial markets by recording every trade and price movement.
-title: "Tick Data 101: A Complete Guide for Traders and Quants"
+description: Tick data is essential in algorithmic trading, recording every trade and price movement.
+title: "Tick Data 101: A Complete Guide"
 ---
 
 ![Image](images/tick.png)

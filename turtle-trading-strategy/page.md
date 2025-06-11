@@ -1,15 +1,7 @@
 ---
 category: trading_strategy
-description: Explore the captivating journey of Turtle Trading, a systematic and trend-following
-  strategy that revolutionized algorithmic trading. Born from an experiment in the
-  1980s by Richard Dennis and William Eckhardt, Turtle Trading proved that trading
-  skills could be taught. This article investigates into its roots, principles, and
-  modern adaptations where the methodology thrives in today's data-driven markets.
-  Discover insights into how a well-structured approach enables automated trading
-  with precision, leveraging big data analytics and high-frequency platforms to capture
-  market trends effectively. Ideal for traders seeking disciplined, rule-based strategies
-  for long-term success.
-title: Modernising the Turtle Trading Strategy for Today’s Markets
+description: Turtle Trading, a systematic and trend-following strategy that revolutionized algorithmic trading.
+title: Modernising the Turtle Trading Strategy
 ---
 
 ![Image](images/1.png)

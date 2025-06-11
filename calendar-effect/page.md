@@ -1,6 +1,6 @@
 ---
 category: quant_concept
-description: "Market seasonality decoded: turn-of-the-month, Halloween effect, and more."
+description: "Turn-of-the-month, Halloween effect, and more."
 title: Calendar Effects in Financial Markets
 ---
 
