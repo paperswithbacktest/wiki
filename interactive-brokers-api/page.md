@@ -29,7 +29,7 @@ The Trader Workstation (TWS) API is Interactive Brokers' proprietary, open-sourc
 
 One of the distinct advantages of the TWS API is its extensive support for various programming languages. It caters to a wide range of developers by providing bindings for languages such as Java, C++, C#, Python, and more. This vast language support ensures that developers can integrate and build applications in an environment they are most comfortable with, [minimizing the learning curve](https://paperswithbacktest.com/[course](/wiki/best-algorithmic-trading-courses)) and speeding up development.
 
-In terms of development environments, the TWS API is versatile. Whether one is building standalone applications, web-based platforms, or even [algorithmic trading](/wiki/algorithmic-trading) systems, the API's comprehensive documentation and code samples cater to a wide range of use cases, ensuring adaptability in different scenarios.
+In terms of development environments, the TWS API is versatile. Whether one is building standalone applications, web-based platforms, or even algorithmic trading systems, the API's comprehensive documentation and code samples cater to a wide range of use cases, ensuring adaptability in different scenarios.
 
 But what truly sets the TWS API apart from other APIs in the market is its depth and breadth of functionality. Traders can automate tasks ranging from order submission, portfolio management, to accessing real-time and [historical market data](https://paperswithbacktest.com/datasets). Its tight integration with the TWS platform ensures that users have a seamless experience, where manual and automated operations can coexist. Additionally, the fact that it's open-source ensures transparency, allowing traders and developers to scrutinize the codebase, adapt it to their needs, and even contribute to its improvement.
 
@@ -137,7 +137,7 @@ Interactive Brokers, with its extensive API, has paved the way for third-party p
 
 **Quodd**: A platform known for its real-time streaming data, Quodd's integration with Interactive Brokers ensures traders get a fast, reliable data stream, which is crucial for day trading and scalping strategies.
 
-It's essential to recognize that the best platform is subjective and depends on individual trading needs. Whether it's advanced charting, high-frequency trading, [[backtesting](/wiki/backtesting)](https://blog.paperswithbacktest.com/p/backtesting-a-trading-strategy-on), or automation, there's likely a third-party platform integrated with Interactive Brokers that caters to those specific needs. Always trial a platform first, ensuring it aligns with your strategies and requirements, before fully diving in.
+It's essential to recognize that the best platform is subjective and depends on individual trading needs. Whether it's advanced charting, high-frequency trading, [backtesting](https://blog.paperswithbacktest.com/p/backtesting-a-trading-strategy-on), or automation, there's likely a third-party platform integrated with Interactive Brokers that caters to those specific needs. Always trial a platform first, ensuring it aligns with your strategies and requirements, before fully diving in.
 
 ## Diving Deep with Python
 
@@ -573,7 +573,7 @@ Financial instruments, in the context of trading platforms like Interactive Brok
 
 **Warrants**: Similar to options, warrants provide the holder the right but not the obligation to purchase a stock at a specific price before expiration. They are often issued by the company itself.
 
-When engaging with Interactive Brokers, understanding the nuances and specifications of each instrument is crucial. For instance, options come with expiration dates, and futures might have delivery obligations. Cryptocurrencies, still a nascent field, can be subject to high [volatility](/wiki/volatility-trading-strategies) and regulatory scrutiny in various jurisdictions.
+When engaging with Interactive Brokers, understanding the nuances and specifications of each instrument is crucial. For instance, options come with expiration dates, and futures might have delivery obligations. Cryptocurrencies, still a nascent field, can be subject to high volatility and regulatory scrutiny in various jurisdictions.
 
 ### Market Data
 

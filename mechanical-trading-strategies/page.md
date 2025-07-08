@@ -121,7 +121,7 @@ Developing a robust mechanical trading system is as much an art as it is science
 
 Diversification has long been heralded as a cornerstone of investment strategy, as championed by Nobel laureate Harry Markowitz's Modern Portfolio Theory[6]. In mechanical trading, diversification's power isn't just about asset classes; it extends to trading across multiple markets and leveraging varied strategies.
 
-Trading across different markets, whether they are geographically diverse stock exchanges, different asset classes like commodities, equities, or [forex](/wiki/forex-system), or even distinct sectors within an economy, can provide insulation against localized economic shocks or market anomalies. For instance, while tech stocks might face a downturn, agricultural commodities could be on an upswing, creating opportunities for traders. Furthermore, markets have varied levels of [liquidity](/wiki/liquidity-risk-premium), trading hours, and [volatility](/wiki/volatility-trading-strategies), offering an assortment of risk and reward profiles.
+Trading across different markets, whether they are geographically diverse stock exchanges, different asset classes like commodities, equities, or [forex](/wiki/forex-system), or even distinct sectors within an economy, can provide insulation against localized economic shocks or market anomalies. For instance, while tech stocks might face a downturn, agricultural commodities could be on an upswing, creating opportunities for traders. Furthermore, markets have varied levels of [liquidity](/wiki/liquidity-risk-premium), trading hours, and volatility, offering an assortment of risk and reward profiles.
 
 Similarly, employing multiple strategies offers another layer of diversification. Consider the difference between trend-following strategies and mean reversion strategies. While trend-followers bank on the continuation of existing market movements, mean reversion strategies bet on price corrections back to an average or equilibrium. Using both strategies in tandem means that a trader can profit from markets that are both trending and range-bound.
 
@@ -185,7 +185,7 @@ However, as we move towards this era of AI-driven mechanical trading, challenges
 
 Moreover, the rapid integration of AI in trading raises concerns about market stability. As more AI-driven models operate simultaneously, they could, under certain conditions, amplify market volatility or even lead to flash crashes.
 
-Looking ahead, the convergence of quantum computing and trading is on the horizon. Quantum computers, with their superior processing capabilities, can further revolutionize [algorithmic trading](/wiki/algorithmic-trading) by solving complex problems in seconds and optimizing trading strategies in real-time.
+Looking ahead, the convergence of quantum computing and trading is on the horizon. Quantum computers, with their superior processing capabilities, can further revolutionize algorithmic trading by solving complex problems in seconds and optimizing trading strategies in real-time.
 
 In sum, while the fusion of AI & ML with mechanical trading offers unprecedented opportunities, it's imperative for traders and institutions to be aware of the associated challenges. By addressing these challenges head-on and continuously adapting, the future of mechanical trading appears both promising and exciting.
 

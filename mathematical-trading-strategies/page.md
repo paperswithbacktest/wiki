@@ -41,9 +41,9 @@ $$
 
 subject to $\mathbf{w}^T \mathbf{1} = 1$, where $\mathbf{w}$ is the weight vector of assets, $\Sigma$ is the covariance matrix of returns, and $\mathbf{r}$ is the expected return vector. Solutions to these linear equations determine the allocation of assets that balance risk and return efficiently.
 
-Moreover, mathematical models are indispensable for [backtesting](/wiki/backtesting) strategies against historical data, ensuring their robustness and profitability before implementation in live trading. Backtesting involves applying a trading strategy to historical market data to assess how it would have performed. This process relies heavily on mathematical computations to simulate past conditions, evaluate strategy returns, and refine model parameters for optimal results.
+Moreover, mathematical models are indispensable for backtesting strategies against historical data, ensuring their robustness and profitability before implementation in live trading. Backtesting involves applying a trading strategy to historical market data to assess how it would have performed. This process relies heavily on mathematical computations to simulate past conditions, evaluate strategy returns, and refine model parameters for optimal results.
 
-In summary, mathematical principles are woven into the fabric of [algorithmic trading](/wiki/algorithmic-trading), providing the analytical tools necessary to decode the complexities of financial markets. By leveraging [statistics](/wiki/bayesian-statistics), probability theory, and linear algebra, traders can craft strategies that not only fathom market dynamics but also optimize trading efficiency and profitability.
+In summary, mathematical principles are woven into the fabric of algorithmic trading, providing the analytical tools necessary to decode the complexities of financial markets. By leveraging [statistics](/wiki/bayesian-statistics), probability theory, and linear algebra, traders can craft strategies that not only fathom market dynamics but also optimize trading efficiency and profitability.
 
 ## Mathematical Models and Techniques in Algorithmic Trading
 
