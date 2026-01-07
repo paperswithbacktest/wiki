@@ -6,7 +6,7 @@ title: Modernising the Turtle Trading Strategy
 
 ![Image](images/1.png)
 
-The classic **Turtle Trading** strategy, born in the 1980s experiment by Richard Dennis, relied on simple price breakouts and strict rules. It turned novice “turtles” into profitable traders by following mechanical entries (e.g. buying 20-day highs) and exits (e.g. selling on 10-day lows) across diversified markets. Decades later, markets have evolved – we have faster electronic trading, new asset classes (like crypto), and more algos hunting breakouts. In this article, we walk through how to **modernize the Turtle Trading strategy** for today’s market conditions. We’ll briefly recap the original rules, then show how **algorithmic enhancements** (like code-driven backtesting) and **parameter tuning** (adjusting breakout periods or adding filters) can adapt the strategy to modern dynamics. The tone here is casual and accessible – whether you’re a beginner or advanced trader, you’ll get insights into bringing a classic trend strategy into 2025.
+The classic **Turtle Trading** strategy, born in the 1980s experiment by Richard Dennis, relied on simple price breakouts and strict rules. It turned novice “turtles” into profitable traders by following mechanical entries (e.g. buying 20-day highs) and exits (e.g. selling on 10-day lows) across diversified markets. Decades later, markets have evolved – we have faster electronic trading, new asset classes (like crypto), and more algos hunting breakouts. In this article, we walk through how to **modernize the Turtle [Trading strategy](/course/williams-r-trading-strategy)** for today’s market conditions. We’ll briefly recap the original rules, then show how **algorithmic enhancements** (like code-driven backtesting) and **parameter tuning** (adjusting breakout periods or adding filters) can adapt the strategy to modern dynamics. The tone here is casual and accessible – whether you’re a beginner or advanced trader, you’ll get insights into bringing a classic trend strategy into 2025.
 
 ## Table of Contents
 
@@ -17,11 +17,11 @@ Turtle Trading originated in the 1980s as part of an experiment conceived by vet
 
 To test these theories, Dennis and Eckhardt conducted an innovative experiment. They recruited a diverse group of people from various backgrounds and levels of trading experience. These individuals came to be known as the 'Turtles,' inspired by Dennis's visit to a turtle farm in Singapore, where he had an epiphany that traders could be cultivated just as turtles were farmed.
 
-The Turtles were introduced to a systematic, rules-based approach to trading, which marked a significant departure from the discretionary methods many traders employed at the time. This methodology focused on trend-following strategies, a concept Dennis himself had successfully implemented in his trading career. 
+The Turtles were introduced to a systematic, rules-based approach to trading, which marked a significant departure from the discretionary methods many traders employed at the time. This methodology focused on trend-following [strategies](/strategies), a concept Dennis himself had successfully implemented in his trading career. 
 
 The rules imparted to the Turtles were clear-cut and designed to eliminate emotional decision-making, which generally impairs trading consistency. Central to this strategy was the premise of buying into markets exhibiting upward trends and selling short when evidence of downward trends appeared, aligning trades with the broader market momentum.
 
-By rigorously applying these principles, the Turtles were able to make significant profits, providing strong evidence in favor of Dennis's hypothesis that trading could indeed be taught. The success of the Turtle Trading Strategy demonstrated the effectiveness of a structured, disciplined approach to the markets and incited a broader acceptance of systematic trading methodologies.
+By rigorously applying these principles, the Turtles were able to make significant profits, providing strong evidence in favor of Dennis's hypothesis that trading could indeed be taught. The success of the Turtle Trading Strategy demonstrated the effectiveness of a structured, disciplined approach to the markets and incited a broader acceptance of [systematic trading](/strategies/systematic-trading-strategies) methodologies.
 
 ## Core Principles of Turtle Trading
 
@@ -65,7 +65,7 @@ To safeguard against adverse market moves, stop-loss techniques are rigorously a
 
 Profit-taking within Turtle Trading is systematic, with traders setting levels to close portions of their position once a predefined profit target is reached. This approach allows for gradual liquidation of a position, locking in gains while maintaining exposure to further potential market movements.
 
-By employing these mechanisms, Turtle Trading strategies maintain a balanced approach to risk and reward, leveraging both modern quantitative tools and enduring market principles to achieve consistent performance.
+By employing these mechanisms, Turtle [Trading strategies](/course/volume-profile-indicator-trading-strategies) maintain a balanced approach to risk and reward, leveraging both modern quantitative tools and enduring market principles to achieve consistent performance.
 
 ## Modernizing through Algorithmic Backtesting
 
@@ -117,11 +117,11 @@ In this snippet, `Highest` and `Lowest` are built-in indicators giving rolling h
 
 ## Tuning Parameters and Adding Filters
 
-How can we modify this for better performance today? Two simple tweaks are:
+[How can](/course/how-can-volatility-arbitrage-be-exploited-in-quantitative-trading) we modify this for better performance today? Two simple tweaks are:
 
 1. **Shorter breakout periods:** Decades of trend-following results suggest that very long lookbacks (like 55-day breakouts) may react too slowly now. We can experiment with a **20-day high** for entry and **10-day low** for exit (a much faster strategy). These capture medium trends and cut losers quicker – potentially reducing drawdowns in range-bound markets. We’ll see an example comparison below.
 
-2. **Trend filter:** In choppy, mean-reverting environments, a naive breakout triggers many false signals. A popular enhancement is requiring confirmation from a moving average. For instance, only take long breakouts if price is above its 50-day moving average (indicating an uptrend), and only short if below the MA. This prevents buying breakouts against the larger trend. Our “modern” strategy will incorporate this filter.
+2. **Trend filter:** In choppy, mean-reverting environments, a naive breakout triggers many false signals. A popular enhancement is requiring confirmation from a [moving average](/course/hull-moving-average). For instance, only take long breakouts if price is above its 50-day moving average (indicating an uptrend), and only short if below the MA. This prevents buying breakouts against the larger trend. Our “modern” strategy will incorporate this filter.
 
 Let’s code a second strategy variant with these modern tweaks:
 
@@ -153,7 +153,7 @@ Notice the additional condition `self.data.close[0] > self.sma[0]` for longs (an
 
 ## Backtesting the Strategies
 
-Let’s run both strategies on a sample dataset (for brevity, say AAPL 2010–2020 daily prices from the toolbox). We’ll use Backtrader’s `Cerebro` engine to run the backtest and then compare results:
+Let’s run both strategies on a sample [dataset](/datasets) (for brevity, say AAPL 2010–2020 daily prices from the toolbox). We’ll use Backtrader’s `Cerebro` engine to run the backtest and then compare results:
 
 ```python
 cerebro = bt.Cerebro()
@@ -179,7 +179,7 @@ print(f"Modern Turtle final value:   ${cerebro.broker.getvalue():.2f}")
 **Interpreting Results:** Typically, the **original Turtle** strategy excels in strong trending periods but suffers during long whipsaw periods. The **modern strategy** with tighter breakouts and a trend filter often generates more trades (active adjustment) but aims to cut the losing trades sooner. In our backtest on AAPL, the original Turtle might have caught the huge uptrend through 2017 but then given back profits in the 2018 volatility, whereas the modern version (20/10 days with MA filter) likely flipped out to cash or short earlier during trend reversals. This tends to yield a smoother equity curve (at the cost of possibly missing the *very* start of some trends due to the filter).
 
 
-In this example segment, you can see the **20-day High** (orange dashes) and **20-day Low** (pink dashes) moving up as the stock rallies. The modern strategy went long on the breakout (first green triangle) once price hit a new high *and* was above the 50-day MA. It then exited on a dip below the 10-day low (red downward triangle), locking in profit before the larger downtrend. When the market reversed upward again, a new breakout entry was taken. By contrast, an unfiltered strategy might have **entered earlier** on some of those dashed-line breakouts but also **stayed longer** into the downturn (giving back gains).
+In this example segment, [you can](/course/whats-the-best-backtesting-tool-you-can-recommend) see the **20-day High** (orange dashes) and **20-day Low** (pink dashes) moving up as the stock rallies. The modern strategy went long on the breakout (first green triangle) once price hit a new high *and* was above the 50-day MA. It then exited on a dip below the 10-day low (red downward triangle), locking in profit before the larger downtrend. When the market reversed upward again, a new breakout entry was taken. By contrast, an unfiltered strategy might have **entered earlier** on some of those dashed-line breakouts but also **stayed longer** into the downturn (giving back gains).
 
 ## Practical Takeaways
 
@@ -194,7 +194,7 @@ Modernizing a classic doesn’t mean reinventing the wheel – often it’s abou
 
 ## Conclusion
 
-The Turtle Trading strategy remains a compelling, **timeless** approach: “**Cut your losses, let winners run**” via breakouts. By bringing in algorithmic tools and updating a few parameters, we can adapt it to today’s market behavior. Our informal tests showed that a shorter breakout period plus a trend filter can decrease those large equity swings (the original Turtles infamously had huge drawdowns). Traders in 2025 can take away that **no strategy is set in stone** – you should iterate and improve even a classic. Use backtesting to find what breakout length suits your market, consider adding filters (but not too many – keep it simple and robust), and always factor in transaction costs and slippage when deploying for real.
+The Turtle Trading strategy remains a compelling, **timeless** approach: “**Cut your losses, let winners run**” via breakouts. By bringing in algorithmic tools and updating a few parameters, we can adapt it to today’s market behavior. Our informal tests showed that a shorter breakout period plus a trend filter can decrease those large equity swings (the original Turtles infamously had huge drawdowns). Traders in 2025 can take away that **no strategy is set in stone** – you should iterate and improve even a classic. Use backtesting to find what breakout length suits your market, consider adding filters (but not too many – keep it simple and robust), and always factor in [transaction costs](/strategies/constant-leverage-covering-strategy-for-equity-momentum-portfolio-with-transaction-costs) and slippage when deploying for real.
 
 In the spirit of the Turtles, don’t be afraid to experiment with these ideas on new markets (crypto turtle trading, anyone?). By modernizing the strategy – blending *the old rules that work* with *new insights and tech* – you’ll be better prepared to ride the trends of today’s markets. Happy trend hunting, and **may the turtles be with you**!
 

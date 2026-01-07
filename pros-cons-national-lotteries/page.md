@@ -12,7 +12,7 @@ As entertainment, lotteries provide excitement and hope, offering players a chan
 
 Beyond entertainment, lotteries function as powerful tools for national revenue. Governments harness this potential by hosting national lotteries, channeling substantial proceeds into public service funding. Unlike taxes, which are mandatory and often unpopular, lotteries generate funds voluntarily through ticket sales, easing the fiscal burden while supplementing state budgets. These funds are frequently allocated to crucial sectors such as education, infrastructure, health care, and more, underscoring their socioeconomic importance.
 
-However, the impact of lotteries is not universally positive. The multifaceted nature of national lotteries invites scrutiny regarding their advantages and disadvantages, which this article will explore. Recent advancements, such as the integration of algorithmic trading into lottery systems, have added a layer of complexity. Algo trading, widely used in financial markets, employs automated strategies driven by mathematical models to optimize performance. Its introduction into the lottery domain raises questions about fairness, efficiency, and ethical considerations. This article will examine how these technical innovations intersect with traditional lottery frameworks, shaping their modern trajectories.
+However, the impact of lotteries is not universally positive. The multifaceted nature of national lotteries invites scrutiny regarding their advantages and disadvantages, which this article will explore. Recent advancements, such as the integration of [algorithmic trading](/course/algorithmic-trading-maths) into lottery systems, have added a layer of complexity. Algo trading, widely used in financial markets, employs automated strategies driven by mathematical models to optimize performance. Its introduction into the lottery domain raises questions about fairness, efficiency, and ethical considerations. This article will examine how these technical innovations intersect with traditional lottery frameworks, shaping their modern trajectories.
 
 Through this lens, the article aims to provide a balanced perspective on national lotteries, weighing their benefits against their shortcomings and exploring the impact of rising technological influences.
 
@@ -83,7 +83,7 @@ Algo trading's precision and data-driven nature have found applications within l
 
 ## Influence of Technology and Big Data Analytics
 
-Technology and data analytics have revolutionized modern lottery systems. Algorithms can process vast datasets — including historical draw results, player behavior, and participation trends — to predict outcomes and manage risk. For example, using predictive analytics, lottery systems can optimize prize distributions and jackpot sizes, theoretically maximizing player engagement while maintaining profitability.
+Technology and data analytics have revolutionized modern lottery systems. Algorithms can process vast [datasets](/datasets) — including historical draw results, player behavior, and participation trends — to predict outcomes and manage risk. For example, using predictive analytics, lottery systems can optimize prize distributions and jackpot sizes, theoretically maximizing player engagement while maintaining profitability.
 
 Python's libraries such as NumPy and pandas can be used to analyze lottery data. Here is a basic code snippet to calculate historical draw statistics:
 

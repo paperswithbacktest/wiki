@@ -4,17 +4,17 @@ title: "Trading Around a Core Position Strategy Explained (Algo Trading)"
 description: "Trade around a core position to balance long-term growth and short-term gains."
 ---
 
-Trading around a core position is a strategic approach used in algorithmic trading that integrates both long-term and short-term trading elements to maximize returns. This method holds particular significance in today's volatile financial markets, where rapid changes often necessitate adaptive trading strategies.
+Trading around a core position is a strategic approach used in [algorithmic trading](/course/algorithmic-trading-maths) that integrates both long-term and short-term trading elements to maximize returns. This method holds particular significance in today's volatile financial markets, where rapid changes often necessitate adaptive trading strategies.
 
-Algorithmic trading has profoundly transformed modern trading practices by enabling high-frequency, data-driven decision-making processes. Through the use of sophisticated algorithms and computer programs, traders can execute strategies with speed and precision, mitigating the impact of human error and emotion. Notably, the development of software platforms and applications allows traders to analyze large datasets and identify patterns, offering a strategic edge over traditional trading methods.
+Algorithmic trading has profoundly transformed modern trading practices by enabling high-frequency, data-driven decision-making processes. Through the use of sophisticated algorithms and computer programs, traders can execute [strategies](/strategies) with speed and precision, mitigating the impact of human error and emotion. Notably, the development of software platforms and applications allows traders to analyze large datasets and identify patterns, offering a strategic edge over traditional trading methods.
 
 ![Image](images/1.jpeg)
 
-The core position is a central component of this strategy, representing a long-term investment stake from which a trader can execute additional short-term trades. This approach not only provides stability but also allows traders to capitalize on market fluctuations around this stable position. By leveraging the inherent market cycles, traders can engage in buying or selling actions that enhance profitability while maintaining a consistent market presence.
+The core position is a central component of this strategy, representing a long-term investment stake from which a trader can execute additional short-term trades. This approach not only provides stability but also allows traders to capitalize on market fluctuations around this stable position. By leveraging the inherent [market cycles](/course/100-years-of-historical-market-cycles), traders can engage in buying or selling actions that enhance profitability while maintaining a consistent market presence.
 
 Enhancing profitability through trading around a core position involves taking advantage of short-term price movements without comprising the overall long-term investment strategy. For instance, a trader could maintain a core holding in a promising tech stock while engaging in short-term trades, such as swing trading, to benefit from price volatility. This tactful maneuvering around core investments helps in managing risk and improving overall return profiles.
 
-In essence, as financial markets continue to evolve at a rapid pace, the adoption of trading strategies that blend tactical and strategic elements, such as trading around a core position, becomes crucial. This not only allows traders to optimize their responses to market conditions but also lays the groundwork for improved risk management and sustained returns, supported extensively by the capabilities unleashed through algorithmic trading.
+In essence, as financial markets continue to evolve at a rapid pace, the adoption of [trading strategies](/course/volume-profile-indicator-trading-strategies) that blend tactical and strategic elements, such as trading around a core position, becomes crucial. This not only allows traders to optimize their responses to market conditions but also lays the groundwork for improved risk management and sustained returns, supported extensively by the capabilities unleashed through algorithmic trading.
 
 ## Table of Contents
 
@@ -24,15 +24,15 @@ Trading around a core position is a nuanced strategy adopted by traders seeking 
 
 ### Application in Different Markets
 
-The concept of trading around a core position is versatile and applicable across a variety of financial markets, such as stocks, futures, exchange-traded funds (ETFs), and cryptocurrencies. In the stock market, investors might hold a position in a fundamentally strong company and engage in short-term trades based on earnings reports or macroeconomic indicators. In futures markets, traders often hold a core position in commodities like oil or gold and exploit volatility caused by supply-demand imbalances or geopolitical developments. ETFs offer a diversified basket of securities, allowing traders to ride broader market trends while also engaging in sector rotation or rebalancing based on identified opportunities. In the cryptocurrency space, traders can maintain a core position in major coins such as Bitcoin or Ethereum and trade around speculative news events or technical chart patterns.
+The concept of trading around a core position is versatile and applicable across a variety of financial markets, such as stocks, futures, exchange-traded funds (ETFs), and cryptocurrencies. In the stock market, investors might hold a position in a fundamentally strong company and engage in short-term trades based on earnings reports or macroeconomic indicators. In futures markets, traders often hold a core position in commodities like oil or gold and exploit volatility caused by supply-demand imbalances or geopolitical developments. ETFs offer a diversified basket of securities, allowing traders to ride broader market trends while also engaging in sector rotation or rebalancing based on identified opportunities. In the [cryptocurrency space](/strategies/know-when-to-hodl-em-know-when-to-fodl-em-an-investigation-of-factor-based-investing-in-the-cryptocurrency-space), traders can maintain a core position in major coins such as Bitcoin or Ethereum and trade around speculative news events or technical chart patterns.
 
 ### Balancing Long-term and Short-term Trading
 
-The balance between long-term and short-term trading within this strategy is crucial for its success. Long-term positions are often selected based on fundamental analysis, reflecting an investor’s belief in the underlying asset's sustainable growth potential. Conversely, short-term trades are typically informed by technical analysis, capitalizing on market sentiment and volatility. By maintaining this dual approach, traders can enhance the overall performance of their portfolio.
+The balance between long-term and short-term trading within this strategy is crucial for its success. Long-term positions are often selected based on [fundamental analysis](/course/fundamental-analysis), reflecting an investor’s belief in the underlying asset's sustainable growth potential. Conversely, short-term trades are typically informed by technical analysis, capitalizing on market sentiment and volatility. By maintaining this dual approach, traders can enhance the overall performance of their portfolio.
 
 ### Diversifying Across Time Frames
 
-Diversifying across time frames is an essential component of trading around a core position. This strategy not only involves varying the duration of trades but also diversifying their execution across different time scales—from intraday swings to holding positions over several months. Such diversification aims to reduce risk by spreading exposure across multiple time periods, helping mitigate the impact of adverse price movements that may affect shorter time frames. For instance, a trader may execute day trades based on short-term price patterns while keeping the core position intact for targeted long-term growth.
+Diversifying across time frames is an essential component of trading around a core position. This strategy not only involves varying the duration of trades but also diversifying their execution across different time scales—from intraday swings to holding positions over several months. Such diversification aims to reduce risk by spreading exposure across [multiple time](/course/use-of-multiple-time-frames-in-trading) periods, helping mitigate the impact of adverse price movements that may affect shorter time frames. For instance, a trader may execute day trades based on short-term price patterns while keeping the core position intact for targeted long-term growth.
 
 In summary, the strategy of trading around a core position is deeply embedded in modern financial markets, offering a structured approach to synchronize long-term investment goals with short-term profit tactics. This blend of strategies, applicable across diverse market sectors, provides traders with flexibility and opportunities to improve their overall portfolio performance.
 
@@ -44,7 +44,7 @@ Trading around a core position involves a dynamic strategy where traders maintai
 
 1. **Determine the Core Position**: The first step is selecting a core investment that aligns with long-term goals and market analysis. This usually involves a stock or asset with strong fundamentals and growth potential. For instance, a trader may choose a blue-chip stock or a leading cryptocurrency as the core position, intending to hold it for a prolonged period.
 
-2. **Analyze Market Conditions**: Before engaging in trades around the core position, it is crucial to assess market conditions using both technical analysis (such as moving averages and MACD indicators) and fundamental analysis (like earnings reports and economic data). These insights guide the timing and size of trades.
+2. **Analyze Market Conditions**: Before engaging in trades around the core position, it is crucial to assess market conditions using both [technical analysis](/strategies/learning-and-predictability-via-technical-analysis-evidence-from-bitcoin-and-stocks-with-hard-to-value-fundamentals) (such as moving averages and MACD indicators) and fundamental analysis (like earnings reports and economic data). These insights guide the timing and size of trades.
 
 3. **Identify Trading Opportunities**: Opportunities for additional trades arise when there are distinguishable trends or patterns. This can involve swing trading, where trades last from a few days to several weeks, or more rapid intraday trading, which entails executing trades within the same trading day to exploit short-term trends or news events.
 
@@ -81,9 +81,9 @@ A core position represents a foundational investment holding around which additi
 
 ### Criteria for Choosing a Core Position
 
-Selecting a core position effectively requires a combination of fundamental and technical analysis to ensure stability and potential growth. Fundamentally, a core position should be established in assets with strong market fundamentals, such as solid earnings, consistent growth, and competitive advantages in their industry. Technical analysis is also crucial, where indicators like moving averages, trend lines, and support and resistance levels can guide the selection to ensure the core position lies within a favorable market trend.
+Selecting a core position effectively requires a combination of fundamental and technical analysis to ensure stability and potential growth. Fundamentally, a core position should be established in assets with strong market fundamentals, such as solid earnings, consistent growth, and competitive advantages in their industry. Technical analysis is also crucial, where indicators like [moving averages](/course/fibonacci-moving-averages), trend lines, and support and resistance levels can guide the selection to ensure the core position lies within a favorable market trend.
 
-Mathematically, a core position could be expressed in asset allocation by maintaining a fixed proportion $C$ of the total portfolio value $P$ in the core asset, while the remaining portion $(1-C)$ is allocated to shorter-term trades. This can be represented as:
+Mathematically, a core position could be expressed in [asset allocation](/strategies/a-quantitative-approach-to-tactical-asset-allocation) by maintaining a fixed proportion $C$ of the total portfolio value $P$ in the core asset, while the remaining portion $(1-C)$ is allocated to shorter-term trades. This can be represented as:
 
 $$
 P_{\text{core}} = C \times P
@@ -93,13 +93,13 @@ Where $P_{\text{core}}$ is the value allocated to the core position.
 
 ### Impact on Long-term Market Sentiment
 
-Core positions can significantly influence long-term market sentiment, acting as a stabilizing force within an investment portfolio. They reflect investor confidence in specific sectors or assets, often providing a buffer against market volatility. As investors hold onto these positions over extended periods, they can contribute to a perception of market stability, potentially attracting further investment and reducing volatility.
+Core positions can significantly influence long-term [market sentiment](/course/aaii-and-market-sentiment-indicators), acting as a stabilizing force within an investment portfolio. They reflect investor confidence in specific sectors or assets, often providing a buffer against market volatility. As investors hold onto these positions over extended periods, they can contribute to a perception of market stability, potentially attracting further investment and reducing volatility.
 
 ### Managing Core Positions with Short-term Trades
 
 Effective management of core positions alongside short-term trades involves a strategic approach to timing and risk management. Traders can hold the core position steady, while executing short-term trades to take advantage of market movements. These trades should ideally be smaller in size compared to the core position, to avoid excessive risk exposure. 
 
-Short-term trades can be guided by fast-moving indicators like stochastic oscillators or MACD (Moving Average Convergence Divergence) signals, allowing for quick decision-making without altering the core position significantly. Proper logging and analysis of these trades using software tools or coding (e.g., in Python) can assist in maintaining the balance and identifying patterns. Here's a simple example of tracking trade performance:
+Short-term trades can be guided by fast-moving indicators like stochastic oscillators or MACD ([Moving Average](/course/hull-moving-average) Convergence Divergence) signals, allowing for quick decision-making without altering the core position significantly. Proper logging and analysis of these trades using software tools or coding (e.g., in Python) can assist in maintaining the balance and identifying patterns. Here's a simple example of tracking trade performance:
 
 ```python
 import pandas as pd

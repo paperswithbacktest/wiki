@@ -8,7 +8,7 @@ description: "Use news-based algorithms to trade market reactions with speed and
 
 News trading in algorithmic (algo) trading is the strategic incorporation of news events to inform and drive automated trading decisions. Typically, the aim is to capitalize on market fluctuations prompted by news releases related to economic indicators, financial reports, and other pertinent occurrences. News trading is imperative in algo trading because news directly influences financial market behaviors, often causing stock prices to surge or plunge, currency values to fluctuate, and commodities to vary in demand and value.
 
-When news impacts the financial markets, it's typically through the immediate injection of volatility and liquidity. Take, for example, a scenario where a quarterly earnings report exceeds analysts’ expectations - the involved company’s stock price may swiftly ascend, driven by an influx of investors eager to partake in the promising profitability. Conversely, a political instability event, such as a geopolitical conflict or an unexpected election outcome, can prompt a swift decline in the involved nations’ currency values or stock indices, as investors might retreat to mitigate potential losses.
+When news impacts the financial markets, it's typically through the immediate injection of volatility and liquidity. Take, for example, a scenario where a [quarterly earnings](/datasets/stocks-quarterly-earnings) report exceeds analysts’ expectations - the involved company’s stock price may swiftly ascend, driven by an influx of investors eager to partake in the promising profitability. Conversely, a political instability event, such as a geopolitical conflict or an unexpected election outcome, can prompt a swift decline in the involved nations’ currency values or stock indices, as investors might retreat to mitigate potential losses.
 
 The objective of this article is multifaceted, aiming to impart a comprehensive understanding of news trading within algo trading, deep dive into its practical and technical aspects, and explore its pros, cons, and future potential.
 
@@ -16,15 +16,15 @@ The objective of this article is multifaceted, aiming to impart a comprehensive 
 
 ## In-depth into News Trading
 
-Pivotal historical impacts of news on trading can be traced through various market-turning events. A quintessential example is “Black Monday” on October 19, 1987, when news of political tensions in the Middle East and concerns over U.S. trade deficit led to a global stock market crash, with the Dow Jones Industrial Average plummeting 22.6% in a single day. The abruptness and scale of these market movements triggered by news showcased how information dissemination could significantly influence global markets.
+Pivotal historical impacts of news on trading can be traced through various market-turning events. A quintessential example is “Black Monday” on October 19, 1987, when news of political tensions in the Middle East and concerns over U.S. trade deficit led to a global [stock market](/strategies/federal-open-market-comitee-meetings-and-stock-market-performance) crash, with the Dow Jones Industrial Average plummeting 22.6% in a single day. The abruptness and scale of these market movements triggered by news showcased how information dissemination could significantly influence global markets.
 
 ![News trading.png](images/News_trading.png)
 
-In recent times, news has continued to play a vital role in shaping trading environments. For instance, on January 28, 2021, GameStop's stock (GME) surged an astronomical 134.84% in one day, impacted heavily by a flurry of social media posts and news coverage around retail investors rallying against institutional short sellers. The WallStreetBets subreddit on Reddit became a focal point in the news, demonstrating how social media-fueled news could notably affect market dynamics.
+In recent times, news has continued to play a vital role in shaping trading environments. For instance, on January 28, 2021, GameStop's stock (GME) surged an astronomical 134.84% in one day, impacted heavily by a flurry of social media posts and news coverage around retail investors rallying against institutional short sellers. The WallStreetBets subreddit on Reddit became a focal point in the news, demonstrating how social media-fueled news could notably affect [market dynamics](/strategies/cryptocurrency-market-dynamics-around-bitcoin-futures-expiration-events).
 
-Another exemplary moment where news critically impacted the market was when Pfizer announced positive results from its COVID-19 vaccine trial on November 9, 2020. The news sent shockwaves through the market, causing the S&P 500 to surge and hitting new record highs while triggering a massive sector rotation out of tech stocks and into previously downtrodden sectors like travel and leisure.
+Another exemplary moment where news critically impacted the market was when Pfizer announced positive results from its COVID-19 vaccine trial on November 9, 2020. The news sent shockwaves through the market, causing the S&P 500 to surge and hitting new record highs while triggering a massive [sector rotation](/strategies/equity-sector-rotation-via-credit-relative-value) out of tech stocks and into previously downtrodden sectors like travel and leisure.
 
-These examples elucidate the significant and sometimes abrupt impacts that news can have on the financial markets, substantiating the pivotal role of news trading in investment strategies and the financial landscape at large.
+These examples elucidate the significant and sometimes abrupt impacts that news can have on the financial markets, substantiating the pivotal role of news trading in investment [strategies](/strategies) and the financial landscape at large.
 
 ## Types of News in Financial Markets
 
@@ -34,7 +34,7 @@ Financial markets, with their dynamic and fluid nature, are notably swayed by va
 
 **Earnings and Financial Reports** predominantly influence individual stock prices and occasionally, the broader indices. For instance, when Apple Inc. reported a 7-1 stock split and strong earnings in April 2014, its stock price surged by 8% in the aftermarket hours, showcasing the significant impact of financial disclosures.
 
-**Political and Geopolitical Events** play a crucial role in molding market sentiment. The Brexit referendum in June 2016, which culminated in a vote favoring the UK's departure from the EU, sent global markets into a tumult, depreciating the Pound Sterling to its lowest in over 30 years and negatively impacting global equities.
+**Political and Geopolitical Events** play a crucial role in molding [market sentiment](/course/aaii-and-market-sentiment-indicators). The Brexit referendum in June 2016, which culminated in a vote favoring the UK's departure from the EU, sent global markets into a tumult, depreciating the Pound Sterling to its lowest in over 30 years and negatively impacting global equities.
 
 **Market Rumors and Speculations** can instigate volatility even without being substantiated. For example, in 2012, false rumors about the nationalization of Banca Monte dei Paschi di Siena, Italy's third-largest bank, led to a rapid decline in its stock price, illustrating how unverified information can perturb the markets.
 
@@ -44,15 +44,15 @@ Financial markets, with their dynamic and fluid nature, are notably swayed by va
 
 ## Synergy of News and Algo Trading
 
-News-based algorithmic trading involves synthesizing information derived from news sources and structuring automated trades to capitalize on perceived market shifts precipitated by these news events. The mechanism of news-based algo trading is fundamentally rooted in parsing, analyzing, and acting upon information before the broader market has responded. News analytics engender a crucial role in discerning relevant signals from myriad news items, utilizing techniques such as Natural Language Processing (NLP) and sentiment analysis to ascertain the potential market impact of news.
+News-based [algorithmic trading](/course/algorithmic-trading-maths) involves synthesizing information derived from news sources and structuring automated trades to capitalize on perceived market shifts precipitated by these news events. The mechanism of news-based algo trading is fundamentally rooted in parsing, analyzing, and acting upon information before the broader market has responded. News analytics engender a crucial role in discerning relevant signals from myriad news items, utilizing techniques such as Natural Language Processing (NLP) and sentiment analysis to ascertain the potential market impact of news.
 
-However, implementing news-based strategies brings along its set of challenges. The sheer volume of financial news and the need for real-time analysis compel the utilization of robust and sophisticated technologies. Algorithms must not only parse through textual data at an incredibly fast pace but also be able to discern genuine news from noise and potential fake news. Moreover, the interpretative capabilities of the algorithms should be fine-tuned to comprehend the implicit and sometimes, complex meanings in financial news.
+However, implementing news-based strategies brings along its set of challenges. The sheer volume of [financial news](/strategies/what-is-the-value-of-financial-news) and the need for real-time analysis compel the utilization of robust and sophisticated technologies. Algorithms must not only parse through textual data at an incredibly fast pace but also be able to discern genuine news from noise and potential fake news. Moreover, the interpretative capabilities of the algorithms should be fine-tuned to comprehend the implicit and sometimes, complex meanings in financial news.
 
 Accurate and timely data stand as the linchpin in the efficacy of news-based algo trading. Delays or inaccuracies in data can derail trading algorithms, executing trades that are misaligned with current market conditions. For example, during the flash crash in 2010, misreadings and the rapid electronic response to data incited a cascade of unanticipated trading activity, wiping off billions in market value within minutes. The incident highlights the susceptibility of algo trading to the nuances and timeliness of data interpretation and execution[1].
 
 ## Tools and Techniques in News Trading Algo
 
-Data mining and processing in news trading algorithmic systems involve collecting vast amounts of unstructured data from various news sources and distilling it into a format that can be analyzed and acted upon by trading algorithms. Techniques like **web scraping** fetch news data, while further processes utilize algorithms, often using regular expressions and other filtering methods, to extract relevant financial information. Mathematically, data mining seeks to identify patterns and can employ techniques such as clustering, where a distance measure $D(X, Y) = \| X - Y \|$ might be used to classify similar data points $X$ and $Y$ into groups, aiding in discerning patterns or anomalies within the dataset[2].
+Data mining and processing in news trading algorithmic systems involve collecting vast amounts of unstructured data from various news sources and distilling it into a format that can be analyzed and acted upon by trading algorithms. Techniques like **web scraping** fetch news data, while further processes utilize algorithms, often using regular expressions and other filtering methods, to extract relevant financial information. Mathematically, data mining seeks to identify patterns and can employ techniques such as clustering, where a distance measure $D(X, Y) = \| X - Y \|$ might be used to classify similar data points $X$ and $Y$ into groups, aiding in discerning patterns or anomalies within the [dataset](/datasets)[2].
 
 Text and sentiment analysis in financial news trading algorithms utilize Natural Language Processing (NLP) to evaluate the potential market implications of news data. Sentiment analysis can employ algorithms like the **Naïve Bayes classifier** to categorize news as either positive, neutral, or negative based on historical data. Given a news item $d$, the classifier assigns a probability $P(C_k | d)$ to each category $C_k$, with the news item being assigned to the category for which the conditional probability is maximum, mathematically expressed as
 
@@ -60,13 +60,13 @@ $\hat{C} = \arg\max_{k} P(C_k | d)$
 
 where $\hat{C}$ represents the predicted class[3].
 
-Machine learning (ML) and Artificial Intelligence (AI) play a pivotal role in predictive analysis within news trading algorithms. For instance, neural networks might be employed for their capacity to learn from vast datasets and make predictions. Consider a **simple feedforward neural network**; the output $y$ is computed as
+Machine learning (ML) and Artificial Intelligence (AI) play a pivotal role in predictive analysis within news trading algorithms. For instance, [neural networks](/course/how-are-neural-networks-used-in-quantitative-trading) might be employed for their capacity to learn from vast datasets and make predictions. Consider a **simple feedforward neural network**; the output $y$ is computed as
 
 $y = \sigma(W_2\sigma(W_1x + b_1) + b_2)$
 
 where $x$ is the input, $W_1$ and $W_2$ are weight matrices, $b_1$ and $b_2$ are bias vectors, and $\sigma$ is an activation function like the sigmoid or ReLU. Adjusting the weights and biases during training helps the algorithm make more accurate predictions regarding the influence of news items on market movement[4][5].
 
-In a case study highlighting the application of tools in news-based algo trading, let’s discuss the use of sentiment analysis during the United Kingdom's Brexit vote in 2016. The unexpected results from the referendum resulted in an abrupt devaluation of the British pound. Automated trading systems, utilizing sentiment analysis algorithms, were able to parse through the influx of news articles and social media posts, identifying the negative sentiment surrounding the economic and trade implications of Brexit. Algorithms then processed this information and made high-frequency trades before the broader market could fully absorb the impact, showcasing the critical value of combining ML, data mining, and text analysis in executing efficient, news-driven trading strategies[6].
+In a case study highlighting the application of tools in news-based algo trading, let’s discuss the use of sentiment analysis during the United Kingdom's Brexit vote in 2016. The unexpected results from the referendum resulted in an abrupt devaluation of the British pound. Automated trading systems, utilizing sentiment analysis algorithms, were able to parse through the influx of news articles and social media posts, identifying the negative sentiment surrounding the economic and trade implications of Brexit. Algorithms then processed this information and made high-frequency trades before the broader market could fully absorb the impact, showcasing the critical value of combining ML, data mining, and text analysis in executing efficient, news-driven [trading strategies](/course/volume-profile-indicator-trading-strategies)[6].
 
 ## Designing a News Trading Algorithm
 
@@ -146,7 +146,7 @@ cerebro.run()
 
 ```
 
-Validate the performance using metrics like the Sharpe ratio, drawdown, and profit factor.
+Validate the performance using metrics like the [Sharpe ratio](/course/probabilistic-sharpe-ratio-psr), drawdown, and profit factor.
 
 ### Ongoing Management and Adjustment of the Algo
 

@@ -10,19 +10,19 @@ The strengthening of the dollar during this period had wide-ranging implications
 
 ![Image](images/1.jpeg)
 
-By facilitating a strategic devaluation of the dollar, the Accord helped recalibrate trade relations, although its effects were not uniform across regions. The agreement also underscored the complexities inherent in regulating international currency markets, paving the way for modern strategies that integrate technological advancements like algorithmic trading. As such, understanding the Accord's framework and implications is crucial for grasping the dynamics at play in current financial systems and predicting future trends in currency policy and economic collaboration.
+By facilitating a strategic devaluation of the dollar, the Accord helped recalibrate trade relations, although its effects were not uniform across regions. The agreement also underscored the complexities inherent in regulating international currency markets, paving the way for modern strategies that integrate technological advancements like [algorithmic trading](/course/algorithmic-trading-maths). As such, understanding the Accord's framework and implications is crucial for grasping the dynamics at play in current financial systems and predicting future trends in currency policy and economic collaboration.
 
 ## Table of Contents
 
 ## Historical Context
 
-In the early 1980s, the U.S. dollar underwent a significant appreciation, primarily fueled by the Federal Reserve's stringent monetary policy. Under the leadership of Chairman Paul Volcker, the Federal Reserve aimed to tackle stagflation—characterized by stagnant economic growth and high inflation—by implementing a series of interest rate hikes. This policy dramatically increased the attractiveness of dollar-denominated assets, leading to an influx of foreign capital and subsequently driving up the value of the dollar.
+In the early 1980s, the U.S. dollar underwent a significant appreciation, primarily fueled by the Federal Reserve's stringent [monetary policy](/strategies/equity-convexity-and-unconventional-monetary-policy). Under the leadership of Chairman Paul Volcker, the Federal Reserve aimed to tackle stagflation—characterized by stagnant economic growth and high inflation—by implementing a series of interest rate hikes. This policy dramatically increased the attractiveness of dollar-denominated assets, leading to an influx of foreign capital and subsequently driving up the value of the dollar.
 
 The appreciation of the dollar had pronounced repercussions on international trade dynamics, leading to considerable imbalances, especially with major economies like Japan and Germany. As the dollar strengthened, American exports became more expensive on the global market, reducing their competitiveness. This shift significantly impacted American industries, particularly manufacturing sectors reliant on exporting goods overseas.
 
 The growing trade imbalances and the consequent negative effects on U.S. industries intensified the pressure on American policymakers from domestic manufacturers. They sought relief through government intervention to address the competitive disadvantage caused by the strong dollar. The situation underscored the necessity for a collaborative approach to rectify these economic disparities and prompted discussions among the Group of Five (G-5) industrial nations—the United States, France, Germany, the United Kingdom, and Japan.
 
-Recognizing the interconnected nature of global economies, these nations acknowledged the need for a coordinated international response. The collaboration aimed to realign exchange rates and mitigate the adverse effects of the dollar's appreciation. This realization ultimately paved the way for the formulation and signing of the Plaza Accord in 1985, where the G-5 countries agreed to intervene in currency markets to devalue the dollar relative to the Japanese yen and the German Deutschmark. The accord represented a pivotal consensus to collaboratively manage exchange rate policies and stabilize the global economy.
+Recognizing the interconnected nature of global economies, these nations acknowledged the need for a coordinated international response. The collaboration aimed to realign exchange rates and mitigate the adverse effects of the dollar's appreciation. This realization ultimately paved the way for the formulation and signing of the Plaza Accord in 1985, where the G-5 countries agreed to intervene in [currency markets](/strategies/time-varying-global-dollar-risk-in-currency-markets) to devalue the dollar relative to the Japanese yen and the German Deutschmark. The accord represented a pivotal consensus to collaboratively manage exchange rate policies and stabilize the global economy.
 
 ## The Plaza Accord Agreement
 
@@ -38,7 +38,7 @@ Overall, the Plaza Accord marked an innovative approach to international monetar
 
 The Plaza Accord of 1985 significantly impacted global economic dynamics, particularly affecting currency markets. Initially, the agreement achieved its primary goal: the U.S. dollar's value decreased considerably against major currencies, particularly the Japanese yen and the German Deutschmark. This reduction made U.S. exports more competitively priced on the global market, thus improving the trade balance with European nations. However, the effect on Japan was less pronounced, partly due to structural economic factors and differences in trade relations.
 
-A notable unintended consequence of the Plaza Accord was its contribution to Japan's asset price bubble. The sharp appreciation of the yen following the Accord led to rapid increases in Japanese asset prices as investors sought to capitalize on favorable returns. This bubble peaked in the late 1980s, with soaring real estate and stock values eventually collapsing in the early 1990s, ushering in what is often referred to as Japan's "Lost Decade". During this period, Japan faced prolonged economic stagnation and deflation, which had broader implications for the global economy.
+A notable unintended consequence of the Plaza Accord was its contribution to Japan's asset price bubble. The sharp appreciation of the yen following the Accord led to rapid increases in Japanese asset prices as investors sought to capitalize on favorable returns. This bubble peaked in the late 1980s, with soaring [real estate](/strategies/reit-momentum-and-the-performance-of-real-estate-mutual-funds) and stock values eventually collapsing in the early 1990s, ushering in what is often referred to as Japan's "Lost Decade". During this period, Japan faced prolonged economic stagnation and deflation, which had broader implications for the global economy.
 
 In response to the currency fluctuations following the Plaza Accord, the major economic powers convened again in 1987 to form the Louvre Accord. This subsequent agreement aimed to stabilize currency markets that had become volatile after the Plaza Accord-induced adjustments. The Louvre Accord sought to halt the further decline of the U.S. dollar, restore stability, and prevent similar destabilizing bubbles in other economies.
 
@@ -46,13 +46,13 @@ Overall, while the Plaza Accord achieved some immediate goals in adjusting curre
 
 ## Algorithmic Trading and Currency Interventions
 
-Today’s technology, particularly algorithmic trading, plays a crucial role in analyzing and predicting currency market movements. Building on principles from historical currency agreements like the Plaza Accord, algorithmic trading systems are designed to process large datasets, swiftly responding to market fluctuations and interventions. These systems utilize complex algorithms to identify patterns, forecast price movements, and execute trades at speeds unattainable by human traders.
+Today’s technology, particularly algorithmic trading, plays a crucial role in analyzing and predicting currency market movements. Building on principles from historical currency agreements like the Plaza Accord, algorithmic trading systems are designed to process large [datasets](/datasets), swiftly responding to market fluctuations and interventions. These systems utilize complex algorithms to identify patterns, forecast price movements, and execute trades at speeds unattainable by human traders.
 
-The influence of the Plaza Accord can be observed in modern algorithmic strategies that manage currency volatility. The coordinated approach to currency interventions established by the Plaza Accord is mirrored in the systematic and automated responses integrated into algorithmic trading systems. These systems use quantitative models that incorporate historical data and market indicators, aiming to stabilize or capitalize on currency value fluctuations.
+The influence of the Plaza Accord can be observed in modern algorithmic [strategies](/strategies) that manage currency volatility. The coordinated approach to currency interventions established by the Plaza Accord is mirrored in the systematic and automated responses integrated into algorithmic trading systems. These systems use quantitative models that incorporate historical data and market indicators, aiming to stabilize or capitalize on currency value fluctuations.
 
-Algorithmic trading has brought both opportunities and challenges to the foreign exchange (forex) markets. On the one hand, these systems enhance market efficiency by providing liquidity and narrowing bid-ask spreads. They enable more accurate pricing and help mitigate extreme volatility by adjusting positions rapidly in response to economic news or policy interventions. On the other hand, the complexity and speed of algorithmic trades contribute to risks such as flash crashes, where sudden price swings can destabilize markets.
+Algorithmic trading has brought both opportunities and challenges to the foreign exchange (forex) markets. On the one hand, these systems enhance market efficiency by providing liquidity and narrowing bid-ask spreads. They enable more accurate [pricing](/pricing) and help mitigate extreme volatility by adjusting positions rapidly in response to economic news or policy interventions. On the other hand, the complexity and speed of algorithmic trades contribute to risks such as flash crashes, where sudden price swings can destabilize markets.
 
-Algorithmic trading strategies often involve arbitrage, statistical analysis, and machine learning techniques. For instance, a simple algorithmic model can be expressed in Python as follows:
+Algorithmic [trading strategies](/course/volume-profile-indicator-trading-strategies) often involve arbitrage, statistical analysis, and machine learning techniques. For instance, a simple algorithmic model can be expressed in Python as follows:
 
 ```python
 import pandas as pd
@@ -80,9 +80,9 @@ def execute_trades(data):
 data['Positions'] = execute_trades(data)
 ```
 
-This basic example demonstrates how an algorithm might use moving averages to generate buy and sell signals, automating the decision-making process.
+This basic example demonstrates how an algorithm might use [moving averages](/course/fibonacci-moving-averages) to generate buy and sell signals, automating the decision-making process.
 
-In summary, algorithmic trading, influenced by historical currency interventions like the Plaza Accord, has become a backbone of modern forex strategies. It provides a framework for managing currency risks and opportunities in an increasingly interconnected global financial system, while also highlighting the challenges associated with high-speed automated trading environments.
+In summary, algorithmic trading, influenced by historical currency interventions like the Plaza Accord, has become a backbone of modern forex strategies. It provides a framework for managing currency risks and opportunities in an increasingly interconnected [global financial](/course/history-londons-emergence-global-financial-centre) system, while also highlighting the challenges associated with high-speed automated trading environments.
 
 ## The Plaza Accord’s Legacy
 

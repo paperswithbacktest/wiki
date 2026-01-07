@@ -8,7 +8,7 @@ title: "Bid-Ask Spread Microstructure"
 
 The *bid-ask spread* is the difference between the highest price that a buyer (bid) is willing to pay for an asset and the lowest price a seller (ask) is willing to accept. In simpler terms, if you’re looking at a quote for a stock at a given moment and see a *bid* of \$100 and an *ask* of \$100.05, the spread is \$0.05. This gap is **fundamental in trading**: it represents a cost you pay when you trade (if you buy at the ask or sell at the bid, you “cross the spread”) and it’s a source of profit for those who *make markets* (providing liquidity at bid/ask prices). The size of the spread is more than just a number – it tells a story about the market’s liquidity and trading activity. A small (tight) spread usually means lots of activity and competition between buyers and sellers, whereas a large (wide) spread can signal lower liquidity or higher uncertainty (risk) in the market.
 
-To a beginner, the bid-ask spread might just seem like “pennies” difference, but it’s **crucial**. It’s effectively an *immediate transaction cost*. Every time you buy a stock at the ask and then sell at the bid, that spread is “lost” from your perspective as a trader and *earned* by a market maker who facilitated the trade. Brokers often say they earn money when traders “cross the spread” – meaning traders pay that gap as the price of getting into or out of a position **right now**. Understanding this concept is vital because it affects your trading profits, strategy execution, and even whether certain strategies are viable once real-world costs are considered.
+To a beginner, the bid-ask spread might just seem like “pennies” difference, but it’s **crucial**. It’s effectively an *immediate transaction cost*. Every time you buy a stock at the ask and then sell at the bid, that spread is “lost” from your perspective as a trader and *earned* by a market maker who facilitated the trade. Brokers often say they earn money when traders “cross the spread” – meaning traders pay that gap as the price of getting into or out of a position **right now**. Understanding this concept is vital because it affects your trading profits, strategy execution, and even whether certain [strategies](/strategies) are viable once real-world costs are considered.
 
 ## Table of Contents
 
@@ -17,7 +17,7 @@ To a beginner, the bid-ask spread might just seem like “pennies” difference,
 
 ![Image](images/spreads.png)
 
-When discussing the types of bid-ask spreads, it's essential to understand three key variations: quoted spread, effective spread, and realized spread, as each offers distinct insights into market behavior and transaction costs.
+When discussing the types of bid-ask spreads, it's essential to understand three key variations: quoted spread, effective spread, and realized spread, as each offers distinct insights into market behavior and [transaction costs](/strategies/constant-leverage-covering-strategy-for-equity-momentum-portfolio-with-transaction-costs).
 
 The quoted spread is the simplest form and is the difference between the highest price a buyer is willing to pay (the bid) and the lowest price a seller is willing to accept (the ask). Mathematically, it can be expressed as:
 
@@ -62,11 +62,11 @@ The bid-ask spread therefore isn’t fixed – it **fluctuates with market condi
 
 ## The Order Book and How the Spread is Set
 
-To really grasp the spread, it helps to visualize the **order book**. The order book is essentially a list of buy orders (bids) and sell orders (asks) waiting to be executed, organized by price level. An example snapshot of a limit order book is shown below, with bids on the left and asks on the right:
+To really grasp the spread, it helps to visualize the **order book**. The order book is essentially a list of buy orders (bids) and sell orders (asks) waiting to be executed, organized by price level. An example snapshot of a [limit order book](/course/high-frequency-trading-ii-limit-order-book) is shown below, with bids on the left and asks on the right:
 
 ![Image](images/orderbook.png)
 
-In any order book, the **highest bid** and the **lowest ask** are the most competitive prices and form the **National Best Bid and Offer (NBBO)** in many markets (or simply the best market quotes). The *spread = best ask – best bid*. In the image above, you can see the top of the book: buyers are bidding up to \$2081.14, and sellers are asking as low as \$2081.23. If you wanted to buy instantly, you’d have to pay \$2081.23 (someone’s ask), and if you wanted to sell instantly, you’d receive \$2081.14 (someone’s bid). That \$0.09 difference is the spread, and no trades will occur until a buyer is willing to pay that \$2081.23 (or higher), or a seller is willing to accept \$2081.14 (or lower). In a liquid market, these numbers keep updating as new orders flow in.
+In any order book, the **highest bid** and the **lowest ask** are the most competitive prices and form the **National Best Bid and Offer (NBBO)** in many markets (or simply the best market quotes). The *spread = best ask – best bid*. In the image above, [you can](/course/whats-the-best-backtesting-tool-you-can-recommend) see the top of the book: buyers are bidding up to \$2081.14, and sellers are asking as low as \$2081.23. If you wanted to buy instantly, you’d have to pay \$2081.23 (someone’s ask), and if you wanted to sell instantly, you’d receive \$2081.14 (someone’s bid). That \$0.09 difference is the spread, and no trades will occur until a buyer is willing to pay that \$2081.23 (or higher), or a seller is willing to accept \$2081.14 (or lower). In a liquid market, these numbers keep updating as new orders flow in.
 
 **Order book dynamics:**
 
@@ -86,7 +86,7 @@ When discussing spreads, you’ll often hear about **market makers** and **marke
 
 * **Market Takers (Liquidity Takers):** These are traders who demand immediate execution – they *take liquidity* by hitting the bid or lifting the ask with market orders (or marketable limit orders). If you place a market order to buy 100 shares, you’ll get filled at the current ask, *paying the spread*. Takers are basically paying for immediacy; they want in or out *now* and the spread is the price of that convenience. Active traders, algorithmic *takers*, and anyone using market orders regularly are incurring this cost on each trade. For the taker, the spread is a negative slippage that they need to overcome with the asset’s price movement to make a profit on a trade.
 
-These two types of participants are two sides of the same coin. A trade happens when a taker’s order matches with a maker’s resting order. The existence of a spread gives an **incentive for market making** – if spreads are wide, more traders might step in to provide quotes and capture that profit, which then tends to narrow the spread. If spreads are very tight, it’s often because competition among liquidity providers is intense (or regulations/technology have improved market efficiency). Some exchanges even have a *maker-taker fee model*: they **pay** rebates to market makers for adding liquidity and charge fees to takers, encouraging more liquidity provision.
+These two types of participants are two sides of the same coin. A trade happens when a taker’s order matches with a maker’s resting order. The existence of a spread gives an **incentive for market making** – if spreads are wide, more traders might step in to provide quotes and capture that profit, which then tends to narrow the spread. If spreads are very tight, it’s often because competition among liquidity providers is intense (or regulations/technology have improved market efficiency). Some exchanges even have a *maker-taker fee model*: they **pay** rebates to market makers for adding liquidity and charge fees to takers, encouraging more [liquidity provision](/strategies/reversals-and-the-returns-to-liquidity-provision).
 
 **Why not always be a maker and avoid paying spreads?** Good question! In theory, a patient trader can try to avoid the spread by using limit orders (joining the makers). For instance, if the market is \$100.00 bid /\$100.05 ask and you want to buy, instead of paying \$100.05 you might place a limit buy at \$100.01 or \$100.00 and wait to see if you get filled. By doing so, you’d save a few cents *if* you get executed at your price. This is indeed a common approach – many strategies attempt to *improve execution* by not crossing the spread unless necessary. However, the trade-off is execution uncertainty: your order might not fill if the price moves away. In fast markets or if you urgently need to exit, you often have no choice but to be a taker. Active intraday traders will mix between posting and taking depending on strategy; meanwhile, pure market-making strategies focus on always providing quotes and profiting from spread capture, often managing inventory carefully so as not to accumulate a large position that could be hit by adverse price moves.
 
@@ -114,7 +114,7 @@ For most casual trading discussions, you won’t need to calculate effective or 
 
 ## How Spreads Affect Trading Strategies and Backtests
 
-Okay, we understand what the spread is and how it behaves – now *why do we, as traders or algo developers, care so much?* In short: **because spreads eat into your returns.** If your strategy doesn’t account for the bid-ask spread, you might be looking at a mirage of profits in a backtest that won’t materialize in the real world. Let’s break down the practical implications:
+Okay, we understand what the spread is and how it behaves – now *[why do](/strategies/why-do-us-stocks-outperform-em-and-eafe-regions) we, as traders or algo developers, care so much?* In short: **because spreads eat into your returns.** If your strategy doesn’t account for the bid-ask spread, you might be looking at a mirage of profits in a backtest that won’t materialize in the real world. Let’s break down the practical implications:
 
 **Trading Costs and Slippage:**
 
@@ -138,7 +138,7 @@ Let’s illustrate the impact with a simple example in Python:
 
 **Example: Calculating the Bid-Ask Spread from Quote Data**
 
-Imagine we have some raw quote data (bid and ask prices) for an asset over time. We’ll calculate the spread at each time and maybe the average spread. In practice, such data could come from a live feed or a historical Level-1 quote dataset. For simplicity, we’ll use a small made-up list of quotes here:
+Imagine we have some raw quote data (bid and ask prices) for an asset over time. We’ll calculate the spread at each time and maybe the average spread. In practice, such data could come from a live feed or a historical Level-1 quote [dataset](/datasets). For simplicity, we’ll use a small made-up list of quotes here:
 
 ```python
 # Sample quote data: each entry has a timestamp, bid, and ask
@@ -220,7 +220,7 @@ The bid-ask spread may start as a simple concept – just a difference between t
 
 In practice, always keep an eye on the spread of the instruments you trade. A “tight” one-cent spread market is a completely different environment than a thinly traded stock with a \$1 spread. Adapt your strategy accordingly: if you’re trading something with a wide spread, perhaps use limit orders and be patient; if you’re trading a tight spread asset aggressively, make sure the edge is enough to cover that spread repeatedly. And when backtesting, **be generous in accounting for spreads/slippage** – it’s better to build a strategy that survives robust cost assumptions than to discover later that costs obliterate your edge.
 
-Finally, if you want to explore further, check out resources like the *Papers With Backtest* [**datasets and toolbox**][PWB Toolbox] on GitHub, which provide data and utilities for backtesting strategies (you could, for instance, test how applying different spread assumptions changes a strategy’s performance). Also, the references and readings below include some classic papers and books on trading costs and market microstructure for those interested in the theory behind it. In the trading world, *knowledge of the bid-ask spread and its effects is power* – it helps you trade smarter, whether you’re a day trader shaving off pennies or a quant developer designing an algorithmic execution strategy. Good luck and tight spreads!
+Finally, if you want to explore further, check out resources like the *Papers With Backtest* [**datasets and toolbox**][PWB Toolbox] on GitHub, which provide data and utilities for backtesting strategies (you could, for instance, test how applying different spread assumptions changes a strategy’s performance). Also, the references and readings below include some classic papers and books on trading costs and market microstructure for those interested in the theory behind it. In the trading world, *knowledge of the bid-ask spread and its effects is power* – it helps you trade smarter, whether you’re a day trader shaving off pennies or a [quant developer](/course/becoming-a-quant-developer) designing an algorithmic execution strategy. Good luck and tight spreads!
 
 
 ## References & Further Reading

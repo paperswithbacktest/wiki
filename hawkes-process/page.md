@@ -34,15 +34,15 @@ In short, any situation where events don’t just happen randomly but seem to �
 
 ## What are the applications of Hawkes process in algorithmic trading?
 
-Hawkes processes are particularly well-suited for modeling high-frequency trading data, where the timing and sequence of trades play a critical role in understanding market dynamics. These stochastic processes account for the clustering of trade events, recognizing that trades often trigger subsequent trades in short succession. This characteristic is vital for understanding market microstructure dynamics, as it allows financial analysts to identify patterns within trading activities that can have significant implications on price movements.
+Hawkes processes are particularly well-suited for modeling [high-frequency trading](/course/high-frequency-trading-ii-limit-order-book) data, where the timing and sequence of trades play a critical role in understanding market dynamics. These stochastic processes account for the clustering of trade events, recognizing that trades often trigger subsequent trades in short succession. This characteristic is vital for understanding market microstructure dynamics, as it allows financial analysts to identify patterns within trading activities that can have significant implications on price movements.
 
-By capturing the self-exciting nature of trades, Hawkes models help in predicting spikes in trading activity and sudden price changes. For instance, following an initial trade, the increased intensity function in a Hawkes model signals a higher probability of further trades occurring shortly thereafter. This makes it a valuable tool for predicting future trading volumes and potential price volatility, enabling traders to anticipate stress points within the market and adjust their strategies accordingly.
+By capturing the self-exciting nature of trades, Hawkes models help in predicting spikes in trading activity and sudden price changes. For instance, following an initial trade, the increased intensity function in a Hawkes model signals a higher probability of further trades occurring shortly thereafter. This makes it a valuable tool for predicting future trading volumes and potential price volatility, enabling traders to anticipate stress points within the market and adjust their [strategies](/strategies) accordingly.
 
-Traders and financial analysts utilize Hawkes processes to enhance their decision-making processes and optimize trading strategies. These models can be implemented in various algorithmic trading strategies to identify optimal trade execution windows based on anticipated market activity. Moreover, they assist in the detection of market trends and reversals by analyzing the sequences and frequencies of trade events.
+Traders and financial analysts utilize Hawkes processes to enhance their decision-making processes and optimize trading strategies. These models can be implemented in various [algorithmic trading](/course/algorithmic-trading-maths) strategies to identify optimal trade execution windows based on anticipated market activity. Moreover, they assist in the detection of market trends and reversals by analyzing the sequences and frequencies of trade events.
 
-Beyond individual trading strategies, Hawkes processes also have applications in risk management and portfolio optimization. By analyzing trade data, financial institutions can better assess market risk, recognizing periods when trading activity and thus market risk are likely to increase. This supports more informed decision-making regarding asset allocation and exposure limits.
+Beyond individual [trading strategies](/course/volume-profile-indicator-trading-strategies), Hawkes processes also have applications in risk management and portfolio optimization. By analyzing trade data, financial institutions can better assess market risk, recognizing periods when trading activity and thus market risk are likely to increase. This supports more informed decision-making regarding asset allocation and exposure limits.
 
-Overall, the application of Hawkes processes in high-frequency trading environments underscores their utility in decoding complex market behaviors. By embedding these models in algorithmic trading frameworks, professionals in finance gain a more nuanced understanding of the market dynamics, which can be critical in maintaining a competitive edge in fast-paced trading scenarios.
+Overall, the application of Hawkes processes in high-frequency trading environments underscores their utility in decoding complex market behaviors. By embedding these models in algorithmic trading frameworks, professionals in finance gain a more nuanced understanding of the [market dynamics](/strategies/cryptocurrency-market-dynamics-around-bitcoin-futures-expiration-events), which can be critical in maintaining a competitive edge in fast-paced trading scenarios.
 
 ## How does the Hawkes process differ from a Poisson process?
 
@@ -130,7 +130,7 @@ The self-exciting nature of the Hawkes process, captured through these mathemati
 
 ## What types of data are typically analyzed using a Hawkes process?
 
-The Hawkes process is tailor-made for analyzing data where events cluster together and influence each other over time. It shines with datasets that show bursts or cascades rather than random, evenly spaced occurrences. Here are the types of data it typically tackles:
+The Hawkes process is tailor-made for analyzing data where events cluster together and influence each other over time. It shines with [datasets](/datasets) that show bursts or cascades rather than random, evenly spaced occurrences. Here are the types of data it typically tackles:
 
 - **Timestamps of Discrete Events**: The Hawkes process works with "point process" data—lists of when events happen. Think of earthquake times, trade execution times, or tweet posting times. It doesn’t care about the “size” of events (like magnitude or trade volume) unless you extend it; it just needs the moments they occur.
 
@@ -357,7 +357,7 @@ where tᵢ are the times of past events, and the sum captures how each event’s
 
 A key metric here is the **branching ratio**, often called η, which is the expected number of offspring per event. It’s the integral of the triggering kernel over time: η = ∫ g(t) dt. If η < 1, the process is stable (subcritical), and clusters eventually die out. If η ≥ 1, it can explode (supercritical), with infinite events in finite time, which doesn’t usually match real-world data unless truncated somehow.
 
-This structure is super useful for analysis and simulation. For instance, you can simulate a Hawkes process by first generating immigrants via a Poisson process with rate λ₀(t), then recursively adding offspring with probabilities tied to g(t). It also helps with inference: when fitting to data, you can think of disentangling immigrants from offspring to estimate the baseline and triggering effects separately.
+This structure is super useful for analysis and simulation. For instance, [you can](/course/whats-the-best-backtesting-tool-you-can-recommend) simulate a Hawkes process by first generating immigrants via a Poisson process with rate λ₀(t), then recursively adding offspring with probabilities tied to g(t). It also helps with inference: when fitting to data, you can think of disentangling immigrants from offspring to estimate the baseline and triggering effects separately.
 
 In short, the branching structure is the Hawkes process’s secret sauce—it’s what makes it self-exciting and lets you model cascading phenomena. It’s both a way to understand the mechanics and a tool to work with it practically. Does that spark any questions about applying it?
 

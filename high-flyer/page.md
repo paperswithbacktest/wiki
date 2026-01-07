@@ -4,11 +4,11 @@ title: "High-Flyer (DeepSeek hedge fund)"
 description: "Discover how High-Flyer Quant and DeepSeek revolutionize AI-driven investing."
 ---
 
-The hedge fund industry in China is undergoing a significant transformation, with High-Flyer Quant and its subsidiary DeepSeek garnering considerable attention for their groundbreaking approaches to quantitative investing. High-Flyer Quant, distinct from conventional hedge funds, has harnessed the power of artificial intelligence (AI) from its inception to push the limits of quantitative finance. Utilizing AI, the firm has constructed complex models that enhance its trading strategies, setting new standards in the industry.
+The hedge fund industry in China is undergoing a significant transformation, with High-Flyer Quant and its subsidiary DeepSeek garnering considerable attention for their groundbreaking approaches to [quantitative investing](/strategies/the-conservative-formula-quantitative-investing-made-easy). High-Flyer Quant, distinct from conventional hedge funds, has harnessed the power of artificial intelligence (AI) from its inception to push the limits of quantitative finance. Utilizing AI, the firm has constructed complex models that enhance its trading strategies, setting new standards in the industry.
 
 DeepSeek, High-Flyer Quant's parent company, has emerged as a noteworthy contributor to the global technology discourse, particularly for its AI developments that are comparable to some of the leading Western models. This achievement not only marks DeepSeek as a formidable player in AI innovation but also underscores China's technological advancements on the world stage.
 
-In this article, we will examine the distinctive investment strategies employed by High-Flyer Quant and the AI advancements pioneered by DeepSeek. Through exploring these elements, the article will illuminate their significant influence across both finance and technology sectors. This examination highlights how High-Flyer Quant and DeepSeek are not only adapting to changes but are actively shaping the future landscape of quantitative finance through relentless innovation.
+In this article, we will examine the distinctive investment [strategies](/strategies) employed by High-Flyer Quant and the AI advancements pioneered by DeepSeek. Through exploring these elements, the article will illuminate their significant influence across both finance and technology sectors. This examination highlights how High-Flyer Quant and DeepSeek are not only adapting to changes but are actively shaping the future landscape of quantitative finance through relentless innovation.
 
 We invite you to join us in exploring the historical development, current status, and prospective future of High-Flyer Quant. This narrative will reveal how these organizations are positioning themselves as leaders in the quantitative finance sector, influencing both financial markets and technological progress.
 
@@ -19,11 +19,11 @@ We invite you to join us in exploring the historical development, current status
 
 ## The Genesis of High-Flyer Quant
 
-**High-Flyer (Chinese: 幻方; pinyin: Huàn Fāng)** is a Chinese hedge fund company known for its deep integration of **artificial intelligence** in **quantitative investment**. Officially incorporated in **February 2016** in Ningbo, Zhejiang Province, High-Flyer has grown into one of China’s notable hedge funds, backed by a robust AI-driven trading platform. Its headquarters is located in **Hangzhou, Zhejiang**, and it is also recognized as the founder and chief supporter of the AI research firm **DeepSeek**.
+**High-Flyer (Chinese: 幻方; pinyin: Huàn Fāng)** is a Chinese hedge fund company known for its deep integration of **artificial intelligence** in **quantitative investment**. Officially incorporated in **February 2016** in Ningbo, Zhejiang Province, High-Flyer has grown into one of China’s notable hedge funds, backed by a robust AI-driven [trading platform](/course/moomoo-trading-platform-analysis-2024). Its headquarters is located in **Hangzhou, Zhejiang**, and it is also recognized as the founder and chief supporter of the AI research firm **DeepSeek**.
 
-High-Flyer’s activities encompass algorithmic trading, AI-driven stock selection, and broader investment strategies that have drawn comparisons to international quantitative powerhouses. At its peak in **October 2024**, the hedge fund reportedly oversaw **US\$7 billion** in assets under management (AUM). High-Flyer prides itself on using **machine learning** and **deep learning** architectures for building trading models, drawing both praise and scrutiny from the investment community.
+High-Flyer’s activities encompass [algorithmic trading](/course/algorithmic-trading-maths), AI-driven stock selection, and broader investment strategies that have drawn comparisons to international quantitative powerhouses. At its peak in **October 2024**, the hedge fund reportedly oversaw **US\$7 billion** in assets under management (AUM). High-Flyer prides itself on using **machine learning** and **deep learning** architectures for building trading models, drawing both praise and scrutiny from the investment community.
 
-From its inception, High-Flyer focused on refining its quantitative models, initially emphasizing strategies that harnessed market and price-volume data. These methods have proved particularly effective within China’s dynamic market conditions, characterized by its retail-dominated A-share market and unique regulatory landscape. The firm's adaptability and commitment to continuous improvement in model accuracy and predictive capabilities set it apart as a leader in quantitative finance.
+From its inception, High-Flyer focused on refining its quantitative models, initially emphasizing strategies that harnessed market and price-volume data. These methods have proved particularly effective within China’s dynamic market conditions, characterized by its retail-dominated [A-share market](/strategies/is-value-strategy-still-alive-evidence-from-the-chinese-a-share-market) and unique regulatory landscape. The firm's adaptability and commitment to continuous improvement in model accuracy and predictive capabilities set it apart as a leader in quantitative finance.
 
 However, success did not come without challenges. High-Flyer navigated a complex regulatory environment, faced market volatility, and encountered inevitable losses. Nevertheless, rather than deter its progress, these challenges spurred the firm to pivot towards more innovative AI applications. This strategic shift involved leveraging advanced machine learning techniques to enhance model robustness and predictive accuracy, thereby bolstering its resilience and adaptability in a fluctuating market.
 
@@ -32,9 +32,9 @@ By the end of 2022, High-Flyer had made significant investments in computing inf
 ## History
 
 ### Founding and Early Years (2015–2017)  
-High-Flyer traces its origins to **2015–2016**, when the founding team—which included **Liang Wenfeng**, **Xu Jin**, and **Zheng Dawei**, all Zhejiang University classmates—explored quantitative trading amid the volatility of the 2007–2008 financial crisis. They formalized the business with:
+High-Flyer traces its origins to **2015–2016**, when the founding team—which included **Liang Wenfeng**, **Xu Jin**, and **Zheng Dawei**, all Zhejiang University classmates—explored [quantitative trading](/course/how-are-neural-networks-used-in-quantitative-trading) amid the volatility of the 2007–2008 financial crisis. They formalized the business with:
 
-- **Zhejiang High-Flyer Asset Management Co., Ltd.** (est. 2015)  
+- **Zhejiang High-Flyer [Asset Management](/strategies/when-it-rains-it-pours-multifactor-asset-management-in-good-and-bad-times) Co., Ltd.** (est. 2015)  
 - **Ningbo High-Flyer Quantitative Investment Management Partnership LLP** (est. 2016)
 
 These entities, regulated by the Asset Management Association of China (AMAC), collectively manage over 450 investment products. The founding generation initially tested a multi-factor model driven by **price-volume signals**; by 2017, they started pivoting to **machine-learning-based** strategies to handle large-scale data and adapt to dynamic market conditions.
@@ -45,7 +45,7 @@ As the company’s trading algorithms evolved, High-Flyer ventured beyond mainla
 During this period, the company also formed a research entity known as **High-Flyer AI**, a move aimed at developing next-generation AI algorithms for both trading and fundamental research.  
 
 ### Inception of Fire-Flyer Supercomputers (2020–2021)  
-In 2020, High-Flyer deployed its first advanced computing infrastructure, **Fire-Flyer I**, at a cost of roughly 200 million yuan. With **10,000 Nvidia A100 GPUs** added in 2021, the firm introduced **Fire-Flyer II**, which cost 1 billion yuan. This supercomputing cluster allowed High-Flyer to train sophisticated deep learning models, placing it in direct comparison with global quantitative giants like Renaissance Technologies.
+In 2020, High-Flyer deployed its first advanced computing infrastructure, **Fire-Flyer I**, at a cost of roughly 200 million yuan. With **10,000 Nvidia A100 GPUs** added in 2021, the firm introduced **Fire-Flyer II**, which cost 1 billion yuan. This supercomputing cluster allowed High-Flyer to train sophisticated deep learning models, placing it in direct comparison with global quantitative giants like [Renaissance Technologies](/course/renaissance-technologies).
 
 By 2021, the hedge fund had fully integrated AI in every component of its investment strategy, from portfolio construction to intraday trade execution. Despite early success with annual returns outpacing market benchmarks by 20%-50%, the firm faced setbacks at the end of 2021 due to rapid market swings, leading to significant drawdowns in many of its products.
 
@@ -86,9 +86,9 @@ High-Flyer’s technological edge stems from:
 
 2. **Artificial Intelligence Lab**:  
    - Dedicated R&D teams refine models capable of short- to mid-frequency trades.  
-   - Researchers use deep reinforcement learning to evaluate trading performance under various market regimes.
+   - Researchers use deep reinforcement learning to evaluate [trading performance](/strategies/pairs-trading-performance-of-a-relative-value-arbitrage-rule) under various market regimes.
 
-3. **Big Data and Alternative Datasets**:  
+3. **Big Data and Alternative [Datasets](/datasets)**:  
    - Beyond standard market fundamentals, High-Flyer integrates news feeds, social media sentiment, supply-chain data, and macroeconomic indicators into its models.  
 
 High-Flyer was among the earliest Chinese hedge funds to explore advanced machine learning in trading, believing that future alpha (i.e., excess returns) depends on strong computing capabilities and robust AI algorithms rather than purely fundamental or price-volume factors.
@@ -101,7 +101,7 @@ High-Flyer employs a broad range of techniques, including:
 
 - **Price-Volume Factor Strategies**: Initially pivotal to outperformance from 2016 to 2020.  
 - **Machine Learning Models**: Predictive algorithms for short-term price movements, volatility management, and real-time portfolio rebalancing.  
-- **Fundamental-Based Quant Strategies**: Integrating alternative data to forecast corporate earnings and economic trends.
+- **Fundamental-Based Quant Strategies**: Integrating [alternative data](/datasets/best-alternative-data) to forecast corporate earnings and economic trends.
 
 ### Risk and Volatility Management  
 
@@ -129,7 +129,7 @@ High-Flyer is widely recognized as the **founder and primary backer** of **DeepS
 
 DeepSeek, originally established as a research laboratory within High-Flyer Quant, has transitioned to become a prominent force in artificial intelligence innovation, primarily through its notable advancements in AI model optimization. At the forefront of DeepSeek's technological strides is its flagship AI model, DeepSeek-R1. This model has demonstrated superior performance in numerous benchmarks, surpassing well-established industry leaders such as OpenAI. The model's efficiency highlights DeepSeek's capability in developing sophisticated AI solutions with a focus on resource optimization.
 
-The strategic use of a combination of AI technologies and quantitative analysis has facilitated DeepSeek's evolution. From its initial function as a research arm within the hedge fund, it has rapidly progressed to a position of leadership in AI research and development. This transition underscores the organization's strategic pivot from primarily financial analytics to broader AI innovations.
+The strategic use of a combination of AI technologies and quantitative analysis has facilitated DeepSeek's evolution. From its initial function as a research arm within the hedge fund, it has rapidly progressed to a position of leadership in AI [research and development](/strategies/the-stock-market-valuation-of-research-and-development-expenditures). This transition underscores the organization's strategic pivot from primarily financial analytics to broader AI innovations.
 
 DeepSeek's achievement is indicative of a larger trend where Chinese companies are effectively navigating constraints imposed by limited resources and stringent regulatory environments to drive innovation. The ability to deliver impactful AI solutions under such conditions emphasizes the ingenuity and resilience of Chinese technology firms. 
 

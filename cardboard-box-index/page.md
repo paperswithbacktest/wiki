@@ -10,7 +10,7 @@ Among the multitude of economic indicators, the Cardboard Box Index stands out d
 
 ![Image](images/1.png)
 
-This article investigates the intersection of economic indicators, supply chain metrics, and algorithmic trading, with a particular focus on the Cardboard Box Index. Our objective is to elucidate how these components interact, offering valuable insights into market trends and the overarching health of the economy. By examining these elements, we can gain a more comprehensive understanding of their respective and combined influences on economic forecasting and decision-making processes.
+This article investigates the intersection of economic indicators, supply chain metrics, and [algorithmic trading](/course/algorithmic-trading-maths), with a particular focus on the Cardboard Box Index. Our objective is to elucidate how these components interact, offering valuable insights into market trends and the overarching health of the economy. By examining these elements, we can gain a more comprehensive understanding of their respective and combined influences on economic forecasting and decision-making processes.
 
 ## Table of Contents
 
@@ -18,7 +18,7 @@ This article investigates the intersection of economic indicators, supply chain 
 
 Economic indicators are essential tools used to assess the current and future state of economic activity. They serve as critical decision-making aids for businesses, investors, and government entities by providing a snapshot of economic performance and trends. These indicators are categorized into three main types: leading, lagging, and coincident.
 
-Leading indicators are predictive in nature, offering insights into future economic conditions before they materialize. They are invaluable for anticipating economic shifts, allowing stakeholders to prepare and adjust their strategies accordingly. The Cardboard Box Index is an example of a leading indicator because it tracks the production of cardboard boxes, which are integral in packaging consumer goods. Changes in the index can foreshadow shifts in consumer demand and manufacturing output, making it a useful predictor of upcoming economic activity.
+Leading indicators are predictive in nature, offering insights into future economic conditions before they materialize. They are invaluable for anticipating economic shifts, allowing stakeholders to prepare and adjust their [strategies](/strategies) accordingly. The Cardboard Box Index is an example of a leading indicator because it tracks the production of cardboard boxes, which are integral in packaging consumer goods. Changes in the index can foreshadow shifts in consumer demand and manufacturing output, making it a useful predictor of upcoming economic activity.
 
 Lagging indicators, on the other hand, provide information after economic changes have occurred. These indicators are typically used to confirm long-term trends. Employment rates and consumer price indices are classic examples, as they reflect economic performance over a prior period. While these indicators do not predict future conditions, they are valuable for validating economic models and strategies.
 
@@ -56,7 +56,7 @@ $$
 
 where $C$ is consumption, $I$ is investment, $G$ is government spending, $X$ is exports, and $M$ is imports. An efficient supply chain affects $C$, $I$, and $(X - M)$, particularly by boosting exports and reducing imports through domestic production efficiencies.
 
-In practice, companies utilize data analytics tools to harness these metrics for forecasting demand and managing supply chain risks. For instance, Python-based data analysis frameworks can efficiently process large datasets from freight and production statistics to derive actionable insights. Here is a sample Python snippet that demonstrates how businesses might analyze freight data:
+In practice, companies utilize data analytics tools to harness these metrics for forecasting demand and managing supply chain risks. For instance, Python-based data analysis frameworks can efficiently process large [datasets](/datasets) from freight and production statistics to derive actionable insights. Here is a sample Python snippet that demonstrates how businesses might analyze freight data:
 
 ```python
 import pandas as pd
@@ -80,7 +80,7 @@ This example illustrates how freight data can be monitored over time to inform d
 
 Algorithmic trading has transformed financial markets by enabling rapid execution of trades using automated systems that rely on predefined criteria, which include various economic indicators. These indicators serve as vital components in the algorithms, guiding them to make swift and informed trading decisions. By integrating unconventional indicators, such as the Cardboard Box Index, alongside traditional economic data, traders can enhance their decision-making processes.
 
-The Cardboard Box Index is particularly useful in algorithmic trading strategies because it acts as a leading indicator for consumer goods production. By monitoring changes in cardboard box production, traders may gain early insights into fluctuations in manufacturing activity. This foresight allows them to anticipate shifts in market trends and adjust their trading strategies accordingly. When combined with other economic indicators like GDP growth rates, unemployment figures, and consumer confidence indices, the Cardboard Box Index can provide a more comprehensive view of potential market movements.
+The Cardboard Box Index is particularly useful in algorithmic [trading strategies](/course/volume-profile-indicator-trading-strategies) because it acts as a leading indicator for consumer goods production. By monitoring changes in cardboard box production, traders may gain early insights into fluctuations in manufacturing activity. This foresight allows them to anticipate shifts in market trends and adjust their trading strategies accordingly. When combined with other economic indicators like GDP growth rates, unemployment figures, and consumer confidence indices, the Cardboard Box Index can provide a more comprehensive view of potential market movements.
 
 Algorithms, equipped with machine learning capabilities, can analyze extensive datasets at speeds unattainable by human analysts. They identify patterns and correlations within the data that may not be immediately discernible. For example, an algorithm might detect a consistent rise in cardboard box production coupled with increasing freight tonnage, signaling a strengthening economy. Such insights enable traders to act swiftly, capitalizing on opportunities or mitigating risks before they become apparent to the broader market.
 

@@ -6,9 +6,9 @@ description: The foundations of mechanical trading strategies, including market
 title: 'Mechanical Trading Strategies: The Comprehensive Guide'
 ---
 
-The surge in the adoption of mechanical trading strategies is primarily fueled by the shift towards [data-driven decision-making](https://paperswithbacktest.com/datasets) in financial markets. Traders are increasingly relying on algorithms and systematic approaches to analyze vast quantities of market data swiftly and efficiently. [Mechanical trading strategies](https://paperswithbacktest.com/), defined by a set of predefined rules for entry, exit, and risk management, enable traders to execute trades with precision and speed that is humanly unattainable.
+The surge in the adoption of mechanical [trading strategies](/course/volume-profile-indicator-trading-strategies) is primarily fueled by the shift towards [data-driven decision-making](https://paperswithbacktest.com/datasets) in financial markets. Traders are increasingly relying on algorithms and systematic approaches to analyze vast quantities of market data swiftly and efficiently. [Mechanical trading strategies](https://paperswithbacktest.com/), defined by a set of predefined rules for entry, exit, and risk management, enable traders to execute trades with precision and speed that is humanly unattainable.
 
-The significance of these strategies lies in their ability to facilitate unbiased, emotion-free trading decisions. Traditional trading can be influenced by psychological factors such as fear, greed, and bias, which can lead to irrational decisions and consequently, financial losses. Mechanical trading strategies, on the other hand, adhere strictly to predefined criteria, thereby eliminating emotional interference and ensuring consistency in decision-making. This objectivity is essential in maintaining a disciplined approach to trading, especially in volatile markets.
+The significance of these [strategies](/strategies) lies in their ability to facilitate unbiased, emotion-free trading decisions. Traditional trading can be influenced by psychological factors such as fear, greed, and bias, which can lead to irrational decisions and consequently, financial losses. Mechanical trading strategies, on the other hand, adhere strictly to predefined criteria, thereby eliminating emotional interference and ensuring consistency in decision-making. This objectivity is essential in maintaining a disciplined approach to trading, especially in volatile markets.
 
 ![Image](images/1.jpeg)
 
@@ -20,7 +20,7 @@ Trading, in its essence, is the act of buying and selling securities with the ai
 
 **Definition and Key Differences**
 
-Mechanical trading, often synonymous with systematic or algorithmic trading, involves making buy or sell decisions based on predefined rules established by a trading strategy or algorithm. These rules are rigid, derived from historical data analysis, and are followed without deviation. The system takes in market data, processes it through these rules, and outputs trading decisions without the need for human intervention.
+Mechanical trading, often synonymous with systematic or [algorithmic trading](/course/algorithmic-trading-maths), involves making buy or sell decisions based on predefined rules established by a trading strategy or algorithm. These rules are rigid, derived from historical data analysis, and are followed without deviation. The system takes in market data, processes it through these rules, and outputs trading decisions without the need for human intervention.
 
 Discretionary trading, on the other hand, grants the trader flexibility. While a discretionary trader might use a set of guidelines or even a basic strategy, the final decision to trade comes down to their judgment. They can choose to override a system's suggestion based on recent news, gut feeling, or any other external influence they deem relevant.
 
@@ -28,7 +28,7 @@ Discretionary trading, on the other hand, grants the trader flexibility. While a
 
 The roots of mechanical trading can be traced back to the early days of computing. With the advent of digital technology in the 1970s and 1980s, traders began to see the potential of automating trading decisions based on mathematical models. Richard Dennis and his "Turtle Traders" in the 1980s are a well-known example, [utilizing trend-following strategies based on fixed rules](https://paperswithbacktest.com/paper/does-trend-following-work-on-stocks). These early adopters paved the way for the algorithm-driven trading systems that dominate modern financial markets.
 
-Discretionary trading, conversely, has a much older lineage, rooted in the earliest stock markets of the 17th and 18th centuries. Before the digital age, traders relied on fundamental analysis, news, and their personal judgment to make trading decisions. Even as mechanical systems began to gain traction, discretionary traders have held their ground, adapting by integrating modern tools and analytics into their decision-making process.
+Discretionary trading, conversely, has a much older lineage, rooted in the earliest stock markets of the 17th and 18th centuries. Before the digital age, traders relied on [fundamental analysis](/course/fundamental-analysis), news, and their personal judgment to make trading decisions. Even as mechanical systems began to gain traction, discretionary traders have held their ground, adapting by integrating modern tools and analytics into their decision-making process.
 
 **Advantages and Disadvantages of Both Methods**
 
@@ -59,11 +59,11 @@ In summary, while mechanical trading offers the promise of emotion-free, consist
 
 Mechanical trading strategies provide a structured approach to the chaotic world of financial markets. By adhering to predefined rules and parameters, these strategies aim to remove human emotions from the trading equation. The foundational elements of these systems are crucial for their success and are comprised of several core components.
 
-**Market Selection**: Before any strategy can be applied, a market or group of markets must be chosen. This is often based on the liquidity, volatility, and specific characteristics of an asset class. For example, a strategy designed for equity markets might not be suitable for commodities or forex due to their distinct price dynamics[1].
+**Market Selection**: Before any [strategy can](/strategies/low-volatility-strategy-can-we-time-the-factor) be applied, a market or group of markets must be chosen. This is often based on the liquidity, volatility, and specific characteristics of an asset class. For example, a strategy designed for equity markets might not be suitable for commodities or forex due to their distinct price dynamics[1].
 
 **Position Sizing**: This refers to the amount of capital allocated to a particular trade. Determining position size is crucial for managing risk. The famous "2% rule", which suggests never risking more than 2% of your trading capital on a single trade, is a common heuristic in this arena[2].
 
-**Entry and Exit**: These are the specific conditions under which a trade is initiated or closed. Entry could be triggered by various indicators, such as a moving average crossover or a breakout from a price range. Exit points, on the other hand, are defined to either lock in profits or limit losses.
+**Entry and Exit**: These are the specific conditions under which a trade is initiated or closed. Entry could be triggered by various indicators, such as a [moving average](/course/hull-moving-average) crossover or a breakout from a price range. Exit points, on the other hand, are defined to either lock in profits or limit losses.
 
 **Stops and Targets**: Stop orders are used to limit potential losses. For instance, a trader might set a stop-loss order 1% below the purchase price. Targets, conversely, specify a price at which profits will be taken. These components ensure that trades are closed at predetermined levels, adding a layer of protection and profit-taking discipline.
 
@@ -77,21 +77,21 @@ Mechanical trading strategies heavily rely on technical indicators to inform and
 
 **Trend-following Indicators**: As the name implies, these indicators aim to identify and capitalize on existing market trends. Some of the most common trend-following indicators include:
 
-- **Moving Averages (MA)**: By averaging prices over a specific period, MAs smooth out price data to identify a potential trend. The most popular variations include the Simple Moving Average (SMA) and the Exponential Moving Average (EMA).
+- **Moving Averages (MA)**: By averaging prices over a specific period, MAs smooth out price data to identify a potential trend. The most popular variations include the [Simple Moving Average](/strategies/200-day-simple-moving-average-calculation-application) (SMA) and the Exponential Moving Average (EMA).
 - **Moving Average Convergence Divergence (MACD)**: This indicator subtracts the longer MA from the shorter MA, offering insights into potential trend reversals.
 - **Average True Range (ATR)**: Measures market volatility by calculating the difference between the highest and lowest prices of an asset.
 
-**Mean Reversion Indicators**: These indicators operate on the assumption that prices will revert to their mean or average level over time. Prominent mean reversion indicators include:
+**[Mean Reversion](/strategies/mean-reversion-trading-strategy) Indicators**: These indicators operate on the assumption that prices will revert to their mean or average level over time. Prominent mean reversion indicators include:
 
-- **Relative Strength Index (RSI)**: Measures the speed and change of price movements and indicates overbought or oversold conditions on a scale of 0 to 100[3].
+- **[Relative Strength Index](/datasets/comparison-money-flow-index-relative-strength-index) (RSI)**: Measures the speed and change of price movements and indicates overbought or oversold conditions on a scale of 0 to 100[3].
 - **Bollinger Bands**: Comprises of a middle band being an N-period SMA and two outer bands which are standard deviations away from the SMA. It identifies when an asset is overbought or oversold.
 
 Beyond these indicators, various market metrics play pivotal roles in the mechanics of trading strategies:
 
-- **Price**: The most fundamental metric, it reflects the equilibrium between supply and demand forces.
+- **Price**: The most fundamental metric, it reflects the equilibrium between [supply and demand](/strategies/supply-and-demand-trading-strategy) forces.
 - **Volume**: Represents the number of shares or contracts traded in an asset or security. High volume often indicates strong market interest, while low volume might indicate a lack of conviction or disinterest.
-- **Volatility**: Captures the rate and magnitude of asset price changes. High volatility suggests significant price uncertainty, while low volatility indicates more consistent prices.
-- **Other Market Metrics**: Factors like open interest in futures markets, bid-ask spreads, and market depth can provide additional insights into market sentiment and potential price direction.
+- **Volatility**: Captures the rate and magnitude of asset price changes. High volatility suggests significant price uncertainty, while [low volatility](/strategies/the-low-volatility-anomaly-in-equity-sectors-years-later) indicates more consistent prices.
+- **Other Market Metrics**: Factors like open interest in futures markets, bid-ask spreads, and market depth can provide additional insights into [market sentiment](/course/aaii-and-market-sentiment-indicators) and potential price direction.
 
 [Understanding these indicators and metrics is crucial for the development and refinement of mechanical trading strategies.](https://paperswithbacktest.com/paper/the-volatility-effect-lower-risk-without-lower-return) Their proper application can offer traders a data-driven edge, facilitating informed and strategic decision-making in various market conditions.
 

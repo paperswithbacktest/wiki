@@ -4,17 +4,17 @@ title: "VectorBT Guide (Algo Trading)"
 description: "Backtest and optimize trading strategies efficiently with Python’s vectorbt library."
 ---
 
-Algorithmic trading has become a cornerstone in contemporary financial markets, offering the ability to execute trades at unprecedented speed and precision. By utilizing algorithms, traders can automate decisions, which frees them from the emotional biases that often plague human judgment. This shift towards automation has not only reshaped market dynamics but has also democratized the trading landscape, allowing individual traders to compete with institutional counterparts.
+[Algorithmic trading](/course/algorithmic-trading-maths) has become a cornerstone in contemporary financial markets, offering the ability to execute trades at unprecedented speed and precision. By utilizing algorithms, traders can automate decisions, which frees them from the emotional biases that often plague human judgment. This shift towards automation has not only reshaped market dynamics but has also democratized the trading landscape, allowing individual traders to compete with institutional counterparts.
 
-Central to the success of algorithmic trading is the ability to backtest trading strategies efficiently. Backtesting involves simulating a trading strategy on historical data to evaluate its performance. A robust backtesting process is crucial for assessing a strategy's viability before deploying it in real markets. This is where vectorbt, a Python library, comes into play. Vectorbt is designed specifically for backtesting trading strategies, offering an advanced toolkit that handles large datasets with remarkable speed and accuracy.
+Central to the success of algorithmic trading is the ability to backtest [trading strategies](/course/volume-profile-indicator-trading-strategies) efficiently. Backtesting involves simulating a trading strategy on historical data to evaluate its performance. A robust backtesting process is crucial for assessing a strategy's viability before deploying it in real markets. This is where vectorbt, a Python library, comes into play. Vectorbt is designed specifically for backtesting trading strategies, offering an advanced toolkit that handles large datasets with remarkable speed and accuracy.
 
 ![Image](images/1.png)
 
-This article explores the use of vectorbt in algorithmic trading, outlining its capabilities and the advantages it offers to traders. Vectorbt's powerful features enable both novice and experienced traders to build, test, and optimize trading strategies efficiently. The library's comprehensive approach comprises intricate functionalities such as data visualization, strategy optimization, and seamless integration with other Python libraries, making it an integral asset for anyone involved in algorithmic trading.
+This article explores the use of vectorbt in algorithmic trading, outlining its capabilities and the advantages it offers to traders. Vectorbt's powerful features enable both novice and experienced traders to build, test, and optimize trading strategies efficiently. The library's comprehensive approach comprises intricate functionalities such as data visualization, [strategy optimization](/strategies/trading-strategy-optimization), and seamless integration with other Python libraries, making it an integral asset for anyone involved in algorithmic trading.
 
-Algo traders should consider vectorbt due to its unique combination of flexibility and performance. Unlike many traditional backtesting tools, vectorbt utilizes pandas and NumPy libraries for fast numerical computations, allowing it to process vast amounts of data quickly. This efficiency is crucial in the high-frequency trading environment, where milliseconds can determine the success of a trade. Furthermore, vectorbt's open-source nature and active community contribute to a rich ecosystem of support and continuous improvement.
+Algo traders should consider vectorbt due to its unique combination of flexibility and performance. Unlike many traditional backtesting tools, vectorbt utilizes pandas and NumPy libraries for fast numerical computations, allowing it to process vast amounts of data quickly. This efficiency is crucial in the [high-frequency trading](/course/high-frequency-trading-ii-limit-order-book) environment, where milliseconds can determine the success of a trade. Furthermore, vectorbt's open-source nature and active community contribute to a rich ecosystem of support and continuous improvement.
 
-As we progress, this article will delve deeper into how vectorbt functions as a cornerstone for developing robust trading strategies. By understanding its features, installation process, and advanced techniques, traders can harness its full potential to enhance their trading strategies and achieve better outcomes in financial markets.
+As we progress, this article will delve deeper into how vectorbt functions as a cornerstone for developing robust trading [strategies](/strategies). By understanding its features, installation process, and advanced techniques, traders can harness its full potential to enhance their trading strategies and achieve better outcomes in financial markets.
 
 ## Table of Contents
 
@@ -22,13 +22,13 @@ As we progress, this article will delve deeper into how vectorbt functions as a 
 
 Algorithmic trading, often referred to as algo trading, is the use of computer algorithms to automate trading decisions in financial markets. These algorithms execute and manage investments based on pre-defined parameters, such as timing, price, or quantity. In modern financial markets, algorithmic trading has become critically important, largely due to its capacity to efficiently process large volumes of data at high speeds, thereby allowing traders to capitalize on even the smallest market inefficiencies.
 
-One of the primary benefits of algorithmic trading is its speed. In markets where prices can change in milliseconds, the ability of algorithms to react instantly offers a significant advantage over manual trading. Furthermore, algorithmic systems improve accuracy by adhering strictly to the rules of a trading strategy and executing trades with precision, thus minimizing human error. Another advantage is the elimination of emotional factors from trading decisions, which often leads to more consistent performance and adherence to the predefined trading strategy.
+One of the primary benefits of algorithmic trading is its speed. In markets where prices can change in milliseconds, the ability of algorithms to react instantly offers a significant advantage over manual trading. Furthermore, algorithmic systems improve accuracy by adhering strictly to the rules of a [trading strategy](/course/williams-r-trading-strategy) and executing trades with precision, thus minimizing human error. Another advantage is the elimination of emotional factors from trading decisions, which often leads to more consistent performance and adherence to the predefined trading strategy.
 
-There are several common strategies employed in algorithmic trading. One example is statistical arbitrage, which involves exploiting the price differences between different assets that typically move in a correlated manner. Another common strategy is trend following, where algorithms identify and trade in the direction of a significant market trend. Market making is another strategy where an algorithm seeks to profit from the bid-ask spread by simultaneously placing buy and sell orders.
+There are several common strategies employed in algorithmic trading. One example is statistical arbitrage, which involves exploiting the price differences between different assets that typically move in a correlated manner. Another common strategy is [trend following](/edarchimbaud/strategies/does-trend-following-work-on-stocks), where algorithms identify and trade in the direction of a significant market trend. Market making is another strategy where an algorithm seeks to profit from the bid-ask spread by simultaneously placing buy and sell orders.
 
 The adoption of algorithmic trading by individual traders has been on the rise, fueled by the availability of sophisticated trading platforms and tools. With the advancement of technology and the internet, individual traders now have access to the same cutting-edge trading tools that were once the domain of large financial institutions. This democratization of access has allowed more traders to implement algorithmic strategies in their portfolios.
 
-However, despite its benefits, algorithmic trading presents several challenges. Developing a robust algorithm requires a deep understanding of both trading strategies and software engineering. Moreover, market conditions can change rapidly, necessitating constant strategy evaluation and optimization to maintain effectiveness. This is where tools like vectorbt prove invaluable. Vectorbt offers a platform to backtest and validate trading strategies against historical data quickly and efficiently. By allowing for the testing of complex strategies with large datasets, it aids traders in refining their algorithms and ensuring they are robust before they are deployed in live markets. This reduces the likelihood of unexpected outcomes and enhances the consistency and reliability of trading strategies.
+However, despite its benefits, algorithmic trading presents several challenges. Developing a robust algorithm requires a deep understanding of both trading strategies and software engineering. Moreover, market conditions can change rapidly, necessitating constant strategy evaluation and optimization to maintain effectiveness. This is where tools like vectorbt prove invaluable. Vectorbt offers a platform to backtest and validate trading strategies against historical data quickly and efficiently. By allowing for the testing of complex strategies with large [datasets](/datasets), it aids traders in refining their algorithms and ensuring they are robust before they are deployed in live markets. This reduces the likelihood of unexpected outcomes and enhances the consistency and reliability of trading strategies.
 
 ## What is vectorbt?
 
@@ -36,7 +36,7 @@ vectorbt is a robust, Python-based library specifically designed for backtesting
 
 ### Key Features of vectorbt
 
-vectorbt provides a variety of robust features that cater to both novice and seasoned algorithmic traders. Its core functionality revolves around fast execution, scalability, and the capacity to manage substantial datasets, which is crucial for processing extensive historical market data. Here are some notable features:
+vectorbt provides a variety of robust features that cater to both novice and seasoned algorithmic traders. Its core functionality revolves around fast execution, scalability, and the capacity to manage substantial datasets, which is crucial for processing extensive [historical market](/course/100-years-of-historical-market-cycles) data. Here are some notable features:
 
 1. **Fast Vectorized Backtesting**: By leveraging NumPy and Numba, vectorbt performs operations on entire datasets simultaneously, significantly speeding up the backtesting process compared to conventional iterative methods. This vectorization is a key determinant of its efficiency.
 
@@ -44,7 +44,7 @@ vectorbt provides a variety of robust features that cater to both novice and sea
 
 3. **Comprehensive Visualization Tools**: It includes powerful visualization capabilities, utilizing Plotly for dynamic charting and the ability to render strategies and their performance assessments graphically, aiding traders in interpreting data.
 
-4. **Integration and Compatibility**: vectorbt can easily integrate with other libraries and data sources such as pandas, yfinance, and other APIs. This interoperability enhances its utility for fetching real-time data and executing strategies based on the most current information.
+4. **Integration and Compatibility**: vectorbt can easily integrate with other libraries and data sources such as pandas, [yfinance](/datasets/yfinance), and other APIs. This interoperability enhances its utility for fetching real-time data and executing strategies based on the most current information.
 
 5. **Robust Testing Environment**: The library offers a comprehensive testing environment that allows users to stress-test their strategies under various market scenarios, enhancing the reliability and robustness of trading strategies.
 
@@ -78,7 +78,7 @@ Overall, vectorbt stands out as a versatile and powerful tool for algorithmic tr
 
 ## How To Get Started with vectorbt
 
-To begin using vectorbt, you must first install it and set up the environment properly. Vectorbt is a versatile library that integrates seamlessly with the Python programming language, making use of an environment such as Jupyter Notebook ideal for development. Start by ensuring that Python is installed on your system. You can download the latest version from the [official Python website](https://www.python.org/downloads/).
+To begin using vectorbt, you must first install it and set up the environment properly. Vectorbt is a versatile library that integrates seamlessly with the Python programming language, making use of an environment such as Jupyter Notebook ideal for development. Start by ensuring that Python is installed on your system. [You can](/course/whats-the-best-backtesting-tool-you-can-recommend) download the latest version from the [official Python website](https://www.python.org/downloads/).
 
 ### Step-by-step Guide to Installing vectorbt
 
@@ -106,7 +106,7 @@ To begin using vectorbt, you must first install it and set up the environment pr
 
 ### Basic Walkthrough for Creating a Simple Trading Strategy
 
-Vectorbt allows you to prototype trading strategies using its powerful vectorized approach, making the process both efficient and flexible. Below is a simple example using a moving average crossover strategy:
+Vectorbt allows you to prototype trading [strategies using](/strategies/abnormal-returns-with-momentum-contrarian-strategies-using-exchange-traded-funds) its powerful vectorized approach, making the process both efficient and flexible. Below is a simple example using a moving average crossover strategy:
 
 ```python
 import vectorbt as vbt
