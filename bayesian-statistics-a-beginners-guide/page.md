@@ -24,7 +24,7 @@ $$
 
 Here, $P(H|E)$ represents the posterior probability, or the probability of the hypothesis $H$ given the evidence $E$. $P(E|H)$ is the likelihood, indicating the probability of observing the evidence given that the hypothesis is true. $P(H)$ is the prior probability, representing the initial belief about the hypothesis before considering the evidence. Finally, $P(E)$ is the marginal likelihood, the total probability of observing the evidence under all possible hypotheses.
 
-Key to Bayesian [statistics](/wiki/bayesian-statistics) is the notion of prior, likelihood, and posterior probabilities, each serving a critical role in the process of belief updating:
+Key to Bayesian statistics is the notion of prior, likelihood, and posterior probabilities, each serving a critical role in the process of belief updating:
 
 1. **Prior Probability ($P(H)$)**: This quantifies the initial belief about the hypothesis before observing any new data. It encapsulates prior knowledge or assumptions, which can be subjective.
 
@@ -32,7 +32,7 @@ Key to Bayesian [statistics](/wiki/bayesian-statistics) is the notion of prior, 
 
 3. **Posterior Probability ($P(H|E)$)**: This reflects the updated belief about the hypothesis after considering the new evidence. It combines the prior and the likelihood to provide a comprehensive understanding of the hypothesis in light of the data.
 
-Bayesian inference is thus an iterative process, continuously refining predictions as more data becomes available. This characteristic makes Bayesian methods particularly suited for dynamic environments where data continuously changes or accumulates, such as in [algorithmic trading](/wiki/algorithmic-trading).
+Bayesian inference is thus an iterative process, continuously refining predictions as more data becomes available. This characteristic makes Bayesian methods particularly suited for dynamic environments where data continuously changes or accumulates, such as in algorithmic trading.
 
 The application of Bayesian statistics allows for a structured approach to incorporate new evidence into existing models, effectively integrating both prior beliefs and new information to make informed decisions. As such, Bayesian methods provide flexibility and rigor in evaluating hypotheses and optimizing decision-making processes.
 
@@ -86,7 +86,7 @@ model.fit(data)
 
 This model interprets a sequence of returns and estimates the probability of being in either the bullish or bearish state at any given point in the sequence.
 
-Bayesian methods allow continuous adaptation and learning, which is critical in financial markets characterized by [volatility](/wiki/volatility-trading-strategies) and changeability. As new market data becomes available, Bayesian models can incrementally update their parameters, thereby refining their predictions and improving decision-making accuracy. This gradual learning process ensures that trading strategies remain relevant across varying market conditions. 
+Bayesian methods allow continuous adaptation and learning, which is critical in financial markets characterized by volatility and changeability. As new market data becomes available, Bayesian models can incrementally update their parameters, thereby refining their predictions and improving decision-making accuracy. This gradual learning process ensures that trading strategies remain relevant across varying market conditions. 
 
 The strength of Bayesian models lies in their ability to manage uncertainty and leverage additional information effectively. This capability provides a strategic advantage over traditional static models, which do not recalibrate unless explicitly retrained. By utilizing Bayesian approaches, algorithmic trading systems are better equipped to anticipate and respond to the intricate pattern complexities inherent in financial markets.
 
@@ -108,9 +108,9 @@ Integrating Bayesian optimization within algorithmic trading strategies facilita
 
 ## Case Study: Bayesian Improvement in Trading Strategies
 
-A practical example of Bayesian inference enhancing a trading strategy can be observed in the application to a [momentum](/wiki/momentum)-based stock trading system. In this scenario, the objective is to adaptively manage buy and sell decisions based on the dynamic assessment of market conditions, using Bayesian networks to model uncertainty and market movements.
+A practical example of Bayesian inference enhancing a trading strategy can be observed in the application to a momentum-based stock trading system. In this scenario, the objective is to adaptively manage buy and sell decisions based on the dynamic assessment of market conditions, using Bayesian networks to model uncertainty and market movements.
 
-In implementing this strategy, traders start with an initial belief or prior probability about the direction of a stock's momentum, derived from historical data. As new market data streams in, such as price changes and trading [volume](/wiki/volume-trading-strategy), Bayesian inference allows traders to update their belief system in real-time. The posterior distribution, which represents the updated beliefs about momentum direction, is computed using Bayes' Theorem:
+In implementing this strategy, traders start with an initial belief or prior probability about the direction of a stock's momentum, derived from historical data. As new market data streams in, such as price changes and trading volume, Bayesian inference allows traders to update their belief system in real-time. The posterior distribution, which represents the updated beliefs about momentum direction, is computed using Bayes' Theorem:
 
 $$
 P(\text{Momentum}|\text{Data}) = \frac{P(\text{Data}|\text{Momentum}) \cdot P(\text{Momentum})}{P(\text{Data})}
@@ -142,7 +142,7 @@ posterior = (likelihood * norm.pdf(prior_mean, loc=new_data, scale=prior_std)) /
 posterior
 ```
 
-The Bayesian inference process allows for continuous adaptation, as each day's return data updates the model's parameters, resulting in a dynamic and robust trading strategy. By continually refining the model's predictions, traders can make more informed decisions on when to enter or [exit](/wiki/exit-strategy) the market, thus improving the strategy's performance over time.
+The Bayesian inference process allows for continuous adaptation, as each day's return data updates the model's parameters, resulting in a dynamic and robust trading strategy. By continually refining the model's predictions, traders can make more informed decisions on when to enter or exit the market, thus improving the strategy's performance over time.
 
 The case study reveals that incorporating Bayesian methods significantly enhances decision-making accuracy. This flexibility permits traders to adjust their strategies promptly in response to evolving market scenarios, optimally aligning with current conditions. The adaptability provided by Bayesian inference not only aids in managing risk but also in capitalizing on potential market opportunities, leading to superior trading outcomes.
 
@@ -176,7 +176,7 @@ $$
 
 where $P(\theta | D)$ is the posterior probability of the parameter $\theta$ given data $D$, $P(D | \theta)$ is the likelihood of the data given $\theta$, $P(\theta)$ is the prior probability of $\theta$, and $P(D)$ is the marginal likelihood of the data.
 
-As computational capabilities continue to evolve, the practical application of Bayesian methods in trading systems is becoming more feasible. Modern computational tools simplify the implementation of complex Bayesian algorithms, allowing for greater precision in model development and execution. Furthermore, advancements in [machine learning](/wiki/machine-learning) and [artificial intelligence](/wiki/ai-artificial-intelligence) have opened new avenues for the integration of Bayesian inference in predictive modelling and hyperparameter optimization.
+As computational capabilities continue to evolve, the practical application of Bayesian methods in trading systems is becoming more feasible. Modern computational tools simplify the implementation of complex Bayesian algorithms, allowing for greater precision in model development and execution. Furthermore, advancements in machine learning and artificial intelligence have opened new avenues for the integration of Bayesian inference in predictive modelling and hyperparameter optimization.
 
 In summary, as the sophistication of computational techniques and the availability of high-frequency data grow, the integration of Bayesian methods in algorithmic trading is poised for significant expansion. This approach not only enhances the adaptive capacity of trading models but also strengthens the overall robustness and performance of trading strategies.
 

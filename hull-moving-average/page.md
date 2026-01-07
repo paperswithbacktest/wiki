@@ -64,7 +64,7 @@ The result is a Hull Moving Average that is both smoothed and sensitive to recen
 
 The Hull Moving Average (HMA) is a versatile indicator with a default period setting of 14. However, the effectiveness of the HMA can vary significantly depending on the market conditions and the trading strategy of the individual trader.
 
-For traders engaging in short-term trading, such as [day trading](/wiki/day-trading-spy) or [scalping](/wiki/gamma-scalping), shorter periods than the default may be advantageous. Shorter periods increase the sensitivity of the HMA to recent price changes, allowing the trader to capture quick movements more effectively. For instance, a period setting of 7 might be used to enhance the responsiveness of the HMA to very rapid market shifts.
+For traders engaging in short-term trading, such as day trading or scalping, shorter periods than the default may be advantageous. Shorter periods increase the sensitivity of the HMA to recent price changes, allowing the trader to capture quick movements more effectively. For instance, a period setting of 7 might be used to enhance the responsiveness of the HMA to very rapid market shifts.
 
 Conversely, long-term traders, such as those focusing on trend-following or position trading, may find utility in extending the HMA period beyond 14. Longer periods help in smoothing out the price action further, providing a clearer view of broader market trends. Examples might include using HMA periods of 21 or 50 to track more established price movements.
 
@@ -101,9 +101,9 @@ Such automated calculations can streamline the process of tuning HMA parameters,
 
 ## Hull Moving Average in Algo Trading
 
-In [algorithmic trading](/wiki/algorithmic-trading), the Hull Moving Average (HMA) is a versatile tool that can be integrated into various strategies, such as mean-reversion and trend-following. The HMA stands out for its reduced lag and smoothing effect, which enhance its ability to identify [breakout](/wiki/breakout-trading) points and confirm trend directions, making it a popular choice among traders aiming to automate their strategies.
+In algorithmic trading, the Hull Moving Average (HMA) is a versatile tool that can be integrated into various strategies, such as mean-reversion and trend-following. The HMA stands out for its reduced lag and smoothing effect, which enhance its ability to identify breakout points and confirm trend directions, making it a popular choice among traders aiming to automate their strategies.
 
-The primary advantage of incorporating the HMA into algorithmic systems lies in its responsiveness to market changes. By minimizing lag, the HMA allows traders to react swiftly to potential trend reversals or continuations, thereby optimizing entry and [exit](/wiki/exit-strategy) points in a trading strategy. This is particularly valuable in fast-moving markets where precision timing can lead to better profitability.
+The primary advantage of incorporating the HMA into algorithmic systems lies in its responsiveness to market changes. By minimizing lag, the HMA allows traders to react swiftly to potential trend reversals or continuations, thereby optimizing entry and exit points in a trading strategy. This is particularly valuable in fast-moving markets where precision timing can lead to better profitability.
 
 To automate trading strategies using the HMA, traders can leverage programming languages such as Python to implement and customize their algorithms. A typical Python implementation might involve libraries like NumPy and pandas for data manipulation and calculation. Below is a basic example of how the HMA could be coded:
 

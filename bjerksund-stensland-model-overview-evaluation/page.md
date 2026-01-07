@@ -22,7 +22,7 @@ One of the distinguishing features of this model is its ability to incorporate c
 
 The Bjerksund-Stensland model operates by dividing the time to maturity into distinct periods with flat exercise boundaries. This segmentation aids in the computation process, allowing for more precise option pricing. The flat exercise boundary approach simplifies the analysis of the option's value throughout its life, providing a computationally efficient means to address the early exercise feature inherent in American options.
 
-The mathematical framework of the Bjerksund-Stensland model is underpinned by a set of assumptions, such as constant [volatility](/wiki/volatility-trading-strategies) and a risk-free [interest rate](/wiki/interest-rate-trading-strategies). These assumptions, while simplifying the model, facilitate a robust framework for analyzing American options in markets where these conditions approximately hold. The accuracy of the model depends heavily on accurately estimating these parameters, alongside other inputs like the stock price, strike price, and time to maturity.
+The mathematical framework of the Bjerksund-Stensland model is underpinned by a set of assumptions, such as constant volatility and a risk-free interest rate. These assumptions, while simplifying the model, facilitate a robust framework for analyzing American options in markets where these conditions approximately hold. The accuracy of the model depends heavily on accurately estimating these parameters, alongside other inputs like the stock price, strike price, and time to maturity.
 
 Overall, the introduction of the Bjerksund-Stensland model represents a significant advancement in the field of financial modeling, offering a practical solution for the complexities involved in pricing American options amidst dividend payments.
 
@@ -81,7 +81,7 @@ The reliability of the Bjerksund-Stensland model hinges on the precision of the 
 
 ## Implementing the Bjerksund-Stensland Model in Algorithmic Trading
 
-Implementing the Bjerksund-Stensland model in [algorithmic trading](/wiki/algorithmic-trading) involves a systematic approach to ensure accurate option pricing. The model's integration into trading systems requires defining several key parameters, including stock price, strike price, volatility, risk-free interest rate, dividend yield, and option maturity. These parameters form the backbone of the model's calculations, influencing the precision of the pricing output.
+Implementing the Bjerksund-Stensland model in algorithmic trading involves a systematic approach to ensure accurate option pricing. The model's integration into trading systems requires defining several key parameters, including stock price, strike price, volatility, risk-free interest rate, dividend yield, and option maturity. These parameters form the backbone of the model's calculations, influencing the precision of the pricing output.
 
 To begin implementing the Bjerksund-Stensland model, a mathematical formulation of the model must first be translated into executable code. For algorithmic trading, Python is a popular choice due to its wide range of libraries and ease of use. Utilizing libraries such as NumPy for numerical operations can enhance the efficiency of the implementation.
 
@@ -115,9 +115,9 @@ option_price = bjerksund_stensland(S, K, T, r, sigma, q)
 print(f"Option Price: {option_price}")
 ```
 
-Beyond coding, practical integration into trading systems demands careful parameter calibration and continual model verification. The real-time demands of algorithmic trading require the model to process incoming data efficiently and update calculations promptly. Opting for optimized computational techniques, like vectorization and parallel processing, can improve execution speed, a key [factor](/wiki/factor-investing) in high-frequency trading environments.
+Beyond coding, practical integration into trading systems demands careful parameter calibration and continual model verification. The real-time demands of algorithmic trading require the model to process incoming data efficiently and update calculations promptly. Opting for optimized computational techniques, like vectorization and parallel processing, can improve execution speed, a key factor in high-frequency trading environments.
 
-Maintaining model accuracy involves regular [backtesting](/wiki/backtesting) against historical data. This practice validates the model's predictive power and uncovers potential discrepancies between theoretical and market prices. Adjustments to model parameters or underlying assumptions may be needed based on backtesting results.
+Maintaining model accuracy involves regular backtesting against historical data. This practice validates the model's predictive power and uncovers potential discrepancies between theoretical and market prices. Adjustments to model parameters or underlying assumptions may be needed based on backtesting results.
 
 Another best practice is to incorporate a monitoring system to track model performance continuously. Such a system can issue alerts when significant deviations from expected performance occur, allowing for timely corrective actions.
 

@@ -20,11 +20,11 @@ Zipline offers a streamlined approach to developing trading algorithms, making i
 
 Furthermore, Zipline's integration with scientific libraries such as matplotlib and scikit-learn enhances its utility. Matplotlib allows users to visualize data and trading performance in an intuitive manner, which is crucial for analyzing results and refining strategies. Scikit-learn provides a suite of machine learning tools that can be employed to optimize algorithms and potentially improve trading outcomes. The combination of these libraries within Zipline positions it as a robust solution for conducting sophisticated data analysis and strategy development.
 
-The compatibility of Zipline with DataFrame formats, particularly with the popular Pandas library, is another key benefit. This feature allows users to import historical data seamlessly and export performance [statistics](/wiki/bayesian-statistics) in a format that is highly compatible with other data science tools. Traders can thus leverage the Pandas library to manipulate and analyze this data, enhancing their ability to refine and optimize algorithms.
+The compatibility of Zipline with DataFrame formats, particularly with the popular Pandas library, is another key benefit. This feature allows users to import historical data seamlessly and export performance statistics in a format that is highly compatible with other data science tools. Traders can thus leverage the Pandas library to manipulate and analyze this data, enhancing their ability to refine and optimize algorithms.
 
-Additionally, Zipline's capability to handle both [backtesting](/wiki/backtesting) and live trading offers a versatile platform for traders. Backtesting allows users to apply trading strategies to historical data to evaluate their performance before risking actual capital in live markets. This feature is crucial for validating the robustness of a trading strategy. Meanwhile, the transition from backtesting to live trading within the same framework simplifies the implementation process, reducing the barriers to executing strategies in real-world scenarios.
+Additionally, Zipline's capability to handle both backtesting and live trading offers a versatile platform for traders. Backtesting allows users to apply trading strategies to historical data to evaluate their performance before risking actual capital in live markets. This feature is crucial for validating the robustness of a trading strategy. Meanwhile, the transition from backtesting to live trading within the same framework simplifies the implementation process, reducing the barriers to executing strategies in real-world scenarios.
 
-Overall, Zipline provides an efficient and user-friendly environment for developing and testing [algorithmic trading](/wiki/algorithmic-trading) strategies, aiding traders in focusing on refining their strategies without getting bogged down by the intricacies of execution.
+Overall, Zipline provides an efficient and user-friendly environment for developing and testing algorithmic trading strategies, aiding traders in focusing on refining their strategies without getting bogged down by the intricacies of execution.
 
 ## Installation of Zipline
 
@@ -140,7 +140,7 @@ def handle_data(context, data):
     record(short_mavg=context.short_mavg, long_mavg=context.long_mavg)
 ```
 
-For further exploration, traders can enhance their testing by importing custom datasets, which allows testing strategies on a wider range of scenarios and financial instruments. Additionally, by leveraging Zipline's flexibility, traders can venture into more advanced strategy development, potentially incorporating [machine learning](/wiki/machine-learning) models to further improve their trading performance. Zipline's open-source nature and active community support continuously contribute to its adaptability, ensuring it remains a formidable tool in the algorithmic trading domain.
+For further exploration, traders can enhance their testing by importing custom datasets, which allows testing strategies on a wider range of scenarios and financial instruments. Additionally, by leveraging Zipline's flexibility, traders can venture into more advanced strategy development, potentially incorporating machine learning models to further improve their trading performance. Zipline's open-source nature and active community support continuously contribute to its adaptability, ensuring it remains a formidable tool in the algorithmic trading domain.
 
 ## Next Steps
 
@@ -172,7 +172,7 @@ $$
 
 This formula calculates the difference between the value of stock positions at their closing and opening prices, providing a straightforward measure of profitability. Further metrics such as the number of trades, average return per trade, and maximum drawdown may also be considered. Calculating these metrics helps in assessing the risk and return profiles of your strategies in detail.
 
-To further your expertise in algorithmic trading, enrolling in comprehensive courses or workshops is beneficial. These educational opportunities often provide in-depth coverage of advanced topics such as statistical [arbitrage](/wiki/arbitrage), machine learning applications in trading, and risk management techniques. They enhance one's ability to develop, implement, and refine trading strategies efficiently. By embracing these advanced learning paths, you can significantly elevate your algorithmic trading acumen and potentially increase your success in the markets.
+To further your expertise in algorithmic trading, enrolling in comprehensive courses or workshops is beneficial. These educational opportunities often provide in-depth coverage of advanced topics such as statistical arbitrage, machine learning applications in trading, and risk management techniques. They enhance one's ability to develop, implement, and refine trading strategies efficiently. By embracing these advanced learning paths, you can significantly elevate your algorithmic trading acumen and potentially increase your success in the markets.
 
 ## References & Further Reading
 

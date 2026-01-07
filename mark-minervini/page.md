@@ -42,7 +42,7 @@ Mark Minervini's Specific Entry Point Analysis (SEPA) is a comprehensive trading
 
 ### Risk Management
 
-Risk management in SEPA is a cornerstone that dictates the survival and success of a trader in volatile markets. Minervini emphasizes defining a clear [exit](/wiki/exit-strategy) strategy before entering a trade. This involves setting predetermined stop-loss levels to mitigate losses. A common approach is the 1% Risk Rule, where the trader limits potential losses to 1% of their total trading capital on any single trade. This rule ensures that even a series of unfavorable trades do not severely deplete the trader's capital.
+Risk management in SEPA is a cornerstone that dictates the survival and success of a trader in volatile markets. Minervini emphasizes defining a clear exit strategy before entering a trade. This involves setting predetermined stop-loss levels to mitigate losses. A common approach is the 1% Risk Rule, where the trader limits potential losses to 1% of their total trading capital on any single trade. This rule ensures that even a series of unfavorable trades do not severely deplete the trader's capital.
 
 ### Stock Selection
 
@@ -94,7 +94,7 @@ The successful application of Mark Minervini's strategies in algorithmic trading
 
 ### Case Study: Algorithmic Application of SEPA
 
-An illustrative case study involves using SEPA principles to algorithmically trade mid-cap stocks. The strategy starts with a thorough screening process to identify stocks that exhibit Minervini's favored characteristics: strong earnings growth, positive price [momentum](/wiki/momentum), and favorable industry group performance.
+An illustrative case study involves using SEPA principles to algorithmically trade mid-cap stocks. The strategy starts with a thorough screening process to identify stocks that exhibit Minervini's favored characteristics: strong earnings growth, positive price momentum, and favorable industry group performance.
 
 The algorithm, using Python, might follow this basic structure:
 

@@ -41,9 +41,9 @@ ticker_data = yf.download(ticker_symbol, start='2022-01-01', end='2023-01-01')
 print(ticker_data)
 ```
 
-This code downloads the historical price data for Apple Inc. from January 1, 2022, to January 1, 2023. The `yf.download()` function is particularly valuable for aggregating large datasets that can be utilized in [backtesting](/wiki/backtesting) trading algorithms or conducting financial research.
+This code downloads the historical price data for Apple Inc. from January 1, 2022, to January 1, 2023. The `yf.download()` function is particularly valuable for aggregating large datasets that can be utilized in backtesting trading algorithms or conducting financial research.
 
-Beyond historical data, yfinance also offers functionalities for retrieving real-time data, exploring corporate actions like dividends and stock splits, and analyzing company fundamentals. Its API facilitates seamless integration into various [algorithmic trading](/wiki/algorithmic-trading) frameworks, thereby enhancing the development and testing of robust trading models. With these capabilities, yfinance stands as a cornerstone resource for traders aiming to construct well-informed, data-driven strategies.
+Beyond historical data, yfinance also offers functionalities for retrieving real-time data, exploring corporate actions like dividends and stock splits, and analyzing company fundamentals. Its API facilitates seamless integration into various algorithmic trading frameworks, thereby enhancing the development and testing of robust trading models. With these capabilities, yfinance stands as a cornerstone resource for traders aiming to construct well-informed, data-driven strategies.
 
 ## Key Features of Yfinance for Algo Trading
 
@@ -133,7 +133,7 @@ market_price = apple.history(period="1d")['Close'][-1]
 print(f"Current market price of AAPL: {market_price}")
 ```
 
-After acquiring the data, it becomes crucial to analyze and visualize it to uncover patterns or trends that can inform trading strategies. Python libraries such as pandas, matplotlib, and scikit-learn (sklearn) can be employed for this purpose. For example, pandas can be used to manipulate data, matplotlib for plotting, and sklearn for implementing [machine learning](/wiki/machine-learning) algorithms. Here's a hypothetical workflow:
+After acquiring the data, it becomes crucial to analyze and visualize it to uncover patterns or trends that can inform trading strategies. Python libraries such as pandas, matplotlib, and scikit-learn (sklearn) can be employed for this purpose. For example, pandas can be used to manipulate data, matplotlib for plotting, and sklearn for implementing machine learning algorithms. Here's a hypothetical workflow:
 
 1. **Data Cleaning and Preparation:**
 

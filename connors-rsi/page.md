@@ -30,9 +30,9 @@ Connors RSI, developed by trading expert Larry Connors, is an advanced technical
 
 ### Intended Improvements of Connors RSI over Traditional RSI
 
-The integration of these three components enables Connors RSI to offer several enhancements over the traditional RSI. Firstly, the combination allows for more sensitive detection of overbought and oversold conditions, a critical aspect for traders focused on short-term reversals. The addition of the up/down streak introduces an innovative dimension that captures the market’s short-term [momentum](/wiki/momentum) persistence, unaccounted for by classical RSI. Furthermore, the inclusion of the Rate of Change incorporates a longer-term view, bridging short-term oscillations with broader market trends.
+The integration of these three components enables Connors RSI to offer several enhancements over the traditional RSI. Firstly, the combination allows for more sensitive detection of overbought and oversold conditions, a critical aspect for traders focused on short-term reversals. The addition of the up/down streak introduces an innovative dimension that captures the market’s short-term momentum persistence, unaccounted for by classical RSI. Furthermore, the inclusion of the Rate of Change incorporates a longer-term view, bridging short-term oscillations with broader market trends.
 
-Collectively, these improvements facilitate a more dynamic and adaptive tool for traders, enabling them to make informed decisions in fast-moving markets. By blending different perspectives of momentum and price change, Connors RSI goes beyond the capabilities of traditional RSI, offering an indicator suited for the nuances of contemporary [algorithmic trading](/wiki/algorithmic-trading) strategies.
+Collectively, these improvements facilitate a more dynamic and adaptive tool for traders, enabling them to make informed decisions in fast-moving markets. By blending different perspectives of momentum and price change, Connors RSI goes beyond the capabilities of traditional RSI, offering an indicator suited for the nuances of contemporary algorithmic trading strategies.
 
 ## Calculating Connors RSI
 
@@ -87,7 +87,7 @@ Connors RSI serves as a refined tool for assessing market momentum, particularly
 
 The first component, the three-period RSI, evaluates price movements over a shorter timeframe compared to the traditional 14-period RSI. By focusing on a reduced period, Connors RSI offers enhanced responsiveness to recent price changes, which is essential for traders seeking to capitalize on short-term market fluctuations.
 
-The overbought and oversold thresholds in Connors RSI provide crucial signals for traders. Typically, a Connors RSI value above 70 is considered overbought, suggesting that the asset may be overvalued or poised for a price decline. Conversely, a value below 30 indicates an oversold condition, implying that the asset may be undervalued or ready for a price increase. These thresholds empower traders to make informed entry and [exit](/wiki/exit-strategy) decisions based on anticipated market reversions.
+The overbought and oversold thresholds in Connors RSI provide crucial signals for traders. Typically, a Connors RSI value above 70 is considered overbought, suggesting that the asset may be overvalued or poised for a price decline. Conversely, a value below 30 indicates an oversold condition, implying that the asset may be undervalued or ready for a price increase. These thresholds empower traders to make informed entry and exit decisions based on anticipated market reversions.
 
 Beyond these thresholds, Connors RSI is effective in short-term trading decisions due to its composite nature. By analyzing up/down streaks alongside rate-of-change measures, traders can discern patterns of sustained price movements—be it momentum continuation or reversal—thereby enhancing the accuracy of trade timing.
 
@@ -143,7 +143,7 @@ Incorporating Connors RSI into trading strategies requires a nuanced understandi
 
 ## Backtesting Connors RSI in Algorithmic Trading
 
-Backtesting is a pivotal process in validating trading strategies, offering traders insights into how a strategy would have performed based on historical data. This retrospective analysis helps identify the strengths and weaknesses of a trading strategy before actual capital is risked in the market. When applied to Connors RSI, [backtesting](/wiki/backtesting) allows traders to evaluate its ability to signal profitable entry and exit points in various market conditions.
+Backtesting is a pivotal process in validating trading strategies, offering traders insights into how a strategy would have performed based on historical data. This retrospective analysis helps identify the strengths and weaknesses of a trading strategy before actual capital is risked in the market. When applied to Connors RSI, backtesting allows traders to evaluate its ability to signal profitable entry and exit points in various market conditions.
 
 To illustrate a backtesting scenario using Connors RSI, consider its application on the S&P 500 index. The process involves gathering historical price data of the index and calculating the Connors RSI values based on this data. A typical backtesting procedure might look like this:
 
@@ -249,7 +249,7 @@ $$
    Select a robust backtesting framework like Backtrader or Zipline. Backtesting is crucial for evaluating CRSI's historical performance on selected financial instruments.
 
 5. **Model Automation:**
-   Automate the trading strategy using platforms that support algorithmic trade execution, such as MetaTrader or [Interactive Brokers](/wiki/interactive-brokers-api). Key considerations include latency, execution speed, and reliability in trade execution.
+   Automate the trading strategy using platforms that support algorithmic trade execution, such as MetaTrader or Interactive Brokers. Key considerations include latency, execution speed, and reliability in trade execution.
 
 6. **Risk Management and Strategy Optimization:**
    Integrate risk management protocols to mitigate losses and optimize the CRSI parameters. This optimization may involve adjusting look-back periods or sensitivity levels based on different market conditions.

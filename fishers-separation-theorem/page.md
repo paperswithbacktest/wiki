@@ -61,7 +61,7 @@ Thus, by applying Fisher's Separation Theorem, firms ensure that their investmen
 
 ## Influence on Algorithmic Trading
 
-The principles of Fisher's Separation Theorem play a foundational role in the dynamics of [algorithmic trading](/wiki/algorithmic-trading) strategies. The theorem's emphasis on separating investment choices from financing considerations dovetails with the automated, emotion-free decision-making processes vital to algorithmic trading.
+The principles of Fisher's Separation Theorem play a foundational role in the dynamics of algorithmic trading strategies. The theorem's emphasis on separating investment choices from financing considerations dovetails with the automated, emotion-free decision-making processes vital to algorithmic trading.
 
 Algorithmic trading operates on the premise of maximizing returns through rigorous data analysis and precision execution, devoid of human emotional interference. This aligns with Fisher's theorem, which advocates for objective financial decision-making, focusing solely on profitability and value addition. By leveraging computing power and sophisticated algorithms, these trading strategies evaluate vast streams of market data to identify optimal trade opportunities. Algorithms integrate both historical and real-time data to quantify asset performance, thereby enabling strategies that are precise and time-responsive.
 
@@ -104,7 +104,7 @@ where $i$ is the nominal interest rate, $r$ is the real interest rate, and $\pi^
 
 Beyond his own theories, Fisher's ideas have significantly influenced subsequent economic theories, notably the Modigliani-Miller theorem which extends Fisher's separation principles to capital structure and firm valuation. This theorem underscores the irrelevance of capital structure in perfect markets, aligning closely with Fisher's beliefs regarding market efficiency and capital allocation.
 
-Fisher's extensive writings and theoretical insights not only enriched economic literature but also shaped the methodological approaches of economic analysis. His contributions fostered a better understanding of how economic [agents](/wiki/agents) interact, allocate resources, and respond to uncertainties and economic policy.
+Fisher's extensive writings and theoretical insights not only enriched economic literature but also shaped the methodological approaches of economic analysis. His contributions fostered a better understanding of how economic agents interact, allocate resources, and respond to uncertainties and economic policy.
 
 Grasping Fisher's contributions offers invaluable insight into the historical progression and depth of economic theory. His innovative work continues to influence contemporary economic and financial strategies, underscoring the timeless relevance of his insights in shaping modern financial thought.
 

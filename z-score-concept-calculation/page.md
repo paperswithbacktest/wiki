@@ -36,7 +36,7 @@ This formula quantifies how distant, in terms of standard deviation units, a par
 
 ## Z-Scores and Standard Deviations: A Statistical Approach
 
-Standard deviation is a statistical metric that quantifies the level of variation or [dispersion](/wiki/dispersion-trading) in a set of values. It is pivotal in calculating the Z-score, a measure essential in [algorithmic trading](/wiki/algorithmic-trading) to assess the statistical significance of a stock's deviation from its historical mean. Grasping the concept of standard deviation is fundamental for traders, as it not only highlights the spread of asset prices but also facilitates the understanding of price [volatility](/wiki/volatility-trading-strategies).
+Standard deviation is a statistical metric that quantifies the level of variation or dispersion in a set of values. It is pivotal in calculating the Z-score, a measure essential in algorithmic trading to assess the statistical significance of a stock's deviation from its historical mean. Grasping the concept of standard deviation is fundamental for traders, as it not only highlights the spread of asset prices but also facilitates the understanding of price volatility.
 
 In a normal distribution, approximately 68% of data points fall within one standard deviation of the mean, 95% within two, and 99.7% within three. This distribution pattern underscores the utility of Z-scores in pinpointing outliers. A Z-score reveals how many standard deviations an individual data point, such as a stock price, is from the mean, thereby aiding traders in assessing current price deviations relative to historical norms. The formula for calculating a Z-score is as follows:
 
@@ -52,7 +52,7 @@ By applying Z-scores, traders can effectively gauge whether a stock's price sign
 
 Z-scores offer valuable insights for algorithmic trading strategies. They are instrumental in both mean reversion and anomaly detection methodologies. In mean reversion strategies, Z-scores are utilized to determine whether a stock's current price is significantly deviating from its historical average. A stock is deemed overbought when its Z-score exceeds a certain positive threshold, while a Z-score below a negative threshold suggests it is oversold. Mean reversion strategies aim to capitalize on these conditions by predicting the stock's price movement back toward its mean.
 
-For [pair trading](/wiki/pair-trading), Z-scores are used to identify price divergences between two correlated assets. The strategy hinges on the idea that the price difference between the assets will revert to the historical mean over time. When the Z-score signifies a significant divergence, a trader may open positions in anticipation of the spread returning to its mean. This approach relies on statistical [arbitrage](/wiki/arbitrage) and exploits temporary inefficiencies in the market.
+For pair trading, Z-scores are used to identify price divergences between two correlated assets. The strategy hinges on the idea that the price difference between the assets will revert to the historical mean over time. When the Z-score signifies a significant divergence, a trader may open positions in anticipation of the spread returning to its mean. This approach relies on statistical arbitrage and exploits temporary inefficiencies in the market.
 
 In anomaly detection, Z-scores are applied to filter out market noise and to isolate significant trading signals. By determining the extent to which a data point differs from the mean, Z-scores assist in emphasizing atypical price movements, thereby enhancing the robustness of trading strategies. This methodology is vital in determining whether a particular movement in price is statistically significant or merely due to random fluctuations.
 
@@ -108,9 +108,9 @@ z_score = (current_price - mean_price) / std_dev
 
 Pandas, another powerful library for data manipulation, allows traders to handle time-series data with ease. It can be used to automate these calculations over large datasets, further refining the trading process.
 
-Trading strategies often exploit certain Z-score thresholds to make informed decisions. For instance, in a mean reversion strategy, a trader might decide to sell an overbought security when its Z-score crosses above 2 or buy an oversold security when the Z-score drops below -2. These thresholds can be adjusted according to [backtesting](/wiki/backtesting) results and specific strategy requirements.
+Trading strategies often exploit certain Z-score thresholds to make informed decisions. For instance, in a mean reversion strategy, a trader might decide to sell an overbought security when its Z-score crosses above 2 or buy an oversold security when the Z-score drops below -2. These thresholds can be adjusted according to backtesting results and specific strategy requirements.
 
-In practice, Z-scores can also complement other indicators to enhance decision-making robustness. For example, combining Z-scores with moving averages or relative strength index (RSI) might filter out false signals and refine entry or [exit](/wiki/exit-strategy) points. Algorithmic trading platforms provide an environment to backtest these strategies, allowing traders to evaluate their performance and optimize parameters.
+In practice, Z-scores can also complement other indicators to enhance decision-making robustness. For example, combining Z-scores with moving averages or relative strength index (RSI) might filter out false signals and refine entry or exit points. Algorithmic trading platforms provide an environment to backtest these strategies, allowing traders to evaluate their performance and optimize parameters.
 
 Through coding scripts, traders can automate not just the calculation of Z-scores, but also the execution of buy or sell orders when certain conditions are met. This automation can be achieved using Python in conjunction with trading APIs provided by brokerage firms.
 

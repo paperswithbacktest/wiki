@@ -15,11 +15,11 @@ The classic **Turtle Trading** strategy, born in the 1980s experiment by Richard
 
 Turtle Trading originated in the 1980s as part of an experiment conceived by veteran traders Richard Dennis and William Eckhardt. This experiment was designed to resolve a long-standing debate between the two regarding the nature of trading success: could trading skills be taught, or was successful trading an innate talent? Dennis, a successful commodities trader, believed that with the proper training, anyone could be taught to trade. In contrast, Eckhardt was skeptical, questioning if profound natural abilities played a more significant role.
 
-To test these theories, Dennis and Eckhardt conducted an innovative experiment. They recruited a diverse group of people from various backgrounds and levels of trading experience. These individuals came to be known as the 'Turtles,' inspired by Dennis's visit to a [turtle](/wiki/turtle-trading) farm in Singapore, where he had an epiphany that traders could be cultivated just as turtles were farmed.
+To test these theories, Dennis and Eckhardt conducted an innovative experiment. They recruited a diverse group of people from various backgrounds and levels of trading experience. These individuals came to be known as the 'Turtles,' inspired by Dennis's visit to a turtle farm in Singapore, where he had an epiphany that traders could be cultivated just as turtles were farmed.
 
 The Turtles were introduced to a systematic, rules-based approach to trading, which marked a significant departure from the discretionary methods many traders employed at the time. This methodology focused on trend-following strategies, a concept Dennis himself had successfully implemented in his trading career. 
 
-The rules imparted to the Turtles were clear-cut and designed to eliminate emotional decision-making, which generally impairs trading consistency. Central to this strategy was the premise of buying into markets exhibiting upward trends and selling short when evidence of downward trends appeared, aligning trades with the broader market [momentum](/wiki/momentum).
+The rules imparted to the Turtles were clear-cut and designed to eliminate emotional decision-making, which generally impairs trading consistency. Central to this strategy was the premise of buying into markets exhibiting upward trends and selling short when evidence of downward trends appeared, aligning trades with the broader market momentum.
 
 By rigorously applying these principles, the Turtles were able to make significant profits, providing strong evidence in favor of Dennis's hypothesis that trading could indeed be taught. The success of the Turtle Trading Strategy demonstrated the effectiveness of a structured, disciplined approach to the markets and incited a broader acceptance of systematic trading methodologies.
 
@@ -27,7 +27,7 @@ By rigorously applying these principles, the Turtles were able to make significa
 
 ![Image](images/2.png)
 
-Turtle Trading, introduced by Richard Dennis and William Eckhardt, is a systematic approach rooted in a trend-following methodology. It primarily involves buying into markets that are exhibiting upward trends and selling in those showing downward trends. This method capitalizes on market momentum, aiming to profit from significant trends by following predefined rules for market entry and [exit](/wiki/exit-strategy).
+Turtle Trading, introduced by Richard Dennis and William Eckhardt, is a systematic approach rooted in a trend-following methodology. It primarily involves buying into markets that are exhibiting upward trends and selling in those showing downward trends. This method capitalizes on market momentum, aiming to profit from significant trends by following predefined rules for market entry and exit.
 
 Central to the Turtle Trading strategy are these predefined rules, which dictate how traders respond to price breakouts and market volatility. Price breakouts are identified when the current market price exceeds the highest high or falls below the lowest low of a specified period. This triggers entry signals, with traders buying when prices rise above recent highs and selling when prices drop below recent lows. This systematic approach ensures consistency, removing emotional or subjective decision-making in trading practices.
 
@@ -47,7 +47,7 @@ By combining structured entry and exit protocols, a robust risk management syste
 
 ![Image](images/3.png)
 
-Turtle Trading mechanisms are primarily based on [breakout](/wiki/breakout-trading) systems and volatility-based position sizing, providing a structured approach to capturing market trends. This systematic methodology was designed to minimize risk and maximize potential returns through disciplined trading practices.
+Turtle Trading mechanisms are primarily based on breakout systems and volatility-based position sizing, providing a structured approach to capturing market trends. This systematic methodology was designed to minimize risk and maximize potential returns through disciplined trading practices.
 
 A cornerstone of Turtle Trading is the use of Donchian Channels to identify breakout points as signals for entering long or short positions. Donchian Channels are formed by calculating the highest high and the lowest low over a specific period, creating an upper and lower band. When the price breaks above the upper band, it signals a long entry, while a break below the lower band signals a short entry. This method assumes that such breakouts may indicate the start of a new trend.
 

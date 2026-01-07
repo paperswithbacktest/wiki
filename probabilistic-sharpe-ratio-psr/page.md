@@ -18,7 +18,7 @@ The intention of this article is to examine the Probabilistic Sharpe Ratio and h
 
 ## Understanding the Sharpe Ratio
 
-The Sharpe Ratio is a widely used metric in finance for assessing the risk-adjusted return of an investment. It was developed by William F. Sharpe and serves as a tool to evaluate how much excess return you are receiving for the extra [volatility](/wiki/volatility-trading-strategies) that you endure for holding a riskier asset. The formula for calculating the Sharpe Ratio is as follows:
+The Sharpe Ratio is a widely used metric in finance for assessing the risk-adjusted return of an investment. It was developed by William F. Sharpe and serves as a tool to evaluate how much excess return you are receiving for the extra volatility that you endure for holding a riskier asset. The formula for calculating the Sharpe Ratio is as follows:
 
 $$
 \text{Sharpe Ratio} = \frac{R_i - R_f}{\sigma_i}
@@ -33,7 +33,7 @@ This calculation reflects the average return earned in excess of the risk-free r
 
 Despite its popularity, the Sharpe Ratio carries certain limitations. A primary assumption of the Sharpe Ratio is that the investment returns are normally distributed. However, in practical scenarios, financial returns often exhibit skewness (asymmetry) and kurtosis (fat tails), which means that the distribution of returns may diverge significantly from a normal distribution. This misalignment leads to potential inaccuracies when using the Sharpe Ratio to evaluate investment strategies under real-world conditions.
 
-The implication of assuming normally distributed returns is particularly significant in the context of [algorithmic trading](/wiki/algorithmic-trading) and other sophisticated investment strategies where return distributions may be influenced by market anomalies or structural breaks. In such cases, relying solely on the traditional Sharpe Ratio might not provide a comprehensive risk-return assessment, necessitating alternatives that can better account for these irregularities.
+The implication of assuming normally distributed returns is particularly significant in the context of algorithmic trading and other sophisticated investment strategies where return distributions may be influenced by market anomalies or structural breaks. In such cases, relying solely on the traditional Sharpe Ratio might not provide a comprehensive risk-return assessment, necessitating alternatives that can better account for these irregularities.
 
 ## Limitations of the Traditional Sharpe Ratio
 
@@ -51,7 +51,7 @@ The Probabilistic Sharpe Ratio (PSR) is an advanced risk-adjusted return metric 
 
 Traditional Sharpe Ratios operate under the assumption of normally distributed returns, an assumption frequently violated in financial markets. These discrepancies can lead to misleading performance evaluations, particularly for strategies with asymmetric or heavy-tailed return distributions. The PSR, however, adjusts for these factors by estimating the likelihood that the Sharpe Ratio exceeds a predefined benchmark, taking into account higher moments of the return distribution.
 
-The PSR evaluates the probability distribution of Sharpe Ratios considering skewness (the asymmetry of the distribution) and kurtosis (the tail behavior and peak of the distribution). This approach allows for a more accurate estimation of performance, especially in environments where returns exhibit significant deviations from normality. The formula for the PSR includes these [statistics](/wiki/bayesian-statistics), refining the assessment of both risk and prospective returns.
+The PSR evaluates the probability distribution of Sharpe Ratios considering skewness (the asymmetry of the distribution) and kurtosis (the tail behavior and peak of the distribution). This approach allows for a more accurate estimation of performance, especially in environments where returns exhibit significant deviations from normality. The formula for the PSR includes these statistics, refining the assessment of both risk and prospective returns.
 
 By incorporating a benchmark Sharpe Ratio into its evaluation, the PSR introduces a probabilistic framework that offers traders and portfolio managers a more nuanced view of strategy validity and performance sustainability. This probabilistic context provides valuable insights into the robustness of an investment strategy, facilitating better-informed decision-making in the face of uncertainty.
 

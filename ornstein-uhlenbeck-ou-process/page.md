@@ -34,7 +34,7 @@ $$
 dX_t = \theta (\mu - X_t) dt + \sigma dW_t
 $$
 
-Here, $X_t$ represents the variable of interest at time $t$. The parameter $\mu$ denotes the long-term mean to which the process reverts. The mean reversion speed is indicated by $\theta$, which dictates how quickly deviations from $\mu$ are corrected over time. $\sigma$ is the [volatility](/wiki/volatility-trading-strategies) coefficient, reflecting the degree of randomness or noise in the system, and $dW_t$ is the increment of a Wiener process, commonly known as Brownian motion.
+Here, $X_t$ represents the variable of interest at time $t$. The parameter $\mu$ denotes the long-term mean to which the process reverts. The mean reversion speed is indicated by $\theta$, which dictates how quickly deviations from $\mu$ are corrected over time. $\sigma$ is the volatility coefficient, reflecting the degree of randomness or noise in the system, and $dW_t$ is the increment of a Wiener process, commonly known as Brownian motion.
 
 The OU process was initially introduced to model the velocity of a particle undergoing Brownian motion, illustrating how such a particle's velocity returns towards zero over time. This original implementation has expanded significantly, with the OU process being employed in diverse fields such as quantitative finance, where its parameters can be calibrated to model various economic indicators and financial instruments.
 
@@ -52,9 +52,9 @@ These characteristics make the Ornstein-Uhlenbeck process a robust tool for fina
 
 ## Applications in Algorithmic Trading
 
-The mean-reverting nature of the Ornstein-Uhlenbeck process makes it highly effective in various [algorithmic trading](/wiki/algorithmic-trading) strategies. One of the most notable applications is in pairs trading, a strategy that focuses on exploiting the statistical relationship between two correlated assets. The OU process models the spread between these assets, effectively identifying when the spread diverges from its mean and signaling potential trading opportunities. This modeling allows traders to capitalize on the expectation that such divergences will revert to the mean, facilitating profitable trades during these reversion events.
+The mean-reverting nature of the Ornstein-Uhlenbeck process makes it highly effective in various algorithmic trading strategies. One of the most notable applications is in pairs trading, a strategy that focuses on exploiting the statistical relationship between two correlated assets. The OU process models the spread between these assets, effectively identifying when the spread diverges from its mean and signaling potential trading opportunities. This modeling allows traders to capitalize on the expectation that such divergences will revert to the mean, facilitating profitable trades during these reversion events.
 
-In the field of [interest rate](/wiki/interest-rate-trading-strategies) modeling, the OU process underpins the Vasicek model, which is one of the pioneering models for interest rate dynamics. This model captures the typical behavior of interest rates as they fluctuate around a long-term mean. The Vasicek model is described by the stochastic differential equation:
+In the field of interest rate modeling, the OU process underpins the Vasicek model, which is one of the pioneering models for interest rate dynamics. This model captures the typical behavior of interest rates as they fluctuate around a long-term mean. The Vasicek model is described by the stochastic differential equation:
 
 $$
 dX_t = \theta(\mu - X_t)dt + \sigma dW_t
@@ -70,7 +70,7 @@ The practical implementation of the OU process in these applications showcases i
 
 The Mean Reversion Cloud indicator, based on the Ornstein-Uhlenbeck (OU) process, is a sophisticated tool for identifying overbought or oversold conditions in financial markets. This indicator utilizes the Exponentially Weighted Moving Average (EWMA) to dynamically calculate a mean price level, surrounded by volatility bands that reflect the market's variability. 
 
-To implement this tool, traders should start by configuring the indicator on trading platforms like TradingView. This involves setting key parameters such as the decay [factor](/wiki/factor-investing) and volatility threshold, which dictate how quickly the indicator responds to market changes and the sensitivity of the volatility bands. By analyzing crossovers between the current price and these bands, traders can identify potential reversal zones, where prices are likely to revert to the mean.
+To implement this tool, traders should start by configuring the indicator on trading platforms like TradingView. This involves setting key parameters such as the decay factor and volatility threshold, which dictate how quickly the indicator responds to market changes and the sensitivity of the volatility bands. By analyzing crossovers between the current price and these bands, traders can identify potential reversal zones, where prices are likely to revert to the mean.
 
 When prices deviate significantly from the calculated mean, it suggests potential buy or sell opportunities. For example, if the price falls below the lower volatility band, it may indicate an oversold condition, signaling a potential buy opportunity. Conversely, if the price exceeds the upper volatility band, it may suggest an overbought condition, indicating a potential sell opportunity.
 
@@ -150,7 +150,7 @@ $$
 
 where $\theta$ represents the speed of reversion, $\mu$ is the long-term mean, $\sigma$ denotes volatility, and $dW_t$ is the Wiener process component. This robustness ensures that the OU framework can be seamlessly integrated with other quantitative models to refine insights and improve trading outcomes.
 
-As more sophisticated trading algorithms emerge, the relevance of the Ornstein-Uhlenbeck process is likely to grow. It provides a foundation upon which traders can build refined strategies, incorporating elements such as [machine learning](/wiki/machine-learning) to fine-tune the parameters dynamically based on evolving market data. The ongoing innovation within algorithmic trading is poised to enhance the utility of the OU process further, ensuring its continued significance in financial modeling and optimization. With its deep-rooted mathematical elegance and practical applicability, the OU process offers a compelling model for traders focused on harnessing mean-reverting phenomena within the complex tapestry of modern financial markets.
+As more sophisticated trading algorithms emerge, the relevance of the Ornstein-Uhlenbeck process is likely to grow. It provides a foundation upon which traders can build refined strategies, incorporating elements such as machine learning to fine-tune the parameters dynamically based on evolving market data. The ongoing innovation within algorithmic trading is poised to enhance the utility of the OU process further, ensuring its continued significance in financial modeling and optimization. With its deep-rooted mathematical elegance and practical applicability, the OU process offers a compelling model for traders focused on harnessing mean-reverting phenomena within the complex tapestry of modern financial markets.
 
 ## References & Further Reading
 

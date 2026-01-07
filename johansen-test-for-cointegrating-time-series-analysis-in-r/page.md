@@ -77,17 +77,17 @@ $$
 
 ### Interpreting the Results
 
-The output of the Johansen test provides critical insight into the number of cointegrating relationships, aiding in determining how many stable long-term equilibria exist among the series. A greater number of cointegrating vectors suggests that more complex intertemporal dynamics govern the time series data. Understanding these output vectors informs the development of strategies like statistical [arbitrage](/wiki/arbitrage), enhancing decision-making in [algorithmic trading](/wiki/algorithmic-trading).
+The output of the Johansen test provides critical insight into the number of cointegrating relationships, aiding in determining how many stable long-term equilibria exist among the series. A greater number of cointegrating vectors suggests that more complex intertemporal dynamics govern the time series data. Understanding these output vectors informs the development of strategies like statistical arbitrage, enhancing decision-making in algorithmic trading.
 
 The Johansen cointegration test, through its sophisticated statistical framework, equips traders with the analytical tools necessary to understand deeper economic relationships, thereby facilitating more informed investment decisions.
 
 ## Applying the Johansen Test in Algorithmic Trading
 
-In algorithmic trading, the Johansen cointegration test serves as a critical tool for identifying groups or pairs of financial instruments, such as stocks or currencies, that show mean-reverting qualities. This test informs traders about potential opportunities for [statistical arbitrage](/wiki/statistical-arbitrage), a strategy that profits from the expected return to equilibrium of asset prices, or pairs trading, which involves longing one asset and shorting another to exploit their price relationship.
+In algorithmic trading, the Johansen cointegration test serves as a critical tool for identifying groups or pairs of financial instruments, such as stocks or currencies, that show mean-reverting qualities. This test informs traders about potential opportunities for statistical arbitrage, a strategy that profits from the expected return to equilibrium of asset prices, or pairs trading, which involves longing one asset and shorting another to exploit their price relationship.
 
 The application of the Johansen test begins with pre-processing the asset data to ensure stationarity, a requirement for cointegration testing. Traders often use log price transformations and then apply differencing to achieve stationary time series. Once pre-processed, the Johansen test is used to detect the number and nature of cointegrating relationships, offering insights into whether assets are co-moving or have diverged significantly.
 
-A critical step involves setting entry and [exit](/wiki/exit-strategy) thresholds based on the cointegrating relationships. When the spread between two cointegrated assets deviates significantly from the mean, a trader might enter a trade expecting a reversion to the mean. The thresholds for these deviations are typically established through historical analysis and [backtesting](/wiki/backtesting).
+A critical step involves setting entry and exit thresholds based on the cointegrating relationships. When the spread between two cointegrated assets deviates significantly from the mean, a trader might enter a trade expecting a reversion to the mean. The thresholds for these deviations are typically established through historical analysis and backtesting.
 
 For backtesting strategies based on the Johansen test, historical data is split into a training set, where the cointegration model is built, and a testing set, where the model's performance is evaluated. During backtesting, traders assess profitability by simulating trades that would have been triggered based on the cointegration signals from the training period. This requires carefully selecting data frequency. High-frequency data might capture short-term deviations, while lower-frequency data might be better suited for long-term trends.
 

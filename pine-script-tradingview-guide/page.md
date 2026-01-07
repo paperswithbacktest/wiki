@@ -24,7 +24,7 @@ Pine Script is the proprietary scripting language developed by TradingView, a po
 
 The primary aim of Pine Script is to empower users to customize their trading strategies and technical analysis tools, enabling them to better interpret market data and execute trades efficiently. With Pine Script, traders have the flexibility to write scripts that can compute values, plot charts, generate alerts, and perform operations on data series. These capabilities make it an invaluable tool for developing bespoke trading strategies tailored to an individual’s trading style and needs.
 
-When compared to other scripting languages commonly used in [algorithmic trading](/wiki/algorithmic-trading), such as Python, JavaScript, or MetaQuotes Language (MQL), Pine Script stands out for its simplicity and specific focus. While robust languages like Python offer extensive libraries and functionality for general-purpose programming, Pine Script is specialized for ease of use within TradingView. Unlike Python's complexity rooted in its versatility across domains, Pine Script is concise, enabling traders to accomplish tasks with fewer lines of code. For example, a moving average calculation in Python requires importing libraries and setting up data structures, while in Pine Script, it can be achieved more succinctly due to its built-in functions and specific syntax geared toward market analysis.
+When compared to other scripting languages commonly used in algorithmic trading, such as Python, JavaScript, or MetaQuotes Language (MQL), Pine Script stands out for its simplicity and specific focus. While robust languages like Python offer extensive libraries and functionality for general-purpose programming, Pine Script is specialized for ease of use within TradingView. Unlike Python's complexity rooted in its versatility across domains, Pine Script is concise, enabling traders to accomplish tasks with fewer lines of code. For example, a moving average calculation in Python requires importing libraries and setting up data structures, while in Pine Script, it can be achieved more succinctly due to its built-in functions and specific syntax geared toward market analysis.
 
 One of the most appealing aspects of Pine Script is its user-friendly approach, which is particularly advantageous for traders without an extensive programming background. The language uses a syntax that is easy to read and write, lowering the barrier to entry for traders who wish to experiment with algorithmic strategies but lack formal programming education. This accessibility encourages a broader range of users to engage with algorithmic trading, democratizing the process of strategy development and testing.
 
@@ -110,7 +110,7 @@ Algorithmic trading leverages automated systems to execute trades based on prede
 
 ### Common Trading Strategies in Pine Script
 
-Pine Script empowers traders to implement a variety of trading strategies, from simple moving averages to complex multi-[factor](/wiki/factor-investing) models. Some popular strategies include:
+Pine Script empowers traders to implement a variety of trading strategies, from simple moving averages to complex multi-factor models. Some popular strategies include:
 
 1. **Moving Average Crossover**: This strategy involves using the intersection of a short-term and a long-term moving average as a signal to buy or sell. For instance, when a 50-period moving average crosses above a 200-period moving average, it may signal a buying opportunity.
 
@@ -137,11 +137,11 @@ alertcondition(buySignal, title="Buy Alert", message="Buy Signal: MA Crossover")
 alertcondition(sellSignal, title="Sell Alert", message="Sell Signal: MA Crossunder")
 ```
 
-The code snippet above demonstrates a simple moving average crossover strategy with incorporated alert conditions to notify traders of potential entry and [exit](/wiki/exit-strategy) points.
+The code snippet above demonstrates a simple moving average crossover strategy with incorporated alert conditions to notify traders of potential entry and exit points.
 
 ### Case Studies of Successful Algorithmic Strategies
 
-Numerous traders and analysts have documented success with algorithmic strategies developed using Pine Script. For instance, [momentum](/wiki/momentum)-based strategies that capitalize on rapid price movements or mean-reversion strategies that profit from price corrections have demonstrated efficacy under certain market conditions. The adaptability of Pine Script allows traders to refine these strategies through [backtesting](/wiki/backtesting) and optimization.
+Numerous traders and analysts have documented success with algorithmic strategies developed using Pine Script. For instance, momentum-based strategies that capitalize on rapid price movements or mean-reversion strategies that profit from price corrections have demonstrated efficacy under certain market conditions. The adaptability of Pine Script allows traders to refine these strategies through backtesting and optimization.
 
 ### Customizing Strategies for Individual Preferences
 

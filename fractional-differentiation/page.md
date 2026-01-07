@@ -30,7 +30,7 @@ where $\alpha$ is the order of differentiation, $n$ is the integer such that $n-
 
 The application of fractional differentiation to time series data is particularly insightful, especially in fields like finance, where data often exhibits long memory and non-stationary characteristics. By allowing fractional orders, analysts can model the persistence and cyclical patterns within time series data more effectively.
 
-For instance, consider a financial time series representing asset prices that are typically characterized by high levels of noise and [volatility](/wiki/volatility-trading-strategies). Traditional first-order differentiation might not capture the underlying pattern, as it eliminates much of the characteristic information along with the noise. By applying fractional differentiation, analysts can maintain the long-term dependencies and varying behaviors, providing a clearer insight into the trends and cycles that govern the data.
+For instance, consider a financial time series representing asset prices that are typically characterized by high levels of noise and volatility. Traditional first-order differentiation might not capture the underlying pattern, as it eliminates much of the characteristic information along with the noise. By applying fractional differentiation, analysts can maintain the long-term dependencies and varying behaviors, providing a clearer insight into the trends and cycles that govern the data.
 
 Here's a simple Python example showcasing fractional differentiation on a time series using the `fracdiff` library:
 
@@ -50,7 +50,7 @@ print("Original Data:", data[:5])
 print("Fractionally Differentiated Data:", diff_data[:5])
 ```
 
-In this code, `fracdiff.frac_diff` is used to perform fractional differentiation on a sample dataset, capturing the intermediate complexity between integration and traditional differentiation. Such an approach helps maintain the dataset's stationarity while preserving essential structural information, ultimately enhancing subsequent analyses and models, especially in [algorithmic trading](/wiki/algorithmic-trading).
+In this code, `fracdiff.frac_diff` is used to perform fractional differentiation on a sample dataset, capturing the intermediate complexity between integration and traditional differentiation. Such an approach helps maintain the dataset's stationarity while preserving essential structural information, ultimately enhancing subsequent analyses and models, especially in algorithmic trading.
 
 Fractional differentiation thus serves as a potent tool in analyzing time series data, enabling the retention of essential information, accommodating long memory processes, and addressing the challenges posed by non-stationary data patterns.
 
@@ -70,9 +70,9 @@ where $y_t$ is the original time series, and $\Gamma$ is the gamma function, whi
 
 By using fractional differentiation, financial data series can be made stationary without losing the underlying memory or dependencies that are often essential for models based on historical data. This adjustment can significantly enhance the predictive capabilities of trading algorithms. When time series are made stationary through fractional differentiation, statistical properties become more constant over time, allowing for more robust and reliable model fittings.
 
-The improved predictive power offered by fractional differentiation is pivotal for algorithmic trading. It enhances model performance by maintaining enough historical information, crucial for pricing assets, while eliminating random walks that can obscure market patterns. By effectively balancing memory preservation with stationarity, fractional differentiation allows trading models to better capture and exploit market trends, leading to improved trade entry and [exit](/wiki/exit-strategy) strategies.
+The improved predictive power offered by fractional differentiation is pivotal for algorithmic trading. It enhances model performance by maintaining enough historical information, crucial for pricing assets, while eliminating random walks that can obscure market patterns. By effectively balancing memory preservation with stationarity, fractional differentiation allows trading models to better capture and exploit market trends, leading to improved trade entry and exit strategies.
 
-Furthermore, by enabling a more refined and precise approach to time series differentiation, fractional differentiation enhances the capacity for algorithms to adapt to various market regimes and conditions. This adaptability results in [quantitative trading](/wiki/quantitative-trading) strategies that are more resilient to volatility and unpredictability inherent in financial markets.
+Furthermore, by enabling a more refined and precise approach to time series differentiation, fractional differentiation enhances the capacity for algorithms to adapt to various market regimes and conditions. This adaptability results in quantitative trading strategies that are more resilient to volatility and unpredictability inherent in financial markets.
 
 In summary, fractional differentiation plays a critical role in overcoming the challenges posed by non-stationary time series in trading. Through its ability to make data stationary while preserving significant historical dependencies, it offers substantial benefits to algorithmic trading strategies, mainly by improving predictive accuracy and model robustness.
 
@@ -129,7 +129,7 @@ In this example, the fractional differentiation is applied using a differencing 
 
 #### Step 4: Integrating Differentiated Data in Trading Algorithms
 
-Once fractional differentiation is applied, the resultant stationary data can be used for training statistical models, such as ARIMA, or [machine learning](/wiki/machine-learning) algorithms, enhancing their predictive capacity by maintaining long-term dependencies.
+Once fractional differentiation is applied, the resultant stationary data can be used for training statistical models, such as ARIMA, or machine learning algorithms, enhancing their predictive capacity by maintaining long-term dependencies.
 
 ### Conclusion
 
@@ -147,7 +147,7 @@ In a study conducted by Lopez de Prado and others, fractional differentiation wa
 
 #### Case Study 2: Volatility Forecasting in Forex Trading
 
-Another instance involved the application of fractional differentiation to predict volatility in foreign exchange markets. Trading strategies in [forex](/wiki/forex-system) markets often grapple with the non-stationary characteristics of currency pair data. Implementing a fractional differentiation approach, researchers observed a noticeable reduction in forecast error. By maintaining the balance between differencing and retaining essential long-term dependencies in the data, trading algorithms could adjust more dynamically to market changes, improving the timing and execution of trades.
+Another instance involved the application of fractional differentiation to predict volatility in foreign exchange markets. Trading strategies in forex markets often grapple with the non-stationary characteristics of currency pair data. Implementing a fractional differentiation approach, researchers observed a noticeable reduction in forecast error. By maintaining the balance between differencing and retaining essential long-term dependencies in the data, trading algorithms could adjust more dynamically to market changes, improving the timing and execution of trades.
 
 #### Limitations and Considerations
 
@@ -163,7 +163,7 @@ The future role of fractional differentiation in algorithmic and quantitative tr
 
 Current advancements focus on optimizing the selection of fractional orders to best suit specific datasets. This process enhances the balance between retaining valuable long-term trends and achieving stationarity. Researchers are exploring adaptive algorithms that dynamically adjust these orders based on evolving market conditions, thus enabling more responsive and resilient trading strategies.
 
-The future applications of fractional differentiation are expected to expand with the integration of machine learning and [artificial intelligence](/wiki/ai-artificial-intelligence). These technologies can leverage the nuanced insights from fractionally differentiated data to enhance feature engineering, ultimately improving the precision of predictive algorithms. As machine learning systems become increasingly integral to trading, fractional differentiation may serve as a powerful tool for enhancing model input quality.
+The future applications of fractional differentiation are expected to expand with the integration of machine learning and artificial intelligence. These technologies can leverage the nuanced insights from fractionally differentiated data to enhance feature engineering, ultimately improving the precision of predictive algorithms. As machine learning systems become increasingly integral to trading, fractional differentiation may serve as a powerful tool for enhancing model input quality.
 
 Evolving market conditions, such as increased volatility and the proliferation of high-frequency trading, underscore the importance of adopting advanced methodologies like fractional differentiation. These factors may influence traders to seek more robust approaches to ensure their strategies remain competitive and adaptive. The ongoing refinement of fractional differentiation techniques could provide a crucial edge in navigating such environments.
 

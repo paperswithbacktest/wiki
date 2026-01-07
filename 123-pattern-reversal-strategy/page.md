@@ -24,13 +24,13 @@ In a progressing uptrend, this pattern signals a bearish reversal, suggesting th
 
 The formation of the 1-2-3 pattern begins with the establishment of Swing Point 1, marking either the peak in an uptrend or the trough in a downtrend. The subsequent retracement from this point leads to Swing Point 2—the pattern's corrective phase—which remains crucial as it often breaks significant trendlines, indicating a possible shift in market psychology.
 
-Finally, Swing Point 3 establishes a failed retest of Swing Point 1. This point is pivotal; it represents the inability of the market to sustain the initial trend. Once the price surpasses a significant level defined by Swing Point 2, the 1-2-3 pattern is deemed complete. This [breakout](/wiki/breakout-trading) is considered the entry signal for traders looking to capitalize on the reversal potential detailed by the pattern. 
+Finally, Swing Point 3 establishes a failed retest of Swing Point 1. This point is pivotal; it represents the inability of the market to sustain the initial trend. Once the price surpasses a significant level defined by Swing Point 2, the 1-2-3 pattern is deemed complete. This breakout is considered the entry signal for traders looking to capitalize on the reversal potential detailed by the pattern. 
 
 The feasibility of the 1-2-3 pattern lies in its simplicity, offering traders a straightforward method for spotting possible reversals in market directions. Its effectiveness hinges on the completion of the pattern, where price action confirms the anticipated trend reversal by breaking through the predefined levels associated with swing points.
 
 ## Components of the 1-2-3 Pattern
 
-The 1-2-3 pattern is a significant structure in the analysis of market trends, particularly for identifying potential reversals. Its formation is straightforward yet conveys critical information about trend shifts and [momentum](/wiki/momentum) changes.
+The 1-2-3 pattern is a significant structure in the analysis of market trends, particularly for identifying potential reversals. Its formation is straightforward yet conveys critical information about trend shifts and momentum changes.
 
 The first component, Pivot 1, constitutes the peak (in a downtrend) or the trough (in an uptrend) of the existing trend. It signifies the highest or lowest point before any retracement or reversal begins. Identifying this point is crucial, as it lays the foundation for measuring subsequent price action and potential pattern development.
 
@@ -46,7 +46,7 @@ Using Pivot 3 as a stop-loss provides clarity and structure to the risk manageme
 
 Executing the 1-2-3 trading strategy effectively requires adherence to well-defined entry, stop-loss, and target rules to manage risk and optimize potential returns. 
 
-To initiate a trade using the 1-2-3 pattern, an entry is made after confirming a price breakout beyond Pivot 2. The breakout serves as an indicator that the current trend has lost momentum and a reversal is likely. It is crucial for traders to verify that the breakout is not a false signal by looking for additional confirmations, such as increased trading [volume](/wiki/volume-trading-strategy) or aligning signals from other technical indicators.
+To initiate a trade using the 1-2-3 pattern, an entry is made after confirming a price breakout beyond Pivot 2. The breakout serves as an indicator that the current trend has lost momentum and a reversal is likely. It is crucial for traders to verify that the breakout is not a false signal by looking for additional confirmations, such as increased trading volume or aligning signals from other technical indicators.
 
 The placement of stop-loss orders is strategic and is set at Pivot 3. This helps to protect against potential losses from unsuccessful reversals. By setting the stop-loss at Pivot 3, traders ensure that their risk is limited to the portion of the price movement that suggests the reversal might fail.
 
@@ -56,7 +56,7 @@ $$
 \text{Target Price} = \text{Breakout Level at Pivot 2} + (\text{Price at Pivot 1} - \text{Price at Pivot 2})
 $$
 
-For a thoroughly robust trading plan, these rules should be adaptable to different market conditions and assets. Variability in asset characteristics and market environments can significantly affect the pattern's success rate. Traders should consider factors such as asset [volatility](/wiki/volatility-trading-strategies), market [liquidity](/wiki/liquidity-risk-premium), and broader economic indicators when tailoring their strategy for a particular trading situation. 
+For a thoroughly robust trading plan, these rules should be adaptable to different market conditions and assets. Variability in asset characteristics and market environments can significantly affect the pattern's success rate. Traders should consider factors such as asset volatility, market liquidity, and broader economic indicators when tailoring their strategy for a particular trading situation. 
 
 For example, in Python, a basic framework to apply these rules might look as follows:
 
@@ -78,9 +78,9 @@ In summary, the implementation of the 1-2-3 pattern trading rules requires clari
 
 Backtesting is essential to determine the viability of the 1-2-3 pattern in real-world trading. The process involves a systematic analysis of historical data to evaluate how the pattern performs across different market conditions, particularly focusing on key assets like gold, which has historically shown promising results in pattern analysis.
 
-Our [backtesting](/wiki/backtesting) procedure began by cataloging instances of the 1-2-3 pattern on historical price charts of various assets. The specific focus was on identifying bullish reversals, where the pattern is predictive of a potential upward [trend following](/wiki/trend-following) a downtrend. The success of these reversals was quantified by the ability to achieve profitable exits after pattern identification and entry.
+Our backtesting procedure began by cataloging instances of the 1-2-3 pattern on historical price charts of various assets. The specific focus was on identifying bullish reversals, where the pattern is predictive of a potential upward trend following a downtrend. The success of these reversals was quantified by the ability to achieve profitable exits after pattern identification and entry.
 
-To refine our backtesting outcomes, several parameter tweaks were implemented. The entry point was marked by a breakout beyond Pivot 2, and the stop-loss was strategically positioned at Pivot 3 to minimize potential losses from failed reversals. The profit target was calculated using the measured distance between Pivot 1 and Pivot 2, projected from the breakout level for estimating [exit](/wiki/exit-strategy) positions.
+To refine our backtesting outcomes, several parameter tweaks were implemented. The entry point was marked by a breakout beyond Pivot 2, and the stop-loss was strategically positioned at Pivot 3 to minimize potential losses from failed reversals. The profit target was calculated using the measured distance between Pivot 1 and Pivot 2, projected from the breakout level for estimating exit positions.
 
 ```python
 # Sample Python code for backtesting the 1-2-3 pattern
@@ -153,7 +153,7 @@ Successful utilization of the 1-2-3 pattern requires a disciplined approach that
 
 Despite its strengths, the 1-2-3 pattern, like all trading strategies, demands continuous refinement. Market dynamics are ever-evolving, necessitating traders to remain vigilant and adaptable. Regularly updating the parameters and incorporating additional indicators or techniques can help counteract changing market conditions and guard against false signals. For instance, integrating tools like the Relative Strength Index (RSI) or volume analysis could provide additional confirmation of reversal signals, thereby reducing the likelihood of unsuccessful trades.
 
-In summary, the 1-2-3 pattern, with its combination of technical precision and intuitive understanding, offers a robust framework for trading reversals. Its versatility and ease of implementation make it an essential component within a trader's toolkit, particularly for those employing [algorithmic trading](/wiki/algorithmic-trading) strategies. As long as traders remain committed to ongoing analysis and improvements, this pattern can continue to serve as a reliable method for navigating the complexities of the financial markets.
+In summary, the 1-2-3 pattern, with its combination of technical precision and intuitive understanding, offers a robust framework for trading reversals. Its versatility and ease of implementation make it an essential component within a trader's toolkit, particularly for those employing algorithmic trading strategies. As long as traders remain committed to ongoing analysis and improvements, this pattern can continue to serve as a reliable method for navigating the complexities of the financial markets.
 
 ## References & Further Reading
 

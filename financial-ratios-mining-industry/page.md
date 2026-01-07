@@ -32,7 +32,7 @@ Financial ratios serve as indispensable tools for assessing the economic viabili
 
 ### Quick Ratio
 
-The Quick Ratio is a measure of a company's [liquidity](/wiki/liquidity-risk-premium), which reflects its ability to meet its short-term obligations using its most liquid assets. This ratio is crucial for mining companies due to the industry's inherent [volatility](/wiki/volatility-trading-strategies) and cyclical nature.
+The Quick Ratio is a measure of a company's liquidity, which reflects its ability to meet its short-term obligations using its most liquid assets. This ratio is crucial for mining companies due to the industry's inherent volatility and cyclical nature.
 
 $$
 \text{Quick Ratio} = \frac{\text{Current Assets} - \text{Inventory}}{\text{Current Liabilities}}
@@ -113,11 +113,11 @@ df['Investment Worthy'] = df['ROE'].apply(is_good_investment)
 print(df)
 ```
 
-This algorithm evaluates a mining company's potential by calculating the ROE from its financial data. By setting a threshold, it categorizes stocks into those worth investing in and those that might be riskier prospects. Incorporating streaming market data, these algorithms can also continuously update their evaluations and optimize entry and [exit](/wiki/exit-strategy) points for trades, minimizing risks posed by market fluctuations.
+This algorithm evaluates a mining company's potential by calculating the ROE from its financial data. By setting a threshold, it categorizes stocks into those worth investing in and those that might be riskier prospects. Incorporating streaming market data, these algorithms can also continuously update their evaluations and optimize entry and exit points for trades, minimizing risks posed by market fluctuations.
 
 Algorithmic trading also reduces human errors and bias, offering more disciplined execution of trades. By deploying automated systems, investors can swiftly respond to market opportunities and threats, which is critical in an industry where commodity prices can be highly volatile and influenced by a plethora of variables.
 
-Overall, the integration of [algorithmic trading](/wiki/algorithmic-trading) in mining investments provides an evolved toolkit for investors, enabling them to harness the power of data analytics and computational models to improve decision-making and achieve better investment outcomes.
+Overall, the integration of algorithmic trading in mining investments provides an evolved toolkit for investors, enabling them to harness the power of data analytics and computational models to improve decision-making and achieve better investment outcomes.
 
 ## Conclusion
 

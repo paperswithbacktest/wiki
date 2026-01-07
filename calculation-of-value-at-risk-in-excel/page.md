@@ -40,7 +40,7 @@ Value at Risk (VaR) is a statistical technique utilized to measure the risk of l
 
 **Variance-Covariance Method**
 
-The Variance-Covariance method, also known as the parametric method, assumes that returns on a portfolio are normally distributed. This approach calculates VaR based on the mean and standard deviation ([volatility](/wiki/volatility-trading-strategies)) of the returns. The formula for the VaR of a portfolio using this method is:
+The Variance-Covariance method, also known as the parametric method, assumes that returns on a portfolio are normally distributed. This approach calculates VaR based on the mean and standard deviation (volatility) of the returns. The formula for the VaR of a portfolio using this method is:
 
 $$
 \text{VaR}_{\alpha} = Z_{\alpha} \times \sigma_P \times \sqrt{T}
@@ -122,7 +122,7 @@ Similarly, calculate the standard deviation of these returns using the STDEV fun
 
 - Formula for Standard Deviation: `=STDEV.S(C3:C102)`
 
-These [statistics](/wiki/bayesian-statistics) are vital for understanding the normal distribution of portfolio returns, which is foundational for the Variance-Covariance method.
+These statistics are vital for understanding the normal distribution of portfolio returns, which is foundational for the Variance-Covariance method.
 
 #### 4. Calculate VaR
 
@@ -150,7 +150,7 @@ By following these steps, users can utilize Excel's capabilities to compute Valu
 
 ## Implementing VaR in Algorithmic Trading
 
-Value at Risk (VaR) is a pivotal metric in [algorithmic trading](/wiki/algorithmic-trading) for quantifying and managing potential losses in trading portfolios. By providing a probabilistic estimate of the maximum loss expected over a specified time period at a given confidence level, VaR assists traders and risk managers in understanding and controlling the risks inherent in their trading strategies.
+Value at Risk (VaR) is a pivotal metric in algorithmic trading for quantifying and managing potential losses in trading portfolios. By providing a probabilistic estimate of the maximum loss expected over a specified time period at a given confidence level, VaR assists traders and risk managers in understanding and controlling the risks inherent in their trading strategies.
 
 One primary use of VaR in algorithmic trading is in risk management. Algorithmic trading strategies often involve automated buying and selling of financial instruments, meaning they can execute trades at a rapid pace. Incorporating VaR allows traders to set risk thresholds and automatically adjust their positions once potential losses approach these thresholds. This proactive approach aids in mitigating severe losses and maintaining portfolio health.
 
@@ -179,7 +179,7 @@ print(f"The daily Value at Risk at {confidence_level*100}% confidence level is {
 
 This script generates simulated daily returns of a portfolio, specifies a confidence level, and then computes the VaR using the historical simulation method.
 
-Python's advanced statistical and [machine learning](/wiki/machine-learning) libraries allow for more sophisticated analyses and the implementation of custom VaR methodologies, such as Monte Carlo simulations or the incorporation of machine learning models to estimate potential future asset distributions. These capabilities make Python a powerful tool for risk assessment and strategy optimization within algorithmic trading frameworks, complementing the more straightforward functionalities provided by Excel.
+Python's advanced statistical and machine learning libraries allow for more sophisticated analyses and the implementation of custom VaR methodologies, such as Monte Carlo simulations or the incorporation of machine learning models to estimate potential future asset distributions. These capabilities make Python a powerful tool for risk assessment and strategy optimization within algorithmic trading frameworks, complementing the more straightforward functionalities provided by Excel.
 
 ## Advanced Techniques and Considerations
 
@@ -193,9 +193,9 @@ where $\mu$ is the mean of the asset returns, $\sigma$ is the standard deviation
 
 Semi-Parametric VaR attempts to overcome the restrictions of Parametric VaR by incorporating non-normal return distributions, using techniques like the Cornish-Fisher expansion, which adjusts skewness and kurtosis. This approach provides a more flexible risk estimation suitable for portfolios exhibiting non-normal behaviors.
 
-In multi-asset portfolios, asset correlation is a critical [factor](/wiki/factor-investing) affecting VaR calculations. Accurate estimation of correlation coefficients is essential to properly assess the portfolio's diversified risk. Ignoring asset correlation might lead to an overestimation or underestimation of risk, potentially resulting in inefficient capital allocation.
+In multi-asset portfolios, asset correlation is a critical factor affecting VaR calculations. Accurate estimation of correlation coefficients is essential to properly assess the portfolio's diversified risk. Ignoring asset correlation might lead to an overestimation or underestimation of risk, potentially resulting in inefficient capital allocation.
 
-Backtesting VaR models is fundamental to verify their predictive accuracy and reliability. This involves comparing predicted risk measures with actual outcomes over a historical period to validate the effectiveness of the VaR model. A common approach to [backtesting](/wiki/backtesting) is the use of the Kupiec Test, which assesses the frequency of VaR breaches. Python libraries like 'pandas', 'numpy', and 'scipy' facilitate the backtesting process with their extensive statistical functionalities.
+Backtesting VaR models is fundamental to verify their predictive accuracy and reliability. This involves comparing predicted risk measures with actual outcomes over a historical period to validate the effectiveness of the VaR model. A common approach to backtesting is the use of the Kupiec Test, which assesses the frequency of VaR breaches. Python libraries like 'pandas', 'numpy', and 'scipy' facilitate the backtesting process with their extensive statistical functionalities.
 
 To demonstrate a simple backtesting in Python:
 

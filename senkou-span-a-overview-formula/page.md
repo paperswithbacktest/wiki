@@ -48,7 +48,7 @@ $$
 
 The space between Senkou Span A and Senkou Span B forms the Ichimoku "Cloud," or Kumo, which changes shape based on price movement, signaling potential support and resistance zones. If Senkou Span A is above Span B, the cloud is typically green, indicating potential bullish conditions. Conversely, if Span B is above Span A, the cloud is red, possibly hinting at bearish conditions.
 
-The Ichimoku Cloud's strength lies in its holistic approach, combining trend identification, support and resistance levels, and [momentum](/wiki/momentum) insights into a single chart. It remains a valuable tool for traders worldwide, particularly in [algorithmic trading](/wiki/algorithmic-trading) strategies, where it aids in the creation of rule-based systems that capitalize on predictable price movements.
+The Ichimoku Cloud's strength lies in its holistic approach, combining trend identification, support and resistance levels, and momentum insights into a single chart. It remains a valuable tool for traders worldwide, particularly in algorithmic trading strategies, where it aids in the creation of rule-based systems that capitalize on predictable price movements.
 
 ## Senkou Span A: What It Is and How It Works
 
@@ -244,7 +244,7 @@ In practical trading scenarios, Senkou Span A's predictive nature can offer stra
 
 Senkou Span A, as a standalone indicator within the Ichimoku Cloud, presents certain limitations and challenges when utilized in technical analysis. One chief limitation is its potential for lagging behind price movements. Senkou Span A is computed by averaging the Tenkan Sen (Conversion Line) and Kijun Sen (Base Line) and then plotting this average 26 periods ahead. This inherent forward-looking calculation means it relies heavily on historical data, which can result in delayed responses to rapid market changes or reversals. 
 
-For instance, in volatile markets, the lag associated with Senkou Span A can lead to late reactions that may cause traders to enter or [exit](/wiki/exit-strategy) positions after significant price movements have already occurred. This latency is particularly evident during sudden trend reversals, where the indicator might provide signals only after the new trend is well underway.
+For instance, in volatile markets, the lag associated with Senkou Span A can lead to late reactions that may cause traders to enter or exit positions after significant price movements have already occurred. This latency is particularly evident during sudden trend reversals, where the indicator might provide signals only after the new trend is well underway.
 
 To mitigate such lag, it is crucial to integrate Senkou Span A with other analysis methods. Combining it with momentum indicators like the Relative Strength Index (RSI) or the Moving Average Convergence Divergence (MACD) can provide additional confirmation of trends and help in identifying entry and exit points more effectively. For example, when Senkou Span A crosses above Senkou Span B (indicating potential bullish trend), the trader might look for supporting signals from the RSI to confirm strength in the movement before committing to a trade.
 
@@ -295,7 +295,7 @@ Backtesting is imperative when integrating any technical indicator into an algo 
 2. **Reversion to Mean**:
    - Strategies using Senkou Span A to identify overextended price movements that revert to the cloud have been effective. For example, entering short trades when the price is significantly above Senkou Span A with a subsequent lagging Chikou Span indicating waning momentum.
 
-These examples showcase the versatility and predictive power of Senkou Span A when integrated into algorithmic trading systems. By carefully [backtesting](/wiki/backtesting) and optimizing trading strategies, traders can harness the insights provided by the Ichimoku Cloud, leading to potentially profitable trading opportunities.
+These examples showcase the versatility and predictive power of Senkou Span A when integrated into algorithmic trading systems. By carefully backtesting and optimizing trading strategies, traders can harness the insights provided by the Ichimoku Cloud, leading to potentially profitable trading opportunities.
 
 ## Conclusion
 

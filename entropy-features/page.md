@@ -29,7 +29,7 @@ $$
 
 This formulation allows the capturing of uncertainty by summing the expected value of the information content of each outcome, weighted by its probability.
 
-In [algorithmic trading](/wiki/algorithmic-trading), entropy is applied to assess the order or turbulence within historical trading data, leading to a sophisticated understanding of price dynamics. For instance, examining varying periods of high or low entropy in price movements can offer insights into potential trend shifts or continuations. By utilizing entropy, traders can systematically track and predict price behaviors, translating seemingly erratic market movements into actionable data.
+In algorithmic trading, entropy is applied to assess the order or turbulence within historical trading data, leading to a sophisticated understanding of price dynamics. For instance, examining varying periods of high or low entropy in price movements can offer insights into potential trend shifts or continuations. By utilizing entropy, traders can systematically track and predict price behaviors, translating seemingly erratic market movements into actionable data.
 
 The adaptation of entropy to financial markets involves the utilization of historical price data, where traders may calculate the entropy of price changes over specified intervals. Python code can be used to compute the Shannon entropy of a dataset of price returns. Here is a basic implementation using Python:
 
@@ -100,9 +100,9 @@ positive_entropy, negative_entropy = calculate_entropy(prices, window_length)
 
 ### Interpretation and Application
 
-Understanding these entropy measures allows traders to interpret periods of high disorder. High entropy indicates diverse market opinions and potential unpredictability, while low entropy suggests greater consensus, likely pointing to trend continuations. By examining the balance between positive and negative entropy, traders can gain insights into market [momentum](/wiki/momentum) and corrective phases.
+Understanding these entropy measures allows traders to interpret periods of high disorder. High entropy indicates diverse market opinions and potential unpredictability, while low entropy suggests greater consensus, likely pointing to trend continuations. By examining the balance between positive and negative entropy, traders can gain insights into market momentum and corrective phases.
 
-For example, periods with increasing negative entropy might precede bearish trends, where prices could fall, while rising positive entropy suggests bullish trends. Traders leverage this information to optimize entry and [exit](/wiki/exit-strategy) points in their trading strategies, thus enhancing decision-making processes by accounting for the inherent uncertainty in financial markets.
+For example, periods with increasing negative entropy might precede bearish trends, where prices could fall, while rising positive entropy suggests bullish trends. Traders leverage this information to optimize entry and exit points in their trading strategies, thus enhancing decision-making processes by accounting for the inherent uncertainty in financial markets.
 
 In practical scenarios, traders integrate these entropy calculations into their trading platforms to automate alerts and actions based on set thresholds for positive and negative entropy. These insights contribute to adapting strategies swiftly, reflecting the ever-changing market dynamics.
 
@@ -120,7 +120,7 @@ $$
 
 where $p(x_i)$ represents the probability distribution of the possible states of the market data. Differences in entropy values over time can indicate significant changes in market behavior, thereby suggesting potential trading opportunities.
 
-One of the considerable advantages of these systems is their customization options. Traders can tailor parameters such as EMA factors and window lengths to align with specific trading strategies. For instance, shorter EMAs may be used for short-term [scalping](/wiki/gamma-scalping) strategies, while longer EMAs could be more suitable for trend-following approaches. 
+One of the considerable advantages of these systems is their customization options. Traders can tailor parameters such as EMA factors and window lengths to align with specific trading strategies. For instance, shorter EMAs may be used for short-term scalping strategies, while longer EMAs could be more suitable for trend-following approaches. 
 
 In practical terms, traders can enhance their trading algorithms by leveraging these entropy-derived insights. By adjusting parameters and integrating these indicators into existing trading systems, they can improve their decision-making processes significantly. An open-source platform like Superalgos allows for such modifications, making it accessible for traders looking to optimize their strategies. The adaptability of entropy-based indicators makes them a potent tool in modern trading, providing nuanced understanding and forecasting abilities that traditional methods may lack.
 
@@ -130,7 +130,7 @@ Real-world applications of entropy-based trading indicators have increasingly be
 
 One prominent example is the deployment of entropy indicators in equity markets, where they have been utilized to forecast significant trend reversals. In these studies, entropy metrics often identify periods when traditional indicators such as the Relative Strength Index (RSI) or the Moving Average Convergence Divergence (MACD) may lag. The sensitivity of entropy measures to shifts in market dynamics allows traders to spot emerging trends earlier and with greater accuracy. This is primarily because traditional indicators are generally based on historical price data without accounting for the underlying uncertainty or randomness captured by entropy.
 
-Back-testing these entropy-based indicators forms a crucial component of performance evaluation, providing insights into their effectiveness over historical datasets. By experimenting across diverse asset classes, from stocks to cryptocurrencies, researchers and practitioners can assess the robustness of these indicators. For instance, back-testing might involve computing Shannon entropy over various time windows to determine price [volatility](/wiki/volatility-trading-strategies) shifts. In Python, this can be implemented as follows:
+Back-testing these entropy-based indicators forms a crucial component of performance evaluation, providing insights into their effectiveness over historical datasets. By experimenting across diverse asset classes, from stocks to cryptocurrencies, researchers and practitioners can assess the robustness of these indicators. For instance, back-testing might involve computing Shannon entropy over various time windows to determine price volatility shifts. In Python, this can be implemented as follows:
 
 ```python
 import numpy as np

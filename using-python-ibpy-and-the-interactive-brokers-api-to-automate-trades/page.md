@@ -26,7 +26,7 @@ The Interactive Brokers API provides several interfaces, each with distinct func
 
 3. **API Platforms**: Interactive Brokers offers APIs in various programming languages including Java, C++, and Python. These allow traders to build custom applications tailored to their specific trading strategies. The APIs support real-time market data retrieval, trade execution, and portfolio management.
 
-When it comes to implementing these interfaces, users can choose between the native API provided by [Interactive Brokers](/wiki/interactive-brokers-api) or leverage third-party libraries such as IbPy and IBridgePy. The native API offers comprehensive access to IB's functionalities, but may require more in-depth programming knowledge. On the other hand, third-party libraries often provide simplified interfaces that are especially beneficial for users who prefer developing in Python.
+When it comes to implementing these interfaces, users can choose between the native API provided by Interactive Brokers or leverage third-party libraries such as IbPy and IBridgePy. The native API offers comprehensive access to IB's functionalities, but may require more in-depth programming knowledge. On the other hand, third-party libraries often provide simplified interfaces that are especially beneficial for users who prefer developing in Python.
 
 - **IbPy** is a Python wrapper for the Interactive Brokers API, enabling Python users to seamlessly implement trading strategies without needing to directly interact with the original Java API. However, IbPy is no longer actively maintained, which can present challenges in keeping up with updates from Interactive Brokers.
 
@@ -36,7 +36,7 @@ In summary, the Interactive Brokers API is central to enabling automated trading
 
 ## Getting Started with Interactive Brokers API
 
-To begin utilizing the Interactive Brokers (IB) API for [algorithmic trading](/wiki/algorithmic-trading), one must first establish a trading account with Interactive Brokers. There are two types of accounts available: demo and live. A demo account, also known as a paper trading account, allows users to simulate trades without financial risk, making it ideal for testing strategies. A live account, on the other hand, enables actual trading with real funds. Both accounts can be created on the Interactive Brokers website by following a registration process that involves providing personal information, agreeing to terms and conditions, and completing any necessary financial suitability assessments.
+To begin utilizing the Interactive Brokers (IB) API for algorithmic trading, one must first establish a trading account with Interactive Brokers. There are two types of accounts available: demo and live. A demo account, also known as a paper trading account, allows users to simulate trades without financial risk, making it ideal for testing strategies. A live account, on the other hand, enables actual trading with real funds. Both accounts can be created on the Interactive Brokers website by following a registration process that involves providing personal information, agreeing to terms and conditions, and completing any necessary financial suitability assessments.
 
 Once an account is in place, the next step is to set up the Interactive Brokers API, which involves two primary components: the Trader Workstation (TWS) or the IB Gateway, and API software. The TWS is a trading platform that provides a graphical interface, whereas the IB Gateway is a lighter option without a user interface, more suitable for automated trading environments. Both options allow for API access and must be downloaded and installed on your system.
 
@@ -146,7 +146,7 @@ Interactive Brokers (IB) provides a robust API that allows traders and developer
 
 ### Retrieving Market Data
 
-The Interactive Brokers API offers access to both real-time and historical market data. This data is essential for developing and executing algorithmic trading strategies. Real-time data includes live quotes, bid/ask spreads, and transaction volumes, whereas historical data helps in [backtesting](/wiki/backtesting) strategies by providing insights into past market behaviors.
+The Interactive Brokers API offers access to both real-time and historical market data. This data is essential for developing and executing algorithmic trading strategies. Real-time data includes live quotes, bid/ask spreads, and transaction volumes, whereas historical data helps in backtesting strategies by providing insights into past market behaviors.
 
 To access market data through the API, a user needs a data subscription. This subscription is required because real-time data feeds incur costs due to exchanges charging fees for data distribution. The cost varies depending on the exchanges and the types of data the user subscribes to. For example, subscribing to level I data typically involves current bid/ask prices, whereas level II data includes additional details like market depth.
 
@@ -190,7 +190,7 @@ This code sets up a connection to the Interactive Brokers Trader Workstation (TW
 
 Smart order routing is a fundamental feature of Interactive Brokers, designed to enhance trade execution. It automatically assesses various market conditions and routes orders to the most favorable venues, thus optimizing factors such as price, speed, and likelihood of execution.
 
-The smart order router aims to achieve the best possible execution by considering numerous factors, including the [order book](/wiki/order-book-trading-strategies) depth, [liquidity](/wiki/liquidity-risk-premium) at different venues, and current market conditions. This may result in splitting a single order into multiple smaller ones to be executed across various exchanges or dark pools, thereby improving execution quality and reducing market impact.
+The smart order router aims to achieve the best possible execution by considering numerous factors, including the order book depth, liquidity at different venues, and current market conditions. This may result in splitting a single order into multiple smaller ones to be executed across various exchanges or dark pools, thereby improving execution quality and reducing market impact.
 
 For example, when executing a trade for a large number of shares, the smart order router might choose to execute portions of the trade across several lit exchanges to avoid moving the market price unfavorably.
 
@@ -259,7 +259,7 @@ if __name__ == "__main__":
 
 This script outlines the basics of setting up a connection, fetching historical data, calculating moving averages, and generating trading signals.
 
-Automation in trading strategies goes beyond simple execution. By leveraging the advanced features of the API, traders can implement comprehensive risk management frameworks. For instance, using conditional orders, it's possible to automate stop-loss and take-profit levels, dynamically adjust position sizes, and hedge portfolios against market [volatility](/wiki/volatility-trading-strategies). Furthermore, custom scripts and models can evaluate market conditions and automatically modify strategy parameters, ensuring adaptive trading in response to changing market dynamics.
+Automation in trading strategies goes beyond simple execution. By leveraging the advanced features of the API, traders can implement comprehensive risk management frameworks. For instance, using conditional orders, it's possible to automate stop-loss and take-profit levels, dynamically adjust position sizes, and hedge portfolios against market volatility. Furthermore, custom scripts and models can evaluate market conditions and automatically modify strategy parameters, ensuring adaptive trading in response to changing market dynamics.
 
 These advanced features not only provide traders with the capability to execute complex strategies but also emphasize the importance of rigorous testing and simulation to ensure these strategies perform as expected under various market scenarios. Integrating robust backtesting systems and continuously refining algorithms based on performance and market feedback becomes critical for success in automated trading environments.
 

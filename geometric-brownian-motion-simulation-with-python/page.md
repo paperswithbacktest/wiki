@@ -35,7 +35,7 @@ where:
 
 GBM is significant in modeling stock prices for several reasons. Its underlying assumptions of continuous compounding, constant percentage changes in price, and normality in the distribution of returns make it mathematically tractable and analytically useful. Moreover, GBM naturally accommodates the path-dependent nature of stock prices, providing a realistic portrayal of their random walk-like characteristics observed in real markets.
 
-However, the use of GBM comes with assumptions that may not hold true in all market environments, leading to certain limitations. These assumptions include a constant drift ($\mu$) and [volatility](/wiki/volatility-trading-strategies) ($\sigma$), and logarithmic returns being normally distributed. In reality, markets often experience jumps, stochastic volatility, and correlations ignored by the basic GBM model. Additionally, GBM assumes that markets are efficient and do not account for factors such as transaction costs or market microstructures.
+However, the use of GBM comes with assumptions that may not hold true in all market environments, leading to certain limitations. These assumptions include a constant drift ($\mu$) and volatility ($\sigma$), and logarithmic returns being normally distributed. In reality, markets often experience jumps, stochastic volatility, and correlations ignored by the basic GBM model. Additionally, GBM assumes that markets are efficient and do not account for factors such as transaction costs or market microstructures.
 
 The historical context of GBM is significantly tied to the Black-Scholes model, which popularized its use in finance. Introduced in the early 1970s, the Black-Scholes model utilized GBM to derive a closed-form solution for European option pricing, transforming the financial landscape. This breakthrough brought attention to GBM as a fundamental tool in not only option pricing but various aspects of financial modeling, including risk management and strategic asset allocation.
 
@@ -43,7 +43,7 @@ Overall, despite its assumptions and inherent limitations, GBM remains a corners
 
 ## Relevance of GBM in Algorithmic Trading
 
-Geometric Brownian Motion (GBM) plays a significant role in [algorithmic trading](/wiki/algorithmic-trading) due to its capacity to model the stochastic behavior of asset prices. GBM is favored in algorithmic trading strategies because it captures the essential characteristics of risky asset returns, namely the continuous compounding and proportionality of returns over time. The mathematical representation of price $S(t)$ under GBM is defined by the stochastic differential equation:
+Geometric Brownian Motion (GBM) plays a significant role in algorithmic trading due to its capacity to model the stochastic behavior of asset prices. GBM is favored in algorithmic trading strategies because it captures the essential characteristics of risky asset returns, namely the continuous compounding and proportionality of returns over time. The mathematical representation of price $S(t)$ under GBM is defined by the stochastic differential equation:
 
 $$
 dS(t) = \mu S(t) dt + \sigma S(t) dW(t)
@@ -69,7 +69,7 @@ GBM offers simplicity and analytic tractability, making it a popular choice for 
 
 3. **Model Calibration**: Accurately estimating the parameters $\mu$ and $\sigma$ is critical but challenging due to market fluctuations. The calibration process must be dynamic and adaptive to changing market conditions.
 
-Despite these challenges, GBM remains a foundational tool in quantitative finance, facilitating the development and [backtesting](/wiki/backtesting) of trading strategies. Its simplicity and integration potential with more complex models enable traders to devise robust and adaptable algorithmic systems.
+Despite these challenges, GBM remains a foundational tool in quantitative finance, facilitating the development and backtesting of trading strategies. Its simplicity and integration potential with more complex models enable traders to devise robust and adaptable algorithmic systems.
 
 ## Implementing Geometric Brownian Motion in Python
 
@@ -151,7 +151,7 @@ Simulated geometric Brownian motion (GBM) data are instrumental in the developme
 
 One simple algorithmic trading strategy leveraging GBM simulations is a mean-reversion strategy. This approach assumes that asset prices will revert to a long-term mean. By simulating GBM paths, traders can identify periods when prices deviate significantly from the mean and devise rules that capitalize on the expected reversion. Another example is a trend-following strategy, which involves identifying the initiation of trends through GBM-simulated trajectories and generating signals for buy or sell positions accordingly.
 
-Enhancing strategy performance often involves combining GBM with additional signals and indicators. Technical indicators such as moving averages, relative strength index (RSI), and Bollinger Bands can be integrated with GBM-generated paths to refine entry and [exit](/wiki/exit-strategy) points. By layering these indicators, traders can improve the robustness of their strategies, minimizing false signals and optimizing trading performance. For example, integrating moving averages can help confirm trends suggested by GBM simulations, allowing for more precise trade execution.
+Enhancing strategy performance often involves combining GBM with additional signals and indicators. Technical indicators such as moving averages, relative strength index (RSI), and Bollinger Bands can be integrated with GBM-generated paths to refine entry and exit points. By layering these indicators, traders can improve the robustness of their strategies, minimizing false signals and optimizing trading performance. For example, integrating moving averages can help confirm trends suggested by GBM simulations, allowing for more precise trade execution.
 
 Risk management and optimization are essential considerations in developing GBM-based strategies. Simulated paths can help traders evaluate potential risks by observing the variability and extremes in asset price movements. Python libraries like NumPy and pandas are beneficial for performing Monte Carlo simulations that assess risk metrics such as Value at Risk (VaR) and Expected Shortfall. Moreover, optimization techniques can be employed to adjust strategy parameters, ensuring a balance between risk and return. Fine-tuning parameters like stop-loss levels and position sizes through simulated testing can mitigate adverse price movements and enhance overall strategy profitability.
 
@@ -187,11 +187,11 @@ $$
 
 Financial models often underperform due to unmodeled real-world constraints such as market microstructure and transaction costs. Market microstructure involves the frictions and mechanisms of trading, which can influence price formation and subsequently, model predictions. Similarly, transaction costs such as brokerage fees can erode theoretical profits predicted by models.
 
-To account for these factors, traders can incorporate realistic transaction cost models and adjust their trading strategies to minimize cost impacts. This might involve optimizing the frequency and size of trades or using execution algorithms that seek [liquidity](/wiki/liquidity-risk-premium).
+To account for these factors, traders can incorporate realistic transaction cost models and adjust their trading strategies to minimize cost impacts. This might involve optimizing the frequency and size of trades or using execution algorithms that seek liquidity.
 
 ### Machine Learning Algorithms as Enhancements
 
-Machine learning (ML) offers an advanced toolkit for enhancing financial models like GBM. ML algorithms can identify complex patterns in vast datasets that traditional models might miss, allowing for more nuanced predictions. Techniques such as supervised learning, neural networks, and [reinforcement learning](/wiki/reinforcement-learning) are becoming valuable in the development and refinement of trading strategies.
+Machine learning (ML) offers an advanced toolkit for enhancing financial models like GBM. ML algorithms can identify complex patterns in vast datasets that traditional models might miss, allowing for more nuanced predictions. Techniques such as supervised learning, neural networks, and reinforcement learning are becoming valuable in the development and refinement of trading strategies.
 
 In Python, integrating ML with GBM simulations could involve using libraries such as scikit-learn, TensorFlow, or PyTorch. A simple example could look like:
 
@@ -207,7 +207,7 @@ predictions = model.predict(X_test)
 
 This code snippet demonstrates how a Random Forest model can be trained on historical data to predict asset prices, potentially serving as an additional signal to complement GBM-based strategies.
 
-In conclusion, while GBM serves as a foundational model in quantitative finance, its efficacy can be greatly enhanced by incorporating advanced techniques and real-world considerations. Exploring alternative models and leveraging [machine learning](/wiki/machine-learning) methods offer promising avenues for developing robust, adaptive trading strategies in a complex market environment.
+In conclusion, while GBM serves as a foundational model in quantitative finance, its efficacy can be greatly enhanced by incorporating advanced techniques and real-world considerations. Exploring alternative models and leveraging machine learning methods offer promising avenues for developing robust, adaptive trading strategies in a complex market environment.
 
 ## Conclusion
 

@@ -26,15 +26,15 @@ $$
 
 Here, the "Highest High" and "Lowest Low" refer to the highest and lowest prices observed over the lookback period, and "Close" is the most recent closing price. The calculation's simplicity makes it accessible for traders, regardless of their experience level.
 
-A reading above -20 signifies an overbought condition, indicating that the price is near the high of its recent range. Conversely, a reading below -80 suggests an oversold condition, meaning the price is near the low of its recent range. Traders typically interpret these extreme values as signals for potential entry or [exit](/wiki/exit-strategy) points, although they often combine them with other analytical methods to confirm signals and enhance strategy reliability.
+A reading above -20 signifies an overbought condition, indicating that the price is near the high of its recent range. Conversely, a reading below -80 suggests an oversold condition, meaning the price is near the low of its recent range. Traders typically interpret these extreme values as signals for potential entry or exit points, although they often combine them with other analytical methods to confirm signals and enhance strategy reliability.
 
 In trading strategies, Williams %R is frequently utilized as part of a mean reversion approach. Traders may consider buying when the indicator shows the market is oversold and selling when it turns overbought. Such strategies assume that prices, when reaching extreme conditions, have a tendency to revert to their mean levels. Leveraging this indicator's simplicity, traders can systematically apply it to various financial instruments with relative ease.
 
-Williams %R also allows for straightforward integration into [algorithmic trading](/wiki/algorithmic-trading) systems. By setting specific thresholds for entry and exit signals, traders can automate their decision-making process, harnessing the indicator's potential for systematic trade execution. This capability highlights the adaptability and utility of Williams %R in both manual and automated trading environments.
+Williams %R also allows for straightforward integration into algorithmic trading systems. By setting specific thresholds for entry and exit signals, traders can automate their decision-making process, harnessing the indicator's potential for systematic trade execution. This capability highlights the adaptability and utility of Williams %R in both manual and automated trading environments.
 
 ## Williams %R in Algo Trading
 
-Algorithmic trading employs computer algorithms to execute trades based on predefined conditions. This approach benefits from speed and precision, allowing traders to take advantage of fleeting opportunities. Williams %R, a [momentum](/wiki/momentum) indicator developed by Larry Williams, is often incorporated in these algorithms due to its ability to signal overbought and oversold conditions effectively. 
+Algorithmic trading employs computer algorithms to execute trades based on predefined conditions. This approach benefits from speed and precision, allowing traders to take advantage of fleeting opportunities. Williams %R, a momentum indicator developed by Larry Williams, is often incorporated in these algorithms due to its ability to signal overbought and oversold conditions effectively. 
 
 Williams %R can be seamlessly integrated into algorithmic trading systems, automating the detection of trading signals based on the market condition relative to its high-low range over a specified period. The adaption into strategies typically centers around mean reversion, which is predicated on the belief that asset prices will tend to revert to their average over time. Within this framework, Williams %R can guide traders to take a long position when the indicator signals an oversold market (typically below -80) or a short position when it indicates an overbought market (typically above -20). 
 
@@ -60,7 +60,7 @@ This automation enables traders to execute strategies with consistency and speed
 
 Backtesting involves applying a trading strategy to historical market data to assess its effectiveness and potential profitability before deploying it in live trading. For the Williams %R strategy, we conducted a comprehensive backtest using historical data from the S&P 500, a widely recognized stock market index representing 500 of the largest companies listed on stock exchanges in the United States.
 
-The [backtesting](/wiki/backtesting) process revealed a significant win rate of 81% for the Williams %R strategy, underscoring its potential utility in trading systems. This high win rate suggests that the strategy was able to correctly anticipate market movements the majority of the time during the backtested period.
+The backtesting process revealed a significant win rate of 81% for the Williams %R strategy, underscoring its potential utility in trading systems. This high win rate suggests that the strategy was able to correctly anticipate market movements the majority of the time during the backtested period.
 
 One of the notable findings from our analysis was the strategy's exceptional performance during market downturns. During periods of declining markets, the Williams %R indicator effectively identified oversold conditions, allowing for profitable buy signals. This characteristic is particularly useful for traders seeking to capitalize on market corrections or rebounds following sharp declines.
 
@@ -119,7 +119,7 @@ $$
 \text{RSI} = 100 - \left( \frac{100}{1 + \frac{\text{Average Gain}}{\text{Average Loss}}} \right) 
 $$
 
-Our tests on historical market data have shown that Williams %R can outperform RSI in certain market scenarios, particularly in environments characterized by rapid trend reversals. This can be attributed to Williams %R's sensitivity to closing prices and its ability to capture sharp market moves. RSI, with its focus on average gains and losses, tends to smooth out short-term [volatility](/wiki/volatility-trading-strategies), making it potentially less responsive to abrupt price changes.
+Our tests on historical market data have shown that Williams %R can outperform RSI in certain market scenarios, particularly in environments characterized by rapid trend reversals. This can be attributed to Williams %R's sensitivity to closing prices and its ability to capture sharp market moves. RSI, with its focus on average gains and losses, tends to smooth out short-term volatility, making it potentially less responsive to abrupt price changes.
 
 Traders often benefit from considering Williams %R as an alternative to RSI, or even better, as a complement in their trading strategies. By combining both indicators, traders can gain a more comprehensive view of the market momentum and make more informed trading decisions. For example, they may use Williams %R to capture short-term entry and exit points while utilizing RSI to confirm broader trend conditions.
 

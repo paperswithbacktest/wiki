@@ -28,9 +28,9 @@ $$
 \text{TWAP} = \frac{\sum_{t=1}^{n} P_t}{n}
 $$
 
-This formula simplifies the determination of an average price over the given intervals, highlighting the method’s reliance on time rather than the [volume](/wiki/volume-trading-strategy) traded.
+This formula simplifies the determination of an average price over the given intervals, highlighting the method’s reliance on time rather than the volume traded.
 
-The simplicity of TWAP makes it an accessible tool for both novice and experienced traders in [algorithmic trading](/wiki/algorithmic-trading), providing a straightforward mechanism to manage order execution with reduced market impact.
+The simplicity of TWAP makes it an accessible tool for both novice and experienced traders in algorithmic trading, providing a straightforward mechanism to manage order execution with reduced market impact.
 
 ## Example and Calculation of TWAP
 
@@ -80,7 +80,7 @@ In this implementation, the dataframe represents prices over four periods, and T
 
 ## Why Choose TWAP?
 
-TWAP can significantly mitigate the market impact associated with executing large orders by dispersing them across a defined time frame. This method reduces the likelihood of market disruption and price drift, ensuring that orders are executed at prices that reflect the market's natural [liquidity](/wiki/liquidity-risk-premium). By adopting a TWAP strategy, traders effectively diminish their footprint on the market, avoiding sudden spikes or drops in price that large trades might typically induce.
+TWAP can significantly mitigate the market impact associated with executing large orders by dispersing them across a defined time frame. This method reduces the likelihood of market disruption and price drift, ensuring that orders are executed at prices that reflect the market's natural liquidity. By adopting a TWAP strategy, traders effectively diminish their footprint on the market, avoiding sudden spikes or drops in price that large trades might typically induce.
 
 The appeal of TWAP is particularly pronounced for high-frequency and quantitative traders. These traders operate in environments where speed and precision are paramount, and TWAP's systematic approach allows for consistent order execution. For instance, the algorithm's ability to divide a large trade into smaller, manageable portions and execute them sequentially ensures that the trader can maintain a low profile, executing the order without alerting competitors or other market participants to their actions.
 
@@ -162,7 +162,7 @@ In conclusion, while TWAP provides a robust foundation for reducing market impac
 
 Time-Weighted Average Price (TWAP) serves as a fundamental tool for algorithmic traders, particularly for executing large trades without significantly impacting market prices. Its methodology, centered around distributing trades evenly over a set time frame, allows for smoother and more discreet order execution. Despite its simplicity, mastering TWAP can greatly enhance a trader's strategy by providing a reliable mechanism for minimizing the market impact of substantial orders.
 
-Understanding TWAP's practical applications and limitations is key for traders looking to optimize their trading activities. Its straightforward approach makes it accessible to those new to [quantitative trading](/wiki/quantitative-trading), offering an excellent starting point for managing order execution effectively. However, it is crucial to acknowledge that while TWAP can be predictable and potentially exploited in some market conditions, tailoring its implementation to specific trading scenarios can mitigate these risks.
+Understanding TWAP's practical applications and limitations is key for traders looking to optimize their trading activities. Its straightforward approach makes it accessible to those new to quantitative trading, offering an excellent starting point for managing order execution effectively. However, it is crucial to acknowledge that while TWAP can be predictable and potentially exploited in some market conditions, tailoring its implementation to specific trading scenarios can mitigate these risks.
 
 For traders venturing into the algorithmic trading arena, TWAP can form the cornerstone of a robust trading strategy. As traders gain experience and market understanding, they may explore more complex algorithms, yet the foundational knowledge of TWAP remains invaluable. By leveraging TWAP, traders can strategically execute large trades with enhanced control and reduced market footprints, contributing to a successful trading experience.
 

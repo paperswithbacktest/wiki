@@ -71,7 +71,7 @@ import pandas as pd
 data['EMA'] = data['price'].ewm(span=N, adjust=False).mean()
 ```
 
-In [algorithmic trading](/wiki/algorithmic-trading), understanding and leveraging exponential functions extends beyond EMAs. These principles are applied in constructing stochastic models that predict market behavior under uncertainty. The stochastic calculus, often incorporating components that are directly proportional to $e^x$, helps model complex systems where variables follow a random path, thus aiding in risk management and strategy optimization.
+In algorithmic trading, understanding and leveraging exponential functions extends beyond EMAs. These principles are applied in constructing stochastic models that predict market behavior under uncertainty. The stochastic calculus, often incorporating components that are directly proportional to $e^x$, helps model complex systems where variables follow a random path, thus aiding in risk management and strategy optimization.
 
 The strategic importance of mastering exponential functions and logarithms underscores their utility in crafting resilient trading algorithms. With rigorous application, traders can minimize risks and capitalize on opportunities, affirming the necessity of mathematical insight in the field of algorithmic trading.
 
@@ -121,7 +121,7 @@ This kind of implementation is foundational for algorithmic strategies that reba
 
 ## Future Trends in Finance and Mathematics
 
-The financial landscape is continuously evolving, with mathematical constants such as Euler's number playing a pivotal role in shaping emerging trends. As finance increasingly intersects with [machine learning](/wiki/machine-learning) and data science, the application of these mathematical elements is expected to grow significantly.
+The financial landscape is continuously evolving, with mathematical constants such as Euler's number playing a pivotal role in shaping emerging trends. As finance increasingly intersects with machine learning and data science, the application of these mathematical elements is expected to grow significantly.
 
 Machine learning and data science are transforming traditional financial models by introducing advanced analytical techniques. Algorithms that leverage Euler's number are used in predictive modeling, particularly in estimating growth rates and compounding interest. These techniques allow for enhanced accuracy in forecasting market behaviors. For instance, the natural exponential function, $\exp(x) = e^x$, is commonly used in machine learning models to handle exponential growth patterns found in financial time series data.
 

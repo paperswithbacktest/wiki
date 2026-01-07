@@ -29,7 +29,7 @@ By focusing on these aggregated data points, weekly charts streamline the analys
 
 ## Understanding Weekly Chart Data
 
-Weekly charts are visual representations that condense a security's price movement over a week, typically using formats such as candlestick and bar charts. These formats are widely employed because they effectively summarize weekly trading activities in a way that highlights significant trends while minimizing the distractions that daily [volatility](/wiki/volatility-trading-strategies) can introduce.
+Weekly charts are visual representations that condense a security's price movement over a week, typically using formats such as candlestick and bar charts. These formats are widely employed because they effectively summarize weekly trading activities in a way that highlights significant trends while minimizing the distractions that daily volatility can introduce.
 
 Candlestick charts are particularly popular due to their ability to convey complex information with clear visual cues. Each candlestick on a weekly chart represents a complete week of trading data, which includes the opening price, highest price, lowest price, and closing price of the security. The body of the candle reveals the difference between the opening and closing prices, while the wicks or tails indicate the high and low price extremes during the week.
 
@@ -59,13 +59,13 @@ Daily charts are a crucial tool for traders engaged in short-term trading and in
 
 Weekly charts, on the other hand, serve as a middle ground between daily and monthly charts. They aggregate daily data into a single, cohesive view spanning a week, reducing the noise often found in daily charts. This balance allows traders to focus more effectively on broader trend analysis, making weekly charts well-suited for medium to long-term strategies. By smoothing out daily volatility, weekly charts enable traders to identify significant patterns and trends that aid in making more informed decisions over time.
 
-Monthly charts encapsulate an even broader market perspective, emphasizing overarching trends within longer time frames. They are ideal for investors looking to understand extended market cycles and trends. However, the main drawback is the lack of detail, rendering monthly charts less effective for traders who require precise entry and [exit](/wiki/exit-strategy) strategies. The broad view provided by monthly charts is advantageous for long-term investment strategies but is not suitable for capturing the immediate details needed for shorter-term market actions.
+Monthly charts encapsulate an even broader market perspective, emphasizing overarching trends within longer time frames. They are ideal for investors looking to understand extended market cycles and trends. However, the main drawback is the lack of detail, rendering monthly charts less effective for traders who require precise entry and exit strategies. The broad view provided by monthly charts is advantageous for long-term investment strategies but is not suitable for capturing the immediate details needed for shorter-term market actions.
 
 In summary, each chart type serves a valuable role depending on the trader's objectives: daily charts for precision and immediacy, weekly charts for balanced analysis of trends, and monthly charts for a comprehensive overview.
 
 ## Role of Weekly Charts in Algorithmic Trading
 
-In [algorithmic trading](/wiki/algorithmic-trading), weekly charts provide a strategic advantage for developing trading algorithms tailored to capture long-term market movements. Their ability to encapsulate a week's price action—open, high, low, and close prices—allows traders to discern overarching trends without being swayed by the transitory noise typical of daily charts. This characteristic makes weekly charts particularly useful in setting parameters for automated trading systems.
+In algorithmic trading, weekly charts provide a strategic advantage for developing trading algorithms tailored to capture long-term market movements. Their ability to encapsulate a week's price action—open, high, low, and close prices—allows traders to discern overarching trends without being swayed by the transitory noise typical of daily charts. This characteristic makes weekly charts particularly useful in setting parameters for automated trading systems.
 
 The integration of weekly chart data into algorithmic models enables the refinement of strategies that aim to exploit enduring market trends. By smoothing out the day-to-day volatility, weekly charts facilitate a clearer analysis of price movements, enhancing the reliability of the signals utilized in algorithmic trading. For instance, a moving average strategy over weekly data might look like the following Python code snippet, which computes a 10-week moving average:
 

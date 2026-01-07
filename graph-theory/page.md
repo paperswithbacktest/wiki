@@ -18,7 +18,7 @@ Ultimately, our goal is to demystify the use of graph concepts in creating tradi
 
 ## Understanding Graph Theory
 
-Graph theory is a branch of mathematics that studies graphs, which are structures composed of vertices (also known as nodes) and edges (lines connecting these vertices). These elements are used to model and examine pairwise relationships between entities, making graph theory a versatile tool in various fields, including [algorithmic trading](/wiki/algorithmic-trading).
+Graph theory is a branch of mathematics that studies graphs, which are structures composed of vertices (also known as nodes) and edges (lines connecting these vertices). These elements are used to model and examine pairwise relationships between entities, making graph theory a versatile tool in various fields, including algorithmic trading.
 
 In its simplest form, a graph $G$ is defined as an ordered pair $G = (V, E)$, where $V$ is a set of vertices and $E$ is a set of edges, which are 2-element subsets of $V$. In the context of financial data, vertices might represent individual stocks, and edges might symbolize various types of relationships or interactions between these stocks, such as correlations in price movements or transactional connections in trading networks.
 
@@ -36,7 +36,7 @@ Algorithmic trading uses computer algorithms to automate the execution of tradin
 
 One of the core components of algorithmic trading is the reliance on pre-defined rules and strategies. These strategies often involve complex calculations, statistical functions, and mathematical models. For instance, a simple version of an algorithmic trading strategy might be to buy a stock when its 50-day moving average surpasses its 200-day moving average, a popular signal in technical analysis. This approach attempts to capture profits from trends in price data.
 
-Algorithmic traders often leverage historical data to predict future market actions. This involves [backtesting](/wiki/backtesting) strategies against historical periods to evaluate their effectiveness. The historical data set provides traders with the ability to simulate the performance of an algorithmic strategy and optimize it before live execution in the market. A well-backtested strategy may incorporate measures such as Sharpe ratio to assess performance, ensuring that risk considerations are factored into the trading process.
+Algorithmic traders often leverage historical data to predict future market actions. This involves backtesting strategies against historical periods to evaluate their effectiveness. The historical data set provides traders with the ability to simulate the performance of an algorithmic strategy and optimize it before live execution in the market. A well-backtested strategy may incorporate measures such as Sharpe ratio to assess performance, ensuring that risk considerations are factored into the trading process.
 
 Understanding these foundational concepts of algorithmic trading is crucial to appreciating the integration of advanced mathematical theories, such as graph theory, into these strategies. Graph theory can enhance algorithmic trading by providing additional analytical capabilities to interpret and model the interactions and relationships among various trading variables. As a result, algorithmic trading not only increases execution efficiency but also opens the door to more sophisticated trading strategies through advanced data analysis techniques.
 
@@ -117,7 +117,7 @@ betweenness = nx.betweenness_centrality(G)
 print(betweenness)
 ```
 
-Traders often employ rolling windows to calculate these network metrics dynamically over time. By computing these metrics in a rolling window, they can derive indicators that reflect the evolving structure of the market network. For instance, changes in the centrality measures can signal shifts in market sentiment or [volatility](/wiki/volatility-trading-strategies), thus aiding in the development of more proactive trading strategies. 
+Traders often employ rolling windows to calculate these network metrics dynamically over time. By computing these metrics in a rolling window, they can derive indicators that reflect the evolving structure of the market network. For instance, changes in the centrality measures can signal shifts in market sentiment or volatility, thus aiding in the development of more proactive trading strategies. 
 
 However, the effective use of these tools requires a solid understanding of both graph theory and the specific dynamics of the financial markets. Despite these complexities, the potential for graph-based analysis to generate unique insights into market behaviors makes it a valuable addition to the algorithmic trader's toolkit.
 

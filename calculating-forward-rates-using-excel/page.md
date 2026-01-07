@@ -23,13 +23,13 @@ $$
 
 where "Spot Rate for Longer/Shorter Period" refers to spot interest rates associated with the respective time frames.
 
-The objective of this article is to equip readers with the knowledge to perform forward rate calculations using Excel and apply these in [algorithmic trading](/wiki/algorithmic-trading) strategies. By mastering the integration of forward rate computations and leveraging Excel's capabilities, traders can enhance their predictive models, optimize investment returns, and make informed decisions with a strategic advantage in the financial markets.
+The objective of this article is to equip readers with the knowledge to perform forward rate calculations using Excel and apply these in algorithmic trading strategies. By mastering the integration of forward rate computations and leveraging Excel's capabilities, traders can enhance their predictive models, optimize investment returns, and make informed decisions with a strategic advantage in the financial markets.
 
 ## Table of Contents
 
 ## Understanding Forward Rate Calculations
 
-Forward rates are pivotal in financial markets as they enable market participants to predict future interest rates and prices of financial instruments. Essentially, a forward rate is the [interest rate](/wiki/interest-rate-trading-strategies) agreed upon today for a loan or investment that will occur at a specific future date. One of the primary financial instruments used in the calculation of forward rates is the zero-coupon bond.
+Forward rates are pivotal in financial markets as they enable market participants to predict future interest rates and prices of financial instruments. Essentially, a forward rate is the interest rate agreed upon today for a loan or investment that will occur at a specific future date. One of the primary financial instruments used in the calculation of forward rates is the zero-coupon bond.
 
 ### Concept of Forward Rates
 
@@ -201,7 +201,7 @@ Excel has emerged as a valuable tool in the development and implementation of al
 
 ### Backtesting Trading Strategies with Excel
 
-Backtesting is a critical step in algorithmic trading, allowing traders to evaluate how a strategy would have performed using historical data. Excel's versatility makes it an excellent platform for this purpose, as it offers built-in data manipulation tools that can help simulate trading scenarios. The key advantage of using Excel for [backtesting](/wiki/backtesting) is its accessibility—many traders are already familiar with its interface, allowing them to readily input historical data and test hypotheses without needing advanced programming knowledge.
+Backtesting is a critical step in algorithmic trading, allowing traders to evaluate how a strategy would have performed using historical data. Excel's versatility makes it an excellent platform for this purpose, as it offers built-in data manipulation tools that can help simulate trading scenarios. The key advantage of using Excel for backtesting is its accessibility—many traders are already familiar with its interface, allowing them to readily input historical data and test hypotheses without needing advanced programming knowledge.
 
 However, Excel also has limitations. Its performance may decline with very large datasets, and complex strategies could require extensive manual setup. For strategies requiring intricate calculations or handling extensive historical data, more specialized software or programming languages such as Python might be preferable.
 
@@ -255,7 +255,7 @@ Mastering forward rate calculations in Excel is a crucial skill for professional
 
 Excel's powerful computational capabilities make it an indispensable tool in algorithmic trading. It facilitates detailed financial calculations, such as forward rates, which are pivotal for making informed trading decisions. Its user-friendly interface and wide array of functions allow traders to perform complex analyses without needing extensive programming knowledge. Excel aids in constructing predictive models that can analyze trends and patterns in financial data, thereby enhancing decision-making processes.
 
-For those interested in furthering their knowledge, a wealth of resources is available. Online courses, financial blogs, and [books](/wiki/algo-trading-books) on financial modeling offer in-depth insights into using Excel for market analysis. Additionally, experimenting with Excel-based models provides practical experience in real-world financial scenarios, solidifying one's understanding of market dynamics and enhancing analytical skills. By continually refining these skills, professionals can stay ahead in the ever-evolving landscape of financial markets.
+For those interested in furthering their knowledge, a wealth of resources is available. Online courses, financial blogs, and books on financial modeling offer in-depth insights into using Excel for market analysis. Additionally, experimenting with Excel-based models provides practical experience in real-world financial scenarios, solidifying one's understanding of market dynamics and enhancing analytical skills. By continually refining these skills, professionals can stay ahead in the ever-evolving landscape of financial markets.
 
 ## References & Further Reading
 

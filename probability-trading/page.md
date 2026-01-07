@@ -47,7 +47,7 @@ print(f"Standard Deviation of Return: {std_dev_return}")
 
 In this example, the mean and standard deviation are calculated, indicating the central tendency and variability of the returns, respectively. A trader can use this information to define expected price movements, set trading levels, or adjust algorithm parameters accordingly.
 
-Through these probability-based approaches, [algorithmic trading](/wiki/algorithmic-trading) enhances its capacity to make systematic trading decisions, representing an evolution from instinct-driven to data-driven strategies. This integration of probability theory enriches algorithmic models, fostering resilient trading strategies capable of adapting to various market conditions.
+Through these probability-based approaches, algorithmic trading enhances its capacity to make systematic trading decisions, representing an evolution from instinct-driven to data-driven strategies. This integration of probability theory enriches algorithmic models, fostering resilient trading strategies capable of adapting to various market conditions.
 
 ## The Importance of Probability in Developing Algo Trading Strategies
 
@@ -61,11 +61,11 @@ $$
 
 where $P_i$ represents the probability of an outcome and $V_i$ is the value of that outcome.
 
-Incorporating probability facilitates the design of algorithms that can withstand market fluctuations. Algorithms grounded in probabilistic models are particularly adept at adapting to changing market conditions. This adaptability is crucial in markets known for their [volatility](/wiki/volatility-trading-strategies) and unpredictability. For example, a probabilistic model may use Monte Carlo simulations to evaluate a wide array of potential future price paths, allowing traders to assess various risk scenarios and refine their strategies to mitigate potential losses.
+Incorporating probability facilitates the design of algorithms that can withstand market fluctuations. Algorithms grounded in probabilistic models are particularly adept at adapting to changing market conditions. This adaptability is crucial in markets known for their volatility and unpredictability. For example, a probabilistic model may use Monte Carlo simulations to evaluate a wide array of potential future price paths, allowing traders to assess various risk scenarios and refine their strategies to mitigate potential losses.
 
-Examples of successful probabilistic approaches in algo trading can be seen in the use of strategies like mean reversion and statistical [arbitrage](/wiki/arbitrage). Mean reversion, predicated on the probability that asset prices will revert to their historical mean, can be implemented by algorithms that identify when price deviations are statistically significant enough to signal a potential trading opportunity. By leveraging historical data and calculating z-scores to ascertain the extent of price divergence, traders can strategically enter trades anticipated to revert to the mean.
+Examples of successful probabilistic approaches in algo trading can be seen in the use of strategies like mean reversion and statistical arbitrage. Mean reversion, predicated on the probability that asset prices will revert to their historical mean, can be implemented by algorithms that identify when price deviations are statistically significant enough to signal a potential trading opportunity. By leveraging historical data and calculating z-scores to ascertain the extent of price divergence, traders can strategically enter trades anticipated to revert to the mean.
 
-Similarly, [statistical arbitrage](/wiki/statistical-arbitrage) exploits the probability of price differences between correlated assets, relying on historical price movements to identify temporary inefficiencies in market pricing. Algorithms programmed with statistical models can quickly execute trades when such opportunities arise, capitalizing on the expected convergence of prices.
+Similarly, statistical arbitrage exploits the probability of price differences between correlated assets, relying on historical price movements to identify temporary inefficiencies in market pricing. Algorithms programmed with statistical models can quickly execute trades when such opportunities arise, capitalizing on the expected convergence of prices.
 
 In summary, the integration of probability into algo trading strategies enhances the ability to predict market outcomes, assess risks, and adapt to market dynamics. By leveraging these probabilistic approaches, traders can construct strategies that are not only grounded in statistical rigor but also poised to capitalize on dynamic financial markets.
 
@@ -87,7 +87,7 @@ $$
 \text{Loss Ratio} = \frac{\text{Average Loss}}{\text{Average Profit}}
 $$
 
-Utilizing these components, traders can calculate the probability of a successful trade. One practical method to incorporate these metrics is through the Expectancy Formula, widely used in trading strategy [backtesting](/wiki/backtesting):
+Utilizing these components, traders can calculate the probability of a successful trade. One practical method to incorporate these metrics is through the Expectancy Formula, widely used in trading strategy backtesting:
 
 $$
 \text{Expectancy} = (\text{Win Rate} \times \text{Average Profit}) - ((1 - \text{Win Rate}) \times \text{Average Loss})
@@ -223,7 +223,7 @@ In summary, incorporating probability distributions such as the normal, binomial
 
 Case studies in algorithmic trading provide valuable insights into how probability theory can be harnessed for profitable trading. Numerous trading algorithms have successfully employed probabilistic models to predict market movements and execute trades. One notable example is the implementation of statistical arbitrage strategies. These strategies often use mean-reversion models to speculate that the price of a financial instrument will revert to its mean or average value over time. By calculating probabilities of price changes, traders can exploit temporary imbalances for profit.
 
-Major trading firms and hedge funds, such as Renaissance Technologies and Two Sigma, are known for their extensive use of probability in developing sophisticated trading algorithms. These firms apply complex statistical models, including [machine learning](/wiki/machine-learning) algorithms, to assess market data and determine optimal trading opportunities. Renaissance Technologies, for example, employs strategies that analyze historical price movements and probabilities of certain market behaviors occurring. This approach has allowed them to maintain a competitive edge and achieve substantial returns.
+Major trading firms and hedge funds, such as Renaissance Technologies and Two Sigma, are known for their extensive use of probability in developing sophisticated trading algorithms. These firms apply complex statistical models, including machine learning algorithms, to assess market data and determine optimal trading opportunities. Renaissance Technologies, for example, employs strategies that analyze historical price movements and probabilities of certain market behaviors occurring. This approach has allowed them to maintain a competitive edge and achieve substantial returns.
 
 Real-world examples reveal both successes and failures in integrating probability into trading algorithms. For instance, the 2007–2008 financial crisis highlighted the limitations of some probabilistic models that underestimated tail risks—events with very low probabilities but severe consequences. Some algorithms failed to adapt to rapidly changing market conditions during this period, resulting in significant losses. Conversely, algorithms that anticipated large market shifts and adjusted their models accordingly managed to generate profits amidst the crisis.
 

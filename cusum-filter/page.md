@@ -18,7 +18,7 @@ This article provides a comprehensive guide to understanding and implementing th
 
 ## What is a CUSUM Filter?
 
-A CUSUM filter, or Cumulative Sum Control Chart, is a statistical tool originally developed for quality control processes but has since gained traction in financial analytics and [algorithmic trading](/wiki/algorithmic-trading). It operates as a sequential analysis technique aimed at detecting changes in the cumulative sum of deviations from a predefined target value or the expected mean of a data series. This filter is particularly useful for identifying shifts in the level of a data series by comparing cumulative sums against preset thresholds. Once these thresholds are breached, the CUSUM filter flags a trend or structural change in the data.
+A CUSUM filter, or Cumulative Sum Control Chart, is a statistical tool originally developed for quality control processes but has since gained traction in financial analytics and algorithmic trading. It operates as a sequential analysis technique aimed at detecting changes in the cumulative sum of deviations from a predefined target value or the expected mean of a data series. This filter is particularly useful for identifying shifts in the level of a data series by comparing cumulative sums against preset thresholds. Once these thresholds are breached, the CUSUM filter flags a trend or structural change in the data.
 
 Mathematically, the CUSUM process involves calculating the cumulative sum of deviations. Suppose $X_t$ represents the observed value at time $t$, and $\mu$ is the target or reference value (often the historical mean of the series). The cumulative sum $C_t$ can be expressed as:
 
@@ -34,9 +34,9 @@ The CUSUM filter assigns positive or negative values when the cumulative deviati
 
 Implementing the Cumulative Sum (CUSUM) filter in algorithmic trading involves utilizing its sensitivity to detect subtle changes in market conditions, hence allowing for timely and effective trading decisions. A critical step in this implementation is the definition of threshold values or limits. These thresholds determine the points at which the cumulative sum signals a significant shift, thereby triggering trading signals. 
 
-Thresholds can be determined through fixed values or dynamically adjusted based on prevailing market conditions. One effective method for dynamic threshold setting is using the exponentially weighted moving standard deviation of returns. This approach accounts for the varying [volatility](/wiki/volatility-trading-strategies) in financial markets, ensuring the CUSUM filter remains responsive and optimal across different trading environments. 
+Thresholds can be determined through fixed values or dynamically adjusted based on prevailing market conditions. One effective method for dynamic threshold setting is using the exponentially weighted moving standard deviation of returns. This approach accounts for the varying volatility in financial markets, ensuring the CUSUM filter remains responsive and optimal across different trading environments. 
 
-By accumulating relevant data and comparing it against these thresholds, the CUSUM filter distinguishes between mundane noise and genuine shifts in market trends, making it highly effective for crafting both entry and [exit](/wiki/exit-strategy) strategies. Its rapid response to changes provides traders with an advantage by offering early indications of potential market moves.
+By accumulating relevant data and comparing it against these thresholds, the CUSUM filter distinguishes between mundane noise and genuine shifts in market trends, making it highly effective for crafting both entry and exit strategies. Its rapid response to changes provides traders with an advantage by offering early indications of potential market moves.
 
 The following is a concise Python example demonstrating the implementation of the CUSUM filter to monitor market data:
 
@@ -67,7 +67,7 @@ signal_buy = cusum_pos > 0
 signal_sell = cusum_neg < 0
 ```
 
-In this implementation, `calculate_cusum` computes the positive and negative CUSUM filters for a given series of price data. The thresholds are set, and the resulting signals highlight points where threshold breaches occur, indicating potential buy or sell actions. The use of such a model requires careful calibration and [backtesting](/wiki/backtesting) to ensure its effectiveness across different market regimes and conditions, thereby maximizing its utility in algorithmic trading strategies.
+In this implementation, `calculate_cusum` computes the positive and negative CUSUM filters for a given series of price data. The thresholds are set, and the resulting signals highlight points where threshold breaches occur, indicating potential buy or sell actions. The use of such a model requires careful calibration and backtesting to ensure its effectiveness across different market regimes and conditions, thereby maximizing its utility in algorithmic trading strategies.
 
 ## Benefits and Limitations
 

@@ -20,7 +20,7 @@ Overall, tick imbalance bars represent a significant advancement in trading bar 
 
 Imbalance bars, introduced by Lopez de Prado in "Advances in Financial Machine Learning," represent a novel way to sample market data, aiming to capture shifts in market dynamics that are often overlooked by traditional time-based methods. These bars are designed to adapt sampling frequency according to the intensity of informed trading activities. This approach allows traders to capitalize on new information as it becomes available, thus potentially enhancing trading accuracy and efficiency.
 
-Imbalance bars can be constructed from different types of market data, including tick data, [volume](/wiki/volume-trading-strategy), or dollar exchanges. Tick imbalance bars are particularly focused on in this discussion. The fundamental concept involves establishing a threshold based on trade imbalances, which, when exceeded, triggers the sampling of a new bar. This mechanism ensures that bars are sampled more frequently during periods of high trading activity or significant information flow.
+Imbalance bars can be constructed from different types of market data, including tick data, volume, or dollar exchanges. Tick imbalance bars are particularly focused on in this discussion. The fundamental concept involves establishing a threshold based on trade imbalances, which, when exceeded, triggers the sampling of a new bar. This mechanism ensures that bars are sampled more frequently during periods of high trading activity or significant information flow.
 
 To generate these expectations or thresholds, specific calculations must be conducted on the trade imbalances. The threshold is dynamically adjusted based on ongoing trading activities, making the approach sensitive to shifts in market sentiment. Consequently, imbalance bars are adept at highlighting periods of informed trading, where the market is likely to react to new, potentially price-moving information.
 
@@ -28,7 +28,7 @@ By focusing on imbalances rather than the passage of time, these bars provide a 
 
 ## Understanding Tick Imbalance
 
-Tick imbalance is a method to quantify the directional [momentum](/wiki/momentum) of trades in a market by translating price movements into signed ticks. This process involves the tick rule, which is a simple mechanism for assigning a positive (+1) or negative (-1) value to each trade based on its price movement relative to the previous trade. If a trade's price is higher than the preceding trade, a tick of +1 is recorded, whereas a lower price results in a tick of -1. In cases where the price remains unchanged, the tick maintains the previous sign, ensuring continuity in the analysis.
+Tick imbalance is a method to quantify the directional momentum of trades in a market by translating price movements into signed ticks. This process involves the tick rule, which is a simple mechanism for assigning a positive (+1) or negative (-1) value to each trade based on its price movement relative to the previous trade. If a trade's price is higher than the preceding trade, a tick of +1 is recorded, whereas a lower price results in a tick of -1. In cases where the price remains unchanged, the tick maintains the previous sign, ensuring continuity in the analysis.
 
 The primary objective of tick imbalance is to transform a sequence of trades into a comprehensible numerical format that reflects the aggregate sentiment of market participants. By converting a series of trades into a sequence of signed ticks, traders and analysts can cumulatively sum these values to evaluate market pressure. For instance, if there is a sustained sequence of +1 ticks, this indicates bullish sentiment, with buyers potentially outweighing sellers. Conversely, a string of -1 ticks suggests bearish sentiment.
 
@@ -40,7 +40,7 @@ $$
 
 Here, $\text{signed tick}_i$ represents the ith trade's tick value, and $n$ denotes the number of trades considered.
 
-The significance of tick imbalance derives from its ability to uncover the underlying movements of informed traders. A higher number of ticks consistently oriented in a single direction might indicate that these traders, who typically possess superior information or strategies, are actively participating in the market. This potential information flow becomes a critical input for [algorithmic trading](/wiki/algorithmic-trading) strategies, as it may provide early signals of shifting market dynamics. By monitoring the tick imbalance, traders can infer the presence and intensity of informed trading, which is crucial for making timely decisions in fast-moving markets.
+The significance of tick imbalance derives from its ability to uncover the underlying movements of informed traders. A higher number of ticks consistently oriented in a single direction might indicate that these traders, who typically possess superior information or strategies, are actively participating in the market. This potential information flow becomes a critical input for algorithmic trading strategies, as it may provide early signals of shifting market dynamics. By monitoring the tick imbalance, traders can infer the presence and intensity of informed trading, which is crucial for making timely decisions in fast-moving markets.
 
 ## Setting the Sampling Threshold
 
@@ -54,7 +54,7 @@ $$
 
 where $I_t$ represents the current imbalance, $E[I_{t-1}]$ is the previously calculated expected imbalance, and $\alpha$ is the smoothing factor ranging between 0 and 1. This smoothing factor determines the weight of more recent data points compared to older ones. A higher $\alpha$ places more emphasis on recent imbalances, making the EWMA more responsive to recent market changes.
 
-The threshold for sampling a new tick imbalance bar is then determined by multiplying this expected imbalance with the anticipated bar length, a parameter that can be adjusted based on historical data or trading preferences. This anticipated bar length effectively scales the expected imbalance, reflecting the varying market conditions and [liquidity](/wiki/liquidity-risk-premium) levels. The resulting threshold represents a level of cumulative imbalance at which a new bar should be initiated, indicating a meaningful and possibly informed trading activity.
+The threshold for sampling a new tick imbalance bar is then determined by multiplying this expected imbalance with the anticipated bar length, a parameter that can be adjusted based on historical data or trading preferences. This anticipated bar length effectively scales the expected imbalance, reflecting the varying market conditions and liquidity levels. The resulting threshold represents a level of cumulative imbalance at which a new bar should be initiated, indicating a meaningful and possibly informed trading activity.
 
 When the cumulative sum of signed ticks exceeds this threshold, it triggers the creation of a new tick imbalance bar. This approach allows for dynamic adjustment to changing market conditions, enabling traders to respond more effectively to the information embedded within trade sequences.
 
@@ -152,7 +152,7 @@ V = \text{EWMA}_{\text{Volume}} \times L \].
 
 Similarly, dollar imbalance bars focus on the value exchanged during trades. By employing the cumulative dollar values, traders can further customize their sampling technique. The preset threshold for such bars reflects changes, not in trade frequency or trade size, but in the financial impact of trades. This method can provide insights into the influence of economically significant trades on price movements, guiding strategic trading decisions.
 
-Moreover, these forms of imbalance bars can be tailored to suit varied asset classes and financial instruments. For instance, high-frequency trading on equity markets may benefit from tick or volume analysis, while foreign exchange or [cryptocurrency](/wiki/cryptocurrency) markets might gain more insights from dollar imbalances due to their [volatility](/wiki/volatility-trading-strategies) and currency value fluctuations.
+Moreover, these forms of imbalance bars can be tailored to suit varied asset classes and financial instruments. For instance, high-frequency trading on equity markets may benefit from tick or volume analysis, while foreign exchange or cryptocurrency markets might gain more insights from dollar imbalances due to their volatility and currency value fluctuations.
 
 The extension of tick imbalance concepts to include volume and dollar values aids in creating a more nuanced picture of market activity, allowing traders to respond to diverse trading environments and asset behaviors efficiently.
 
@@ -162,7 +162,7 @@ Imbalance bars, such as tick imbalance bars, demonstrate certain statistical pro
 
 In imbalance bars, data points are sampled based on market activity rather than fixed time intervals. This process results in data series that react more dynamically to market changes, inherently reducing serial correlation. Lower serial correlation enhances the quality of the data for use in statistical models, as it implies that consecutive data points are less likely to influence each other, resulting in more genuine reflections of market movements.
 
-Despite this advantage, imbalance bars may still present returns that deviate from normality. The deviations are partly because the non-time-based sampling does not inherently correct for factors like skewness and kurtosis, which affect the distribution of returns. However, the more independent nature of data points in imbalance bars provides traders with a cleaner dataset to apply statistical and [machine learning](/wiki/machine-learning) models without the confounding effects of high autocorrelation.
+Despite this advantage, imbalance bars may still present returns that deviate from normality. The deviations are partly because the non-time-based sampling does not inherently correct for factors like skewness and kurtosis, which affect the distribution of returns. However, the more independent nature of data points in imbalance bars provides traders with a cleaner dataset to apply statistical and machine learning models without the confounding effects of high autocorrelation.
 
 To quantify the reduction in serial correlation, traders can employ statistical tests such as the Ljung-Box test. This test evaluates whether a series of data points exhibits significant autocorrelation. For a Python implementation:
 
@@ -178,7 +178,7 @@ result = acorr_ljungbox(imbalance_data, lags=[10], return_df=True)
 print(result)
 ```
 
-Lower Ljung-Box [statistics](/wiki/bayesian-statistics) and higher p-values would indicate reduced serial correlation, affirming the stated statistical property of imbalance bars. Traders seeking to maximize the effectiveness of imbalance bars can leverage this lower serial correlation to enhance the robustness and accuracy of their trading strategies.
+Lower Ljung-Box statistics and higher p-values would indicate reduced serial correlation, affirming the stated statistical property of imbalance bars. Traders seeking to maximize the effectiveness of imbalance bars can leverage this lower serial correlation to enhance the robustness and accuracy of their trading strategies.
 
 ## Conclusion
 

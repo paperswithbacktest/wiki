@@ -24,15 +24,15 @@ The independence from time allows for a clearer focus on market dynamics, helpin
 
 ## Origin and History of Range Bars
 
-Range bars were conceptualized and developed by Vicente Nicolellis, a Brazilian trader, during the 1990s. Nicolellis's motivation for creating range bars arose from the challenges he faced in trading under volatile market conditions. Traditional time-based charts often muddled the clarity of price movements, incorporating distracting elements that could lead traders away from the core patterns of price action and [momentum](/wiki/momentum).
+Range bars were conceptualized and developed by Vicente Nicolellis, a Brazilian trader, during the 1990s. Nicolellis's motivation for creating range bars arose from the challenges he faced in trading under volatile market conditions. Traditional time-based charts often muddled the clarity of price movements, incorporating distracting elements that could lead traders away from the core patterns of price action and momentum.
 
 The defining characteristic of range bars is their reliance solely on price movements to form new bars, unlike conventional charts that are dependent on time intervals. This approach was a significant departure from standard charting methods and aimed to provide a clearer picture of market trends by eliminating the noise associated with time-based fluctuations. By focusing exclusively on price action, traders can concentrate on the directional trends and momentum that matter most in trading decisions.
 
-Nicolellis's innovation was particularly influential because it addressed a common issue faced by traders: the distortion caused by time elements in identifying genuine market trends. By removing the temporal component, range bars allowed for a purer analysis of price movements, facilitating more informed and strategic trading decisions. This method quickly gained traction among traders who sought an alternative way to understand market dynamics, particularly in environments characterized by significant [volatility](/wiki/volatility-trading-strategies).
+Nicolellis's innovation was particularly influential because it addressed a common issue faced by traders: the distortion caused by time elements in identifying genuine market trends. By removing the temporal component, range bars allowed for a purer analysis of price movements, facilitating more informed and strategic trading decisions. This method quickly gained traction among traders who sought an alternative way to understand market dynamics, particularly in environments characterized by significant volatility.
 
 ## Trading Strategies Using Range Bars
 
-Range bars present a unique charting option for developing trading strategies by focusing exclusively on price movements. This approach allows traders to refine their strategies by eliminating irrelevant market noise that is often present in time-based charts. Three prevalent strategies that traders use with range bars are [trend following](/wiki/trend-following), momentum trading, and [breakout](/wiki/breakout-trading) trading.
+Range bars present a unique charting option for developing trading strategies by focusing exclusively on price movements. This approach allows traders to refine their strategies by eliminating irrelevant market noise that is often present in time-based charts. Three prevalent strategies that traders use with range bars are trend following, momentum trading, and breakout trading.
 
 **1. Trend Following**
 
@@ -67,13 +67,13 @@ plt.show()
 
 **2. Momentum Trading**
 
-In momentum trading, swing traders utilize range bars to identify significant support and resistance levels. This approach is particularly efficient for timing entries and exits on pullbacks. Range bars highlight key levels by forming distinct patterns at these price levels, allowing traders to make informed decisions. The absence of time as a [factor](/wiki/factor-investing) results in clearer signals for momentum shifts, which are crucial for swing trading strategies.
+In momentum trading, swing traders utilize range bars to identify significant support and resistance levels. This approach is particularly efficient for timing entries and exits on pullbacks. Range bars highlight key levels by forming distinct patterns at these price levels, allowing traders to make informed decisions. The absence of time as a factor results in clearer signals for momentum shifts, which are crucial for swing trading strategies.
 
 **3. Breakout Trading**
 
 Range bars are excellent for breakout trading strategies. They simplify price patterns and help eliminate false breakouts, which are often misleading in time-based charts. When price breaks above a designated range, it often signifies a strong momentum shift. Traders can utilize range bars to set more accurate stop-loss and take-profit levels, minimizing false signals. For instance, if a range bar breaks above a predefined resistance level, a trader might enter a long position, expecting a continuation of the upward trend.
 
-In conclusion, the utilization of range bars across these trading strategies enables traders to focus on essential price movements and trend dynamics, improving the strategic execution of trades. Their ability to filter market noise and highlight significant price actions make range bars a critical tool for [algorithmic trading](/wiki/algorithmic-trading).
+In conclusion, the utilization of range bars across these trading strategies enables traders to focus on essential price movements and trend dynamics, improving the strategic execution of trades. Their ability to filter market noise and highlight significant price actions make range bars a critical tool for algorithmic trading.
 
 ## How to Read Range Bar Charts
 
@@ -85,7 +85,7 @@ Key levels of support and resistance are more easily identifiable using range ba
 
 Analyzing bullish or bearish bars within range bar charts can indicate potential shifts in market momentum. A bullish bar forms when the price closes significantly higher than its opening, while a bearish bar forms when the closing price is substantially lower than the opening. Recognizing these patterns allows algorithmic traders to discern market sentiment and adjust strategies accordingly. For example, a series of consecutive bullish bars might signal an uptrend, prompting traders to consider long positions.
 
-Algorithmic strategy development benefits greatly from the clarity provided by range bars. Since the focus is on price movement, algorithms can be designed to react to precise shifts in price, optimizing entry and [exit](/wiki/exit-strategy) points. Code can be implemented to monitor changes efficiently. Here's a simple Python code snippet illustrating how to identify a bullish or bearish range bar:
+Algorithmic strategy development benefits greatly from the clarity provided by range bars. Since the focus is on price movement, algorithms can be designed to react to precise shifts in price, optimizing entry and exit points. Code can be implemented to monitor changes efficiently. Here's a simple Python code snippet illustrating how to identify a bullish or bearish range bar:
 
 ```python
 def identify_range_bar(open_price, close_price):
@@ -124,7 +124,7 @@ Range bars present clear advantages to traders by filtering out minor price fluc
 
 The flexibility of adjusting the range size provides an opportunity to tailor trading approaches to current market conditions. For instance, wider range bars might be more useful in volatile markets to reduce noise, while narrower ones could be beneficial during stable periods to capture smaller price movements.
 
-However, one challenge traders face is determining the optimal range size for specific market conditions. An inappropriate range size can either result in excessive noise, if too small, or a loss of valuable market information, if too large. Selecting the correct range size often involves a trial-and-error approach or rigorous [backtesting](/wiki/backtesting) to identify the most effective configuration for a particular trading strategy.
+However, one challenge traders face is determining the optimal range size for specific market conditions. An inappropriate range size can either result in excessive noise, if too small, or a loss of valuable market information, if too large. Selecting the correct range size often involves a trial-and-error approach or rigorous backtesting to identify the most effective configuration for a particular trading strategy.
 
 Another limitation is that not all trading platforms support range bar charts natively. While some platforms integrate range bars into their offerings, others might require additional plugins or custom indicators. This lack of universal support can limit accessibility for traders who prefer certain platforms or who might not have the technical expertise to implement range bars on unsupported systems. 
 

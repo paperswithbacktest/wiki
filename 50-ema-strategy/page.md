@@ -67,7 +67,7 @@ In our own simple backtest on Apple stock using daily prices (data from a Stocks
 
 ## Examples of the 50 EMA Strategy in Practice
 
-In practice, the 50 EMA strategy can be applied effectively by examining historical stock data to identify potential trading opportunities. For instance, consider Apple Inc. (AAPL) stock, a frequently traded asset known for its market volatility and [liquidity](/wiki/liquidity-risk-premium).
+In practice, the 50 EMA strategy can be applied effectively by examining historical stock data to identify potential trading opportunities. For instance, consider Apple Inc. (AAPL) stock, a frequently traded asset known for its market volatility and liquidity.
 
 When implementing the 50 EMA strategy on Apple's historical data, traders focus on the stock price's relationship to the 50-day Exponential Moving Average. In a typical scenario, if Apple's stock price crosses below the 50 EMA, this may signal a selling opportunity, assuming it is corroborated by other indicators such as the Relative Strength Index (RSI) or the Moving Average Convergence Divergence (MACD). Conversely, if the stock price moves above the 50 EMA, it suggests a potential buying opportunity, particularly when the broader market trend is upward.
 

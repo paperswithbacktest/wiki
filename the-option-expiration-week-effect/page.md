@@ -22,11 +22,11 @@ The significance of OPEX in trading arises primarily from two factors: 'pin risk
 
 Stock price imbalances during the OPEX period come from the need for market participants to close out, roll, or exercise their options positions. As these actions are taken, they can create pressure on stock prices to move sharply up or down, depending on the net option positions and market sentiment. For example, if a large number of call options are held in the money, traders who wrote these options may need to purchase the underlying stock to hedge their positions as expiration nears, thus putting upward pressure on prices. Conversely, put option holders might sell to cover their positions, leading to downward pressure.
 
-These dynamics enable traders to exploit predictable patterns associated with OPEX. By understanding the market mechanics around options expiration, traders can identify periods of heightened [volatility](/wiki/volatility-trading-strategies) and potential price movements. Whether through manual analysis or algorithmic strategies, the knowledge of OPEX-related market behavior forms a pivotal part of sophisticated trading paradigms.
+These dynamics enable traders to exploit predictable patterns associated with OPEX. By understanding the market mechanics around options expiration, traders can identify periods of heightened volatility and potential price movements. Whether through manual analysis or algorithmic strategies, the knowledge of OPEX-related market behavior forms a pivotal part of sophisticated trading paradigms.
 
 ## Impacts of OPEX on Stock Prices
 
-During OPEX week, stock prices often experience noticeable fluctuations as a result of the closing of options positions. This occurs because as options approach their expiration date, traders and market makers are required to either exercise or close out their positions, often resulting in larger-than-usual price movements. The rapid settlement of these positions can lead to significant increases in trading [volume](/wiki/volume-trading-strategy) and volatility.
+During OPEX week, stock prices often experience noticeable fluctuations as a result of the closing of options positions. This occurs because as options approach their expiration date, traders and market makers are required to either exercise or close out their positions, often resulting in larger-than-usual price movements. The rapid settlement of these positions can lead to significant increases in trading volume and volatility.
 
 One key aspect of OPEX-induced volatility lies in the phenomenon known as "pin risk." As expiration approaches, stocks tend to gravitate towards strike prices where there is high open interest, a condition known as "pinning." This can create stock price imbalances as traders adjust their positions to align with their desired hedge or speculation goals. These movements can generate pronounced swings in stock prices, especially in the associated underlying stocks.
 
@@ -40,7 +40,7 @@ In summary, the impacts of OPEX on stock prices offer a fertile ground for trade
 
 Algorithmic trading strategies during OPEX weeks are designed to exploit the distinct price patterns that arise due to options expiration. These strategies often rely on the predictability of heightened market activity and the resultant short-term price inefficiencies. A common approach involves purchasing stocks at the beginning of the OPEX week and selling by the close of the expiration day, thereby profiting from temporary price movements that often occur during this time.
 
-To implement these strategies effectively, traders utilize historical data and sophisticated [backtesting](/wiki/backtesting) tools such as Amibroker. These tools allow for the optimization of trading rules based on past market behavior. By analyzing data from previous OPEX weeks, traders can identify recurring patterns and refine entry and [exit](/wiki/exit-strategy) points to maximize returns.
+To implement these strategies effectively, traders utilize historical data and sophisticated backtesting tools such as Amibroker. These tools allow for the optimization of trading rules based on past market behavior. By analyzing data from previous OPEX weeks, traders can identify recurring patterns and refine entry and exit points to maximize returns.
 
 For instance, a simple algorithmic strategy might look like this in Python:
 
@@ -68,7 +68,7 @@ profit_percentage = (profit / buy_price) * 100
 print(f'Profit for OPEX week: {profit:.2f} ({profit_percentage:.2f}%)')
 ```
 
-This script provides a rudimentary framework that could be expanded to incorporate more sophisticated elements such as stop-loss limits, position sizing, and risk management. Additionally, employing [machine learning](/wiki/machine-learning) techniques to identify more subtle market trends could further enhance the profitability and robustness of these strategies.
+This script provides a rudimentary framework that could be expanded to incorporate more sophisticated elements such as stop-loss limits, position sizing, and risk management. Additionally, employing machine learning techniques to identify more subtle market trends could further enhance the profitability and robustness of these strategies.
 
 An essential aspect of developing OPEX-specific trading algorithms is continuous refinement through backtesting. By rigorously testing strategies under various market conditions and adjusting parameters accordingly, traders can identify the most lucrative approach for each OPEX week. Through this process, algorithmic traders aim to achieve a favorable risk-reward ratio while navigating the inherent volatility of OPEX periods.
 

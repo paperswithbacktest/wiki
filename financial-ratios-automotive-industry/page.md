@@ -32,7 +32,7 @@ $$
 
 A higher ROE indicates stronger financial performance and efficient use of equity capital.
 
-These ratios offer a snapshot of a company's operational and financial performance, allowing stakeholders to compare it against industry peers. The integration of [algorithmic trading](/wiki/algorithmic-trading) further enhances the financial analysis by utilizing complex computational models to parse extensive datasets. This allows for the swift and precise execution of trades, leveraging patterns in financial data potentially overlooked during manual analysis. The synergy between traditional financial ratios and cutting-edge algorithmic techniques underscores a new era of strategic investment within the automotive market.
+These ratios offer a snapshot of a company's operational and financial performance, allowing stakeholders to compare it against industry peers. The integration of algorithmic trading further enhances the financial analysis by utilizing complex computational models to parse extensive datasets. This allows for the swift and precise execution of trades, leveraging patterns in financial data potentially overlooked during manual analysis. The synergy between traditional financial ratios and cutting-edge algorithmic techniques underscores a new era of strategic investment within the automotive market.
 
 ## Table of Contents
 
@@ -52,7 +52,7 @@ In conclusion, the United States automotive industry is a vital force within the
 
 ## Understanding Financial Ratio Limitations
 
-Financial ratios are widely used tools for evaluating company performance, but they are not without limitations. One important [factor](/wiki/factor-investing) to consider is that different companies may employ varying accounting methods, which can significantly affect the comparability of financial ratios. For example, differences in inventory valuation methods—such as First-In-First-Out (FIFO) versus Last-In-First-Out (LIFO)—can result in different calculations for metrics such as the Cost of Goods Sold (COGS) and, subsequently, the Inventory Turnover Ratio. This variability can lead to misleading conclusions if not carefully adjusted for.
+Financial ratios are widely used tools for evaluating company performance, but they are not without limitations. One important factor to consider is that different companies may employ varying accounting methods, which can significantly affect the comparability of financial ratios. For example, differences in inventory valuation methods—such as First-In-First-Out (FIFO) versus Last-In-First-Out (LIFO)—can result in different calculations for metrics such as the Cost of Goods Sold (COGS) and, subsequently, the Inventory Turnover Ratio. This variability can lead to misleading conclusions if not carefully adjusted for.
 
 Moreover, financial ratios are inherently historical, reflecting past performance rather than future prospects. This is particularly relevant as the automotive industry undergoes a considerable shift toward electric vehicles (EVs) and other technological advancements. These industry shifts may not be fully captured by traditional financial ratios, which primarily analyze past data. As a result, relying solely on these ratios may overlook emerging trends and market dynamics that are set to disrupt the industry landscape.
 

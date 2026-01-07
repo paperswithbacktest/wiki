@@ -26,7 +26,7 @@ This philosophy became institutionalized when Dalio founded Bridgewater Associat
 
 ## Architect of Stability: Ray Dalio and Bridgewater
 
-Ray Dalio, born on August 8, 1949, in Jackson Heights, Queens, New York, is an American billionaire investor, [hedge fund](/wiki/hedge-fund-trading-strategies) manager, and philanthropist. Dalio attended Long Island University and later earned an MBA from Harvard Business School. He began his investment career as a commodities trader in the brokerage house Shearson Hayden Stone and later founded Bridgewater Associates out of his two-bedroom apartment in New York in 1975. Bridgewater Associates, under Dalio’s leadership, grew into the largest hedge fund in the world, with over $150 billion in assets under management as of the time of my last update in April 2023.
+Ray Dalio, born on August 8, 1949, in Jackson Heights, Queens, New York, is an American billionaire investor, hedge fund manager, and philanthropist. Dalio attended Long Island University and later earned an MBA from Harvard Business School. He began his investment career as a commodities trader in the brokerage house Shearson Hayden Stone and later founded Bridgewater Associates out of his two-bedroom apartment in New York in 1975. Bridgewater Associates, under Dalio’s leadership, grew into the largest hedge fund in the world, with over $150 billion in assets under management as of the time of my last update in April 2023.
 
 Dalio’s investment philosophy revolves around the principles of radical truth and radical transparency, fostering an idea-meritocratic culture at Bridgewater. He is a proponent of deep economic understanding and has conceptualized economic principles like the “economic machine,” which informs his investment strategies. Dalio’s approach is also heavily rooted in historical patterns and practical frameworks that aim to mitigate risk through diversification and strategic asset allocation.
 
@@ -69,7 +69,7 @@ The All Weather Portfolio is structured to weather through various economic clim
 - Gold also accounts for 7.5% of the total investment.
 - Serves as a diversifier and a hedge against both inflation and geopolitical risks.
 
-The specific weightings within the All Weather Portfolio are designed to balance the risk contribution of each asset class. Stocks, while offering growth potential, are more volatile than bonds; hence they constitute a smaller portion of the portfolio. Long-term bonds, with their greater sensitivity to [interest rate](/wiki/interest-rate-trading-strategies) changes, have a higher allocation to balance the equity risk. Gold and commodities provide a hedge against inflation, which can erode the purchasing power of traditional securities.
+The specific weightings within the All Weather Portfolio are designed to balance the risk contribution of each asset class. Stocks, while offering growth potential, are more volatile than bonds; hence they constitute a smaller portion of the portfolio. Long-term bonds, with their greater sensitivity to interest rate changes, have a higher allocation to balance the equity risk. Gold and commodities provide a hedge against inflation, which can erode the purchasing power of traditional securities.
 
 It's essential for investors to keep in mind that while the All Weather Portfolio aims to be resilient across different economic seasons, its components do not operate in isolation. The interplay between these asset classes is dynamic, influenced by ongoing economic developments, global events, and market sentiment. Investors need to monitor these trends and consider them when evaluating their portfolio's performance and making adjustments.
 
@@ -77,7 +77,7 @@ It's essential for investors to keep in mind that while the All Weather Portfoli
 
 Asset allocation is the linchpin of the All Weather Portfolio, a strategy meticulously crafted by Ray Dalio to withstand economic fluctuations. The traditional model espoused by Dalio emphasizes diversification across asset classes that react differently to various economic environments. The aim is to balance the parts of the portfolio so that the overall investment is structured to be "all weather" — performing well across a range of economic scenarios without needing to predict which scenario will occur next.
 
-At its core, the All Weather Portfolio is grounded in strategic risk distribution. Dalio's model doesn't merely allocate assets based on their expected returns or historical performance, but on the underlying economic [factor](/wiki/factor-investing)s that drive performance: inflation, deflation, rising growth, and declining growth. These factors influence asset classes in different ways:
+At its core, the All Weather Portfolio is grounded in strategic risk distribution. Dalio's model doesn't merely allocate assets based on their expected returns or historical performance, but on the underlying economic factors that drive performance: inflation, deflation, rising growth, and declining growth. These factors influence asset classes in different ways:
 
 - **Inflation**: Assets like Treasury Inflation-Protected Securities (TIPS) and commodities typically benefit from inflation.
 - **Deflation**: Long-term bonds tend to do well during deflation as interest rates generally fall.
@@ -90,7 +90,7 @@ Adjustments and variations to the asset allocation are crucial as economic cycle
 
 The All Weather Portfolio is dynamic, designed to be rebalanced periodically. Dalio suggests doing so annually to maintain the intended risk balance as market movements will naturally skew the original allocation over time. The portfolio may also be adjusted as major economic indicators signal a change in the economic season. For instance, leading indicators that suggest higher inflation ahead might prompt an investor to increase the allocation to TIPS or commodities.
 
-To implement this dynamic asset allocation approach, investors can use various financial instruments, such as [ETF](/wiki/etf-trading-strategies)s, to represent each asset class. They must remain vigilant about the changing correlations between assets, as these can shift during different economic conditions.
+To implement this dynamic asset allocation approach, investors can use various financial instruments, such as ETFs, to represent each asset class. They must remain vigilant about the changing correlations between assets, as these can shift during different economic conditions.
 
 ## Comparative Analysis: All Weather Portfolio vs. Other Diversification Strategies
 

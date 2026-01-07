@@ -26,7 +26,7 @@ $$
 AM = \text{Return}_{\text{asset}, t} - \text{Return}_{\text{benchmark}, t}
 $$
 
-Relative [momentum](/wiki/momentum), on the other hand, involves comparing the performance of an asset against other assets within the same category or against a relevant benchmark. This form of momentum identifies which asset among a group performs best over the set time window. The relative momentum can be calculated by comparing the returns of two assets or an asset against a benchmark index:
+Relative momentum, on the other hand, involves comparing the performance of an asset against other assets within the same category or against a relevant benchmark. This form of momentum identifies which asset among a group performs best over the set time window. The relative momentum can be calculated by comparing the returns of two assets or an asset against a benchmark index:
 
 $$
 RM = \text{Return}_{\text{asset}, t} - \text{Return}_{\text{peer/benchmark}, t}
@@ -44,7 +44,7 @@ Traders can configure these systems to set predefined conditions for momentum me
 
 Backtesting is an essential aspect of refining the dual momentum strategy. It involves running the strategy through historical data to evaluate its performance and make necessary adjustments. By simulating trades over past market conditions, traders can gauge the strategy's effectiveness and resiliency, which helps in identifying periods of potential underperformance and optimizing the algorithm accordingly.
 
-Python is an especially useful tool for implementing and [backtesting](/wiki/backtesting) dual momentum algorithms. It offers a wide range of libraries and modules such as `pandas`, `numpy`, `matplotlib`, and `[backtrader](/wiki/backtrader)` that facilitate data manipulation, analysis, and visualization. For instance, using `pandas` and `numpy`, traders can efficiently handle large datasets and compute momentum metrics as needed. A simple example code snippet for calculating a 12-month absolute momentum in Python could look like:
+Python is an especially useful tool for implementing and backtesting dual momentum algorithms. It offers a wide range of libraries and modules such as `pandas`, `numpy`, `matplotlib`, and `backtrader` that facilitate data manipulation, analysis, and visualization. For instance, using `pandas` and `numpy`, traders can efficiently handle large datasets and compute momentum metrics as needed. A simple example code snippet for calculating a 12-month absolute momentum in Python could look like:
 
 ```python
 import pandas as pd
@@ -57,7 +57,7 @@ data['AbsoluteMomentum'] = np.where(data['Return'] > 0, 1, 0)  # Set condition f
 
 The adaptation of Python in workflow allows for seamless integration with data sources and execution platforms, ensuring that the algorithms remain responsive to changing market dynamics. Automation of trade execution based on momentum signals not only improves efficiency but also reduces human error and emotional biases.
 
-Overall, the implementation of dual momentum in [algorithmic trading](/wiki/algorithmic-trading) requires systematic data analysis, careful coding of momentum conditions, and rigorous backtesting to ensure the robustness and adaptability of the trading algorithm.
+Overall, the implementation of dual momentum in algorithmic trading requires systematic data analysis, careful coding of momentum conditions, and rigorous backtesting to ensure the robustness and adaptability of the trading algorithm.
 
 ## Benefits of Dual Momentum Strategy
 
@@ -81,7 +81,7 @@ Traders must also be vigilant in adapting to changes in market dynamics. Financi
 
 Backing this adaptive approach is the critical practice of rigorous backtesting against diverse datasets. By testing the dual momentum strategy across different time periods and market scenarios, traders can gauge its robustness and identify areas for improvement. This process should be ongoing, incorporating new data and insights to refine the strategy continuously.
 
-Staying informed about market trends and technological advancements is equally important. Being attuned to developments can aid in anticipating shifts that may impact momentum patterns, allowing traders to adjust their strategies proactively. This might involve leveraging [machine learning](/wiki/machine-learning) techniques to enhance signal accuracy or adopting new tools for data analysis and trade execution.
+Staying informed about market trends and technological advancements is equally important. Being attuned to developments can aid in anticipating shifts that may impact momentum patterns, allowing traders to adjust their strategies proactively. This might involve leveraging machine learning techniques to enhance signal accuracy or adopting new tools for data analysis and trade execution.
 
 In summary, while dual momentum offers a structured framework for selecting high-performing assets, its success hinges on diligent management of trade execution, cost control, system optimization, and adaptability to evolving market landscapes. Through careful attention to these challenges, traders can harness the full potential of dual momentum in their algorithmic trading pursuits.
 

@@ -22,7 +22,7 @@ The leading quadrant indicates that a security exhibits strong relative strength
 
 The core purpose of RRGs is to provide insights into these relative strength cycles, which are essential for making informed strategic trading decisions. By understanding the position and movement of securities within these quadrants, traders can better anticipate potential market trends and opportunities for asset reallocation.
 
-Julius de Kempenaer designed RRGs specifically to highlight the relative performance of securities against benchmarks, enabling investors to quickly discern the strength and [momentum](/wiki/momentum) dynamics at play. This visualization is particularly beneficial for those using [algorithmic trading](/wiki/algorithmic-trading) strategies, as it aids in the identification of potential buy or sell signals and trend changes. Leveraging these insights can significantly enhance trading algorithms, allowing for more effective and timely decision-making. Understanding the fundamental concepts of RRGs—such as the significance of each quadrant and the overall movement within the graph—is critical for integrating this tool into broader trading strategies and algorithms.
+Julius de Kempenaer designed RRGs specifically to highlight the relative performance of securities against benchmarks, enabling investors to quickly discern the strength and momentum dynamics at play. This visualization is particularly beneficial for those using algorithmic trading strategies, as it aids in the identification of potential buy or sell signals and trend changes. Leveraging these insights can significantly enhance trading algorithms, allowing for more effective and timely decision-making. Understanding the fundamental concepts of RRGs—such as the significance of each quadrant and the overall movement within the graph—is critical for integrating this tool into broader trading strategies and algorithms.
 
 ## Key Components of RRGs
 
@@ -46,7 +46,7 @@ Analyzing Relative Rotation Graphs (RRGs) is crucial for developing effective tr
 
 Market leaders typically occupy the "leading" quadrant, where securities exhibit strong relative strength and rising momentum compared to a benchmark. Conversely, securities in the "lagging" quadrant reflect weak performance and declining momentum. The "improving" quadrant includes securities gaining momentum but not yet reaching strong relative strength, while those in the "weakening" quadrant may still demonstrate strong relative strength but are experiencing declining momentum.
 
-The velocity at which securities transition between these quadrants provides valuable insight into trend stability and potential [volatility](/wiki/volatility-trading-strategies). Rapid movement may indicate high volatility or changing market conditions, whereas slower transitions could signify trend consolidation or stability. This dynamism aids traders in recognizing emerging trends, allowing for timely strategic adjustments.
+The velocity at which securities transition between these quadrants provides valuable insight into trend stability and potential volatility. Rapid movement may indicate high volatility or changing market conditions, whereas slower transitions could signify trend consolidation or stability. This dynamism aids traders in recognizing emerging trends, allowing for timely strategic adjustments.
 
 A critical application of RRGs is their ability to highlight rotation opportunities. As securities move between quadrants, traders can interpret these transitions as potential signals for buy or sell actions. For example, a move from the "lagging" quadrant to the "improving" quadrant may signal a buying opportunity, suggesting improving performance and positive momentum. Conversely, securities transitioning from "leading" to "weakening" may indicate a potential sell signal, as momentum diminishes despite remaining relatively strong compared to the benchmark.
 
@@ -54,7 +54,7 @@ RRGs, therefore, serve as a powerful tool for spotting rotation patterns, identi
 
 ## RRGs and Algo Trading
 
-Integrating Relative Rotation Graph (RRG) analysis into algorithmic trading systems significantly enhances automated decision-making. RRGs provide a visual representation of the relative performance of multiple securities against a benchmark over time, offering insights that are crucial for developing sophisticated trading algorithms. By systematically analyzing the movements and transitions of securities across different quadrants in RRGs, algorithmic systems can efficiently generate trade signals for market entry and [exit](/wiki/exit-strategy). 
+Integrating Relative Rotation Graph (RRG) analysis into algorithmic trading systems significantly enhances automated decision-making. RRGs provide a visual representation of the relative performance of multiple securities against a benchmark over time, offering insights that are crucial for developing sophisticated trading algorithms. By systematically analyzing the movements and transitions of securities across different quadrants in RRGs, algorithmic systems can efficiently generate trade signals for market entry and exit. 
 
 The movement of securities within the RRG's quadrants—leading, weakening, lagging, and improving—indicates shifts in momentum and relative strength, which are pivotal for making informed trading decisions. Algorithms can be designed to recognize these transitions, delivering timely alerts and signals. For instance, when a security moves from the lagging to the improving quadrant, it may signal a potential buy opportunity as momentum is gaining. Conversely, a shift from the leading to the weakening quadrant might indicate a sell signal as momentum deteriorates.
 
@@ -96,7 +96,7 @@ def calculate_momentum(security_data):
     return momentum
 ```
 
-Moreover, combining RRG outputs with other quantitative metrics strengthens the overall reliability and performance of trading models. Metrics such as moving averages, [volume](/wiki/volume-trading-strategy), and volatility indicators can be integrated alongside RRG analysis to provide a more comprehensive data-driven trading approach. This multidisciplinary approach ensures that the models are more resilient and adaptable to varying market conditions, leveraging the relative performance insights offered by RRGs with quantitative rigor inherent in well-tested trading indicators.
+Moreover, combining RRG outputs with other quantitative metrics strengthens the overall reliability and performance of trading models. Metrics such as moving averages, volume, and volatility indicators can be integrated alongside RRG analysis to provide a more comprehensive data-driven trading approach. This multidisciplinary approach ensures that the models are more resilient and adaptable to varying market conditions, leveraging the relative performance insights offered by RRGs with quantitative rigor inherent in well-tested trading indicators.
 
 In essence, the integration of RRGs into algo trading not only automates the decision-making process but also enriches it with nuanced insights into market dynamics, thereby facilitating more strategic and informed trading operations.
 
@@ -110,7 +110,7 @@ Moving averages are a central tool in identifying prevailing trends and smoothin
 
 ### Relative Strength Index (RSI)
 
-The RSI is a momentum oscillator reflecting the speed and change of price movements, generally used to identify overbought or oversold conditions. When coupled with RRG analysis, RSI can offer insight into the momentum behind security relative strength. For example, an asset in the "improving" quadrant might indicate increasing momentum, further confirmed if the RSI moves above 50, suggesting a potential upward [breakout](/wiki/breakout-trading).
+The RSI is a momentum oscillator reflecting the speed and change of price movements, generally used to identify overbought or oversold conditions. When coupled with RRG analysis, RSI can offer insight into the momentum behind security relative strength. For example, an asset in the "improving" quadrant might indicate increasing momentum, further confirmed if the RSI moves above 50, suggesting a potential upward breakout.
 
 ### Bollinger Bands
 
