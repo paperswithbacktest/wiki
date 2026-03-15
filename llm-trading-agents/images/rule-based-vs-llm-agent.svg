@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 340" width="800" height="340">
+  <rect width="800" height="340" fill="white"/>
+
+  <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="17" fill="#202124" font-weight="bold">Rule-Based System vs LLM Trading Agent</text>
+
+  <!-- Left: Rule-Based -->
+  <rect x="30" y="50" width="350" height="270" rx="10" fill="#f1f3f4" stroke="#5f6368" stroke-width="1.5"/>
+  <text x="205" y="80" text-anchor="middle" font-family="Arial, sans-serif" font-size="15" fill="#5f6368" font-weight="bold">Classical Rule-Based System</text>
+
+  <rect x="55" y="100" width="140" height="35" rx="6" fill="white" stroke="#5f6368" stroke-width="1"/>
+  <text x="125" y="122" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#5f6368">IF RSI &lt; 30</text>
+
+  <rect x="210" y="100" width="140" height="35" rx="6" fill="white" stroke="#5f6368" stroke-width="1"/>
+  <text x="280" y="122" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#5f6368">THEN BUY</text>
+
+  <line x1="195" y1="117" x2="207" y2="117" stroke="#5f6368" stroke-width="1.5"/>
+
+  <text x="205" y="165" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#5f6368">✓ Fast, deterministic</text>
+  <text x="205" y="185" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#5f6368">✓ Low latency</text>
+  <text x="205" y="205" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#5f6368">✓ Easy to backtest</text>
+  <text x="205" y="235" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#ea4335">✗ Cannot read text data</text>
+  <text x="205" y="255" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#ea4335">✗ Rigid, brittle rules</text>
+  <text x="205" y="275" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#ea4335">✗ No reasoning capability</text>
+  <text x="205" y="295" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#ea4335">✗ Manual adaptation</text>
+
+  <!-- Right: LLM Agent -->
+  <rect x="420" y="50" width="350" height="270" rx="10" fill="#e8f0fe" stroke="#1a73e8" stroke-width="1.5"/>
+  <text x="595" y="80" text-anchor="middle" font-family="Arial, sans-serif" font-size="15" fill="#1a73e8" font-weight="bold">LLM Trading Agent</text>
+
+  <rect x="445" y="100" width="300" height="35" rx="6" fill="white" stroke="#1a73e8" stroke-width="1"/>
+  <text x="595" y="122" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#1a73e8">"Analyse news + RSI → reason → decide"</text>
+
+  <text x="595" y="165" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#5f6368">✓ Understands text &amp; context</text>
+  <text x="595" y="185" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#5f6368">✓ Multi-modal inputs</text>
+  <text x="595" y="205" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#5f6368">✓ Emergent reasoning</text>
+  <text x="595" y="235" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#ea4335">✗ Higher latency (seconds)</text>
+  <text x="595" y="255" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#ea4335">✗ Non-deterministic outputs</text>
+  <text x="595" y="275" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#ea4335">✗ Hallucination risk</text>
+  <text x="595" y="295" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#ea4335">✗ Harder to backtest</text>
+</svg>
