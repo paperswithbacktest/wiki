@@ -1,126 +1,166 @@
 ---
 category: quant_concept
-title: 'NLP Sentiment Analysis for Trading: A Practical Guide'
-description: Learn how to build a sentiment analysis pipeline for trading using FinBERT, LLMs, and Python — from raw text to actionable trading signals.
+title: 'NLP for Trading: Sentiment Analysis and Narrative Monitoring Explained'
+description: How natural language processing powers sentiment analysis and narrative monitoring in algo trading — from bag-of-words to LLM embeddings with Python code.
 ---
 
-**NLP sentiment analysis for trading** is the process of using natural language processing models to extract bullish, bearish, or neutral signals from financial text — news articles, earnings call transcripts, SEC filings, social media, and analyst reports — and converting those signals into quantitative trading features. The approach has evolved from simple word-counting dictionaries to transformer-based models like FinBERT and, most recently, to LLM-powered agents that can reason about nuance, sarcasm, and context. For algo traders, sentiment analysis provides a systematic way to incorporate unstructured information that pure price-based strategies miss.
+Natural language processing (NLP) has become a cornerstone of modern [alternative data](https://paperswithbacktest.com/wiki/best-alternative-data) strategies in algorithmic trading. By converting unstructured text — news articles, earnings call transcripts, social media posts, SEC filings — into quantitative trading signals, NLP enables algo traders to systematically capture information that was once the domain of discretionary analysts. This article covers the full spectrum from classical sentiment analysis to cutting-edge narrative monitoring with large language models (LLMs).
 
-## How Financial Sentiment Analysis Works
+## What Is NLP in Trading?
 
-A sentiment analysis pipeline for trading has four stages: data collection, text processing, sentiment scoring, and signal construction.
+NLP for trading is the application of computational linguistics and machine learning to extract structured, tradeable signals from text data. The core idea is simple: text contains information about economic conditions, company performance, and market sentiment that is not immediately captured by numerical market data.
 
-![NLP sentiment analysis pipeline for trading showing data sources, NLP model, signal builder, and trading strategy stages](images/nlp-sentiment-pipeline.svg)
+The two main branches are:
 
-**Data collection.** Ingest text from financial news APIs (Reuters, Bloomberg, NewsAPI), earnings call transcripts (SEC EDGAR, Seeking Alpha), social media (StockTwits, Reddit), and regulatory filings. The choice of source matters: [news trading](https://paperswithbacktest.com/wiki/news-trading) strategies require low-latency feeds, while fundamental strategies can work with delayed transcripts.
+**Sentiment Analysis** — scoring text as positive, negative, or neutral with respect to financial outcomes. A bullish earnings call transcript or a negative news headline gets a numerical sentiment score that feeds into an alpha model.
 
-**Text processing.** Clean and normalise text: remove boilerplate (legal disclaimers, copyright notices), segment into sentences or paragraphs, and tag with metadata (ticker, date, source type). For earnings calls, separate analyst questions from management answers — they carry different signal weight.
+**Narrative Monitoring** — tracking how the *story* around a company, sector, or macro theme evolves over time. Rather than scoring individual documents, narrative monitoring uses embeddings to measure how today's news coverage is shifting relative to historical patterns.
 
-**Sentiment scoring.** Run each text passage through a sentiment model to produce a score. The model can be a specialised classifier (FinBERT), a general-purpose LLM with a financial prompt, or a lexicon-based approach (Loughran-McDonald dictionary). Each has trade-offs covered below.
+Both approaches convert text into vectors — numerical representations that can be processed by trading algorithms just like price or volume data.
 
-**Signal construction.** Aggregate individual sentiment scores into a trading signal. Common approaches include exponentially-weighted averages (recent sentiment matters more), z-score normalisation (compare current sentiment to historical baseline), and cross-sectional ranking (sort stocks by sentiment, go long the top decile, short the bottom).
+## Evolution of NLP Methods in Finance
 
-## The Evolution of Financial NLP
+The field has evolved through four distinct generations, each offering increasingly powerful signal extraction:
 
-Financial NLP has progressed through four distinct eras:
+![Diagram showing the evolution of NLP methods in finance](images/nlp-evolution-diagram.svg)
 
-**Bag-of-words (2005–2015).** The Loughran and McDonald (2011) dictionary assigned positive/negative labels to financial terms. Simple and fast, but unable to handle context: "the loss was smaller than expected" scores as negative despite being bullish news.
+### Generation 1 — Dictionary-Based (2000s)
 
-**Word embeddings (2015–2019).** Word2Vec and GloVe captured semantic relationships, allowing models to understand that "revenue growth" and "sales increase" are similar. Better than dictionaries but still poor at sentence-level reasoning.
+The simplest approach: count positive and negative words in a document using a predefined dictionary. The Loughran-McDonald (2011) financial sentiment dictionary became the standard, identifying 354 positive and 2,329 negative words specific to financial text (important because words like "liability" are negative in general English but neutral in finance).
 
-**FinBERT (2019–2023).** Araci (2019) fine-tuned BERT on financial text, creating a model that understands financial language at the sentence level. FinBERT became the standard tool for financial sentiment classification, with accuracy above 85% on benchmark datasets.
+$$\text{Sentiment} = \frac{N_{positive} - N_{negative}}{N_{total}}$$
 
-**LLM agents (2023–present).** GPT-4, Claude, and open-source models like Llama can perform zero-shot sentiment analysis with nuanced reasoning. Lopez-Lira and Tang (2023) showed that ChatGPT's sentiment scores on financial headlines have significant predictive power for next-day returns. [LLM trading agents](https://paperswithbacktest.com/wiki/llm-trading-agents) now incorporate sentiment as one tool among many in their perception layer.
+### Generation 2 — Bag-of-Words + ML (2010s)
 
-## Python Implementation: FinBERT Sentiment Pipeline
+Statistical models (Naive Bayes, SVM, Random Forest) trained on labeled financial text. Better than dictionaries because they learn context-dependent weights, but still ignore word order.
+
+### Generation 3 — Word Embeddings (mid-2010s)
+
+Word2Vec and Doc2Vec create dense vector representations of words and documents. Financial NLP researchers trained domain-specific embeddings on SEC filings and news corpora, capturing relationships like *"bullish" is to "bearish" as "long" is to "short"*.
+
+### Generation 4 — Transformer Models and LLMs (2020s)
+
+BERT, FinBERT, and now GPT-class models understand context, irony, and complex language. FinBERT (Araci, 2019) — a BERT model fine-tuned on financial text — has become the workhorse for production sentiment scoring. LLMs enable narrative monitoring at a qualitative level that was previously impossible.
+
+## Python Implementation: Sentiment Scoring with FinBERT
+
+Here is a working example using the HuggingFace `transformers` library to score financial text sentiment:
 
 ```python
-from transformers import pipeline
-import pandas as pd
+from transformers import AutoTokenizer, AutoModelForSequenceClassification
+import torch
 import numpy as np
 
-# --- 1. Load FinBERT sentiment model ---
-sentiment = pipeline(
-    "sentiment-analysis",
-    model="ProsusAI/finbert",
-    tokenizer="ProsusAI/finbert",
-    return_all_scores=True,
-)
+def score_sentiment(texts: list[str], model_name: str = "ProsusAI/finbert") -> list[dict]:
+    """
+    Score financial texts using FinBERT.
+    Returns list of dicts with positive, negative, neutral probabilities.
+    """
+    tokenizer = AutoTokenizer.from_pretrained(model_name)
+    model = AutoModelForSequenceClassification.from_pretrained(model_name)
+    model.eval()
 
-# --- 2. Score a batch of headlines ---
+    results = []
+    for text in texts:
+        inputs = tokenizer(text, return_tensors="pt", truncation=True, max_length=512)
+        with torch.no_grad():
+            outputs = model(**inputs)
+        probs = torch.nn.functional.softmax(outputs.logits, dim=-1).numpy()[0]
+        results.append({
+            "text": text[:80],
+            "positive": float(probs[0]),
+            "negative": float(probs[1]),
+            "neutral": float(probs[2]),
+            "score": float(probs[0] - probs[1]),  # net sentiment
+        })
+    return results
+
+# Example usage
 headlines = [
-    "Apple reports record quarterly revenue, beating analyst estimates",
-    "Fed signals potential rate cuts amid slowing economic growth",
-    "Tesla recalls 200,000 vehicles due to software defect",
-    "NVIDIA sees strong demand for AI chips in data centres",
-    "Oil prices plunge as OPEC fails to reach production agreement",
+    "Company beats Q3 earnings expectations, raises full-year guidance",
+    "FDA rejects drug application citing insufficient safety data",
+    "Board announces regular quarterly dividend of $0.50 per share",
 ]
-
-def score_headline(text: str) -> dict:
-    """Return sentiment scores for a single headline."""
-    results = sentiment(text[:512])[0]  # FinBERT max 512 tokens
-    scores = {r["label"]: r["score"] for r in results}
-    # Composite: positive - negative (range: -1 to +1)
-    composite = scores.get("positive", 0) - scores.get("negative", 0)
-    return {"text": text[:80], "composite": composite, **scores}
-
-scored = pd.DataFrame([score_headline(h) for h in headlines])
-print(scored[["text", "composite", "positive", "negative"]].to_string(index=False))
-
-# --- 3. Aggregate into a daily signal ---
-def daily_sentiment_signal(scores: list[float], half_life: int = 5) -> float:
-    """Exponentially weighted sentiment signal."""
-    weights = np.exp(-np.arange(len(scores)) / half_life)
-    weights = weights / weights.sum()
-    return np.dot(scores[::-1], weights[:len(scores)])
-
-# Example: 10 days of composite scores for AAPL
-daily_scores = [0.3, 0.1, -0.2, 0.5, 0.4, -0.1, 0.6, 0.2, 0.3, 0.7]
-signal = daily_sentiment_signal(daily_scores)
-print(f"\nDaily sentiment signal (EW, half-life=5): {signal:.3f}")
+for result in score_sentiment(headlines):
+    print(f"Score: {result['score']:+.3f} | {result['text']}")
 ```
 
-## FinBERT vs LLMs for Sentiment: When to Use Each
+## Narrative Monitoring with Embeddings
 
-| Dimension | FinBERT | LLM (GPT-4o / Claude) |
-|---|---|---|
-| Speed | ~50ms per headline | 1–3 seconds per headline |
-| Cost | Free (local) | API cost per token |
-| Accuracy (simple) | 85–90% on standard benchmarks | 90–95% on standard benchmarks |
-| Nuance handling | Limited (sentence-level only) | Excellent (multi-paragraph reasoning) |
-| Customisability | Fine-tune on your data | Prompt engineering, few-shot examples |
-| Latency-sensitive use | Yes (news trading) | No (too slow for real-time) |
-| Context window | 512 tokens | 128k+ tokens |
+Narrative monitoring goes beyond document-level sentiment. The idea, formalized by researchers at The Forecasting Machine and explored in Lehalle's work, is to track the **embedding trajectory** of a company's news narrative over time.
 
-**Use FinBERT** when you need to process thousands of headlines per minute at low cost — typical for systematic sentiment strategies scanning the entire market. **Use an LLM** when you need deep reasoning over long documents (earnings call transcripts, 10-K filings) where context and nuance matter more than speed.
+The approach uses cosine similarity between the embedding of today's news about a company and a reference embedding (e.g., the average narrative embedding over the past 30 days). A sudden shift in cosine similarity signals a narrative break — something has changed in how the market talks about this company.
 
-## Velocity vs Complexity: A Framework for Text Signals
+$$\text{Narrative Shift} = 1 - \cos(\mathbf{e}_{today}, \mathbf{\bar{e}}_{30d})$$
 
-An important insight from quantitative NLP research is that not all text carries equal informational weight. Fast-produced, simple texts (tweets, breaking news headlines) have high **velocity** but low **complexity** — they spread existing information quickly but rarely contain novel analysis. Slow-produced, complex texts (research reports, regulatory filings) have low velocity but high **complexity** — they contain deep analysis but arrive after the market has already reacted to the headline.
+Where $\mathbf{e}_{today}$ is today's news embedding and $\mathbf{\bar{e}}_{30d}$ is the rolling 30-day average embedding. Values near 0 mean business as usual; values above a threshold (typically 0.3–0.5) signal a meaningful narrative change.
 
-This means:
-- High-frequency sentiment strategies should focus on **velocity** — reacting to sentiment shifts before they are fully priced in
-- Low-frequency fundamental strategies should focus on **complexity** — extracting insights from dense documents that most participants skim
-- The worst approach is to treat all text equally — weighting a tweet the same as a 100-page 10-K filing
+```python
+import numpy as np
+from numpy.linalg import norm
+
+def cosine_similarity(a: np.ndarray, b: np.ndarray) -> float:
+    """Compute cosine similarity between two vectors."""
+    return float(np.dot(a, b) / (norm(a) * norm(b)))
+
+def detect_narrative_shift(
+    today_embedding: np.ndarray,
+    historical_embeddings: list[np.ndarray],
+    threshold: float = 0.35
+) -> dict:
+    """
+    Detect if today's narrative has shifted meaningfully
+    from the recent average.
+    """
+    avg_embedding = np.mean(historical_embeddings, axis=0)
+    similarity = cosine_similarity(today_embedding, avg_embedding)
+    shift = 1.0 - similarity
+    return {
+        "similarity": similarity,
+        "shift": shift,
+        "is_break": shift > threshold,
+    }
+
+# Example with synthetic embeddings (dim=768 for BERT-class models)
+np.random.seed(42)
+base = np.random.randn(768)
+historical = [base + np.random.randn(768) * 0.1 for _ in range(30)]
+today_normal = base + np.random.randn(768) * 0.1
+today_shift = np.random.randn(768)  # completely different narrative
+
+print("Normal day:", detect_narrative_shift(today_normal, historical))
+print("Narrative break:", detect_narrative_shift(today_shift, historical))
+```
+
+![Chart showing narrative shift detection over time](images/narrative-shift-chart.png)
+
+## Key NLP Data Sources for Trading
+
+| Source | Content Type | Latency | Best For |
+|---|---|---|---|
+| News wires (Reuters, Bloomberg) | Headlines + full articles | Seconds | Event-driven strategies |
+| SEC EDGAR filings | 10-K, 10-Q, 8-K | Minutes to hours | Fundamental signals |
+| Earnings call transcripts | CEO/CFO spoken language | Hours | [Sentiment trading](https://paperswithbacktest.com/wiki/sentiment-trading) around earnings |
+| Social media (Twitter/X, Reddit) | Short-form opinions | Real-time | Retail sentiment signals |
+| Central bank communications | Meeting minutes, speeches | Minutes | Macro rate trading |
+| Sell-side research | Analyst reports | Hours | Consensus shifts |
 
 ## Limitations and Risks
 
-**Sentiment is a lagging indicator for well-covered stocks.** By the time news appears in a headline, institutional algorithms have often already traded on it. Sentiment signals tend to be more predictive for small-cap stocks with lower analyst coverage.
+**Context sensitivity** remains the biggest challenge. Financial language is nuanced — "the company's growth slowed to 15% from 20%" is objectively negative growth deceleration but still describes a fast-growing company. Generic NLP models often misclassify such statements.
 
-**Model drift.** Financial language evolves. Models trained on pre-2020 text may misinterpret post-pandemic terminology or new market jargon. Regular re-evaluation against labelled data is essential.
+**Temporal decay** of NLP signals is typically rapid. News sentiment predicts returns primarily at the 1–5 day horizon and fades quickly (see [the horizon effect](https://paperswithbacktest.com/wiki/alternative-data-horizon-effect)). Earnings call sentiment has a slightly longer half-life.
 
-**Sarcasm and irony.** Even LLMs struggle with financial sarcasm. "Great quarter for management bonuses, terrible quarter for shareholders" requires genuine comprehension to score correctly.
-
-**Crowding.** As more funds deploy similar FinBERT-based strategies, the alpha from sentiment signals decays. The [fear and greed index](https://paperswithbacktest.com/wiki/fear-greed-index-overview) captures market-wide sentiment; individual stock signals require more sophistication.
+**Crowding** is a real concern. FinBERT is open-source and widely used. If every fund scores sentiment with the same model, the signal gets priced in faster. Differentiation comes from proprietary data sources, custom fine-tuning, or combining NLP with other alternative data.
 
 ## Conclusion
 
-NLP sentiment analysis gives algo traders systematic access to the vast unstructured information landscape that pure price-based strategies ignore. Start with FinBERT for high-throughput sentiment scoring, graduate to LLMs for deep document analysis, and always remember that the signal construction step — how you aggregate, normalise, and combine sentiment with other features — matters as much as the NLP model itself.
+NLP for trading has evolved from simple word-counting to sophisticated narrative monitoring powered by transformer architectures. For algo traders, the practical path is clear: start with FinBERT for document-level sentiment scoring, then graduate to embedding-based narrative monitoring as your infrastructure matures. The alpha is real but decays fast — combine NLP signals with other alternative data sources and rebalance frequently to capture it.
 
 ---
 
 **Explore further on PapersWithBacktest:**
-- Browse [backtested sentiment strategies](https://paperswithbacktest.com/strategies) with Python code and performance metrics
+- Browse [backtested NLP-driven strategies](https://paperswithbacktest.com/strategies) with Python code and performance metrics
 - Access [clean historical market data](https://paperswithbacktest.com/datasets) for equities, crypto, and futures
 - Take the [algo trading course](https://paperswithbacktest.com/course) — 60+ video lessons and notebooks
-- Related wiki pages: [News Trading](https://paperswithbacktest.com/wiki/news-trading) · [Fear and Greed Index Overview](https://paperswithbacktest.com/wiki/fear-greed-index-overview) · [LLM Trading Agents](https://paperswithbacktest.com/wiki/llm-trading-agents)
+- Related wiki pages: [Sentiment Trading](https://paperswithbacktest.com/wiki/sentiment-trading) · [Best Alternative Data Sources](https://paperswithbacktest.com/wiki/best-alternative-data)
