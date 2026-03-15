@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400" width="800" height="400">
+  <rect width="800" height="400" fill="white"/>
+  <defs>
+    <marker id="ar" markerWidth="10" markerHeight="7" refX="10" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#5f6368"/>
+    </marker>
+  </defs>
+
+  <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="17" fill="#202124" font-weight="bold">Why TSFMs Excel on General Data but Struggle with Finance</text>
+
+  <!-- Left: Where TSFMs work -->
+  <rect x="20" y="55" width="350" height="310" rx="10" fill="#e6f4ea" stroke="#34a853" stroke-width="1.5"/>
+  <text x="195" y="82" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#34a853" font-weight="bold">✓ "Repeated Experiments" (TSFMs excel)</text>
+
+  <rect x="40" y="100" width="140" height="50" rx="6" fill="white" stroke="#34a853" stroke-width="1"/>
+  <text x="110" y="122" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#5f6368">Server logs</text>
+  <text x="110" y="138" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#34a853">Recurring patterns ✓</text>
+
+  <rect x="200" y="100" width="140" height="50" rx="6" fill="white" stroke="#34a853" stroke-width="1"/>
+  <text x="270" y="122" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#5f6368">Energy demand</text>
+  <text x="270" y="138" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#34a853">Stable seasonality ✓</text>
+
+  <rect x="40" y="165" width="140" height="50" rx="6" fill="white" stroke="#34a853" stroke-width="1"/>
+  <text x="110" y="187" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#5f6368">Retail sales</text>
+  <text x="110" y="203" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#34a853">Clear trends ✓</text>
+
+  <rect x="200" y="165" width="140" height="50" rx="6" fill="white" stroke="#34a853" stroke-width="1"/>
+  <text x="270" y="187" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#5f6368">Weather / ECG</text>
+  <text x="270" y="203" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#34a853">High signal/noise ✓</text>
+
+  <text x="195" y="248" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#34a853" font-weight="bold">Properties:</text>
+  <text x="195" y="270" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#5f6368">• Stationary distributions</text>
+  <text x="195" y="290" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#5f6368">• Repeating cycles</text>
+  <text x="195" y="310" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#5f6368">• Strong signal-to-noise</text>
+  <text x="195" y="330" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#5f6368">• Abundant data per pattern</text>
+
+  <!-- Right: Where TSFMs struggle -->
+  <rect x="420" y="55" width="360" height="310" rx="10" fill="#fce8e6" stroke="#ea4335" stroke-width="1.5"/>
+  <text x="600" y="82" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#ea4335" font-weight="bold">✗ Financial Time Series (TSFMs struggle)</text>
+
+  <rect x="440" y="100" width="150" height="50" rx="6" fill="white" stroke="#ea4335" stroke-width="1"/>
+  <text x="515" y="122" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#5f6368">Stock returns</text>
+  <text x="515" y="138" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#ea4335">Non-stationary ✗</text>
+
+  <rect x="610" y="100" width="150" height="50" rx="6" fill="white" stroke="#ea4335" stroke-width="1"/>
+  <text x="685" y="122" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#5f6368">FX volatility</text>
+  <text x="685" y="138" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#ea4335">Regime shifts ✗</text>
+
+  <rect x="440" y="165" width="150" height="50" rx="6" fill="white" stroke="#ea4335" stroke-width="1"/>
+  <text x="515" y="187" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#5f6368">Yield curves</text>
+  <text x="515" y="203" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#ea4335">Policy-driven ✗</text>
+
+  <rect x="610" y="165" width="150" height="50" rx="6" fill="white" stroke="#ea4335" stroke-width="1"/>
+  <text x="685" y="187" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#5f6368">Crypto</text>
+  <text x="685" y="203" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#ea4335">Extreme noise ✗</text>
+
+  <text x="600" y="248" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#ea4335" font-weight="bold">Properties:</text>
+  <text x="600" y="270" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#5f6368">• Non-stationary distributions</text>
+  <text x="600" y="290" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#5f6368">• Evolving economic context</text>
+  <text x="600" y="310" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#5f6368">• Tiny signal buried in noise</text>
+  <text x="600" y="330" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#5f6368">• Few independent regime episodes</text>
+</svg>
