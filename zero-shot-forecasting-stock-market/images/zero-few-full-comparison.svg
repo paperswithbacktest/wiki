@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 340" width="800" height="340">
+  <rect width="800" height="340" fill="white"/>
+  <defs>
+    <marker id="az" markerWidth="10" markerHeight="7" refX="10" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#5f6368"/>
+    </marker>
+  </defs>
+
+  <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="17" fill="#202124" font-weight="bold">Zero-Shot vs Few-Shot vs Full Fine-Tuning</text>
+
+  <!-- Zero-shot -->
+  <rect x="20" y="55" width="240" height="260" rx="10" fill="#e8f0fe" stroke="#1a73e8" stroke-width="1.5"/>
+  <text x="140" y="82" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#1a73e8" font-weight="bold">Zero-Shot</text>
+  <text x="140" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#5f6368">No training at all</text>
+  <text x="140" y="130" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#5f6368">Load model → pass data → forecast</text>
+  <line x1="40" y1="148" x2="240" y2="148" stroke="#1a73e8" stroke-width="0.5" opacity="0.3"/>
+  <text x="45" y="172" font-family="Arial, sans-serif" font-size="11" fill="#34a853">✓ Instant deployment</text>
+  <text x="45" y="192" font-family="Arial, sans-serif" font-size="11" fill="#34a853">✓ No labelled data needed</text>
+  <text x="45" y="212" font-family="Arial, sans-serif" font-size="11" fill="#34a853">✓ Good for broad indices</text>
+  <text x="45" y="240" font-family="Arial, sans-serif" font-size="11" fill="#ea4335">✗ Weakest on financial data</text>
+  <text x="45" y="260" font-family="Arial, sans-serif" font-size="11" fill="#ea4335">✗ No domain adaptation</text>
+  <text x="140" y="300" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#1a73e8" font-style="italic">Training cost: $0</text>
+
+  <!-- Few-shot -->
+  <rect x="280" y="55" width="240" height="260" rx="10" fill="#fff3e0" stroke="#fb8c00" stroke-width="1.5"/>
+  <text x="400" y="82" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#fb8c00" font-weight="bold">Few-Shot Fine-Tuning</text>
+  <text x="400" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#5f6368">Light adaptation on target data</text>
+  <text x="400" y="130" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#5f6368">5–20% of available history</text>
+  <line x1="300" y1="148" x2="500" y2="148" stroke="#fb8c00" stroke-width="0.5" opacity="0.3"/>
+  <text x="305" y="172" font-family="Arial, sans-serif" font-size="11" fill="#34a853">✓ 15–30% accuracy boost</text>
+  <text x="305" y="192" font-family="Arial, sans-serif" font-size="11" fill="#34a853">✓ Needs 3–10x less data</text>
+  <text x="305" y="212" font-family="Arial, sans-serif" font-size="11" fill="#34a853">✓ Best effort/reward ratio</text>
+  <text x="305" y="240" font-family="Arial, sans-serif" font-size="11" fill="#ea4335">✗ Still may lag specialists</text>
+  <text x="305" y="260" font-family="Arial, sans-serif" font-size="11" fill="#ea4335">✗ Risk of overfitting</text>
+  <text x="400" y="300" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#fb8c00" font-style="italic">Training cost: minutes on GPU</text>
+
+  <!-- Full fine-tuning -->
+  <rect x="540" y="55" width="240" height="260" rx="10" fill="#e6f4ea" stroke="#34a853" stroke-width="1.5"/>
+  <text x="660" y="82" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#34a853" font-weight="bold">Full Fine-Tuning</text>
+  <text x="660" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#5f6368">Full retraining on finance data</text>
+  <text x="660" y="130" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#5f6368">All available history</text>
+  <line x1="560" y1="148" x2="760" y2="148" stroke="#34a853" stroke-width="0.5" opacity="0.3"/>
+  <text x="565" y="172" font-family="Arial, sans-serif" font-size="11" fill="#34a853">✓ Best raw performance</text>
+  <text x="565" y="192" font-family="Arial, sans-serif" font-size="11" fill="#34a853">✓ Domain-specific patterns</text>
+  <text x="565" y="212" font-family="Arial, sans-serif" font-size="11" fill="#34a853">✓ Captures regime shifts</text>
+  <text x="565" y="240" font-family="Arial, sans-serif" font-size="11" fill="#ea4335">✗ Expensive compute</text>
+  <text x="565" y="260" font-family="Arial, sans-serif" font-size="11" fill="#ea4335">✗ Needs decades of data</text>
+  <text x="660" y="300" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#34a853" font-style="italic">Training cost: hours on GPU</text>
+</svg>
