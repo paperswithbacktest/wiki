@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 350" width="800" height="350">
+  <rect width="800" height="350" fill="white"/>
+  <defs>
+    <marker id="a2" markerWidth="10" markerHeight="7" refX="10" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#5f6368"/>
+    </marker>
+  </defs>
+
+  <text x="400" y="28" text-anchor="middle" font-family="Arial, sans-serif" font-size="17" fill="#202124" font-weight="bold">How a Time Series Foundation Model Works</text>
+
+  <!-- Raw time series -->
+  <rect x="20" y="55" width="140" height="80" rx="8" fill="#f1f3f4" stroke="#5f6368" stroke-width="1.5"/>
+  <text x="90" y="78" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#5f6368" font-weight="bold">Raw Time Series</text>
+  <text x="90" y="98" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#5f6368">OHLCV, returns,</text>
+  <text x="90" y="114" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#5f6368">any numeric sequence</text>
+
+  <line x1="160" y1="95" x2="185" y2="95" stroke="#5f6368" stroke-width="1.5" marker-end="url(#a2)"/>
+
+  <!-- Patching / Tokenization -->
+  <rect x="190" y="50" width="140" height="90" rx="8" fill="#fff3e0" stroke="#fb8c00" stroke-width="1.5"/>
+  <text x="260" y="75" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#fb8c00" font-weight="bold">Patch / Tokenize</text>
+  <text x="260" y="95" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#5f6368">Split into fixed-length</text>
+  <text x="260" y="111" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#5f6368">patches (e.g. 32 steps)</text>
+  <text x="260" y="127" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#5f6368">+ positional encoding</text>
+
+  <line x1="330" y1="95" x2="355" y2="95" stroke="#5f6368" stroke-width="1.5" marker-end="url(#a2)"/>
+
+  <!-- Transformer -->
+  <rect x="360" y="40" width="170" height="110" rx="10" fill="#e8f0fe" stroke="#1a73e8" stroke-width="2"/>
+  <text x="445" y="68" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#1a73e8" font-weight="bold">Transformer</text>
+  <text x="445" y="88" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#5f6368">Self-attention layers</text>
+  <text x="445" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#5f6368">Learns temporal patterns</text>
+  <text x="445" y="122" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#5f6368">across all domains</text>
+  <text x="445" y="140" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#1a73e8" font-style="italic">200M–700M params</text>
+
+  <line x1="530" y1="95" x2="555" y2="95" stroke="#5f6368" stroke-width="1.5" marker-end="url(#a2)"/>
+
+  <!-- Forecast head -->
+  <rect x="560" y="50" width="140" height="90" rx="8" fill="#e6f4ea" stroke="#34a853" stroke-width="1.5"/>
+  <text x="630" y="75" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#34a853" font-weight="bold">Forecast Head</text>
+  <text x="630" y="95" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#5f6368">Point forecast +</text>
+  <text x="630" y="111" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#5f6368">Quantile intervals</text>
+  <text x="630" y="127" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#5f6368">(uncertainty bands)</text>
+
+  <line x1="700" y1="95" x2="725" y2="95" stroke="#5f6368" stroke-width="1.5" marker-end="url(#a2)"/>
+
+  <rect x="730" y="65" width="55" height="55" rx="8" fill="#34a853" opacity="0.15" stroke="#34a853" stroke-width="1.5"/>
+  <text x="757" y="90" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" fill="#34a853">📈</text>
+  <text x="757" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#34a853">Output</text>
+
+  <!-- Architecture variants bottom -->
+  <text x="400" y="195" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#202124" font-weight="bold">Architecture Variants by Model</text>
+
+  <rect x="30" y="215" width="165" height="110" rx="7" fill="#e8f0fe" stroke="#1a73e8" stroke-width="1"/>
+  <text x="112" y="238" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#1a73e8" font-weight="bold">TimesFM (Google)</text>
+  <text x="112" y="258" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#5f6368">Decoder-only</text>
+  <text x="112" y="275" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#5f6368">Patch embeddings</text>
+  <text x="112" y="292" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#5f6368">200M params</text>
+  <text x="112" y="309" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#5f6368">Univariate + XReg</text>
+
+  <rect x="215" y="215" width="165" height="110" rx="7" fill="#fce8e6" stroke="#ea4335" stroke-width="1"/>
+  <text x="297" y="238" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#ea4335" font-weight="bold">Chronos-2 (Amazon)</text>
+  <text x="297" y="258" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#5f6368">Encoder-only (T5)</text>
+  <text x="297" y="275" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#5f6368">Tokenization (quantize)</text>
+  <text x="297" y="292" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#5f6368">9M–710M params</text>
+  <text x="297" y="309" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#5f6368">Uni + multivariate</text>
+
+  <rect x="400" y="215" width="165" height="110" rx="7" fill="#e6f4ea" stroke="#34a853" stroke-width="1"/>
+  <text x="482" y="238" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#34a853" font-weight="bold">MOIRAI-2 (Salesforce)</text>
+  <text x="482" y="258" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#5f6368">Decoder-only + MoE</text>
+  <text x="482" y="275" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#5f6368">Any-variate attention</text>
+  <text x="482" y="292" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#5f6368">11M–300M params</text>
+  <text x="482" y="309" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#5f6368">Multi-freq, any dim</text>
+
+  <rect x="585" y="215" width="165" height="110" rx="7" fill="#fff3e0" stroke="#fb8c00" stroke-width="1"/>
+  <text x="667" y="238" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#fb8c00" font-weight="bold">Lag-Llama</text>
+  <text x="667" y="258" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#5f6368">Decoder-only</text>
+  <text x="667" y="275" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#5f6368">Lagged features</text>
+  <text x="667" y="292" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#5f6368">Student-t output</text>
+  <text x="667" y="309" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#5f6368">Probabilistic univariate</text>
+</svg>
