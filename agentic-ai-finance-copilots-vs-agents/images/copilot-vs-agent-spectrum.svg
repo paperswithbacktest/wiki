@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 360" width="800" height="360">
+  <rect width="800" height="360" fill="white"/>
+  <text x="400" y="30" text-anchor="middle" font-family="Arial" font-size="18" fill="#1a1a1a" font-weight="bold">Autonomy Spectrum: Copilot → Agent in Finance</text>
+
+  <!-- Gradient bar -->
+  <defs>
+    <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#1a73e8;stop-opacity:0.3"/>
+      <stop offset="100%" style="stop-color:#ea4335;stop-opacity:0.8"/>
+    </linearGradient>
+  </defs>
+  <rect x="80" y="55" width="640" height="30" rx="15" fill="url(#grad1)"/>
+  <text x="80" y="105" font-family="Arial" font-size="13" fill="#1a73e8" font-weight="bold">Low Autonomy</text>
+  <text x="720" y="105" text-anchor="end" font-family="Arial" font-size="13" fill="#ea4335" font-weight="bold">High Autonomy</text>
+
+  <!-- Copilot box -->
+  <rect x="50" y="130" width="220" height="200" rx="10" fill="#e8f0fe" stroke="#1a73e8" stroke-width="2"/>
+  <text x="160" y="158" text-anchor="middle" font-family="Arial" font-size="15" fill="#1a73e8" font-weight="bold">AI Copilot</text>
+  <text x="70" y="185" font-family="Arial" font-size="11" fill="#333">• Human decides, AI assists</text>
+  <text x="70" y="205" font-family="Arial" font-size="11" fill="#333">• Suggests, summarises, drafts</text>
+  <text x="70" y="225" font-family="Arial" font-size="11" fill="#333">• No autonomous actions</text>
+  <text x="70" y="245" font-family="Arial" font-size="11" fill="#333">• Error = user catches it</text>
+  <text x="70" y="275" font-family="Arial" font-size="11" fill="#1a73e8">Examples:</text>
+  <text x="70" y="295" font-family="Arial" font-size="11" fill="#5f6368">Code completion, research QA,</text>
+  <text x="70" y="311" font-family="Arial" font-size="11" fill="#5f6368">earnings call summarisation</text>
+
+  <!-- Hybrid box -->
+  <rect x="290" y="130" width="220" height="200" rx="10" fill="#fef7e0" stroke="#fbbc04" stroke-width="2"/>
+  <text x="400" y="158" text-anchor="middle" font-family="Arial" font-size="15" fill="#f9a825" font-weight="bold">Semi-Autonomous</text>
+  <text x="310" y="185" font-family="Arial" font-size="11" fill="#333">• AI proposes, human approves</text>
+  <text x="310" y="205" font-family="Arial" font-size="11" fill="#333">• Multi-step workflows</text>
+  <text x="310" y="225" font-family="Arial" font-size="11" fill="#333">• Guardrails + oversight</text>
+  <text x="310" y="245" font-family="Arial" font-size="11" fill="#333">• Error = human-in-the-loop</text>
+  <text x="310" y="275" font-family="Arial" font-size="11" fill="#f9a825">Examples:</text>
+  <text x="310" y="295" font-family="Arial" font-size="11" fill="#5f6368">Trade recommendation with</text>
+  <text x="310" y="311" font-family="Arial" font-size="11" fill="#5f6368">manual approval, portfolio alerts</text>
+
+  <!-- Agent box -->
+  <rect x="530" y="130" width="220" height="200" rx="10" fill="#fce8e6" stroke="#ea4335" stroke-width="2"/>
+  <text x="640" y="158" text-anchor="middle" font-family="Arial" font-size="15" fill="#ea4335" font-weight="bold">Autonomous Agent</text>
+  <text x="550" y="185" font-family="Arial" font-size="11" fill="#333">• AI decides and executes</text>
+  <text x="550" y="205" font-family="Arial" font-size="11" fill="#333">• Perception → Reason → Act</text>
+  <text x="550" y="225" font-family="Arial" font-size="11" fill="#333">• Self-correcting loops</text>
+  <text x="550" y="245" font-family="Arial" font-size="11" fill="#333">• Error = risk management</text>
+  <text x="550" y="275" font-family="Arial" font-size="11" fill="#ea4335">Examples:</text>
+  <text x="550" y="295" font-family="Arial" font-size="11" fill="#5f6368">LLM trading agents, automated</text>
+  <text x="550" y="311" font-family="Arial" font-size="11" fill="#5f6368">portfolio rebalancing systems</text>
+</svg>
