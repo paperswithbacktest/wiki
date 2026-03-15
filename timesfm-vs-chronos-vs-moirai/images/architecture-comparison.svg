@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 420" width="800" height="420">
+  <rect width="800" height="420" fill="white"/>
+  <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="17" fill="#202124" font-weight="bold">Architecture Comparison: TimesFM vs Chronos-2 vs MOIRAI-2</text>
+
+  <!-- TimesFM -->
+  <rect x="20" y="55" width="240" height="340" rx="10" fill="#e8f0fe" stroke="#1a73e8" stroke-width="1.5"/>
+  <text x="140" y="82" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#1a73e8" font-weight="bold">TimesFM 2.5</text>
+  <text x="140" y="100" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#5f6368">Google Research</text>
+  <line x1="40" y1="112" x2="240" y2="112" stroke="#1a73e8" stroke-width="0.5" opacity="0.3"/>
+  <text x="45" y="135" font-family="Arial, sans-serif" font-size="11" fill="#5f6368" font-weight="bold">Architecture:</text>
+  <text x="45" y="152" font-family="Arial, sans-serif" font-size="11" fill="#5f6368">Decoder-only transformer</text>
+  <text x="45" y="175" font-family="Arial, sans-serif" font-size="11" fill="#5f6368" font-weight="bold">Input method:</text>
+  <text x="45" y="192" font-family="Arial, sans-serif" font-size="11" fill="#5f6368">Continuous patch embeddings</text>
+  <text x="45" y="215" font-family="Arial, sans-serif" font-size="11" fill="#5f6368" font-weight="bold">Parameters:</text>
+  <text x="45" y="232" font-family="Arial, sans-serif" font-size="11" fill="#5f6368">200M</text>
+  <text x="45" y="255" font-family="Arial, sans-serif" font-size="11" fill="#5f6368" font-weight="bold">Training data:</text>
+  <text x="45" y="272" font-family="Arial, sans-serif" font-size="11" fill="#5f6368">100B+ time points</text>
+  <text x="45" y="295" font-family="Arial, sans-serif" font-size="11" fill="#5f6368" font-weight="bold">Multivariate:</text>
+  <text x="45" y="312" font-family="Arial, sans-serif" font-size="11" fill="#5f6368">Univariate + XReg covariates</text>
+  <text x="45" y="335" font-family="Arial, sans-serif" font-size="11" fill="#5f6368" font-weight="bold">Output:</text>
+  <text x="45" y="352" font-family="Arial, sans-serif" font-size="11" fill="#5f6368">Point + quantile head</text>
+  <text x="45" y="378" font-family="Arial, sans-serif" font-size="11" fill="#1a73e8" font-style="italic">Best for: enterprise, BigQuery</text>
+
+  <!-- Chronos-2 -->
+  <rect x="280" y="55" width="240" height="340" rx="10" fill="#fce8e6" stroke="#ea4335" stroke-width="1.5"/>
+  <text x="400" y="82" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#ea4335" font-weight="bold">Chronos-2</text>
+  <text x="400" y="100" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#5f6368">Amazon Science</text>
+  <line x1="300" y1="112" x2="500" y2="112" stroke="#ea4335" stroke-width="0.5" opacity="0.3"/>
+  <text x="305" y="135" font-family="Arial, sans-serif" font-size="11" fill="#5f6368" font-weight="bold">Architecture:</text>
+  <text x="305" y="152" font-family="Arial, sans-serif" font-size="11" fill="#5f6368">Encoder-only (T5-based)</text>
+  <text x="305" y="175" font-family="Arial, sans-serif" font-size="11" fill="#5f6368" font-weight="bold">Input method:</text>
+  <text x="305" y="192" font-family="Arial, sans-serif" font-size="11" fill="#5f6368">Tokenization (scale + quantize)</text>
+  <text x="305" y="215" font-family="Arial, sans-serif" font-size="11" fill="#5f6368" font-weight="bold">Parameters:</text>
+  <text x="305" y="232" font-family="Arial, sans-serif" font-size="11" fill="#5f6368">9M – 710M (5 sizes)</text>
+  <text x="305" y="255" font-family="Arial, sans-serif" font-size="11" fill="#5f6368" font-weight="bold">Training data:</text>
+  <text x="305" y="272" font-family="Arial, sans-serif" font-size="11" fill="#5f6368">Public TS + synthetic augment</text>
+  <text x="305" y="295" font-family="Arial, sans-serif" font-size="11" fill="#5f6368" font-weight="bold">Multivariate:</text>
+  <text x="305" y="312" font-family="Arial, sans-serif" font-size="11" fill="#5f6368">Yes (since Oct 2025)</text>
+  <text x="305" y="335" font-family="Arial, sans-serif" font-size="11" fill="#5f6368" font-weight="bold">Output:</text>
+  <text x="305" y="352" font-family="Arial, sans-serif" font-size="11" fill="#5f6368">Probabilistic (token dist.)</text>
+  <text x="305" y="378" font-family="Arial, sans-serif" font-size="11" fill="#ea4335" font-style="italic">Best for: broadest community</text>
+
+  <!-- MOIRAI-2 -->
+  <rect x="540" y="55" width="240" height="340" rx="10" fill="#e6f4ea" stroke="#34a853" stroke-width="1.5"/>
+  <text x="660" y="82" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#34a853" font-weight="bold">MOIRAI-2</text>
+  <text x="660" y="100" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#5f6368">Salesforce AI Research</text>
+  <line x1="560" y1="112" x2="760" y2="112" stroke="#34a853" stroke-width="0.5" opacity="0.3"/>
+  <text x="565" y="135" font-family="Arial, sans-serif" font-size="11" fill="#5f6368" font-weight="bold">Architecture:</text>
+  <text x="565" y="152" font-family="Arial, sans-serif" font-size="11" fill="#5f6368">Decoder-only + MoE</text>
+  <text x="565" y="175" font-family="Arial, sans-serif" font-size="11" fill="#5f6368" font-weight="bold">Input method:</text>
+  <text x="565" y="192" font-family="Arial, sans-serif" font-size="11" fill="#5f6368">Any-variate attention</text>
+  <text x="565" y="215" font-family="Arial, sans-serif" font-size="11" fill="#5f6368" font-weight="bold">Parameters:</text>
+  <text x="565" y="232" font-family="Arial, sans-serif" font-size="11" fill="#5f6368">11M – 300M (MoE sparse)</text>
+  <text x="565" y="255" font-family="Arial, sans-serif" font-size="11" fill="#5f6368" font-weight="bold">Training data:</text>
+  <text x="565" y="272" font-family="Arial, sans-serif" font-size="11" fill="#5f6368">LOTSA: 27B observations</text>
+  <text x="565" y="295" font-family="Arial, sans-serif" font-size="11" fill="#5f6368" font-weight="bold">Multivariate:</text>
+  <text x="565" y="312" font-family="Arial, sans-serif" font-size="11" fill="#5f6368">Native any-variate</text>
+  <text x="565" y="335" font-family="Arial, sans-serif" font-size="11" fill="#5f6368" font-weight="bold">Output:</text>
+  <text x="565" y="352" font-family="Arial, sans-serif" font-size="11" fill="#5f6368">Quantile regression</text>
+  <text x="565" y="378" font-family="Arial, sans-serif" font-size="11" fill="#34a853" font-style="italic">Best for: correlated assets</text>
+</svg>
