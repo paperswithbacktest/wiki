@@ -1,5 +1,5 @@
 ---
-category: risk_management
+category: quant_concept
 title: 'Kelly Criterion: Position Sizing for Algo Traders'
 description: Learn how to use the Kelly Criterion formula for optimal position sizing in algorithmic trading.
 ---
