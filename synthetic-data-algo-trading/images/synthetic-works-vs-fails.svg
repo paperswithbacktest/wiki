@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 430" width="800" height="430">
+  <rect width="800" height="430" fill="white"/>
+  <defs>
+    <marker id="as" markerWidth="10" markerHeight="7" refX="10" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#5f6368"/>
+    </marker>
+  </defs>
+
+  <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="17" fill="#202124" font-weight="bold">Where Synthetic Data Works vs Where It Doesn't in Finance</text>
+
+  <!-- Where it works -->
+  <rect x="20" y="55" width="370" height="350" rx="10" fill="#e6f4ea" stroke="#34a853" stroke-width="1.5"/>
+  <text x="205" y="82" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#34a853" font-weight="bold">✓ Synthetic Data Works For</text>
+
+  <rect x="40" y="100" width="330" height="55" rx="7" fill="white" stroke="#34a853" stroke-width="1"/>
+  <text x="55" y="122" font-family="Arial, sans-serif" font-size="12" fill="#34a853" font-weight="bold">Risk Management</text>
+  <text x="55" y="140" font-family="Arial, sans-serif" font-size="10" fill="#5f6368">Stress testing, tail-event simulation, VaR validation</text>
+
+  <rect x="40" y="165" width="330" height="55" rx="7" fill="white" stroke="#34a853" stroke-width="1"/>
+  <text x="55" y="187" font-family="Arial, sans-serif" font-size="12" fill="#34a853" font-weight="bold">Derivatives Pricing</text>
+  <text x="55" y="205" font-family="Arial, sans-serif" font-size="10" fill="#5f6368">Monte Carlo paths, exotic payoff simulation</text>
+
+  <rect x="40" y="230" width="330" height="55" rx="7" fill="white" stroke="#34a853" stroke-width="1"/>
+  <text x="55" y="252" font-family="Arial, sans-serif" font-size="12" fill="#34a853" font-weight="bold">Market Microstructure / LOB</text>
+  <text x="55" y="270" font-family="Arial, sans-serif" font-size="10" fill="#5f6368">Order-book simulation, execution algo testing</text>
+
+  <rect x="40" y="295" width="330" height="55" rx="7" fill="white" stroke="#34a853" stroke-width="1"/>
+  <text x="55" y="317" font-family="Arial, sans-serif" font-size="12" fill="#34a853" font-weight="bold">Data Augmentation (with care)</text>
+  <text x="55" y="335" font-family="Arial, sans-serif" font-size="10" fill="#5f6368">Bootstrapping for small samples, privacy masking</text>
+
+  <!-- Where it fails -->
+  <rect x="410" y="55" width="370" height="350" rx="10" fill="#fce8e6" stroke="#ea4335" stroke-width="1.5"/>
+  <text x="595" y="82" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#ea4335" font-weight="bold">✗ Synthetic Data Pitfalls</text>
+
+  <rect x="430" y="100" width="330" height="55" rx="7" fill="white" stroke="#ea4335" stroke-width="1"/>
+  <text x="445" y="122" font-family="Arial, sans-serif" font-size="12" fill="#ea4335" font-weight="bold">More data ≠ tighter confidence</text>
+  <text x="445" y="140" font-family="Arial, sans-serif" font-size="10" fill="#5f6368">Synthetic samples don't shrink estimation intervals</text>
+
+  <rect x="430" y="165" width="330" height="55" rx="7" fill="white" stroke="#ea4335" stroke-width="1"/>
+  <text x="445" y="187" font-family="Arial, sans-serif" font-size="12" fill="#ea4335" font-weight="bold">Covariance bias</text>
+  <text x="445" y="205" font-family="Arial, sans-serif" font-size="10" fill="#5f6368">GenAI learns covariance; portfolios need orthogonal signals</text>
+
+  <rect x="430" y="230" width="330" height="55" rx="7" fill="white" stroke="#ea4335" stroke-width="1"/>
+  <text x="445" y="252" font-family="Arial, sans-serif" font-size="12" fill="#ea4335" font-weight="bold">Model collapse</text>
+  <text x="445" y="270" font-family="Arial, sans-serif" font-size="10" fill="#5f6368">Training on synthetic output degrades future models</text>
+
+  <rect x="430" y="295" width="330" height="55" rx="7" fill="white" stroke="#ea4335" stroke-width="1"/>
+  <text x="445" y="317" font-family="Arial, sans-serif" font-size="12" fill="#ea4335" font-weight="bold">Just regularisation in disguise?</text>
+  <text x="445" y="335" font-family="Arial, sans-serif" font-size="10" fill="#5f6368">If synthetic helps, it may only be adding noise as regulariser</text>
+
+  <text x="400" y="420" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#5f6368" font-style="italic">Source: Lehalle (2025, 2026); Cetingoz &amp; Lehalle, "A Throw of the Dice Will Never Abolish Chance"</text>
+</svg>
