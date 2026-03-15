@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 320" width="800" height="320">
+  <rect width="800" height="320" fill="white"/>
+  <text x="400" y="30" text-anchor="middle" font-family="Arial" font-size="18" fill="#1a1a1a" font-weight="bold">Foundation Models for Time Series: Key Projects</text>
+
+  <!-- Model boxes -->
+  <rect x="40" y="60" width="160" height="100" rx="8" fill="#e8f0fe" stroke="#1a73e8" stroke-width="2"/>
+  <text x="120" y="85" text-anchor="middle" font-family="Arial" font-size="14" fill="#1a73e8" font-weight="bold">TimeGPT</text>
+  <text x="120" y="105" text-anchor="middle" font-family="Arial" font-size="11" fill="#5f6368">Nixtla (2023)</text>
+  <text x="120" y="125" text-anchor="middle" font-family="Arial" font-size="11" fill="#5f6368">Transformer-based</text>
+  <text x="120" y="145" text-anchor="middle" font-family="Arial" font-size="11" fill="#5f6368">API-only (closed)</text>
+
+  <rect x="220" y="60" width="160" height="100" rx="8" fill="#e6f4ea" stroke="#34a853" stroke-width="2"/>
+  <text x="300" y="85" text-anchor="middle" font-family="Arial" font-size="14" fill="#34a853" font-weight="bold">Chronos</text>
+  <text x="300" y="105" text-anchor="middle" font-family="Arial" font-size="11" fill="#5f6368">Amazon (2024)</text>
+  <text x="300" y="125" text-anchor="middle" font-family="Arial" font-size="11" fill="#5f6368">T5-based tokeniser</text>
+  <text x="300" y="145" text-anchor="middle" font-family="Arial" font-size="11" fill="#5f6368">Open-source</text>
+
+  <rect x="400" y="60" width="160" height="100" rx="8" fill="#fce8e6" stroke="#ea4335" stroke-width="2"/>
+  <text x="480" y="85" text-anchor="middle" font-family="Arial" font-size="14" fill="#ea4335" font-weight="bold">Lag-Llama</text>
+  <text x="480" y="105" text-anchor="middle" font-family="Arial" font-size="11" fill="#5f6368">Morgan Stanley (2024)</text>
+  <text x="480" y="125" text-anchor="middle" font-family="Arial" font-size="11" fill="#5f6368">Probabilistic forecasts</text>
+  <text x="480" y="145" text-anchor="middle" font-family="Arial" font-size="11" fill="#5f6368">Open-source</text>
+
+  <rect x="580" y="60" width="180" height="100" rx="8" fill="#f3e8fd" stroke="#7b1fa2" stroke-width="2"/>
+  <text x="670" y="85" text-anchor="middle" font-family="Arial" font-size="14" fill="#7b1fa2" font-weight="bold">Moirai / TimesFM</text>
+  <text x="670" y="105" text-anchor="middle" font-family="Arial" font-size="11" fill="#5f6368">Salesforce / Google</text>
+  <text x="670" y="125" text-anchor="middle" font-family="Arial" font-size="11" fill="#5f6368">Multi-resolution</text>
+  <text x="670" y="145" text-anchor="middle" font-family="Arial" font-size="11" fill="#5f6368">Open-source</text>
+
+  <!-- Use cases row -->
+  <text x="400" y="195" text-anchor="middle" font-family="Arial" font-size="15" fill="#1a1a1a" font-weight="bold">Where They May Help in Finance</text>
+
+  <rect x="40" y="210" width="170" height="80" rx="6" fill="#f5f5f5" stroke="#ccc" stroke-width="1"/>
+  <text x="125" y="235" text-anchor="middle" font-family="Arial" font-size="12" fill="#333" font-weight="bold">Anomaly Detection</text>
+  <text x="125" y="255" text-anchor="middle" font-family="Arial" font-size="11" fill="#5f6368">Flag unusual patterns</text>
+  <text x="125" y="273" text-anchor="middle" font-family="Arial" font-size="11" fill="#5f6368">in market data</text>
+
+  <rect x="230" y="210" width="170" height="80" rx="6" fill="#f5f5f5" stroke="#ccc" stroke-width="1"/>
+  <text x="315" y="235" text-anchor="middle" font-family="Arial" font-size="12" fill="#333" font-weight="bold">Regime Detection</text>
+  <text x="315" y="255" text-anchor="middle" font-family="Arial" font-size="11" fill="#5f6368">Identify volatility or</text>
+  <text x="315" y="273" text-anchor="middle" font-family="Arial" font-size="11" fill="#5f6368">trend regime shifts</text>
+
+  <rect x="420" y="210" width="170" height="80" rx="6" fill="#f5f5f5" stroke="#ccc" stroke-width="1"/>
+  <text x="505" y="235" text-anchor="middle" font-family="Arial" font-size="12" fill="#333" font-weight="bold">Sensor Dashboards</text>
+  <text x="505" y="255" text-anchor="middle" font-family="Arial" font-size="11" fill="#5f6368">Alt-data monitoring</text>
+  <text x="505" y="273" text-anchor="middle" font-family="Arial" font-size="11" fill="#5f6368">(IoT, satellite, web)</text>
+
+  <rect x="610" y="210" width="170" height="80" rx="6" fill="#f5f5f5" stroke="#ccc" stroke-width="1"/>
+  <text x="695" y="235" text-anchor="middle" font-family="Arial" font-size="12" fill="#333" font-weight="bold">Feature Engineering</text>
+  <text x="695" y="255" text-anchor="middle" font-family="Arial" font-size="11" fill="#5f6368">Embeddings as input</text>
+  <text x="695" y="273" text-anchor="middle" font-family="Arial" font-size="11" fill="#5f6368">to trading models</text>
+</svg>
