@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 350" width="800" height="350">
+  <rect width="800" height="350" fill="white"/>
+
+  <text x="400" y="30" text-anchor="middle" font-family="Arial" font-size="18" fill="#1a1a1a" font-weight="bold">RAG vs Fine-Tuning for Financial LLMs</text>
+
+  <!-- RAG column -->
+  <rect x="50" y="55" width="330" height="270" rx="10" fill="#e8f0fe" stroke="#1a73e8" stroke-width="2"/>
+  <text x="215" y="82" text-anchor="middle" font-family="Arial" font-size="16" fill="#1a73e8" font-weight="bold">RAG</text>
+
+  <text x="70" y="110" font-family="Arial" font-size="12" fill="#333">✓ Real-time data access</text>
+  <text x="70" y="132" font-family="Arial" font-size="12" fill="#333">✓ No retraining needed</text>
+  <text x="70" y="154" font-family="Arial" font-size="12" fill="#333">✓ Source attribution / citations</text>
+  <text x="70" y="176" font-family="Arial" font-size="12" fill="#333">✓ Low cost to update</text>
+  <text x="70" y="198" font-family="Arial" font-size="12" fill="#333">✓ Works with any base LLM</text>
+  <text x="70" y="228" font-family="Arial" font-size="12" fill="#999">✗ Retrieval latency</text>
+  <text x="70" y="250" font-family="Arial" font-size="12" fill="#999">✗ Depends on document quality</text>
+  <text x="70" y="272" font-family="Arial" font-size="12" fill="#999">✗ Context window limits</text>
+
+  <rect x="70" y="290" width="290" height="24" rx="4" fill="#1a73e8" opacity="0.15"/>
+  <text x="215" y="307" text-anchor="middle" font-family="Arial" font-size="12" fill="#1a73e8" font-weight="bold">Best for: dynamic data, compliance, QA</text>
+
+  <!-- Fine-Tuning column -->
+  <rect x="420" y="55" width="330" height="270" rx="10" fill="#fce8e6" stroke="#ea4335" stroke-width="2"/>
+  <text x="585" y="82" text-anchor="middle" font-family="Arial" font-size="16" fill="#ea4335" font-weight="bold">Fine-Tuning</text>
+
+  <text x="440" y="110" font-family="Arial" font-size="12" fill="#333">✓ Deep domain specialisation</text>
+  <text x="440" y="132" font-family="Arial" font-size="12" fill="#333">✓ Faster inference (no retrieval)</text>
+  <text x="440" y="154" font-family="Arial" font-size="12" fill="#333">✓ Consistent tone / style</text>
+  <text x="440" y="176" font-family="Arial" font-size="12" fill="#333">✓ Better on niche jargon</text>
+  <text x="440" y="198" font-family="Arial" font-size="12" fill="#333">✓ Smaller model possible</text>
+  <text x="440" y="228" font-family="Arial" font-size="12" fill="#999">✗ Expensive to retrain</text>
+  <text x="440" y="250" font-family="Arial" font-size="12" fill="#999">✗ Static knowledge (stale data)</text>
+  <text x="440" y="272" font-family="Arial" font-size="12" fill="#999">✗ No source attribution</text>
+
+  <rect x="440" y="290" width="290" height="24" rx="4" fill="#ea4335" opacity="0.15"/>
+  <text x="585" y="307" text-anchor="middle" font-family="Arial" font-size="12" fill="#ea4335" font-weight="bold">Best for: style, jargon, static tasks</text>
+</svg>
