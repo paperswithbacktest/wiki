@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400" width="800" height="400">
+  <rect width="800" height="400" fill="white"/>
+  <defs>
+    <marker id="arrow" markerWidth="10" markerHeight="7" refX="10" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#5f6368"/>
+    </marker>
+  </defs>
+
+  <!-- Title -->
+  <text x="400" y="30" text-anchor="middle" font-family="Arial" font-size="18" fill="#1a1a1a" font-weight="bold">RAG Pipeline for Financial Analysis</text>
+
+  <!-- Step 1: Documents -->
+  <rect x="30" y="60" width="140" height="120" rx="8" fill="#e8f0fe" stroke="#1a73e8" stroke-width="2"/>
+  <text x="100" y="90" text-anchor="middle" font-family="Arial" font-size="13" fill="#1a73e8" font-weight="bold">Documents</text>
+  <text x="100" y="112" text-anchor="middle" font-family="Arial" font-size="11" fill="#5f6368">SEC Filings</text>
+  <text x="100" y="128" text-anchor="middle" font-family="Arial" font-size="11" fill="#5f6368">Earnings Calls</text>
+  <text x="100" y="144" text-anchor="middle" font-family="Arial" font-size="11" fill="#5f6368">Research Papers</text>
+  <text x="100" y="160" text-anchor="middle" font-family="Arial" font-size="11" fill="#5f6368">News Articles</text>
+
+  <!-- Arrow 1 -->
+  <line x1="170" y1="120" x2="210" y2="120" stroke="#5f6368" stroke-width="2" marker-end="url(#arrow)"/>
+
+  <!-- Step 2: Chunking + Embedding -->
+  <rect x="220" y="60" width="140" height="120" rx="8" fill="#fce8e6" stroke="#ea4335" stroke-width="2"/>
+  <text x="290" y="90" text-anchor="middle" font-family="Arial" font-size="13" fill="#ea4335" font-weight="bold">Chunk &amp; Embed</text>
+  <text x="290" y="115" text-anchor="middle" font-family="Arial" font-size="11" fill="#5f6368">Split into passages</text>
+  <text x="290" y="133" text-anchor="middle" font-family="Arial" font-size="11" fill="#5f6368">Generate vectors</text>
+  <text x="290" y="151" text-anchor="middle" font-family="Arial" font-size="11" fill="#5f6368">Add metadata</text>
+
+  <!-- Arrow 2 -->
+  <line x1="360" y1="120" x2="400" y2="120" stroke="#5f6368" stroke-width="2" marker-end="url(#arrow)"/>
+
+  <!-- Step 3: Vector Store -->
+  <rect x="410" y="60" width="140" height="120" rx="8" fill="#e6f4ea" stroke="#34a853" stroke-width="2"/>
+  <text x="480" y="90" text-anchor="middle" font-family="Arial" font-size="13" fill="#34a853" font-weight="bold">Vector Store</text>
+  <text x="480" y="115" text-anchor="middle" font-family="Arial" font-size="11" fill="#5f6368">FAISS / Chroma</text>
+  <text x="480" y="133" text-anchor="middle" font-family="Arial" font-size="11" fill="#5f6368">Semantic search</text>
+  <text x="480" y="151" text-anchor="middle" font-family="Arial" font-size="11" fill="#5f6368">Top-k retrieval</text>
+
+  <!-- Query box at bottom left -->
+  <rect x="30" y="260" width="140" height="80" rx="8" fill="#fef7e0" stroke="#fbbc04" stroke-width="2"/>
+  <text x="100" y="290" text-anchor="middle" font-family="Arial" font-size="13" fill="#f9a825" font-weight="bold">User Query</text>
+  <text x="100" y="312" text-anchor="middle" font-family="Arial" font-size="11" fill="#5f6368">"What is AAPL's</text>
+  <text x="100" y="328" text-anchor="middle" font-family="Arial" font-size="11" fill="#5f6368">free cash flow?"</text>
+
+  <!-- Arrow: query to vector store -->
+  <line x1="170" y1="300" x2="465" y2="185" stroke="#5f6368" stroke-width="2" marker-end="url(#arrow)" stroke-dasharray="6,3"/>
+
+  <!-- Arrow: vector store to LLM -->
+  <line x1="550" y1="120" x2="600" y2="120" stroke="#5f6368" stroke-width="2" marker-end="url(#arrow)"/>
+
+  <!-- Step 4: LLM -->
+  <rect x="610" y="60" width="160" height="120" rx="8" fill="#f3e8fd" stroke="#7b1fa2" stroke-width="2"/>
+  <text x="690" y="90" text-anchor="middle" font-family="Arial" font-size="13" fill="#7b1fa2" font-weight="bold">LLM Generation</text>
+  <text x="690" y="115" text-anchor="middle" font-family="Arial" font-size="11" fill="#5f6368">Query + Context</text>
+  <text x="690" y="133" text-anchor="middle" font-family="Arial" font-size="11" fill="#5f6368">→ Grounded answer</text>
+  <text x="690" y="151" text-anchor="middle" font-family="Arial" font-size="11" fill="#5f6368">with citations</text>
+
+  <!-- Arrow: query to LLM -->
+  <line x1="170" y1="300" x2="675" y2="185" stroke="#fbbc04" stroke-width="2" marker-end="url(#arrow)" stroke-dasharray="6,3"/>
+
+  <!-- Output -->
+  <rect x="610" y="260" width="160" height="80" rx="8" fill="#e8f0fe" stroke="#1a73e8" stroke-width="2"/>
+  <text x="690" y="290" text-anchor="middle" font-family="Arial" font-size="13" fill="#1a73e8" font-weight="bold">Answer</text>
+  <text x="690" y="312" text-anchor="middle" font-family="Arial" font-size="11" fill="#5f6368">Accurate, sourced</text>
+  <text x="690" y="328" text-anchor="middle" font-family="Arial" font-size="11" fill="#5f6368">financial response</text>
+
+  <!-- Arrow: LLM to output -->
+  <line x1="690" y1="180" x2="690" y2="255" stroke="#5f6368" stroke-width="2" marker-end="url(#arrow)"/>
+
+  <!-- Labels -->
+  <text x="190" y="108" text-anchor="middle" font-family="Arial" font-size="10" fill="#999">1</text>
+  <text x="385" y="108" text-anchor="middle" font-family="Arial" font-size="10" fill="#999">2</text>
+  <text x="580" y="108" text-anchor="middle" font-family="Arial" font-size="10" fill="#999">3</text>
+
+  <!-- Offline/Online labels -->
+  <text x="400" y="220" text-anchor="middle" font-family="Arial" font-size="12" fill="#999">── Offline Indexing (above) ──</text>
+  <text x="400" y="240" text-anchor="middle" font-family="Arial" font-size="12" fill="#999">── Online Retrieval (below) ──</text>
+</svg>
