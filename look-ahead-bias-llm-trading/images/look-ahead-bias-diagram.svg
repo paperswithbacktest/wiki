@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 380" width="800" height="380">
+  <rect width="800" height="380" fill="white"/>
+  <defs>
+    <marker id="arrow" markerWidth="10" markerHeight="7" refX="10" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#5f6368"/>
+    </marker>
+  </defs>
+  <text x="400" y="30" text-anchor="middle" font-family="Arial" font-size="18" fill="#1a1a1a" font-weight="bold">Look-Ahead Bias in LLM Trading</text>
+
+  <!-- Timeline -->
+  <line x1="80" y1="100" x2="720" y2="100" stroke="#ccc" stroke-width="3"/>
+  <circle cx="300" cy="100" r="8" fill="#ea4335"/>
+  <text x="300" y="82" text-anchor="middle" font-family="Arial" font-size="13" fill="#ea4335" font-weight="bold">Training Cutoff</text>
+
+  <!-- Left: training window -->
+  <rect x="80" y="115" width="210" height="30" rx="4" fill="#e6f4ea" opacity="0.5"/>
+  <text x="185" y="135" text-anchor="middle" font-family="Arial" font-size="12" fill="#34a853" font-weight="bold">Training Window (memorised)</text>
+
+  <!-- Right: post-cutoff -->
+  <rect x="310" y="115" width="410" height="30" rx="4" fill="#fce8e6" opacity="0.5"/>
+  <text x="515" y="135" text-anchor="middle" font-family="Arial" font-size="12" fill="#ea4335" font-weight="bold">Post-Cutoff (truly out-of-sample)</text>
+
+  <!-- The problem -->
+  <rect x="50" y="170" width="340" height="180" rx="10" fill="#fce8e6" stroke="#ea4335" stroke-width="2"/>
+  <text x="220" y="198" text-anchor="middle" font-family="Arial" font-size="15" fill="#ea4335" font-weight="bold">The Memorisation Problem</text>
+  <text x="70" y="225" font-family="Arial" font-size="12" fill="#333">• GPT-4o recalls S&amp;P 500 closing prices</text>
+  <text x="70" y="245" font-family="Arial" font-size="12" fill="#333">  with &lt;1% error for training-window dates</text>
+  <text x="70" y="270" font-family="Arial" font-size="12" fill="#333">• Errors explode for post-cutoff dates</text>
+  <text x="70" y="295" font-family="Arial" font-size="12" fill="#333">• Backtests on memorised data show</text>
+  <text x="70" y="315" font-family="Arial" font-size="12" fill="#333">  artificial alpha that vanishes live</text>
+  <text x="70" y="340" font-family="Arial" font-size="12" fill="#ea4335" font-weight="bold">  → Your backtest is lying.</text>
+
+  <!-- The solution -->
+  <rect x="410" y="170" width="340" height="180" rx="10" fill="#e6f4ea" stroke="#34a853" stroke-width="2"/>
+  <text x="580" y="198" text-anchor="middle" font-family="Arial" font-size="15" fill="#34a853" font-weight="bold">How to Avoid It</text>
+  <text x="430" y="225" font-family="Arial" font-size="12" fill="#333">✓ Use data-uncontaminated benchmarks</text>
+  <text x="430" y="248" font-family="Arial" font-size="12" fill="#333">✓ Evaluate only on post-cutoff dates</text>
+  <text x="430" y="271" font-family="Arial" font-size="12" fill="#333">✓ Use PiT (Point-in-Time) models</text>
+  <text x="430" y="294" font-family="Arial" font-size="12" fill="#333">✓ Test across many tickers + long horizons</text>
+  <text x="430" y="317" font-family="Arial" font-size="12" fill="#333">✓ Compare against simple Buy &amp; Hold</text>
+  <text x="430" y="340" font-family="Arial" font-size="12" fill="#333">✓ Release code for reproducibility</text>
+</svg>
