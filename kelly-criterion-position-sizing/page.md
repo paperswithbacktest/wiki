@@ -1,3 +1,9 @@
+---
+category: risk_management
+title: 'Kelly Criterion: Position Sizing for Algo Traders'
+description: Learn how to use the Kelly Criterion formula for optimal position sizing in algorithmic trading.
+---
+
 # Kelly Criterion: Position Sizing for Algo Traders
 
 The Kelly Criterion is a mathematical formula that tells you the optimal fraction of your capital to risk on each trade to maximise long-run portfolio growth. Developed by physicist John Kelly Jr. at Bell Labs in 1956, it has become a cornerstone of position sizing in algorithmic trading because it uniquely balances aggressive growth against the risk of catastrophic drawdown. Unlike fixed-percent or fixed-dollar sizing, the Kelly Criterion adapts to the statistical edge of your strategy.
