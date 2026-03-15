@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400" width="800" height="400">
+  <rect width="800" height="400" fill="white"/>
+  <defs>
+    <marker id="arrow" markerWidth="10" markerHeight="7" refX="10" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#5f6368"/>
+    </marker>
+  </defs>
+  
+  <text x="400" y="35" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" fill="#202124" font-weight="bold">Evolution of NLP Methods in Financial Trading</text>
+  
+  <!-- Timeline arrow -->
+  <line x1="60" y1="90" x2="740" y2="90" stroke="#dadce0" stroke-width="3"/>
+  <line x1="740" y1="90" x2="760" y2="90" stroke="#5f6368" stroke-width="3" marker-end="url(#arrow)"/>
+  
+  <!-- Gen 1 -->
+  <circle cx="130" cy="90" r="8" fill="#1a73e8"/>
+  <text x="130" y="75" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#5f6368">2000s</text>
+  <rect x="60" y="115" width="140" height="100" rx="8" fill="#e8f0fe" stroke="#1a73e8" stroke-width="1.5"/>
+  <text x="130" y="140" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#1a73e8" font-weight="bold">Gen 1: Dictionary</text>
+  <text x="130" y="162" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#5f6368">Loughran-McDonald</text>
+  <text x="130" y="180" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#5f6368">Word counting</text>
+  <text x="130" y="198" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#5f6368">±positive/negative</text>
+  
+  <!-- Gen 2 -->
+  <circle cx="310" cy="90" r="8" fill="#34a853"/>
+  <text x="310" y="75" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#5f6368">2010s</text>
+  <rect x="240" y="115" width="140" height="100" rx="8" fill="#e6f4ea" stroke="#34a853" stroke-width="1.5"/>
+  <text x="310" y="140" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#34a853" font-weight="bold">Gen 2: BoW + ML</text>
+  <text x="310" y="162" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#5f6368">SVM, Naive Bayes</text>
+  <text x="310" y="180" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#5f6368">TF-IDF features</text>
+  <text x="310" y="198" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#5f6368">Context-free</text>
+  
+  <!-- Gen 3 -->
+  <circle cx="490" cy="90" r="8" fill="#fbbc04"/>
+  <text x="490" y="75" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#5f6368">Mid-2010s</text>
+  <rect x="420" y="115" width="140" height="100" rx="8" fill="#fef7e0" stroke="#a87000" stroke-width="1.5"/>
+  <text x="490" y="140" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#a87000" font-weight="bold">Gen 3: Embeddings</text>
+  <text x="490" y="162" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#5f6368">Word2Vec, Doc2Vec</text>
+  <text x="490" y="180" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#5f6368">Dense vectors</text>
+  <text x="490" y="198" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#5f6368">Semantic similarity</text>
+  
+  <!-- Gen 4 -->
+  <circle cx="670" cy="90" r="8" fill="#ea4335"/>
+  <text x="670" y="75" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#5f6368">2020s</text>
+  <rect x="600" y="115" width="140" height="100" rx="8" fill="#fce8e6" stroke="#ea4335" stroke-width="1.5"/>
+  <text x="670" y="140" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#ea4335" font-weight="bold">Gen 4: LLMs</text>
+  <text x="670" y="162" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#5f6368">FinBERT, GPT</text>
+  <text x="670" y="180" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#5f6368">Contextual understanding</text>
+  <text x="670" y="198" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#5f6368">Narrative monitoring</text>
+  
+  <!-- Bottom: accuracy trend -->
+  <text x="400" y="260" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#202124" font-weight="bold">Signal Quality Progression</text>
+  
+  <rect x="80" y="280" width="100" height="20" rx="3" fill="#1a73e8" opacity="0.3"/>
+  <rect x="260" y="275" width="100" height="30" rx="3" fill="#34a853" opacity="0.4"/>
+  <rect x="440" y="268" width="100" height="40" rx="3" fill="#fbbc04" opacity="0.4"/>
+  <rect x="620" y="258" width="100" height="55" rx="3" fill="#ea4335" opacity="0.4"/>
+  
+  <text x="130" y="330" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#5f6368">Low IC</text>
+  <text x="310" y="330" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#5f6368">Moderate IC</text>
+  <text x="490" y="330" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#5f6368">Good IC</text>
+  <text x="670" y="330" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#5f6368">Best IC</text>
+  
+  <text x="400" y="370" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#1a73e8" font-style="italic">IC = Information Coefficient (rank correlation between signal and forward returns)</text>
+</svg>
