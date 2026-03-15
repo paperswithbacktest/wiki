@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400" width="800" height="400">
+  <rect width="800" height="400" fill="white"/>
+  <defs>
+    <marker id="arrow" markerWidth="10" markerHeight="7" refX="10" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#5f6368"/>
+    </marker>
+    <linearGradient id="alphaGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#1a73e8;stop-opacity:0.9"/>
+      <stop offset="100%" style="stop-color:#1a73e8;stop-opacity:0.1"/>
+    </linearGradient>
+  </defs>
+  
+  <!-- Title -->
+  <text x="400" y="35" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" fill="#202124" font-weight="bold">Alternative Data Alpha Decay Over Forecast Horizon</text>
+  
+  <!-- Axes -->
+  <line x1="80" y1="340" x2="750" y2="340" stroke="#5f6368" stroke-width="2" marker-end="url(#arrow)"/>
+  <line x1="80" y1="340" x2="80" y2="60" stroke="#5f6368" stroke-width="2" marker-end="url(#arrow)"/>
+  <text x="415" y="380" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#5f6368">Forecast Horizon (days)</text>
+  <text x="30" y="200" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#5f6368" transform="rotate(-90,30,200)">Alpha (excess return)</text>
+  
+  <!-- Decay curve area -->
+  <path d="M 80 90 Q 200 95 280 160 Q 380 240 500 290 Q 600 315 750 330" fill="none" stroke="#1a73e8" stroke-width="3"/>
+  <path d="M 80 90 Q 200 95 280 160 Q 380 240 500 290 Q 600 315 750 330 L 750 340 L 80 340 Z" fill="url(#alphaGrad)" opacity="0.3"/>
+  
+  <!-- Phase labels -->
+  <rect x="90" y="55" width="140" height="28" rx="4" fill="#34a853" opacity="0.15" stroke="#34a853" stroke-width="1.5"/>
+  <text x="160" y="74" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#34a853" font-weight="bold">Early Adopter Edge</text>
+  
+  <rect x="270" y="130" width="140" height="28" rx="4" fill="#fbbc04" opacity="0.15" stroke="#fbbc04" stroke-width="1.5"/>
+  <text x="340" y="149" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#a87000" font-weight="bold">Commoditization</text>
+  
+  <rect x="530" y="270" width="160" height="28" rx="4" fill="#ea4335" opacity="0.15" stroke="#ea4335" stroke-width="1.5"/>
+  <text x="610" y="289" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#ea4335" font-weight="bold">Signal Exhaustion</text>
+  
+  <!-- Horizon ticks -->
+  <text x="130" y="358" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#5f6368">1d</text>
+  <text x="230" y="358" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#5f6368">5d</text>
+  <text x="350" y="358" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#5f6368">21d</text>
+  <text x="510" y="358" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#5f6368">63d</text>
+  <text x="680" y="358" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#5f6368">252d</text>
+  
+  <!-- Formula -->
+  <text x="580" y="180" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#1a73e8" font-style="italic">α(h) = α₀ · e^(−λh)</text>
+</svg>
