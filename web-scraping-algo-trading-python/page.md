@@ -14,6 +14,12 @@ Common scraping targets for traders include e-commerce product prices and invent
 
 The value proposition is clear: while a vendor like Bloomberg Second Measure sells [transaction data](https://paperswithbacktest.com/wiki/credit-card-transaction-data-trading) for $100K+/year, a well-built scraper can capture complementary signals (product prices, inventory status) at a fraction of the cost.
 
+Web scraping occupies a unique position in the alternative data ecosystem because it is both the most accessible entry point for new quant traders and one of the most engineering-intensive approaches at production scale. A graduate student with basic Python skills can build a price tracker for a handful of e-commerce products in an afternoon. But building a production system that reliably scrapes thousands of websites daily, handles anti-bot defenses, maintains data quality through site redesigns, and converts raw HTML into clean time series requires a dedicated engineering team.
+
+The history of web scraping in finance goes back further than most realize. In the early 2000s, quant funds were already scraping job postings from Monster.com and CareerBuilder to estimate hiring trends at public companies. The Billion Prices Project at MIT, launched in 2008, demonstrated that daily web-scraped product prices from online retailers could [nowcast](https://paperswithbacktest.com/wiki/nowcasting-alternative-data) official inflation statistics with remarkable accuracy — weeks before the Bureau of Labor Statistics published the CPI. This research helped legitimize web scraping as a serious data source for institutional investors and spawned a generation of fintech startups offering scraped data as a service.
+
+Today, the line between "web scraping" and "alternative data vendor" is often blurry. Many of the most popular alternative data products — job posting counts from LinkUp, product review sentiment from Thinknum, app store rankings from Sensor Tower — are fundamentally web scraping operations packaged with clean APIs, historical databases, and compliance wrappers. When a trader evaluates whether to build or buy a web-scraped data feed, they are really asking: is the engineering cost of maintaining my own scraper lower than the subscription fee, and is the proprietary customization worth the effort?
+
 ## Core Python Libraries for Web Scraping
 
 | Library | Best For | JavaScript Support | Speed |
