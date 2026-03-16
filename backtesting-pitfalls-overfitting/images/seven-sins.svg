@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 380" width="800" height="380">
+  <rect width="800" height="380" fill="white"/>
+  <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" fill="#1a1a1a" font-weight="bold">Seven Deadly Sins of Backtesting</text>
+  <rect x="40" y="55" width="340" height="40" rx="6" fill="#ea4335" opacity="0.1" stroke="#ea4335" stroke-width="1.5"/>
+  <text x="210" y="80" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#ea4335" font-weight="bold">1. Survivorship Bias — only testing assets that survived</text>
+  <rect x="40" y="105" width="340" height="40" rx="6" fill="#ea4335" opacity="0.1" stroke="#ea4335" stroke-width="1.5"/>
+  <text x="210" y="130" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#ea4335" font-weight="bold">2. Look-Ahead Bias — using future data</text>
+  <rect x="40" y="155" width="340" height="40" rx="6" fill="#ea4335" opacity="0.1" stroke="#ea4335" stroke-width="1.5"/>
+  <text x="210" y="180" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#ea4335" font-weight="bold">3. Selection Bias — cherry-picking results</text>
+  <rect x="40" y="205" width="340" height="40" rx="6" fill="#ea4335" opacity="0.1" stroke="#ea4335" stroke-width="1.5"/>
+  <text x="210" y="230" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#ea4335" font-weight="bold">4. Overfitting — too many parameters</text>
+  <rect x="420" y="55" width="340" height="40" rx="6" fill="#ea4335" opacity="0.1" stroke="#ea4335" stroke-width="1.5"/>
+  <text x="590" y="80" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#ea4335" font-weight="bold">5. Transaction Costs — ignoring slippage</text>
+  <rect x="420" y="105" width="340" height="40" rx="6" fill="#ea4335" opacity="0.1" stroke="#ea4335" stroke-width="1.5"/>
+  <text x="590" y="130" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#ea4335" font-weight="bold">6. Outlier Sensitivity — one event drives returns</text>
+  <rect x="420" y="155" width="340" height="40" rx="6" fill="#ea4335" opacity="0.1" stroke="#ea4335" stroke-width="1.5"/>
+  <text x="590" y="180" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#ea4335" font-weight="bold">7. Non-Stationarity — past regimes ≠ future</text>
+  <rect x="100" y="270" width="600" height="80" rx="10" fill="#e8f5e9" stroke="#34a853" stroke-width="2"/>
+  <text x="400" y="300" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#34a853" font-weight="bold">AFML Remedies</text>
+  <text x="400" y="325" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#5f6368">Purged CV • CPCV • Deflated Sharpe Ratio • Walk-Forward • Synthetic Data Testing</text>
+</svg>
