@@ -18,6 +18,12 @@ The alternative data industry can be segmented into three tiers based on how clo
 
 For algo traders, Tier 2 vendors typically offer the best balance of signal quality and usability — the data is clean enough to integrate directly into models without requiring specialized engineering teams.
 
+The vendor landscape has consolidated significantly since the early days of alternative data. Between 2018 and 2023, dozens of alternative data startups were acquired by major financial data incumbents: Bloomberg acquired Second Measure (transaction data), Mastercard acquired Finicity (financial data aggregation), Nasdaq acquired Quandl (data marketplace), FactSet acquired TruValue Labs (ESG sentiment), and ICE acquired several geospatial analytics firms. This consolidation reflects both the maturation of the industry and the recognition by incumbents that alternative data is no longer optional for competitive financial data offerings.
+
+For traders, consolidation has mixed implications. On the positive side, it means better data quality, more reliable infrastructure, and easier integration with existing financial platforms. On the negative side, it means less data exclusivity — when a dataset is distributed through Bloomberg Terminal, every Bloomberg subscriber potentially has access, which accelerates [alpha decay](https://paperswithbacktest.com/wiki/alternative-data-horizon-effect). The most sophisticated quant funds increasingly seek out Tier 1 data sources (raw data collectors) or niche Tier 2 vendors with limited client bases, accepting higher integration costs in exchange for greater exclusivity.
+
+A critical but often overlooked consideration when evaluating vendors is **backfill risk**. Some vendors provide historical data that was reconstructed retroactively rather than collected in real-time. Backtesting against reconstructed data can dramatically overstate signal quality because the vendor may have applied current methodology to historical periods, creating look-ahead bias. Always ask vendors when their data collection actually began — not when their historical data starts — and treat any pre-collection "backfilled" period with extreme skepticism.
+
 ![Diagram showing the alternative data vendor ecosystem tiers](images/vendor-tiers.svg)
 
 ## Vendor Comparison by Data Category
