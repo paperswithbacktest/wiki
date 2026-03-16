@@ -14,6 +14,12 @@ The fundamental logic is straightforward: if you can observe in near-real-time t
 
 Transaction data is particularly powerful for **consumer-facing companies** — retail, restaurants, travel, e-commerce — where revenue is directly driven by measurable consumer spending. For these sectors, the correlation between transaction data signals and actual reported revenue can be remarkably high.
 
+The industry has evolved rapidly since the mid-2010s. Second Measure (now part of Bloomberg) was among the first to offer credit card panel data to hedge funds, initially covering just a few hundred merchants. The early results were striking: funds using transaction data to predict retail earnings surprises reported hit rates of 60–70%, compared to ~50% for analyst consensus alone. This track record attracted enormous institutional interest, and by 2020, transaction data had become the single most popular category of alternative data among hedge funds, according to surveys by Eagle Alpha and Greenwich Associates.
+
+The appeal is partly about directness. Unlike [satellite imagery](https://paperswithbacktest.com/wiki/satellite-imagery-trading), which measures a proxy for spending (parking lot visits), or [NLP sentiment](https://paperswithbacktest.com/wiki/nlp-sentiment-analysis-trading), which measures attitudes rather than actions, transaction data captures the actual economic event — a consumer swiping a card at a merchant's terminal. This directness reduces the number of inferential steps between the data and the financial outcome you are trying to predict, which generally produces higher [information coefficients](https://paperswithbacktest.com/wiki/information-coefficient-signal-quality).
+
+However, the very popularity of transaction data has compressed its alpha significantly. What once provided a 3–4% annualized edge in long-short consumer equity strategies now typically delivers 1–2%, because hundreds of funds trade on similar signals. The remaining edge comes from combining transaction data with complementary sources, using more sophisticated normalization techniques, and focusing on under-covered small and mid-cap names where fewer competitors operate.
+
 ![Diagram showing how transaction data flows from consumers to trading signals](images/transaction-data-flow.svg)
 
 ## How Transaction Data Creates Trading Signals
