@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 380" width="800" height="380">
+  <rect width="800" height="380" fill="white"/>
+  <defs><marker id="arrow" markerWidth="10" markerHeight="7" refX="10" refY="3.5" orient="auto"><polygon points="0 0, 10 3.5, 0 7" fill="#5f6368"/></marker></defs>
+  <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" fill="#333" font-weight="bold">Regime Detection Pipeline for Trading</text>
+  <rect x="30" y="60" width="160" height="55" rx="8" fill="#e8f0fe" stroke="#1a73e8" stroke-width="2"/>
+  <text x="110" y="92" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#1a73e8" font-weight="bold">Market Data</text>
+  <line x1="190" y1="87" x2="240" y2="87" stroke="#5f6368" stroke-width="2" marker-end="url(#arrow)"/>
+  <rect x="250" y="60" width="160" height="55" rx="8" fill="#fef7e0" stroke="#f9ab00" stroke-width="2"/>
+  <text x="330" y="85" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#e37400" font-weight="bold">Feature Extraction</text>
+  <text x="330" y="102" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#5f6368">Returns, Vol, Spreads</text>
+  <line x1="410" y1="87" x2="460" y2="87" stroke="#5f6368" stroke-width="2" marker-end="url(#arrow)"/>
+  <rect x="470" y="60" width="160" height="55" rx="8" fill="#e8f5e9" stroke="#34a853" stroke-width="2"/>
+  <text x="550" y="85" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#1e7e34" font-weight="bold">Regime Model</text>
+  <text x="550" y="102" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#5f6368">HMM / Clustering</text>
+  <line x1="630" y1="87" x2="680" y2="87" stroke="#5f6368" stroke-width="2" marker-end="url(#arrow)"/>
+  <rect x="690" y="60" width="90" height="55" rx="8" fill="#1a73e8" opacity="0.15" stroke="#1a73e8" stroke-width="2"/>
+  <text x="735" y="92" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#1a73e8" font-weight="bold">Signal</text>
+  <rect x="60" y="160" width="300" height="190" rx="10" fill="#34a853" opacity="0.08" stroke="#34a853" stroke-width="1.5"/>
+  <text x="210" y="185" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#1e7e34" font-weight="bold">Regime 1: Risk-On</text>
+  <text x="210" y="210" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#5f6368">• Low volatility</text>
+  <text x="210" y="228" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#5f6368">• Positive momentum</text>
+  <text x="210" y="246" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#5f6368">• Tight credit spreads</text>
+  <text x="210" y="275" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#1e7e34" font-weight="bold">→ Full equity exposure</text>
+  <text x="210" y="295" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#1e7e34" font-weight="bold">→ Momentum strategies</text>
+  <text x="210" y="315" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#1e7e34" font-weight="bold">→ Carry trades</text>
+  <rect x="420" y="160" width="300" height="190" rx="10" fill="#ea4335" opacity="0.08" stroke="#ea4335" stroke-width="1.5"/>
+  <text x="570" y="185" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#ea4335" font-weight="bold">Regime 2: Risk-Off</text>
+  <text x="570" y="210" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#5f6368">• High volatility</text>
+  <text x="570" y="228" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#5f6368">• Negative momentum</text>
+  <text x="570" y="246" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#5f6368">• Wide credit spreads</text>
+  <text x="570" y="275" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#ea4335" font-weight="bold">→ Reduce exposure</text>
+  <text x="570" y="295" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#ea4335" font-weight="bold">→ Mean reversion bets</text>
+  <text x="570" y="315" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#ea4335" font-weight="bold">→ Safe haven assets</text>
+</svg>
