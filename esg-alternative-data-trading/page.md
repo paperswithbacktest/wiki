@@ -10,6 +10,8 @@ Environmental, Social, and Governance (ESG) data has evolved from a niche respon
 
 ESG data encompasses quantitative and qualitative assessments of a company's environmental impact (carbon emissions, resource usage), social practices (labor conditions, diversity, community relations), and governance quality (board independence, executive compensation, shareholder rights). Data providers aggregate this information from corporate disclosures, regulatory filings, news sources, and proprietary research into numerical scores.
 
+The ESG data market has exploded since 2018, driven by regulatory mandates (the EU's Sustainable Finance Disclosure Regulation, SEC climate disclosure proposals), institutional investor demand (the UN Principles for Responsible Investment now has over 5,000 signatories managing $120+ trillion), and growing evidence that ESG factors capture financially material risks. For algo traders, the opportunity lies not in the ESG movement itself but in the *informational inefficiencies* it creates — mispricings that arise because ESG data is complex, inconsistent across vendors, and still poorly integrated into most fundamental valuation models.
+
 The trading thesis has two dimensions. First, as a **risk signal**: companies with poor ESG scores face higher regulatory, reputational, and operational risks that may not be priced into equities. Second, as a **flow signal**: the growing pool of ESG-mandated capital (ESG ETFs, sustainable mandates) creates predictable demand for high-ESG stocks and selling pressure on low-ESG stocks.
 
 ## Key ESG Data Vendors
@@ -23,7 +25,7 @@ The trading thesis has two dimensions. First, as a **risk signal**: companies wi
 | RepRisk | News/media monitoring for ESG incidents | 200,000+ companies | Daily |
 | TruValue Labs (FactSet) | AI-driven, real-time NLP of news | 15,000+ companies | Daily |
 
-For algo traders, **event-driven ESG data** (RepRisk, TruValue Labs) is more useful than static annual scores because it captures real-time changes that affect stock prices.
+For algo traders, **event-driven ESG data** (RepRisk, TruValue Labs) is more useful than static annual scores because it captures real-time changes that affect stock prices. When a company experiences an environmental disaster, a labor rights scandal, or a governance failure, the event-driven data providers detect it within hours through [NLP analysis](https://paperswithbacktest.com/wiki/nlp-sentiment-analysis-trading) of news sources and social media — long before the annual ESG score is updated. This creates a tradeable window where the stock price may not yet reflect the ESG event's implications for regulatory fines, reputational damage, or management distraction.
 
 ![Diagram showing ESG data integration into an algo trading pipeline](images/esg-pipeline.svg)
 
