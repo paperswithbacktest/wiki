@@ -10,7 +10,9 @@ Weather data is one of the oldest and most established forms of [alternative dat
 
 Weather data for trading encompasses observational records (historical temperature, rainfall, snowfall), forecast models (numerical weather prediction outputs), reanalysis datasets (ERA5, MERRA-2), satellite-derived climate indicators, and extreme event databases (hurricanes, droughts, floods).
 
-The trading thesis varies by asset class. For energy, temperature drives heating and cooling demand — a colder-than-expected winter in the US Northeast spikes natural gas prices. For agriculture, rainfall and temperature during growing seasons determine crop yields, directly affecting grain and soft commodity futures. For retail, weather affects [foot traffic](https://paperswithbacktest.com/wiki/geolocation-foot-traffic-trading) and seasonal purchasing patterns.
+The origins of weather-driven trading are ancient: grain traders in the Roman Empire adjusted prices based on seasonal rainfall patterns. In modern markets, weather-based trading became systematic in the 1990s with the development of weather derivatives and the creation of the Chicago Mercantile Exchange's weather futures contracts. Today, weather data is not just used by specialist weather traders — it is integrated into the models of major commodity trading houses (Vitol, Trafigura, Cargill), energy utilities, agricultural conglomerates, and increasingly, quantitative hedge funds that use weather signals as one input among many in multi-factor strategies.
+
+The trading thesis varies by asset class, and the strength of the weather-finance link depends on the degree to which physical weather conditions directly affect economic activity. For energy, temperature drives heating and cooling demand — a colder-than-expected winter in the US Northeast spikes natural gas prices. For agriculture, rainfall and temperature during growing seasons determine crop yields, directly affecting grain and soft commodity futures. For retail, weather affects [foot traffic](https://paperswithbacktest.com/wiki/geolocation-foot-traffic-trading) and seasonal purchasing patterns.
 
 ## Core Use Cases
 
@@ -27,7 +29,9 @@ Where $T_{avg}$ is the daily average temperature. Cumulative HDD/CDD deviations 
 
 Crop yields depend on growing-season weather. Key signals include cumulative rainfall during planting and growing seasons, temperature stress days (days above crop-specific thresholds), drought indices (Palmer Drought Severity Index, SPI), and growing degree days (GDD) accumulated over the season.
 
-These weather variables feed into crop yield models that predict USDA report outcomes — a direct complement to [satellite-derived NDVI](https://paperswithbacktest.com/wiki/satellite-imagery-trading).
+These weather variables feed into crop yield models that predict USDA report outcomes — a direct complement to [satellite-derived NDVI](https://paperswithbacktest.com/wiki/satellite-imagery-trading). The most sophisticated agricultural commodity funds combine weather data with satellite imagery, soil moisture sensors, and crop condition reports to build yield estimates that routinely beat the USDA's own forecasts — creating trading opportunities around the USDA's monthly WASDE (World Agricultural Supply and Demand Estimates) reports.
+
+A critical nuance that separates amateur weather traders from professionals is the distinction between **weather forecasts** and **weather observations**. Observations tell you what happened; forecasts tell you what the market expects will happen. The trading alpha comes from the gap between the two — specifically, from changes in weather forecasts that alter the market's expectations about future supply or demand. A cold snap in the Midwest matters for natural gas prices not because it is cold (the market already knows the temperature), but because updated forecasts showing the cold snap lasting two days longer than previously expected shift the demand outlook at the margin.
 
 ### Retail and Consumer
 
