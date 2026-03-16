@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 380" width="800" height="380">
+  <rect width="800" height="380" fill="white"/>
+  <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="17" fill="#202124" font-weight="bold">Alternative Data Vendor Ecosystem</text>
+  <rect x="250" y="50" width="300" height="55" rx="8" fill="#e8f0fe" stroke="#1a73e8" stroke-width="2"/>
+  <text x="400" y="75" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#1a73e8" font-weight="bold">Tier 1: Raw Data Collectors</text>
+  <text x="400" y="93" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#5f6368">Planet Labs, Mastercard, Mobile SDKs</text>
+  <rect x="200" y="130" width="400" height="55" rx="8" fill="#e6f4ea" stroke="#34a853" stroke-width="2"/>
+  <text x="400" y="155" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#34a853" font-weight="bold">Tier 2: Data Processors &amp; Aggregators</text>
+  <text x="400" y="173" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#5f6368">Orbital Insight, RavenPack, Placer.ai, Second Measure</text>
+  <rect x="150" y="210" width="500" height="55" rx="8" fill="#fef7e0" stroke="#a87000" stroke-width="2"/>
+  <text x="400" y="235" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#a87000" font-weight="bold">Tier 3: Marketplaces &amp; Platforms</text>
+  <text x="400" y="253" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#5f6368">Bloomberg, Refinitiv, Eagle Alpha, Nasdaq Data Link</text>
+  <rect x="150" y="300" width="500" height="50" rx="6" fill="#f8f9fa" stroke="#dadce0" stroke-width="1"/>
+  <text x="400" y="320" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#1a73e8" font-weight="bold">Best for algo traders: Tier 2 (clean signals, ready to integrate)</text>
+  <text x="400" y="340" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#5f6368">Balance of signal quality, usability, and cost</text>
+</svg>
