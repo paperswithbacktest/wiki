@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400" width="800" height="400">
+  <rect width="800" height="400" fill="white"/>
+  <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" fill="#1a1a1a" font-weight="bold">Marcos Lopez de Prado: Career Timeline</text>
+  <!-- Timeline line -->
+  <line x1="60" y1="100" x2="740" y2="100" stroke="#1a73e8" stroke-width="3"/>
+  <!-- PhD 1 -->
+  <circle cx="100" cy="100" r="8" fill="#1a73e8"/>
+  <text x="100" y="80" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#1a73e8" font-weight="bold">2003</text>
+  <text x="100" y="130" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#333">PhD Financial</text>
+  <text x="100" y="143" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#333">Econometrics</text>
+  <!-- Guggenheim -->
+  <circle cx="230" cy="100" r="8" fill="#34a853"/>
+  <text x="230" y="80" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#34a853" font-weight="bold">2007</text>
+  <text x="230" y="130" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#333">Guggenheim</text>
+  <text x="230" y="143" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#333">Partners</text>
+  <text x="230" y="156" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#5f6368">$13B AUM</text>
+  <!-- PhD 2 + LBNL -->
+  <circle cx="330" cy="100" r="8" fill="#fbbc04"/>
+  <text x="330" y="80" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#b8860b" font-weight="bold">2011</text>
+  <text x="330" y="130" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#333">2nd PhD +</text>
+  <text x="330" y="143" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#333">LBNL Fellow</text>
+  <!-- Cornell -->
+  <circle cx="410" cy="100" r="8" fill="#9c27b0"/>
+  <text x="410" y="80" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#9c27b0" font-weight="bold">2015</text>
+  <text x="410" y="130" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#333">Cornell</text>
+  <text x="410" y="143" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#333">Professor</text>
+  <!-- AQR -->
+  <circle cx="490" cy="100" r="8" fill="#ea4335"/>
+  <text x="490" y="80" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#ea4335" font-weight="bold">2018</text>
+  <text x="490" y="130" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#333">AQR Capital</text>
+  <text x="490" y="143" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#333">Head of ML</text>
+  <!-- AFML Book -->
+  <rect x="460" y="165" width="60" height="22" rx="3" fill="#ea4335" opacity="0.15" stroke="#ea4335" stroke-width="1"/>
+  <text x="490" y="181" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#ea4335">AFML Book</text>
+  <!-- TPT -->
+  <circle cx="580" cy="100" r="8" fill="#ff6f00"/>
+  <text x="580" y="80" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#ff6f00" font-weight="bold">2019</text>
+  <text x="580" y="130" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#333">True Positive</text>
+  <text x="580" y="143" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#333">Technologies</text>
+  <!-- ADIA -->
+  <circle cx="690" cy="100" r="10" fill="#1a73e8" stroke="#0d47a1" stroke-width="2"/>
+  <text x="690" y="78" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#0d47a1" font-weight="bold">2021+</text>
+  <text x="690" y="130" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#333">ADIA</text>
+  <text x="690" y="143" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#333">Global Head</text>
+  <text x="690" y="156" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#333">Quant R&amp;D</text>
+  <!-- Key innovations section -->
+  <rect x="40" y="210" width="720" height="170" rx="8" fill="#f8f9fa" stroke="#ddd" stroke-width="1"/>
+  <text x="400" y="235" text-anchor="middle" font-family="Arial, sans-serif" font-size="15" fill="#1a1a1a" font-weight="bold">Key Research Contributions</text>
+  <!-- Row 1 -->
+  <rect x="60" y="250" width="155" height="35" rx="5" fill="#1a73e8" opacity="0.1" stroke="#1a73e8" stroke-width="1"/>
+  <text x="137" y="272" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#1a73e8">Triple-Barrier Method</text>
+  <rect x="225" y="250" width="155" height="35" rx="5" fill="#34a853" opacity="0.1" stroke="#34a853" stroke-width="1"/>
+  <text x="302" y="272" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#34a853">Meta-Labeling</text>
+  <rect x="390" y="250" width="155" height="35" rx="5" fill="#ea4335" opacity="0.1" stroke="#ea4335" stroke-width="1"/>
+  <text x="467" y="272" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#ea4335">HRP Portfolios</text>
+  <rect x="555" y="250" width="190" height="35" rx="5" fill="#fbbc04" opacity="0.1" stroke="#fbbc04" stroke-width="1"/>
+  <text x="650" y="272" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#b8860b">VPIN / Order Flow</text>
+  <!-- Row 2 -->
+  <rect x="60" y="295" width="155" height="35" rx="5" fill="#9c27b0" opacity="0.1" stroke="#9c27b0" stroke-width="1"/>
+  <text x="137" y="317" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#9c27b0">Fractional Diff.</text>
+  <rect x="225" y="295" width="155" height="35" rx="5" fill="#ff6f00" opacity="0.1" stroke="#ff6f00" stroke-width="1"/>
+  <text x="302" y="317" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#ff6f00">CPCV / Purged CV</text>
+  <rect x="390" y="295" width="155" height="35" rx="5" fill="#00695c" opacity="0.1" stroke="#00695c" stroke-width="1"/>
+  <text x="467" y="317" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#00695c">Deflated Sharpe Ratio</text>
+  <rect x="555" y="295" width="190" height="35" rx="5" fill="#5f6368" opacity="0.1" stroke="#5f6368" stroke-width="1"/>
+  <text x="650" y="317" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#5f6368">Critical Line Algo.</text>
+  <!-- Awards row -->
+  <text x="400" y="365" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#5f6368">Awards: Quant of the Year (2019, 2021) · Bernstein Fabozzi / Jacobs Levy (2024) · Knight OMC (2024)</text>
+</svg>
