@@ -12,6 +12,14 @@ App store data encompasses metrics derived from Apple's App Store and Google Pla
 
 For companies whose revenue is driven by mobile apps — Spotify, Uber, DoorDash, Roblox, Match Group, Duolingo — these metrics are leading indicators of reported user growth and revenue. A sustained rise in App Store rankings for a company's flagship app typically precedes a strong earnings report.
 
+The app economy has grown to the point where mobile metrics are now financially material for a significant portion of public equities. As of 2025, global app store consumer spending exceeds $170 billion annually, and hundreds of publicly traded companies derive a majority of their revenue from mobile applications or in-app transactions. For these companies, app store data provides a near-real-time window into their business that no other data source matches.
+
+The rise of app data as a trading signal parallels the growth of the mobile-first economy. Sensor Tower, founded in 2013, and App Annie (now data.ai), founded in 2010, built businesses by reverse-engineering app store algorithms and using statistical models to estimate download volumes and revenue from observable data points — chart rankings, review counts, and installed-base surveys. These estimates are not exact, but they are directionally accurate enough to predict quarterly user growth metrics within a reasonable margin of error.
+
+A particularly powerful signal emerges from the **gap between app data trends and analyst expectations**. Sell-side analysts covering mobile-first companies typically update their models quarterly, relying on management guidance and historical trends. App store data, by contrast, updates daily. When downloads for a company's app accelerate mid-quarter due to a viral marketing campaign, a product update, or a competitor stumble, the app data reflects this within days — while the analyst consensus remains anchored to the prior quarter's trajectory. This gap is the trading opportunity.
+
+The signal is also valuable for detecting **negative surprises**. If a company's flagship app drops sharply in the App Store rankings, or if download estimates decline while management has publicly guided for user growth acceleration, the discrepancy often resolves in favor of the data: the earnings report disappoints. This asymmetric information is particularly valuable for options strategies around earnings announcements.
+
 ## How App Data Creates Trading Signals
 
 ### Download Momentum
