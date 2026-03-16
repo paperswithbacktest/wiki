@@ -152,6 +152,12 @@ The convergence of AI, ML, and advanced analytics in the development of factor m
 
 Barra Risk Factor Analysis remains an essential tool for financial analysts and traders. Its integration with algorithmic trading offers a strategic advantage in managing intricate risk portfolios. By applying these risk factors, traders can enhance decision-making processes and optimize financial outcomes. This synergy between Barra Analysis and advanced algorithmic solutions represents a promising advancement in modern finance. As these tools continue to be refined, their potential to turn risk management into a more precise science is significant. Through the application of multi-factor models, investors gain a deeper understanding of market dynamics, allowing for more informed investment strategies. This evolution positions Barra Risk Factor Analysis as a crucial component in navigating the complexities of today's financial markets.
 
+## See Also
+
+- [Global Macroeconomic Risk Model for Value and Momentum](https://paperswithbacktest.com/wiki/global-macroeconomic-risk-model-value-momentum) — Macro risk factors that explain value and momentum returns
+- [Macro Factor Investing Explained](https://paperswithbacktest.com/wiki/macro-factor-investing-explained) — How macro factors like growth and inflation drive asset returns
+- [Scenario Analysis and Stress Testing](https://paperswithbacktest.com/wiki/scenario-analysis-stress-testing-portfolio) — Using factor models for portfolio stress testing
+
 ## References & Further Reading
 
 [1]: Grinold, R. C., & Kahn, R. N. (1999). ["Active Portfolio Management: A Quantitative Approach for Producing Superior Returns and Controlling Risk."](https://www.amazon.com/Active-Portfolio-Management-Quantitative-Controlling/dp/0070248826) McGraw-Hill.
