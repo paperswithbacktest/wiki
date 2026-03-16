@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 280" width="800" height="280">
+  <rect width="800" height="280" fill="white"/>
+  <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="17" fill="#1a1a1a" font-weight="bold">Hyperparameter Tuning Pipeline for Trading</text>
+  <defs><marker id="arrow" markerWidth="10" markerHeight="7" refX="10" refY="3.5" orient="auto"><polygon points="0 0, 10 3.5, 0 7" fill="#5f6368"/></marker></defs>
+  <rect x="30" y="60" width="160" height="60" rx="8" fill="#1a73e8" opacity="0.12" stroke="#1a73e8" stroke-width="2"/>
+  <text x="110" y="85" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#1a73e8" font-weight="bold">Define search space</text>
+  <text x="110" y="103" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#5f6368">Grid / Random / Bayes</text>
+  <line x1="190" y1="90" x2="220" y2="90" stroke="#5f6368" stroke-width="2" marker-end="url(#arrow)"/>
+  <rect x="230" y="60" width="160" height="60" rx="8" fill="#34a853" opacity="0.12" stroke="#34a853" stroke-width="2"/>
+  <text x="310" y="85" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#34a853" font-weight="bold">Purged CV scoring</text>
+  <text x="310" y="103" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#5f6368">No leakage in folds</text>
+  <line x1="390" y1="90" x2="420" y2="90" stroke="#5f6368" stroke-width="2" marker-end="url(#arrow)"/>
+  <rect x="430" y="60" width="160" height="60" rx="8" fill="#fbbc04" opacity="0.12" stroke="#fbbc04" stroke-width="2"/>
+  <text x="510" y="85" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#b8860b" font-weight="bold">Deflated SR check</text>
+  <text x="510" y="103" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#5f6368">Adjust for N trials</text>
+  <line x1="590" y1="90" x2="620" y2="90" stroke="#5f6368" stroke-width="2" marker-end="url(#arrow)"/>
+  <rect x="630" y="60" width="140" height="60" rx="8" fill="#ea4335" opacity="0.12" stroke="#ea4335" stroke-width="2"/>
+  <text x="700" y="85" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#ea4335" font-weight="bold">Final model</text>
+  <text x="700" y="103" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#5f6368">Deploy if DSR > 0.95</text>
+  <text x="400" y="170" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#333" font-weight="bold">Critical: Every parameter combination tried is a hypothesis test</text>
+  <text x="400" y="200" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#5f6368">Without the deflated Sharpe ratio correction, the best config will always look good by chance</text>
+  <text x="400" y="230" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#5f6368">Use Bayesian optimization (Optuna, Hyperopt) to reduce the number of trials needed</text>
+</svg>
