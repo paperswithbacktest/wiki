@@ -26,9 +26,13 @@ Where $\sigma^2_{\text{noise}}$ is the variance of noise trading, which prevents
 
 The Grossman-Stiglitz framework directly explains the economics of alternative data in algo trading:
 
+The paper's central message — that information has value only if markets are imperfect, and markets are imperfect only if information is costly — has proven remarkably prescient in the age of alternative data. It predicted, decades in advance, the exact dynamics we observe today: a continuous arms race for informational advantage, where each new data source provides temporary alpha that erodes as adoption spreads, driving the search for ever-newer sources.
+
 **Alternative data has value precisely because it is costly.** Satellite imagery, [credit card transaction feeds](https://paperswithbacktest.com/wiki/credit-card-transaction-data-trading), and [NLP sentiment](https://paperswithbacktest.com/wiki/nlp-sentiment-analysis-trading) are expensive to acquire and complex to process. This cost barrier ensures that not all market participants use the data, preserving informational advantage for those who do.
 
 **Alpha decay is the equilibrium adjustment mechanism.** When alternative data is new and few traders use it, the information advantage is large. As adoption grows, the cost effectively decreases (shared vendor costs, better tools), and the alpha shrinks — but never to zero, because some cost always remains.
+
+**Alpha decay is the equilibrium adjustment mechanism.** When alternative data is new and few traders use it, the information advantage is large. As adoption grows, the cost effectively decreases (shared vendor costs, better tools, vendor consolidation), and the alpha shrinks — but never to zero, because some cost always remains. This is why the [horizon effect](https://paperswithbacktest.com/wiki/alternative-data-horizon-effect) is not an anomaly but an equilibrium phenomenon predicted by Grossman-Stiglitz: signal value decays to the point where marginal traders are indifferent between paying for the data and not paying.
 
 **Noise trading preserves the opportunity.** Even if many funds use the same data, retail investor noise, institutional constraints, and behavioral biases prevent prices from instantly adjusting. The [horizon effect](https://paperswithbacktest.com/wiki/alternative-data-horizon-effect) is a direct consequence: alternative data's alpha is strongest at short horizons before the information diffuses through the market.
 
