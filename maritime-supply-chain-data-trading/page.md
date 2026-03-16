@@ -14,6 +14,12 @@ When this raw AIS data is processed at scale — tracking ~100,000 commercial ve
 
 The key insight: **vessels are the physical embodiment of global supply and demand**. By monitoring them, traders observe the real economy in motion.
 
+The use of maritime data in finance has a longer history than most people realize. Commodity trading houses like Vitol, Trafigura, and Glencore have tracked shipping movements for decades as core intelligence for their physical trading operations. What changed in the 2010s was the democratization of AIS data and the application of machine learning to process it at scale. Companies like Kpler (founded 2014) and Vortexa (founded 2016) built platforms that ingest billions of AIS position reports, combine them with port infrastructure databases and vessel characteristic data, and output cargo-level trade flow estimates that previously required teams of analysts and proprietary intelligence networks.
+
+The COVID-19 pandemic and subsequent supply chain crisis of 2021–2022 dramatically raised the profile of maritime data in mainstream finance. As port congestion at Long Beach and Shanghai made front-page news, funds that had been quietly using maritime data for years found themselves with a significant informational advantage. They could quantify the severity of port backlogs, estimate the timeline for normalization, and position in affected sectors — container shipping equities, consumer retail stocks vulnerable to inventory shortages, and commodity futures — weeks before the economic impact appeared in official statistics.
+
+For algo traders, the structural advantage of maritime data lies in its physics-based nature. Unlike sentiment data (which can be manipulated) or transaction data (which depends on panel construction), vessel positions are governed by the physical constraints of global shipping: a VLCC carrying 2 million barrels of crude oil takes 40 days to sail from the Persian Gulf to China, and there is no way to make it go faster. This predictability creates a window of informational advantage that is difficult to arbitrage away, because the lead time is determined by ship speed, not by market structure.
+
 ![Diagram showing maritime data pipeline from AIS to trading signals](images/maritime-data-pipeline.svg)
 
 ## Core Use Cases for Algo Trading
