@@ -143,6 +143,13 @@ As with any approach in [quantitative trading using neural networks](https://pap
 
 LLM trading agents represent a genuine architectural shift: instead of encoding market intelligence as rules, you provide the agent with tools and data, and let the language model reason its way to a decision. The perception → reasoning → action loop, amplified by multi-agent debate and memory, produces systems that can process richer inputs and adapt faster than classical algos. The trade-off is latency, cost, and non-determinism — which means these agents complement rather than replace well-backtested systematic strategies. For practitioners, the most pragmatic path forward is to use LLM agents as an orchestration layer on top of proven quantitative signals, combining the rigour of rule-based systems with the flexibility of natural-language reasoning.
 
+## See Also
+
+- [LLMs as World Models for Finance](https://paperswithbacktest.com/wiki/llms-as-world-models-finance) — Do LLMs implicitly learn world models of economic dynamics?
+- [Model-Based Reinforcement Learning for Trading](https://paperswithbacktest.com/wiki/model-based-reinforcement-learning-trading) — How learned world models make RL agents more sample-efficient
+- [Dream-to-Real Transfer in Trading Agents](https://paperswithbacktest.com/wiki/dream-to-real-transfer-trading-agents) — Bridging the gap between simulated and live trading
+- [Agent-Based Models in Finance](https://paperswithbacktest.com/wiki/agent-based-models-finance) — Multi-agent simulation environments for training trading agents
+
 ---
 
 **Explore further on PapersWithBacktest:**
