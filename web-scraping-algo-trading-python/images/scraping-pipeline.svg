@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 300" width="800" height="300">
+  <rect width="800" height="300" fill="white"/>
+  <defs><marker id="arr" markerWidth="10" markerHeight="7" refX="10" refY="3.5" orient="auto"><polygon points="0 0, 10 3.5, 0 7" fill="#5f6368"/></marker></defs>
+  <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="17" fill="#202124" font-weight="bold">Web Scraping Pipeline for Trading Signals</text>
+  <rect x="30" y="60" width="130" height="55" rx="8" fill="#e8f0fe" stroke="#1a73e8" stroke-width="2"/>
+  <text x="95" y="85" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#1a73e8" font-weight="bold">Target Websites</text>
+  <text x="95" y="102" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#5f6368">Job boards, e-commerce</text>
+  <line x1="160" y1="87" x2="195" y2="87" stroke="#5f6368" stroke-width="2" marker-end="url(#arr)"/>
+  <rect x="205" y="60" width="130" height="55" rx="8" fill="#e6f4ea" stroke="#34a853" stroke-width="2"/>
+  <text x="270" y="85" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#34a853" font-weight="bold">Scraper</text>
+  <text x="270" y="102" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#5f6368">Requests + BS4/Scrapy</text>
+  <line x1="335" y1="87" x2="370" y2="87" stroke="#5f6368" stroke-width="2" marker-end="url(#arr)"/>
+  <rect x="380" y="60" width="130" height="55" rx="8" fill="#fef7e0" stroke="#a87000" stroke-width="2"/>
+  <text x="445" y="85" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#a87000" font-weight="bold">Database</text>
+  <text x="445" y="102" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#5f6368">Clean, normalize, store</text>
+  <line x1="510" y1="87" x2="545" y2="87" stroke="#5f6368" stroke-width="2" marker-end="url(#arr)"/>
+  <rect x="555" y="60" width="130" height="55" rx="8" fill="#fce8e6" stroke="#ea4335" stroke-width="2"/>
+  <text x="620" y="85" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#ea4335" font-weight="bold">Signal Engine</text>
+  <text x="620" y="102" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#5f6368">YoY changes, z-scores</text>
+  <rect x="100" y="160" width="600" height="35" rx="6" fill="#f8f9fa" stroke="#dadce0" stroke-width="1"/>
+  <text x="400" y="183" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#5f6368">Data types: product prices, job postings, reviews, inventory, app rankings</text>
+  <rect x="150" y="230" width="500" height="35" rx="6" fill="#fef7e0" stroke="#a87000" stroke-width="1"/>
+  <text x="400" y="253" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#a87000">⚠ Always respect robots.txt, rate limits, and Terms of Service</text>
+</svg>
