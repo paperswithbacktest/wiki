@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 350" width="800" height="350">
+  <rect width="800" height="350" fill="white"/>
+  <defs><marker id="arrow" markerWidth="10" markerHeight="7" refX="10" refY="3.5" orient="auto"><polygon points="0 0, 10 3.5, 0 7" fill="#5f6368"/></marker></defs>
+  <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" fill="#333" font-weight="bold">Hidden Markov Model for Trading</text>
+  <text x="70" y="70" font-family="Arial, sans-serif" font-size="13" fill="#7b1fa2" font-weight="bold">Hidden States:</text>
+  <circle cx="200" cy="110" r="40" fill="#e8f0fe" stroke="#1a73e8" stroke-width="2"/>
+  <text x="200" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#1a73e8" font-weight="bold">Bull</text>
+  <text x="200" y="120" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#5f6368">μ₁, σ₁</text>
+  <circle cx="500" cy="110" r="40" fill="#fce4ec" stroke="#ea4335" stroke-width="2"/>
+  <text x="500" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#ea4335" font-weight="bold">Bear</text>
+  <text x="500" y="120" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#5f6368">μ₂, σ₂</text>
+  <path d="M 240 95 Q 350 40 460 95" fill="none" stroke="#5f6368" stroke-width="2" marker-end="url(#arrow)"/>
+  <text x="350" y="55" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#5f6368">p₁₂</text>
+  <path d="M 460 125 Q 350 180 240 125" fill="none" stroke="#5f6368" stroke-width="2" marker-end="url(#arrow)"/>
+  <text x="350" y="170" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#5f6368">p₂₁</text>
+  <path d="M 170 80 Q 140 50 170 80" fill="none" stroke="#1a73e8" stroke-width="1.5"/>
+  <circle cx="160" cy="75" r="15" fill="none" stroke="#1a73e8" stroke-width="1.5"/>
+  <text x="130" y="62" font-family="Arial, sans-serif" font-size="9" fill="#1a73e8">p₁₁</text>
+  <circle cx="540" cy="75" r="15" fill="none" stroke="#ea4335" stroke-width="1.5"/>
+  <text x="565" y="62" font-family="Arial, sans-serif" font-size="9" fill="#ea4335">p₂₂</text>
+  <text x="70" y="220" font-family="Arial, sans-serif" font-size="13" fill="#7b1fa2" font-weight="bold">Observations:</text>
+  <rect x="150" y="230" width="100" height="40" rx="6" fill="white" stroke="#34a853" stroke-width="1.5"/>
+  <text x="200" y="255" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#333">r₁</text>
+  <rect x="280" y="230" width="100" height="40" rx="6" fill="white" stroke="#34a853" stroke-width="1.5"/>
+  <text x="330" y="255" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#333">r₂</text>
+  <rect x="410" y="230" width="100" height="40" rx="6" fill="white" stroke="#34a853" stroke-width="1.5"/>
+  <text x="460" y="255" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#333">r₃</text>
+  <rect x="540" y="230" width="100" height="40" rx="6" fill="white" stroke="#34a853" stroke-width="1.5"/>
+  <text x="590" y="255" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#333">...</text>
+  <line x1="200" y1="150" x2="200" y2="230" stroke="#5f6368" stroke-width="1.5" stroke-dasharray="4,3" marker-end="url(#arrow)"/>
+  <line x1="500" y1="150" x2="460" y2="230" stroke="#5f6368" stroke-width="1.5" stroke-dasharray="4,3" marker-end="url(#arrow)"/>
+  <text x="400" y="310" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#555">States are hidden (bull/bear regime) · Only returns rₜ are observed</text>
+  <text x="400" y="335" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#555">Viterbi algorithm decodes most likely state sequence → trading signal</text>
+</svg>
