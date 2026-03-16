@@ -18,6 +18,10 @@ The two main branches are:
 
 Both approaches convert text into vectors — numerical representations that can be processed by trading algorithms just like price or volume data.
 
+The significance of NLP for algo trading cannot be overstated. Estimates suggest that over 80% of the world's data is unstructured — primarily text — and financial markets are no exception. Earnings call transcripts alone generate millions of words per quarter across publicly traded companies. SEC filings, news wires, research reports, social media, and central bank communications add orders of magnitude more. Before NLP, this vast corpus of information was accessible only to human analysts who could read a handful of reports per day. With modern NLP, a systematic fund can process every filing, every transcript, and every headline across the entire market in seconds — and extract quantitative signals that humans simply cannot compute at scale.
+
+The practical alpha from NLP comes from two distinct sources. First, **speed**: parsing an 8-K filing within seconds of its appearance on [EDGAR](https://paperswithbacktest.com/wiki/sec-filing-edgar-data-trading) and generating a sentiment score before human analysts have even opened the document. Second, **consistency**: applying the same analytical framework to every document, every time, without the cognitive biases and attention limitations that affect human readers. A human analyst might read the same earnings call transcript differently depending on whether they had a good or bad morning; a sentiment model produces the same score regardless.
+
 ## Evolution of NLP Methods in Finance
 
 The field has evolved through four distinct generations, each offering increasingly powerful signal extraction:
