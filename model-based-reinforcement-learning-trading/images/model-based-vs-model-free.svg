@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" width="800" height="450">
+  <rect width="800" height="450" fill="white"/>
+  <defs>
+    <marker id="arrow" markerWidth="10" markerHeight="7" refX="10" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#5f6368"/>
+    </marker>
+    <marker id="arrowBlue" markerWidth="10" markerHeight="7" refX="10" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#1a73e8"/>
+    </marker>
+  </defs>
+
+  <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" fill="#333" font-weight="bold">Model-Based vs Model-Free RL for Trading</text>
+
+  <!-- Model-Free side -->
+  <rect x="30" y="55" width="340" height="370" rx="12" fill="#fce4ec" stroke="#ea4335" stroke-width="2"/>
+  <text x="200" y="82" text-anchor="middle" font-family="Arial, sans-serif" font-size="15" fill="#ea4335" font-weight="bold">Model-Free RL</text>
+
+  <rect x="120" y="100" width="160" height="45" rx="6" fill="white" stroke="#ea4335" stroke-width="1.5"/>
+  <text x="200" y="127" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#333">Agent (Policy π)</text>
+
+  <rect x="120" y="195" width="160" height="45" rx="6" fill="white" stroke="#ea4335" stroke-width="1.5"/>
+  <text x="200" y="222" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#333">Real Market</text>
+
+  <line x1="165" y1="145" x2="165" y2="195" stroke="#ea4335" stroke-width="2" marker-end="url(#arrow)"/>
+  <text x="130" y="175" font-family="Arial, sans-serif" font-size="10" fill="#ea4335">action</text>
+
+  <line x1="235" y1="195" x2="235" y2="145" stroke="#ea4335" stroke-width="2" marker-end="url(#arrow)"/>
+  <text x="248" y="175" font-family="Arial, sans-serif" font-size="10" fill="#ea4335">reward</text>
+
+  <rect x="60" y="280" width="280" height="60" rx="6" fill="#ea4335" opacity="0.1" stroke="#ea4335" stroke-width="1"/>
+  <text x="200" y="300" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#ea4335">DQN, PPO, A2C</text>
+  <text x="200" y="318" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#ea4335">Millions of samples needed</text>
+  <text x="200" y="336" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#ea4335">No internal model of dynamics</text>
+
+  <!-- Model-Based side -->
+  <rect x="420" y="55" width="355" height="370" rx="12" fill="#e8f5e9" stroke="#34a853" stroke-width="2"/>
+  <text x="597" y="82" text-anchor="middle" font-family="Arial, sans-serif" font-size="15" fill="#1e7e34" font-weight="bold">Model-Based RL (World Model)</text>
+
+  <rect x="515" y="100" width="165" height="45" rx="6" fill="white" stroke="#34a853" stroke-width="1.5"/>
+  <text x="597" y="127" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#333">Agent (Policy π)</text>
+
+  <rect x="440" y="195" width="130" height="45" rx="6" fill="white" stroke="#34a853" stroke-width="1.5"/>
+  <text x="505" y="222" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#333">Real Market</text>
+
+  <rect x="610" y="195" width="145" height="45" rx="6" fill="#1a73e8" opacity="0.15" stroke="#1a73e8" stroke-width="2"/>
+  <text x="682" y="215" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#1a73e8" font-weight="bold">Learned World</text>
+  <text x="682" y="232" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#1a73e8" font-weight="bold">Model f_θ</text>
+
+  <line x1="560" y1="145" x2="505" y2="195" stroke="#34a853" stroke-width="1.5" marker-end="url(#arrow)"/>
+  <line x1="635" y1="145" x2="682" y2="195" stroke="#1a73e8" stroke-width="2" marker-end="url(#arrowBlue)"/>
+  <text x="700" y="175" font-family="Arial, sans-serif" font-size="10" fill="#1a73e8">dream</text>
+
+  <line x1="505" y1="195" x2="560" y2="145" stroke="#34a853" stroke-width="1.5" marker-end="url(#arrow)"/>
+  <line x1="682" y1="195" x2="635" y2="145" stroke="#1a73e8" stroke-width="2" marker-end="url(#arrowBlue)"/>
+
+  <rect x="450" y="280" width="300" height="60" rx="6" fill="#34a853" opacity="0.1" stroke="#34a853" stroke-width="1"/>
+  <text x="600" y="300" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#1e7e34">Dreamer, MuZero, Dyna</text>
+  <text x="600" y="318" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#1e7e34">10-100× more sample efficient</text>
+  <text x="600" y="336" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#1e7e34">Plans via internal simulation</text>
+
+  <!-- Bottom label -->
+  <rect x="200" y="395" width="400" height="35" rx="8" fill="#f5f5f5" stroke="#999" stroke-width="1"/>
+  <text x="400" y="417" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#555">In trading: real market data is expensive → world models save samples</text>
+</svg>
