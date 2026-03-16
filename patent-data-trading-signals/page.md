@@ -10,7 +10,13 @@ Patent filing data captures a dimension of company value that traditional financ
 
 Patent data for trading consists of structured records from patent offices — primarily the United States Patent and Trademark Office (USPTO), the European Patent Office (EPO), and the World Intellectual Property Organization (WIPO). Key data points include filing dates and grant dates, patent claims (scope of protection), technology classification codes (CPC/IPC), citation counts (forward and backward), inventor names and assignee companies, and patent family size (filings across jurisdictions).
 
-The trading thesis rests on the finding that companies with higher patent activity — measured by filings, citations, or claim breadth — tend to outperform peers over 6–18 month horizons.
+The trading thesis rests on the finding that companies with higher patent activity — measured by filings, citations, or claim breadth — tend to outperform peers over 6–18 month horizons. This is one of the most robust findings in the asset pricing literature, documented by Gu and Lev (2004), Hirschey and Richardson (2004), and more recently by Kogan, Papanikolaou, Seru, and Stoffman (2017).
+
+What makes patent data especially interesting as an [alternative data](https://paperswithbacktest.com/wiki/how-can-alternative-data-be-integrated-into-quantitative-trading) source is its extremely low correlation with traditional price-based factors. Momentum, value, and quality factors capture different dimensions of stock returns, but none of them measures innovation directly. Patent data fills this gap. A company can be cheap (high book-to-market), have negative momentum (falling stock price), and still be investing heavily in breakthrough R&D that the market has not yet priced. Patent data catches these cases.
+
+The signal also benefits from a structural time lag that protects it from rapid [alpha decay](https://paperswithbacktest.com/wiki/alternative-data-horizon-effect). Because patents are published 18 months after filing, and because the market often takes additional months to fully process the implications of patent portfolios, the information advantage can persist for 12–24 months — far longer than the typical 1–4 week horizon for transaction or sentiment data. This makes patent data especially attractive for longer-horizon strategies like thematic equity or growth-quality factor portfolios.
+
+The pharmaceutical sector provides some of the clearest examples. When a biotech company files a patent covering a novel drug mechanism, it signals potential future revenue streams — new drug candidates, expanded indications, or defensive moats around existing products. Patent analysis can identify these filings months before the company makes a public announcement, giving traders a window to position before the market reacts.
 
 ## How Patent Data Creates Trading Signals
 
