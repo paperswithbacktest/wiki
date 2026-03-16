@@ -20,17 +20,25 @@ Where $\alpha(h)$ is the excess return at forecast horizon $h$, $\alpha_0$ is th
 
 ![Diagram showing how alternative data alpha decays over forecast horizons](images/alpha-decay-diagram.svg)
 
+## Historical Context: From Information Asymmetry to Data Arms Race
+
+The concept of informational edges in trading is not new — what has changed is the speed at which those edges erode. In the 1980s, a trader with access to proprietary shipping manifests or regional sales data could profit for months before the information became widely known. The digitization of markets compressed this window to weeks. The rise of alternative data has compressed it further still, to days or even hours in the most liquid markets.
+
+The alternative data industry emerged in the early 2010s, when a handful of pioneering firms — notably RS Metrics (satellite imagery of retail parking lots, founded 2010) and Second Measure (credit card panel data, founded 2015) — began selling non-traditional datasets to hedge funds. Early adopters, particularly quantitative macro and long-short equity funds like Two Sigma and Point72, reported significant alpha from these sources. By 2020, the alternative data market had grown to over $4 billion, and the number of vendors exceeded 400. This rapid expansion is itself evidence of the horizon effect: as more participants access the same data, the informational advantage per participant shrinks.
+
+Understanding this historical trajectory is essential because it reveals a pattern that repeats with every new data source. What happened with satellite imagery in 2014–2018 is now happening with LLM-derived sentiment signals: early adopters capture outsized returns, then alpha compresses as adoption spreads.
+
 ## How the Horizon Effect Works in Practice
 
-The lifecycle of an alternative data signal follows a predictable pattern:
+The lifecycle of an alternative data signal follows a predictable three-phase pattern, and recognizing which phase a given dataset is in can save traders enormous amounts of money and effort.
 
-**Phase 1 — Early Adopter Edge**: A small number of quantitative funds discover that, say, satellite-derived parking lot counts predict retail earnings surprises. They trade on this signal and earn outsized returns. The data is expensive and hard to process, limiting adoption.
+**Phase 1 — Early Adopter Edge**: A small number of quantitative funds discover that, say, satellite-derived parking lot counts predict retail earnings surprises. They trade on this signal and earn outsized returns. The data is expensive and hard to process, limiting adoption. During this phase, the signal may show IC values of 0.08–0.12 at short horizons — exceptional by quant standards. This phase typically lasts 2–4 years for a genuinely novel data source.
 
-**Phase 2 — Commoditization**: More funds license the same data. Vendors emerge offering cleaned, structured feeds. The signal gets crowded. The alpha at short horizons shrinks but remains positive. At longer horizons, it was already weak.
+**Phase 2 — Commoditization**: More funds license the same data. Vendors emerge offering cleaned, structured feeds. The signal gets crowded. The alpha at short horizons shrinks but remains positive. At longer horizons, it was already weak. During this phase, IC values compress to 0.03–0.06, and the signal becomes one input among many in multi-factor models rather than a standalone edge. This is where most alternative data sources live today.
 
-**Phase 3 — Creative Destruction**: Traders move to newer, less crowded data sources — perhaps combining parking lot data with credit card transaction feeds for a richer composite signal. The cycle restarts.
+**Phase 3 — Creative Destruction**: Traders move to newer, less crowded data sources — perhaps combining parking lot data with credit card transaction feeds for a richer composite signal. The cycle restarts. Importantly, the old data source does not become worthless — it becomes a commodity factor, similar to how traditional value and momentum factors still generate modest returns despite decades of widespread use.
 
-Foucault and Frésard (2023) formalize this in the context of cross-sectional versus time-series predictions. They show that alternative data's value for **cross-sectional** stock selection (which stock will outperform?) decays more slowly than its value for **time-series** prediction of a single stock's return. This is because relative rankings are more stable than absolute levels.
+Foucault and Frésard (2023) formalize this in the context of cross-sectional versus time-series predictions. They show that alternative data's value for **cross-sectional** stock selection (which stock will outperform?) decays more slowly than its value for **time-series** prediction of a single stock's return. This is because relative rankings are more stable than absolute levels. This finding has profound practical implications: it suggests that long-short equity strategies are the most natural home for alternative data signals, because cross-sectional bets are inherently more insulated from the horizon effect than directional bets on individual stocks or the market.
 
 ## Measuring Signal Decay with Python
 
@@ -97,9 +105,11 @@ The key diagnostic: if IC drops sharply beyond 5–10 days, your signal is short
 
 ## Limitations and Risks
 
-The horizon effect is not a law — it is an empirical regularity. Some alternative data sources maintain predictive power at longer horizons, particularly those capturing slow-moving structural shifts (e.g., ESG scores, patent filings). Survivorship bias also plays a role: we hear about the signals that worked, not the hundreds that never delivered alpha at any horizon.
+The horizon effect is not a law — it is an empirical regularity. Some alternative data sources maintain predictive power at longer horizons, particularly those capturing slow-moving structural shifts. [ESG scores](https://paperswithbacktest.com/wiki/esg-alternative-data-trading), for instance, predict returns over 6–18 month horizons because they capture governance and operational quality that changes gradually. [Patent filings](https://paperswithbacktest.com/wiki/patent-data-trading-signals) similarly reflect long-term innovation trajectories. Survivorship bias also plays a role: we hear about the signals that worked, not the hundreds that never delivered alpha at any horizon.
 
-Additionally, transaction costs matter enormously. A signal with strong 1-day IC but requiring daily turnover of the entire portfolio may be unprofitable after costs. The effective horizon must account for break-even turnover.
+Additionally, transaction costs matter enormously. A signal with strong 1-day IC but requiring daily turnover of the entire portfolio may be unprofitable after costs. The effective horizon must account for break-even turnover — the point where alpha earned from rebalancing equals the transaction costs incurred. For a typical institutional portfolio trading mid-cap US equities, round-trip costs (spread plus market impact) run 20–50 basis points. If your daily alpha from alternative data is 5 basis points, you are underwater after costs.
+
+There is also a subtlety around signal decay versus market regime dependence. A signal may appear to decay when in reality its predictive power is regime-dependent — strong during earnings seasons and weak between them, for example. Conflating regime-dependence with horizon decay leads to incorrect conclusions about optimal rebalancing frequency. The proper diagnostic is to run IC analysis separately within each regime, not just across time.
 
 ## Conclusion
 
