@@ -82,6 +82,12 @@ As economic systems grow more interconnected and complex, it becomes increasingl
 
 Ongoing advancements in economic modeling and technology will likely continue to influence the application of the IS-LM model. Machine learning and data analytics, for instance, could further refine how this model is used within trading algorithms, potentially enhancing its relevance and efficiency. As these technologies evolve, they could facilitate more accurate economic predictions and more agile trading strategies, ensuring that the IS-LM model remains a valuable asset in both macroeconomic theory and practice.
 
+## See Also
+
+- [What Is a World Model? (Economics & AI)](https://paperswithbacktest.com/wiki/what-is-a-world-model-economics-ai) — How the IS-LM model fits into the broader family of economic world models
+- [DSGE Models Explained](https://paperswithbacktest.com/wiki/dsge-models-explained-algo-trading) — The micro-founded successor to IS-LM used by central banks
+- [Vector Autoregression (VAR) Models](https://paperswithbacktest.com/wiki/vector-autoregression-var-models-trading) — Empirical macro models that complement IS-LM theory
+
 ## References & Further Reading
 
 [1]: Hicks, John R. (1937). "Mr. Keynes and the 'Classics'; A Suggested Interpretation." Econometrica, 5(2), 147-159. [JSTOR](https://www.nber.org/system/files/working_papers/w29158/w29158.pdf)
