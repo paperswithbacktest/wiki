@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 350" width="800" height="350">
+  <rect width="800" height="350" fill="white"/>
+  <defs><marker id="arrow" markerWidth="10" markerHeight="7" refX="10" refY="3.5" orient="auto"><polygon points="0 0, 10 3.5, 0 7" fill="#5f6368"/></marker></defs>
+  <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="17" fill="#202124" font-weight="bold">Foot Traffic Data Pipeline</text>
+  <rect x="30" y="55" width="140" height="60" rx="8" fill="#e8f0fe" stroke="#1a73e8" stroke-width="2"/>
+  <text x="100" y="82" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#1a73e8" font-weight="bold">Mobile GPS</text>
+  <text x="100" y="100" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#5f6368">Anonymized pings</text>
+  <line x1="170" y1="85" x2="210" y2="85" stroke="#5f6368" stroke-width="2" marker-end="url(#arrow)"/>
+  <rect x="220" y="55" width="140" height="60" rx="8" fill="#e6f4ea" stroke="#34a853" stroke-width="2"/>
+  <text x="290" y="82" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#34a853" font-weight="bold">Venue Matching</text>
+  <text x="290" y="100" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#5f6368">POI attribution</text>
+  <line x1="360" y1="85" x2="400" y2="85" stroke="#5f6368" stroke-width="2" marker-end="url(#arrow)"/>
+  <rect x="410" y="55" width="140" height="60" rx="8" fill="#fef7e0" stroke="#a87000" stroke-width="2"/>
+  <text x="480" y="82" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#a87000" font-weight="bold">Visit Metrics</text>
+  <text x="480" y="100" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#5f6368">Count, dwell, frequency</text>
+  <line x1="550" y1="85" x2="590" y2="85" stroke="#5f6368" stroke-width="2" marker-end="url(#arrow)"/>
+  <rect x="600" y="55" width="140" height="60" rx="8" fill="#fce8e6" stroke="#ea4335" stroke-width="2"/>
+  <text x="670" y="82" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#ea4335" font-weight="bold">Trading Signal</text>
+  <text x="670" y="100" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#5f6368">Revenue nowcast</text>
+  <rect x="100" y="160" width="200" height="55" rx="6" fill="#f8f9fa" stroke="#dadce0" stroke-width="1"/>
+  <text x="200" y="185" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#202124" font-weight="bold">Same-Store Sales</text>
+  <text x="200" y="202" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#5f6368">Visit YoY vs consensus</text>
+  <rect x="350" y="160" width="200" height="55" rx="6" fill="#f8f9fa" stroke="#dadce0" stroke-width="1"/>
+  <text x="450" y="185" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#202124" font-weight="bold">Competitive Intel</text>
+  <text x="450" y="202" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#5f6368">Share of visits</text>
+  <rect x="100" y="260" width="500" height="40" rx="6" fill="#e8f0fe" stroke="#1a73e8" stroke-width="1"/>
+  <text x="350" y="285" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#1a73e8" font-style="italic">Key metrics: visit count, dwell time, visit frequency, trade area overlap</text>
+</svg>
