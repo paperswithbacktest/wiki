@@ -14,6 +14,12 @@ The core trading thesis is direct: more visitors to a company's locations typica
 
 Unlike [satellite imagery](https://paperswithbacktest.com/wiki/satellite-imagery-trading) which counts cars in parking lots, geolocation data captures individual device visits, enabling richer metrics: visit frequency, dwell time, visit duration, cross-shopping patterns, and trade area analysis.
 
+The foot traffic data industry emerged in the mid-2010s as smartphones became ubiquitous and mobile apps began requesting location permissions. Companies like SafeGraph (now Dewey) and Placer.ai built businesses around aggregating anonymized GPS signals from tens of millions of mobile devices, matching those signals to specific points of interest (retail stores, restaurants, hospitals, amusement parks), and packaging the results into analytics dashboards and data feeds consumed by hedge funds and asset managers.
+
+What makes foot traffic data particularly appealing compared to other alternative data types is its **intuitiveness**. A portfolio manager does not need a PhD in computer science to understand why more visitors to Chipotle locations means more revenue for Chipotle. This transparency makes foot traffic data easier to get approved through internal risk committees and compliance processes, which is a non-trivial advantage in institutional settings where novel data sources face scrutiny. It also makes the signal easier to explain to investors in fund letters and due diligence meetings — an underappreciated practical consideration.
+
+The academic evidence supporting foot traffic as a trading signal has grown considerably. Katona, Painter, Patatoukas, and Zeng (2023) demonstrated that changes in foot traffic predict earnings surprises with economically significant accuracy, particularly for retail and restaurant companies. Their research showed that the signal is strongest in the final two weeks before an earnings announcement — the period when the quarter's results are essentially determined but not yet reported, and when [transaction data](https://paperswithbacktest.com/wiki/credit-card-transaction-data-trading) and foot traffic data provide the clearest informational advantage.
+
 ![Diagram showing foot traffic data pipeline from mobile devices to trading signals](images/foot-traffic-pipeline.svg)
 
 ## How Foot Traffic Data Creates Trading Signals
