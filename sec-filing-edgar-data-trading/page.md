@@ -4,7 +4,7 @@ title: 'SEC Filing Analysis and EDGAR Data for Trading (Algo Trading)'
 description: How to extract trading signals from SEC filings and EDGAR data using NLP and Python — 10-K, 10-Q, 8-K analysis for algorithmic trading.
 ---
 
-SEC filings are a goldmine of [alternative data](https://paperswithbacktest.com/wiki/best-alternative-data) hiding in plain sight. While every investor has access to 10-K, 10-Q, and 8-K filings through the EDGAR database, the alpha lies in **how quickly and systematically** you process them. Algo traders using [NLP](https://paperswithbacktest.com/wiki/nlp-sentiment-analysis-trading) to parse filings can extract sentiment shifts, risk factor changes, and accounting anomalies within seconds of publication — far faster than any human analyst.
+SEC filings represent one of the richest and most underexploited sources of [alternative data](https://paperswithbacktest.com/wiki/best-alternative-data) in financial markets — a goldmine hiding in plain sight. While every investor has access to 10-K, 10-Q, and 8-K filings through the EDGAR database, the alpha lies in **how quickly and systematically** you process them. Algo traders using [NLP](https://paperswithbacktest.com/wiki/nlp-sentiment-analysis-trading) to parse filings can extract sentiment shifts, risk factor changes, and accounting anomalies within seconds of publication — far faster than any human analyst.
 
 ## What Is EDGAR Data in Trading?
 
@@ -20,6 +20,12 @@ EDGAR (Electronic Data Gathering, Analysis, and Retrieval) is the SEC's system f
 | DEF 14A | Proxy statements | Annual | Governance, executive compensation |
 
 The EDGAR system provides free, real-time access to all filings via its EDGAR Full-Text Search API and the SEC's structured data feeds (XBRL).
+
+What makes SEC filing analysis uniquely compelling among alternative data sources is the combination of **zero data cost** and **regulatory mandate**. Unlike [transaction data](https://paperswithbacktest.com/wiki/credit-card-transaction-data-trading) ($100K–$1M per year) or [satellite imagery](https://paperswithbacktest.com/wiki/satellite-imagery-trading) ($50K–$500K per year), EDGAR data is completely free. And unlike voluntary data sources (social media posts, web traffic), SEC filings are legally required — every public company must file, and the content is governed by strict disclosure rules enforced by securities law. This means the data is comprehensive, standardized, and carries legal weight.
+
+The academic literature on textual analysis of SEC filings is extensive and well-established. Loughran and McDonald's (2011) seminal paper on financial sentiment dictionaries has been cited over 5,000 times and remains the foundation of most filing-based trading signals. Li (2008) showed that the overall tone of annual reports predicts future earnings and stock returns. Hoberg and Phillips (2016) demonstrated that textual analysis of 10-K filings can identify industry peers more accurately than standard SIC or NAICS codes — a finding that has practical applications for pairs trading and sector rotation strategies.
+
+More recently, researchers have applied [transformer-based NLP models](https://paperswithbacktest.com/wiki/nlp-sentiment-analysis-trading) to SEC filings with impressive results. FinBERT and similar domain-specific language models can detect subtle shifts in managerial tone — hedging language, qualifications, forward-looking statement changes — that the simpler word-counting approaches miss. The combination of free data and improving analytical tools makes SEC filing analysis one of the most accessible entry points for quant traders building alternative data capabilities.
 
 ## How SEC Filing Data Creates Trading Signals
 
