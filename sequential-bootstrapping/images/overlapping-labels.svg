@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 350" width="800" height="350">
+  <rect width="800" height="350" fill="white"/>
+  <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" fill="#1a1a1a" font-weight="bold">Why Standard Bootstrapping Fails with Overlapping Labels</text>
+  <text x="400" y="55" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#5f6368">Triple-barrier labels span multiple bars, creating temporal dependencies</text>
+  <line x1="80" y1="120" x2="720" y2="120" stroke="#999" stroke-width="1.5"/>
+  <text x="50" y="125" font-family="Arial, sans-serif" font-size="11" fill="#5f6368">Time →</text>
+  <!-- Sample A -->
+  <rect x="100" y="90" width="200" height="25" rx="4" fill="#1a73e8" opacity="0.25" stroke="#1a73e8" stroke-width="1.5"/>
+  <text x="200" y="108" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#1a73e8" font-weight="bold">Label A (t₁ to t₁+h)</text>
+  <!-- Sample B overlapping -->
+  <rect x="200" y="130" width="220" height="25" rx="4" fill="#ea4335" opacity="0.25" stroke="#ea4335" stroke-width="1.5"/>
+  <text x="310" y="148" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#ea4335" font-weight="bold">Label B (t₂ to t₂+h)</text>
+  <!-- Sample C overlapping -->
+  <rect x="350" y="90" width="180" height="25" rx="4" fill="#34a853" opacity="0.25" stroke="#34a853" stroke-width="1.5"/>
+  <text x="440" y="108" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#34a853" font-weight="bold">Label C (t₃ to t₃+h)</text>
+  <!-- Overlap zone -->
+  <rect x="200" y="85" width="100" height="75" rx="0" fill="#fbbc04" opacity="0.15"/>
+  <text x="250" y="180" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#b8860b">Overlap A∩B</text>
+  <rect x="350" y="85" width="70" height="75" rx="0" fill="#fbbc04" opacity="0.15"/>
+  <text x="385" y="180" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#b8860b">B∩C</text>
+  <!-- Bottom boxes -->
+  <rect x="80" y="210" width="300" height="110" rx="8" fill="#fce4ec" stroke="#ea4335" stroke-width="1.5"/>
+  <text x="230" y="235" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#ea4335" font-weight="bold">Standard Bootstrap</text>
+  <text x="230" y="258" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#5f6368">Draws samples uniformly</text>
+  <text x="230" y="275" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#5f6368">Over-represents overlapping obs</text>
+  <text x="230" y="292" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#ea4335">→ Inflated confidence, data leakage</text>
+  <rect x="420" y="210" width="300" height="110" rx="8" fill="#e8f5e9" stroke="#34a853" stroke-width="1.5"/>
+  <text x="570" y="235" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#34a853" font-weight="bold">Sequential Bootstrap</text>
+  <text x="570" y="258" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#5f6368">Draws proportional to uniqueness</text>
+  <text x="570" y="275" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#5f6368">Down-weights redundant samples</text>
+  <text x="570" y="292" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#34a853">→ Honest estimates, IID-like samples</text>
+</svg>
