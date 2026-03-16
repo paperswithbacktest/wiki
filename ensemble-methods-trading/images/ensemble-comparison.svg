@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 350" width="800" height="350">
+  <rect width="800" height="350" fill="white"/>
+  <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" fill="#1a1a1a" font-weight="bold">Ensemble Methods Comparison for Trading</text>
+  <rect x="30" y="60" width="230" height="250" rx="10" fill="#1a73e8" opacity="0.08" stroke="#1a73e8" stroke-width="2"/>
+  <text x="145" y="90" text-anchor="middle" font-family="Arial, sans-serif" font-size="15" fill="#1a73e8" font-weight="bold">Bagging</text>
+  <text x="145" y="112" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#5f6368">(Random Forest)</text>
+  <text x="145" y="140" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#333">Train N trees on</text>
+  <text x="145" y="158" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#333">bootstrap samples</text>
+  <text x="145" y="190" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#34a853">✓ Reduces variance</text>
+  <text x="145" y="210" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#34a853">✓ Parallel training</text>
+  <text x="145" y="230" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#34a853">✓ Feature importance</text>
+  <text x="145" y="260" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#ea4335">✗ Limited bias reduction</text>
+  <text x="145" y="280" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#ea4335">✗ Needs seq. bootstrap</text>
+  <rect x="285" y="60" width="230" height="250" rx="10" fill="#34a853" opacity="0.08" stroke="#34a853" stroke-width="2"/>
+  <text x="400" y="90" text-anchor="middle" font-family="Arial, sans-serif" font-size="15" fill="#34a853" font-weight="bold">Boosting</text>
+  <text x="400" y="112" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#5f6368">(XGBoost / LightGBM)</text>
+  <text x="400" y="140" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#333">Train trees sequentially,</text>
+  <text x="400" y="158" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#333">focus on errors</text>
+  <text x="400" y="190" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#34a853">✓ Reduces bias + variance</text>
+  <text x="400" y="210" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#34a853">✓ Often best accuracy</text>
+  <text x="400" y="230" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#34a853">✓ Handles missing data</text>
+  <text x="400" y="260" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#ea4335">✗ Prone to overfit</text>
+  <text x="400" y="280" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#ea4335">✗ Sequential (slower)</text>
+  <rect x="540" y="60" width="230" height="250" rx="10" fill="#fbbc04" opacity="0.08" stroke="#fbbc04" stroke-width="2"/>
+  <text x="655" y="90" text-anchor="middle" font-family="Arial, sans-serif" font-size="15" fill="#b8860b" font-weight="bold">Stacking</text>
+  <text x="655" y="112" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#5f6368">(Meta-learner)</text>
+  <text x="655" y="140" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#333">Train multiple models,</text>
+  <text x="655" y="158" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#333">combine with meta-model</text>
+  <text x="655" y="190" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#34a853">✓ Captures diverse signals</text>
+  <text x="655" y="210" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#34a853">✓ Flexible architecture</text>
+  <text x="655" y="230" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#34a853">✓ Works with meta-labels</text>
+  <text x="655" y="260" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#ea4335">✗ Complex pipeline</text>
+  <text x="655" y="280" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#ea4335">✗ Highest overfit risk</text>
+</svg>
