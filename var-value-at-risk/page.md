@@ -444,6 +444,11 @@ Python, with its versatility and expansive libraries, has proven to be an indisp
 
 Beyond mere calculations, Python's role extends to integrating VaR insights into broader financial strategies, such as portfolio optimization in Modern Portfolio Theory. The dynamic duo of Python and VaR not only streamlines risk analysis but also paves the way for innovative risk management solutions.
 
+## See Also
+
+- [Monte Carlo Simulation for Portfolio Risk](https://paperswithbacktest.com/wiki/monte-carlo-simulation-portfolio-risk) — Monte Carlo methods for computing VaR and CVaR
+- [Scenario Analysis and Stress Testing](https://paperswithbacktest.com/wiki/scenario-analysis-stress-testing-portfolio) — Complementing VaR with scenario-based risk analysis
+
 ## References & Further Reading
 
 [1]: Jorion, P. (2007). [Value at Risk: The New Benchmark for Managing Financial Risk](https://www.amazon.com/Value-Risk-Benchmark-Managing-Financial/dp/0071355022). McGraw-Hill Education.
