@@ -14,6 +14,16 @@ The key insight that makes satellite data valuable is **latitude/longitude as th
 
 The global Earth observation market has grown substantially, with dozens of satellite constellations now providing daily or sub-daily revisits of any point on the planet. For traders, this means high-frequency, objective measurements of economic activity before it shows up in quarterly earnings or government statistics.
 
+## The Rise of Satellite Data in Finance: A Brief History
+
+The use of satellite imagery in finance traces back to the early 2010s, when RS Metrics — founded by a team of geospatial engineers and former hedge fund analysts — began selling retail parking lot counts derived from high-resolution satellite imagery. The idea was elegant in its simplicity: if you could count the cars at every Walmart location in America every week, you could estimate Walmart's foot traffic before the company reported same-store sales. Early clients included some of the world's largest systematic hedge funds, and the results were compelling enough to spawn an entire industry.
+
+By 2015, Orbital Insight had raised significant venture capital to apply computer vision at scale to satellite imagery, and Planet Labs had begun deploying its constellation of small "Dove" satellites — eventually numbering over 200 — to image the entire land surface of the Earth daily. The cost of satellite imagery dropped dramatically: what once required tasking a single large satellite (at $1,000–$10,000 per image) became available through subscription models covering the entire globe.
+
+The 2020 oil price war between Saudi Arabia and Russia provided a watershed moment for satellite data in commodity trading. As oil prices collapsed and storage facilities filled, funds using satellite-derived estimates of global crude oil inventories — measuring the floating-roof tank shadows described below — had a multi-week informational lead on the market. This episode convinced many institutional investors that satellite data was not a novelty but a structural advantage.
+
+Today, the satellite data market for finance is estimated at over $500 million annually, with dozens of vendors serving hundreds of hedge funds, asset managers, and commodity trading houses. The competitive dynamics have shifted from "do you have satellite data?" to "how well can you process and combine satellite data with other [alternative data](https://paperswithbacktest.com/wiki/how-can-alternative-data-be-integrated-into-quantitative-trading) sources?"
+
 ![Diagram showing satellite data pipeline from capture to trading signal](images/satellite-pipeline-diagram.svg)
 
 ## Core Use Cases for Algo Trading
