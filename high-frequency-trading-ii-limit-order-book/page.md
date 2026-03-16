@@ -154,6 +154,11 @@ Looking ahead, advancements in technology, such as enhanced data processing capa
 
 Continued learning and exploration are vital for trading professionals and algorithm developers, given the fast-paced advancements in financial technology. Balancing innovation with effective risk management is crucial, ensuring that new strategies and tools are implemented with a robust awareness of their potential risks and shortcomings. As algorithmic trading evolves, maintaining this balance will be key to leveraging the benefits of limit order books effectively while mitigating associated risks.
 
+## See Also
+
+- [Agent-Based Models in Finance](https://paperswithbacktest.com/wiki/agent-based-models-finance) — Simulating order book dynamics with heterogeneous agents
+- [Simulated Market Environments for Algo Trading](https://paperswithbacktest.com/wiki/simulated-market-environments-algo-trading) — Building realistic market simulators for HFT strategy testing
+
 ## References & Further Reading
 
 [1]: Bouchaud, J.-P., Farmer, J. D., & Lillo, F. (2009). "How Markets Slowly Digest Changes in Supply and Demand." In T. Hens & K. R. Schenk-Hoppe (Eds.), *Handbook of Financial Markets: Dynamics and Evolution*. Elsevier. doi:10.1016/B978-012374258-2.50010-X
