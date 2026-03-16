@@ -156,6 +156,12 @@ When deciding between these strategies, traders must consider current market con
 
 Ultimately, many traders find success by integrating both strategies into their trading arsenal, allowing them to adapt to changing market dynamics. Employing machine learning algorithms and continuous data analysis can further enhance the effectiveness of these strategies. Traders who invest in learning and developing their understanding of market behaviors will be better positioned to navigate the complexities of algorithmic trading, maximizing their returns while effectively managing risks.
 
+## See Also
+
+- [Regime Detection in Financial Markets](https://paperswithbacktest.com/wiki/regime-detection-financial-markets) — How to detect when markets favor mean reversion vs momentum
+- [Hidden Markov Models for Trading](https://paperswithbacktest.com/wiki/hidden-markov-models-trading) — Probabilistic regime detection for strategy selection
+- [Global Macroeconomic Risk Model for Value and Momentum](https://paperswithbacktest.com/wiki/global-macroeconomic-risk-model-value-momentum) — Why value and momentum have opposite macro exposures
+
 ## References & Further Reading
 
 [1]: ["Statistical Arbitrage: Algorithmic Trading Insights and Techniques"](https://www.wiley.com/en-us/Statistical+Arbitrage%3A+Algorithmic+Trading+Insights+and+Techniques-p-9780470138441) by Andrew Pole
