@@ -274,6 +274,12 @@ The All Weather Portfolio stands as a testament to strategic diversification and
 
 Investors should remember that while the All Weather Portfolio is designed for stability, it requires regular maintenance and a long-term perspective. Common pitfalls can be avoided with disciplined rebalancing, vigilant monitoring, and a commitment to the portfolio's underlying principles. With these strategies in mind, investors are encouraged to consider the All Weather Portfolio as a foundational component of their investment journey, adaptable to both their individual goals and the ever-changing economic landscape.
 
+## See Also
+
+- [Macro Factor Investing Explained](https://paperswithbacktest.com/wiki/macro-factor-investing-explained) — The factor framework behind All Weather's risk parity approach
+- [DSGE Models Explained](https://paperswithbacktest.com/wiki/dsge-models-explained-algo-trading) — Macro models that formalize the regime thinking behind All Weather
+- [Scenario Analysis and Stress Testing](https://paperswithbacktest.com/wiki/scenario-analysis-stress-testing-portfolio) — Testing portfolios against macro stress scenarios
+
 ## References & Further Reading
 
 [1]: ["Principles"](https://www.principles.com/), Ray Dalio
