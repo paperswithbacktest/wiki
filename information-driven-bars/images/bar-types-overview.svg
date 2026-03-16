@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 350" width="800" height="350">
+  <rect width="800" height="350" fill="white"/>
+  <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" fill="#1a1a1a" font-weight="bold">Information-Driven Bar Types</text>
+  <rect x="40" y="60" width="340" height="120" rx="8" fill="#1a73e8" opacity="0.08" stroke="#1a73e8" stroke-width="2"/>
+  <text x="210" y="85" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#1a73e8" font-weight="bold">Imbalance Bars</text>
+  <text x="210" y="108" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#5f6368">New bar when cumulative signed</text>
+  <text x="210" y="126" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#5f6368">flow exceeds expected imbalance</text>
+  <text x="120" y="155" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#1a73e8">• Tick Imbalance</text>
+  <text x="280" y="155" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#1a73e8">• Volume Imbalance</text>
+  <text x="210" y="172" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#1a73e8">• Dollar Imbalance</text>
+  <rect x="420" y="60" width="340" height="120" rx="8" fill="#34a853" opacity="0.08" stroke="#34a853" stroke-width="2"/>
+  <text x="590" y="85" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#34a853" font-weight="bold">Run Bars</text>
+  <text x="590" y="108" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#5f6368">New bar when length of</text>
+  <text x="590" y="126" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#5f6368">directional run exceeds expected</text>
+  <text x="500" y="155" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#34a853">• Tick Runs</text>
+  <text x="660" y="155" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#34a853">• Volume Runs</text>
+  <text x="590" y="172" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#34a853">• Dollar Runs</text>
+  <rect x="80" y="210" width="640" height="110" rx="8" fill="#f8f9fa" stroke="#ddd" stroke-width="1"/>
+  <text x="400" y="240" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#333" font-weight="bold">Key Idea: Sample when information arrives</text>
+  <text x="400" y="265" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#5f6368">Imbalance bars detect when order flow is one-sided (informed traders arriving)</text>
+  <text x="400" y="285" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#5f6368">Run bars detect sustained directional sequences (momentum/trend)</text>
+  <text x="400" y="305" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#5f6368">Both produce more bars during high-information periods and fewer during calm periods</text>
+</svg>
