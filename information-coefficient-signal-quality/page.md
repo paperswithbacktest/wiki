@@ -18,6 +18,10 @@ $$\overline{IC} = \frac{1}{T} \sum_{t=1}^{T} IC_t$$
 
 A positive IC means the signal correctly predicts the relative ranking of future returns. Typical IC values for good alternative data signals range from 0.02 to 0.10.
 
+To put these numbers in perspective, an IC of 0.05 means your signal correctly ranks roughly 52.5% of stock pairs — barely above a coin flip on any individual pair, but enormously valuable when applied across hundreds of stocks simultaneously. This is the central paradox of quantitative investing: individually, each prediction is nearly worthless; collectively, they compound into significant alpha. It is also why the IC metric is far more useful than directional accuracy (hit rate) for evaluating signals — a signal can have a hit rate barely above 50% and still generate excellent risk-adjusted returns if applied with sufficient breadth.
+
+The IC framework was popularized by Richard Grinold and Ronald Kahn in their influential textbook *Active Portfolio Management* (1995, revised 2000), which remains the theoretical backbone of most institutional quant processes. Their key insight was connecting the raw predictive power of a signal (IC) to the portfolio-level performance (IR) through the breadth of application — encapsulated in the Fundamental Law described below. This framework gave portfolio managers a precise language for evaluating whether a new [alternative data](https://paperswithbacktest.com/wiki/best-alternative-data) source was worth its cost: compute its IC, estimate how frequently it can be applied, and calculate the resulting IR.
+
 ## Why IC Matters: The Fundamental Law of Active Management
 
 Grinold's (1989) Fundamental Law connects IC to portfolio performance:
