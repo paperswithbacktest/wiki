@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 350" width="800" height="350">
+  <rect width="800" height="350" fill="white"/>
+  <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="17" fill="#202124" font-weight="bold">Grossman-Stiglitz Equilibrium</text>
+  <rect x="50" y="70" width="200" height="100" rx="10" fill="#e8f0fe" stroke="#1a73e8" stroke-width="2"/>
+  <text x="150" y="100" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#1a73e8" font-weight="bold">Informed Traders</text>
+  <text x="150" y="120" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#5f6368">Pay cost c for info</text>
+  <text x="150" y="140" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#5f6368">Earn alpha from data</text>
+  <text x="150" y="158" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#5f6368">Make prices efficient</text>
+  <rect x="550" y="70" width="200" height="100" rx="10" fill="#fce8e6" stroke="#ea4335" stroke-width="2"/>
+  <text x="650" y="100" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#ea4335" font-weight="bold">Uninformed Traders</text>
+  <text x="650" y="120" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#5f6368">Pay no cost</text>
+  <text x="650" y="140" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#5f6368">Free-ride on prices</text>
+  <text x="650" y="158" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#5f6368">Accept noise</text>
+  <rect x="250" y="220" width="300" height="60" rx="10" fill="#e6f4ea" stroke="#34a853" stroke-width="2"/>
+  <text x="400" y="248" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#34a853" font-weight="bold">Equilibrium</text>
+  <text x="400" y="268" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#5f6368">π(info) - cost ≈ 0 for marginal trader</text>
+  <text x="400" y="320" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#1a73e8" font-style="italic">Markets are efficient enough that easy info is priced in, but inefficient enough that costly info retains value</text>
+</svg>
