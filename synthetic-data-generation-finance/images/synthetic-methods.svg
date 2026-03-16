@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 300" width="800" height="300">
+  <rect width="800" height="300" fill="white"/>
+  <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="17" fill="#202124" font-weight="bold">Synthetic Data Generation Methods</text>
+  <rect x="30" y="60" width="170" height="80" rx="8" fill="#e8f0fe" stroke="#1a73e8" stroke-width="2"/>
+  <text x="115" y="88" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#1a73e8" font-weight="bold">Bootstrap</text>
+  <text x="115" y="108" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#5f6368">Resample historical data</text>
+  <text x="115" y="125" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#5f6368">Simple, preserves dist.</text>
+  <rect x="220" y="60" width="170" height="80" rx="8" fill="#e6f4ea" stroke="#34a853" stroke-width="2"/>
+  <text x="305" y="88" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#34a853" font-weight="bold">GARCH</text>
+  <text x="305" y="108" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#5f6368">Volatility clustering</text>
+  <text x="305" y="125" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#5f6368">Captures fat tails</text>
+  <rect x="410" y="60" width="170" height="80" rx="8" fill="#fef7e0" stroke="#a87000" stroke-width="2"/>
+  <text x="495" y="88" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#a87000" font-weight="bold">GANs</text>
+  <text x="495" y="108" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#5f6368">Generator vs Discriminator</text>
+  <text x="495" y="125" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#5f6368">Learns full distribution</text>
+  <rect x="600" y="60" width="170" height="80" rx="8" fill="#fce8e6" stroke="#ea4335" stroke-width="2"/>
+  <text x="685" y="88" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#ea4335" font-weight="bold">VAE / Copula</text>
+  <text x="685" y="108" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#5f6368">Latent space sampling</text>
+  <text x="685" y="125" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#5f6368">Preserves correlations</text>
+  <text x="170" y="200" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#1a73e8">Simple ← → Complex</text>
+  <text x="600" y="200" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#ea4335">Less Data ← → More Data Needed</text>
+</svg>
