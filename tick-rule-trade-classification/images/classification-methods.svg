@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 380" width="800" height="380">
+  <rect width="800" height="380" fill="white"/>
+  <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" fill="#1a1a1a" font-weight="bold">Trade Classification Algorithms</text>
+  <rect x="40" y="55" width="220" height="140" rx="10" fill="#1a73e8" opacity="0.08" stroke="#1a73e8" stroke-width="2"/>
+  <text x="150" y="80" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#1a73e8" font-weight="bold">Tick Rule</text>
+  <text x="150" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#5f6368">If price > prev → buy</text>
+  <text x="150" y="123" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#5f6368">If price &lt; prev → sell</text>
+  <text x="150" y="141" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#5f6368">If price = prev → keep prev</text>
+  <text x="150" y="170" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#34a853">Simple, no quote data needed</text>
+  <text x="150" y="185" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#ea4335">Less accurate at midpoint</text>
+  <rect x="290" y="55" width="220" height="140" rx="10" fill="#34a853" opacity="0.08" stroke="#34a853" stroke-width="2"/>
+  <text x="400" y="80" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#34a853" font-weight="bold">Lee-Ready</text>
+  <text x="400" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#5f6368">If trade > midpoint → buy</text>
+  <text x="400" y="123" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#5f6368">If trade &lt; midpoint → sell</text>
+  <text x="400" y="141" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#5f6368">If at midpoint → tick rule</text>
+  <text x="400" y="170" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#34a853">More accurate with quotes</text>
+  <text x="400" y="185" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#ea4335">Requires bid-ask data</text>
+  <rect x="540" y="55" width="220" height="140" rx="10" fill="#fbbc04" opacity="0.08" stroke="#fbbc04" stroke-width="2"/>
+  <text x="650" y="80" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#b8860b" font-weight="bold">Bulk Volume (BVC)</text>
+  <text x="650" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#5f6368">Uses price change CDF</text>
+  <text x="650" y="123" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#5f6368">to split bar volume</text>
+  <text x="650" y="141" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#5f6368">into buy/sell portions</text>
+  <text x="650" y="170" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#34a853">Works on OHLCV bars only</text>
+  <text x="650" y="185" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#ea4335">Approximate, not per-trade</text>
+  <rect x="80" y="220" width="640" height="50" rx="8" fill="#f8f9fa" stroke="#ddd" stroke-width="1"/>
+  <text x="400" y="250" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#333">BVC is used by VPIN because it only needs bar data, not tick-level trade records</text>
+  <text x="400" y="310" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#5f6368">Tick rule accuracy: ~72%   |   Lee-Ready: ~85%   |   BVC: ~75% (bar-level)</text>
+  <text x="400" y="340" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#5f6368">Crypto exchanges provide aggressor flags natively, making classification unnecessary</text>
+</svg>
