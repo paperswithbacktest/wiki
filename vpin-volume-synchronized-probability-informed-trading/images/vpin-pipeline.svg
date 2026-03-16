@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400" width="800" height="400">
+  <rect width="800" height="400" fill="white"/>
+  <defs>
+    <marker id="arrow" markerWidth="10" markerHeight="7" refX="10" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#5f6368"/>
+    </marker>
+  </defs>
+  <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" fill="#1a1a1a" font-weight="bold">VPIN Computation Pipeline</text>
+  <!-- Step 1: Trade data -->
+  <rect x="30" y="60" width="150" height="80" rx="8" fill="#e3f2fd" stroke="#1a73e8" stroke-width="2"/>
+  <text x="105" y="90" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#1a73e8" font-weight="bold">Trade Data</text>
+  <text x="105" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#5f6368">Price + Volume</text>
+  <text x="105" y="126" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#5f6368">bars</text>
+  <!-- Arrow -->
+  <line x1="180" y1="100" x2="220" y2="100" stroke="#5f6368" stroke-width="2" marker-end="url(#arrow)"/>
+  <!-- Step 2: Volume buckets -->
+  <rect x="230" y="60" width="150" height="80" rx="8" fill="#e8f5e9" stroke="#34a853" stroke-width="2"/>
+  <text x="305" y="85" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#34a853" font-weight="bold">Volume Clock</text>
+  <text x="305" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#5f6368">Split into equal-</text>
+  <text x="305" y="121" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#5f6368">volume buckets (V)</text>
+  <!-- Arrow -->
+  <line x1="380" y1="100" x2="420" y2="100" stroke="#5f6368" stroke-width="2" marker-end="url(#arrow)"/>
+  <!-- Step 3: BVC -->
+  <rect x="430" y="60" width="160" height="80" rx="8" fill="#fff3e0" stroke="#fbbc04" stroke-width="2"/>
+  <text x="510" y="85" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#e65100" font-weight="bold">Bulk Volume</text>
+  <text x="510" y="103" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#e65100" font-weight="bold">Classification</text>
+  <text x="510" y="126" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#5f6368">Split V into buy/sell</text>
+  <!-- Arrow -->
+  <line x1="590" y1="100" x2="630" y2="100" stroke="#5f6368" stroke-width="2" marker-end="url(#arrow)"/>
+  <!-- Step 4: VPIN -->
+  <rect x="640" y="60" width="130" height="80" rx="8" fill="#fce4ec" stroke="#ea4335" stroke-width="2"/>
+  <text x="705" y="90" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#ea4335" font-weight="bold">VPIN</text>
+  <text x="705" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#5f6368">Rolling average</text>
+  <text x="705" y="126" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#5f6368">of |V_buy - V_sell|/V</text>
+  <!-- Formula box -->
+  <rect x="80" y="180" width="640" height="70" rx="8" fill="#f8f9fa" stroke="#ddd" stroke-width="1"/>
+  <text x="400" y="210" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#1a1a1a" font-weight="bold">VPIN Formula</text>
+  <text x="400" y="235" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#333">VPIN = (1/n) × Σ |V_buy(τ) - V_sell(τ)| / V</text>
+  <!-- Interpretation -->
+  <rect x="80" y="280" width="200" height="80" rx="6" fill="#e8f5e9" stroke="#34a853" stroke-width="1"/>
+  <text x="180" y="305" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#2e7d32" font-weight="bold">VPIN ≈ 0</text>
+  <text x="180" y="325" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#5f6368">Balanced flow</text>
+  <text x="180" y="343" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#5f6368">Low toxicity</text>
+  <rect x="300" y="280" width="200" height="80" rx="6" fill="#fff3e0" stroke="#fbbc04" stroke-width="1"/>
+  <text x="400" y="305" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#e65100" font-weight="bold">VPIN ≈ 0.5</text>
+  <text x="400" y="325" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#5f6368">Moderate imbalance</text>
+  <text x="400" y="343" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#5f6368">Caution zone</text>
+  <rect x="520" y="280" width="200" height="80" rx="6" fill="#fce4ec" stroke="#ea4335" stroke-width="1"/>
+  <text x="620" y="305" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#ea4335" font-weight="bold">VPIN > 0.7</text>
+  <text x="620" y="325" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#5f6368">Toxic flow dominant</text>
+  <text x="620" y="343" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#5f6368">Liquidity crisis risk</text>
+</svg>
