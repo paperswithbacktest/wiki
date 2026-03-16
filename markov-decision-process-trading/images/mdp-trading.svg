@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 350" width="800" height="350">
+  <rect width="800" height="350" fill="white"/>
+  <defs><marker id="arrow" markerWidth="10" markerHeight="7" refX="10" refY="3.5" orient="auto"><polygon points="0 0, 10 3.5, 0 7" fill="#5f6368"/></marker></defs>
+  <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" fill="#333" font-weight="bold">Markov Decision Process for Trading</text>
+  <rect x="50" y="65" width="180" height="90" rx="10" fill="#e8f0fe" stroke="#1a73e8" stroke-width="2"/>
+  <text x="140" y="95" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#1a73e8" font-weight="bold">State sₜ</text>
+  <text x="140" y="115" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#5f6368">Price, position,</text>
+  <text x="140" y="130" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#5f6368">portfolio, indicators</text>
+  <rect x="300" y="65" width="180" height="90" rx="10" fill="#fef7e0" stroke="#f9ab00" stroke-width="2"/>
+  <text x="390" y="95" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#e37400" font-weight="bold">Action aₜ</text>
+  <text x="390" y="115" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#5f6368">Buy, Sell, Hold</text>
+  <text x="390" y="130" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#5f6368">Position size</text>
+  <rect x="550" y="65" width="200" height="90" rx="10" fill="#e8f5e9" stroke="#34a853" stroke-width="2"/>
+  <text x="650" y="90" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#1e7e34" font-weight="bold">Transition P(s'|s,a)</text>
+  <text x="650" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#5f6368">Market dynamics</text>
+  <text x="650" y="125" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#5f6368">(unknown, learned</text>
+  <text x="650" y="140" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#5f6368">from data)</text>
+  <line x1="230" y1="110" x2="300" y2="110" stroke="#5f6368" stroke-width="2" marker-end="url(#arrow)"/>
+  <line x1="480" y1="110" x2="550" y2="110" stroke="#5f6368" stroke-width="2" marker-end="url(#arrow)"/>
+  <rect x="250" y="210" width="280" height="55" rx="10" fill="#fce4ec" stroke="#ea4335" stroke-width="2"/>
+  <text x="390" y="235" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#ea4335" font-weight="bold">Reward R(s, a, s')</text>
+  <text x="390" y="252" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#5f6368">PnL, Sharpe, risk-adjusted return</text>
+  <line x1="650" y1="155" x2="650" y2="230" stroke="#5f6368" stroke-width="1.5"/>
+  <line x1="650" y1="230" x2="530" y2="237" stroke="#5f6368" stroke-width="1.5" marker-end="url(#arrow)"/>
+  <rect x="200" y="290" width="380" height="40" rx="8" fill="#7b1fa2" opacity="0.1" stroke="#7b1fa2" stroke-width="1.5"/>
+  <text x="390" y="315" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#7b1fa2" font-weight="bold">Goal: Find policy π* that maximizes E[Σ γᵗ rₜ]</text>
+</svg>
