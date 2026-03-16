@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 350" width="800" height="350">
+  <rect width="800" height="350" fill="white"/>
+  <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="17" fill="#202124" font-weight="bold">Nowcasting Framework with Alternative Data</text>
+  <rect x="30" y="60" width="120" height="50" rx="6" fill="#e8f0fe" stroke="#1a73e8" stroke-width="1.5"/>
+  <text x="90" y="82" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#1a73e8" font-weight="bold">Transactions</text>
+  <text x="90" y="98" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#5f6368">w=0.40</text>
+  <rect x="170" y="60" width="120" height="50" rx="6" fill="#e6f4ea" stroke="#34a853" stroke-width="1.5"/>
+  <text x="230" y="82" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#34a853" font-weight="bold">Foot Traffic</text>
+  <text x="230" y="98" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#5f6368">w=0.25</text>
+  <rect x="310" y="60" width="120" height="50" rx="6" fill="#fef7e0" stroke="#a87000" stroke-width="1.5"/>
+  <text x="370" y="82" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#a87000" font-weight="bold">Web Traffic</text>
+  <text x="370" y="98" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#5f6368">w=0.20</text>
+  <rect x="450" y="60" width="120" height="50" rx="6" fill="#fce8e6" stroke="#ea4335" stroke-width="1.5"/>
+  <text x="510" y="82" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#ea4335" font-weight="bold">Sentiment</text>
+  <text x="510" y="98" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#5f6368">w=0.15</text>
+  <rect x="200" y="150" width="300" height="55" rx="8" fill="#f8f9fa" stroke="#1a73e8" stroke-width="2"/>
+  <text x="350" y="175" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#1a73e8" font-weight="bold">Nowcast Model</text>
+  <text x="350" y="195" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#5f6368">Weighted blend + confidence</text>
+  <rect x="220" y="250" width="260" height="50" rx="8" fill="#1a73e8" opacity="0.15" stroke="#1a73e8" stroke-width="2"/>
+  <text x="350" y="275" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#1a73e8" font-weight="bold">Revenue Estimate</text>
+  <text x="350" y="292" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#5f6368">YoY growth nowcast + surprise</text>
+  <text x="650" y="180" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#5f6368" font-style="italic">Confidence increases</text>
+  <text x="650" y="198" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#5f6368" font-style="italic">as quarter progresses</text>
+</svg>
