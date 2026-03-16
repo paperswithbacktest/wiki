@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 240" width="800" height="240">
+  <rect width="800" height="240" fill="white"/>
+  <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="17" fill="#1a1a1a" font-weight="bold">Structural Break Detection Methods</text>
+  <rect x="40" y="55" width="220" height="70" rx="8" fill="#1a73e8" opacity="0.1" stroke="#1a73e8" stroke-width="1.5"/>
+  <text x="150" y="80" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#1a73e8" font-weight="bold">CUSUM Filter</text>
+  <text x="150" y="100" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#5f6368">Cumulative sum of residuals</text>
+  <text x="150" y="115" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#5f6368">vs dynamic threshold</text>
+  <rect x="290" y="55" width="220" height="70" rx="8" fill="#34a853" opacity="0.1" stroke="#34a853" stroke-width="1.5"/>
+  <text x="400" y="80" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#34a853" font-weight="bold">SADF / GSADF</text>
+  <text x="400" y="100" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#5f6368">Recursive ADF tests for</text>
+  <text x="400" y="115" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#5f6368">explosive behavior (bubbles)</text>
+  <rect x="540" y="55" width="220" height="70" rx="8" fill="#ea4335" opacity="0.1" stroke="#ea4335" stroke-width="1.5"/>
+  <text x="650" y="80" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#ea4335" font-weight="bold">Chow Test</text>
+  <text x="650" y="100" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#5f6368">F-test for parameter</text>
+  <text x="650" y="115" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#5f6368">stability at known date</text>
+  <text x="400" y="170" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#333">Detecting regime changes is critical for adaptive ML models in algo trading</text>
+  <text x="400" y="200" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#5f6368">A model trained on one regime may fail catastrophically when the regime shifts</text>
+</svg>
