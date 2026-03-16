@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 250" width="800" height="250">
+  <rect width="800" height="250" fill="white"/>
+  <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="17" fill="#1a1a1a" font-weight="bold">Bar Type Hierarchy</text>
+  <rect x="40" y="60" width="160" height="60" rx="8" fill="#5f6368" opacity="0.1" stroke="#5f6368" stroke-width="2"/>
+  <text x="120" y="85" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#5f6368" font-weight="bold">Time Bars</text>
+  <text x="120" y="103" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#5f6368">Fixed intervals</text>
+  <rect x="230" y="60" width="160" height="60" rx="8" fill="#1a73e8" opacity="0.1" stroke="#1a73e8" stroke-width="2"/>
+  <text x="310" y="85" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#1a73e8" font-weight="bold">Tick Bars</text>
+  <text x="310" y="103" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#1a73e8">Fixed # transactions</text>
+  <rect x="420" y="60" width="160" height="60" rx="8" fill="#34a853" opacity="0.1" stroke="#34a853" stroke-width="2"/>
+  <text x="500" y="85" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#34a853" font-weight="bold">Volume Bars</text>
+  <text x="500" y="103" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#34a853">Fixed volume</text>
+  <rect x="610" y="60" width="160" height="60" rx="8" fill="#fbbc04" opacity="0.1" stroke="#fbbc04" stroke-width="2"/>
+  <text x="690" y="85" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#b8860b" font-weight="bold">Dollar Bars</text>
+  <text x="690" y="103" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#b8860b">Fixed $ exchanged</text>
+  <line x1="200" y1="90" x2="230" y2="90" stroke="#999" stroke-width="1.5"/>
+  <line x1="390" y1="90" x2="420" y2="90" stroke="#999" stroke-width="1.5"/>
+  <line x1="580" y1="90" x2="610" y2="90" stroke="#999" stroke-width="1.5"/>
+  <text x="400" y="160" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#333">← Less information-driven    More information-driven →</text>
+  <text x="400" y="185" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#5f6368">Volume and dollar bars sample more during high-activity periods,</text>
+  <text x="400" y="203" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#5f6368">producing returns closer to IID normal — better for ML models</text>
+</svg>
