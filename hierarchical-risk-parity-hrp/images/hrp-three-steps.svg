@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 350" width="800" height="350">
+  <rect width="800" height="350" fill="white"/>
+  <defs>
+    <marker id="arrow" markerWidth="10" markerHeight="7" refX="10" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#5f6368"/>
+    </marker>
+  </defs>
+  <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" fill="#1a1a1a" font-weight="bold">Hierarchical Risk Parity: Three Steps</text>
+  <!-- Step 1 -->
+  <rect x="30" y="60" width="220" height="120" rx="10" fill="#1a73e8" opacity="0.1" stroke="#1a73e8" stroke-width="2"/>
+  <text x="140" y="90" text-anchor="middle" font-family="Arial, sans-serif" font-size="15" fill="#1a73e8" font-weight="bold">Step 1: Cluster</text>
+  <text x="140" y="115" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#5f6368">Hierarchical clustering</text>
+  <text x="140" y="133" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#5f6368">on correlation distance</text>
+  <text x="140" y="151" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#5f6368">→ Dendrogram</text>
+  <!-- Arrow -->
+  <line x1="250" y1="120" x2="300" y2="120" stroke="#5f6368" stroke-width="2" marker-end="url(#arrow)"/>
+  <!-- Step 2 -->
+  <rect x="310" y="60" width="220" height="120" rx="10" fill="#34a853" opacity="0.1" stroke="#34a853" stroke-width="2"/>
+  <text x="420" y="90" text-anchor="middle" font-family="Arial, sans-serif" font-size="15" fill="#34a853" font-weight="bold">Step 2: Quasi-Diag</text>
+  <text x="420" y="115" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#5f6368">Reorder covariance</text>
+  <text x="420" y="133" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#5f6368">matrix so similar</text>
+  <text x="420" y="151" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#5f6368">assets are adjacent</text>
+  <!-- Arrow -->
+  <line x1="530" y1="120" x2="580" y2="120" stroke="#5f6368" stroke-width="2" marker-end="url(#arrow)"/>
+  <!-- Step 3 -->
+  <rect x="590" y="60" width="180" height="120" rx="10" fill="#ea4335" opacity="0.1" stroke="#ea4335" stroke-width="2"/>
+  <text x="680" y="90" text-anchor="middle" font-family="Arial, sans-serif" font-size="15" fill="#ea4335" font-weight="bold">Step 3: Bisect</text>
+  <text x="680" y="115" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#5f6368">Recursive bisection</text>
+  <text x="680" y="133" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#5f6368">allocates by inverse</text>
+  <text x="680" y="151" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#5f6368">variance at each split</text>
+  <!-- Bottom comparison box -->
+  <rect x="60" y="220" width="320" height="110" rx="8" fill="#fff3e0" stroke="#fbbc04" stroke-width="1.5"/>
+  <text x="220" y="248" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#e65100" font-weight="bold">Mean-Variance (Markowitz)</text>
+  <text x="220" y="270" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#5f6368">Requires covariance inversion</text>
+  <text x="220" y="288" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#5f6368">Sensitive to estimation errors</text>
+  <text x="220" y="306" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#ea4335">Concentrated, unstable weights</text>
+  <rect x="420" y="220" width="320" height="110" rx="8" fill="#e8f5e9" stroke="#34a853" stroke-width="1.5"/>
+  <text x="580" y="248" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#2e7d32" font-weight="bold">HRP (Lopez de Prado)</text>
+  <text x="580" y="270" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#5f6368">No matrix inversion needed</text>
+  <text x="580" y="288" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#5f6368">Works on singular matrices</text>
+  <text x="580" y="306" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#34a853">Diversified, stable weights</text>
+</svg>
