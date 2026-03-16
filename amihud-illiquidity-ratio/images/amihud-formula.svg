@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 200" width="800" height="200">
+  <rect width="800" height="200" fill="white"/>
+  <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" fill="#1a1a1a" font-weight="bold">Amihud Illiquidity Formula</text>
+  <rect x="100" y="55" width="600" height="50" rx="8" fill="#f8f9fa" stroke="#ddd" stroke-width="1"/>
+  <text x="400" y="87" text-anchor="middle" font-family="Arial, sans-serif" font-size="15" fill="#333">ILLIQ = (1/D) × Σ |r_d| / DVOL_d</text>
+  <text x="400" y="135" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#5f6368">|r_d| = absolute daily return, DVOL_d = daily dollar volume, D = number of days</text>
+  <text x="400" y="165" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#5f6368">High ratio → illiquid (large price impact per $ traded). Low ratio → liquid.</text>
+</svg>
