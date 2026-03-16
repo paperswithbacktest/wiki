@@ -219,6 +219,12 @@ Looking ahead, the evolution of GBM in financial modeling could benefit from inc
 
 This exploration encourages practitioners and researchers to experiment with GBM in their trading strategies. By combining GBM with additional market signals or optimizing parameters based on historical data, one can develop more robust and performant trading strategies. With the continuous advancements in computational power and data availability, the future of GBM and its application in quantitative finance looks promising. Ultimately, the goal is to inspire innovation and exploration, leading to the development of sophisticated trading tools that leverage both traditional financial theories and modern computational techniques.
 
+## See Also
+
+- [Monte Carlo Simulation for Portfolio Risk](https://paperswithbacktest.com/wiki/monte-carlo-simulation-portfolio-risk) — Using GBM-based Monte Carlo for portfolio risk estimation
+- [Simulated Market Environments for Algo Trading](https://paperswithbacktest.com/wiki/simulated-market-environments-algo-trading) — Building market simulators for strategy testing
+- [Generative Models for Financial Data](https://paperswithbacktest.com/wiki/generative-models-financial-data) — Beyond GBM: GANs and diffusion models for synthetic data
+
 ## References and Further Reading
 
 ### Books and Articles
@@ -250,6 +256,12 @@ This exploration encourages practitioners and researchers to experiment with GBM
 3. **Reddit - Algorithmic Trading Subreddit**: A community of trading professionals and enthusiasts sharing ideas, resources, and discussions focused on algorithmic strategies, often involving stochastic modeling techniques like geometric Brownian motion. [Reddit Algorithmic Trading](https://www.reddit.com/r/algotrading/)
 
 By leveraging these resources, individuals interested in geometric Brownian motion and its applications in algorithmic trading can deepen their understanding and enhance their technical skills.
+
+## See Also
+
+- [Monte Carlo Simulation for Portfolio Risk](https://paperswithbacktest.com/wiki/monte-carlo-simulation-portfolio-risk) — Using GBM-based Monte Carlo for portfolio risk estimation
+- [Simulated Market Environments for Algo Trading](https://paperswithbacktest.com/wiki/simulated-market-environments-algo-trading) — Building market simulators for strategy testing
+- [Generative Models for Financial Data](https://paperswithbacktest.com/wiki/generative-models-financial-data) — Beyond GBM: GANs and diffusion models for synthetic data
 
 ## References & Further Reading
 
