@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 320" width="800" height="320">
+  <rect width="800" height="320" fill="white"/>
+  <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" fill="#1a1a1a" font-weight="bold">Three Methods of Feature Importance</text>
+  <rect x="30" y="60" width="230" height="230" rx="10" fill="#1a73e8" opacity="0.08" stroke="#1a73e8" stroke-width="2"/>
+  <text x="145" y="90" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#1a73e8" font-weight="bold">MDI</text>
+  <text x="145" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#1a73e8">Mean Decrease Impurity</text>
+  <text x="145" y="140" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#5f6368">In-sample metric</text>
+  <text x="145" y="158" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#5f6368">from tree splits</text>
+  <text x="145" y="190" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#34a853">✓ Fast, no re-fitting</text>
+  <text x="145" y="210" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#34a853">✓ Always non-negative</text>
+  <text x="145" y="240" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#ea4335">✗ Biased toward high-card</text>
+  <text x="145" y="258" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#ea4335">✗ In-sample only</text>
+  <rect x="285" y="60" width="230" height="230" rx="10" fill="#34a853" opacity="0.08" stroke="#34a853" stroke-width="2"/>
+  <text x="400" y="90" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#34a853" font-weight="bold">MDA</text>
+  <text x="400" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#34a853">Mean Decrease Accuracy</text>
+  <text x="400" y="140" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#5f6368">Permutation-based</text>
+  <text x="400" y="158" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#5f6368">out-of-sample metric</text>
+  <text x="400" y="190" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#34a853">✓ Model-agnostic</text>
+  <text x="400" y="210" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#34a853">✓ Can be negative</text>
+  <text x="400" y="240" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#ea4335">✗ Slow (re-predict N×)</text>
+  <text x="400" y="258" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#ea4335">✗ Correlated feats issue</text>
+  <rect x="540" y="60" width="230" height="230" rx="10" fill="#fbbc04" opacity="0.08" stroke="#fbbc04" stroke-width="2"/>
+  <text x="655" y="90" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#b8860b" font-weight="bold">SFI</text>
+  <text x="655" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#b8860b">Single Feature Importance</text>
+  <text x="655" y="140" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#5f6368">Train model per feature</text>
+  <text x="655" y="158" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#5f6368">OOS score each alone</text>
+  <text x="655" y="190" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#34a853">✓ No substitution effect</text>
+  <text x="655" y="210" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#34a853">✓ True standalone value</text>
+  <text x="655" y="240" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#ea4335">✗ Very slow (N models)</text>
+  <text x="655" y="258" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#ea4335">✗ Misses interactions</text>
+</svg>
