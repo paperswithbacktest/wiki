@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 380" width="800" height="380">
+  <rect width="800" height="380" fill="white"/>
+  <defs><marker id="arrow" markerWidth="10" markerHeight="7" refX="10" refY="3.5" orient="auto"><polygon points="0 0, 10 3.5, 0 7" fill="#5f6368"/></marker></defs>
+  <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" fill="#333" font-weight="bold">RL Agent for Portfolio Management</text>
+  <rect x="30" y="65" width="170" height="100" rx="10" fill="#e8f0fe" stroke="#1a73e8" stroke-width="2"/>
+  <text x="115" y="95" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#1a73e8" font-weight="bold">State s_t</text>
+  <text x="115" y="115" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#5f6368">Prices, Returns</text>
+  <text x="115" y="130" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#5f6368">Indicators, Weights</text>
+  <text x="115" y="145" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#5f6368">Portfolio Value</text>
+  <rect x="280" y="65" width="200" height="100" rx="10" fill="#fef7e0" stroke="#f9ab00" stroke-width="2"/>
+  <text x="380" y="95" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#e37400" font-weight="bold">Policy Network π(s)</text>
+  <text x="380" y="115" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#5f6368">Deep Neural Network</text>
+  <text x="380" y="130" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#5f6368">PPO / A2C / DDPG</text>
+  <text x="380" y="145" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#5f6368">Outputs: asset weights</text>
+  <rect x="560" y="65" width="200" height="100" rx="10" fill="#e8f5e9" stroke="#34a853" stroke-width="2"/>
+  <text x="660" y="95" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#1e7e34" font-weight="bold">Action a_t</text>
+  <text x="660" y="115" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#5f6368">w = [w₁, w₂, ..., wₙ]</text>
+  <text x="660" y="130" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#5f6368">Portfolio rebalance</text>
+  <text x="660" y="145" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#5f6368">Σwᵢ = 1</text>
+  <line x1="200" y1="115" x2="280" y2="115" stroke="#5f6368" stroke-width="2" marker-end="url(#arrow)"/>
+  <line x1="480" y1="115" x2="560" y2="115" stroke="#5f6368" stroke-width="2" marker-end="url(#arrow)"/>
+  <rect x="250" y="230" width="260" height="70" rx="10" fill="#fce4ec" stroke="#ea4335" stroke-width="2"/>
+  <text x="380" y="260" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#ea4335" font-weight="bold">Reward r_t</text>
+  <text x="380" y="280" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#5f6368">Sharpe ratio · risk-adjusted return · drawdown penalty</text>
+  <line x1="660" y1="165" x2="660" y2="250" stroke="#5f6368" stroke-width="1.5"/>
+  <line x1="660" y1="250" x2="510" y2="265" stroke="#5f6368" stroke-width="1.5" marker-end="url(#arrow)"/>
+  <line x1="250" y1="265" x2="115" y2="265" stroke="#5f6368" stroke-width="1.5"/>
+  <line x1="115" y1="265" x2="115" y2="165" stroke="#5f6368" stroke-width="1.5" marker-end="url(#arrow)"/>
+  <text x="400" y="340" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#555">The agent learns to rebalance a multi-asset portfolio by maximizing risk-adjusted returns</text>
+</svg>
