@@ -12,6 +12,12 @@ A foundation model is a large neural network pre-trained on broad data that can 
 
 The key innovation over traditional quant models is **transfer learning**: knowledge gained from processing millions of financial time series transfers to improve forecasting on individual stocks, even with limited per-stock data. This is particularly valuable for [alternative data](https://paperswithbacktest.com/wiki/how-can-alternative-data-be-integrated-into-quantitative-trading) signals where history is short.
 
+The motivation for foundation models in finance parallels the revolution in natural language processing. Before BERT and GPT, NLP models were trained from scratch for each task — sentiment analysis, translation, summarization — each requiring task-specific labeled data. Foundation models changed this by pre-training a single large model on vast amounts of unlabeled text, then fine-tuning on small task-specific datasets. The same paradigm applies to financial time series: rather than training a separate model for each stock or each signal, a foundation model learns general patterns across thousands of stocks and then adapts to specific prediction tasks with minimal additional data.
+
+This matters enormously for quant trading because the fundamental constraint in finance is not compute or model complexity — it is **data scarcity**. A stock has at most ~60 years of daily data (15,000 points), and most [alternative data](https://paperswithbacktest.com/wiki/best-alternative-data) sources cover less than 10 years. Traditional models trained on this limited data are prone to [overfitting](https://paperswithbacktest.com/wiki/alternative-data-overfitting-pitfalls). Foundation models mitigate this by learning shared structure across the entire cross-section of assets, effectively increasing the effective sample size by orders of magnitude.
+
+The field is moving rapidly. Google published a paper on TimesFM (Time Series Foundation Model) in 2024, trained on 100 billion time points from both public datasets and Google Trends data. Amazon has released Chronos, which tokenizes time series values and applies language model architectures. And multiple quant funds are known to be developing proprietary foundation models trained on their internal datasets — including alternative data features — though details remain closely guarded.
+
 ## Key Architectures
 
 ### Temporal Fusion Transformer (TFT)
