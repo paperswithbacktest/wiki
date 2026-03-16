@@ -10,7 +10,11 @@ Job posting data is one of the most intuitive [alternative data](https://papersw
 
 Job posting data for trading consists of structured records of open positions published by companies on job boards (LinkedIn, Indeed, Glassdoor), company career pages, and specialized platforms. The key metrics are total open positions by company, posting velocity (new jobs per week), role distribution by department, seniority distribution, geographic expansion signals, and time-to-fill (how long positions stay open).
 
-The trading thesis is direct: hiring is a capital allocation decision. Companies invest in headcount when they expect growth. Changes in hiring velocity are a leading indicator because they reflect management's forward-looking expectations.
+The trading thesis is direct: hiring is a capital allocation decision. Companies invest in headcount when they expect growth. Changes in hiring velocity are a leading indicator because they reflect management's forward-looking expectations — the internal budget forecasts, pipeline visibility, and strategic priorities that drive headcount plans are among the most tightly guarded pieces of information at any company.
+
+What makes job posting data uniquely powerful is that it represents a **revealed preference** rather than a stated one. When a CEO says on an earnings call that "we are investing in growth," that language is carefully crafted, potentially misleading, and priced into the stock by the time analysts finish their notes. But when that same company quietly posts 200 new engineering positions on LinkedIn over a two-week period, it is revealing its actual investment plans through actions that are harder to fake and easier to verify. Companies can talk about growth without spending money; they cannot hire without posting positions.
+
+The academic foundation for job posting data as a trading signal is substantial. Campello, Kankanhalli, and Muthukrishnan (2020) showed that firms with expanding job postings earn higher risk-adjusted returns over subsequent quarters. Hershbein and Kahn (2018) demonstrated that changes in job posting skill requirements predict industry-level productivity shifts. Burning Glass Technologies (now Lightcast) has published research showing that job posting trends lead official Bureau of Labor Statistics employment data by 2–3 months. This lead time makes job data valuable not only for equity trading but also for macro strategies that trade on employment and growth expectations.
 
 ## How Job Posting Signals Work
 
