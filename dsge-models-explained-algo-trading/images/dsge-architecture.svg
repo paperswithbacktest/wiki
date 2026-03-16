@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" width="800" height="500">
+  <rect width="800" height="500" fill="white"/>
+  <defs>
+    <marker id="arrow" markerWidth="10" markerHeight="7" refX="10" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#5f6368"/>
+    </marker>
+  </defs>
+
+  <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" fill="#333" font-weight="bold">DSGE Model Architecture</text>
+
+  <!-- Households -->
+  <rect x="50" y="70" width="180" height="90" rx="10" fill="#e8f0fe" stroke="#1a73e8" stroke-width="2"/>
+  <text x="140" y="100" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#1a73e8" font-weight="bold">Households</text>
+  <text x="140" y="120" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#5f6368">Maximize utility</text>
+  <text x="140" y="136" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#5f6368">Consume, save, supply labor</text>
+
+  <!-- Firms -->
+  <rect x="310" y="70" width="180" height="90" rx="10" fill="#fef7e0" stroke="#f9ab00" stroke-width="2"/>
+  <text x="400" y="100" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#e37400" font-weight="bold">Firms</text>
+  <text x="400" y="120" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#5f6368">Maximize profits</text>
+  <text x="400" y="136" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#5f6368">Produce, set prices</text>
+
+  <!-- Central Bank -->
+  <rect x="570" y="70" width="180" height="90" rx="10" fill="#e8f5e9" stroke="#34a853" stroke-width="2"/>
+  <text x="660" y="100" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#1e7e34" font-weight="bold">Central Bank</text>
+  <text x="660" y="120" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#5f6368">Taylor rule</text>
+  <text x="660" y="136" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#5f6368">Set interest rate</text>
+
+  <!-- Arrows between agents -->
+  <line x1="230" y1="115" x2="310" y2="115" stroke="#5f6368" stroke-width="2" marker-end="url(#arrow)"/>
+  <text x="270" y="108" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#5f6368">labor</text>
+  <line x1="310" y1="130" x2="230" y2="130" stroke="#5f6368" stroke-width="2" marker-end="url(#arrow)"/>
+  <text x="270" y="147" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#5f6368">goods</text>
+
+  <line x1="490" y1="115" x2="570" y2="115" stroke="#5f6368" stroke-width="2" marker-end="url(#arrow)"/>
+  <text x="530" y="108" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#5f6368">output</text>
+  <line x1="570" y1="130" x2="490" y2="130" stroke="#5f6368" stroke-width="2" marker-end="url(#arrow)"/>
+  <text x="530" y="147" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#5f6368">rates</text>
+
+  <!-- Stochastic Shocks -->
+  <rect x="100" y="210" width="600" height="60" rx="8" fill="#fce4ec" stroke="#ea4335" stroke-width="1.5"/>
+  <text x="400" y="235" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#ea4335" font-weight="bold">Stochastic Shocks</text>
+  <text x="400" y="255" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#5f6368">Technology (TFP)  ·  Monetary policy  ·  Demand  ·  Cost-push  ·  Risk premium</text>
+
+  <line x1="400" y1="160" x2="400" y2="210" stroke="#ea4335" stroke-width="1.5" stroke-dasharray="5,3" marker-end="url(#arrow)"/>
+
+  <!-- Equilibrium -->
+  <rect x="150" y="310" width="500" height="55" rx="8" fill="#f3e5f5" stroke="#7b1fa2" stroke-width="2"/>
+  <text x="400" y="335" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#7b1fa2" font-weight="bold">General Equilibrium Solution</text>
+  <text x="400" y="352" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#5f6368">Markets clear: goods, labor, bonds → impulse response functions</text>
+
+  <line x1="400" y1="270" x2="400" y2="310" stroke="#5f6368" stroke-width="2" marker-end="url(#arrow)"/>
+
+  <!-- Outputs -->
+  <rect x="70" y="405" width="130" height="45" rx="6" fill="white" stroke="#7b1fa2" stroke-width="1.5"/>
+  <text x="135" y="432" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#333">GDP Forecast</text>
+
+  <rect x="230" y="405" width="130" height="45" rx="6" fill="white" stroke="#7b1fa2" stroke-width="1.5"/>
+  <text x="295" y="432" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#333">Inflation Path</text>
+
+  <rect x="390" y="405" width="130" height="45" rx="6" fill="white" stroke="#7b1fa2" stroke-width="1.5"/>
+  <text x="455" y="432" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#333">Rate Trajectory</text>
+
+  <rect x="550" y="405" width="170" height="45" rx="6" fill="#1a73e8" opacity="0.15" stroke="#1a73e8" stroke-width="2"/>
+  <text x="635" y="425" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#1a73e8" font-weight="bold">Trading Signals</text>
+  <text x="635" y="442" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#1a73e8">(Regime, Factor Timing)</text>
+
+  <line x1="200" y1="365" x2="135" y2="405" stroke="#5f6368" stroke-width="1.5" marker-end="url(#arrow)"/>
+  <line x1="320" y1="365" x2="295" y2="405" stroke="#5f6368" stroke-width="1.5" marker-end="url(#arrow)"/>
+  <line x1="480" y1="365" x2="455" y2="405" stroke="#5f6368" stroke-width="1.5" marker-end="url(#arrow)"/>
+  <line x1="560" y1="365" x2="600" y2="405" stroke="#1a73e8" stroke-width="2" marker-end="url(#arrow)"/>
+</svg>
