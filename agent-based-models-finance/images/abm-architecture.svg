@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" width="800" height="450">
+  <rect width="800" height="450" fill="white"/>
+  <defs>
+    <marker id="arrow" markerWidth="10" markerHeight="7" refX="10" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#5f6368"/>
+    </marker>
+  </defs>
+
+  <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" fill="#333" font-weight="bold">Agent-Based Model of a Financial Market</text>
+
+  <!-- Agent types -->
+  <rect x="30" y="60" width="150" height="120" rx="10" fill="#e8f0fe" stroke="#1a73e8" stroke-width="2"/>
+  <text x="105" y="85" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#1a73e8" font-weight="bold">Fundamentalists</text>
+  <text x="105" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#5f6368">Buy undervalued</text>
+  <text x="105" y="120" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#5f6368">Sell overvalued</text>
+  <text x="105" y="135" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#5f6368">Mean-reverting</text>
+  <circle cx="60" cy="165" r="8" fill="#1a73e8" opacity="0.3"/>
+  <circle cx="80" cy="168" r="8" fill="#1a73e8" opacity="0.3"/>
+  <circle cx="105" cy="162" r="8" fill="#1a73e8" opacity="0.3"/>
+  <circle cx="130" cy="167" r="8" fill="#1a73e8" opacity="0.3"/>
+  <circle cx="150" cy="163" r="8" fill="#1a73e8" opacity="0.3"/>
+
+  <rect x="220" y="60" width="150" height="120" rx="10" fill="#fef7e0" stroke="#f9ab00" stroke-width="2"/>
+  <text x="295" y="85" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#e37400" font-weight="bold">Trend Followers</text>
+  <text x="295" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#5f6368">Chase momentum</text>
+  <text x="295" y="120" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#5f6368">Herding behavior</text>
+  <text x="295" y="135" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#5f6368">Trend-amplifying</text>
+  <circle cx="250" cy="165" r="8" fill="#f9ab00" opacity="0.3"/>
+  <circle cx="270" cy="168" r="8" fill="#f9ab00" opacity="0.3"/>
+  <circle cx="295" cy="162" r="8" fill="#f9ab00" opacity="0.3"/>
+  <circle cx="320" cy="167" r="8" fill="#f9ab00" opacity="0.3"/>
+
+  <rect x="410" y="60" width="150" height="120" rx="10" fill="#e8f5e9" stroke="#34a853" stroke-width="2"/>
+  <text x="485" y="85" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#1e7e34" font-weight="bold">Noise Traders</text>
+  <text x="485" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#5f6368">Random orders</text>
+  <text x="485" y="120" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#5f6368">Sentiment-driven</text>
+  <text x="485" y="135" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#5f6368">Add liquidity</text>
+  <circle cx="440" cy="165" r="8" fill="#34a853" opacity="0.3"/>
+  <circle cx="465" cy="168" r="8" fill="#34a853" opacity="0.3"/>
+  <circle cx="490" cy="162" r="8" fill="#34a853" opacity="0.3"/>
+  <circle cx="515" cy="167" r="8" fill="#34a853" opacity="0.3"/>
+
+  <rect x="600" y="60" width="170" height="120" rx="10" fill="#fce4ec" stroke="#ea4335" stroke-width="2"/>
+  <text x="685" y="85" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#ea4335" font-weight="bold">Market Makers</text>
+  <text x="685" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#5f6368">Provide bid/ask</text>
+  <text x="685" y="120" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#5f6368">Manage inventory</text>
+  <text x="685" y="135" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#5f6368">Set prices</text>
+  <circle cx="640" cy="165" r="8" fill="#ea4335" opacity="0.3"/>
+  <circle cx="665" cy="168" r="8" fill="#ea4335" opacity="0.3"/>
+  <circle cx="690" cy="162" r="8" fill="#ea4335" opacity="0.3"/>
+  <circle cx="715" cy="167" r="8" fill="#ea4335" opacity="0.3"/>
+
+  <!-- Order Book -->
+  <rect x="200" y="230" width="400" height="60" rx="10" fill="#f3e5f5" stroke="#7b1fa2" stroke-width="2"/>
+  <text x="400" y="255" text-anchor="middle" font-family="Arial, sans-serif" font-size="15" fill="#7b1fa2" font-weight="bold">Order Book / Market Mechanism</text>
+  <text x="400" y="275" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#5f6368">Agents submit orders → price discovery → execution</text>
+
+  <line x1="105" y1="180" x2="300" y2="230" stroke="#5f6368" stroke-width="1.5" marker-end="url(#arrow)"/>
+  <line x1="295" y1="180" x2="350" y2="230" stroke="#5f6368" stroke-width="1.5" marker-end="url(#arrow)"/>
+  <line x1="485" y1="180" x2="450" y2="230" stroke="#5f6368" stroke-width="1.5" marker-end="url(#arrow)"/>
+  <line x1="685" y1="180" x2="500" y2="230" stroke="#5f6368" stroke-width="1.5" marker-end="url(#arrow)"/>
+
+  <!-- Emergent Properties -->
+  <rect x="100" y="330" width="600" height="90" rx="10" fill="white" stroke="#333" stroke-width="1.5"/>
+  <text x="400" y="355" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#333" font-weight="bold">Emergent Market Properties</text>
+
+  <rect x="120" y="365" width="120" height="40" rx="5" fill="#1a73e8" opacity="0.1" stroke="#1a73e8" stroke-width="1"/>
+  <text x="180" y="390" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#1a73e8">Fat Tails</text>
+
+  <rect x="260" y="365" width="120" height="40" rx="5" fill="#f9ab00" opacity="0.1" stroke="#f9ab00" stroke-width="1"/>
+  <text x="320" y="390" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#e37400">Volatility Clustering</text>
+
+  <rect x="400" y="365" width="120" height="40" rx="5" fill="#34a853" opacity="0.1" stroke="#34a853" stroke-width="1"/>
+  <text x="460" y="390" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#1e7e34">Bubbles &amp; Crashes</text>
+
+  <rect x="540" y="365" width="140" height="40" rx="5" fill="#ea4335" opacity="0.1" stroke="#ea4335" stroke-width="1"/>
+  <text x="610" y="390" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#ea4335">Autocorrelation Decay</text>
+
+  <line x1="400" y1="290" x2="400" y2="330" stroke="#5f6368" stroke-width="2" marker-end="url(#arrow)"/>
+</svg>
