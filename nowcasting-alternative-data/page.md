@@ -10,7 +10,9 @@ Nowcasting — the practice of estimating the present state of economic activity
 
 Nowcasting is the real-time estimation of economic variables or company fundamentals using high-frequency data. The term originated in meteorology (forecasting *now*) and was adopted by economists at central banks who needed timely GDP estimates between quarterly releases.
 
-In traditional macroeconomics, nowcasting uses bridge equations linking monthly indicators (industrial production, retail sales) to quarterly GDP. Alternative data supercharges this by adding daily or weekly signals — [foot traffic](https://paperswithbacktest.com/wiki/geolocation-foot-traffic-trading), shipping volumes, electricity consumption, credit card spending — that capture economic activity as it happens.
+In traditional macroeconomics, nowcasting uses bridge equations linking monthly indicators (industrial production, retail sales) to quarterly GDP. The New York Fed's Staff Nowcast, the Atlanta Fed's GDPNow, and the Bank of England's nowcasting models all rely on this approach, updating their GDP estimates as each new data release arrives.
+
+Alternative data supercharges this traditional framework by adding daily or weekly signals — [foot traffic](https://paperswithbacktest.com/wiki/geolocation-foot-traffic-trading), shipping volumes, electricity consumption, credit card spending — that capture economic activity as it happens.
 
 The general nowcasting framework can be expressed as:
 
@@ -27,6 +29,10 @@ Where $\hat{Y}_t$ is the nowcast of the target variable (GDP, company revenue) a
 Macro hedge funds combine multiple alternative data streams to estimate GDP growth before official releases. A typical macro nowcast model might include electricity consumption (industrial activity proxy), [maritime shipping volumes](https://paperswithbacktest.com/wiki/maritime-supply-chain-data-trading) (trade proxy), credit card spending aggregates (consumer demand proxy), satellite-derived nighttime lights (economic activity proxy), and job posting volumes (labor market proxy).
 
 The New York Fed's nowcasting model (based on Giannone, Reichlin, and Small, 2008) demonstrated that adding high-frequency data substantially reduces GDP forecast errors. Alternative data extends this further with even higher-frequency, granular signals.
+
+The practical value of nowcasting for traders is immense. Consider the GDP release cycle: the Bureau of Economic Analysis publishes its "advance" GDP estimate approximately one month after the quarter ends, followed by "second" and "third" estimates over the following two months. This means the official GDP figure for Q1 (January–March) is not fully finalized until late June — a three-month lag during which traders must navigate with imperfect information. A nowcasting model using alternative data can produce daily GDP estimates during the quarter itself, giving macro traders a multi-month informational lead over investors who wait for official releases.
+
+For equity traders, the [nowcasting](https://paperswithbacktest.com/wiki/how-can-alternative-data-be-integrated-into-quantitative-trading) framework applies at the company level. Rather than estimating GDP, the nowcaster estimates a specific company's quarterly revenue by blending [credit card data](https://paperswithbacktest.com/wiki/credit-card-transaction-data-trading), [foot traffic](https://paperswithbacktest.com/wiki/geolocation-foot-traffic-trading), [web traffic](https://paperswithbacktest.com/wiki/web-traffic-alternative-data), and [app data](https://paperswithbacktest.com/wiki/app-store-data-trading) into a single estimate that updates daily. The estimate starts noisy early in the quarter (week 1–3) and converges toward the actual reported number as more data accumulates. By the last two weeks of the quarter, a well-calibrated nowcaster can predict revenue within 1–2% of the actual figure for well-covered consumer companies — a powerful edge for earnings-driven strategies.
 
 ### Company Revenue Nowcasting
 
