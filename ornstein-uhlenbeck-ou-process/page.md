@@ -152,6 +152,11 @@ where $\theta$ represents the speed of reversion, $\mu$ is the long-term mean, $
 
 As more sophisticated trading algorithms emerge, the relevance of the Ornstein-Uhlenbeck process is likely to grow. It provides a foundation upon which traders can build refined strategies, incorporating elements such as machine learning to fine-tune the parameters dynamically based on evolving market data. The ongoing innovation within algorithmic trading is poised to enhance the utility of the OU process further, ensuring its continued significance in financial modeling and optimization. With its deep-rooted mathematical elegance and practical applicability, the OU process offers a compelling model for traders focused on harnessing mean-reverting phenomena within the complex tapestry of modern financial markets.
 
+## See Also
+
+- [Kalman Filter for Trading](https://paperswithbacktest.com/wiki/kalman-filter-trading) — Optimal signal extraction for mean-reverting spread estimation
+- [Hidden Markov Models for Trading](https://paperswithbacktest.com/wiki/hidden-markov-models-trading) — Regime detection for mean-reverting vs trending states
+
 ## References & Further Reading
 
 [1]: Uhlenbeck, G. E., & Ornstein, L. S. (1930). ["On the Theory of the Brownian Motion."](https://link.aps.org/doi/10.1103/PhysRev.36.823) Physical Review.
