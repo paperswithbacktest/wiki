@@ -92,6 +92,13 @@ Despite their transformative potential, there are inherent challenges in impleme
 As technology advances, the role of neural networks in quantitative trading is set to grow even further. Enhancements in computational power and emerging methodologies, including reinforcement learning, are poised to address current limitations. This evolution is likely to lead to wider adoption across financial institutions, intensifying competition and driving innovation in the trading sector. Ultimately, the continued integration of neural networks in trading strategies promises not only to transform the industry but also to ensure that it remains at the cutting edge, adaptive to ever-changing market dynamics.
 
 
+## See Also
+
+- [Model-Based Reinforcement Learning for Trading](https://paperswithbacktest.com/wiki/model-based-reinforcement-learning-trading) — How neural networks learn world models of market dynamics
+- [Reinforcement Learning for Portfolio Management](https://paperswithbacktest.com/wiki/reinforcement-learning-portfolio-management) — RL agents that learn dynamic asset allocation
+- [Markov Decision Processes in Trading](https://paperswithbacktest.com/wiki/markov-decision-process-trading) — The formal foundation for RL-based trading
+- [Generative Models for Financial Data](https://paperswithbacktest.com/wiki/generative-models-financial-data) — GANs and VAEs for synthetic market data generation
+
 ## References & Further Reading
 
 [1]: Bergstra, J., Bardenet, R., Bengio, Y., & Kégl, B. (2011). ["Algorithms for Hyper-Parameter Optimization."](https://papers.nips.cc/paper_files/paper/2011/hash/86e8f7ab32cfd12577bc2619bc635690-Abstract.html) Advances in Neural Information Processing Systems 24.
