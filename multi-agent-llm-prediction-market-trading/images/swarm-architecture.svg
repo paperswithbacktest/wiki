@@ -1,0 +1,115 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 420" width="800" height="420">
+  <rect width="800" height="420" fill="white"/>
+
+  <defs>
+    <marker id="arrow" markerWidth="10" markerHeight="7" refX="10" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#5f6368"/>
+    </marker>
+  </defs>
+
+  <!-- Title -->
+  <text x="400" y="28" text-anchor="middle" font-family="Arial" font-size="17" font-weight="bold" fill="#202124">PolySwarm: Multi-Agent LLM Prediction Market Pipeline</text>
+
+  <!-- INPUT box -->
+  <rect x="20" y="60" width="130" height="80" rx="8" fill="#e8f0fe" stroke="#1a73e8" stroke-width="2"/>
+  <text x="85" y="86" text-anchor="middle" font-family="Arial" font-size="13" font-weight="bold" fill="#1a73e8">Market Input</text>
+  <text x="85" y="106" text-anchor="middle" font-family="Arial" font-size="11" fill="#5f6368">Question + News</text>
+  <text x="85" y="122" text-anchor="middle" font-family="Arial" font-size="11" fill="#5f6368">Market price p_m</text>
+
+  <!-- Arrow: Input → Screening -->
+  <line x1="150" y1="100" x2="178" y2="100" stroke="#5f6368" stroke-width="2" marker-end="url(#arrow)"/>
+
+  <!-- SCREENING box -->
+  <rect x="180" y="60" width="130" height="80" rx="8" fill="#fef7e0" stroke="#fbbc04" stroke-width="2"/>
+  <text x="245" y="86" text-anchor="middle" font-family="Arial" font-size="13" font-weight="bold" fill="#f9a825">KL Screening</text>
+  <text x="245" y="106" text-anchor="middle" font-family="Arial" font-size="11" fill="#5f6368">Divergence score</text>
+  <text x="245" y="122" text-anchor="middle" font-family="Arial" font-size="11" fill="#5f6368">Filter low-edge mkts</text>
+
+  <!-- Arrow: Screening → Swarm -->
+  <line x1="310" y1="100" x2="338" y2="100" stroke="#5f6368" stroke-width="2" marker-end="url(#arrow)"/>
+
+  <!-- SWARM box (large, showing persona grid) -->
+  <rect x="340" y="45" width="190" height="220" rx="8" fill="#fce8e6" stroke="#ea4335" stroke-width="2"/>
+  <text x="435" y="68" text-anchor="middle" font-family="Arial" font-size="13" font-weight="bold" fill="#ea4335">LLM Swarm (50 Personas)</text>
+
+  <!-- Persona mini-boxes: 5 columns x 4 rows -->
+  <rect x="353" y="78" width="28" height="18" rx="3" fill="#fff" stroke="#ea4335" stroke-width="1"/>
+  <text x="367" y="91" text-anchor="middle" font-family="Arial" font-size="8" fill="#ea4335">P1</text>
+  <rect x="387" y="78" width="28" height="18" rx="3" fill="#fff" stroke="#ea4335" stroke-width="1"/>
+  <text x="401" y="91" text-anchor="middle" font-family="Arial" font-size="8" fill="#ea4335">P2</text>
+  <rect x="421" y="78" width="28" height="18" rx="3" fill="#fff" stroke="#ea4335" stroke-width="1"/>
+  <text x="435" y="91" text-anchor="middle" font-family="Arial" font-size="8" fill="#ea4335">P3</text>
+  <rect x="455" y="78" width="28" height="18" rx="3" fill="#fff" stroke="#ea4335" stroke-width="1"/>
+  <text x="469" y="91" text-anchor="middle" font-family="Arial" font-size="8" fill="#ea4335">P4</text>
+  <rect x="489" y="78" width="28" height="18" rx="3" fill="#fff" stroke="#ea4335" stroke-width="1"/>
+  <text x="503" y="91" text-anchor="middle" font-family="Arial" font-size="8" fill="#ea4335">P5</text>
+
+  <rect x="353" y="102" width="28" height="18" rx="3" fill="#fff" stroke="#ea4335" stroke-width="1"/>
+  <text x="367" y="115" text-anchor="middle" font-family="Arial" font-size="8" fill="#ea4335">P6</text>
+  <rect x="387" y="102" width="28" height="18" rx="3" fill="#fff" stroke="#ea4335" stroke-width="1"/>
+  <text x="401" y="115" text-anchor="middle" font-family="Arial" font-size="8" fill="#ea4335">P7</text>
+  <rect x="421" y="102" width="28" height="18" rx="3" fill="#fff" stroke="#ea4335" stroke-width="1"/>
+  <text x="435" y="115" text-anchor="middle" font-family="Arial" font-size="8" fill="#ea4335">P8</text>
+  <rect x="455" y="102" width="28" height="18" rx="3" fill="#fff" stroke="#ea4335" stroke-width="1"/>
+  <text x="469" y="115" text-anchor="middle" font-family="Arial" font-size="8" fill="#ea4335">P9</text>
+  <rect x="489" y="102" width="28" height="18" rx="3" fill="#fff" stroke="#ea4335" stroke-width="1"/>
+  <text x="503" y="115" text-anchor="middle" font-family="Arial" font-size="8" fill="#ea4335">P10</text>
+
+  <rect x="353" y="126" width="28" height="18" rx="3" fill="#fff" stroke="#ea4335" stroke-width="1"/>
+  <text x="367" y="139" text-anchor="middle" font-family="Arial" font-size="8" fill="#ea4335">...</text>
+  <rect x="387" y="126" width="28" height="18" rx="3" fill="#fff" stroke="#ea4335" stroke-width="1"/>
+  <text x="401" y="139" text-anchor="middle" font-family="Arial" font-size="8" fill="#ea4335">...</text>
+  <rect x="421" y="126" width="28" height="18" rx="3" fill="#fff" stroke="#ea4335" stroke-width="1"/>
+  <text x="435" y="139" text-anchor="middle" font-family="Arial" font-size="8" fill="#ea4335">...</text>
+  <rect x="455" y="126" width="28" height="18" rx="3" fill="#fff" stroke="#ea4335" stroke-width="1"/>
+  <text x="469" y="139" text-anchor="middle" font-family="Arial" font-size="8" fill="#ea4335">...</text>
+  <rect x="489" y="126" width="28" height="18" rx="3" fill="#fff" stroke="#ea4335" stroke-width="1"/>
+  <text x="503" y="139" text-anchor="middle" font-family="Arial" font-size="8" fill="#ea4335">...</text>
+
+  <rect x="353" y="150" width="28" height="18" rx="3" fill="#fff" stroke="#ea4335" stroke-width="1"/>
+  <text x="367" y="163" text-anchor="middle" font-family="Arial" font-size="8" fill="#ea4335">P46</text>
+  <rect x="387" y="150" width="28" height="18" rx="3" fill="#fff" stroke="#ea4335" stroke-width="1"/>
+  <text x="401" y="163" text-anchor="middle" font-family="Arial" font-size="8" fill="#ea4335">P47</text>
+  <rect x="421" y="150" width="28" height="18" rx="3" fill="#fff" stroke="#ea4335" stroke-width="1"/>
+  <text x="435" y="163" text-anchor="middle" font-family="Arial" font-size="8" fill="#ea4335">P48</text>
+  <rect x="455" y="150" width="28" height="18" rx="3" fill="#fff" stroke="#ea4335" stroke-width="1"/>
+  <text x="469" y="163" text-anchor="middle" font-family="Arial" font-size="8" fill="#ea4335">P49</text>
+  <rect x="489" y="150" width="28" height="18" rx="3" fill="#fff" stroke="#ea4335" stroke-width="1"/>
+  <text x="503" y="163" text-anchor="middle" font-family="Arial" font-size="8" fill="#ea4335">P50</text>
+
+  <!-- Output label -->
+  <text x="435" y="200" text-anchor="middle" font-family="Arial" font-size="11" fill="#5f6368">Each outputs: p̂, confidence, rationale</text>
+  <text x="435" y="218" text-anchor="middle" font-family="Arial" font-size="11" fill="#5f6368">Run in parallel (~5–10s total)</text>
+  <text x="435" y="246" text-anchor="middle" font-family="Arial" font-size="10" fill="#ea4335" font-style="italic">Diverse framing → lower variance</text>
+
+  <!-- Arrow: Swarm → Aggregator -->
+  <line x1="530" y1="150" x2="558" y2="150" stroke="#5f6368" stroke-width="2" marker-end="url(#arrow)"/>
+
+  <!-- AGGREGATOR box -->
+  <rect x="560" y="110" width="130" height="80" rx="8" fill="#e6f4ea" stroke="#34a853" stroke-width="2"/>
+  <text x="625" y="136" text-anchor="middle" font-family="Arial" font-size="13" font-weight="bold" fill="#34a853">Bayesian</text>
+  <text x="625" y="154" text-anchor="middle" font-family="Arial" font-size="13" font-weight="bold" fill="#34a853">Aggregator</text>
+  <text x="625" y="172" text-anchor="middle" font-family="Arial" font-size="11" fill="#5f6368">Swarm + Market prior</text>
+  <text x="625" y="186" text-anchor="middle" font-family="Arial" font-size="11" fill="#5f6368">→ p̂_final</text>
+
+  <!-- Arrow: Aggregator → Kelly Sizer -->
+  <line x1="625" y1="190" x2="625" y2="218" stroke="#5f6368" stroke-width="2" marker-end="url(#arrow)"/>
+
+  <!-- KELLY SIZER box -->
+  <rect x="560" y="220" width="130" height="80" rx="8" fill="#fef7e0" stroke="#fbbc04" stroke-width="2"/>
+  <text x="625" y="246" text-anchor="middle" font-family="Arial" font-size="13" font-weight="bold" fill="#f9a825">¼-Kelly Sizer</text>
+  <text x="625" y="266" text-anchor="middle" font-family="Arial" font-size="11" fill="#5f6368">f = f*/4</text>
+  <text x="625" y="282" text-anchor="middle" font-family="Arial" font-size="11" fill="#5f6368">Position size in $</text>
+
+  <!-- Arrow: Kelly → Execution -->
+  <line x1="625" y1="300" x2="625" y2="328" stroke="#5f6368" stroke-width="2" marker-end="url(#arrow)"/>
+
+  <!-- EXECUTION box -->
+  <rect x="560" y="330" width="130" height="60" rx="8" fill="#e8f0fe" stroke="#1a73e8" stroke-width="2"/>
+  <text x="625" y="354" text-anchor="middle" font-family="Arial" font-size="13" font-weight="bold" fill="#1a73e8">Order Execution</text>
+  <text x="625" y="374" text-anchor="middle" font-family="Arial" font-size="11" fill="#5f6368">Polymarket CLOB / AMM</text>
+
+  <!-- Feedback arrow: Execution → Input (bottom) -->
+  <path d="M 560 360 L 85 360 L 85 148" fill="none" stroke="#1a73e8" stroke-width="1.5" stroke-dasharray="6,4" marker-end="url(#arrow)"/>
+  <text x="322" y="387" text-anchor="middle" font-family="Arial" font-size="11" fill="#1a73e8" font-style="italic">Resolved markets update calibration weights</text>
+</svg>

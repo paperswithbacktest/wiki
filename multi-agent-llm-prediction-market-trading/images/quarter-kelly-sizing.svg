@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 380" width="800" height="380">
+  <rect width="800" height="380" fill="white"/>
+
+  <!-- Title -->
+  <text x="400" y="28" text-anchor="middle" font-family="Arial" font-size="17" font-weight="bold" fill="#202124">Quarter-Kelly vs Full-Kelly: Growth Rate vs Drawdown Trade-off</text>
+
+  <!-- Chart area -->
+  <rect x="80" y="50" width="560" height="250" fill="#f8f9fa" stroke="#dadce0" stroke-width="1"/>
+
+  <!-- Y axis label -->
+  <text x="28" y="175" text-anchor="middle" font-family="Arial" font-size="13" fill="#5f6368" transform="rotate(-90, 28, 175)">Expected Growth Rate (%)</text>
+
+  <!-- X axis label -->
+  <text x="360" y="330" text-anchor="middle" font-family="Arial" font-size="13" fill="#5f6368">Kelly Fraction (f / f*)</text>
+
+  <!-- Y axis ticks -->
+  <line x1="80" y1="50" x2="80" y2="300" stroke="#dadce0" stroke-width="1"/>
+  <text x="72" y="54" text-anchor="end" font-family="Arial" font-size="11" fill="#5f6368">100%</text>
+  <text x="72" y="113" text-anchor="end" font-family="Arial" font-size="11" fill="#5f6368">75%</text>
+  <text x="72" y="175" text-anchor="end" font-family="Arial" font-size="11" fill="#5f6368">50%</text>
+  <text x="72" y="238" text-anchor="end" font-family="Arial" font-size="11" fill="#5f6368">25%</text>
+  <text x="72" y="300" text-anchor="end" font-family="Arial" font-size="11" fill="#5f6368">0%</text>
+
+  <!-- X axis ticks -->
+  <line x1="80" y1="300" x2="640" y2="300" stroke="#dadce0" stroke-width="1"/>
+  <text x="80" y="318" text-anchor="middle" font-family="Arial" font-size="11" fill="#5f6368">0</text>
+  <text x="220" y="318" text-anchor="middle" font-family="Arial" font-size="11" fill="#5f6368">¼ Kelly</text>
+  <text x="360" y="318" text-anchor="middle" font-family="Arial" font-size="11" fill="#5f6368">½ Kelly</text>
+  <text x="500" y="318" text-anchor="middle" font-family="Arial" font-size="11" fill="#5f6368">Full Kelly</text>
+  <text x="600" y="318" text-anchor="middle" font-family="Arial" font-size="11" fill="#5f6368">1.5×</text>
+
+  <!-- Growth rate curve (parabola peaking at full Kelly) -->
+  <!-- Points: (80,300)=0%, (220,163)=75%, (360,113)=93%, (500,50)=100%, (600,93)=85%, (640,115)=75% -->
+  <polyline points="80,300 140,250 220,163 300,120 360,100 420,75 500,53 560,75 600,110 640,155"
+    fill="none" stroke="#1a73e8" stroke-width="2.5"/>
+
+  <!-- Drawdown risk curve (rises steeply) -->
+  <!-- Points start low, rise faster after full Kelly -->
+  <polyline points="80,290 140,275 220,248 300,220 360,195 420,165 500,140 560,110 600,85 640,65"
+    fill="none" stroke="#ea4335" stroke-width="2.5" stroke-dasharray="8,4"/>
+
+  <!-- Full Kelly vertical marker -->
+  <line x1="500" y1="50" x2="500" y2="300" stroke="#34a853" stroke-width="1.5" stroke-dasharray="5,3"/>
+  <text x="502" y="46" font-family="Arial" font-size="11" fill="#34a853">Full Kelly (f*)</text>
+
+  <!-- Quarter Kelly vertical marker -->
+  <line x1="220" y1="50" x2="220" y2="300" stroke="#fbbc04" stroke-width="1.5" stroke-dasharray="5,3"/>
+  <text x="222" y="46" font-family="Arial" font-size="11" fill="#f9a825">¼ Kelly</text>
+
+  <!-- Annotation: 75% growth at quarter Kelly -->
+  <circle cx="220" cy="163" r="5" fill="#1a73e8"/>
+  <rect x="230" y="148" width="120" height="30" rx="4" fill="#e8f0fe" stroke="#1a73e8" stroke-width="1"/>
+  <text x="290" y="163" text-anchor="middle" font-family="Arial" font-size="11" fill="#1a73e8">~75% of max growth</text>
+  <text x="290" y="174" text-anchor="middle" font-family="Arial" font-size="10" fill="#5f6368">4× lower variance</text>
+
+  <!-- Annotation: 100% growth at full Kelly -->
+  <circle cx="500" cy="53" r="5" fill="#1a73e8"/>
+
+  <!-- Legend -->
+  <rect x="600" y="60" width="15" height="3" fill="#1a73e8" rx="1"/>
+  <text x="620" y="67" font-family="Arial" font-size="11" fill="#1a73e8">Expected growth rate</text>
+
+  <line x1="600" y1="86" x2="615" y2="86" stroke="#ea4335" stroke-width="2" stroke-dasharray="5,3"/>
+  <text x="620" y="90" font-family="Arial" font-size="11" fill="#ea4335">Drawdown risk</text>
+
+  <!-- Key insight box -->
+  <rect x="80" y="340" width="560" height="30" rx="6" fill="#e6f4ea" stroke="#34a853" stroke-width="1.5"/>
+  <text x="360" y="360" text-anchor="middle" font-family="Arial" font-size="12" fill="#34a853" font-weight="bold">Quarter-Kelly: 75% of maximum growth at ~25% of full-Kelly drawdown risk</text>
+</svg>
