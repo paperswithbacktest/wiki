@@ -1,0 +1,131 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 360" width="800" height="360">
+  <rect width="800" height="360" fill="white"/>
+
+  <!-- Title -->
+  <text x="400" y="28" font-family="Arial" font-size="18" font-weight="bold" text-anchor="middle" fill="#333">Forecast Calibration: Biased LLM vs. Fine-Tuned LLM</text>
+
+  <!-- Axes -->
+  <line x1="100" y1="300" x2="570" y2="300" stroke="#bbb" stroke-width="1.5"/>
+  <line x1="100" y1="60" x2="100" y2="300" stroke="#bbb" stroke-width="1.5"/>
+
+  <!-- Axis labels -->
+  <text x="335" y="334" font-family="Arial" font-size="12" text-anchor="middle" fill="#666">Stated Probability</text>
+  <text x="35" y="182" font-family="Arial" font-size="12" text-anchor="middle" fill="#666" transform="rotate(-90,35,182)">Actual Frequency</text>
+
+  <!-- Grid lines (light) -->
+  <line x1="100" y1="252" x2="570" y2="252" stroke="#eee" stroke-width="1"/>
+  <line x1="100" y1="204" x2="570" y2="204" stroke="#eee" stroke-width="1"/>
+  <line x1="100" y1="156" x2="570" y2="156" stroke="#eee" stroke-width="1"/>
+  <line x1="100" y1="108" x2="570" y2="108" stroke="#eee" stroke-width="1"/>
+
+  <!-- X tick marks and labels: 0.1 to 0.9, spacing = (570-100)/9 = ~52px -->
+  <!-- x positions: 100 + i*52 for i=1..9 → 152,204,256,308,360,412,464,516,568 -->
+  <line x1="152" y1="300" x2="152" y2="306" stroke="#bbb" stroke-width="1"/>
+  <text x="152" y="320" font-family="Arial" font-size="10" text-anchor="middle" fill="#666">0.1</text>
+  <line x1="204" y1="300" x2="204" y2="306" stroke="#bbb" stroke-width="1"/>
+  <text x="204" y="320" font-family="Arial" font-size="10" text-anchor="middle" fill="#666">0.2</text>
+  <line x1="256" y1="300" x2="256" y2="306" stroke="#bbb" stroke-width="1"/>
+  <text x="256" y="320" font-family="Arial" font-size="10" text-anchor="middle" fill="#666">0.3</text>
+  <line x1="308" y1="300" x2="308" y2="306" stroke="#bbb" stroke-width="1"/>
+  <text x="308" y="320" font-family="Arial" font-size="10" text-anchor="middle" fill="#666">0.4</text>
+  <line x1="360" y1="300" x2="360" y2="306" stroke="#bbb" stroke-width="1"/>
+  <text x="360" y="320" font-family="Arial" font-size="10" text-anchor="middle" fill="#666">0.5</text>
+  <line x1="412" y1="300" x2="412" y2="306" stroke="#bbb" stroke-width="1"/>
+  <text x="412" y="320" font-family="Arial" font-size="10" text-anchor="middle" fill="#666">0.6</text>
+  <line x1="464" y1="300" x2="464" y2="306" stroke="#bbb" stroke-width="1"/>
+  <text x="464" y="320" font-family="Arial" font-size="10" text-anchor="middle" fill="#666">0.7</text>
+  <line x1="516" y1="300" x2="516" y2="306" stroke="#bbb" stroke-width="1"/>
+  <text x="516" y="320" font-family="Arial" font-size="10" text-anchor="middle" fill="#666">0.8</text>
+  <line x1="568" y1="300" x2="568" y2="306" stroke="#bbb" stroke-width="1"/>
+  <text x="568" y="320" font-family="Arial" font-size="10" text-anchor="middle" fill="#666">0.9</text>
+
+  <!-- Y tick marks and labels: 0.1 to 1.0, spacing = (300-60)/10 = 24px -->
+  <!-- y positions: 300 - val*240 -->
+  <line x1="100" y1="276" x2="94" y2="276" stroke="#bbb" stroke-width="1"/>
+  <text x="88" y="280" font-family="Arial" font-size="10" text-anchor="end" fill="#666">0.1</text>
+  <line x1="100" y1="252" x2="94" y2="252" stroke="#bbb" stroke-width="1"/>
+  <text x="88" y="256" font-family="Arial" font-size="10" text-anchor="end" fill="#666">0.2</text>
+  <line x1="100" y1="228" x2="94" y2="228" stroke="#bbb" stroke-width="1"/>
+  <text x="88" y="232" font-family="Arial" font-size="10" text-anchor="end" fill="#666">0.3</text>
+  <line x1="100" y1="204" x2="94" y2="204" stroke="#bbb" stroke-width="1"/>
+  <text x="88" y="208" font-family="Arial" font-size="10" text-anchor="end" fill="#666">0.4</text>
+  <line x1="100" y1="180" x2="94" y2="180" stroke="#bbb" stroke-width="1"/>
+  <text x="88" y="184" font-family="Arial" font-size="10" text-anchor="end" fill="#666">0.5</text>
+  <line x1="100" y1="156" x2="94" y2="156" stroke="#bbb" stroke-width="1"/>
+  <text x="88" y="160" font-family="Arial" font-size="10" text-anchor="end" fill="#666">0.6</text>
+  <line x1="100" y1="132" x2="94" y2="132" stroke="#bbb" stroke-width="1"/>
+  <text x="88" y="136" font-family="Arial" font-size="10" text-anchor="end" fill="#666">0.7</text>
+  <line x1="100" y1="108" x2="94" y2="108" stroke="#bbb" stroke-width="1"/>
+  <text x="88" y="112" font-family="Arial" font-size="10" text-anchor="end" fill="#666">0.8</text>
+  <line x1="100" y1="84" x2="94" y2="84" stroke="#bbb" stroke-width="1"/>
+  <text x="88" y="88" font-family="Arial" font-size="10" text-anchor="end" fill="#666">0.9</text>
+  <line x1="100" y1="60" x2="94" y2="60" stroke="#bbb" stroke-width="1"/>
+  <text x="88" y="64" font-family="Arial" font-size="10" text-anchor="end" fill="#666">1.0</text>
+
+  <!-- Perfect calibration diagonal -->
+  <!-- from (100,300) → (570,60): (x=100+stated*470, y=300-actual*240) with stated=actual -->
+  <line x1="100" y1="300" x2="570" y2="60" stroke="#ccc" stroke-width="1.5" stroke-dasharray="7,5"/>
+  <text x="548" y="72" font-family="Arial" font-size="10" fill="#bbb">Perfect</text>
+
+  <!-- Biased LLM curve (overconfident at high P, under at low P) -->
+  <!-- stated=0.1→x=152, actual=0.06→y=300-14.4=285.6 -->
+  <!-- stated=0.2→x=204, actual=0.10→y=300-24=276 -->
+  <!-- stated=0.3→x=256, actual=0.17→y=300-40.8=259 -->
+  <!-- stated=0.4→x=308, actual=0.27→y=300-64.8=235 -->
+  <!-- stated=0.5→x=360, actual=0.40→y=300-96=204 -->
+  <!-- stated=0.6→x=412, actual=0.52→y=300-124.8=175 -->
+  <!-- stated=0.7→x=464, actual=0.62→y=300-148.8=151 -->
+  <!-- stated=0.8→x=516, actual=0.70→y=300-168=132 -->
+  <!-- stated=0.9→x=568, actual=0.76→y=300-182.4=118 -->
+  <polyline points="152,286 204,276 256,259 308,235 360,204 412,175 464,151 516,132 568,118"
+            fill="none" stroke="#ea4335" stroke-width="2.5"/>
+  <circle cx="152" cy="286" r="4.5" fill="#ea4335"/>
+  <circle cx="204" cy="276" r="4.5" fill="#ea4335"/>
+  <circle cx="256" cy="259" r="4.5" fill="#ea4335"/>
+  <circle cx="308" cy="235" r="4.5" fill="#ea4335"/>
+  <circle cx="360" cy="204" r="4.5" fill="#ea4335"/>
+  <circle cx="412" cy="175" r="4.5" fill="#ea4335"/>
+  <circle cx="464" cy="151" r="4.5" fill="#ea4335"/>
+  <circle cx="516" cy="132" r="4.5" fill="#ea4335"/>
+  <circle cx="568" cy="118" r="4.5" fill="#ea4335"/>
+
+  <!-- Fine-tuned LLM curve (near-perfect) -->
+  <!-- stated=0.1→actual=0.11→y=300-26.4=273.6 -->
+  <!-- stated=0.2→actual=0.20→y=300-48=252 -->
+  <!-- stated=0.3→actual=0.31→y=300-74.4=226 -->
+  <!-- stated=0.4→actual=0.41→y=300-98.4=202 -->
+  <!-- stated=0.5→actual=0.50→y=300-120=180 -->
+  <!-- stated=0.6→actual=0.60→y=300-144=156 -->
+  <!-- stated=0.7→actual=0.69→y=300-165.6=134 -->
+  <!-- stated=0.8→actual=0.80→y=300-192=108 -->
+  <!-- stated=0.9→actual=0.88→y=300-211.2=89 -->
+  <polyline points="152,274 204,252 256,226 308,202 360,180 412,156 464,134 516,108 568,89"
+            fill="none" stroke="#34a853" stroke-width="2.5"/>
+  <circle cx="152" cy="274" r="4.5" fill="#34a853"/>
+  <circle cx="204" cy="252" r="4.5" fill="#34a853"/>
+  <circle cx="256" cy="226" r="4.5" fill="#34a853"/>
+  <circle cx="308" cy="202" r="4.5" fill="#34a853"/>
+  <circle cx="360" cy="180" r="4.5" fill="#34a853"/>
+  <circle cx="412" cy="156" r="4.5" fill="#34a853"/>
+  <circle cx="464" cy="134" r="4.5" fill="#34a853"/>
+  <circle cx="516" cy="108" r="4.5" fill="#34a853"/>
+  <circle cx="568" cy="89" r="4.5" fill="#34a853"/>
+
+  <!-- Legend -->
+  <rect x="596" y="130" width="188" height="100" rx="6" fill="#f8f8f8" stroke="#ddd" stroke-width="1"/>
+  <line x1="612" y1="152" x2="648" y2="152" stroke="#ea4335" stroke-width="2.5"/>
+  <circle cx="630" cy="152" r="4" fill="#ea4335"/>
+  <text x="656" y="156" font-family="Arial" font-size="11" fill="#333">Biased LLM</text>
+
+  <line x1="612" y1="178" x2="648" y2="178" stroke="#34a853" stroke-width="2.5"/>
+  <circle cx="630" cy="178" r="4" fill="#34a853"/>
+  <text x="656" y="182" font-family="Arial" font-size="11" fill="#333">Fine-tuned LLM</text>
+
+  <line x1="612" y1="204" x2="648" y2="204" stroke="#ccc" stroke-width="1.5" stroke-dasharray="7,5"/>
+  <text x="656" y="208" font-family="Arial" font-size="11" fill="#888">Perfect calib.</text>
+
+  <!-- Annotation: overconfidence zone -->
+  <text x="490" y="285" font-family="Arial" font-size="10" fill="#ea4335">Over-</text>
+  <text x="490" y="297" font-family="Arial" font-size="10" fill="#ea4335">confident</text>
+  <line x1="510" y1="270" x2="540" y2="240" stroke="#ea4335" stroke-width="0.8" stroke-dasharray="3,3"/>
+</svg>
