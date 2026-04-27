@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 320" width="800" height="320">
+  <rect width="800" height="320" fill="white"/>
+  <!-- Title -->
+  <text x="400" y="30" font-family="Arial" font-size="18" font-weight="bold" fill="#1a1a2e" text-anchor="middle">LLM-Augmented Stock Network: Two-Stage Pipeline</text>
+
+  <!-- Stage labels -->
+  <text x="400" y="55" font-family="Arial" font-size="11" fill="#666" text-anchor="middle">Stage 1: Graph Construction  ·  Stage 2: LLM Edge Classification  ·  Signal Generation</text>
+
+  <!-- Box 1: 10-K Filings -->
+  <rect x="20" y="100" width="120" height="70" rx="8" fill="#e8f0fe" stroke="#1a73e8" stroke-width="1.5"/>
+  <text x="80" y="128" font-family="Arial" font-size="12" font-weight="bold" fill="#1a73e8" text-anchor="middle">10-K Filings</text>
+  <text x="80" y="145" font-family="Arial" font-size="10" fill="#444" text-anchor="middle">Annual SEC reports</text>
+  <text x="80" y="160" font-family="Arial" font-size="10" fill="#444" text-anchor="middle">~3,000 stocks</text>
+
+  <!-- Arrow 1 -->
+  <line x1="140" y1="135" x2="168" y2="135" stroke="#888" stroke-width="1.5" marker-end="url(#arrow)"/>
+
+  <!-- Box 2: Text Embeddings -->
+  <rect x="170" y="100" width="120" height="70" rx="8" fill="#e8f0fe" stroke="#1a73e8" stroke-width="1.5"/>
+  <text x="230" y="128" font-family="Arial" font-size="12" font-weight="bold" fill="#1a73e8" text-anchor="middle">Text Embedding</text>
+  <text x="230" y="145" font-family="Arial" font-size="10" fill="#444" text-anchor="middle">SEC-BERT / FinBERT</text>
+  <text x="230" y="160" font-family="Arial" font-size="10" fill="#444" text-anchor="middle">cosine similarity</text>
+
+  <!-- Arrow 2 -->
+  <line x1="290" y1="135" x2="318" y2="135" stroke="#888" stroke-width="1.5" marker-end="url(#arrow)"/>
+
+  <!-- Box 3: Candidate Graph -->
+  <rect x="320" y="100" width="130" height="70" rx="8" fill="#fef7e0" stroke="#fbbc04" stroke-width="1.5"/>
+  <text x="385" y="128" font-family="Arial" font-size="12" font-weight="bold" fill="#e37400" text-anchor="middle">Candidate Graph</text>
+  <text x="385" y="145" font-family="Arial" font-size="10" fill="#444" text-anchor="middle">τ ≥ 0.75 threshold</text>
+  <text x="385" y="160" font-family="Arial" font-size="10" fill="#444" text-anchor="middle">40–60% spurious edges</text>
+
+  <!-- Arrow 3 -->
+  <line x1="450" y1="135" x2="478" y2="135" stroke="#888" stroke-width="1.5" marker-end="url(#arrow)"/>
+
+  <!-- Box 4: LLM Classifier -->
+  <rect x="480" y="100" width="120" height="70" rx="8" fill="#fce8e6" stroke="#ea4335" stroke-width="1.5"/>
+  <text x="540" y="123" font-family="Arial" font-size="12" font-weight="bold" fill="#c5221f" text-anchor="middle">LLM Classifier</text>
+  <text x="540" y="140" font-family="Arial" font-size="10" fill="#444" text-anchor="middle">GPT-4o-mini</text>
+  <text x="540" y="155" font-family="Arial" font-size="10" fill="#444" text-anchor="middle">87% accuracy</text>
+  <text x="540" y="168" font-family="Arial" font-size="10" fill="#444" text-anchor="middle">~$0.80 / 1k edges</text>
+
+  <!-- Arrow 4 -->
+  <line x1="600" y1="135" x2="628" y2="135" stroke="#888" stroke-width="1.5" marker-end="url(#arrow)"/>
+
+  <!-- Box 5: Refined Graph -->
+  <rect x="630" y="100" width="150" height="70" rx="8" fill="#e6f4ea" stroke="#34a853" stroke-width="1.5"/>
+  <text x="705" y="123" font-family="Arial" font-size="12" font-weight="bold" fill="#137333" text-anchor="middle">Refined Network</text>
+  <text x="705" y="140" font-family="Arial" font-size="10" fill="#444" text-anchor="middle">Economic edges only</text>
+  <text x="705" y="155" font-family="Arial" font-size="10" fill="#444" text-anchor="middle">Supply chain, competitors</text>
+  <text x="705" y="170" font-family="Arial" font-size="10" fill="#444" text-anchor="middle">35–50% retained</text>
+
+  <!-- Stage divider lines -->
+  <line x1="310" y1="85" x2="310" y2="185" stroke="#ccc" stroke-width="1" stroke-dasharray="4,3"/>
+  <line x1="470" y1="85" x2="470" y2="185" stroke="#ccc" stroke-width="1" stroke-dasharray="4,3"/>
+  <line x1="620" y1="85" x2="620" y2="185" stroke="#ccc" stroke-width="1" stroke-dasharray="4,3"/>
+
+  <!-- Stage labels below -->
+  <text x="165" y="215" font-family="Arial" font-size="11" fill="#1a73e8" text-anchor="middle" font-style="italic">Stage 1: Embedding</text>
+  <text x="395" y="215" font-family="Arial" font-size="11" fill="#e37400" text-anchor="middle" font-style="italic">Stage 2: LLM Filtering</text>
+  <text x="705" y="215" font-family="Arial" font-size="11" fill="#137333" text-anchor="middle" font-style="italic">Output</text>
+
+  <!-- Signal section at bottom -->
+  <rect x="240" y="240" width="320" height="55" rx="8" fill="#f8f9fa" stroke="#999" stroke-width="1"/>
+  <text x="400" y="260" font-family="Arial" font-size="12" font-weight="bold" fill="#333" text-anchor="middle">Cross-Stock Mean-Reversion Signal</text>
+  <text x="400" y="278" font-family="Arial" font-size="11" fill="#555" text-anchor="middle">α_i = avg(peer returns t-1) − own return(t-1)</text>
+  <text x="400" y="293" font-family="Arial" font-size="10" fill="#888" text-anchor="middle">Sharpe 1.14  ·  +3.1% FF5 alpha  ·  t = 4.2</text>
+
+  <!-- Arrow from refined to signal -->
+  <line x1="705" y1="170" x2="705" y2="252" stroke="#34a853" stroke-width="1.5" stroke-dasharray="5,3"/>
+  <line x1="705" y1="252" x2="562" y2="252" stroke="#34a853" stroke-width="1.5" marker-end="url(#arrowGreen)"/>
+
+  <!-- Arrowhead defs -->
+  <defs>
+    <marker id="arrow" markerWidth="8" markerHeight="8" refX="6" refY="3" orient="auto">
+      <path d="M0,0 L0,6 L8,3 z" fill="#888"/>
+    </marker>
+    <marker id="arrowGreen" markerWidth="8" markerHeight="8" refX="6" refY="3" orient="auto">
+      <path d="M0,0 L0,6 L8,3 z" fill="#34a853"/>
+    </marker>
+  </defs>
+</svg>

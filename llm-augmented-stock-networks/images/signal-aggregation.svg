@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 360" width="800" height="360">
+  <rect width="800" height="360" fill="white"/>
+  <!-- Title -->
+  <text x="400" y="30" font-family="Arial" font-size="18" font-weight="bold" fill="#1a1a2e" text-anchor="middle">Cross-Stock Mean-Reversion Signal Aggregation</text>
+  <text x="400" y="52" font-family="Arial" font-size="11" fill="#666" text-anchor="middle">Economic peer returns at t−1 predict target firm return at t</text>
+
+  <!-- Target firm (center) -->
+  <circle cx="400" cy="190" r="38" fill="#e8f0fe" stroke="#1a73e8" stroke-width="2.5"/>
+  <text x="400" y="185" font-family="Arial" font-size="13" font-weight="bold" fill="#1a73e8" text-anchor="middle">Target</text>
+  <text x="400" y="200" font-family="Arial" font-size="12" font-weight="bold" fill="#1a73e8" text-anchor="middle">Firm i</text>
+  <text x="400" y="216" font-family="Arial" font-size="10" fill="#555" text-anchor="middle">return r_i</text>
+
+  <!-- Peer 1 (top left) - supply chain upstream -->
+  <circle cx="155" cy="100" r="32" fill="#e6f4ea" stroke="#34a853" stroke-width="2"/>
+  <text x="155" y="95" font-family="Arial" font-size="11" font-weight="bold" fill="#137333" text-anchor="middle">Peer 1</text>
+  <text x="155" y="109" font-family="Arial" font-size="10" fill="#555" text-anchor="middle">Supplier</text>
+  <text x="155" y="122" font-family="Arial" font-size="9" fill="#888" text-anchor="middle">+2.1% (t−1)</text>
+
+  <!-- Peer 2 (top right) - supply chain upstream -->
+  <circle cx="645" cy="100" r="32" fill="#e6f4ea" stroke="#34a853" stroke-width="2"/>
+  <text x="645" y="95" font-family="Arial" font-size="11" font-weight="bold" fill="#137333" text-anchor="middle">Peer 2</text>
+  <text x="645" y="109" font-family="Arial" font-size="10" fill="#555" text-anchor="middle">Competitor</text>
+  <text x="645" y="122" font-family="Arial" font-size="9" fill="#888" text-anchor="middle">+1.8% (t−1)</text>
+
+  <!-- Peer 3 (bottom left) - downstream customer -->
+  <circle cx="155" cy="290" r="32" fill="#e6f4ea" stroke="#34a853" stroke-width="2"/>
+  <text x="155" y="285" font-family="Arial" font-size="11" font-weight="bold" fill="#137333" text-anchor="middle">Peer 3</text>
+  <text x="155" y="299" font-family="Arial" font-size="10" fill="#555" text-anchor="middle">Customer</text>
+  <text x="155" y="312" font-family="Arial" font-size="9" fill="#888" text-anchor="middle">+1.5% (t−1)</text>
+
+  <!-- Peer 4 (bottom right) -->
+  <circle cx="645" cy="290" r="32" fill="#e6f4ea" stroke="#34a853" stroke-width="2"/>
+  <text x="645" y="285" font-family="Arial" font-size="11" font-weight="bold" fill="#137333" text-anchor="middle">Peer 4</text>
+  <text x="645" y="299" font-family="Arial" font-size="10" fill="#555" text-anchor="middle">Peer supplier</text>
+  <text x="645" y="312" font-family="Arial" font-size="9" fill="#888" text-anchor="middle">+0.9% (t−1)</text>
+
+  <!-- Arrows from peers to target (showing return flow / information flow) -->
+  <!-- Peer 1 → Target -->
+  <line x1="183" y1="117" x2="368" y2="170" stroke="#34a853" stroke-width="1.8" marker-end="url(#arrowGreen)" opacity="0.85"/>
+  <!-- Peer 2 → Target -->
+  <line x1="617" y1="117" x2="432" y2="170" stroke="#34a853" stroke-width="1.8" marker-end="url(#arrowGreen)" opacity="0.85"/>
+  <!-- Peer 3 → Target -->
+  <line x1="183" y1="272" x2="368" y2="208" stroke="#34a853" stroke-width="1.8" marker-end="url(#arrowGreen)" opacity="0.85"/>
+  <!-- Peer 4 → Target -->
+  <line x1="617" y1="272" x2="432" y2="208" stroke="#34a853" stroke-width="1.8" marker-end="url(#arrowGreen)" opacity="0.85"/>
+
+  <!-- Formula box -->
+  <rect x="470" y="155" width="310" height="70" rx="8" fill="#fef7e0" stroke="#fbbc04" stroke-width="1.5"/>
+  <text x="625" y="175" font-family="Arial" font-size="12" font-weight="bold" fill="#e37400" text-anchor="middle">Signal Formula</text>
+  <text x="625" y="195" font-family="Arial" font-size="12" fill="#333" text-anchor="middle">α_i^t = r̄_N(i)^(t-1) − r_i^(t-1)</text>
+  <text x="625" y="213" font-family="Arial" font-size="10" fill="#666" text-anchor="middle">avg peer return(t−1) minus own return(t−1)</text>
+
+  <!-- Result annotation -->
+  <rect x="20" y="155" width="310" height="70" rx="8" fill="#f0faf4" stroke="#34a853" stroke-width="1.5"/>
+  <text x="175" y="175" font-family="Arial" font-size="12" font-weight="bold" fill="#137333" text-anchor="middle">Example: α_i = +1.6%</text>
+  <text x="175" y="193" font-family="Arial" font-size="11" fill="#333" text-anchor="middle">Peers avg +1.6% yesterday</text>
+  <text x="175" y="210" font-family="Arial" font-size="11" fill="#333" text-anchor="middle">Firm i flat → BUY signal</text>
+  <text x="175" y="227" font-family="Arial" font-size="10" fill="#888" text-anchor="middle">3-day mean-reversion half-life</text>
+
+  <!-- Defs -->
+  <defs>
+    <marker id="arrowGreen" markerWidth="8" markerHeight="8" refX="6" refY="3" orient="auto">
+      <path d="M0,0 L0,6 L8,3 z" fill="#34a853"/>
+    </marker>
+  </defs>
+</svg>

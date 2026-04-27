@@ -1,0 +1,127 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 420" width="800" height="420">
+  <rect width="800" height="420" fill="white"/>
+  <!-- Title -->
+  <text x="400" y="30" font-family="Arial" font-size="18" font-weight="bold" fill="#1a1a2e" text-anchor="middle">Spurious vs Economic Edges in Stock Networks</text>
+
+  <!-- LEFT PANEL: Candidate Graph (before filter) -->
+  <rect x="30" y="55" width="340" height="330" rx="10" fill="#fff8f8" stroke="#ea4335" stroke-width="1.5"/>
+  <text x="200" y="80" font-family="Arial" font-size="14" font-weight="bold" fill="#c5221f" text-anchor="middle">Candidate Graph (Before LLM Filter)</text>
+  <text x="200" y="97" font-family="Arial" font-size="11" fill="#888" text-anchor="middle">τ ≥ 0.75 cosine similarity — many spurious edges</text>
+
+  <!-- LEFT: Spurious edges (red dashed) -->
+  <!-- AAPL - MSFT spurious -->
+  <line x1="200" y1="145" x2="315" y2="195" stroke="#ea4335" stroke-width="1.5" stroke-dasharray="5,3" opacity="0.8"/>
+  <!-- AAPL - QCOM spurious -->
+  <line x1="200" y1="145" x2="130" y2="245" stroke="#ea4335" stroke-width="1.5" stroke-dasharray="5,3" opacity="0.8"/>
+  <!-- AVGO - MSFT spurious -->
+  <line x1="285" y1="255" x2="315" y2="195" stroke="#ea4335" stroke-width="1.5" stroke-dasharray="5,3" opacity="0.8"/>
+  <!-- TSMC - QCOM spurious -->
+  <line x1="200" y1="320" x2="130" y2="245" stroke="#ea4335" stroke-width="1.5" stroke-dasharray="5,3" opacity="0.8"/>
+  <!-- MSFT - QCOM spurious -->
+  <line x1="315" y1="195" x2="130" y2="245" stroke="#ea4335" stroke-width="1.5" stroke-dasharray="5,3" opacity="0.8"/>
+
+  <!-- LEFT: Economic edges (blue solid) -->
+  <!-- AAPL - TSMC supply chain -->
+  <line x1="200" y1="145" x2="200" y2="320" stroke="#1a73e8" stroke-width="2.5" opacity="0.9"/>
+  <!-- AAPL - AVGO supply chain -->
+  <line x1="200" y1="145" x2="285" y2="255" stroke="#1a73e8" stroke-width="2.5" opacity="0.9"/>
+  <!-- NVDA - TSMC supply chain -->
+  <line x1="110" y1="200" x2="200" y2="320" stroke="#34a853" stroke-width="2.5" opacity="0.9"/>
+  <!-- NVDA - QCOM competitor -->
+  <line x1="110" y1="200" x2="130" y2="245" stroke="#34a853" stroke-width="2" opacity="0.8" stroke-dasharray="8,2"/>
+
+  <!-- LEFT: Nodes -->
+  <!-- AAPL: top center -->
+  <circle cx="200" cy="145" r="22" fill="#e8f0fe" stroke="#1a73e8" stroke-width="2"/>
+  <text x="200" y="141" font-family="Arial" font-size="10" font-weight="bold" fill="#1a73e8" text-anchor="middle">AAPL</text>
+  <text x="200" y="154" font-family="Arial" font-size="9" fill="#555" text-anchor="middle">Consumer</text>
+  <!-- MSFT: right -->
+  <circle cx="315" cy="195" r="22" fill="#fef7e0" stroke="#fbbc04" stroke-width="2"/>
+  <text x="315" y="191" font-family="Arial" font-size="10" font-weight="bold" fill="#e37400" text-anchor="middle">MSFT</text>
+  <text x="315" y="204" font-family="Arial" font-size="9" fill="#555" text-anchor="middle">Software</text>
+  <!-- AVGO: lower right -->
+  <circle cx="285" cy="255" r="22" fill="#e8f0fe" stroke="#1a73e8" stroke-width="2"/>
+  <text x="285" y="251" font-family="Arial" font-size="10" font-weight="bold" fill="#1a73e8" text-anchor="middle">AVGO</text>
+  <text x="285" y="264" font-family="Arial" font-size="9" fill="#555" text-anchor="middle">Chips</text>
+  <!-- TSMC: bottom center -->
+  <circle cx="200" cy="320" r="22" fill="#e8f0fe" stroke="#1a73e8" stroke-width="2"/>
+  <text x="200" y="316" font-family="Arial" font-size="10" font-weight="bold" fill="#1a73e8" text-anchor="middle">TSMC</text>
+  <text x="200" y="329" font-family="Arial" font-size="9" fill="#555" text-anchor="middle">Foundry</text>
+  <!-- QCOM: lower left -->
+  <circle cx="130" cy="245" r="22" fill="#fce8e6" stroke="#ea4335" stroke-width="2"/>
+  <text x="130" y="241" font-family="Arial" font-size="10" font-weight="bold" fill="#c5221f" text-anchor="middle">QCOM</text>
+  <text x="130" y="254" font-family="Arial" font-size="9" fill="#555" text-anchor="middle">Chips</text>
+  <!-- NVDA: left -->
+  <circle cx="110" cy="200" r="22" fill="#e6f4ea" stroke="#34a853" stroke-width="2"/>
+  <text x="110" y="196" font-family="Arial" font-size="10" font-weight="bold" fill="#137333" text-anchor="middle">NVDA</text>
+  <text x="110" y="209" font-family="Arial" font-size="9" fill="#555" text-anchor="middle">GPU</text>
+
+  <!-- LEFT: Legend -->
+  <line x1="48" y1="360" x2="85" y2="360" stroke="#1a73e8" stroke-width="2.5"/>
+  <text x="92" y="364" font-family="Arial" font-size="10" fill="#333">Supply chain (economic)</text>
+  <line x1="48" y1="378" x2="85" y2="378" stroke="#ea4335" stroke-width="1.5" stroke-dasharray="5,3"/>
+  <text x="92" y="382" font-family="Arial" font-size="10" fill="#333">Spurious (text overlap only)</text>
+
+  <!-- CENTER: LLM Filter arrow -->
+  <rect x="352" y="190" width="96" height="50" rx="8" fill="#fce8e6" stroke="#ea4335" stroke-width="1.5"/>
+  <text x="400" y="210" font-family="Arial" font-size="11" font-weight="bold" fill="#c5221f" text-anchor="middle">LLM</text>
+  <text x="400" y="226" font-family="Arial" font-size="11" font-weight="bold" fill="#c5221f" text-anchor="middle">Classifier</text>
+  <text x="400" y="251" font-family="Arial" font-size="10" fill="#888" text-anchor="middle">edge label</text>
+  <!-- Arrow left to right -->
+  <line x1="340" y1="215" x2="352" y2="215" stroke="#888" stroke-width="1.5" marker-end="url(#arrowGray)"/>
+  <line x1="448" y1="215" x2="462" y2="215" stroke="#888" stroke-width="1.5" marker-end="url(#arrowGray)"/>
+
+  <!-- RIGHT PANEL: Refined Graph -->
+  <rect x="430" y="55" width="340" height="330" rx="10" fill="#f0faf4" stroke="#34a853" stroke-width="1.5"/>
+  <text x="600" y="80" font-family="Arial" font-size="14" font-weight="bold" fill="#137333" text-anchor="middle">Refined Graph (After LLM Filter)</text>
+  <text x="600" y="97" font-family="Arial" font-size="11" fill="#888" text-anchor="middle">Economic edges retained — 35–50% of candidates</text>
+
+  <!-- RIGHT: Economic edges only (blue solid) -->
+  <!-- AAPL - TSMC supply chain -->
+  <line x1="600" y1="145" x2="600" y2="320" stroke="#1a73e8" stroke-width="2.5" opacity="0.9"/>
+  <!-- AAPL - AVGO supply chain -->
+  <line x1="600" y1="145" x2="685" y2="255" stroke="#1a73e8" stroke-width="2.5" opacity="0.9"/>
+  <!-- NVDA - TSMC supply chain -->
+  <line x1="510" y1="200" x2="600" y2="320" stroke="#34a853" stroke-width="2.5" opacity="0.9"/>
+  <!-- NVDA - QCOM competitor -->
+  <line x1="510" y1="200" x2="530" y2="245" stroke="#34a853" stroke-width="2" opacity="0.8" stroke-dasharray="8,2"/>
+
+  <!-- RIGHT: Nodes (same layout) -->
+  <!-- AAPL -->
+  <circle cx="600" cy="145" r="22" fill="#e8f0fe" stroke="#1a73e8" stroke-width="2"/>
+  <text x="600" y="141" font-family="Arial" font-size="10" font-weight="bold" fill="#1a73e8" text-anchor="middle">AAPL</text>
+  <text x="600" y="154" font-family="Arial" font-size="9" fill="#555" text-anchor="middle">Consumer</text>
+  <!-- MSFT: right — isolated (no economic links in this subgraph) -->
+  <circle cx="715" cy="195" r="22" fill="#f5f5f5" stroke="#ccc" stroke-width="1.5"/>
+  <text x="715" y="191" font-family="Arial" font-size="10" font-weight="bold" fill="#999" text-anchor="middle">MSFT</text>
+  <text x="715" y="204" font-family="Arial" font-size="9" fill="#aaa" text-anchor="middle">Software</text>
+  <!-- AVGO -->
+  <circle cx="685" cy="255" r="22" fill="#e8f0fe" stroke="#1a73e8" stroke-width="2"/>
+  <text x="685" y="251" font-family="Arial" font-size="10" font-weight="bold" fill="#1a73e8" text-anchor="middle">AVGO</text>
+  <text x="685" y="264" font-family="Arial" font-size="9" fill="#555" text-anchor="middle">Chips</text>
+  <!-- TSMC -->
+  <circle cx="600" cy="320" r="22" fill="#e8f0fe" stroke="#1a73e8" stroke-width="2"/>
+  <text x="600" y="316" font-family="Arial" font-size="10" font-weight="bold" fill="#1a73e8" text-anchor="middle">TSMC</text>
+  <text x="600" y="329" font-family="Arial" font-size="9" fill="#555" text-anchor="middle">Foundry</text>
+  <!-- QCOM -->
+  <circle cx="530" cy="245" r="22" fill="#e6f4ea" stroke="#34a853" stroke-width="2"/>
+  <text x="530" y="241" font-family="Arial" font-size="10" font-weight="bold" fill="#137333" text-anchor="middle">QCOM</text>
+  <text x="530" y="254" font-family="Arial" font-size="9" fill="#555" text-anchor="middle">Chips</text>
+  <!-- NVDA -->
+  <circle cx="510" cy="200" r="22" fill="#e6f4ea" stroke="#34a853" stroke-width="2"/>
+  <text x="510" y="196" font-family="Arial" font-size="10" font-weight="bold" fill="#137333" text-anchor="middle">NVDA</text>
+  <text x="510" y="209" font-family="Arial" font-size="9" fill="#555" text-anchor="middle">GPU</text>
+
+  <!-- RIGHT: Legend -->
+  <line x1="448" y1="360" x2="485" y2="360" stroke="#1a73e8" stroke-width="2.5"/>
+  <text x="492" y="364" font-family="Arial" font-size="10" fill="#333">Supply chain retained</text>
+  <circle cx="458" cy="378" r="7" fill="#f5f5f5" stroke="#ccc" stroke-width="1.5"/>
+  <text x="492" y="382" font-family="Arial" font-size="10" fill="#333">Isolated (no economic link)</text>
+
+  <!-- Defs -->
+  <defs>
+    <marker id="arrowGray" markerWidth="8" markerHeight="8" refX="6" refY="3" orient="auto">
+      <path d="M0,0 L0,6 L8,3 z" fill="#888"/>
+    </marker>
+  </defs>
+</svg>
