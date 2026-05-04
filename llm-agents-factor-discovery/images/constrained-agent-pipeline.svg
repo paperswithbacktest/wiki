@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 380" width="800" height="380">
+  <rect width="800" height="380" fill="white"/>
+  <defs>
+    <marker id="arrow" markerWidth="10" markerHeight="7" refX="10" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#5f6368"/>
+    </marker>
+    <marker id="arrowBlue" markerWidth="10" markerHeight="7" refX="10" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#1a73e8"/>
+    </marker>
+  </defs>
+
+  <!-- Title -->
+  <text x="400" y="30" text-anchor="middle" font-family="Arial" font-size="18" fill="#1a1a1a" font-weight="bold">Constrained LLM Agent Pipeline for Factor Discovery</text>
+
+  <!-- LLM AGENT box (blue) -->
+  <rect x="30" y="60" width="170" height="145" rx="10" fill="#e8f0fe" stroke="#1a73e8" stroke-width="2"/>
+  <text x="115" y="92" text-anchor="middle" font-family="Arial" font-size="15" fill="#1a73e8" font-weight="bold">LLM AGENT</text>
+  <text x="115" y="118" text-anchor="middle" font-family="Arial" font-size="12" fill="#5f6368">Reads experiment trace</text>
+  <text x="115" y="138" text-anchor="middle" font-family="Arial" font-size="12" fill="#5f6368">Proposes hypothesis</text>
+  <text x="115" y="158" text-anchor="middle" font-family="Arial" font-size="12" fill="#5f6368">in plain language</text>
+  <text x="115" y="185" text-anchor="middle" font-family="Arial" font-size="11" fill="#1a73e8">GPT-4 / Claude Sonnet</text>
+
+  <!-- Arrow LLM Agent → Factor DSL -->
+  <line x1="200" y1="133" x2="246" y2="133" stroke="#5f6368" stroke-width="2" marker-end="url(#arrow)"/>
+
+  <!-- FACTOR DSL box (yellow) -->
+  <rect x="248" y="60" width="170" height="145" rx="10" fill="#fef7e0" stroke="#fbbc04" stroke-width="2"/>
+  <text x="333" y="92" text-anchor="middle" font-family="Arial" font-size="15" fill="#b06000" font-weight="bold">FACTOR DSL</text>
+  <text x="333" y="118" text-anchor="middle" font-family="Arial" font-size="12" fill="#5f6368">Constrained action space</text>
+  <text x="333" y="138" text-anchor="middle" font-family="Arial" font-size="12" fill="#5f6368">~30 canonical operations:</text>
+  <text x="333" y="158" text-anchor="middle" font-family="Arial" font-size="12" fill="#5f6368">momentum · rank · volatility</text>
+  <text x="333" y="185" text-anchor="middle" font-family="Arial" font-size="11" fill="#b06000">point-in-time clean</text>
+
+  <!-- Arrow Factor DSL → Deterministic Engine -->
+  <line x1="418" y1="133" x2="464" y2="133" stroke="#5f6368" stroke-width="2" marker-end="url(#arrow)"/>
+
+  <!-- DETERMINISTIC ENGINE box (green) -->
+  <rect x="466" y="60" width="295" height="145" rx="10" fill="#e6f4ea" stroke="#34a853" stroke-width="2"/>
+  <text x="613" y="92" text-anchor="middle" font-family="Arial" font-size="15" fill="#0d652d" font-weight="bold">DETERMINISTIC ENGINE</text>
+  <text x="613" y="116" text-anchor="middle" font-family="Arial" font-size="12" fill="#5f6368">&#x2713;  Fixed data splits (train / val / test)</text>
+  <text x="613" y="136" text-anchor="middle" font-family="Arial" font-size="12" fill="#5f6368">&#x2713;  Selection gates  (IC &#x2265; threshold)</text>
+  <text x="613" y="156" text-anchor="middle" font-family="Arial" font-size="12" fill="#5f6368">&#x2713;  Transaction-cost filter</text>
+  <text x="613" y="185" text-anchor="middle" font-family="Arial" font-size="11" fill="#0d652d">IC &#xB7; net Sharpe &#xB7; max drawdown &#xB7; turnover</text>
+
+  <!-- Feedback path: Engine bottom-center → down → left → up to LLM Agent bottom-center -->
+  <path d="M 613 205 L 613 310 L 115 310 L 115 207" fill="none" stroke="#1a73e8" stroke-width="2" stroke-dasharray="8,4" marker-end="url(#arrowBlue)"/>
+
+  <!-- Feedback label -->
+  <text x="400" y="348" text-anchor="middle" font-family="Arial" font-size="13" fill="#1a73e8" font-style="italic">Evaluation results appended to append-only experiment trace; agent reads on next step</text>
+</svg>

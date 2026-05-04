@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 340" width="800" height="340">
+  <rect width="800" height="340" fill="white"/>
+  <defs>
+    <marker id="arrow" markerWidth="10" markerHeight="7" refX="10" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#5f6368"/>
+    </marker>
+    <marker id="arrowRed" markerWidth="10" markerHeight="7" refX="10" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#ea4335"/>
+    </marker>
+  </defs>
+
+  <!-- Title -->
+  <text x="400" y="30" text-anchor="middle" font-family="Arial" font-size="18" fill="#1a1a1a" font-weight="bold">Sequential Hypothesis Search Protocol</text>
+
+  <!-- Step 1: READ TRACE (blue) -->
+  <rect x="25" y="60" width="120" height="130" rx="10" fill="#e8f0fe" stroke="#1a73e8" stroke-width="2"/>
+  <text x="85" y="88" text-anchor="middle" font-family="Arial" font-size="11" fill="#1a73e8">Step 1</text>
+  <text x="85" y="110" text-anchor="middle" font-family="Arial" font-size="14" fill="#1a73e8" font-weight="bold">Read</text>
+  <text x="85" y="130" text-anchor="middle" font-family="Arial" font-size="14" fill="#1a73e8" font-weight="bold">Trace</text>
+  <text x="85" y="170" text-anchor="middle" font-family="Arial" font-size="11" fill="#5f6368">all prior results</text>
+
+  <!-- Arrow 1 → 2 -->
+  <line x1="145" y1="125" x2="168" y2="125" stroke="#5f6368" stroke-width="2" marker-end="url(#arrow)"/>
+
+  <!-- Step 2: PROPOSE HYPOTHESIS (blue) -->
+  <rect x="170" y="60" width="120" height="130" rx="10" fill="#e8f0fe" stroke="#1a73e8" stroke-width="2"/>
+  <text x="230" y="88" text-anchor="middle" font-family="Arial" font-size="11" fill="#1a73e8">Step 2</text>
+  <text x="230" y="110" text-anchor="middle" font-family="Arial" font-size="14" fill="#1a73e8" font-weight="bold">Propose</text>
+  <text x="230" y="130" text-anchor="middle" font-family="Arial" font-size="14" fill="#1a73e8" font-weight="bold">Hypothesis</text>
+  <text x="230" y="170" text-anchor="middle" font-family="Arial" font-size="11" fill="#5f6368">falsifiable, specific</text>
+
+  <!-- Arrow 2 → 3 -->
+  <line x1="290" y1="125" x2="313" y2="125" stroke="#5f6368" stroke-width="2" marker-end="url(#arrow)"/>
+
+  <!-- Step 3: MAP TO DSL (yellow) -->
+  <rect x="315" y="60" width="120" height="130" rx="10" fill="#fef7e0" stroke="#fbbc04" stroke-width="2"/>
+  <text x="375" y="88" text-anchor="middle" font-family="Arial" font-size="11" fill="#b06000">Step 3</text>
+  <text x="375" y="110" text-anchor="middle" font-family="Arial" font-size="14" fill="#b06000" font-weight="bold">Map to</text>
+  <text x="375" y="130" text-anchor="middle" font-family="Arial" font-size="14" fill="#b06000" font-weight="bold">DSL Recipe</text>
+  <text x="375" y="170" text-anchor="middle" font-family="Arial" font-size="11" fill="#5f6368">~30 canonical ops</text>
+
+  <!-- Arrow 3 → 4 -->
+  <line x1="435" y1="125" x2="458" y2="125" stroke="#5f6368" stroke-width="2" marker-end="url(#arrow)"/>
+
+  <!-- Step 4: EVALUATE AND GATE (green) -->
+  <rect x="460" y="60" width="120" height="130" rx="10" fill="#e6f4ea" stroke="#34a853" stroke-width="2"/>
+  <text x="520" y="88" text-anchor="middle" font-family="Arial" font-size="11" fill="#0d652d">Step 4</text>
+  <text x="520" y="110" text-anchor="middle" font-family="Arial" font-size="14" fill="#0d652d" font-weight="bold">Evaluate</text>
+  <text x="520" y="130" text-anchor="middle" font-family="Arial" font-size="14" fill="#0d652d" font-weight="bold">&amp; Gate</text>
+  <text x="520" y="170" text-anchor="middle" font-family="Arial" font-size="11" fill="#5f6368">IC &#xB7; Sharpe &#xB7; costs</text>
+
+  <!-- Arrow 4 → 5 -->
+  <line x1="580" y1="125" x2="603" y2="125" stroke="#5f6368" stroke-width="2" marker-end="url(#arrow)"/>
+
+  <!-- Step 5: APPEND TO TRACE (red) -->
+  <rect x="605" y="60" width="120" height="130" rx="10" fill="#fce8e6" stroke="#ea4335" stroke-width="2"/>
+  <text x="665" y="88" text-anchor="middle" font-family="Arial" font-size="11" fill="#c62828">Step 5</text>
+  <text x="665" y="110" text-anchor="middle" font-family="Arial" font-size="14" fill="#c62828" font-weight="bold">Append</text>
+  <text x="665" y="130" text-anchor="middle" font-family="Arial" font-size="14" fill="#c62828" font-weight="bold">to Trace</text>
+  <text x="665" y="170" text-anchor="middle" font-family="Arial" font-size="11" fill="#5f6368">locked, auditable</text>
+
+  <!-- Return arrow: from right of Step 5 → down → left → up into Step 1 -->
+  <path d="M 725 125 L 760 125 L 760 265 L 10 265 L 10 125 L 25 125" fill="none" stroke="#ea4335" stroke-width="2" stroke-dasharray="7,4" marker-end="url(#arrowRed)"/>
+
+  <!-- Return label -->
+  <text x="385" y="295" text-anchor="middle" font-family="Arial" font-size="12" fill="#ea4335" font-style="italic">Repeat until budget exhausted or IC plateau reached</text>
+</svg>
