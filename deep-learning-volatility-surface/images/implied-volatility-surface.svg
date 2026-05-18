@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 420" width="800" height="420">
+  <rect width="800" height="420" fill="white"/>
+  <defs>
+    <marker id="arrow" markerWidth="10" markerHeight="7" refX="10" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#5f6368"/>
+    </marker>
+  </defs>
+
+  <!-- Title -->
+  <text x="400" y="32" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" fill="#202124" font-weight="bold">Implied Volatility Surface: Strike × Maturity → IV</text>
+
+  <!-- 3D-ish axes -->
+  <!-- Base parallelogram (Strike vs Maturity plane) -->
+  <polygon points="120,330 540,330 640,250 220,250" fill="#f8f9fa" stroke="#5f6368" stroke-width="1.5"/>
+
+  <!-- Surface mesh - approximate skew + term structure -->
+  <!-- Slices across strike (constant maturity) -->
+  <path d="M 220 230 Q 320 200 430 190 Q 540 200 640 220" fill="none" stroke="#1a73e8" stroke-width="2"/>
+  <path d="M 180 260 Q 290 215 410 200 Q 530 215 620 245" fill="none" stroke="#1a73e8" stroke-width="2" opacity="0.85"/>
+  <path d="M 150 290 Q 270 235 400 215 Q 520 235 600 275" fill="none" stroke="#1a73e8" stroke-width="2" opacity="0.7"/>
+  <path d="M 120 315 Q 250 250 390 230 Q 510 250 580 300" fill="none" stroke="#1a73e8" stroke-width="2" opacity="0.55"/>
+
+  <!-- Listed quote dots (noisy point cloud) -->
+  <g fill="#ea4335">
+    <circle cx="220" cy="232" r="3"/>
+    <circle cx="290" cy="215" r="3"/>
+    <circle cx="360" cy="200" r="3"/>
+    <circle cx="430" cy="191" r="3"/>
+    <circle cx="500" cy="198" r="3"/>
+    <circle cx="570" cy="213" r="3"/>
+    <circle cx="640" cy="220" r="3"/>
+
+    <circle cx="180" cy="262" r="3" opacity="0.85"/>
+    <circle cx="260" cy="232" r="3" opacity="0.85"/>
+    <circle cx="350" cy="208" r="3" opacity="0.85"/>
+    <circle cx="450" cy="210" r="3" opacity="0.85"/>
+    <circle cx="540" cy="220" r="3" opacity="0.85"/>
+    <circle cx="620" cy="247" r="3" opacity="0.85"/>
+
+    <circle cx="150" cy="291" r="3" opacity="0.7"/>
+    <circle cx="280" cy="240" r="3" opacity="0.7"/>
+    <circle cx="400" cy="218" r="3" opacity="0.7"/>
+    <circle cx="520" cy="240" r="3" opacity="0.7"/>
+    <circle cx="600" cy="277" r="3" opacity="0.7"/>
+
+    <circle cx="120" cy="316" r="3" opacity="0.55"/>
+    <circle cx="260" cy="258" r="3" opacity="0.55"/>
+    <circle cx="390" cy="233" r="3" opacity="0.55"/>
+    <circle cx="510" cy="252" r="3" opacity="0.55"/>
+    <circle cx="580" cy="301" r="3" opacity="0.55"/>
+  </g>
+
+  <!-- Axis lines -->
+  <line x1="120" y1="330" x2="540" y2="330" stroke="#5f6368" stroke-width="2"/>
+  <line x1="540" y1="330" x2="640" y2="250" stroke="#5f6368" stroke-width="2"/>
+  <line x1="120" y1="330" x2="120" y2="120" stroke="#5f6368" stroke-width="2"/>
+
+  <!-- Axis labels -->
+  <text x="330" y="358" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#202124" font-weight="bold">Strike (log-moneyness k)</text>
+  <text x="640" y="285" font-family="Arial, sans-serif" font-size="13" fill="#202124" font-weight="bold">Maturity T</text>
+  <text x="95" y="220" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#202124" font-weight="bold" transform="rotate(-90 95 220)">Implied vol σ</text>
+
+  <!-- Annotations -->
+  <text x="225" y="220" font-family="Arial, sans-serif" font-size="11" fill="#ea4335" font-style="italic">put skew</text>
+  <line x1="222" y1="222" x2="220" y2="230" stroke="#ea4335" stroke-width="1"/>
+
+  <text x="445" y="180" font-family="Arial, sans-serif" font-size="11" fill="#1a73e8" font-style="italic">ATM minimum</text>
+  <line x1="442" y1="184" x2="430" y2="190" stroke="#1a73e8" stroke-width="1"/>
+
+  <text x="640" y="200" font-family="Arial, sans-serif" font-size="11" fill="#5f6368" font-style="italic">long-dated wing</text>
+  <line x1="638" y1="203" x2="635" y2="218" stroke="#5f6368" stroke-width="1"/>
+
+  <!-- Legend -->
+  <rect x="50" y="370" width="700" height="38" rx="6" fill="#fef7e0" stroke="#fbbc04" stroke-width="1"/>
+  <circle cx="80" cy="389" r="4" fill="#ea4335"/>
+  <text x="92" y="393" font-family="Arial, sans-serif" font-size="12" fill="#202124">Listed option quotes (noisy)</text>
+  <line x1="270" y1="389" x2="295" y2="389" stroke="#1a73e8" stroke-width="2"/>
+  <text x="303" y="393" font-family="Arial, sans-serif" font-size="12" fill="#202124">Smooth surface fitted by the neural network</text>
+  <text x="555" y="393" font-family="Arial, sans-serif" font-size="12" fill="#202124" font-style="italic">σ(k,T) for vanillas, exotics, Greeks</text>
+</svg>
