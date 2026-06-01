@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 420" width="800" height="420">
+  <rect width="800" height="420" fill="white"/>
+  <defs>
+    <marker id="ax" markerWidth="9" markerHeight="7" refX="8" refY="3.5" orient="auto">
+      <polygon points="0 0, 9 3.5, 0 7" fill="#5f6368"/>
+    </marker>
+  </defs>
+
+  <!-- Title -->
+  <text x="400" y="34" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" fill="#202124" font-weight="bold">Fitness vs. Generations: LLM Evolution vs. Random Mutation</text>
+
+  <!-- Axes -->
+  <line x1="90" y1="350" x2="740" y2="350" stroke="#5f6368" stroke-width="2" marker-end="url(#ax)"/>
+  <line x1="90" y1="350" x2="90" y2="70" stroke="#5f6368" stroke-width="2" marker-end="url(#ax)"/>
+  <text x="415" y="392" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#202124">Generation</text>
+  <text x="40" y="210" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#202124" transform="rotate(-90 40 210)">Best fitness (penalized Sharpe)</text>
+
+  <!-- Gridline labels -->
+  <text x="90" y="368" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#5f6368">0</text>
+  <text x="415" y="368" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#5f6368">25</text>
+  <text x="730" y="368" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#5f6368">50</text>
+
+  <!-- LLM-driven curve (steep, fast plateau) -->
+  <path d="M 90 350 Q 150 150, 280 115 T 730 95" fill="none" stroke="#1a73e8" stroke-width="3"/>
+  <circle cx="730" cy="95" r="4" fill="#1a73e8"/>
+
+  <!-- Random-mutation curve (slow climb) -->
+  <path d="M 90 350 Q 350 305, 500 255 T 730 205" fill="none" stroke="#ea4335" stroke-width="3" stroke-dasharray="7,4"/>
+  <circle cx="730" cy="205" r="4" fill="#ea4335"/>
+
+  <!-- Legend -->
+  <rect x="470" y="95" width="250" height="62" rx="8" fill="#f8f9fa" stroke="#dadce0" stroke-width="1"/>
+  <line x1="486" y1="115" x2="520" y2="115" stroke="#1a73e8" stroke-width="3"/>
+  <text x="528" y="119" font-family="Arial, sans-serif" font-size="12" fill="#202124">LLM-driven mutation</text>
+  <line x1="486" y1="140" x2="520" y2="140" stroke="#ea4335" stroke-width="3" stroke-dasharray="7,4"/>
+  <text x="528" y="144" font-family="Arial, sans-serif" font-size="12" fill="#202124">Blind genetic mutation</text>
+
+  <!-- Annotation -->
+  <text x="245" y="150" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#1a73e8" font-style="italic">Financial priors concentrate</text>
+  <text x="245" y="166" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#1a73e8" font-style="italic">the search early</text>
+</svg>
