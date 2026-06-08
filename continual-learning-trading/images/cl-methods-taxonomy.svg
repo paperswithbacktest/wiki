@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 360" width="800" height="360">
+  <rect width="800" height="360" fill="white"/>
+
+  <!-- Title -->
+  <text x="400" y="35" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" fill="#202124" font-weight="bold">Three Families of Continual-Learning Methods</text>
+
+  <!-- Regularisation -->
+  <rect x="30" y="70" width="230" height="240" rx="12" fill="#e8f0fe" stroke="#1a73e8" stroke-width="2"/>
+  <text x="145" y="100" text-anchor="middle" font-family="Arial, sans-serif" font-size="15" fill="#1a73e8" font-weight="bold">Regularisation</text>
+  <text x="145" y="124" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#5f6368">Penalise changes to</text>
+  <text x="145" y="140" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#5f6368">important weights</text>
+  <text x="145" y="172" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#202124" font-weight="bold">EWC · SI · LwF</text>
+  <text x="145" y="206" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#34a853">+ No extra memory</text>
+  <text x="145" y="226" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#34a853">+ Cheap</text>
+  <text x="145" y="256" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#ea4335">- Saturates over</text>
+  <text x="145" y="272" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#ea4335">  many regimes</text>
+
+  <!-- Replay -->
+  <rect x="285" y="70" width="230" height="240" rx="12" fill="#e6f4ea" stroke="#34a853" stroke-width="2"/>
+  <text x="400" y="100" text-anchor="middle" font-family="Arial, sans-serif" font-size="15" fill="#34a853" font-weight="bold">Replay / Rehearsal</text>
+  <text x="400" y="124" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#5f6368">Interleave a buffer of</text>
+  <text x="400" y="140" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#5f6368">past episodes</text>
+  <text x="400" y="172" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#202124" font-weight="bold">Experience replay</text>
+  <text x="400" y="206" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#34a853">+ Keeps tail regimes</text>
+  <text x="400" y="226" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#34a853">+ Strong retention</text>
+  <text x="400" y="256" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#ea4335">- Buffer can overfit</text>
+  <text x="400" y="272" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#ea4335">- Storage cost</text>
+
+  <!-- Architectural -->
+  <rect x="540" y="70" width="230" height="240" rx="12" fill="#fef7e0" stroke="#fbbc04" stroke-width="2"/>
+  <text x="655" y="100" text-anchor="middle" font-family="Arial, sans-serif" font-size="15" fill="#b8860b" font-weight="bold">Architectural</text>
+  <text x="655" y="124" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#5f6368">New capacity per regime;</text>
+  <text x="655" y="140" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#5f6368">isolate parameters</text>
+  <text x="655" y="172" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#202124" font-weight="bold">Adapters · MoE gating</text>
+  <text x="655" y="206" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#34a853">+ No overwriting</text>
+  <text x="655" y="226" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#34a853">+ Most expressive</text>
+  <text x="655" y="256" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#ea4335">- Model grows with</text>
+  <text x="655" y="272" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#ea4335">  number of regimes</text>
+
+  <text x="400" y="338" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#5f6368" font-style="italic">Production systems usually combine all three.</text>
+</svg>

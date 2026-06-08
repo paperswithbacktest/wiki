@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 420" width="800" height="420">
+  <rect width="800" height="420" fill="white"/>
+  <defs>
+    <marker id="ax" markerWidth="10" markerHeight="7" refX="10" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#5f6368"/>
+    </marker>
+  </defs>
+
+  <!-- Title -->
+  <text x="400" y="35" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" fill="#202124" font-weight="bold">The Stability-Plasticity Dilemma in Trading Models</text>
+
+  <!-- Axes -->
+  <line x1="100" y1="350" x2="720" y2="350" stroke="#5f6368" stroke-width="2" marker-end="url(#ax)"/>
+  <line x1="100" y1="350" x2="100" y2="70" stroke="#5f6368" stroke-width="2" marker-end="url(#ax)"/>
+  <text x="410" y="390" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#202124" font-weight="bold">Plasticity (adaptation speed) &#8594;</text>
+  <text x="55" y="210" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#202124" font-weight="bold" transform="rotate(-90 55 210)">Knowledge retained &#8594;</text>
+
+  <!-- Frozen model curve: high retention, low adaptation -->
+  <circle cx="170" cy="120" r="9" fill="#1a73e8" stroke="#1a73e8"/>
+  <text x="190" y="115" font-family="Arial, sans-serif" font-size="12" fill="#1a73e8" font-weight="bold">Frozen model</text>
+  <text x="190" y="132" font-family="Arial, sans-serif" font-size="11" fill="#5f6368">remembers all, adapts none &#8594; decays</text>
+
+  <!-- Naive retrain: high adaptation, low retention -->
+  <circle cx="650" cy="310" r="9" fill="#ea4335" stroke="#ea4335"/>
+  <text x="640" y="335" text-anchor="end" font-family="Arial, sans-serif" font-size="12" fill="#ea4335" font-weight="bold">Naive fine-tune</text>
+  <text x="640" y="352" text-anchor="end" font-family="Arial, sans-serif" font-size="11" fill="#5f6368">adapts fast, forgets &#8594; whipsaws</text>
+
+  <!-- Continual learner sweet spot -->
+  <circle cx="430" cy="150" r="12" fill="#34a853" stroke="#1e7e34" stroke-width="2"/>
+  <text x="430" y="135" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#34a853" font-weight="bold">Continual learner</text>
+  <text x="430" y="185" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#5f6368">tunable balance via &#955;</text>
+
+  <!-- Frontier curve -->
+  <path d="M 170 120 Q 430 110 650 310" fill="none" stroke="#34a853" stroke-width="2" stroke-dasharray="7,4"/>
+  <text x="540" y="180" font-family="Arial, sans-serif" font-size="11" fill="#34a853" font-style="italic">achievable frontier</text>
+</svg>

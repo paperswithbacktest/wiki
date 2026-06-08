@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 420" width="800" height="420">
+  <rect width="800" height="420" fill="white"/>
+  <defs>
+    <marker id="arrow" markerWidth="10" markerHeight="7" refX="10" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#5f6368"/>
+    </marker>
+    <marker id="arrowBlue" markerWidth="10" markerHeight="7" refX="10" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#1a73e8"/>
+    </marker>
+  </defs>
+
+  <!-- Title -->
+  <text x="400" y="35" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" fill="#202124" font-weight="bold">Continual Learning for Trading: Stream of Market Regimes</text>
+
+  <!-- Regime stream -->
+  <rect x="30" y="70" width="150" height="70" rx="10" fill="#e8f0fe" stroke="#1a73e8" stroke-width="2"/>
+  <text x="105" y="100" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#1a73e8" font-weight="bold">Regime t-1</text>
+  <text x="105" y="122" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#5f6368">Low-vol bull</text>
+
+  <rect x="210" y="70" width="150" height="70" rx="10" fill="#fce8e6" stroke="#ea4335" stroke-width="2"/>
+  <text x="285" y="100" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#ea4335" font-weight="bold">Regime t</text>
+  <text x="285" y="122" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#5f6368">Crash / high-vol</text>
+
+  <rect x="390" y="70" width="150" height="70" rx="10" fill="#fef7e0" stroke="#fbbc04" stroke-width="2"/>
+  <text x="465" y="100" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#b8860b" font-weight="bold">Regime t+1</text>
+  <text x="465" y="122" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#5f6368">Recovery</text>
+
+  <text x="600" y="112" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" fill="#5f6368">. . .</text>
+
+  <line x1="180" y1="105" x2="206" y2="105" stroke="#5f6368" stroke-width="2" marker-end="url(#arrow)"/>
+  <line x1="360" y1="105" x2="386" y2="105" stroke="#5f6368" stroke-width="2" marker-end="url(#arrow)"/>
+
+  <!-- Arrows down into model -->
+  <line x1="105" y1="140" x2="320" y2="218" stroke="#5f6368" stroke-width="1.5" marker-end="url(#arrow)"/>
+  <line x1="285" y1="140" x2="370" y2="218" stroke="#5f6368" stroke-width="1.5" marker-end="url(#arrow)"/>
+  <line x1="465" y1="140" x2="430" y2="218" stroke="#5f6368" stroke-width="1.5" marker-end="url(#arrow)"/>
+
+  <!-- Model -->
+  <rect x="260" y="225" width="280" height="90" rx="12" fill="#e6f4ea" stroke="#34a853" stroke-width="2.5"/>
+  <text x="400" y="255" text-anchor="middle" font-family="Arial, sans-serif" font-size="15" fill="#34a853" font-weight="bold">Continual Learner</text>
+  <text x="400" y="278" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#5f6368">Update on new regime</text>
+  <text x="400" y="298" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#5f6368">+ consolidate past knowledge</text>
+
+  <!-- Memory / replay sidebar -->
+  <rect x="580" y="225" width="180" height="90" rx="10" fill="#fff3e0" stroke="#fb8c00" stroke-width="1.5"/>
+  <text x="670" y="252" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#fb8c00" font-weight="bold">Memory</text>
+  <text x="670" y="274" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#5f6368">Replay buffer +</text>
+  <text x="670" y="292" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#5f6368">weight anchors</text>
+  <line x1="578" y1="270" x2="544" y2="270" stroke="#fb8c00" stroke-width="1.5" stroke-dasharray="4,3" marker-end="url(#arrow)"/>
+  <line x1="540" y1="290" x2="576" y2="290" stroke="#fb8c00" stroke-width="1.5" stroke-dasharray="4,3" marker-end="url(#arrow)"/>
+
+  <!-- Output -->
+  <rect x="300" y="345" width="200" height="50" rx="10" fill="#e8f0fe" stroke="#1a73e8" stroke-width="2"/>
+  <text x="400" y="376" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#1a73e8" font-weight="bold">Trading decisions, all regimes</text>
+  <line x1="400" y1="315" x2="400" y2="341" stroke="#1a73e8" stroke-width="2" marker-end="url(#arrowBlue)"/>
+</svg>
