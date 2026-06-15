@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 440" width="800" height="440">
+  <rect width="800" height="440" fill="white"/>
+  <defs>
+    <marker id="arrow" markerWidth="10" markerHeight="7" refX="10" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#5f6368"/>
+    </marker>
+    <marker id="arrowBlue" markerWidth="10" markerHeight="7" refX="10" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#1a73e8"/>
+    </marker>
+  </defs>
+
+  <!-- Title -->
+  <text x="400" y="35" text-anchor="middle" font-family="Arial" font-size="18" fill="#202124" font-weight="bold">RL Trade Execution: State → Action → Reward Loop</text>
+
+  <!-- STATE box -->
+  <rect x="30" y="70" width="220" height="170" rx="10" fill="#e8f0fe" stroke="#1a73e8" stroke-width="2"/>
+  <text x="140" y="100" text-anchor="middle" font-family="Arial" font-size="15" fill="#1a73e8" font-weight="bold">STATE</text>
+  <text x="140" y="128" text-anchor="middle" font-family="Arial" font-size="12" fill="#5f6368">Shares remaining</text>
+  <text x="140" y="148" text-anchor="middle" font-family="Arial" font-size="12" fill="#5f6368">Time remaining</text>
+  <text x="140" y="168" text-anchor="middle" font-family="Arial" font-size="12" fill="#5f6368">Spread &amp; depth</text>
+  <text x="140" y="188" text-anchor="middle" font-family="Arial" font-size="12" fill="#5f6368">Order-book imbalance</text>
+  <text x="140" y="208" text-anchor="middle" font-family="Arial" font-size="12" fill="#5f6368">Volatility</text>
+
+  <!-- Arrow: State -> Agent -->
+  <line x1="250" y1="155" x2="285" y2="155" stroke="#5f6368" stroke-width="2" marker-end="url(#arrow)"/>
+
+  <!-- AGENT box -->
+  <rect x="290" y="70" width="220" height="170" rx="10" fill="#fce8e6" stroke="#ea4335" stroke-width="2"/>
+  <text x="400" y="100" text-anchor="middle" font-family="Arial" font-size="15" fill="#ea4335" font-weight="bold">AGENT (policy &#960;)</text>
+  <text x="400" y="128" text-anchor="middle" font-family="Arial" font-size="12" fill="#5f6368">Actor-critic network</text>
+  <text x="400" y="148" text-anchor="middle" font-family="Arial" font-size="12" fill="#5f6368">DQN / DDPG / TD3 / PPO</text>
+  <text x="400" y="172" text-anchor="middle" font-family="Arial" font-size="12" fill="#5f6368">Maps state &#8594; child order</text>
+  <text x="400" y="200" text-anchor="middle" font-family="Arial" font-size="11" fill="#9aa0a6" font-style="italic">balance impact vs. timing risk</text>
+
+  <!-- Arrow: Agent -> Action -->
+  <line x1="510" y1="155" x2="545" y2="155" stroke="#5f6368" stroke-width="2" marker-end="url(#arrow)"/>
+
+  <!-- ACTION box -->
+  <rect x="550" y="70" width="220" height="170" rx="10" fill="#e6f4ea" stroke="#34a853" stroke-width="2"/>
+  <text x="660" y="100" text-anchor="middle" font-family="Arial" font-size="15" fill="#34a853" font-weight="bold">ACTION</text>
+  <text x="660" y="128" text-anchor="middle" font-family="Arial" font-size="12" fill="#5f6368">Child-order size</text>
+  <text x="660" y="148" text-anchor="middle" font-family="Arial" font-size="12" fill="#5f6368">Limit-price offset</text>
+  <text x="660" y="168" text-anchor="middle" font-family="Arial" font-size="12" fill="#5f6368">Passive vs. aggressive</text>
+  <text x="660" y="188" text-anchor="middle" font-family="Arial" font-size="12" fill="#5f6368">Participation rate</text>
+  <text x="660" y="208" text-anchor="middle" font-family="Arial" font-size="12" fill="#5f6368">Routed to the book</text>
+
+  <!-- MARKET / LOB box -->
+  <rect x="290" y="290" width="220" height="80" rx="10" fill="#fef7e0" stroke="#fbbc04" stroke-width="2"/>
+  <text x="400" y="320" text-anchor="middle" font-family="Arial" font-size="15" fill="#f9a825" font-weight="bold">LIMIT ORDER BOOK</text>
+  <text x="400" y="345" text-anchor="middle" font-family="Arial" font-size="11" fill="#5f6368">Fills + self-impact evolve state</text>
+
+  <!-- Arrow: Action down to market -->
+  <path d="M 660 240 L 660 330 L 515 330" fill="none" stroke="#5f6368" stroke-width="2" marker-end="url(#arrow)"/>
+
+  <!-- Arrow: Market reward back to agent -->
+  <path d="M 285 330 L 140 330 L 140 245" fill="none" stroke="#1a73e8" stroke-width="2" stroke-dasharray="8,4" marker-end="url(#arrowBlue)"/>
+  <text x="140" y="300" text-anchor="middle" font-family="Arial" font-size="11" fill="#1a73e8">reward</text>
+
+  <!-- Reward formula -->
+  <text x="400" y="412" text-anchor="middle" font-family="Arial" font-size="13" fill="#1a73e8" font-weight="bold">Reward r&#8348; = &#8722; implementation shortfall = &#8722;(p&#8348; &#8722; p&#8320;)&#183;q&#8348;</text>
+</svg>

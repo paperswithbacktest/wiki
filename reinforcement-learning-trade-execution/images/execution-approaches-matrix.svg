@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 360" width="800" height="360">
+  <rect width="800" height="360" fill="white"/>
+
+  <!-- Title -->
+  <text x="400" y="32" text-anchor="middle" font-family="Arial" font-size="18" fill="#202124" font-weight="bold">Execution Algorithms: Open-Loop vs. Adaptive</text>
+
+  <!-- Column headers -->
+  <text x="120" y="78" text-anchor="middle" font-family="Arial" font-size="12" fill="#5f6368" font-weight="bold">Approach</text>
+  <text x="320" y="78" text-anchor="middle" font-family="Arial" font-size="12" fill="#5f6368" font-weight="bold">Adapts to live state</text>
+  <text x="500" y="78" text-anchor="middle" font-family="Arial" font-size="12" fill="#5f6368" font-weight="bold">Impact model</text>
+  <text x="680" y="78" text-anchor="middle" font-family="Arial" font-size="12" fill="#5f6368" font-weight="bold">Best when</text>
+  <line x1="30" y1="88" x2="770" y2="88" stroke="#dadce0" stroke-width="1.5"/>
+
+  <!-- Row: TWAP -->
+  <rect x="30" y="98" width="180" height="50" rx="6" fill="#e8f0fe" stroke="#1a73e8" stroke-width="1.5"/>
+  <text x="120" y="128" text-anchor="middle" font-family="Arial" font-size="13" fill="#1a73e8" font-weight="bold">TWAP</text>
+  <text x="320" y="120" text-anchor="middle" font-family="Arial" font-size="11" fill="#ea4335" font-weight="bold">No</text>
+  <text x="320" y="137" text-anchor="middle" font-family="Arial" font-size="10" fill="#5f6368">equal time slices</text>
+  <text x="500" y="128" text-anchor="middle" font-family="Arial" font-size="11" fill="#5f6368">None</text>
+  <text x="680" y="128" text-anchor="middle" font-family="Arial" font-size="10" fill="#5f6368">simple, low-cost default</text>
+
+  <!-- Row: VWAP -->
+  <rect x="30" y="158" width="180" height="50" rx="6" fill="#fef7e0" stroke="#fbbc04" stroke-width="1.5"/>
+  <text x="120" y="188" text-anchor="middle" font-family="Arial" font-size="13" fill="#f9a825" font-weight="bold">VWAP</text>
+  <text x="320" y="180" text-anchor="middle" font-family="Arial" font-size="11" fill="#f9a825" font-weight="bold">Partial</text>
+  <text x="320" y="197" text-anchor="middle" font-family="Arial" font-size="10" fill="#5f6368">volume-curve forecast</text>
+  <text x="500" y="188" text-anchor="middle" font-family="Arial" font-size="11" fill="#5f6368">None</text>
+  <text x="680" y="188" text-anchor="middle" font-family="Arial" font-size="10" fill="#5f6368">track market volume</text>
+
+  <!-- Row: Almgren-Chriss -->
+  <rect x="30" y="218" width="180" height="50" rx="6" fill="#f1f3f4" stroke="#9aa0a6" stroke-width="1.5"/>
+  <text x="120" y="241" text-anchor="middle" font-family="Arial" font-size="13" fill="#5f6368" font-weight="bold">Almgren-Chriss</text>
+  <text x="120" y="258" text-anchor="middle" font-family="Arial" font-size="10" fill="#9aa0a6">closed-form</text>
+  <text x="320" y="240" text-anchor="middle" font-family="Arial" font-size="11" fill="#ea4335" font-weight="bold">No</text>
+  <text x="320" y="257" text-anchor="middle" font-family="Arial" font-size="10" fill="#5f6368">pre-computed path</text>
+  <text x="500" y="240" text-anchor="middle" font-family="Arial" font-size="11" fill="#5f6368">Linear</text>
+  <text x="500" y="257" text-anchor="middle" font-family="Arial" font-size="10" fill="#9aa0a6">+ constant vol</text>
+  <text x="680" y="244" text-anchor="middle" font-family="Arial" font-size="10" fill="#5f6368">assumptions hold</text>
+
+  <!-- Row: RL -->
+  <rect x="30" y="278" width="180" height="50" rx="6" fill="#e6f4ea" stroke="#34a853" stroke-width="2"/>
+  <text x="120" y="301" text-anchor="middle" font-family="Arial" font-size="13" fill="#34a853" font-weight="bold">RL execution</text>
+  <text x="120" y="318" text-anchor="middle" font-family="Arial" font-size="10" fill="#34a853">learned &#960;(s)</text>
+  <text x="320" y="300" text-anchor="middle" font-family="Arial" font-size="11" fill="#34a853" font-weight="bold">Yes</text>
+  <text x="320" y="317" text-anchor="middle" font-family="Arial" font-size="10" fill="#5f6368">state-dependent</text>
+  <text x="500" y="300" text-anchor="middle" font-family="Arial" font-size="11" fill="#5f6368">Model-free</text>
+  <text x="500" y="317" text-anchor="middle" font-family="Arial" font-size="10" fill="#9aa0a6">learned from data</text>
+  <text x="680" y="300" text-anchor="middle" font-family="Arial" font-size="10" fill="#5f6368">volatile / illiquid /</text>
+  <text x="680" y="315" text-anchor="middle" font-family="Arial" font-size="10" fill="#5f6368">regime-shifting books</text>
+</svg>

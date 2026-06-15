@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 360" width="800" height="360">
+  <rect width="800" height="360" fill="white"/>
+  <defs>
+    <marker id="arrowP" markerWidth="10" markerHeight="7" refX="10" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#5f6368"/>
+    </marker>
+  </defs>
+
+  <!-- Title -->
+  <text x="400" y="32" text-anchor="middle" font-family="Arial" font-size="18" fill="#202124" font-weight="bold">RL Execution Pipeline: From Order Book to Child Orders</text>
+
+  <!-- Stage 1 -->
+  <rect x="30" y="80" width="150" height="110" rx="10" fill="#e8f0fe" stroke="#1a73e8" stroke-width="2"/>
+  <text x="105" y="108" text-anchor="middle" font-family="Arial" font-size="13" fill="#1a73e8" font-weight="bold">Order-book data</text>
+  <text x="105" y="132" text-anchor="middle" font-family="Arial" font-size="11" fill="#5f6368">Message stream</text>
+  <text x="105" y="150" text-anchor="middle" font-family="Arial" font-size="11" fill="#5f6368">L2 depth, trades</text>
+  <text x="105" y="168" text-anchor="middle" font-family="Arial" font-size="11" fill="#5f6368">Point-in-time</text>
+
+  <line x1="180" y1="135" x2="210" y2="135" stroke="#5f6368" stroke-width="2" marker-end="url(#arrowP)"/>
+
+  <!-- Stage 2 -->
+  <rect x="215" y="80" width="150" height="110" rx="10" fill="#fef7e0" stroke="#fbbc04" stroke-width="2"/>
+  <text x="290" y="108" text-anchor="middle" font-family="Arial" font-size="13" fill="#f9a825" font-weight="bold">Feature state</text>
+  <text x="290" y="132" text-anchor="middle" font-family="Arial" font-size="11" fill="#5f6368">Inventory, time</text>
+  <text x="290" y="150" text-anchor="middle" font-family="Arial" font-size="11" fill="#5f6368">Spread, imbalance</text>
+  <text x="290" y="168" text-anchor="middle" font-family="Arial" font-size="11" fill="#5f6368">Volatility</text>
+
+  <line x1="365" y1="135" x2="395" y2="135" stroke="#5f6368" stroke-width="2" marker-end="url(#arrowP)"/>
+
+  <!-- Stage 3 -->
+  <rect x="400" y="80" width="150" height="110" rx="10" fill="#fce8e6" stroke="#ea4335" stroke-width="2"/>
+  <text x="475" y="108" text-anchor="middle" font-family="Arial" font-size="13" fill="#ea4335" font-weight="bold">Policy network</text>
+  <text x="475" y="132" text-anchor="middle" font-family="Arial" font-size="11" fill="#5f6368">Actor &#8594; action</text>
+  <text x="475" y="150" text-anchor="middle" font-family="Arial" font-size="11" fill="#5f6368">Critic &#8594; value</text>
+  <text x="475" y="168" text-anchor="middle" font-family="Arial" font-size="11" fill="#5f6368">Twin-target, smoothing</text>
+
+  <line x1="550" y1="135" x2="580" y2="135" stroke="#5f6368" stroke-width="2" marker-end="url(#arrowP)"/>
+
+  <!-- Stage 4 -->
+  <rect x="585" y="80" width="150" height="110" rx="10" fill="#e6f4ea" stroke="#34a853" stroke-width="2"/>
+  <text x="660" y="108" text-anchor="middle" font-family="Arial" font-size="13" fill="#34a853" font-weight="bold">Child orders</text>
+  <text x="660" y="132" text-anchor="middle" font-family="Arial" font-size="11" fill="#5f6368">Size + limit price</text>
+  <text x="660" y="150" text-anchor="middle" font-family="Arial" font-size="11" fill="#5f6368">Sent to venue</text>
+  <text x="660" y="168" text-anchor="middle" font-family="Arial" font-size="11" fill="#5f6368">Guardrail capped</text>
+
+  <!-- Training feedback bar -->
+  <rect x="215" y="245" width="520" height="60" rx="10" fill="#f1f3f4" stroke="#9aa0a6" stroke-width="1.5"/>
+  <text x="475" y="270" text-anchor="middle" font-family="Arial" font-size="13" fill="#5f6368" font-weight="bold">Training loop</text>
+  <text x="475" y="291" text-anchor="middle" font-family="Arial" font-size="11" fill="#5f6368">fills &#8594; reward = &#8722;implementation shortfall &#8594; gradient update of policy</text>
+
+  <!-- Feedback arrows -->
+  <path d="M 660 190 L 660 245" fill="none" stroke="#9aa0a6" stroke-width="2" stroke-dasharray="6,4" marker-end="url(#arrowP)"/>
+  <path d="M 290 245 L 290 192" fill="none" stroke="#9aa0a6" stroke-width="2" stroke-dasharray="6,4" marker-end="url(#arrowP)"/>
+  <text x="305" y="225" font-family="Arial" font-size="10" fill="#9aa0a6" font-style="italic">update</text>
+</svg>
