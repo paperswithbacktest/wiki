@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 420" width="800" height="420">
+  <rect width="800" height="420" fill="white"/>
+  <defs>
+    <marker id="arrow" markerWidth="10" markerHeight="7" refX="10" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#5f6368"/>
+    </marker>
+  </defs>
+
+  <text x="400" y="32" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" fill="#202124" font-weight="bold">Limit Order Book Prediction Pipeline</text>
+
+  <!-- Stage 1: raw LOB snapshot -->
+  <rect x="30" y="70" width="180" height="290" rx="10" fill="#e8f0fe" stroke="#1a73e8" stroke-width="2"/>
+  <text x="120" y="96" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#1a73e8" font-weight="bold">Raw Order Book</text>
+  <text x="120" y="114" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#5f6368">Top 10 levels / side</text>
+
+  <!-- ask levels (red) -->
+  <rect x="55" y="128" width="130" height="16" fill="#fce8e6" stroke="#ea4335" stroke-width="1"/>
+  <text x="62" y="140" font-family="Arial, sans-serif" font-size="10" fill="#ea4335">Ask 100.04  x 320</text>
+  <rect x="55" y="146" width="110" height="16" fill="#fce8e6" stroke="#ea4335" stroke-width="1"/>
+  <text x="62" y="158" font-family="Arial, sans-serif" font-size="10" fill="#ea4335">Ask 100.03  x 210</text>
+  <rect x="55" y="164" width="90" height="16" fill="#fce8e6" stroke="#ea4335" stroke-width="1"/>
+  <text x="62" y="176" font-family="Arial, sans-serif" font-size="10" fill="#ea4335">Ask 100.02  x 140</text>
+
+  <!-- mid line -->
+  <line x1="50" y1="190" x2="190" y2="190" stroke="#5f6368" stroke-width="1.5" stroke-dasharray="4,3"/>
+  <text x="120" y="202" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#5f6368" font-style="italic">mid-price</text>
+
+  <!-- bid levels (green) -->
+  <rect x="55" y="210" width="95" height="16" fill="#e6f4ea" stroke="#34a853" stroke-width="1"/>
+  <text x="62" y="222" font-family="Arial, sans-serif" font-size="10" fill="#188038">Bid 100.01  x 160</text>
+  <rect x="55" y="228" width="115" height="16" fill="#e6f4ea" stroke="#34a853" stroke-width="1"/>
+  <text x="62" y="240" font-family="Arial, sans-serif" font-size="10" fill="#188038">Bid 100.00  x 240</text>
+  <rect x="55" y="246" width="135" height="16" fill="#e6f4ea" stroke="#34a853" stroke-width="1"/>
+  <text x="62" y="258" font-family="Arial, sans-serif" font-size="10" fill="#188038">Bid  99.99  x 300</text>
+
+  <text x="120" y="300" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#5f6368">price + volume</text>
+  <text x="120" y="318" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#5f6368">each side, each level</text>
+  <text x="120" y="342" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#1a73e8" font-weight="bold">~4M events (FI-2010)</text>
+
+  <line x1="210" y1="215" x2="248" y2="215" stroke="#5f6368" stroke-width="2" marker-end="url(#arrow)"/>
+
+  <!-- Stage 2: input tensor -->
+  <rect x="252" y="120" width="170" height="190" rx="10" fill="#fef7e0" stroke="#fbbc04" stroke-width="2"/>
+  <text x="337" y="146" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#f9a825" font-weight="bold">Input Tensor</text>
+  <text x="337" y="168" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#5f6368">100 snapshots</text>
+  <text x="337" y="186" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#5f6368">x 40 features</text>
+  <!-- grid icon -->
+  <g stroke="#fbbc04" stroke-width="1" fill="#fff8e1">
+    <rect x="290" y="200" width="94" height="70"/>
+    <line x1="290" y1="217" x2="384" y2="217"/>
+    <line x1="290" y1="234" x2="384" y2="234"/>
+    <line x1="290" y1="251" x2="384" y2="251"/>
+    <line x1="313" y1="200" x2="313" y2="270"/>
+    <line x1="337" y1="200" x2="337" y2="270"/>
+    <line x1="360" y1="200" x2="360" y2="270"/>
+  </g>
+  <text x="337" y="292" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#5f6368">normalised price &amp; size</text>
+
+  <line x1="422" y1="215" x2="460" y2="215" stroke="#5f6368" stroke-width="2" marker-end="url(#arrow)"/>
+
+  <!-- Stage 3: model -->
+  <rect x="464" y="120" width="150" height="190" rx="10" fill="#fce8e6" stroke="#ea4335" stroke-width="2"/>
+  <text x="539" y="146" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#ea4335" font-weight="bold">Neural Net</text>
+  <text x="539" y="170" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#5f6368">CNN / LSTM /</text>
+  <text x="539" y="186" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#5f6368">Transformer</text>
+  <text x="539" y="212" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#5f6368">learns micro-</text>
+  <text x="539" y="228" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#5f6368">structure signal</text>
+  <text x="539" y="262" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#ea4335" font-weight="bold">horizon k =</text>
+  <text x="539" y="280" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#ea4335" font-weight="bold">10/20/50/100</text>
+
+  <line x1="614" y1="215" x2="652" y2="215" stroke="#5f6368" stroke-width="2" marker-end="url(#arrow)"/>
+
+  <!-- Stage 4: 3-class output -->
+  <rect x="656" y="120" width="118" height="190" rx="10" fill="#e6f4ea" stroke="#34a853" stroke-width="2"/>
+  <text x="715" y="146" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#188038" font-weight="bold">Forecast</text>
+  <rect x="672" y="166" width="86" height="30" rx="5" fill="#e6f4ea" stroke="#34a853" stroke-width="1.5"/>
+  <text x="715" y="186" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#188038" font-weight="bold">UP</text>
+  <rect x="672" y="204" width="86" height="30" rx="5" fill="#f1f3f4" stroke="#9aa0a6" stroke-width="1.5"/>
+  <text x="715" y="224" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#5f6368" font-weight="bold">STATIONARY</text>
+  <rect x="672" y="242" width="86" height="30" rx="5" fill="#fce8e6" stroke="#ea4335" stroke-width="1.5"/>
+  <text x="715" y="262" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#ea4335" font-weight="bold">DOWN</text>
+  <text x="715" y="294" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#5f6368">softmax 3-class</text>
+
+  <text x="400" y="398" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#5f6368" font-style="italic">Raw depth-of-book in, smoothed mid-price direction out</text>
+</svg>

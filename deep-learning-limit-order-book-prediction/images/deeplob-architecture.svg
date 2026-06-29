@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 420" width="800" height="420">
+  <rect width="800" height="420" fill="white"/>
+  <defs>
+    <marker id="adn" markerWidth="10" markerHeight="7" refX="10" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#5f6368"/>
+    </marker>
+  </defs>
+
+  <text x="400" y="32" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" fill="#202124" font-weight="bold">DeepLOB Architecture: Convolution → Inception → LSTM</text>
+
+  <!-- Input -->
+  <rect x="30" y="150" width="120" height="120" rx="10" fill="#e8f0fe" stroke="#1a73e8" stroke-width="2"/>
+  <text x="90" y="178" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#1a73e8" font-weight="bold">Input</text>
+  <text x="90" y="202" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#5f6368">100 x 40</text>
+  <text x="90" y="220" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#5f6368">time x</text>
+  <text x="90" y="236" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#5f6368">features</text>
+
+  <line x1="150" y1="210" x2="186" y2="210" stroke="#5f6368" stroke-width="2" marker-end="url(#adn)"/>
+
+  <!-- Conv block -->
+  <rect x="190" y="120" width="150" height="180" rx="10" fill="#fef7e0" stroke="#fbbc04" stroke-width="2"/>
+  <text x="265" y="146" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#f9a825" font-weight="bold">Conv Block</text>
+  <text x="265" y="170" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#5f6368">1x2 conv:</text>
+  <text x="265" y="186" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#5f6368">price + volume</text>
+  <text x="265" y="210" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#5f6368">stride across</text>
+  <text x="265" y="226" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#5f6368">10 levels</text>
+  <text x="265" y="256" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#5f6368" font-style="italic">learns depth</text>
+  <text x="265" y="270" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#5f6368" font-style="italic">imbalance</text>
+
+  <line x1="340" y1="210" x2="376" y2="210" stroke="#5f6368" stroke-width="2" marker-end="url(#adn)"/>
+
+  <!-- Inception -->
+  <rect x="380" y="120" width="150" height="180" rx="10" fill="#fce8e6" stroke="#ea4335" stroke-width="2"/>
+  <text x="455" y="146" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#ea4335" font-weight="bold">Inception</text>
+  <!-- parallel paths -->
+  <rect x="398" y="162" width="114" height="22" rx="4" fill="#fff" stroke="#ea4335" stroke-width="1"/>
+  <text x="455" y="177" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#5f6368">1x1 conv</text>
+  <rect x="398" y="190" width="114" height="22" rx="4" fill="#fff" stroke="#ea4335" stroke-width="1"/>
+  <text x="455" y="205" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#5f6368">3x1 conv</text>
+  <rect x="398" y="218" width="114" height="22" rx="4" fill="#fff" stroke="#ea4335" stroke-width="1"/>
+  <text x="455" y="233" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#5f6368">5x1 conv</text>
+  <text x="455" y="262" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#5f6368" font-style="italic">multi-scale</text>
+  <text x="455" y="276" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#5f6368" font-style="italic">dynamics</text>
+
+  <line x1="530" y1="210" x2="566" y2="210" stroke="#5f6368" stroke-width="2" marker-end="url(#adn)"/>
+
+  <!-- LSTM -->
+  <rect x="570" y="150" width="100" height="120" rx="10" fill="#e6f4ea" stroke="#34a853" stroke-width="2"/>
+  <text x="620" y="178" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#188038" font-weight="bold">LSTM</text>
+  <text x="620" y="202" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#5f6368">64 units</text>
+  <text x="620" y="222" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#5f6368">temporal</text>
+  <text x="620" y="238" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#5f6368">memory</text>
+
+  <line x1="670" y1="210" x2="700" y2="210" stroke="#5f6368" stroke-width="2" marker-end="url(#adn)"/>
+
+  <!-- Softmax -->
+  <rect x="704" y="160" width="70" height="100" rx="10" fill="#e8f0fe" stroke="#1a73e8" stroke-width="2"/>
+  <text x="739" y="186" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#1a73e8" font-weight="bold">Softmax</text>
+  <text x="739" y="210" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#188038">Up</text>
+  <text x="739" y="228" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#5f6368">Flat</text>
+  <text x="739" y="246" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#ea4335">Down</text>
+
+  <!-- footnote -->
+  <text x="400" y="350" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#202124" font-weight="bold">FI-2010 benchmark: F1 in the high-70s to mid-80s %, transfers across venues</text>
+  <text x="400" y="378" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#5f6368" font-style="italic">Zhang, Zohren &amp; Roberts (2019) — beat SVM, MLP and plain CNN baselines</text>
+</svg>

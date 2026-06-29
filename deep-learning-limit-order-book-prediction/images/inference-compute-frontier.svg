@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 460" width="800" height="460">
+  <rect width="800" height="460" fill="white"/>
+
+  <text x="400" y="32" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" fill="#202124" font-weight="bold">The Inference-Compute Frontier for LOB Prediction</text>
+  <text x="400" y="54" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#5f6368" font-style="italic">Predictive loss follows a power law in forward compute (log–log)</text>
+
+  <!-- Axes -->
+  <line x1="100" y1="380" x2="720" y2="380" stroke="#5f6368" stroke-width="2"/>
+  <line x1="100" y1="80" x2="100" y2="380" stroke="#5f6368" stroke-width="2"/>
+
+  <!-- Axis labels -->
+  <text x="410" y="418" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#202124" font-weight="bold">Forward compute per prediction (FLOPs, log scale) →</text>
+  <text x="40" y="230" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#202124" font-weight="bold" transform="rotate(-90 40 230)">Predictive loss (lower = better) →</text>
+
+  <!-- gridlines -->
+  <g stroke="#e0e0e0" stroke-width="1">
+    <line x1="224" y1="80" x2="224" y2="380"/>
+    <line x1="348" y1="80" x2="348" y2="380"/>
+    <line x1="472" y1="80" x2="472" y2="380"/>
+    <line x1="596" y1="80" x2="596" y2="380"/>
+    <line x1="100" y1="305" x2="720" y2="305"/>
+    <line x1="100" y1="230" x2="720" y2="230"/>
+    <line x1="100" y1="155" x2="720" y2="155"/>
+  </g>
+
+  <!-- x tick labels -->
+  <text x="100" y="398" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#5f6368">tree</text>
+  <text x="224" y="398" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#5f6368">MLP</text>
+  <text x="348" y="398" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#5f6368">CNN</text>
+  <text x="472" y="398" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#5f6368">DeepLOB</text>
+  <text x="620" y="398" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#5f6368">Transformer</text>
+
+  <!-- Fitted power-law frontier (descending) -->
+  <path d="M 110 130 C 220 200, 360 270, 500 308 C 580 330, 660 343, 715 350" fill="none" stroke="#1a73e8" stroke-width="3"/>
+  <text x="250" y="180" font-family="Arial, sans-serif" font-size="12" fill="#1a73e8" font-weight="bold">power-law fit</text>
+  <text x="250" y="198" font-family="Arial, sans-serif" font-size="12" fill="#1a73e8" font-weight="bold">R² = 0.941</text>
+
+  <!-- low/mid-compute scatter (used for fit) -->
+  <g fill="#34a853">
+    <circle cx="118" cy="122" r="5"/>
+    <circle cx="150" cy="150" r="5"/>
+    <circle cx="200" cy="190" r="5"/>
+    <circle cx="245" cy="218" r="5"/>
+    <circle cx="300" cy="250" r="5"/>
+    <circle cx="360" cy="278" r="5"/>
+    <circle cx="430" cy="300" r="5"/>
+  </g>
+  <!-- held-out high-compute target (MLPLOB family) -->
+  <g fill="none" stroke="#ea4335" stroke-width="2.5">
+    <circle cx="560" cy="332" r="7"/>
+    <circle cx="640" cy="344" r="7"/>
+    <circle cx="700" cy="350" r="7"/>
+  </g>
+  <text x="565" y="312" font-family="Arial, sans-serif" font-size="11" fill="#ea4335" font-weight="bold">held-out high-compute</text>
+  <text x="565" y="327" font-family="Arial, sans-serif" font-size="11" fill="#ea4335" font-weight="bold">target — extrapolated</text>
+
+  <!-- legend -->
+  <rect x="540" y="92" width="172" height="56" rx="6" fill="#fafafa" stroke="#dadce0" stroke-width="1"/>
+  <circle cx="556" cy="110" r="5" fill="#34a853"/>
+  <text x="568" y="114" font-family="Arial, sans-serif" font-size="11" fill="#5f6368">used for fit (low/mid)</text>
+  <circle cx="556" cy="132" r="6" fill="none" stroke="#ea4335" stroke-width="2.5"/>
+  <text x="568" y="136" font-family="Arial, sans-serif" font-size="11" fill="#5f6368">held out (verify)</text>
+
+  <!-- latency budget annotation -->
+  <line x1="472" y1="80" x2="472" y2="380" stroke="#fbbc04" stroke-width="2" stroke-dasharray="6,4"/>
+  <text x="478" y="98" font-family="Arial, sans-serif" font-size="11" fill="#f9a825" font-weight="bold">latency budget</text>
+  <text x="478" y="113" font-family="Arial, sans-serif" font-size="10" fill="#f9a825">slower → misses the quote</text>
+
+  <text x="410" y="448" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#5f6368" font-style="italic">Pick the cheapest model that meets target accuracy within the latency budget</text>
+</svg>
